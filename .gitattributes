@@ -13,6 +13,7 @@
 
 # (binary is a macro for -text -diff)
 *.png binary
+*.emf binary
 *.jpg binary
 *.jpeg binary
 *.gif binary

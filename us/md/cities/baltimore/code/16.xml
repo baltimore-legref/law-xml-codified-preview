@@ -1,0 +1,1104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Article</prefix>
+  <num>16</num>
+  <heading>Markets</heading>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>1</num>
+    <heading>Definitions; Scope</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>1-1</num>
+      <heading>"Stall space" defined.</heading>
+      <text>"Stall spaces" are:</text>
+      <para>
+        <num>(1)</num>
+        <text>inside market buildings;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>protected from the elements by roofs over the market buildings; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>designated and identified on plats of the several markets kept up to date by the Mayor or his authorized agent.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §1(a)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §1(a)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-2</num>
+      <heading>Scope of article.</heading>
+      <text><cite path="|16">This article</cite> shall apply to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Belair Market.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Broadway (Fells Point) Market.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Centre (Wholesale Fish) Market.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Cross Street Market.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Hollins Market.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Lafayette Market.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Northeast Market.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §1(b)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §1(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-3</num>
+      <heading>Market boundaries.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Belair Market.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The limits of the Belair Market shall include the whole of the lots belonging to the City of Baltimore upon which the market buildings now stand, but in no case shall those limits extend to any portion of the street beds or sidewalks adjacent to or abutting upon said lots.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The area between Ensor Street and Hillen Street, directly north of the market shed and being approximately 59 feet wide and extending approximately 114 feet on the east side and approximately 130 feet on the west side, is reserved as an area for the parking of motor vehicles, under the supervision of the Mayor.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The area between Low Street and Orleans Street, directly south of the market shed and being approximately 61 feet wide and extending approximately 146 feet on the east side and 136 feet on the west side, is hereby reserved as an area or space for the parking of motor vehicles, under the supervision of the Mayor.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Broadway (Fells Point) Market.</heading>
+        <text>The limits of the Broadway (Fell's Point) Market shall include the whole of the lots belonging to the City of Baltimore upon which the market buildings now stand, but in no case shall those limits extend to any portion of the street beds or sidewalks adjacent to or abutting upon said lots.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Centre (Wholesale Fish) Market.</heading>
+        <text>The limits of the Wholesale Fish Market shall be as follows:</text>
+        <text>Beginning at the building line at the southeast corner of Swan Street and Market Place, following said line southerly to Water Street; thence following the building line on the north side of Water Street easterly to West Falls Avenue; thence following the building line on the west side of West Falls Avenue northerly to Swan Street; thence following the building line on the south side of Swan Street westerly to the place of beginning.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Cross Street Market.</heading>
+        <text>The limits of the Cross Street Market shall include the whole of the lot belonging to the City on which it stands.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Hollins Market.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The limits of the Hollins Market shall include the whole of the lot belonging to the City on which it stands, together with both sides and the bed of Hollins Street from Carrollton Avenue to the curb line of the west side of Arlington Avenue.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Mayor or his authorized agent is authorized to rent the building generally known as Hollins Market Hall for other than market purposes, upon such other terms and conditions as the Mayor or his authorized agent shall deem just and proper, the lease executed to be first approved by the Mayor.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Lafayette Market.</heading>
+        <text>The limits of the Lafayette Market shall include the whole of the lot belonging to the City on which it stands, and the parking area adjacent thereto.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Northeast Market.</heading>
+        <text>The limits of the Northeast Market shall comprise the whole of the lot belonging to the City and bounded by Monument, McElderry, and Chester Streets and Duncan Alley, and also the whole width of Monument Street from Chester Street to Duncan Alley, the whole width of Chester Street from Monument to McElderry Street, and the whole width of McElderry Street from Chester Street to Duncan Alley.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §§6(a), 7 - 15, 19</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §§9(a), 10 - 16</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 57-751" type="History">Ord. 57-751</annotation>
+        <annotation doc="City of Balt., Md., Ord. 58-1231" type="History">Ord. 58-1231</annotation>
+        <annotation doc="City of Balt., Md., Ord. 62-1269" type="History">Ord. 62-1269</annotation>
+        <annotation doc="City of Balt., Md., Ord. 65-474" type="History">Ord. 65-474</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>2</num>
+    <heading>Lease of Stall Space</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>2-1</num>
+      <heading>In general.</heading>
+      <text>Leases for any stall spaces in the several markets shall be issued and be effective according to the provisions of this subtitle.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(a)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(a)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 65-474" type="History">Ord. 65-474</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-2</num>
+      <heading>Method of leasing.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Review of available options.</heading>
+        <text>Any person applying for a space in a market shall be:</text>
+        <para>
+          <num>(1)</num>
+          <text>shown all available spaces in that market; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>advised of all possible options regarding rental.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Applications and responses.</heading>
+        <text>All requests for stall space must be made in writing and sent by certified mail to the Mayor or his authorized agent and stamped by his staff as to date and time of receipt.  All replies to these requests must be made in writing and copies retained for at least 3 years.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(b)(1st sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(b)(1st - 3rd sens.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-3</num>
+      <heading>Contents, approval, tenor, record.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Contents.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Each lease shall specify:</text>
+          <para>
+            <num>(i)</num>
+            <text>the terms of the tenure; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the number and other description of the stall space or section.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Each lease shall distinctly express:</text>
+          <para>
+            <num>(i)</num>
+            <text>the number or other description of the stall space or section;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the market wherein it is located; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the terms of the lease.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Approval by Mayor.</heading>
+        <text>A copy of the lease shall be shall be sent to the Mayor to be approved by him.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Tenor.</heading>
+        <text>The right of occupancy following the execution of the lease and the payment of the rental fee shall authorize the lessee of any such stall space or section to occupy it only on the regular market days prescribed for the particular market.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Record of leases.</heading>
+        <text>The Mayor or the Mayor's authorized agent must keep a full record of the name of each lessee and the terms and tenure of the lease, in a book to be kept for that purpose.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(b)(1st sen.), (d), (h)(2nd sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(b)(4th, 5th sens.),(d), (g)(2nd sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-4</num>
+      <heading>Rental payments.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Occupancy contingent on payment.</heading>
+        <text>The issue and granting of the lease shall be subject to the payment of the rental fee prescribed therefor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Amount.</heading>
+        <text>The amount of the rental fee for the stall spaces and sections shall be established by the Mayor, with the approval of the Board of Estimates.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>How payable.</heading>
+        <text>Rental shall be payable in advance, either annually, semi-annually, quarter-annually, or monthly, as may be agreed upon and with the approval of the Mayor or his authorized agent.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Penalties for nonpayment.</heading>
+        <para>
+          <num>(1)</num>
+          <text>If the rental fee for the coming year, half-year, quarter-year, or month, as the case may be, is not paid within 15 days from the commencement of that year, half-year, quarter-year, or month, as the case may be:</text>
+          <para>
+            <num>(i)</num>
+            <text>a penalty at the rate of 10% of the rental fee shall forthwith be added thereto; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>thereafter, a penalty of 10% per month for each month or portion of a month, in that quarter, shall be imposed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The entire rental fee plus the penalty shall be due and payable before the applicant is granted any further lease or renewal thereof under <cite path="|16">this article</cite>.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(c), (h)(1st sen.), (l)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(c), (g)(1st sen.), (i)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-5</num>
+      <heading>Subletting or assigning.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Subletting prohibited.</heading>
+        <text>The lessee of any section or space in the wholesale Fish or Retail Markets shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>use and occupy it; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>not be permitted to rent or sublease it to any firm, corporation, or person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Assignment permitted.</heading>
+        <text>With the approval of the Mayor, any such lease shall be transferable, provided the lease <em>{sic}</em> shall comply with all laws and ordinances of the City of Baltimore relating to markets.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(e), (s)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(e), (p)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 66-743" type="History">Ord. 66-743</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-6</num>
+      <heading>Forfeiture for nonuse.</heading>
+      <text>Failure to use and occupy any stall space or section for which a lease has been issued, within 90 days after the commencement of the period for which a rental fee has been paid, shall cause a forfeiture of all right, privilege, and interest of the lessee in the use and occupancy of the stall space or section, and all such right, privilege, and interest of the lessee shall forthwith cease and revert to the Mayor and City Council of Baltimore.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(m)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(j)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-7</num>
+      <heading>Renewals.</heading>
+      <text>All applications for renewal of leases must be filed with the Mayor or his authorized agent on or before 60 days prior to the expiration of the current lease.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(n)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(k)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 66-743" type="History">Ord. 66-743</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-8</num>
+      <heading>Removal of property on expiration of lease.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Removal required.</heading>
+        <text>Upon the expiration of the lease for any stall space or section, the lessee shall forthwith remove therefrom within 5 days any fixtures, furniture, or other items of personal property which belong to him.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Unremoved property considered abandoned.</heading>
+        <text>After 5 days, all fixtures, furniture, and personal property will be considered abandoned, and the Mayor or his authorized agent shall have the right of removal or disposal.  The cost of the removal shall be charged to the merchant abandoning said fixtures, furniture, or personal property.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(w)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(t)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 58-1218" type="History">Ord. 58-1218</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-9</num>
+      <heading>Use of vacant stall space.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Any person who may bring provisions or articles of any description, the sale of which is not prohibited at that market, for sale on a market day during market hours, shall be authorized to occupy any vacant stall space or section upon payment to the Mayor or his authorized agent for the use of the Director of Finance the sum of $10 for each day or part of a day he shall use and occupy the stall space or section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Permission required for leased space or section.</heading>
+        <text>If a lease has been issued for the use of a stall space or section, no person shall be permitted to occupy that stall space or section under the provisions of this section without the consent of the lessee.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(j)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(h)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>3</num>
+    <heading>General Maintenance Requirements</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>3-1</num>
+      <heading>Alteration of spaces.</heading>
+      <text>No lessee shall make any installations or alterations on any the leased stall spaces until:</text>
+      <para>
+        <num>(1)</num>
+        <text>plans have been submitted to and approved by the Mayor or his authorized agent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>a permit therefor has been obtained from the Commissioner of Housing and Community Development; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the approval of the Health Department of Baltimore City has been obtained where said approval is required.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(o)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(l)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-2</num>
+      <heading>Utilities.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Wiring.</heading>
+        <text>The electric wiring on all stall spaces must be in accordance with the <cite path="|building-codes|III">Electric Code</cite> of Baltimore City.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Plumbing.</heading>
+        <text>No lessee shall perform or have performed on the leased stall space any plumbing or drainage work:</text>
+        <para>
+          <num>(1)</num>
+          <text>except under the supervision of the Commissioner of Health; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>unless a permit be issued therefor.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(p), (v)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(m), (s)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-3</num>
+      <heading>Sanitation.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>No lessee shall permit any garbage, rubbish, or other waste material to accumulate on the premises.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Required containers.</heading>
+        <text>He shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>provide containers for the disposition of same that conform with the requirements of the Bureau of Sanitation of Baltimore City; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>keep such containers covered at all times.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(u)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(r)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-4</num>
+      <heading>Fires.</heading>
+      <text>No fires, stoves, or fire pots shall be allowed in the wholesale Fish or Retail Markets.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(t)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(q)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-5</num>
+      <heading>Signs.</heading>
+      <text>It shall be unlawful for any person to erect any swinging signs or projecting signs in any market of the City of Baltimore.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(g)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §7(f)(1st sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>4</num>
+    <heading>General Operational Requirements</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>4-1</num>
+      <heading>Market days and hours.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Market days.</heading>
+        <text>Market days for all stall spaces shall be on every day except Sunday and holidays.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Market hours.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Except for the Wholesale Fish Market, for which a separate provision is made, and except as otherwise provided in this section, market hours at the several markets shall begin at 6 a.m. and end at 6 p.m on all market days.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On Saturdays, market hours shall begin at 6 a.m. and end at 10 p.m.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The hours specified herein as market hours for Saturday shall also apply to the days immediately preceding the Fourth of July, Thanksgiving Day, Christmas Day, and New Year's Day, unless the day immediately preceding any such specified holiday would fall on a Sunday.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Modifications.</heading>
+        <text>Provided, however, that the Mayor shall have the right, after meeting with the merchants for that purpose, to change the periods during which any or all of the markets are to be opened to cover periods not specified hereinabove when, in his opinion, the best interests of the public markets will be served by such change.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Lease cancellation for noncompliance.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Mayor may cancel the an existing lease, after giving 30 days' notice in writing by certified mail, of any merchant failing to conform to the designated hours, when, in the opinion of the Mayor, such cancellation is in the best interest of the public markets.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An aggrieved merchant can appeal a notice of cancellation within 15 days of its receipt to the Market Appeals Board for its review and decision.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The members of the Board are:</text>
+          <para>
+            <num>(i)</num>
+            <text>the Commissioner of the Department of Housing and Community Development or the Commissioner's designee;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the President of the Baltimore Development Corporation or the President's designee;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the President of the Market Association where the stall space is located; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>a member of the City Council appointed by the President of the Council.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §§4, 5, 11(1st sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §§4, 5, 15(d)(1st sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 58-1587" type="History">Ord. 58-1587</annotation>
+        <annotation doc="City of Balt., Md., Ord. 65-743" type="History">Ord. 65-743</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 82-638" type="History">Ord. 82-638</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+        <annotation doc="City of Balt., Md., Ord. 89-264" type="History">Ord. 89-264</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-2</num>
+      <heading>Merchandise.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Except as to the Wholesale Fish Market for which separate provision is made, nothing in <cite path="|16">this article</cite> contained shall be construed as limiting the sale to foodstuffs exclusively.  However, the occupant or tenant shall, when making his application for an original lease or for the renewal of an existing lease, clearly set forth in each application and in each succeeding application, merchandise or articles to be sold under his particular lease.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Changes.</heading>
+        <text>The class or type of merchandise, articles, or foodstuffs offered for sale, shall not be changed during the tenancy of the lessee without expressed written approval of the Mayor or his authorized agent.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Lease cancellation for noncompliance.</heading>
+        <text>Any occupant or tenant violating the provisions of this section shall suffer the revocation of his or her lease.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §16</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §6</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 65-743" type="History">Ord. 65-743</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-892" type="History">Ord. 75-892</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-426" type="History">Ord. 81-426</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-3</num>
+      <heading>Sale of fish and seafood.</heading>
+      <text>Fresh fish and seafood shall be sold only in that section of the market set aside for the sale of fresh fish and seafood.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(f)(1st sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §7(e)(1st sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-4</num>
+      <heading>Platform or base required.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The lessee of any stall space or section:</text>
+          <para>
+            <num>(i)</num>
+            <text>shall operate the same upon a raised platform which is not less than 20 inches above the surrounding pavement; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>in the alternative, may operate the stall space upon a concrete base not less than 8 inches thickness, extending under the entire stall space and resting at least 8 inches above the surrounding pavement.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The lessee shall not have under his stall space any box, closet, or other receptacle of any kind whatsoever, unless:</text>
+          <para>
+            <num>(i)</num>
+            <text>it shall be raised not less than 20 inches above the surrounding pavement; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>in the alternative, being resting upon such a concrete base of not less than 8 inches thickness.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Notice.</heading>
+        <text>It shall be the duty of the Mayor or his authorized agent to notify every person holding a lease for a stall space in that market to comply with the provisions of this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Enforcement.</heading>
+        <text>Upon a failure to comply with the provisions of this section, the Mayor or his authorized agent shall have the authority to have the work done and charge it to the lessee, and such cost shall be added to and included in the license fee due and payable for the use of such stall space.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §3(1st - 4th, 6th sens.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §3(1st - 4th, 6th sens.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 81-246" type="History">Ord. 81-246</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-5</num>
+      <heading>Aisles to be free of merchandise.</heading>
+      <text>No person or persons shall place any article or expose for sale any goods, wares, or merchandise of any kind, in the aisleways of the several markets of the City during market hours.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(e)(1st cl.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §7(d)(1st cl.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-6</num>
+      <heading>Special provisions for Wholesale Fish Market.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Use.</heading>
+        <text>The Wholesale Fish Market is to be used solely for the purpose of receiving and dealing in fresh fish and other seafoods.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Fish boxes to be raised.</heading>
+        <text>Boxes used in packing fish for the Wholesale Fish Market shall be raised 6 inches from the floor so that the entire surface can be washed.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Daily washing.</heading>
+        <text>The Wholesale Fish Market shall be washed every market day between the hours of 2 p.m. and 5 p.m.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §§9, 10, 11(2nd sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §15(b), (c), (d)(2nd sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>5</num>
+    <heading>Protective Measures</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>5-1</num>
+      <heading>Minor privilege stalls or stands precluded.</heading>
+      <text>No permit shall be issued for minor privilege stalls or stands within 2 blocks of the limits of the several markets, as herein defined, except for:</text>
+      <para>
+        <num>(1)</num>
+        <text>outdoor table service, when accessory to a restaurant use; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>a property owner who has operated a business in the same block since 1931, when accessory to the business conducted at that location.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(q)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(n)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-2</num>
+      <heading>Wholesale fish sales near Wholesale Fish Market prohibited.</heading>
+      <text>It shall be unlawful for any person, firm, or corporation to sell fish or other seafood at wholesale in any of the markets adjacent to or in any of the streets surrounding or bounding upon the Wholesale Fish Market.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §12</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §15(e)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-3</num>
+      <heading>Defacing, etc., buildings.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Mayor to prevent.</heading>
+        <text>It shall be the duty of the Mayor or his authorized agent to prevent bill posting, defacing, mutilating, or injuring any portion of the market buildings in any manner whatsoever.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Prohibited conduct.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person may post bills, deface, mutilate, or injure any portion of said market buildings.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It shall be unlawful:</text>
+          <para>
+            <num>(i)</num>
+            <text>to deface any portion of a market house or any part thereof;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>to throw or cause to be thrown any stone, brick, or any other missile upon or against the market house;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>to place any trestle or lumber on the roof of the market house; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>to climb or to walk upon the roof.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §3(exc 2nd sen., 2nd cl.), §17(h)(1st sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(o)(exc 2nd sen., 2nd cl.), §7(g)(1st sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>6</num>
+    <heading>Market Associations</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>6-1</num>
+      <heading>Formation.</heading>
+      <text>Each retail public market is hereby authorized to form a Market Association after the effective date of this subtitle.  In the event that 75% of the stall owners of a particular market desire to form such an association, then authority is hereby given for such action.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 16, §17(a)(1st, 2nd sens.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1000" type="History">Ord. 71-1000</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-2</num>
+      <heading>Members and officers.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Members.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every stall owner in each retail public market shall automatically become a member of the Association when it is formed, each member enjoying the same privileges and responsibilities as all other members.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Each member shall be entitled to 1 vote only.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Officers.</heading>
+        <text>The officers of the Association shall be the President, Vice President, Treasurer, Secretary, and such other officers as the members may elect.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 16, §17(a)(3rd, 4th sens.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1000" type="History">Ord. 71-1000</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-3</num>
+      <heading>Meetings.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Annual meeting; election of officers.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Association shall hold an annual meeting in the last quarter of each year, due written notice being given to all members not less than 10 days and not more than 30 days in advance of such meeting.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Among other business conducted at this meeting will be the election of officers.  Each administration shall serve for 1 year, with the newly elected administration taking office on January 1.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Other meetings.</heading>
+        <text>Regular or special meetings may be called throughout the year by the President or by a majority of the membership.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 16, §17(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1000" type="History">Ord. 71-1000</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-4</num>
+      <heading>Assessments, rules, and recommendations.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Assessments and rules.</heading>
+        <text>The officers of the Market Association, with the majority approval of the members, may:</text>
+        <para>
+          <num>(1)</num>
+          <text>establish a proportionate assessment fee for the stall owners; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>establish other rules designed for the general welfare of the Association, which may include but not be restricted to such activities as security services, guards, community relations, advertising, market hours, etc.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Recommendations subject to approval of Mayor.</heading>
+        <para>
+          <num>(1)</num>
+          <text>All recommendations, with the exception of election of officers, approved by a majority of the Association members, will be submitted in writing to the Mayor or his authorized agent for his review and approval not more than 30 days after such decisions have been reached.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Within 30 days after reception of such recommendations, the Mayor or his authorized agent shall approve or disapprove of them in writing to the President of the appropriate Market Association.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All approved recommendations will then become binding on all members.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 16, §17(c)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1000" type="History">Ord. 71-1000</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+        <annotation doc="City of Balt., Md., Ord. 85-516" type="History">Ord. 85-516</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-5</num>
+      <heading>Members' nonpayment of dues, etc.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Recommendations to Mayor.</heading>
+        <text>The President of the Market Association, with the majority approval of the members, may recommend to the Mayor or his authorized agent non-renewal of licenses to those members who fail to pay any dues or assessments which may be levied against the members of the Association.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>License non-renewal.</heading>
+        <text>If in the judgment of the Mayor or his authorized agent such recommendation is justified, he will:</text>
+        <para>
+          <num>(1)</num>
+          <text>duly advise such members in writing, giving them not less than 30 days in which to make the said payment; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>failing that, to deny renewal of the license at the expiration of the current period for which they have paid.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 16, §17(d)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1000" type="History">Ord. 71-1000</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-6</num>
+      <heading>Special fund accounts.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Director of Finance to collect and deposit assessments.</heading>
+        <text>The Director of Finance:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall collect the assessment fees from the stall owners of the markets; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>shall maintain a special fund account for each public market to which are credited the collections from that market.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Transfer to Association.</heading>
+        <text>The assessment fees collected from the stall owner in any one of the markets shall be transferred to the appropriate Market Association according to the terms of the agreement made between that Market Association and the Director of Finance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Funds dedicated to Association purposes.</heading>
+        <text>The fund comprised of the assessment fees collected for a public market in accordance with this section shall be utilized solely for purposes determined by the stall owners of that market.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Fee for services.</heading>
+        <text>With the approval of the Board of Estimates, the Director of Finance may set a reasonable fee to be charged to each Market Association for the collection, accounting, and administrative services performed by the City, in an amount not to exceed the actual cost of said services.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 16, §17(e)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+        <annotation doc="City of Balt., Md., Ord. 85-516" type="History">Ord. 85-516</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>7</num>
+    <heading>Market Advisory Committee</heading>
+    <reason>Repealed By Ord. 13-175</reason>
+    <annotations>
+      <annotation type="Editor's Notes">The Market Advisory Committee, established in 1983, no longer functions.  Its functions and duties have been assumed by the Baltimore Public Markets Corporation, established in 1994.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>8</num>
+    <heading>Penalties</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>8-1</num>
+      <heading>Revocation of license.</heading>
+      <text>If any occupant, tenant, or agent of such occupant or tenant, shall violate any directive, order, or ordinance of the municipal government, or violate any municipal, state, or federal law, regulation, or order, providing such violation shall occur in the market areas, or in any way in connection with the operation of said stall <em>{sic}</em>, the Mayor or his authorized agent, with the approval of the Board of Estimates, may revoke the license of said owner or occupant.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §18</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §8</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-421" type="History">Ord. 56-421</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>8-2</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-3</num>
+      <heading>Basic penalty: $50.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Violations a misdemeanor.</heading>
+        <text>Any person who shall violate any provision of <cite path="|16">this article</cite> shall be deemed guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Basic penalty: $50.</heading>
+        <text>Upon conviction thereof, if no other penalty is prescribed in <cite path="|16">this article</cite>, he shall be subject to a fine of not exceeding $50 for each such offense.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(a)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §7(a)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-4</num>
+      <heading>Defacing, etc.: $25.</heading>
+      <text>Violation of the provisions of <cite path="|16|§5-3|(b)">§ 5-3(b) of this article</cite> shall be subject to a penalty of not exceeding $25 for each such violation.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(r)(2nd sen., 2nd cl.), §17(h)(2nd sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §2(o)(2nd sen., 2nd cl.), §7(g)(2nd sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-5</num>
+      <heading>Blocking aisles: $25.</heading>
+      <text>Violating <cite path="|16|§4-5">§ 4-5 of this article</cite> is subject to a penalty not exceeding $25 for each such offense.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(e)(2nd cl.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §7(d)(2nd cl.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-6</num>
+      <heading>Absence of platform or base: $50 per week.</heading>
+      <text>Failure to comply with <cite path="|16|§4-4">§ 4-4 of this article</cite> shall be deemed a misdemeanor and, upon conviction thereof, shall be subject to a penalty of $50 for each and every week or portion thereof that the provisions of that section are not complied with.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §3(5th sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §3(5th sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-7</num>
+      <heading>Resisting or obstructing enforcement: $100.</heading>
+      <text>If any person shall resist or obstruct the Mayor or his authorized agent or any market employee in the execution of his duty, the fine upon conviction shall be a sum not exceeding $100.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(b)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §7(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1074" type="History">Ord. 83-1074</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-8</num>
+      <heading>Sale of seafood outside designated section: $25 - $100.</heading>
+      <text>Any person, firm, or corporation refusing or failing to comply with the requirements of <cite path="|16|§4-3">§ 4-3 of this article</cite> shall be subject to a fine of not less than $25 nor more than $100 for each offense.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(f)(2nd sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §7(e)(2nd sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-9</num>
+      <heading>Prohibited signs: $25 per day.</heading>
+      <text>Violation of the provisions of <cite path="|16|§3-5">§ 3-5 of this article</cite> shall be subject to a fine of $25 for each day the violation continues.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(g)(2nd sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16, §7(f)(2nd sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-10</num>
+      <heading>Occupying stall without lease: $25 - $100 per day.</heading>
+      <text>Any person or persons occupying a stall space on any day for which a lease has not been obtained under the provisions of <cite path="|16">this article</cite> shall be subject to a fine of not less than $25 nor more than $100 for each such offense.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 16, § 17(c)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 16,§ 7(c)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-783" type="History">Ord. 75-783</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

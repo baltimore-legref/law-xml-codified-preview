@@ -1,0 +1,872 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-317">
+  <num type="law">24-317</num>
+  <num type="bill">23-0418</num>
+  <heading type="short">Tobacco Products  – Tobacco Product Use in Stadiums – Prohibition</heading>
+  <heading type="long">An Ordinance Concerning Tobacco Products  – Tobacco Product Use in Stadiums – Prohibition</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-08-21</introduced>
+    <effective>2024-03-13</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/29de0c7b-1160-4234-a252-9dbb6a84ac35.pdf">Ord. 24-317</citation>
+    </citations>
+    <history>
+      <vote date="2023-08-21" reading="first"/>
+      <vote date="2024-01-29" reading="second"/>
+      <enacted>2024-03-13</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="|health|12" codified:doc="City of Baltimore, Md., Code" codified:path="health|§12-1001|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>10</num>
+        <heading>Tobacco Product Use in Stadiums</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>12-1001</num>
+          <heading>Definitions</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>In general</em>.</text>
+            <text>In this subtitle, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Electronic smoking device.</em>
+            </text>
+            <text>"Electronic smoking device" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|health|12|1|12-101">§ 12-101 {"Definitions"}</cite> of <cite doc="City of Baltimore, Md., Code" path="|health|12">this title</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Professional sporting event.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>"Professional sporting event" means any sporting or athletic event for which the competing athletes receive monetary payment for participation.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Inclusions.</em>
+              </text>
+              <text>"Professional sporting event" includes:</text>
+              <para>
+                <num>(i)</num>
+                <text>a collegiate sporting or athletic event;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>an Olympic or international sporting or athletic event; or</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>a motor race event.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>
+                <em>Exclusions.</em>
+              </text>
+              <text>"Professional sporting event" excludes:</text>
+              <para>
+                <num>(i)</num>
+                <text>a high school sporting or athletic event; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>an amateur sporting or athletic event for which the competing athletes do not receive monetary payment for participation.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><em>Tobacco product</em>.</text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>"Tobacco product" means a product that is:</text>
+              <para>
+                <num>(i)</num>
+                <text>intended for human consumption or likely to be consumed, whether inhaled, chewed, absorbed, dissolved, smoked, or ingested in any other manner, and that is made or derived from, or that contains:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>tobacco; or</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>nicotine; or</text>
+                </para>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>an accessory or a component used in any manner of consumption described under subparagraph (i) of this paragraph.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Inclusions.</em>
+              </text>
+              <text>"Tobacco product" includes:</text>
+              <para>
+                <num>(i)</num>
+                <text>cigarettes;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>cigars;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>pipe tobacco;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>chewing tobacco;</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>snuff;</text>
+              </para>
+              <para>
+                <num>(vi)</num>
+                <text>snus;</text>
+              </para>
+              <para>
+                <num>(vii)</num>
+                <text>electronic smoking devices;</text>
+              </para>
+              <para>
+                <num>(viii)</num>
+                <text>filters;</text>
+              </para>
+              <para>
+                <num>(ix)</num>
+                <text>rolling papers;</text>
+              </para>
+              <para>
+                <num>(x)</num>
+                <text>pipes; and</text>
+              </para>
+              <para>
+                <num>(xi)</num>
+                <text>liquids used in electronic smoking devices, regardless of nicotine content.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>
+                <em>Exclusions.</em>
+              </text>
+              <text>"Tobacco product" does not include drugs, devices, or combination products approved for sale by the United States Food and Drug Administration, as defined in the Federal Food, Drug, and Cosmetic Act.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><em>Stadium</em>.</text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>"Stadium" means a structure with tiers of seats rising around a field or court, or another area where sporting events occur, intended to be used:</text>
+              <para>
+                <num>(i)</num>
+                <text>primarily for the viewing of athletic events; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>secondarily, for entertainment and other public gathering purposes.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Inclusions.</em>
+              </text>
+              <text>"Stadium" includes:</text>
+              <para>
+                <num>(i)</num>
+                <text>any "athletic facility", as defined in § 12-801 {"Definitions"} of this title; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>any swimming pool or other body of water that is used:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>to train or practice for competitive swimming or diving; or</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>for sporting events.</text>
+                </para>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>12-1002</num>
+          <heading>Use prohibition - Stadiums.</heading>
+          <text>Use of a tobacco product in any manner is prohibited in any stadium.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>12-1003</num>
+          <heading>Enforcement by citation.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
+            <para>
+              <num>(1)</num>
+              <text>an environmental citation as authorized by City Code <cite doc="City of Baltimore, Md., Code" path="|1|40">Article 1, Subtitle 40 {"Environmental Control Board"}</cite>; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>a civil citation as authorized by City Code <cite doc="City of Baltimore, Md., Code" path="|1|41">Article 1, Subtitle 41 {"Civil Citations"}</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Process not exclusive</em>.</text>
+            <text>The issuance of a citation to enforce this subtitle does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>12-1004</num>
+          <heading>Civil penalties: $500.</heading>
+          <text>Any person who violates any provision of this subtitle is subject to a civil fine of not more than $500 for each violation.</text>
+        </section>
+      </container>
+    </codify:insert>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|1|40|40-14|(e)|(7)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)">
+      <para>
+        <num>(7)</num>
+        <text>
+          <strong>
+            <em>
+              <cite path="|health" doc="City of Balt., Md., Ord. 24-317">Health Code</cite>
+            </em>
+          </strong>
+        </text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>Title 3:  Health Facilities</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 5:  Limited-Service Pregnancy Centers</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td>Title 4:  Disease Control</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 6:  Screening for Lead Poisoning</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 4-601.  Parental Responsibility</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td>Title 5:  Nuisance Control</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Nuisance Abatement</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 5-210.  Abatement notice</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 4:  Lead-Based Paint</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 5:  Bodily Wastes</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 5-501.  Spitting</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 5-503.  Urinating, etc. - In general</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 5-504.  Urinating, etc. - Parents</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 7:  Weeds</td>
+                <td>$50</td>
+              </tr>
+              <tr>
+                <td>Title 6:  Food Service Facilities</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  License Required</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 6-201.  In general</td>
+                <td>$300</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 5:  Miscellaneous Regulations</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 6-506.  Litter and rubbish prohibited</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 6-508.  Polystyrene foam products</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">All other provisions</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td>Title 7:  Waste Control</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Solid Waste Collection</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 4:  Landfills</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 6:  Prohibited Disposal</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 7:  Littering</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td>Title 8:  Air Pollution</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td>Title 9:  Noise Regulation</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Basic Sound Level Standards</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 3:  Entertainment and Commercial Noise</td>
+                <td>$50</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 4:  Amplified Sounds in Market Center</td>
+                <td>$50</td>
+              </tr>
+              <tr>
+                <td>Title 10:  Animal Control and Protection</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 1:  General Provisions</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-112. Obstructing, etc., officer; False Statements</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Licensing</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Part I.  Dog and Cat Licenses</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Part II.  Facility Licenses</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-3">Animal fanciers</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-3">All other facilities</td>
+                <td>$250</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 3:  General Care and Control</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-301.  Rabies – Vaccinations</td>
+                <td>$250</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-302.  Rabies – Possible exposure</td>
+                <td>$250</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-303.  Humane care required</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-307.  Restraints required</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-3">1st offense</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-3">2nd offense within 12 months of 1st</td>
+                <td>$400</td>
+              </tr>
+              <tr>
+                <td class="text-indent-3">3rd offense within 12 months of 1st</td>
+                <td>$600</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-313.  Animal waste</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">All other provisions</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 4:  Animal Protection</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 5: Public Nuisance Animals</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 6:  Wild Animals, etc.; Prohibited Animals</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 7: Attack Dogs; Dangerous and Vicious Animals</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-701.  Attack dogs</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-702.  Dangerous animals</td>
+                <td>$250</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-706.  Vicious animals – Keeping prohibited</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 9:  Horse Riding and Driving</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-918.  Sick or injured horses</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">All other provisions</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td>Title 11:  Swimming Pools</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 3:  Public Swimming Pools</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td>Title 12:  Tobacco Products and Smoking Devices</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 1:  Indoor Smoking</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Person smoking</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Employer, other person in charge</td>
+                <td>$750</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Sale of Unpackaged Cigarettes</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 4:  Placement of Tobacco Products and Smoking Devices</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 5:  Unlawful Distribution</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 6:  Flavored Tobacco Wrappings</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 7:  Mobile Vendors</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 8:  Smoking Near Playgrounds</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 9:  Nicotine Replacement Therapy Products</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 10:  Tobacco Product Use in Stadiums</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Non-professional sporting event</td>
+                <td>$50</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Professional sporting event</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td>Title 15:  Ephedrine Products</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Distribution to Minors</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 3:  Product Placement</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td>Title 16:  Psychoactive Substances</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Prohibited Conduct</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td>Title 19:  Pesticides</td>
+                <td>$250</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|1|41|41-14|(6)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14">
+      <para>
+        <num>(6)</num>
+        <text>
+          <strong>
+            <em>
+              <cite path="|health" doc="City of Balt., Md., Ord. 24-317">Health Code</cite>
+            </em>
+          </strong>
+        </text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>Title 3:  Health Facilities</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 5:  Limited-Service Pregnancy Centers</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td>Title 5:  Nuisance Control</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 5:  Bodily Wastes</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 5-501.  Spitting</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 5-503.  Urinating, etc. - In general</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 5-504.  Urinating, etc. - Parents</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td>Title 7:  Waste Control</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Solid Waste Collection</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 4:  Landfills</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 6:  Prohibited Disposal</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 7:  Littering</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td>Title 8:  Air Pollution</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td>Title 9:  Noise Regulation</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Basic Sound Level Standards</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 3:  Entertainment and Commercial Noise</td>
+                <td>$50</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 4:  Amplified Sounds in Market Center</td>
+                <td>$50</td>
+              </tr>
+              <tr>
+                <td>Title 10:  Animal Control and Protection</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 1: General Provisions</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 1-112.  Obstructing, etc., officer; False statements</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Licensing</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Part I.  Dog and Cat Licenses</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Part II.  Facility Licenses</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-3">Animal fanciers</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-3">All other facilities</td>
+                <td>$250</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 3:  General Care and Control</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-301.  Rabies – Vaccinations</td>
+                <td>$250</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-302.  Rabies – Possible exposure</td>
+                <td>$250</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-303.  Humane care required</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-307.  Restraints required</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-3">1st offense</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-3">2nd offense within 12 months of 1st</td>
+                <td>$400</td>
+              </tr>
+              <tr>
+                <td class="text-indent-3">3rd offense within 12 months of 1st</td>
+                <td>$600</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-313.  Animal waste</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">All other provisions</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 4:  Animal Protection</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 5: Public Nuisance Animals</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 6:  Wild Animals, etc.; Prohibited Animals</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 7: Attack Dogs; Dangerous and Vicious Animals</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-701.  Attack dogs</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-702.  Dangerous animals</td>
+                <td>$250</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-706.  Vicious animals – Keeping prohibited</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 9: Horse Riding and Driving</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 10-918.  Sick or injured horses</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-3">All other provisions</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td>Title 12:  Tobacco Products and Smoking Devices</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 1:  Indoor Smoking</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Person smoking</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Employer, other person in charge</td>
+                <td>$750</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2:  Sale of Unpackaged Cigarettes</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 4:  Placement of Tobacco Products and</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Smoking Devices</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 5:  Unlawful Distribution</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 6:  Flavored Tobacco Wrappings</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 7:  Mobile Vendors</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 8:  Smoking Near Playgrounds</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 9: Nicotine Replacement Therapy Products</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 10: Tobacco Product Use in Stadiums</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Non-professional sporting event</td>
+                <td>$50</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Professional sporting event</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td>Title 16:  Psychoactive Substances</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 2.  Prohibited Conduct</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td>Title 19: Pesticides</td>
+                <td>$250</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+    </codify:replace>
+  </section>
+</document>

@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 22-177">
+  <num type="law">22-177</num>
+  <num type="bill">22-0246</num>
+  <heading type="short">York Corridor Business Improvement District – Establishment</heading>
+  <heading type="long">An Ordinance Concerning York Corridor Business Improvement District – Establishment</heading>
+  <meta>
+    <stub/>
+    <introduced>2022-06-13</introduced>
+    <effective>2022-11-18</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/08ad702e-89dd-4b9c-8edd-15fc86921c44.pdf">Ord. 22-177</citation>
+    </citations>
+    <history>
+      <vote date="2022-06-13" reading="first"/>
+      <vote date="2022-09-19" reading="second"/>
+      <enacted>2022-11-18</enacted>
+      <committee>Favorable, with amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>5</num>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|14|9|9-4" codified:doc="City of Baltimore, Md., Code" codified:path="14|§9-4">
+      <section>
+        <prefix>§</prefix>
+        <num>9-4</num>
+        <heading>Powers and functions of Authority.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Powers.</em>
+          </text>
+          <text>To the greatest extent allowable by law, the Authority is and shall be deemed to be a special tax district, exercising only those powers as are provided for in this subtitle.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Authorized actions.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The Authority may acquire, hold, and use property as necessary to achieve its purposes.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Authority may engage the services of an administrator (the "Administrator"),      who may be an individual or an entity, to administer the programs and undertakings of the Authority.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Authority may sue and be sued.  However, the District, the Authority, its Board of Directors, and its Administrator shall benefit, to the fullest extent allowable by law, from all provisions of federal, state, and local law limiting the liability of employees, officers, agents, and officials of governmental bodies.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Authority may accept grants.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Authority may borrow funds for purposes consistent with the public purposes of the Authority.  However, no borrowing may be for a term beyond the date for the District's renewal under  <cite doc="City of Baltimore, Md., Code" path="|14|9|9-16">§ 9-16 {"4-year reviews"}</cite> of this subtitle;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Authority shall adopt an annual budget and shall propose, charge, and collect the taxes or charges on benefitted properties within the District, as authorized by <cite doc="City of Baltimore, Md., Charter" path="II|§(63)">City Charter Article II, § (63)</cite> and this subtitle.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>The Authority may create and enter into partnerships between it and various property owners.  These partnerships may provide for the provision of permitted services and benefits by the Authority in exchange for payments arranged by contract, donation, gift, services in kind, or other mechanism by which funds or benefits are provided to the Authority.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>The Authority may establish and elect officers not already provided for in this subtitle and provide for their terms and duties.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>The Authority may contract for and purchase goods and services, without having      to comply with City requirements governing wage scales, competitive bidding, or other procurement matters.  However, the Authority nonetheless shall be subject to applicable ordinances regarding City policy on encouraging and achieving goals for participation of minority and women's business enterprises in the contracting activities.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Subject to the approval of the Board of Estimates, the Authority may adopt, amend, and modify bylaws, consistent with <cite doc="City of Baltimore, Md., Charter" path="II|§(63)">City Charter Article II, § (63)</cite> and this subtitle.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>The Authority may implement its programs and goals directly through its           employees or through 1 or more contracts.  These contracts may be with independent contractors or contractual employees.</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>The Authority may assist in the leasing, marketing, and promotional activities within the District, to the extent those activities are approved by the governing Board of the Authority.</text>
+          </para>
+          <para>
+            <num>(13)</num>
+            <text>The Authority may appoint, hire, or engage auditors, accountants, attorneys, assistants, aides, employees, and advisors as it considers necessary for the proper performance of its duties, but consistent with this subtitle.</text>
+          </para>
+          <para>
+            <num>(14)</num>
+            <text>The Authority may do all other things necessary or convenient to carry out its goals, objectives, and powers.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|14|9|9-5" codified:doc="City of Baltimore, Md., Code" codified:path="14|§9-5">
+      <section>
+        <prefix>§</prefix>
+        <num>9-5</num>
+        <heading>Limitations on Authority.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Not agency of City or State.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The Authority is not and may not be deemed to be an agency of the Mayor and City of Baltimore or of the State of Maryland.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The officers and employees of the Authority are not and may not act as agents or      employees of the Mayor and City of Baltimore or the State of Maryland.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Unauthorized actions.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The Authority may not exercise any police or general powers other than those      authorized by State law and City ordinance.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Authority may not pledge the full faith or credit of the City.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Authority may not impose taxes against properties that are exempt under State law from ordinary property taxes.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Authority may not impose any taxes or charges in excess of those approved by      the Board of Estimates.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Authority may not exercise the power of eminent domain.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Authority may not extend its life without the approval of the City Council.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Except as otherwise provided by law, the Authority may not engage in competition      with the private sector.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Except as otherwise provided in <cite doc="City of Baltimore, Md., Code" path="|14|9|9-16">§ 9-17 {"Dissolution of District"}</cite> of this subtitle, the Authority may not revert charges or taxes collected under this subtitle to the General Fund of the City.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>The Authority may not employ individuals who reside outside of the City.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Except as required or appropriate to facilitate its normal operations, the Authority  may not incur debt.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>The Authority may not exercise any power specifically withheld by the terms of        either this subtitle or, if more restrictive, <cite doc="City of Baltimore, Md., Charter" path="II|§(63)">City Charter Article II, § (63)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Interpretation of powers.</em>
+          </text>
+          <text>The powers of the Authority shall be broadly interpreted to allow the Authority to achieve    the goals of <cite doc="City of Baltimore, Md., Charter" path="II|§(63)">City Charter Article II, § (63)</cite>, including the provision of supplementary security and maintenance services, the promotion and marketing of the District, and the provision of amenities in public areas.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|14|9|9-6" codified:doc="City of Baltimore, Md., Code" codified:path="14|§9-6">
+      <section>
+        <prefix>§</prefix>
+        <num>9-6</num>
+        <heading>Board of Directors.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The Authority shall be governed by and administered through a Board of Directors (the  "Board").</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Number and appointment.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The number of voting members of the full Board must be not less than 9, excluding   vacancies, and no more than 15.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Board has full authority to increase or decrease its membership, within the limits specified in this subsection.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Composition.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>Of the voting members of the Board:</text>
+            <para>
+              <num>(i)</num>
+              <text>1 shall be the Councilmember for the district;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>1 shall represent a not-for-profit institution with significant property holdings   along the York Road corridor;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>1 shall be a community representative, appointed by the York Road Partnership      or its successor organization;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>2 shall be commercial property owners or tenant merchants of the northern segment of the York Road Corridor, defined as the area of the District south of Northern Parkway and north of Benninghaus Road;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>2 shall be commercial property owners or tenant merchants of the central segment of the York Road Corridor, defined as the area of the District south of Benninghaus Road and north of Notre Dame Lane; and</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>Two shall be commercial property owners or tenant merchants of the southern segment of the York Road Corridor, defined as the area of the District south of Notre Dame Lane and north of 43rd Street.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>At all times, a majority of the Board must be representatives of property owners      subject to the tax imposed by this subtitle and must be so designated by the Board.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Terms to be staggered.</em>
+          </text>
+          <text>The terms of the members are staggered, as required by the terms of the members first   appointed.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>
+            <em>Exercise of Authority powers.</em>
+          </text>
+          <text>All powers of the Authority are exercised by and through the Board, unless delegated by the Board to 1 or more officers of the Board or to the Administrator.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>
+            <em>Bylaws.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The Board may adopt bylaws as it considers necessary to carry out the powers of the   Authority.  However, these bylaws may not be inconsistent with the terms of this subtitle or of <cite doc="City of Baltimore, Md., Charter" path="II|§(63)">City Charter Article II, § (63)</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All bylaws are subject to the approval of the Board of Estimates.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Board may establish its own procedures relating to the internal administration of the Authority, except as may be restricted by <cite doc="City of Baltimore, Md., Charter" path="II|§(63)">City Charter Article II, § (63)</cite> or this subtitle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>
+            <em>Officers.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The Board shall select from among its members individuals to serve as the chair,      vice-chair, treasurer, and secretary of the Authority.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>These officers serve at the pleasure of the Board.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Board may delegate to these officers those responsibilities that the Board considers appropriate.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>
+            <em>Renaming.</em>
+          </text>
+          <text>The Board may rename the District and the Authority by a simple majority vote of its members.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

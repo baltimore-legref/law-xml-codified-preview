@@ -1,0 +1,955 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-308" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-308</num>
+  <num type="bill">22-0195</num>
+  <heading type="short">Inclusionary Housing for Baltimore City</heading>
+  <heading type="long">An Ordinance Concerning Inclusionary Housing for Baltimore City</heading>
+  <meta>
+    <stub/>
+    <introduced>2022-02-07</introduced>
+    <effective>2024-07-20</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/91828f44-d1f9-4a83-b03d-43723e6dd3ee.pdf">Ord. 24-308</citation>
+    </citations>
+    <history>
+      <vote date="2022-02-07" reading="first"/>
+      <vote date="2023-11-20" reading="second"/>
+      <enacted>2024-01-22</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="13|§2B-1" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-1">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-1</num>
+        <heading>Definitions – General.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general</em>
+          </text>
+          <text>In this Subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Board.</em>
+          </text>
+          <text>"Board" means the Inclusionary Housing Board established by this subtitle.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Commissioner.</em>
+          </text>
+          <text>"Commissioner" means the Commissioner of the Department of Housing and Community Development or the Commissioner's designee.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Developer.</em>
+          </text>
+          <text>"Developer" means any person, firm, partnership, association, joint venture, corporation, or other entity or combination of entities that undertakes a residential project<em>.</em></text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><em>Department</em>.</text>
+          <text>"Department" means the Department of Housing and Community Development.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>
+            <em>Dwelling unit.</em>
+          </text>
+          <text>"Dwelling unit" or "unit" has the meaning stated in § 202.2 of the Baltimore City <cite path="|codes|VII" doc="City of Balt., Md., Ord. 24-308">Property Maintenance Code</cite>.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><em>Housing funds</em>.</text>
+          <text>"Housing funds" means Federal, State, or City funds designated explicitly for the purpose of providing affordable housing.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>
+            <em>Major public subsidy.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>"Major public subsidy" means the provision by the City or any of its agents or contractors of funds, resources, or financial assistance for a residential project.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Inclusions.</em>
+            </text>
+            <text>"Major public subsidy" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>the sale or transfer of land substantially below its appraised value;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>payment in lieu of taxes;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>tax increment financing;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>grants or loans that equal or exceed 15% of total projected project costs;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>tax credits; or</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>any other funds, resources, or financial assistance provided by the City as determined by any rule or regulation promulgated under this subtitle.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>
+            <em>Neighborhood.</em>
+          </text>
+          <text>"Neighborhood" means an area delineated by commonly accepted boundary, as determined by the Planning Director.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>
+            <em>Penthouse.</em>
+          </text>
+          <text>"Penthouse" means a floor on top of the uppermost story of a building, that is used for residential purposes and has luxurious features.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>
+            <em>Planning Director.</em>
+          </text>
+          <text>"Planning Director" means the Director of the Department of Planning or the Director's designee.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>
+            <em>Residential project.</em>
+          </text>
+          <text>"Residential project" means any new construction or any substantial renovation of an existing building that is designed, in whole or in part, to provide residential units.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text><em>Significant land use authorization</em>.</text>
+          <text>"Significant land use authorization" means any action of the Mayor, City Council, Board of Municipal and Zoning Appeals, or Zoning Administrator that increases the permissible number of dwelling units in a land area by 20 or more dwelling units above the number of dwelling units permitted before the action.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:recodify-section path="13|§2B-3" num-value="2B-2" after="§2B-1" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-2"/>
+    <codify:replace path="13|§2B-2" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-2">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-2</num>
+        <heading>Definitions – Affordability standards.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>In this Subtitle, the following terms relating to affordability standards have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><em>Affordable housing cost: Extremely low, very low, low, and moderate</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>An "extremely low" housing cost equals an amount not more than 1/12 of 30% of 30% of the AMI, adjusted for household size.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A "very low" housing cost equals an amount greater than 1/12 of 30% of 30% of the AMI, but not more than 1/12 of 30% of 50% of the AMI, adjusted for household size.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A "low" housing cost equals an amount greater than 1/12 of 30% of 60% of the AMI, but not more than 1/12 of 30% of 60% of the AMI, adjusted for household size.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>A "moderate" housing cost equals an amount greater than 1/12 of 30% of 80% of the AMI, but not more than 1/12 of 30% of 80% of the AMI, adjusted for household size.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Affordable unit.</em>
+          </text>
+          <text>"Affordable unit" means a dwelling unit that is required by this subtitle to be provided to a family earning an income that is either:</text>
+          <para>
+            <num>(1)</num>
+            <text>low income;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>moderate income;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>very low income; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>extremely low income.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>AMI.</heading>
+          <text>"AMI" means the area median income for the metropolitan region that encompasses Baltimore City, as published and annually updated by the United States Department of Housing and Urban Development.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><em>Eligible household</em>.</text>
+          <text>"Eligible household" meansa household with extremely low, very low, low, or moderate income.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>
+            <em>Extremely low income.</em>
+          </text>
+          <text>"Extremely low income" means a household income below 30% AMI.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><em>Housing cost</em>.</text>
+          <text>"Housing cost" means for rental units, a monthly payment for lease, sublet, let, or other rights to occupy a residential unit, excluding utilities, parking, and discretionary fees.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>
+            <em>Low income.</em>
+          </text>
+          <text>"Low income" means a household income at or below 60% AMI.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text><em>Market rate</em>.</text>
+          <text>"Market rate" means not restricted to an affordable rent or affordable ownership cost.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>
+            <em>Moderate income.</em>
+          </text>
+          <text>"Moderate income" means a household income at or below 80% AMI.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>
+            <em>Very low income.</em>
+          </text>
+          <text>"Very low income" means a household income at or below 50% AMI.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:recodify-section path="13|§2B-7" num-value="2B-3" after="§2B-2" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-3"/>
+    <codify:replace path="13|§2B-3" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-3">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-3</num>
+        <heading>Rules and regulations.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>Subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the Commissioner, in consultation with the Planning Commission, must adopt rules and regulations to carry out the provisions of this subtitle.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><em>Scope – General</em>.</text>
+          <text>These rules and regulations may include provisions for:</text>
+          <para>
+            <num>(1)</num>
+            <text>defining, clarifying, or construing terms used in this subtitle;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>determining eligibility to rent affordable units; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>setting standards for rental prices for affordable units.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><em>Scope – Requiring timely response</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>The rules and regulations must require the Inclusionary Housing Board, the Housing Commissioner, and the Planning Department to provide timely and definitive responses to all submissions required from a developer under this subtitle.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Department shall compile the rules and regulations adopted under this section in a manual and make that manual available to the public.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:remove path="13|§2B-4" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-1|annos"/>
+    <codify:remove path="13|§2B-5" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-1|annos"/>
+    <codify:remove path="13|§2B-6" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-1|annos"/>
+    <codify:remove path="13|§2B-7" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-1|annos"/>
+    <codify:replace path="13|§2B-8 to 2B-10" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-4to2B-10">
+      <section name="2B-4to2B-10">
+        <num>2B-4 to 2B-10</num>
+        <reason>Reserved</reason>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|II|2B-12" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-12">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-12</num>
+        <heading>Composition.</heading>
+        <para>
+          <num>(a)</num>
+          <text><em>In general</em>.</text>
+          <text>The Board is comprised of the following 10 members:</text>
+          <para>
+            <num>(1)</num>
+            <text>4 members appointed by the Mayor and confirmed by the City Council in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter article IV, § 6</cite>; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>3 members nominated by the Council President, appointed by the Mayor, and confirmed by the City Council in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the Housing Commissioner or the Housing Commissioner's designee;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the Planning Director or the Planning Director's designee; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>the Director of the Office of Equity and Civil Rights or the Director's designee, who shall serve as a non-voting member of the Board.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Qualifications – General.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>Of the 4 members appointed by the Mayor:</text>
+            <para>
+              <num>(i)</num>
+              <text>1 must be a for-profit developer with experience in public financing;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>1 must be a lender or investor with experience in multi-family projects and public financing or a mixed income or multi-family developer;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>1 must have experience in housing, community development, planning, social services, or public health; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>1 must be a renter earning an income at or below 60% AMI.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Of the 3 members nominated by the Council President:</text>
+            <para>
+              <num>(i)</num>
+              <text>1 must be a for-profit multi-family developer that uses public financing, subsidies, or tax credits;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>1 must be a nonprofit affordable housing developer; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>1 must be a renter earning an income at or below 60% AMI.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><em>Qualifications – Residency</em>.</text>
+          <text>All of the members must be residents of the City.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|II|2B-16" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-16">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-16</num>
+        <heading>Annual Report.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Required.</em>
+          </text>
+          <text>On or before December 31 of each year, the Commissioner must:</text>
+          <para>
+            <num>(1)</num>
+            <text>submit a report to the Mayor and the City Council, the Board,and to the Planning Commission that assesses efforts during the preceding fiscal year to create and sustain inclusionary housing in the City;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>post the report on the Department of Housing and Community Development's website; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>file the report with the Department of Legislative Reference.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><em>Contents generally</em>.</text>
+          <text>The report must include:</text>
+          <para>
+            <num>(1)</num>
+            <text>the total number of new affordable units created under this subtitle for that year and cumulatively for moderate, low, very low, and extremely low income households;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>for that year, the percent of new dwelling units created in the City that are affordable units for moderate, low, very low, and extremely low income households;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>aggregated annual data provided under § 2B-24{"Annual report - Residential project."} of this subtitle; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>attach the annual reports from the properties with new affordable units created under this subtitle.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|II|2B-17" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-17">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-17</num>
+        <heading>Duties.</heading>
+        <text>In addition to the other duties specified elsewhere in this subtitle, the Board is responsible for:</text>
+        <para>
+          <num>(1)</num>
+          <text>reviewing and providing comments on the regulations promulgated under <cite doc="City of Baltimore, Md., Code" path="13|§2B-3">§ 2B-3 {"Rules and Regulations"}</cite> of this subtitle; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>reviewing and providing comments on inclusionary housing plans submitted by residential projects to the Board as required under <cite doc="City of Baltimore, Md., Code" path="13|§2B-22">§ 2B-22 {"Inclusionary housing plan"}</cite> of this subtitle.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|III|2B-21" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-21">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-21</num>
+        <heading>Inclusionary requirements.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Applicability of section.</em>
+          </text>
+          <text>This section applies to any residential project :</text>
+          <para>
+            <num>(1)</num>
+            <text>that provides 20 or more dwelling units;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>that receives:</text>
+            <para>
+              <num>(i)</num>
+              <text>a major public subsidy; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a significant land use authorization;</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>that is newly constructed, wholly renovated, or converted from a non-residential building; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the cost of the construction or conversion exceeds $60,000 per rental unit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Affordable units required.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>In every residential project subject to this section, at least 5% of all dwelling units for rent must be affordable units to low income households.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>In every residential project subject to this section, at least 5% of all dwelling units for rent must be affordable units to very low income households.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>In every residential project where the developer is offered an additional subsidy or offered the opportunity to apply for an additional subsidy for affordable units for very low income or extremely low income households, up to an additional 5% of dwelling units for rent must be affordable to very low and extremely low income households upon an award of the additional subsidy.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>More restrictive governs.</em>
+          </text>
+          <text>If the City negotiates or a residential project promises to provide a greater percentage of affordability or longer time period of affordability, that more restrictive provision governs over the requirements of this subtitle to the extent of any conflict.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><em>Exclusions</em>.</text>
+          <text>The provisions of this section do not apply to:</text>
+          <para>
+            <num>(1)</num>
+            <text>dormitories, as defined in <cite doc="City of Baltimore, Md., Code" path="32|1|3|1-305|(g)">§ 1-305(g)</cite> of the <cite path="32" doc="City of Balt., Md., Ord. 24-308">Zoning Code</cite>;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>fraternity or sorority houses, as defined in <cite doc="City of Baltimore, Md., Code" path="32|1|3|1-306|(p)">§ 1-306(p)</cite> of the <cite path="32" doc="City of Balt., Md., Ord. 24-308">Zoning Code</cite>;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>residential-care facilities, as defined in <cite doc="City of Baltimore, Md., Code" path="32|1|3|1-312|(p)">§ 1-312(p)</cite> of the <cite path="32" doc="City of Balt., Md., Ord. 24-308">Zoning Code</cite>; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>a residential project that is designed for, marketed to, and leased to students enrolled in accredited educational institutions located in Baltimore City, also known as "student housing".</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|III|2B-22" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-22">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-22</num>
+        <heading>Inclusionary housing plan.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Inclusionary housing plan required.</em>
+          </text>
+          <text>Residential projects subject to the affordability unit requirements of this subtitle must submit an inclusionary housing plan to the Department of Housing and Community Development and the Inclusionary Housing Board when applying for a building permit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Inclusionary housing plan requirements.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text><em>In general</em>.</text>
+            <text>Residential projects required to submit an inclusionary housing plan under subsection (a) must submit a plan in the form established by the Commissioner.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Affirmative fair housing marketing.</em>
+            </text>
+            <text>An inclusionary housing plan must include a plan for affirmatively marketing the affordable units in the residential project to those individuals least likely to apply to become tenants without special outreach efforts.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Review and comment on inclusionary housing plan.</em>
+          </text>
+          <text>Before the City issues building permits for a residential project that is subject to the affordability unit requirements of this subtitle, the residential project's inclusionary housing plan must first be reviewed and commented upon by the Inclusionary Housing Board.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Commissioner authority to create inclusionary housing plan form.</em>
+          </text>
+          <text>The Commissioner, with the advice and consent of the Inclusionary Housing Board, shall create and amend as necessary a form for an inclusionary housing plan.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|III|2B-23" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-23">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-23</num>
+        <heading>Fair housing laws and regulations.</heading>
+        <text>All residential projects created under this subtitle are subject to applicable federal, state, and local housing laws and regulations.</text>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|III|2B-24" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-24">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-24</num>
+        <heading>Annual report – Residential project.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Residential projects subject to the affordability requirements of this subtitle must submit an annual report to the Department and the Inclusionary Housing Board.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The contents of the annual report required under subsection (a) of this section must include:</text>
+          <para>
+            <num>(1)</num>
+            <text>the number of affordable units in the residential project for each income level applicable under this subtitle;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the square footage of each bedroom in each affordable unit;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>whether an affordable unit is leased and occupied at the time of the report and to which income level the tenant belongs;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>whether or not the residential project is in compliance with the inclusionary housing plan;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>the number of tenants, delineated by group, occupying affordable units who were identified as belonging to a group least likely to lease as a result of the affirmative marketing required under <cite doc="City of Baltimore, Md., Code" path="13|I|2B|III|2B-22|(b)">§ 2B-22(b) {"Inclusionary housing plan requirements"}</cite> of this subtitle;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>an accounting of the monthly rent collected for each affordable unit for that year, as prepared by an independent accountant;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>a comparison, displayed as both a number and percentage, of the monthly rent collected for each affordable unit against the monthly rent that could have been collected if each affordable unit was a market-rate unit, as prepared by an independent accountant;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>an accounting of the efficacy of the high-performance inclusionary tax credit;</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>the type of major public subsidy that made the residential project subject to the affordability unit requirements of this subtitle; and</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>any additional information related to compliance with this subtitle or any rules and regulations issued under this subtitle as determined by the Commissioner.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Commissioner will prominently post all annual reports required under subsection (a) of this section on the City's website.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:remove path="13|I|2B|III|2B-25" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-21|annos"/>
+    <codify:replace path="13|§2B-26 to 2B-30" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-25to2B-30">
+      <section name="2B-25to2B-30">
+        <num>2B-25 to 2B-30</num>
+        <reason>Reserved</reason>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|IV|2B-31" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-31">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-31</num>
+        <heading>Comparable design.</heading>
+        <text>The affordable units required by this subtitle:</text>
+        <para>
+          <num>(1)</num>
+          <text>must be complementary to the market rate units in the same project as to their exterior appearance;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>must be comparable to the market rate units in the same project as to:</text>
+          <para>
+            <num>(i)</num>
+            <text>number of bedrooms; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>overall quality of construction; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>may vary in size and finish, consistent with standards set forth in the Commissioner's rules and regulations.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|IV|2B-32" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-32">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-32</num>
+        <heading>Placement.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The affordable units required by this subtitle must be dispersed throughout the residential project.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Simultaneous offering.</em>
+          </text>
+          <text>The affordable units required by this subtitle must be constructed and completed in the same time frame as the market rate units of the project.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|I|2B|IV|2B-33" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-33">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-33</num>
+        <heading>Affordable unit count.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The mix of affordable units required by this subtitle must be at the same ratio as the offerings for the building as a whole.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Floor plan.</em>
+          </text>
+          <text>If a building offers different price points for units with identical numbers of bedrooms and bathrooms, the inclusionary unit must be for the floor plan with the lowest monthly rent.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Penthouse units.</em>
+          </text>
+          <text>No penthouse units will be included in the count of affordable units.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:repeal path="13|I|2B|IV|2B-34" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-34"/>
+    <codify:repeal path="13|I|2B|IV|2B-35" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-35"/>
+    <codify:repeal path="13|I|2B|IV|2B-36"/>
+    <codify:recodify-section path="13|§2B-37" num-value="2B-36" after="§2B-35" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-36"/>
+    <codify:replace path="13|I|2B|IV|2B-36" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-36">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-36</num>
+        <heading>Management of rental units.</heading>
+        <text>An affordable rental unit provided under this subtitle must be managed under the same management standards as all market-rate rental units in the development.</text>
+      </section>
+    </codify:replace>
+    <codify:remove path="13|§2B-37" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-31|annos"/>
+    <codify:insert path="13|I|2B|IV" after="§2B-36" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-37">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-37</num>
+        <heading>Master leasing affordable units.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The City or designated housing providers may enter master lease agreements to manage affordable units developed to comply with § 2B-21(b)(2) {"Inclusionary requirements."} of this article.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Designated housing providers.</em>
+          </text>
+          <text>The Commissioner may designate housing providers to manage and rent affordable units in accordance with the regulations and procedures adopted by the Commissioner.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:remove path="13|I|2B|V" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-1|annos"/>
+    <codify:replace path="13|I|2B|VI|num" codified:doc="City of Baltimore, Md., Code" codified:path="13|I|2B|V">
+      <num>V</num>
+    </codify:replace>
+    <codify:recodify-section path="13|§2B-51" num-value="2B-41" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-41"/>
+    <codify:remove path="13|§2B-51" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-41|annos"/>
+    <codify:remove path="13|§2B-52" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-41|annos"/>
+    <codify:remove path="13|§2B-53 to 2B-60" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-41|annos"/>
+    <codify:replace path="13|§2B-41" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-41">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-41</num>
+        <heading>Rental units.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Affordability period.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>Every affordable rental unit subject to this subtitle must remain at an affordable housing cost, as provided in this section, for a period of not less than 30 years from the date of its initial occupancy.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>1 year prior to the expiration of the affordability period, the owner shall notify the Department of Housing and Community Development of the opportunity to master lease the affordable units, at which time, the City or designated nonprofit housing providers may have the first right of refusal to master lease the affordable units to continue affordability after the affordability period expires.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Lease and sublease restrictions.</em>
+          </text>
+          <text>During the affordability period, the owner of the rental property may not rent or lease any affordable unit and a tenant may not sub-rent or sublease the unit except to an eligible household at a rent that does not exceed an affordable rent applicable to that unit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Affordability variance.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>All affordable units under this section must be initially leased to moderate, low, very low, or extremely low income households, as outlined in <cite doc="City of Baltimore, Md., Code" path="13|§ 2B-21">§ 2B-21 of this subtitle {"Inclusionary requirements"}</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If a tenant's income increases:</text>
+            <para>
+              <num>(i)</num>
+              <text>the tenant will be allowed to stay in the unit; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the tenant's rent can be increased at the same ratio as the original leasing.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If the income of a tenant in an affordable unit, as described in this section, increases to 100% of AMI:</text>
+            <para>
+              <num>(i)</num>
+              <text>the tenant shall pay full market rent; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>another unit must be made available to comply with the affordability requirements in this section.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Owner's maintenance.</em>
+          </text>
+          <text>The owner of an affordable rental unit:</text>
+          <para>
+            <num>(1)</num>
+            <text>at all times must comply with all building, fire, safety, and other codes applicable to rental units; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>in providing maintenance and other services to rental units in the residential project, may not discriminate in any way against affordable units.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:insert path="13|I|2B|V" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-42to2B-50">
+      <section name="2B-42to2B-50">
+        <num>2B-42 to 2B-50</num>
+        <reason>Reserved</reason>
+      </section>
+    </codify:insert>
+    <codify:remove path="13|I|2B|VII" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-1|annos"/>
+    <codify:replace path="13|I|2B|VIII|num" codified:doc="City of Baltimore, Md., Code" codified:path="13|I|2B|VI">
+      <num>VI</num>
+    </codify:replace>
+    <codify:replace path="13|I|2B|VI|heading" codified:doc="City of Baltimore, Md., Code" codified:path="13|I|2B|VI">
+      <heading>Administrative Review, Judicial Review, and Penalties.</heading>
+    </codify:replace>
+    <codify:recodify-section path="13|§2B-71" num-value="2B-51" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-51"/>
+    <codify:recodify-section path="13|§2B-72" num-value="2B-52" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-52"/>
+    <codify:remove path="13|§2B-71" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-51|annos"/>
+    <codify:remove path="13|§2B-72" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-51|annos"/>
+    <codify:replace path="13|§2B-51" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-51">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-51</num>
+        <heading>Administrative appeals.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Right of appeal.</em>
+          </text>
+          <text>Any person aggrieved by a decision or ruling of the Commissioner under this subtitle may appeal that decision or ruling to the Board of Municipal and Zoning Appeals.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>How and when taken.</em>
+          </text>
+          <text>The appeal must be taken in writing within 15 days from the date of notice of the decision or ruling.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Hearing and decision.</em>
+          </text>
+          <text>The Board:</text>
+          <para>
+            <num>(1)</num>
+            <text>must hold a hearing on the appeal as soon as practicable; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>may affirm, modify, or reverse the action from which the appeal was taken.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|§2B-52" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-52">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-52</num>
+        <heading>Judicial and appellate review.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Judicial review.</em>
+          </text>
+          <text>A party aggrieved by a final decision of the Board of Municipal and Zoning Appeals under <cite doc="City of Baltimore, Md., Code" path="13|§2B-51">§ 2B- 51 {"Administrative appeals"}</cite> of this subtitle may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><em>Appellate review</em>.</text>
+          <text>A party to the judicial review may appeal the court's final judgment to the Court of Special Appeals in accordance with the Maryland Rules of Procedure.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:remove path="13|§2B-52|annos|ord-07-474-special-provisions" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-52"/>
+    <codify:insert path="13|I|2B|VI" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2B-53">
+      <section>
+        <prefix>§</prefix>
+        <num>2B-53</num>
+        <heading>Penalties.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The Department of Housing and Community Development shall issue a fine of no more than $1,000 to a person who violates a provision of this subtitle or a rule, regulation, or order adopted or issued under this subtitle.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Each violation a separate offense.</em>
+          </text>
+          <text>Each violation a person commits of a provision of this subtitle or a rule,    regulation, or order adopted or issued under this subtitle is a separate offense.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><em>Each day a separate offense</em>.</text>
+          <text>Each day that a violation continues is a separate offense.</text>
+        </para>
+      </section>
+    </codify:insert>
+  </section>
+</document>

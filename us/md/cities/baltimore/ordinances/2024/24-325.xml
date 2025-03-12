@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-325" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-325</num>
+  <num type="bill">23-0416</num>
+  <heading type="short">Baltimore City Office of Returning Citizens</heading>
+  <heading type="long">An Ordinance Concerning Baltimore City Office of Returning Citizens</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-08-21</introduced>
+    <effective>2024-05-24</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/96099007-f13a-4607-bfb1-ca3d0717e76c.pdf">Ord. 24-325</citation>
+    </citations>
+    <history>
+      <vote date="2023-08-21" reading="first"/>
+      <vote date="2024-03-04" reading="second"/>
+      <enacted>2024-04-24</enacted>
+      <committee>Favorable, with amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert path="1" codified:doc="City of Baltimore, Md., Code" codified:path="1|§60-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>60</num>
+        <heading>Office of Returning Citizens</heading>
+        <annotations>
+          <annotation type="Editor's Notes">Ordinance 24-325 (effective June 6, 2024) designated this new Subtitle to be "Subtitle 59". That number, however, was already spoken for. Hence the placement here, with a different number.</annotation>
+        </annotations>
+        <section>
+          <prefix>§</prefix>
+          <num>60-1</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>In this subtitle, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Council.</em>
+            </text>
+            <text>"Council" means the Baltimore City Re-Entry Action Council.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Director.</em>
+            </text>
+            <text>"Director" means the Director of the Office of Returning Citizens.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Office.</em>
+            </text>
+            <text>"Office" means the Baltimore City Office of Returning Citizens.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <em>Returning citizen.</em>
+            </text>
+            <text>An individual who is a resident of Baltimore City and who:</text>
+            <para>
+              <num>(1)</num>
+              <text>was formally charged with a crime;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>was convicted of a crime; or</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>participated in a diversion program where the individual received rehabilitative instruction and support in lieu of a criminal conviction.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>60-2</num>
+          <reason>Reserved</reason>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>60-3</num>
+          <heading>Office established.</heading>
+          <text>There is a Baltimore City Office of Returning Citizens.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>60-4</num>
+          <heading>Director.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The Director is responsible for the administration and oversight of the Office.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Appointment.</em>
+            </text>
+            <text>The Director is appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|6">Article IV, § 6 {"Appointments of municipal officers"}</cite> of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>60-5</num>
+          <reason>Reserved</reason>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>60-6</num>
+          <heading>Re-Entry Action Council.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>Established.</em>
+            </text>
+            <text>There is a Baltimore City Re-Entry Action Council within the Office.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Duties of Council.</em>
+            </text>
+            <text>The Council must:</text>
+            <para>
+              <num>(1)</num>
+              <text>advise the Office and the Mayor and City Council on issues relating to returning citizens; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>collaborate and consult with the Office on matters relating to the discharge of the Office's duties.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Composition.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>The Council comprises at least 14 members but no more than 25 members appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|6">Article IV, § 6 {"Appointments of municipal officers"}</cite> of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> with:</text>
+              <para>
+                <num>(i)</num>
+                <text>2 members nominated by the City Council President; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>2 members nominated by the Comptroller.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Diversity.</em>
+              </text>
+              <para>
+                <num>(i)</num>
+                <text>To the extent possible, the Mayor must appoint Council members that are representative of the diversity in the community, with regard to socioeconomic status, race, ethnicity, gender identification, sexual orientation, and age.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>At least 1 of the members of the Council must be a member of a group, organization, or service provider that focuses on the needs of female returning citizens.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Terms.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>Council members serve a term of 4 years, concurrent with the terms of the Mayor and the City Council.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>At the end of a term, a member continues to serve until a successor is appointed and qualifies.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>A member appointed to fill a vacancy in an unexpired term or to succeed a member who is holding over serves only for the remainder of that term.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <em>Chair.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>The Council must elect a chair from among its members.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The term of the chair is 1 year.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The chair may be reelected.</text>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><em>Vice chair</em>.</text>
+            <para>
+              <num>(1)</num>
+              <text>The Council must elect a vice chair from among its members.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The term of the vice chair is 1 year.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The vice chair may be reelected.</text>
+            </para>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><em>Secretary</em>.</text>
+            <para>
+              <num>(1)</num>
+              <text>The Council must elect a secretary from among its members.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The term of the secretary is 1 year.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The secretary may be reelected.</text>
+            </para>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>
+              <em>Meetings; Quorum.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>The Council must meet at least monthly.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>A majority of the members of the Council constitutes a quorum for the transaction of Council business.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>60-7</num>
+          <reason>Reserved</reason>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>60-8</num>
+          <heading>Staff and Budget.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>Staff.</em>
+            </text>
+            <text>The Office may employ staff in accordance with the Ordinance of Estimates.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Budget.</em>
+            </text>
+            <text>The Office may expend funds authorized in the Ordinance of Estimates, any supplementary appropriations, or any appropriations transfer.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>60-9</num>
+          <heading>Duties of the Office.</heading>
+          <text>In collaboration and consultation with the Council, the Office must:</text>
+          <para>
+            <num>(1)</num>
+            <text>serve as an advocate for returning citizens;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>coordinate and monitor service delivery to returning citizens;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>promote the general welfare, empowerment, and reintegration of returning citizens in the areas of:</text>
+            <para>
+              <num>(i)</num>
+              <text>employment and career development;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>health care;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>education;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>housing; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>social services;</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>develop sustainable relationships and coordinate with federal, State, and private agencies working with returning citizens;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>develop and propose City policy regarding issues affecting returning citizens;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>participate in public hearings;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>promote community dialogue concerning the issues confronting returning citizens; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>review, comment, and make recommendations on proposed legislation and regulations, policies, and programs that will affect returning citizens.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>60-10</num>
+          <heading>Annual report.</heading>
+          <text>On or before June 30 of each year, the Office must submit a report to the Mayor and City Council detailing:</text>
+          <para>
+            <num>(1)</num>
+            <text>the activities of the Office and the Council; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>specific policy and legislative proposals to promote the general welfare, empowerment, and reintegration of Baltimore's returning citizens.</text>
+          </para>
+        </section>
+      </container>
+    </codify:insert>
+    <codify:replace path="8|§7-8|(38a)|num" after="(38b)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8|(38b)">
+      <num>(38b)</num>
+    </codify:replace>
+    <codify:insert path="8|§7-8" after="(38)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8|(38a)">
+      <para>
+        <num>(38a)</num>
+        <text>
+          <em>Re-Entry Action Council</em>
+        </text>
+        <para>
+          <num>(i)</num>
+          <text>Director.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Members of the Re-Entry Action Council.</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>All non-clerical employees.</text>
+        </para>
+      </para>
+    </codify:insert>
+  </section>
+</document>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-293">
+  <num type="law">24-293</num>
+  <num type="bill">23-0386</num>
+  <heading type="short">Landmark List – Home of the Friendless</heading>
+  <heading type="long">An Ordinance Concerning Landmark List – Home of the Friendless</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-05-15</introduced>
+    <effective>2024-01-17</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/c221145b-04ce-4c25-934d-8fab1f2f3edd.pdf">Ord. 24-293</citation>
+    </citations>
+    <history>
+      <vote date="2023-05-15" reading="first"/>
+      <vote date="2023-11-20" reading="second"/>
+      <enacted>2024-01-17</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="|6|18A" codified:doc="City of Baltimore, Md., Code" codified:path="6|§18A-8">
+      <section>
+        <prefix>§</prefix>
+        <num>18A-8</num>
+        <heading>Home of the Friendless.</heading>
+        <text>Home of the Friendless, 1313 Druid Hill Avenue.</text>
+        <annotations>
+          <annotation type="Editor's Notes">Ordinance 24-293 (effective January 24, 2024) designated this new section to be “Section 18A-3”. That number, however, was already spoken for. Hence the placement here, with a different number.</annotation>
+        </annotations>
+      </section>
+    </codify:insert>
+  </section>
+</document>

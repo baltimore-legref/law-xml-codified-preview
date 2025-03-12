@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-312">
+  <num type="law">24-312</num>
+  <num type="bill">23-0420</num>
+  <heading type="short">Residential Permit Parking Program Area ___ – Brunt Street Area</heading>
+  <heading type="long">An Ordinance Concerning Residential Permit Parking Program Area ___ – Brunt Street Area</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-08-22</introduced>
+    <effective>2024-02-23</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/28e11df9-54b9-4a35-b557-c9813593f1e3.pdf">Ord. 24-312</citation>
+    </citations>
+    <history>
+      <vote date="2023-08-22" reading="first"/>
+      <vote date="2023-12-04" reading="second"/>
+      <enacted>2024-01-24</enacted>
+      <committee>Favorable with amendment</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|31|10|III|10-11|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="31|§10-11|(a)">
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>Except as otherwise provided in this section, participation in the Program is available to the following areas:</text>
+        <para>
+          <num>(1)</num>
+          <text>the "Pimlico Race Track Area", as described in § 10-33 of this subtitle;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the "Little Italy Area", as described in § 10-34 of this subtitle;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the "Fells Point Area", as described in § 10-35 of this subtitle;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the "Cross Street Area", as described in § 10-36 of this subtitle;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the "Camden Yards Stadium Complex Area", as described in § 10-37 of this subtitle;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the "Guilford Area", as described in § 10-38 of this subtitle;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>the "Brunt Street Area", as described in § 10-39 of this subtitle; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>all other residential areas of the City that qualify under this subtitle.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|31|10|VI|10-39" codified:doc="City of Baltimore, Md., Code" codified:path="31|§10-39">
+      <section>
+        <prefix>§</prefix>
+        <num>10-39</num>
+        <heading>Brunt Street Area.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Area delineated.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The Brunt Street Area is the area bounded by the outer limits of the 2100 block of Brunt Street.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Participating block faces.</em>
+            </text>
+            <text>The Brunt Street Area consists of the 2100 block of Brunt  Street.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Parking restrictions.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>Except as otherwise provided in paragraph (2) of this subsection, parking for non-permit holders in Area ___ is limited to 2 hours in any 1 or more parking spots Monday through Friday, from 7:00 a.m. to 7:00 p.m.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Additional restriction.</em>
+            </text>
+            <text>In addition to the restrictions under paragraph (1) of this subsection, parking for non-permit holders is prohibited Saturday and Sunday.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Permit limits.</em>
+          </text>
+          <text>Each dwelling unit within Area ___ is eligible for:</text>
+          <para>
+            <num>(1)</num>
+            <text>up to 4 resident permits; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>up to 2 visitor permits.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Signage.</em>
+          </text>
+          <text>Residential parking permit restricting signage will be placed along all properties on the odd side of the 2100 block that are permit-eligible, with the exclusion of schools, churches, and businesses.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-389">
+  <num type="law">24-389</num>
+  <num type="bill">24-0553</num>
+  <heading type="short">Mayor's Anti-Animal Abuse Advisory Commission - Amendments</heading>
+  <heading type="long">An Ordinance Concerning Mayor's Anti-Animal Abuse Advisory Commission - Amendments</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-06-24</introduced>
+    <effective>2024-10-02</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/c594fc43-39a1-42b3-9f55-9a1b5c92bd92.pdf">Ord. 24-389</citation>
+    </citations>
+    <history>
+      <vote date="2024-06-24" reading="first"/>
+      <vote date="2024-09-16" reading="second"/>
+      <enacted>2024-10-02</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:repeal doc="City of Baltimore, Md., Code" path="1|§55-8"/>
+    <codify:repeal doc="City of Baltimore, Md., Code" path="1|§55-9"/>
+    <codify:recodify-section doc="City of Baltimore, Md., Code" path="1|§55-10" num-value="55-8" after="§55-7" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§55-8"/>
+    <codify:recodify-section doc="City of Baltimore, Md., Code" path="1|§55-12" num-value="55-9" after="§55-8" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§55-9"/>
+    <codify:recodify-section doc="City of Baltimore, Md., Code" path="1|§55-13" num-value="55-10" after="§55-9" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§55-10"/>
+  </section>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
+    <codify:replace doc="City of Baltimore, Md., Code" path="1|§55-3" codified:doc="City of Baltimore, Md., Code" codified:path="1|§55-3">
+      <section>
+        <prefix>§</prefix>
+        <num>55-3</num>
+        <heading>Advisory Commission membership.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Advisory Commission consists of 15 members.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Of these:</text>
+            <para>
+              <num>(i)</num>
+              <text>7 members are appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the Baltimore City Charter</cite>; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>8 members are ex-officio members.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Appointed members.</heading>
+          <text>The 7 appointed members of the Advisory Commission are as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>2 members representing:</text>
+            <para>
+              <num>(i)</num>
+              <text>animal rescue groups; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>animal advocacy organizations;</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>2 at-large members, nominated by the Mayor;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>1 member of the City Council, nomimated by the President of the City Council, and;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>2 at-large members, nominated by the President of the City Council.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Ex-officio members.</heading>
+          <text>The 8 ex-officio members are the following, or their designated representatives:</text>
+          <para>
+            <num>(1)</num>
+            <text>the Mayor;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the President of the City Council;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the State's Attorney for Baltimore City;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the Baltimore City Sheriff;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>the Police Commissioner;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>the Health Commissioner;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>the Director of the Bureau of Animal Control; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>the Chief Executive Officer, Executive Director, or Director of an animal shelter operating within the boundaries of the City.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Appointment without regard to political affiliation.</heading>
+          <text>The appointment of members must be made without regard to political affiliation.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="1|§55-6" codified:doc="City of Baltimore, Md., Code" codified:path="1|§55-6">
+      <section>
+        <prefix>§</prefix>
+        <num>55-6</num>
+        <heading>Meetings; quorum.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Advisory Commission shall meet at least 2 times each calendar year.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Advisory Commission may hold additional meetings, at the call of the Chair, as frequently as required to perform its duties.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A majority of the members of the Advisory Commission constitutes a quorum for the transaction of business.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>An affirmative vote by the majority of a quorum is needed for any official action.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Rules of procedure.</heading>
+          <text>The Advisory Commission may adopt rules of procedure to govern its meetings and procedures.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Failure to attend meetings.</heading>
+          <text>If any member is absent from regularly scheduled meetings more than 1 time in 1 year, not counting absences excused by the Chair:</text>
+          <para>
+            <num>(1)</num>
+            <text>the member is considered to have resigned; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the Chair must request that the member's appointing authority fill the resultant vacancy.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:insert doc="City of Baltimore, Md., Code" path="1|55" after="§55-6" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§55-7">
+      <section>
+        <num>55-7</num>
+        <heading>Personnel; Budget.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Staff.</heading>
+          <text>The City Health Department shall provide adequate staff for the Advisory Commission to carry out its duties.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Volunteers.</heading>
+          <text>The Advisory Commission may engage the services of volunteer workers, without salary.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Budget.</heading>
+          <text>The Advisory Commission may expend funds as authorised in the Ordinance of Estimates.</text>
+        </para>
+      </section>
+    </codify:insert>
+  </section>
+</document>

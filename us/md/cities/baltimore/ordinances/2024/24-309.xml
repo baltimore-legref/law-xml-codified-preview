@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-309">
+  <num type="law">24-309</num>
+  <num type="bill">23-0369</num>
+  <heading type="short">High-Performance Inclusionary Housing Tax Credit</heading>
+  <heading type="long">An Ordinance Concerning High-Performance Inclusionary Housing Tax Credit</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-03-27</introduced>
+    <effective>2024-07-20</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/e7703c9c-8fe8-4ece-baf8-fbcdc15e92fb.pdf">Ord. 24-309</citation>
+    </citations>
+    <history>
+      <vote date="2023-03-27" reading="first"/>
+      <vote date="2023-11-20" reading="second"/>
+      <enacted>2024-01-22</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|28|II|10|10-18|(h)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-18|(h)">
+      <para>
+        <num>(h)</num>
+        <text>
+          <em>No tax subsidy duplication allowed.</em>
+        </text>
+        <text>Except for the Maryland State Enterprise Zone Tax Credit Program and the High-Performance Inclusionary Housing Tax Credit, the tax credit authorized by <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18">this section</cite> does not apply to any property for which any other tax subsidy from the City, whether in the form of a tax credit, payment in lieu of taxes, tax incremental financing, or otherwise, is being received or has been applied for.</text>
+      </para>
+    </codify:replace>
+    <codify:insert doc="City of Baltimore, Md., Code" path="|28|II|10" after="|28|II|10|10-18.1" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-18.2">
+      <section>
+        <prefix>§</prefix>
+        <num>10-18.2</num>
+        <heading>High-performance inclusionary housing tax credit.</heading>
+        <para>
+          <num>(a)</num>
+          <text><em>Definitions</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text><em>In general</em>.</text>
+            <text>In <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite>, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Affordable unit.</em>
+            </text>
+            <text>"Affordable unit" means a dwelling unit that is required by City Code <cite doc="City of Baltimore, Md., Code" path="|13|I|2B">Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}</cite> to be provided to a family earning an income that is either:</text>
+            <para>
+              <num>(i)</num>
+              <text>low income;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>moderate income;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>very low income; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>extremely low income.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>AMI.</heading>
+            <text>"AMI" means the area median income for the metropolitan region that encompasses Baltimore City, as published and annually updated by the United States Department of Housing and Urban Development.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>
+              <em>Extremely low income.</em>
+            </text>
+            <text>"Extremely low income" means a household income below 30% AMI.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text><em>High-performance</em>.</text>
+            <text>"High-performance" means a high-performance building as defined in State Tax-Property Article § 9-242 {"High performance buildings"}.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>
+              <em>Low income.</em>
+            </text>
+            <text>"Low income" means a household income at or below 60% AMI.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text><em>Market-rate rental housing project</em>.</text>
+            <text>"Market-rate rental housing project" means a multi-family dwelling:</text>
+            <para>
+              <num>(i)</num>
+              <text>that contains 20 or more rental units; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>in which none of the rental units are subject to governmental restrictions on the amount of rent charged or on the tenant's income level, except to the extent specifically required by City Code <cite doc="City of Baltimore, Md., Code" path="|13|I|2B">Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>
+              <em>Moderate income.</em>
+            </text>
+            <text>"Moderate income" means a household income at or below 80% AMI.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text><em>Newly constructed or converted</em>.</text>
+            <text>"Newly constructed or converted" means a high-performance market-rate rental housing project:</text>
+            <para>
+              <num>(i)</num>
+              <text>that is either:</text>
+              <para>
+                <num>(A)</num>
+                <text>newly constructed on a vacant lot, cleared site, or parking lot;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>converted from a non-residential use; or</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>a wholly renovated structure; and</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>for which:</text>
+              <para>
+                <num>(A)</num>
+                <text>the cost of the construction or conversion exceeds $60,000 per rental unit; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>a 1st occupancy permit following substantial completion of the construction or conversion is issued after January 1, 2024.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>
+              <em>Very low income.</em>
+            </text>
+            <text>"Very low income" means a household income at or below 50% AMI.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><em>Program goal</em>.</text>
+          <text>The goal of this program is to facilitate those inclusionary housing requirements established under <cite doc="City of Baltimore, Md., Code" path="|13|I|2B">Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}</cite> of the City Code.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><em>Credit granted</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <para>
+              <num>(i)</num>
+              <text>In accordance with State Tax - Property Article § 9-242 {"High performance buildings"}, a High-Performance Inclusionary Housing Tax Credit is granted against the City property tax imposed on eligible newly constructed or converted high-performance market-rate rental housing projects that provide affordable units as required by <cite doc="City of Baltimore, Md., Code" path="|13|I|2B">Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}</cite> of the City Code.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The tax credit described in subparagraph (i) of this paragraph shall be equal to the actual amount of the difference between the market rate rent and the rental rate for each affordable unit in the months in which that affordable unit was rented.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Timing of credit.</em>
+            </text>
+            <text>The tax credit detailed in paragraph (1) of this subsection commences with the first full year tax bill issued for the property after the Department of Finance has received a complete application for the tax credit and documentation of the actual rent charged in the prior year for the completed project.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>
+              <em>Measures.</em>
+            </text>
+            <para>
+              <num>(i)</num>
+              <text>The accounting year for the calculation of the difference between the market rate rent and the rent for each affordable unit is January 1 to December 31 of each calendar year.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>All accounting required under this subtitle shall be submitted to the Department of Finance by January 15 following the termination of the previous accounting year.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Credit.</em>
+          </text>
+          <text>The amount of the tax credit described under subsection (c)(1) of <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite> shall be deducted from the next July property tax bill after verification by the Department of Finance.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><em>Credit limits</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>The tax credit granted under <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite> may not, alone or combined with any other credit, exceed the amount of the property tax imposed on the property in any tax year.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The tax credit granted under <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite> only applies to the required units outlined in City Code <cite doc="City of Baltimore, Md., Code" path="|13|I|2B">Article 13, Subtitle 2B</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><em>Eligibility requirements</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>To receive the tax credit, the owner of the high-performance market-rate rental housing project must:</text>
+            <para>
+              <num>(i)</num>
+              <text>apply to the Department of Finance for the credit in the form and format required under paragraph (2) of this subsection;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>provide the Department of Finance an accounting of how many rental units are set aside as affordable units;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>demonstrate to the Department of Finance compliance with <cite doc="City of Baltimore, Md., Code" path="|13|I|2B">Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}</cite> of the City Code; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>demonstrate to the Department of Finance the difference between the market rent that would have been charged for a market rate rental unit and the rent charged for an affordable unit.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><em>Application</em>.</text>
+            <para>
+              <num>(i)</num>
+              <text>The owner shall:</text>
+              <para>
+                <num>(A)</num>
+                <text>submit the application for the tax credit to the Department of Finance in the form and format required by the Department of Finance; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>pay the application fee as set by the Board of Estimates.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>If the property is transferred at any time, the new owner shall file an application to continue the credit in the form required by the Department of Finance.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>
+            <em>Ineligibility.</em>
+          </text>
+          <text>The tax credit granted under <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite> does not apply to any project that proposes more than 20% of its units be set aside for renters earning 60% of AMI or below.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><em>Additional requirements</em>.</text>
+          <text>A tax credit granted under <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite> shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>be subject to eligibility requirements no less stringent than those applicable to credits authorized under State Tax – Property Article § 9-242 {"High performance buildings"};</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>before a period of 30 years for each property, starting with the first full year tax bill issued for the property after the Department of Finance has received a complete application for the tax credit and documentation of the actual rent charged in the prior year for the completed project</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>be fully transferrable to a new owner for the remaining credit period; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>terminate if, during the credit period, the project:</text>
+            <para>
+              <num>(i)</num>
+              <text>fails to maintain its high-performance rating; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>fails to provide the affordable units required by <cite doc="City of Baltimore, Md., Code" path="|13|I|2B">Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}</cite> of the City Code.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text><em>Continuing eligibility</em>.</text>
+          <text>The property owner shall ensure that, during the credit period, the project for which the credit was granted is:</text>
+          <para>
+            <num>(1)</num>
+            <text>in full compliance with the <cite doc="City of Baltimore, Md., Code" path="|codes">City Building, Fire, and Related Codes Article</cite>;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>maintains its high-performance rating; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>continues to provide affordable units as required by <cite doc="City of Baltimore, Md., Code" path="|13|I|2B">Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}</cite> of the City Code.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text><em>Tax subsidy duplication allowed</em>.</text>
+          <text>The tax credit authorized by <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite> may apply to any property for which any other tax subsidy from the City is being received or has been applied for, whether:</text>
+          <para>
+            <num>(1)</num>
+            <text>in the form of a tax credit,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>in the form of a payment in lieu of taxes agreement; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>in form of tax increment financing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text><em>Administration</em>.</text>
+          <text>The Director of Finance may:</text>
+          <para>
+            <num>(1)</num>
+            <text>subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act - Regulations"} of the City General Provisions Article</cite>, adopt rules and regulations to carry out the provisions of <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite>;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>settle disputed claims arising in connection with the credit authorized by <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite>; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>delegate powers, duties, or functions in connection with the administration of the credit authorized by <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite> to any employee or agency of the City.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text><em>Annual report</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>Each fiscal year, the estimated amount of all tax credits received by property owners under <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite>:</text>
+            <para>
+              <num>(i)</num>
+              <text>shall be reported by the Director of Finance as a tax expenditure; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>shall be included by the Department of Finance in the City's budget publications for any subsequent fiscal year with the estimated or actual City property tax revenue.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>On or before July 1 of each year, the Director of Finance shall submit a report that includes an analysis of the tax credit and its findings to the:</text>
+            <para>
+              <num>(i)</num>
+              <text>Board of Estimates;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Mayor; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>City Council.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Every 2 years the Department of Finance and the Department of Housing and Community Development shall conduct a study and submit a report to the Board of Estimates, Mayor, and City Council that:</text>
+            <para>
+              <num>(i)</num>
+              <text>evaluates the impact of the tax credit established by <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite>;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>states a conclusion about whether the program goal established in subsection (b) of <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite> is being met; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>makes recommendations to modify <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18.2">this section</cite> to better meet the program goal.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Termination of program.</text>
+          <text>The Department of Finance may accept applications for the credit for a period of time that is concurrent with the term of the inclusionary housing requirements established by <cite doc="City of Baltimore, Md., Code" path="|13|I|2B">Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}</cite> of the City Code.</text>
+        </para>
+      </section>
+    </codify:insert>
+  </section>
+</document>

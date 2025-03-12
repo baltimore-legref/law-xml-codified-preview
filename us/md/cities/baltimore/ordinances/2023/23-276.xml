@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 23-276">
+  <num type="law">23-276</num>
+  <num type="bill">23-0387</num>
+  <heading type="short">Minority and Women's Business Program – Reauthorization</heading>
+  <heading type="long">An Ordinance Concerning Minority and Women's Business Program – Reauthorization</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-05-15</introduced>
+    <effective>2023-11-20</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/0e39c84c-8ad5-476d-a4cc-f0a3878e8512.pdf">Ord. 23-276</citation>
+    </citations>
+    <history>
+      <vote date="2023-05-15" reading="first"/>
+      <vote date="2023-10-02" reading="second"/>
+      <enacted>2023-11-20</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-3|(a)|(1)|(iv)" codified:doc="City of Baltimore, Md., Code" codified:path="5|§28-3|(a)|(1)|(iv)">
+      <para>
+        <num>(iv)</num>
+        <text>the extensive findings of the  2022 Disparity Study, "The State of Minority and Women-Owned Business enterprise: Evidence from Baltimore";</text>
+      </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-3|(a)|(2)" codified:doc="City of Baltimore, Md., Code" codified:path="5|§28-3|(a)|(2)">
+      <para>
+        <num>(2)</num>
+        <text>Past discrimination in the City's contracting process by prime contractors against minority and women's business enterprises has resulted in significant underutilization of minority and women's business enterprises in contracts awarded by the City of Baltimore.  As determined by the  2022 Disparity Study, this disparity has been persistent, pervasive, and statistically significant based on available vendor data.</text>
+      </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-5" codified:doc="City of Baltimore, Md., Code" codified:path="5|§28-5">
+      <section>
+        <prefix>§</prefix>
+        <num>28-5</num>
+        <heading>Automatic termination.</heading>
+        <text>This subtitle automatically expires on June 30, 2028, unless the City Council, after causing an appropriate study to be undertaken, conducting public hearings, and hearing testimonial evidence, find that the purposes identified in this subtitle have not yet been achieved, in which case this subtitle may be extended for 5 more years.</text>
+      </section>
+    </codify:replace>
+  </section>
+</document>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-367">
+  <num type="law">24-367</num>
+  <num type="bill">24-0559</num>
+  <heading type="short">Francis Scott Key Bridge - Actions and Remedies</heading>
+  <heading type="long">An Ordinance Concerning Francis Scott Key Bridge - Actions and Remedies</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-07-22</introduced>
+    <effective>2024-08-29</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/3ccb14db-a4a5-48da-8fcd-2fad8aea63a8.pdf">Ord. 24-367</citation>
+    </citations>
+    <history>
+      <vote date="2024-07-22" reading="first"/>
+      <vote date="2024-08-26" reading="second"/>
+      <enacted>2024-08-29</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="10" codified:doc="City of Baltimore, Md., Code" codified:path="10|§10-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>10</num>
+        <heading>Actions and Remedies</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>10-1</num>
+          <heading>Scope of subtitle.</heading>
+          <text>Except as otherwise provided herein, the provisions of this subtitle shall apply solely to claims which may arise or have arisen as a result of the allision between a ship, the M/V Dali, and the Francis Scott Key Bridge on March 26, 2024.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>10-2</num>
+          <heading>Rules and regulations.</heading>
+          <text>Subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act - Regulations"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the City Solicitor may adopt such rules and regulations deemed necessary and proper to carry out the provisions of this <cite doc="City of Baltimore, Md., Code" path="10|10">Subtitle 10</cite>, as the same may be amended from time to time.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>10-3</num>
+          <heading>Economic loss.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>Recovery.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>In a cause of action arising out of the allision between a ship, the M/V Dali, and the Francis Scott Key Bridge on March 26, 2024, the City of Baltimore shall be entitled to recover for economic loss including, without limitation, the following, if the following were caused by any violation of any permit, rule, regulation, or order to which the owner or operator of the M/V Dali or the owner or operator's agents were subject, or caused by the negligence of the owner or operator of the M/V Dali or the owner or operator's agents:</text>
+              <para>
+                <num>(i)</num>
+                <text>loss of income;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>loss of means of producing income;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>loss of an economic benefit;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>loss of tax revenue;</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>loss caused by damage to the natural resources of the City of Baltimore;</text>
+              </para>
+              <para>
+                <num>(vi)</num>
+                <text>the costs of response, containment, removal, or remedial action incurred by the City of Baltimore;</text>
+              </para>
+              <para>
+                <num>(vii)</num>
+                <text>loss due to administrative expenditures for the incremental costs of providing the functions or services that are incurred by the City of Baltimore; and</text>
+              </para>
+              <para>
+                <num>(viii)</num>
+                <text>the costs of projects or activities that are delayed or lost because of the efforts of the City of Baltimore.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Claims and defenses.</em>
+              </text>
+              <text>In any action brought to recover such economic loss, it is not necessary to prove that the loss was sustained as a result of physical injury to a person or damage to the City of Baltimore's property, nor is it a defense to claim that the defendant owed no special duty to the City of Baltimore or that the loss was the result of governmental action taken in response to the violation of any permit, rule, regulation, or order by defendant or negligence of defendant.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>No limit on cause of action.</em>
+            </text>
+            <text>Nothing in this subtitle may be deemed to limit any other cause of action that may exist under federal, State, municipal, or common law.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>No conflict.</em>
+            </text>
+            <text>Nothing in this subtitle shall be deemed to be in conflict with a person's ability to invoke 46 U.S.C. § 30523 {"Maritime Liability - Exoneration and limitation of liability - General limit of liability"} to limit liability.</text>
+          </para>
+        </section>
+      </container>
+    </codify:insert>
+  </section>
+</document>

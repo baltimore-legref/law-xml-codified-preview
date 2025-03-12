@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-336" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-336</num>
+  <num type="bill">24-0485</num>
+  <heading type="short">Tenant Opportunity to Purchase - Corrective Bill</heading>
+  <heading type="long">An Ordinance Concerning Tenant Opportunity to Purchase - Corrective Bill</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-01-22</introduced>
+    <effective>2024-04-13</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/e034ea88-05d9-4ce5-a0a5-ebb9b68b45b7.pdf">Ord. 24-336</citation>
+    </citations>
+    <history>
+      <vote date="2024-01-22" reading="first"/>
+      <vote date="2024-03-4" reading="second"/>
+      <enacted>2024-04-24</enacted>
+      <committee>Favorable, with amendment</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="13|§6-2" codified:doc="City of Baltimore, Md., Code" codified:path="13|§6-2">
+      <section>
+        <prefix>§</prefix>
+        <num>6-2</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <text><em>In general</em>.</text>
+          <text>In this subtitle, the following terms have the meanings stated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><em>Commissioner</em>.</text>
+          <text>"Commissioner" means the Commissioner of the Department of Housing and Community Development, or the Commissioner's designee.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><em>Landlord</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text><em>In general</em>.</text>
+            <text>"Landlord" means any person who is the owner of a rental single-family dwelling unit.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><em>Inclusion</em>.</text>
+            <text>"Landlord" includes any person authorized to exercise any aspect of the management of the rental single-family dwelling unit, except those persons engaged solely in custodial and maintenance functions.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><em>Owner</em>.</text>
+          <text>"Owner" means any person recorded in the official records of the State or City as holding title to a rental single-family dwelling unit.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><em>Rent</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general</em>
+            </text>
+            <text>"Rent" means the consideration, including any bonus, benefit, or gratuity, demanded or received per day, week, month, year, or other period of time, as the case may be, for the use or occupancy of housing accommodations or the transfer of a lease for those accommodations.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Inclusion</em>
+            </text>
+            <text>"Rent" includes any charge to a tenant under a rent-to-own agreement if the tenant's acceptance of the agreement is mandatory or if the tenant is not entitled to a refund of the charge if the tenant does not purchase the unit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>
+            <em>Single-family dwelling unit.</em>
+          </text>
+          <text>"Single-family dwelling unit" has the meaning stated in § 202.2.22.4 of the Baltimore City <cite doc="City of Baltimore, Md., Code" path="|codes|II">Building Code</cite>.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>
+            <em>Statement of interest.</em>
+          </text>
+          <text>"Statement of interest" means a written and clear expression of interest to a landlord that the person writing the statement is interested in purchasing the landlord's rental single-family dwelling unit.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>
+            <em>Tenant.</em>
+          </text>
+          <text>"Tenant" means any person who:</text>
+          <para>
+            <num>(i)</num>
+            <text>occupies a rental single-family dwelling unit as a residence with the consent of the landlord; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>has an obligation to pay rent or provide other consideration to the landlor for those accommodations.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|§6-4|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="13|§6-4|(b)">
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Time limits.</em>
+        </text>
+        <text>The time periods specified in this subtitle are minimum periods. A landlord may provide a tenant with reasonable extensions of time to purchase the rental single-family dwelling unit.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="13|§6-7" codified:doc="City of Baltimore, Md., Code" codified:path="13|§6-7">
+      <section>
+        <prefix>§</prefix>
+        <num>6-7</num>
+        <heading>Opportunity to purchase - generally.</heading>
+        <text>Before a landlord may settle on the sale of a rental single-family dwelling unit, the landlord shall give the tenant an opportunity to purchase the rental single-family dwelling unit at a price and under terms that constitute an offer of sale in accordance with the requirements of this subtitle.</text>
+      </section>
+    </codify:replace>
+    <codify:replace path="13|§6-8" codified:doc="City of Baltimore, Md., Code" codified:path="13|§6-8">
+      <section>
+        <prefix>§</prefix>
+        <num>6-8</num>
+        <heading>Offer of sale.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general</em>
+          </text>
+          <text>Prior to offer the rental single-family dwelling unit for sale to another party, a landlord shall provide a written offer of sale to:</text>
+          <para>
+            <num>(1)</num>
+            <text>the tenant within the rental dwelling unit; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the Commissioner, on behalf of the Mayor and City Council.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Contents of offer of sale.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The offer of sale required by this section shall include:</text>
+            <para>
+              <num>(i)</num>
+              <text>the asking price and the material terms of sale; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a statement that the landlord shall provide the tenant, within 7 calendar days of a request, the following:</text>
+              <para>
+                <num>1.</num>
+                <text>a complete copy of any third-party contact to purchase the rental single-family dwelling unit, with the purchaser name redacted; and</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>copies of available licensing inspection reports of the rental single-family dwelling unit for the previous 2 years.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Delay.</em>
+            </text>
+            <text>For each calendar day of delay by the landlord to provide the information required by subsection (b)(1)(ii) of this section, the time period for the tenant to express interest in purchasing the rental single-family dwelling unit or to negotiate a contract with the landlord for the purchase of the rental single-family dwelling unit, as the case may be, shall be extended by 1 day.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Additional Information</text>
+          <text>The landlord shall share the fact sheet regarding tenant rights under this section, which can be obtained from the Department of Housing and Community Development's office or website.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Changes after notice of sale.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>"Material change" defined.</em>
+            </text>
+            <text>In this subsection, "material change" means:</text>
+            <para>
+              <num>(i)</num>
+              <text>a change in the purchaser under a third-party contact; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a reduction in the sales price of 10% or more.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>In general</em>
+            </text>
+            <para>
+              <num>(i)</num>
+              <text>If there is a subsequent third-party contract after the initial offer of sale was transmitted that results in a material change or if the terms of a third-party contract to purchase the rental dwelling unit materially change between the time an offer of sale is made and the settlement, the landlord shall provide the tenant with a new offer of sale reflecting the new terms.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>If the initial time period to indicate interest has expired, the tenant shall have all rights preserved under this subtitle except that the period to indicate interest in purchasing the rental single-family dwelling unit under the revised terms of sale may not exceed 7 calendar days from the date of receipt of the new offer of sale.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>
+              <em>Sale price increase.</em>
+            </text>
+            <text>A landlord is not required to provide a new offer of sale if there is an increase in the sale price.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:insert path="13|II|6|2" after="§6-9" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§6-10">
+      <section>
+        <prefix>§</prefix>
+        <num>6-10</num>
+        <heading>Assignment of rights.</heading>
+        <text>The rights of a tenant under this subtitle may not be assigned and anyattempted assignment is void.</text>
+      </section>
+    </codify:insert>
+    <codify:replace path="13|§6-16|(d)" codified:doc="City of Baltimore, Md., Code" codified:path="13|§6-16|(d)">
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Corporate owner.</em>
+        </text>
+        <text>Where a rental single-family dwelling unit subject to this section is owned by a corporation, LLC, or other business organization, the affidavit required by subsection (a) of this section shall be made by  a duly authorized officer of the organization or duly authorized representative of the ownership entity.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="13|§6-17|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="13|§6-17|(a)">
+      <para>
+        <num>(a)</num>
+        <text><em>Landlord's duty to report</em>.</text>
+        <para>
+          <num>(1)</num>
+          <text>A landlord shall report each rental single-family dwelling unit transfer subject to <cite doc="City of Baltimore, Md., Code" path="|13|6">this subtitle</cite> to the Commissioner within 30 days of the transfer in the manner required by the Commissioner.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The duty to report under this subsection shall include transfers to a party other than the tenant.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+</document>

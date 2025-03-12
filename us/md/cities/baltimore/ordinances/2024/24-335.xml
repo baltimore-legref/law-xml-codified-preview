@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-335" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-335</num>
+  <num type="bill">24-0480</num>
+  <heading type="short">Motor Fuel Credit Price - Signage</heading>
+  <heading type="long">An Ordinance Concerning Motor Fuel Credit Price - Signage</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-01-08</introduced>
+    <effective>2024-05-24</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/15a7580e-dea2-4038-b710-1d877ebfc0ba.pdf">Ord. 24-335</citation>
+    </citations>
+    <history>
+      <vote date="2024-01-08" reading="first"/>
+      <vote date="2024-03-04" reading="second"/>
+      <enacted>2024-04-24</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="1|§41-14|(.5)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14">
+      <para>
+        <num>(.5)</num>
+        <text>
+          <strong>
+            <em><cite doc="City of Baltimore, Md., Code" path="|2">Article 2</cite>  Consumer Protections</em>
+          </strong>
+        </text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td colspan="2">Subtitle 10.  Motor Fuel Sales</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1" colspan="2">§ 10-4(c). Failure to display highest credit price for motor fuel</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">1<sup>st</sup> offense</td>
+                <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">2<sup>nd</sup> offense</td>
+                <td>$250</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">3<sup>rd</sup> offense</td>
+                <td>$500</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">4<sup>th</sup> or subsequent offense</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td>Subtitle 16.  Ticket Sales – Charges by Operators and Agents</td>
+                <td>$750</td>
+              </tr>
+              <tr>
+                <td>Subtitle 17.  Ticket Sales – Ticket Purchasing Software</td>
+                <td>$750</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+    </codify:replace>
+    <codify:replace path="2|§10-1" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-1">
+      <section>
+        <prefix>§</prefix>
+        <num>10-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <text>In general.</text>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Credit price.</em>
+          </text>
+          <text>"Credit price" means the total cost, including any fees, for 1 whole measurement unit of regular gasoline sold on the premises that is payable to a fuel station by a customer using a credit card or other non-cash form of payment.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Motor fuel.</em>
+          </text>
+          <text>"Motor fuel" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>a light distillate of petroleum or allied substance with suitable volatility and other characteristics to be used as a fuel for operating internal combustion engines whether or not it is mixed with other materials; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any other product or liquid when sold for use as a fuel in any type of internal combustion engine furnishing power to operate a motor vehicle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Retail dealer.</em>
+          </text>
+          <text>"Retail dealer" means any person, firm, or corporation operating a service station, filling station, store, garage, or other place of business for the retail sale of motor fuel or the sale or dispensing of motor fuel for delivery into the service tank or tanks of any motor vehicle which is propelled by an internal combustion motor, other than such a motor vehicle belonging to the person owning or operating said place of business.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="2|§10-4" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-4">
+      <section>
+        <prefix>§</prefix>
+        <num>10-4</num>
+        <heading>Signs.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Legislative finding.</em>
+          </text>
+          <text>The City Council finds that the preservation of the natural beauty of Baltimore City requires the limitation of signs advertising prices of motor vehicle fuels at places dispersing fuels in Baltimore City.  Such limitation will equally serve to protect the safety and recreational value of public travel on streets in the City and will better protect the public investment in its streets and highways.  In furtherance of these purposes, the following limitations are enacted.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Price signs on pumps.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>Every retail dealer in motor fuel shall publicly display and maintain on each pump or other dispensing device, from which motor fuel is sold by him, at least 1 sign and not more than 2 signs stating the price per gallon of the motor fuel, the State and Federal taxes, and the total price, sold by him from such pump or device.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Said sign or signs shall be of a size not larger than 8 inches by 10 inches.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The price shown on each of such signs shall include an itemization of the cost per gallon of said motor fuel, the amount of Federal taxes, and the amount of State taxes.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>All figures, including fractions, upon said signs, other than figures and fractions used in any price-computing mechanism constituting a part of any such pump or dispensing device, shall be of the same size.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Credit price must be displayed.</em>
+          </text>
+          <text>If a retail dealer in motor fuel posts a sign under § 10-315(e) of the State Business Regulation Article, the sign must include, clearly and visibly, the highest credit price.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Other price signs prohibited.</em>
+          </text>
+          <text>No signs stating or relating to the prices of motor fuel and no signs designed or calculated to cause the public to believe that they state or relate to the price of motor fuel, other than the signs referred to in  subsections (b) and (c) of this section and required to be displayed upon pumps and other dispensing devices, shall be posted or displayed on or about the premises where motor fuel is sold at retail, and within the view of any public highway or reservation.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="2|§10-8" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-8">
+      <section>
+        <prefix>§</prefix>
+        <num>10-8</num>
+        <heading>Penalties.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>Except as provided under  subsections (b) and (c) of this section, whoever, himself or by his agent or servant, violates any provision of this subtitle shall be punished by a fine of not less than $10 nor more than $100.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Upon the 2nd conviction of any licensee or any such violation, whether by himself or by his agent or servant, the Director of Finance may suspend the right of such licensee to engage in the business of selling motor fuel at retail for a period not exceeding 3 months.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Upon a 3rd or subsequent conviction of any license of any such violation, whether by himself or by his agent or servant, the Director of Finance may suspend such right for a period not exceeding 1 year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Violations of <cite doc="City of Baltimore, Md., Code" path="2|§10-4|(c)">§ 10-4(c)</cite>.</em>
+          </text>
+          <text>Any retail dealer of motor fuel violating <cite doc="City of Baltimore, Md., Code" path="2|§10-4|(c)">§10-4(c)</cite> of this subtitle is subject to:</text>
+          <para>
+            <num>(i)</num>
+            <text>for a first offense, a fine of not more than $100;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>for a second offense, a fine of not more than $250;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>for a third offense, a fine of not more than $500; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>for a fourth or subsequent offense, a fine of not more than $1,000 and the suspension of the retail dealer's license under <cite doc="City of Baltimore, Md., Code" path="2|§10-2">§ 10-2</cite> of this subtitle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Violations of <cite doc="City of Baltimore, Md., Code" path="2|§10-6">§10-6</cite>.</em>
+          </text>
+          <text>Any retail service station dealer who is convicted of a violation of any provision of <cite doc="City of Baltimore, Md., Code" path="2|§10-6">§ 10-6</cite> of this subtitle is subject to a fine of not more than $25.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

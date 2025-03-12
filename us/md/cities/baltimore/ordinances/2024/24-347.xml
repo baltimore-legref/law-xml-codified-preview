@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-347">
+  <num type="law">24-347</num>
+  <num type="bill">23-0438</num>
+  <heading type="short">Mayor's Office of Immigrant Affairs - Establishment</heading>
+  <heading type="long">An Ordinance Concerning Mayor's Office of Immigrant Affairs - Establishment</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-10-16</introduced>
+    <effective>2024-07-27</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/558e5f44-1a71-4b32-989a-93ec91229b50.pdf">Ord. 24-347</citation>
+    </citations>
+    <history>
+      <vote date="2023-10-16" reading="first"/>
+      <vote date="2024-04-15" reading="second"/>
+      <enacted>2024-06-27</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="1" before="55" codified:doc="City of Baltimore, Md., Code" codified:path="1|§54-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>54</num>
+        <heading>Mayor's Office of Immigrant Affairs</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>54-1</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>In this subtitle, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Director.</em>
+            </text>
+            <text>"Director" means the Director of Immigrant Affairs.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Immigrant.</em>
+            </text>
+            <text>"Immigrant" means an individual:</text>
+            <para>
+              <num>(1)</num>
+              <text>who is a resident of Baltimore City; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>whose country of origin is a country other than the United States.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Office.</em>
+            </text>
+            <text>"Office" means the Mayor's Office of Immigrant Affairs.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>54-2</num>
+          <heading>Office established.</heading>
+          <text>There is an Office of Immigrant Affairs in the Office of the Mayor.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>54-3</num>
+          <heading>Purpose.</heading>
+          <text>The purpose of the Office is to promote the well-being, economic development, and integration of Baltimore City's immigrant communities.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>54-4</num>
+          <heading>Office - Powers and duties.</heading>
+          <text>The office shall have the power and duty to perform the following functions:</text>
+          <para>
+            <num>(1)</num>
+            <text>advise the Mayor, City Council, and City agencies on ways to enhance and improve access to City services and resources for immigrants;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>advise the Mayor, City Council, and City agencies on ways to strengthen opportunities for immigrants to participate in the civic life of the City;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>implement and coordinate City policies regarding issues affecting immigrant communities;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>advocate for equal treatment of immigrants and equitable access to City services;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>review proposed legislation referred to the Office by the City Council and assess its impact on the economic, physical, social, emotional, and intellectual welfare of immigrants;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>improve the services available to immigrants by advocating for changes in:</text>
+            <para>
+              <num>(i)</num>
+              <text>public policy;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>service delivery; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>funding;</text>
+            </para>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>develop, implement, and coordinate policies that facilitate City agencies' compliance with all federal, State, and local language access laws;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>advance the Office's mission by working in partnership with:</text>
+            <para>
+              <num>(i)</num>
+              <text>City agencies;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>City boards;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>City commissions;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>community organizations; and</text>
+              <para>
+                <num>(v)</num>
+                <text>the private sector;</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>serve as a liaison between the City and its immigrant communities;</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>establish and staff community advisory groups to provide strategic guidance and monitoring of initiatives relevant to the purpose of the Office;</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>solicit community and stakeholder input regarding the activities of the Office, including consultations with City agencies, boards, and commissions on implementation of programs and services relevant to immigrants; and</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>perform other duties as required by the Mayor.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>54-5</num>
+          <heading>Director.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>There is a Director of Immigrant Affairs, who is responsible for the administration and oversight of the Office.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Appointment.</em>
+            </text>
+            <text>The Director is appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Salary.</em>
+            </text>
+            <text>The Director shall receive such salary as may be provided in the Ordinance of Estimates.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>54-6</num>
+          <heading>Staff and budget.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>Staff.</em>
+            </text>
+            <text>The Office may employ staff in accordance with the Ordinance of Estimates.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Budget.</em>
+            </text>
+            <text>The Office may expend funds authorized in the Ordinance of Estimates or any supplemental appropriation.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>54-7</num>
+          <heading>Annual report.</heading>
+          <text>On or before June 30 of each year, the Office shall submit a report to the Mayor and City Council detailing:</text>
+          <para>
+            <num>(1)</num>
+            <text>the activities of the Office; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any specific policy or legislative proposals to advance the goals of the Office and the needs of immigrant communities in Baltimore.</text>
+          </para>
+        </section>
+      </container>
+    </codify:insert>
+    <codify:replace doc="City of Baltimore, Md., Code" path="1|53 to 54" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§53-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>53</num>
+        <reason>Reserved</reason>
+      </container>
+    </codify:replace>
+  </section>
+</document>

@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 22-161">
+  <num type="law">22-161</num>
+  <num type="bill">21-0050</num>
+  <heading type="short">Burglar Alarms Registration and Regulation - False Alarms</heading>
+  <heading type="long">An Ordinance Concerning Burglar Alarms Registration and Regulation - False Alarms</heading>
+  <meta>
+    <stub/>
+    <introduced>2022-03-21</introduced>
+    <effective>2022-12-10</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/b3e94fb2-b366-478b-928e-0def9503033e.pdf">Ord. 22-161</citation>
+    </citations>
+    <history>
+      <vote date="2022-03-21" reading="first"/>
+      <vote date="2022-07-25" reading="second"/>
+      <enacted>2022-08-12</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace doc="City of Baltimore, Md., Code" path="19|8|8-8" codified:doc="City of Baltimore, Md., Code" codified:path="19|§8-8">
+      <section>
+        <prefix>§</prefix>
+        <num>8-8</num>
+        <heading>False alarm fees.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>User responsible.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The user of an alarm system is responsible for payment to the City of the false alarm fees imposed under this section. Failure to pay a false alarm fee or any attendant late fee within 60 days of imposition is a violation of this subtitle.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For purposes of this section, 2 or more false alarms that occur within the same calendar day as a result of a single event are considered a single false alarm.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Residential user fee schedule.</em>
+          </text>
+          <text>After 1 false alarm in any 12-month period, a false alarm fee is imposed on any residential user for each false alarm, based on the following schedule:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th>False alarms within 12-month period</th>
+                  <th>Fee</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>2<sup>nd</sup> or 3<sup>rd</sup></td>
+                  <td>$75</td>
+                </tr>
+                <tr>
+                  <td>4<sup>th</sup></td>
+                  <td>$150</td>
+                </tr>
+                <tr>
+                  <td>5<sup>th</sup></td>
+                  <td>$250</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><em>Non-Residential user fee schedule</em>.</text>
+          <text>After 1 false alarm in any 12-month period, a false alarm fee is imposed on any non-residential user for each false alarm, based on the following schedule:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th>False alarms within 12-month period</th>
+                  <th>Fee</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>2<sup>nd</sup> or 3<sup>rd</sup></td>
+                  <td>$150</td>
+                </tr>
+                <tr>
+                  <td>4<sup>th</sup></td>
+                  <td>$300</td>
+                </tr>
+                <tr>
+                  <td>5<sup>th</sup></td>
+                  <td>$500</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Waiver.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The Commissioner must waive 1 false alarm fee if the alarm system user:</text>
+            <para>
+              <num>(i)</num>
+              <text>has the alarm system inspected by a registered contractor or monitor; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>obtains from the contractor or monitor a certification that the alarm system has been inspected and is functioning properly.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If a false alarm fee is waived under this subsection and the user is subject to a subsequent false alarm fee, that subsequent fee will be assessed as if the previous fee had not been waived.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>
+            <em>Late fee.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The Commissioner may assess a late fee of $25 for any false alarm fee that is not paid:</text>
+            <para>
+              <num>(i)</num>
+              <text>within 30 days of the Commissioner's notice that the false alarm fee has been imposed; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>if a timely appeal has been made, within 30 days of the final decision in that appeal.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the false alarm or late fee is not paid within 10 business days of the Commissioner's notice that the late fee has been imposed, the Commissioner may place the user's alarm system on no-response status, as provided in <cite doc="City of Baltimore, Md., Code" path="19|8|8-9">§ 8-9 {"No-response status"}</cite> of this subtitle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>
+            <em>Warning of no-response status.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>After a second false alarm within any 12-month period, the Commissioner must send a warning notice by certified mail, return receipt requested, to the user, with a copy by regular mail to the monitor.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The notice must state that:</text>
+            <para>
+              <num>(i)</num>
+              <text>a  second false alarm has occurred;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>if a total of 5  false alarms occur within the same 12-month period, the user's alarm system will be placed on no-response status, as provided in <cite doc="City of Baltimore, Md., Code" path="19|8|8-9">§ 8-9 {"No-response status"}</cite> of this subtitle; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>reinstatement may only be obtained on written application to the Commissioner.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="19|8|8-9" codified:doc="City of Baltimore, Md., Code" codified:path="19|§8-9">
+      <section>
+        <prefix>§</prefix>
+        <num>8-9</num>
+        <heading>No-response status.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>"No-response status" defined.</em>
+          </text>
+          <text>In this section, "no-response status" means that, except for a hold-up alarm or a panic alarm, police will not be dispatched to investigate an alarm signal</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>When required.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>An alarm system will be placed on no-response status if, after a warning notice has been sent pursuant to <cite doc="City of Baltimore, Md., Code" path="19|8|8-8|(f)">§ 8-8(f)</cite> of this subtitle, the alarm system has had 5 or more false alarms in any 12-month period.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Commissioner may reinstate the alarm system only if:</text>
+            <para>
+              <num>(i)</num>
+              <text>the user applies in writing for reinstatement; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the Commissioner finds that the alarm system has been repaired, upgraded, or replaced and the cause of the false alarms corrected.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>When authorized.</em>
+          </text>
+          <text>The Commissioner may place an alarm system on no-response status if:</text>
+          <para>
+            <num>(1)</num>
+            <text>the alarm system user has made any false statement of material fact in the user's registration application;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the user's registration is revoked; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the user fails to pay timely any fee imposed under <cite doc="City of Baltimore, Md., Code" path="19|8|8-8">§ 8-8 {"False alarm fees"}</cite> of this subtitle.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="19|8|8-11" codified:doc="City of Baltimore, Md., Code" codified:path="19|§8-11">
+      <section>
+        <prefix>§</prefix>
+        <num>8-11</num>
+        <heading>Verification of alarm signal.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Scope.</em>
+          </text>
+          <text>This section does not apply to a hold-up alarm or panic alarm.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Monitor to attempt to verify.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text><em>In general</em>.</text>
+            <text>Before requesting a police response to an alarm signal, a monitor must attempt to contact the alarm system site or user, by telephone, electronically, or visually, to verify the need for a police response.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Second attempt required.</em>
+            </text>
+            <text>For the purpose of this section, verification shall require, at a minimum, that a second attempt be made to a different number if the first attempt fails to reach an alarm user or an individual at the alarm system site who can properly identify themselves to determine whether an alarm signal is valid before requesting a police response.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

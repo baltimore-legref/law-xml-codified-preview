@@ -1,0 +1,4850 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-429" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-429</num>
+  <num type="bill">24-0590</num>
+  <heading type="short">Zoning - Sign Regulations - C-5-DC Zoning District - Amendment</heading>
+  <heading type="long">An Ordinance Concerning Zoning - Sign Regulations - C-5-DC Zoning District - Amendment</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-09-16</introduced>
+    <effective>2024-11-27</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/5e6cab7f-a72d-42db-b5c7-0f3f525254ef.pdf">Ord. 24-429</citation>
+    </citations>
+    <history>
+      <vote date="2023-09-16" reading="first"/>
+      <vote date="2024-11-04" reading="second"/>
+      <enacted>2024-11-27</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="32|attachments|17-201" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|17-201">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>17-201</num>
+        <heading>Sign Regulations</heading>
+        <text>
+          <em>
+            <u>Caution</u>
+          </em>
+          <em>:  Additional Sign Standards are Located in Title 17 {"Signs"}.</em>
+        </text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th colspan="2">Sign Types by Zoning District *</th>
+                <th colspan="3">Zoning District Requirements</th>
+                <th colspan="3">Area of Special Signage Control (ASSC)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th/>
+                <th>Approval Method</th>
+                <th>Maximum Area Per Sign</th>
+                <th>Height, Width, &amp; Location Req'ts</th>
+                <th>Maximum Quantity</th>
+                <th>Sign Types Allowable for ASSC Deviation</th>
+                <th>Maximum Percentage Deviation for Height, Width, &amp; Area</th>
+                <th>Quantity Deviation</th>
+              </tr>
+              <tr>
+                <th colspan="8">R-1A through R-4</th>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>CB</td>
+                <td>15 sq. ft.</td>
+                <td>Per Sign Type Used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>CB</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt.  12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">R-5 through  R-7</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>CB</td>
+                <td>15 sq. ft.</td>
+                <td>Per Sign Type Used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt.6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>CB</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">R-8 through  R-10</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>CB</td>
+                <td>15 sq. ft.</td>
+                <td>Per Sign Type Used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt.  6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>CB</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per interior lot,  2 per corner lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">R-MU</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt.  4 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>CB</td>
+                <td>15 sq. ft.</td>
+                <td>Per Sign Type Used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>CB</td>
+                <td>16 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>4 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">D-MU</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>4 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-1</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per interior lot, 2 per corner lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>6 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>24 sq. ft.</td>
+                <td/>
+                <td>
+                  <p>1 per tenant w/ direct ground floor access/ corner tenant,</p>
+                  <p>1 per street frontage</p>
+                </td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>1.5 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor only</td>
+                <td>1 window per street frontage</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-1-E</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per interior lot, 2 per corner lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>6 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>1.5 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>1 per interior lot, 2 per corner lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td>2 windows per street frontage</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-1-VC</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>20%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per interior lot, 2 per corner lot</td>
+                <td>X</td>
+                <td>20%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>20%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>20%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>6 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>20%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td>X</td>
+                <td>20%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>24 sq. ft.</td>
+                <td/>
+                <td>
+                  <p>1 per tenant w/ direct ground floor access/ corner tenant,</p>
+                  <p>1 per street frontage</p>
+                </td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>1.5 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor only</td>
+                <td>1 window per street frontage</td>
+                <td>X</td>
+                <td>20%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-2</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>24 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>CB</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category III)</td>
+                <td>ASSC Only</td>
+                <td>300 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>16 sq. ft.</td>
+                <td>
+                  <p>Minimum. Pole Hgt. 10 ft./</p>
+                  <p>Max. Sign Hgt. 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>6 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>30 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>1 per interior lot, 2 per corner lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td>2 windows per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-3</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>
+                  <p>Minimum Pole Hgt. 10 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum    Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>6 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>1 per interior lot, 2 per corner lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td>2 windows per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-4</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Minimum Pole Hgt. 10 ft ./ Max. Sign Hgt. 20 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum      Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>24 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>1 per interior lot, 2 per corner lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td>2 windows per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-5-DC</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 Ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>4 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>120 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category III)</td>
+                <td>ASSC Only</td>
+                <td>750 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category IV)</td>
+                <td>ASSC Only</td>
+                <td>5,000 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category V)</td>
+                <td>ASSC Only</td>
+                <td>10,5000   sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>ASSC Only</td>
+                <td>700 sq. ft.</td>
+                <td>
+                  <p>Min. Hgt. 10 ft.</p>
+                  <p>Max Hgt. 75 ft. in a parking lot less than 2,000ft. From a stadium with a seating capacity of at least 40,000</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum    Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>250 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 50% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-5-IH</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 Ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>4 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>120 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category III)</td>
+                <td>ASSC Only</td>
+                <td>750 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum    Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 50% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-5-DE</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>4 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>120 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category III)</td>
+                <td>ASSC Only</td>
+                <td>750 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum    Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 50% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-5-HT</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max<em>.</em> Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td/>
+                <td>4 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>120 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum    Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>25 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 50% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-5-TO</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td/>
+                <td>4 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>120 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category III)</td>
+                <td>ASSC Only</td>
+                <td>750 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category IV)</td>
+                <td>ASSC Only</td>
+                <td>5,000 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum    Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 40% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-5-HS</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td/>
+                <td>4 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category III)</td>
+                <td>ASSC Only</td>
+                <td>400 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 8 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum    Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 15 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 40% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">C-5-G</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td/>
+                <td>4 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>120 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category III)</td>
+                <td>ASSC Only</td>
+                <td>750 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum    Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 40% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">OIC</th>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Minimum    Pole Hgt. 10 ft./ Max. Sign Hgt. 24 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3"/>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum    Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Max. Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>CB</td>
+                <td>50 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>25 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">BSC</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td/>
+                <td>4 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Minimum    Pole Hgt. 10 ft./ Max. Sign  Hgt. 24 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum   Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Maximum Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>48 sq. ft.</td>
+                <td/>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 40% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">IMU-1 and IMU-2</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Minimum    Pole Hgt. 10 ft./ Max. Sign Hgt. 24 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Maximum Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>48 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>ASSC Only</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">I-1</th>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Minimum    Pole Hgt. 10 ft./ Max. Sign  Hgt. 24 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">I-2</th>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Minimum    Pole Hgt. 10 ft./ Max. Sign  Hgt. 24 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>1 per interior lot, 2 per corner lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">MI</th>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Minimum    Pole Hgt. 10 ft./ Max. Sign Hgt. 24 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>24 sq. ft.</td>
+                <td/>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>1 per interior lot, 2 per corner lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">OR-1</th>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>CB</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>30 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>1 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td>X</td>
+                <td>25%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">OR-2</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>CB</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>30 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>1 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">EC-1</th>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Minimum    Pole Hgt. 10 ft./ Max. Sign Hgt. 20 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft. / Maximum Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>1 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td>2 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">EC-2</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum Hgt. 6 ft./</p>
+                  <p>Max. Sign Hgt. 20 ft. / Maximum Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>18 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>1 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 35% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td>2 windows per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">H</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Min. Pole Hgt. 10 ft./ Max. Sign  Hgt. 20 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Min. Hgt. 6 ft./ Max. Sign Hgt. 20 ft. / Max. Width 6 ft.</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>36 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td>1 window per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">TOD-1</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Below       parapet</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>16 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>16 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>30 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>1 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">TOD-2</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>16 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>16 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 15 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>1 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 40% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">TOD-3</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>16 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>16 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>30 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>1 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">TOD-4</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category III)</td>
+                <td>ASSC Only</td>
+                <td>750 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>60 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>16 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>16 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>3 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>40 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>
+                  <p>1 per interior lot,</p>
+                  <p>2 per corner lot</p>
+                </td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 40% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <th colspan="8">OS</th>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>2 sq. ft. per linear foot of awning, canopy, or frame width</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum   Hgt. 6 ft ./</p>
+                  <p>Max. Sign Hgt. 20 ft. / Maximum Width 6 ft.</p>
+                </td>
+                <td>3 per lot</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>12 sq. ft.</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor &amp; Above Ground Floor)</td>
+                <td>A</td>
+                <td>1 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>1 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 25% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td>2 per building</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <th colspan="8">PC-1 through PC-4</th>
+              </tr>
+              <tr>
+                <td>A-Frame</td>
+                <td>A</td>
+                <td>8 sq. ft. per side</td>
+                <td>Max. Hgt. 4 ft.</td>
+                <td>1 per tenant w/ direct ground-floor access / Corner tenant, 1 per street frontage</td>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Attention-Getting Device</td>
+                <td>A</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Awning or Canopy Sign &amp; Open-Structural Framework Sign</td>
+                <td>A</td>
+                <td>30 sq. ft.</td>
+                <td/>
+                <td>4 per building</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Freestanding)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.,  except flags on single pole Max. Hgt. 25 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Projecting)</td>
+                <td>A</td>
+                <td>32 sq. ft.</td>
+                <td/>
+                <td>1 per street frontage</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Banner Sign (Wall Mounted)</td>
+                <td>A</td>
+                <td>120 sq. ft.</td>
+                <td>Below parapet</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Billboard</td>
+                <td>ASSC Only</td>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="3">Requirements per § 17-406</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category I)</td>
+                <td>A</td>
+                <td>15 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category II)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category III)</td>
+                <td>ASSC Only</td>
+                <td>750 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category IV)</td>
+                <td>ASSC Only</td>
+                <td>5,000sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Electronic Sign (Category V)</td>
+                <td>ASSC Only</td>
+                <td>10,500 sq. ft.</td>
+                <td>Per sign type used</td>
+                <td/>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Monument)</td>
+                <td>A</td>
+                <td>250 sq. ft.</td>
+                <td>Max. Hgt. 6 ft.</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pole)</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td>Minimum    Pole Hgt. 10 ft./ Max. Sign Hgt. 30 ft.</td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>50%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Freestanding (Pylon)</td>
+                <td>A</td>
+                <td>50 sq. ft.</td>
+                <td>
+                  <p>Minimum Hgt. 6 ft. /</p>
+                  <p>Max. Sign Hgt. 20 ft./</p>
+                  <p>Maximum Width 6 ft.</p>
+                </td>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Painted / Mural Sign</td>
+                <td>A</td>
+                <td>100 sq. ft.</td>
+                <td/>
+                <td>1 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>20 sq. ft.</td>
+                <td/>
+                <td>1 per tenant w/ direct ground-floor access</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Projecting Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>250 sq. ft.</td>
+                <td/>
+                <td>1 per each street frontage of building</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Provisional Fence Sign</td>
+                <td>A</td>
+                <td/>
+                <td>Max. Hgt. 12 ft.</td>
+                <td/>
+                <td colspan="3">Not Eligible</td>
+              </tr>
+              <tr>
+                <td>Roof Sign</td>
+                <td>A</td>
+                <td>4 sq. ft. per linear foot of building frontage</td>
+                <td>May not project any higher than 20 ft. above the roof</td>
+                <td>1 per building</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Ground Floor)</td>
+                <td>A</td>
+                <td>25 sq. ft.</td>
+                <td/>
+                <td>
+                  <p>1 per tenant w/ direct ground-floor access / Corner tenant,</p>
+                  <p>1 per street frontage</p>
+                </td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Wall Sign (Above Ground Floor)</td>
+                <td>A</td>
+                <td>6 sq. ft. per linear foot of building frontage</td>
+                <td/>
+                <td>2 per lot</td>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+              <tr>
+                <td>Window Sign</td>
+                <td>A</td>
+                <td>No more than 50% of each window area</td>
+                <td>Ground floor and second floor only</td>
+                <td/>
+                <td>X</td>
+                <td>75%</td>
+                <td>Per Approved Signage Plan</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="8">
+                  <p><strong>*</strong> If, in the "Sign Types by Zoning District" section of this table, a sign type is not listed in a particular zoning district, then that sign type is prohibited in that zoning district.</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 18-216" type="History">Ord. 18-216</annotation>
+          <annotation doc="City of Balt., Md., Ord. 19-244" type="History">Ord. 19-244</annotation>
+          <annotation doc="City of Balt., Md., Ord. 20-350" type="History">Ord. 20-350</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+        </annotations>
+      </attachment>
+    </codify:replace>
+  </section>
+</document>

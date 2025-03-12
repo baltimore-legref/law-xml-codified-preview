@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2023">
+  <heading>2023 Ordinances</heading>
+  <subheading>Codified Ordinances</subheading>
+  <xi:include href="./23-276.xml"/>
+  <xi:include href="./23-275.xml"/>
+  <xi:include href="./23-251.xml"/>
+  <subheading>Uncodified Ordinances</subheading>
+  <xi:include href="./23-266.xml"/>
+  <xi:include href="./23-262.xml"/>
+  <xi:include href="./23-261.xml"/>
+</collection>

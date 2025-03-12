@@ -1,0 +1,958 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Article</prefix>
+  <num>27</num>
+  <heading>Stormwater Remediation Fees</heading>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>1</num>
+    <heading>Definitions; General Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>1-1</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>In <cite path="|27">this article</cite>, the following terms have the meanings indicated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>City stormwater management system.</heading>
+        <text>"City stormwater management system" includes:</text>
+        <para>
+          <num>(1)</num>
+          <text>the City's conveyance or system of conveyances designed or used to collect or convey stormwater through infrastructure, such as gutters, swales, inlets, pipes, manholes, pumping stations, culverts and other man-made channels, and outfalls;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>City practices that retain, filter, or infiltrate stormwater for the purpose of reducing pollutant loadings; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the City's system of receiving waters, such as streams, wetlands, rivers, and harbors.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Director of Public Works; Director.</heading>
+        <text>"Director of Public Works" or "Director" means the Director of Public Works or the Director's designee.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Enabling Law.</heading>
+        <text>"Enabling Law" means State Environment Article § 4-202.1 {"Watershed protection and restoration programs"}, which mandates that the City adopt and impose a stormwater management fee.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Impervious surface.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Impervious surface" means any surface that does not allow stormwater to infiltrate into the ground.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Inclusions.</heading>
+          <text>"Impervious surface" includes rooftops, driveways, sidewalks, or pavement.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Exclusions.</heading>
+          <text>"Impervious surface" does not include ballasted railroad tracks.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Person.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Qualified inclusion of governmental entities.</heading>
+          <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in <cite path="|27">this article</cite> "person"also  includes, except as otherwise provided in <cite path="|27">this article</cite> or by other applicable law,  a governmental entity or an instrumentality or unit of a governmental entity.</text>
+        </para>
+      </para>
+      <para>
+        <num proof="done">(h)</num>
+        <heading>Professional engineer.</heading>
+        <text>"Professional engineer" means a person licensed to practice engineering under State Code Business Occupations and Professions Article, Title 14 {"Professional Engineers"}.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Professional land surveyor.</heading>
+        <text>"Professional land surveyor" means a person licensed to practice land surveying under State Code Business Occupations and Professions Article, Title 15 {"Professional Land Surveyors"}.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>"Single-family property" defined.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Single-family property" means a developed lot that contains but 1 dwelling unit and is used exclusively as a single-family dwelling.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Supplemental definitions.</heading>
+          <text>In this subsection, "dwelling", "dwelling unit", "lot", and "single-family dwelling" have the meanings stated in the Baltimore City Zoning Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>Stormwater remediation fee; Fee.</heading>
+        <text>"Stormwater remediation fee" or "fee" means the stormwater remediation fee imposed under <cite path="|27">this article</cite>.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>Watershed Protection and Restoration Fund; Fund.</heading>
+        <text>"Watershed Protection and Restoration Fund" or "Fund" means the stormwater enterprise fund established under <cite doc="City of Baltimore, Md., Charter" path="VI|§18">City Charter Article VI, § 18</cite> {"Water, sanitary wastewater, and stormwater utilities"}.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+        <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-2</num>
+      <heading>Rules and regulations.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Director to adopt.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Public Works shall adopt rules and regulations to carry out <cite path="|27">this article</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Filing with Legislative Reference.</heading>
+        <text>A copy of all rules and regulations adopted by the Director of Public Works under this subtitle must be filed with the Department of Legislative Reference at least 30 days before they take effect.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">Conformance TBA.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>1-3</num>
+      <reason>Repealed by Ord. 22-125</reason>
+      <annotations>
+        <annotation type="Editor's Notes">See <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>, for the Code-wide standard for severability.</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>2</num>
+    <heading>Watershed Protection and Restoration Fund</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>2-1</num>
+      <heading>Purpose of fund.</heading>
+      <text>The Watershed Protection and Restoration Fund is established pursuant to the Enabling Law for the purpose of financing the costs of improving the City stormwater management system, including its watershed protection and restoration program.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+        <annotation doc="City of Balt., Md., Ord. 13-175" type="History">Ord. 13-175</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-2</num>
+      <heading>Required deposits into Fund.</heading>
+      <text>The City shall deposit in the Watershed Protection and Restoration Fund the following receipts:</text>
+      <para>
+        <num>(1)</num>
+        <text>all proceeds received from stormwater remediation fees;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>all interest or other income earned on the investment of money in the Fund; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>any additional money made available from other sources for the purposes for which the Fund has been established.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-3</num>
+      <heading>Permitted uses of Fund.</heading>
+      <text>Money in the Watershed Protection and Restoration Fund may be used for the following purposes only:</text>
+      <para>
+        <num>(1)</num>
+        <text>capital improvements for stormwater management, including stream and wetland restoration projects;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>operation and maintenance of the City stormwater management system and facilities;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>public education and outreach relating to stormwater management or stream and wetland restoration;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>stormwater management planning, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>mapping and assessment of impervious surfaces; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>monitoring, inspection, and enforcement activities to carry out the purposes of the Fund;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>to the extent that fees imposed under the authority of State Environment Article § 4-204 are deposited into the Fund, review of stormwater management plans and permit applications for future development;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>grants to nonprofit organizations for up to 100% of a project's costs for watershed restoration and rehabilitation projects relating to:</text>
+        <para>
+          <num>(i)</num>
+          <text>planning, design, and construction of stormwater management practices;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>stream and wetland restoration; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>public education and outreach related to stormwater management or stream and wetland restoration;</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>reasonable costs necessary to administer the Fund; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>any other use authorized by the Enabling Law.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>3</num>
+    <heading>Fee Imposition and Collection</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>3-1</num>
+      <heading>Fee imposed.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>A stormwater remediation fee is imposed on all properties located in Baltimore City and the owners of those properties.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Exemptions.</heading>
+        <text>This subtitle does not apply to any property that is expressly exempted by the Enabling Law.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Fee in addition to other charges.</heading>
+        <text>The stormwater remediation fee is in addition to any other fee or charge that the City has the right to charge under any other law, rule, or regulation.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-2</num>
+      <heading>Assessment of base fee – Single-family properties.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Assessment formula.</heading>
+        <text>The fee for a single-family property is the flat rate determined by:</text>
+        <para>
+          <num>(1)</num>
+          <text>the applicable tier category within which the property falls, as determined under subsection (b) of this section;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the number of equivalent residential units (or "ERUs") assigned to that tier; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the rate per  ERU set in accordance with § 3-4 {"Initial rates"} or <cite path="|27|§3-5">§ 3-5 {"Subsequent rates"} of this subtitle</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Tier categories.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The tier categories for single-family properties are based on a property's impervious surface area, as determined by the Department of Public Works.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The tier categories are as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>Tier 1 – property with impervious surface area less than or equal to 820 square feet.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Tier 2 – property with impervious surface area greater than 820 square feet and less than or equal to 1,500 square feet.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Tier 3 – property with impervious surface area greater than 1,500 square feet.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Corrections.</heading>
+        <text>If a property owner contests the property's tier assignment and presents plat information, non-aerial photography, or non-aerial videography to support a claim that the property belongs in a lower tier, the Department must:</text>
+        <para>
+          <num>(1)</num>
+          <text>demonstrate that the higher tier is correct; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>failing to so demonstrate, make the requested correction.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-3</num>
+      <heading>Assessment of base fee – All other properties.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Scope of section.</heading>
+        <text>This section applies to all properties in the City that are not single-family properties subject to § 3-2{"Assessment of base fee – Single-family properties"} of this subtitle.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Assessment formula.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The fee for properties subject to this section is the rate per Equivalent Residential Unit (or "ERU") set in accordance with § 3-4 {"Initial rates"} or <cite path="|27|§3-5">§ 3-5 {"Subsequent rates"} of this subtitle</cite> times the number of ERUs on the property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For this purpose, 1 ERU comprises 1,050 square feet of impervious surface area.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Methods of measurement.</heading>
+        <para>
+          <num>(1)</num>
+          <text>For properties subject to this section, the following methods may be used, at the sole discretion of the Director of Public Works, to determine the impervious surface measurement of a property:</text>
+          <para>
+            <num>(i)</num>
+            <text>geographic information systems analysis of aerial photographs;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>measurement from approved as-built engineering drawings that are signed and sealed by a professional engineer;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>field surveys that are signed and sealed by a professional engineer or professional land surveyor; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the use of any additional information that can reliably supplement the data derived from the other measures.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The resultant ERU count shall be rounded to the nearest whole number.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The computations and back-up materials for all resultant ERU counts shall be maintained by the Department of Public Works and made available to the public, in the Department's main office and on the Department's website.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Minimum assessed fee.</heading>
+        <text>The minimum assessed stormwater fee for all properties subject to this section shall be equal to the fee for 1 ERU.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Maximum assessed fee.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>The maximums set by paragraphs (2) and (3) of this subsection do not apply to any property or portion of a property for which a credit or exemption has been applied for under <cite path="|27|§3-6">§ 3-6 {"Credits; Exemptions"} of this article</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Maximum as percentage of property tax.</heading>
+          <para>
+            <num>(i)</num>
+            <text>Subject to subparagraph (ii) of this paragraph, the fee for any property that is subject to property tax and is subject to assessment under this section may not exceed an amount equal to 20% of the total of all State and local real property taxes levied on the property.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>This paragraph (2) applies only to properties for which each of the following exceeds $1,000:</text>
+            <para>
+              <num>(A)</num>
+              <text>the net State and local real property taxes levied on the property; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the storm water remediation fee otherwise assessable under <cite path="|27">this article</cite>.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Religious organizations.</heading>
+          <text>Notwithstanding § 3-4 {"Initial rates"} and § 3-5 {"Subsequent rates"}, the fee for structures located on property owned by religious groups or organizations is $12 per ERU per year if:</text>
+          <para>
+            <num>(1)</num>
+            <text>the property is not subject to State or City property tax; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the structures on the property are used exclusively for:</text>
+            <para>
+              <num>(i)</num>
+              <text>places of worship; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>elementary, middle, or high school education.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-4</num>
+      <heading>Initial rates though FY 2017.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Through June 30, 2017, the rates are as provided in this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Single-family properties.</heading>
+        <text>For single-family properties assessed under § 3-2 {"Assessment of base fee – Single-family properties"}, the rate per month is the following multiple of the rate-per-month-per-ERU established for properties assessed under § 3-3 {"Assessment of base fee – All other properties"}:</text>
+        <para>
+          <num>(1)</num>
+          <text>Tier 1 properties: 2/3 of the rate per ERU.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Tier 2 properties: the rate per ERU.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tier 3 properties: twice the rate per ERU.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>All other property.</heading>
+        <text>For all properties assessed under § 3-3 {"Assessment of base fee – All other properties"}, the rate per month is $5 per ERU.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-523" type="History">Ord. 16-523</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-5</num>
+      <heading>Subsequent rates.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>For all fiscal years beginning on or after July 1, 2017, the Board of Estimates, on the recommendation of the Director of Public Works and the Director of Finance, may change the rates for the stormwater remediation fee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Standard.</heading>
+        <text>The rates shall be based on the share of stormwater management services related to a property and provided by the City.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Public notice.</heading>
+        <text>At least 30 days before taking any action on the Directors' recommendation, the Board of Estimates shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>publish notice of the recommendation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>send the recommendations to the members of the City Council; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>afford an opportunity for Councilmembers and the public to comment at a public hearing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Adoption of rates.</heading>
+        <text>After the notice and opportunity to comment, the Board of Estimates may:</text>
+        <para>
+          <num>(1)</num>
+          <text>adopt or modify the Directors' recommendation; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>set the rates accordingly.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-6</num>
+      <heading>Credits; Exemptions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The rules and regulations adopted by the Director of Public Works under <cite path="|27">this article</cite> shall establish a system of credits and exemptions that may be used to reduce the base fee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Basis.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The system shall provide credits for:</text>
+          <para>
+            <num>(i)</num>
+            <text>specific actions that reduce the quantity or improve the quality of stormwater discharged from the property;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>specific actions that improve the quality of stormwater discharged to the City stormwater management system;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>properties subject to an NPDES industrial stormwater discharge permit that requires stormwater management or that have been determined by the Maryland Department of the Environment to be exempt from stormwater permitting due to a condition of no exposure, for a credit equal to 55% of the base fee; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>any portion of a property that discharges directly to the Baltimore Harbor and not through the City's stormdrain system, for a credit equal to 30% of the base fee.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The system shall provide hardship exemptions for:</text>
+          <para>
+            <num>(i)</num>
+            <text>any portion of a property where the stormwater is permitted by the Department to connect to the public wastewater system;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>streets that, in lieu of publicly maintained streets, are privately maintained, but open to the public, in single-family residential communities;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any portion of a property where caps or other impervious surfaces are required to encapsulate a recognized Superfund area or to protect subterranean structures, as required by the State of Maryland or the U.S. Environmental Protection Agency; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>any other property where a demonstrable and substantial financial hardship exists as a result of the stormwater remediation fee.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Historic cooperative property.</heading>
+        <para>
+          <num>(1)</num>
+          <text>In this subsection, "historic cooperative property" means property owned by a cooperative housing corporation:</text>
+          <para>
+            <num>(i)</num>
+            <text>formed under the Maryland Cooperative Housing Corporation Act, State Corporations and Associations Article, Title 5, Subtitle 6B; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>existing on or before 1965.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Residents of an historic cooperative property that maintains an onsite stormwater management system and are experiencing financial hardship because they are subject to dual assessments to fund both a community system and the City stormwater management system shall receive a reduction of its stormwater remediation fee as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>an historic cooperation property that maintains an onsite stormwater management system that conveys stormwater from its property to a public stormwater maintenance system shall receive a 40% credit against its total fee; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>an historic cooperative property that maintains an onsite stormwater management system that conveys stormwater from a neighboring community to a public stormwater maintenance facility shall receive a 40% credit against its total fee.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-7</num>
+      <heading>Collections.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>When payment required.</heading>
+        <text>All bills for stormwater remediation fees shall be paid within 20 days after they have been issued.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>How billed and collected.</heading>
+        <text>These fees:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall be billed by the Department of Public Works;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>may be included in the same bills rendered for water charges or stated in separate bills; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>may be collected by the Director of Finance, at the same time, in the same manner, and subject to the same interest rates and penalties for late- or nonpayment as provided for charges for supplying water.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Maximum of interest and penalties.</heading>
+        <text>The combined interest and penalties for any property may not exceed 10 times the amount of the fee imposed for that property.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Scope of section.</heading>
+        <text>This section applies to all properties and the owners of properties that are subject to the payment of the fee imposed under <cite path="|27">this article</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-523" type="History">Ord. 16-523</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-8</num>
+      <heading>Liability and lien for charges, interest, and penalties.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Personal debt.</heading>
+        <text>The stormwater fee imposed under <cite path="|27">this article</cite> and all interest and penalties on the fee are a personal debt owed by the owner of the property subject to the fee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Lien.</heading>
+        <text>These fees, interest, and penalties are a lien in favor of the City on the property subject to the fee.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Collection and enforcement.</heading>
+        <text>These fees, interest, and penalties may be collected and enforced in the same way that the City collects and enforces debts due to it or liens in its favor.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-9</num>
+      <heading>Rules and regulations by Finance Director.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Director of Finance may adopt.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations necessary or proper to fully enforce and collect the charges imposed under this subtitle.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Filing with Legislative Reference.</heading>
+        <text>A copy of all rules and regulations adopted by the Director of Finance under this subtitle must be filed with the Department of Legislative Reference at least 30 days before they take effect.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">Conformance TBA.</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>4</num>
+    <heading>Administrative and Judicial Review</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>4-1</num>
+      <heading>Administrative appeal of fees.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Appeal to Director.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any property owner aggrieved by a stormwater fee may appeal the fee to the Director of Public Works, as provided in this section.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The appeal shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>contain the information and documentation required by the rules and regulations adopted under <cite path="|27">this article</cite>; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>be submitted in writing within 30 days from the date of the bill containing the contested stormwater fee.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Further appeal to BMZA.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A person aggrieved by the final decision of the Director of Public Works may appeal that decision to the Board of Municipal and Zoning Appeals.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The appeal must be taken within 30 days of the Director's final decision.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-2</num>
+      <heading>Judicial review.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>By Circuit Court.</heading>
+        <text>A person aggrieved by the final decision of the Board of Municipal and Zoning Appeals may seek judicial review of the decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>By Court of Special Appeals.</heading>
+        <text>A party to the judicial review may appeal the court's final judgment to the Court of Special Appeals in accordance with the Maryland Rules of Procedure.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>5</num>
+    <heading>Stormwater Utility</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>5-1</num>
+      <heading>"Utility" defined.</heading>
+      <text>In this subtitle, "utility" means the stormwater utility governed by <cite doc="City of Baltimore, Md., Charter" path="VI|§18">City Charter Article VI, § 18</cite>.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-2</num>
+      <heading>Accounting system.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The accounting system for the stormwater utility:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall conform to generally accepted principles of utility accounting; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>shall be kept on the accrual basis and in the manner prescribed under <cite doc="City of Baltimore, Md., Charter" path="VII|§11">City Charter Article VII, § 11</cite> {"Department of Finance: accounting"}.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Revenue records by class.</heading>
+        <text>The records of revenues of the stormwater utility shall be kept so that the fees imposed on each class of property, according to the rate schedules adopted under <cite path="|27">this article</cite>, can be determined.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-3</num>
+      <heading>Annual report.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Submission required.</heading>
+        <text>After the close of each fiscal year, a report on the financial operations of the stormwater utility shall be:</text>
+        <para>
+          <num>(1)</num>
+          <text>submitted to the Board of Estimates, the Board of Finance, and the members of the City Council;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>filed with the Department of Legislative Reference; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>posted by the Department of Public Works on its website.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Required contents.</heading>
+        <text>The report shall contain at least:</text>
+        <para>
+          <num>(1)</num>
+          <text>the following financial statements:</text>
+          <para>
+            <num>(i)</num>
+            <text>a comparative statement of operating and capital revenues and expenditures and of net assets showing the financial conditions of the utility as of the beginning and close of the fiscal year;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a comparative statement of operating and capital budgets and of revenues, expenses, and changes in net assets for the last 2 fiscal years; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a comparative statement of cash flow for the last 2 fiscal years; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>performance outcomes.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Submission.</heading>
+        <text>The report required by this section:</text>
+        <para>
+          <num>(1)</num>
+          <text>in addition to any other report required by law; but</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>may be submitted as a separate section of the statements provided for in <cite doc="City of Baltimore, Md., Charter" path="VII|§11">City Charter Article VII, § 11</cite> {"Department of Finance: accounting"}.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-4</num>
+      <heading>Excess revenues.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Optional use.</heading>
+        <text>After each fiscal year of operation, if it appears that there will be revenues in excess of those budgeted for that fiscal year:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Board of Estimates may authorize additional expenditures for the following fiscal year or years, in an amount not exceeding the excess revenues, for uses permitted by <cite path="|27|§2-3">§ 2-3 {"Permitted uses of Fund"} of this article</cite>; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>on recommendation of the Directors of Finance and Public Works, the Board of Estimates may decrease for the following fiscal year or years the rates for the stormwater remediation fee.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Expenditures subject to appropriation procedures.</heading>
+        <text>All additional expenditures of the stormwater utility are subject to the appropriation procedures provided in <cite doc="City of Baltimore, Md., Charter" path="VI">City Charter Article VI</cite> {"Board of Estimates"}.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>No reversion, etc., to general fund.</heading>
+        <text>Money in the Watershed Protection and Restoration Fund may not revert or be transferred to the general fund of the City.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-5</num>
+      <heading>City loans to Utility.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The City may lend to the stormwater utility an amount not to exceed the equivalent to a 60-day cash-working-capital requirement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Repayment requirements.</heading>
+        <text>The loan shall be repaid by the utility on or before 24 months from the date of the loan, with interest at the rate of the average interest earned by the City on its invested funds during the same period.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-6</num>
+      <heading>Conflicts with covenants, etc.</heading>
+      <text>If any provision of this subtitle for the stormwater utility is inconsistent with any covenant, condition, law, or rule or regulation governing any contract, project, or grant from the United States or from the State or funds dedicated by an Act of Congress or by State law or by the terms of any private grant, the provision in this subtitle applies only to the extent that it is not inconsistent with the covenant, condition, law, or rule or regulation.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>6</num>
+    <heading>Prohibited Conduct; Penalties</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>6-1</num>
+      <heading>Prohibited conduct.</heading>
+      <text>No person may:</text>
+      <para>
+        <num>(1)</num>
+        <text>participate or aid, in any manner, in the evasion of a charge imposed under <cite path="|27">this article</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>make any false statement or representation or submit any false record, plan, or other document to the Department of Public Works under or in connection with <cite path="|27">this article</cite>; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>otherwise violate any of the provisions of <cite path="|27">this article</cite> or of any rule or regulation adopted under <cite path="|27">this article</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-2</num>
+      <heading>Criminal penalties.</heading>
+      <text>Any person who violates a provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 or imprisonment not exceeding 6 months or both fine and imprisonment for each offense.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

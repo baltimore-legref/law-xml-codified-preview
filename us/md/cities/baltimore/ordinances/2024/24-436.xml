@@ -1,0 +1,738 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-436" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-436</num>
+  <num type="bill">24-0544</num>
+  <heading type="short">Zoning - Harford Road Overlay District</heading>
+  <heading type="long">An Ordinance Concerning Zoning - Harford Road Overlay District</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-06-10</introduced>
+    <effective>2025-01-01</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/c321e319-12f9-4472-9414-801f75659332.pdf">Ord. 24-436</citation>
+    </citations>
+    <history>
+      <vote date="2024-06-10" reading="first"/>
+      <vote date="2024-11-04" reading="second"/>
+      <enacted>2024-12-02</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert path="32|12|2" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-212">
+      <section>
+        <prefix>§</prefix>
+        <num>12-212</num>
+        <heading>Harford Road Overlay District.</heading>
+        <text>The Harford Road Overlay District is intended to increase customer supply to businesses along the Harford Road corridor beginning at Argonne Drive and continuing along the center line of Harford Road until the point of intersection with the northern boundary line of the City at Hillcrest Avenue. The regulations for this overlay district are designed to:</text>
+        <para>
+          <num>(1)</num>
+          <text>improve the pedestrian experience;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>increase transit access and ridership;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>reduce the requirements for a business owner, developer, and the City to allocate resources to cars and trucks;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>promote sustainable mixed-use development;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>promote investment in public spaces through new construction; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>increase housing opportunity and diversity.</text>
+        </para>
+        <text>This overlay district is tied to the underlying zoning district to maintain the existing character of the development and neighborhood.</text>
+      </section>
+    </codify:insert>
+    <codify:insert path="32|12" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-1401|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>14</num>
+        <heading>Harford Road Overlay District</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>12-1401</num>
+          <heading>Establishment.</heading>
+          <text>There is a Harford Road Overlay District.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>12-1402</num>
+          <heading>Boundaries.</heading>
+          <text>The boundaries of the district are as shown on that certain map titled "Harford Road Overlay District" dated as of June 5, 2024, on file with the Department of Planning.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>12-1403</num>
+          <heading>Use regulations.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Non-residential zoning districts.</heading>
+            <text>For non-residential zoning districts, only those uses listed in <em>Table 12-1403: Harford Road Overlay District – Permitted and Conditional Uses </em>are allowed within the Harford Road Overlay District.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Residential zoning districts.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>Only those uses of land listed in the tables listed below are allowed within each respective zoning district.</text>
+              <para>
+                <num>(i)</num>
+                <text><em>Table 8-301: Detached and Semi-Detached Residential Districts – Permitted and Conditional Uses</em>.
+              </text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text><em>Table 9-301: Rowhouse and Multi-Family Residential Districts – Permitted and Conditional Uses</em>.
+              </text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Dwelling: Multi-Family.</heading>
+              <text>The use "Dwelling: Multi-Family" is permitted in all residential districts.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>12-1404</num>
+          <heading>Bulk and yard regulations.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>The bulk and yard regulations for the structures in the underlying zoning district apply to the Harford Road Overlay District.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Measurement methodologies.</heading>
+            <text>Measurement methodologies are as set forth in Title 15, Subtitle 3 {"Measurement Methodologies"} of this Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Exceptions and requirements.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>Exceptions and requirements are as set forth in title 15, Subtitle 4 {"Exceptions and Requirements"} of this Code.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Dwelling: Multi-Family.</heading>
+              <text>Residentially zoned properties may be developed as a "Dwelling: Multi-Family" to the bulk and yard specifications for the R-10 zoning district established in Table 9-401 {"Rowhouse and Multi-Family Residential Districts – Bulk and Yard Regulations"}.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>12-1405</num>
+          <heading>Other applicable standards.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>The Harford Road Overlay District is also subject to the standards contained in this section.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Accessory structures and uses.</heading>
+            <text>Standards governing accessory structures are set forth in Title 15, Subtitle 5 {"Accessory Structures and Uses"} of this Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Site development.</heading>
+            <text>On-site development standards are set forth in Title 15 {"Site Development Standards"} of this Code.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Off-street parking and loading.</heading>
+            <text>Under § 16-601(b) of this Code, the district is exempt from off-street parking requirements.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Design standards.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>All developments of the type described in § 4-405 {"Design Review: Applicability"} of this Code must comply with the applicable design standards required by the Baltimore City Design Manual.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Prohibited design elements.</heading>
+              <para>
+                <num>(i)</num>
+                <heading>In general.</heading>
+                <text>New curb cuts are prohibited on Harford Road at real property with rear or side access.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <heading>Existing curb cuts and driveways.</heading>
+                <para>
+                  <num>(A)</num>
+                  <text>Real property with existing curb cuts that exceed City standards may be removed by the City.</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>Existing curb cuts or abandoned curb cuts do not guarantee reuse.</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>All disused curb cut permissions are revoked.</text>
+                </para>
+                <para>
+                  <num>(D)</num>
+                  <text>The City reserves the right to deny any curb cut request regardless of the availability or unavailability of access.</text>
+                </para>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>Landscape and screening.</heading>
+            <text>All landscaping and screening must comply with the requirements of the Baltimore City Landscape Manual.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <heading>Signs.</heading>
+            <text>Standards governing signs are set forth in Title 17 {"Signs"} of this Code.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <heading>Temporary uses.</heading>
+            <text>Standards governing temporary uses are set forth in Title 14, Subtitle 4 {"Temporary-Use Standards"} of this Code.</text>
+          </para>
+        </section>
+      </container>
+    </codify:insert>
+    <codify:replace path="32|§16-601|(b)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601|(b)|(1)">
+      <para>
+        <num>(1)</num>
+        <text>The districts included in this paragraph are exempt from parking requirements:</text>
+        <para>
+          <num>(i)</num>
+          <text>C-1;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>C-1-E;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>C-1-VC;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>C-5;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>C-5-IH;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>C-5-DE;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>C-5-HT;</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>C-5-TO;</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>C-5-HS;</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>C-5-G;</text>
+        </para>
+        <para>
+          <num>(xi)</num>
+          <text>Harford Road Overlay District;</text>
+        </para>
+        <para>
+          <num>(xii)</num>
+          <text>R-MU Overlay District (non-residential uses); and</text>
+        </para>
+        <para>
+          <num>(xiii)</num>
+          <text>D-MU Overlay District (non-residential uses).</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:insert path="32|attachments" after="12-1303" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1403">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>12-1403</num>
+        <heading>Harford Road Overlay District – Office, Commercial, and Industrial Districts  – Permitted and Conditional Uses</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Uses</th>
+                <th colspan="5">Subdistricts</th>
+                <th>Use Standards</th>
+              </tr>
+              <tr>
+                <th/>
+                <th>OR-1</th>
+                <th>C-1</th>
+                <th>C-2</th>
+                <th>C-3</th>
+                <th>IMU-1</th>
+                <th/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th colspan="7">Residential</th>
+              </tr>
+              <tr>
+                <td>Dwelling (Above Non-Residential Ground Floor)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 12-1404</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Live-Work</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="7">Institutional</th>
+              </tr>
+              <tr>
+                <td>Community Center</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Cultural Facility</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-308</td>
+              </tr>
+              <tr>
+                <td>Place of Worship</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-332</td>
+              </tr>
+              <tr>
+                <th colspan="7">Open-Space</th>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Farm</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Garden</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Park or Playground</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Urban Agriculture</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <th colspan="7">Commercial</th>
+              </tr>
+              <tr>
+                <td>Art Gallery</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>Arts Studio: Industrial</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Body Art Establishment</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Carry-Out Food Shop</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Day-Care Center: Adult or Child</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-309</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Indoor</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-319</td>
+              </tr>
+              <tr>
+                <td>Financial Institution</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Greenhouse or Nursery</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <td>Health-Care Clinic</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Health and Fitness Center</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Hotel or Motel</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Kennel</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Office</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Outdoor Dining</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-329</td>
+              </tr>
+              <tr>
+                <td>Personal Services Establishment</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Recreation: Indoor</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Recreation: Outdoor</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-336</td>
+              </tr>
+              <tr>
+                <td>Tavern</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-337</td>
+              </tr>
+              <tr>
+                <th colspan="7">Industrial</th>
+              </tr>
+              <tr>
+                <td>Alternative Energy System: Commercial</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Food Processing: Light</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Industrial: Light</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Movie Studio</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Printing Establishment</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Research and Development Facility</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="7">Other</th>
+              </tr>
+              <tr>
+                <td>Alternative Energy System: Community-Based</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-306</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Enclosed, Indoor, or Outdoor</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Telecommunications Facility<sup><strong>1</strong></sup>
+            </td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+              <tr>
+                <td>Utilities</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Wireless Communications Services<sup><strong>2</strong></sup>
+          </td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="7">
+                  <p><sup>1</sup> Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
+                  <p><sup>2</sup> Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+      </attachment>
+    </codify:insert>
+  </section>
+</document>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-438" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-438</num>
+  <num type="bill">24-0568</num>
+  <heading type="short">Community Relations Commission - Powers and Duties - Complaint Period</heading>
+  <heading type="long">An Ordinance Concerning Community Relations Commission - Powers and Duties - Complaint Period</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-07-22</introduced>
+    <effective>2025-01-01</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/505864ff-ffd9-472d-995d-5913a4339bff.pdf">Ord. 24-438</citation>
+    </citations>
+    <history>
+      <vote date="2024-07-22" reading="first"/>
+      <vote date="2024-11-18" reading="second"/>
+      <enacted>2024-12-02</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="4|§2-4|(5)" codified:doc="City of Baltimore, Md., Code" codified:path="4|§2-4|(5)">
+      <para>
+        <num>(5)</num>
+        <text>receive and investigate and seek to resolve all complaints of unlawful practices forbidden by <cite doc="City of Baltimore, Md., Code" path="|4">this article</cite>, but no complaints shall be received unless made to the Commission within 300 days of such alleged unlawful practice;</text>
+      </para>
+    </codify:replace>
+  </section>
+</document>

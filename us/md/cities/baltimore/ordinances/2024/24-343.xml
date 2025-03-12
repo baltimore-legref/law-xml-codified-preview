@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-343" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-343</num>
+  <num type="bill">24-0489</num>
+  <heading type="short">Children Youth and Families - Youth Commission - Amendment</heading>
+  <heading type="long">An Ordinance Concerning Children Youth and Families - Youth Commission - Amendment</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-02-12</introduced>
+    <effective>2024-07-20</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/3d7f905c-85b3-463d-b936-6008050a621b.pdf">Ord. 24-343</citation>
+    </citations>
+    <history>
+      <vote date="2024-02-12" reading="first"/>
+      <vote date="2024-03-18" reading="second"/>
+      <enacted>2024-06-20</enacted>
+      <committee>Favorable, with Amendment</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="1|§22-5" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-5">
+      <section>
+        <prefix>§</prefix>
+        <num>22-5</num>
+        <heading>Composition.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The Commission comprises 17  members .</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Members.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The  members shall be appointed by the Mayor, in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>, as follows:</text>
+            <para>
+              <num>(i)</num>
+              <text>1 youth from each of the 14 Council Districts, at least 1 of whom is not a graduate of or then enrolled in a traditional educational program; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>3 at-large youths recommended by the President of the City Council.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Each  member of the Commission must be a resident of Baltimore City.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="1|§22-6" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-6">
+      <section>
+        <prefix>§</prefix>
+        <num>22-6</num>
+        <heading>Terms, organization, meetings, etc.</heading>
+        <para>
+          <num>(a)</num>
+          <text><em>Terms</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>The term of a  member expires at the end of the Mayor's term.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>At the end of a term, a  member continues to serve until a successor is appointed and qualifies.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A member may only serve a maximum of  2 terms.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Compensation; expenses.</em>
+          </text>
+          <text>The members of the Commission serve with compensation based on hours served, as provided in the Ordinance of Estimates.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Officers.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The Mayor shall designate a  member to serve as Commission Chair.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>At the beginning of each term and after all members are appointed, the Commission Chair shall call a meeting of the Commission and the Commission shall elect members to serve as:</text>
+            <para>
+              <num>(i)</num>
+              <text>Vice Chair;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Treasurer; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Secretary.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Committees.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>There is an Executive Committee in the Commission that comprises the following members:</text>
+            <para>
+              <num>(i)</num>
+              <text>the Chair;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the Vice Chair;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the Treasurer;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>the Secretary; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>an at-large member, who shall be elected by majority vote of the Commissioners at the Commission's first meeting.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Executive Committee:</text>
+            <para>
+              <num>(i)</num>
+              <text>may appoint Committees to assist the Commission in carrying out its functions and duties; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>shall generally oversee the administration of the Commission.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>
+            <em>Meetings; quorum.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>The Commission shall meet on the call of the Chair as frequently as required to perform its duties, but not less than 1 time each month.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A majority of the members constitutes a quorum for the transaction of business.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>An affirmative vote of at least a majority of a quorum is needed for any official action.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>
+            <em>Bylaws.</em>
+          </text>
+          <text>The Commission must adopt bylaws to govern its meetings and operations.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Commission must adopt bylaws within 60 days of electing the Executive Committee.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Commission must review, revise, and re-adopt the bylaws within 60 days of electing a new Executive Committee after the start of each new Mayoral term.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>
+            <em>Staff.</em>
+          </text>
+          <text>The Office of Children and Family Success, or its successor, shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>provide staff to the Commission; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>provide the personnel and capital support necessary for the Commission to perform its duties, as provided for in the Ordinance of Estimates.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>
+            <em>Rules and regulations.</em>
+          </text>
+          <text>Subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act - Regulations"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the Commission may adopt rules and regulations to govern its meetings and operations.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="1|§22-7" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-7">
+      <section>
+        <prefix>§</prefix>
+        <num>22-7</num>
+        <heading>Duties.</heading>
+        <text>The Commission shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>create and deliver a year-end annual report on Commission activities to the Mayor and City Council;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>review resources available to children and youth and provide feedback regarding effectiveness to the respective resource administrator;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>host and participate in public forums with and about children and youth;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>advocate for resources for children and youth;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>make recommendations for programs, policies, procedures, or legislation deemed necessary to promote the well-being of children, youth, and their families;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>raise awareness of resources available to children, youth, and their families; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>review and evaluate existing and proposed policies, programs, and legislation as they relate to the well-being of children, youth, and their families.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:insert path="1|22|II" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-8">
+      <section>
+        <prefix>§</prefix>
+        <num>22-8</num>
+        <heading>Agency cooperation.</heading>
+        <text>All City officials and agencies shall cooperate with the Commission and extend the services and facilities that the Commission requires to the extent that the officials and agencies are able to do so given personnel and budgets as provided in the Ordinance of Estimates.</text>
+      </section>
+    </codify:insert>
+  </section>
+</document>

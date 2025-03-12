@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-348" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-348</num>
+  <num type="bill">24-0491</num>
+  <heading type="short">Footway Repairs - Citations and Billing</heading>
+  <heading type="long">An Ordinance Concerning Footway Repairs - Citations and Billing</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-02-12</introduced>
+    <effective>2024-08-10</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/06448b4a-a56c-46f4-8f37-8ec6901391dc.pdf">Ord. 24-348</citation>
+    </citations>
+    <history>
+      <vote date="2024-02-12" reading="first"/>
+      <vote date="2024-06-10" reading="second"/>
+      <enacted>2024-07-11</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="26|§10-1" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-1">
+      <section>
+        <prefix>§</prefix>
+        <num>10-1</num>
+        <heading>Notice to property owners.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Scope.</heading>
+          <text>This section applies whenever the Director of Transportation:</text>
+          <para>
+            <num>(1)</num>
+            <text>finds that any footway, in whole or in part, of any paved street, lane, or alley of the City:</text>
+            <para>
+              <num>(i)</num>
+              <text>is not properly graded and paved;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is in bad repair;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>is otherwise in a defective condition; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>is inconsistent with a streetscape plan approved in accordance with Subtitle 10A of <cite path="|26" doc="City of Balt., Md., Ord. 24-348">this article</cite>; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>determines, in his or her judgment, that the footway:</text>
+            <para>
+              <num>(i)</num>
+              <text>needs grading, paving, repaving, or repairing; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>otherwise needs to be brought into compliance with the approved streetscape plan.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Notice.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Director must:</text>
+            <para>
+              <num>(i)</num>
+              <text>provide each person whose property binds or abuts on the footway with a written notice of the Director's intention to improve, grade, pave, repave, or repair it; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>give all persons whose property binds or abuts on the footway an opportunity 30 days after the date of notice to show cause, if any, why the footway should not be improved, graded, paved, repaved, or repaired.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the owner of any property cannot be found by the Director of Transportation, the Director must cause the notice to be conspicuously posted on the premises.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Service alternatives.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Director of Transportation must cause the notice provided for in this section to be given to the owner of each lot adjacent to which a footway is required to be improved, graded, paved, repaved, or repaired.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For this purpose, notice may be:</text>
+            <para>
+              <num>(i)</num>
+              <text>left at any house on the lot;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>served personally on the owner or the owner's tenant, agent, or guardian;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>left at the owner's residence;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>published in 1 or more newspapers of the City; or</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>posted or set up on the premises.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Notice given in any of these ways suffices for the purposes of this section and §§ 11-1 and 17-4 of <cite path="|26" doc="City of Balt., Md., Ord. 24-348">this article</cite>.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="26|§10-2" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-2">
+      <section>
+        <prefix>§</prefix>
+        <num>10-2</num>
+        <heading>Appeal of proposed work.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Appeal to BMZA.</heading>
+          <text>Within 30 days from the date of the hearing by the Director of Transportation, any person whose property binds or abuts on the footway and who is dissatisfied with the Director's decision on the need for improving, grading, paving, repaving, or repairing any footway, may appeal to the Board of Municipal and Zoning Appeals.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>BMZA's decision final.</heading>
+          <text>That Board must hear the appeal, and its decision is final.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="26|§10-3" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-3">
+      <section>
+        <prefix>§</prefix>
+        <num>10-3</num>
+        <heading>By whom work to be done.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Director.</heading>
+          <text>If no appeal is taken from the Director's decision or if, after appeal, the Director's decision is affirmed by the Board of Municipal and Zoning Appeals, the Director must then have the footway properly improved, graded, paved, repaved, or repaired.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Owner.</heading>
+          <text>The owner of the property may privately improve, grade, pave, repave, or repair the footway either:</text>
+          <para>
+            <num>(1)</num>
+            <text>within 45 days after the notice described under §10-1(b) is provided to the owner; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>if an appeal is taken, within 15 days after the decision of the Board of Municipal and Zoning Appeals</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="26|§10-5" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-5">
+      <section>
+        <prefix>§</prefix>
+        <num>10-5</num>
+        <heading>Assessments of costs.</heading>
+        <text>When work under this subtitle is completed by the Director of Transportation, the Director of Transportation must determine and record in the Director's office:</text>
+        <para>
+          <num>(1)</num>
+          <text>the fact that the work has been done;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the date the work was completed;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the total expense of doing the work, including expenses reasonably incurred to ascertain the names of abutting property owners;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the names of the abutting property owners;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the scope of the work done at each property for which the property or its owner is to be assessed; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the total amount proposed to be assessed against each of the abutting properties and their owners.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="26|§10-8|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-9">
+      <num>10-9</num>
+    </codify:replace>
+    <codify:recodify-section path="26|§10-9" num-value="10-8" after="|26|§10-7" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-8"/>
+    <codify:remove path="26|§10-9" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-1|annos"/>
+    <codify:replace path="26|§10-8" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-8">
+      <section>
+        <prefix>§</prefix>
+        <num>10-8</num>
+        <heading>Collections.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Director of Finance to collect.</heading>
+          <text>Once made, the Director of Transportation must report the assessments to the Director of Finance, who must proceed to collect them in the same manner that real estate taxes are collected.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>When payable; election to defer.</heading>
+          <para>
+            <num>(1)</num>
+            <text>All assessments are due as soon as reported to the Director of Finance.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Assessments may be paid:</text>
+            <para>
+              <num>(i)</num>
+              <text>pursuant to an election to be made before the interest date, in deferred payments as provided in § 10-7 of this subtitle; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>in full, without interest, at any time prior to 30 days after the 1<sup>st</sup> of the month succeeding the date of the report to the Director of Finance.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>All assessments bear interest from the date due until paid in full, unless:</text>
+            <para>
+              <num>(i)</num>
+              <text>the assessment is paid on time; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the assessment is pending appeal.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Appeal of assessment.</heading>
+          <text>A property owner may appeal an assessment:</text>
+          <para>
+            <num>(1)</num>
+            <text>to the director of transportation within 10 days of receipt of a Notice of Assessment from the director of finance; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>to the board of municipal and zoning appeals within 30 days of the Mailing of a notice of assessment, in accordance with §10-9 of this Subtitle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Assessment as lien.</heading>
+          <text>The assessments are liens on the property from the date the work is completed, subject, as to any party who has appealed, to the final decision on appeal.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Remedies.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Director of Finance:</text>
+            <para>
+              <num>(i)</num>
+              <text>has the same remedies for the collection of assessments, interest, and penalties as those provided by law for the collection of ordinary taxes on real estate; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>may use these remedies on default of any 1 annual payment.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A default causes all of the amount assessed and yet unpaid to be due and payable.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="26|§10-9" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-9">
+      <section>
+        <prefix>§</prefix>
+        <num>10-9</num>
+        <heading>Appeals.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Administrative appeal.</heading>
+          <text>Within 30 days of the mailing of a notice of assessment, the owner of the property on which the assessment is levied may appeal the assessment to the Board of Municipal and Zoning Appeals in accordance with <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Judicial and appellate review.</heading>
+          <para>
+            <num>(1)</num>
+            <text>A person aggrieved by a decision of the Board of Municipal and Zoning Appeals under this section may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A party to the judicial review may appeal the court's final judgment to the Appellate Court of Maryland in accordance with the Maryland Rules of Procedure.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Relation back.</heading>
+          <text>If, on appeal, an assessment is sustained in whole or in part, the lien relates back to the time the work was completed.</text>
+        </para>
+        <annotation type="Prior Codifications">2001 Ed.,  Article 26, § 10-8</annotation>
+      </section>
+    </codify:replace>
+  </section>
+</document>

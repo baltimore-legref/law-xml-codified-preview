@@ -1,0 +1,1360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Article</prefix>
+  <num>23</num>
+  <heading>Sanitation</heading>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>1</num>
+    <heading>Definitions; General Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>1-1</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>In <cite path="|23">this article</cite>, the following terms have the meaning indicated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Director.</heading>
+        <text>"Director" means the Director of Public Works or the Director's designee.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Mixed refuse.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>General.</heading>
+          <text>"Mixed refuse" means, except as specified in paragraph (3) of this subsection, putrescible and non-putrescible solid waste.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Inclusions.</heading>
+          <text>"Mixed refuse" includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>kitchen discards, residue, and other food wastes;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>rubbish;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>yard sweepings and yard waste;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>plastic and glass products;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>ferrous and non-ferrous metals;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>paper products;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>textiles;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>rubber products; and</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>inorganic materials, such as soaps, detergents, and other household cleaners in solid form.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Exclusions.</heading>
+          <text>"Mixed refuse" does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>hazardous waste;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>liquid wastes;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>industrial and manufacturing wastes;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>construction materials;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>concrete;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>lumber;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>large rocks;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>automotive fluids;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>herbicides, pesticides, and fungicides;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>solvents;</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>electronics;</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>"white goods"; and</text>
+          </para>
+          <para>
+            <num>(xiii)</num>
+            <text>other similar materials.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Recyclable materials.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Recyclable materials" means materials designated by the Director of Public Works for separate collection by the Department for processing and return to the market place in the form of raw materials or products.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Minimum inclusions.</heading>
+          <text>Materials designated by the Director shall include, at a minimum:</text>
+          <para>
+            <num>(i)</num>
+            <text>non-food-contaminated paper and cardboard;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>emptied food containers made of aluminum, steel, or tin;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>bottles and jars made of clear-, brown-, or green-colored glass; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>appropriate grades of plastic bottles and jars.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Yard waste.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Yard waste" means, except as specified in paragraph (3) of this subsection, compostable vegetative matter that is the byproduct of lawn care and gardening activities.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Inclusions.</heading>
+          <text>"Yard waste" includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>grass clippings;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>plants and weeds;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>leaves;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>shrub trimmings; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>except as specified in paragraph (3) of this subsection, tree trimmings.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Exclusions.</heading>
+          <text>"Yard waste" does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>soil;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>tree trunks; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>tree branches that are more than 4 inches in diameter or 3 feet in length.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>1-2</num>
+      <reason>Repealed by Ord. 22-125</reason>
+      <text><strong>Comment:</strong> For the Code-wide standard uses of <em>mandatory terms </em> ("must" and "shall"), <em>prohibitory terms </em>("may not", "must not", and "no ... may"), and<em> permissive terms </em> ("may").</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1-3</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-4</num>
+      <heading>Public Works to provide sanitation services.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The Director of Public Works has charge of the following services, as authorized or required to be done by the City:</text>
+        <para>
+          <num>(1)</num>
+          <text>the cleaning of the public streets, lanes, and alleys; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the collection and removal of mixed refuse and recyclable materials.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Collection frequency.</heading>
+        <text>For premises that receive collection services, the Director of Public Works shall provide for:</text>
+        <para>
+          <num>(1)</num>
+          <text>the collection of mixed refuse once a week; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the collection of recyclable materials once a week.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1893, art 48, §187</annotation>
+        <annotation type="Prior Codifications">1927, art. 44, §3</annotation>
+        <annotation type="Prior Codifications">1950, art. 31, §1</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §1</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §1</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1882-006" type="History">Ord. 1882-006</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1887-021" type="History">Ord. 1887-021</annotation>
+        <annotation doc="City of Balt., Md., Ord. 10-478" type="History">Ord. 10-478</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-402" type="History">Ord. 48-402</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-144" type="History">Ord. 76-144</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-5</num>
+      <heading>Rules and regulations.</heading>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Public Works may adopt rules and regulations to carry out <cite path="|23">this article</cite>.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+        <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>1-6</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-7</num>
+      <heading>Use of hydrants.</heading>
+      <text>The Director of Public Works may use the water from fire hydrants in order to flush the gutters, streets, lanes, and alleys of the City.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1893, art. 48, §201</annotation>
+        <annotation type="Prior Codifications">1927, art. 44, §30</annotation>
+        <annotation type="Prior Codifications">1950, art. 31, §23</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §23</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §21</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1880-102" type="History">Ord. 1880-102</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-400" type="History">Ord. 48-400</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-144" type="History">Ord. 76-144</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>2</num>
+    <heading>Mixed Refuse Handling and Collection</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>2-1</num>
+      <heading>Receptacles.</heading>
+      <text>In all places where mixed refuse is accumulated, a sufficient number of receptacles to contain the mixed refuse between collections must be provided and maintained as specified in the City <cite path="|building-codes|VII">Property Maintenance Code</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1950, art. 31, §3</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §3</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §3</annotation>
+        <annotation doc="City of Balt., Md., Ord. 49-955" type="History">Ord. 49-955</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-2</num>
+      <heading>Handling.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Placement in receptacles.</heading>
+        <text>Occupants of any dwelling, including any multiple-family dwelling, and the proprietor of any boarding house, hotel, restaurant, and other place where mixed refuse is accumulated must place the mixed refuse into a receptacle provided for that purpose, as required by <cite path="|23|§2-1">§ 2-1 of this subtitle</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Covering and placement.</heading>
+        <text>Each of these persons must:</text>
+        <para>
+          <num>(1)</num>
+          <text>keep the receptacle covered continually, except when it is being filled or emptied; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>place the receptacle:</text>
+          <para>
+            <num>(i)</num>
+            <text>in a position that is easily accessible to the collector; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>otherwise in the manner and at time designated by the Director of Public Works.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Refuse to be kept dry.</heading>
+        <text>All mixed refuse must be kept as dry as practicable.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 23, §92</annotation>
+        <annotation type="Prior Codifications">1893, art. 48, §189</annotation>
+        <annotation type="Prior Codifications">1927, art. 44, §8</annotation>
+        <annotation type="Prior Codifications">1950, art. 31, §4</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §4</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §4</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-138" type="History">Ord. 16-138</annotation>
+        <annotation doc="City of Balt., Md., Ord. 19-564" type="History">Ord. 19-564</annotation>
+        <annotation doc="City of Balt., Md., Ord. 49-955" type="History">Ord. 49-955</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-144" type="History">Ord. 76-144</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-3</num>
+      <heading>Collections.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>General.</heading>
+          <text>In this section, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Condominium or cooperative.</heading>
+          <text>"Condominium or cooperative" means:</text>
+          <para>
+            <num>(i)</num>
+            <text>a condominium regime formed under the Maryland Condominium Act, State Real Property Article Title 11; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a cooperative housing corporation formed under the Maryland Cooperative Housing Corporation Act, State Corporations and Associations Article, Title 5, Subtitle 6B.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Duty to collect.</heading>
+        <text>The Director of Public Works must collect all mixed refuse, recyclable materials, and yard waste from all dwellings, including multiple-family dwellings, and from all boarding houses, hotels, restaurants, hospitals, and other places where mixed refuse is accumulated, subject to the quantity limitations specified in this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Quantity limits – General.</heading>
+        <text>For each designated collection day, the amount to be collected from each place is:</text>
+        <para>
+          <num>(1)</num>
+          <text>for mixed refuse, limited to 96 gallons; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>for recyclable materials and yard waste, if bundled or contained separately from mixed refuse, unlimited.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Quantity limits – Exceptions.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Single-family dwellings.</heading>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Public Works shall adopt rules and regulations for granting exceptions from the quantity limitations specified in subsection (c) of this section for single-family dwellings whose occupants demonstrate an inability to meet those limitations.  However, the total amount of mixed refuse to be allowed under an exception may not exceed 160 gallons.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Condominiums, etc.</heading>
+          <para>
+            <num>(i)</num>
+            <text>The limitations specified in subsection (c) of this section may be exceeded by the Director of Public Works for condominiums, cooperatives, and other multiple-family dwellings, other than apartment structures originally built as apartment structures, if the Director is authorized to do so by the Board of Estimates, based on considerations of public health, safety, and welfare.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Before requesting authorization to collect mixed refuse from a condominium or cooperative, the Director must:</text>
+            <para>
+              <num>(A)</num>
+              <text>receive a written request for those services;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>receive documentation that a majority of the units in the condominium or cooperative are owner-occupied as a primary residence;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>have a right-of-entry agreement with the condominium or cooperative;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>approve a feasible means to collect mixed refuse from the condominium or cooperative; and</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>approve a feasible means to collect recyclable materials from the condominium or cooperative.</text>
+            </para>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>To continue collecting mixed refuse and recyclable materials from a condominium or cooperative, the Director must receive biennial documentation that the majority of the units are owner-occupied as a primary residence.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1950, art. 31, §5</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §5</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §§5, 6(c), (d)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 49-955" type="History">Ord. 49-955</annotation>
+        <annotation doc="City of Balt., Md., Ord. 53-578" type="History">Ord. 53-578</annotation>
+        <annotation doc="City of Balt., Md., Ord. 66-872" type="History">Ord. 66-872</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-144" type="History">Ord. 76-144</annotation>
+        <annotation doc="City of Balt., Md., Ord. 88-176" type="History">Ord. 88-176</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+        <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed section (d)(1) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-4</num>
+      <heading>Mixing ashes, plaster, soil prohibited.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Ashes, etc., precluded.</heading>
+        <text>It is unlawful to place or cause to be placed with mixed refuse any ashes, plaster, or yard or garden soil.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Occupant to separate out.</heading>
+        <text>If a mixture of this sort is found in any receptacle, the occupant of the premises must separate the ashes, plaster, and yard or garden soil from the other contents.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 44, §10</annotation>
+        <annotation type="Prior Codifications">1950, art. 31, §7</annotation>
+        <annotation type="Prior Codifications">1966, art. 23,§7</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §7</annotation>
+        <annotation doc="City of Balt., Md., Ord. 19-564" type="History">Ord. 19-564</annotation>
+        <annotation doc="City of Balt., Md., Ord. 49-955" type="History">Ord. 49-955</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>2-5</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-6</num>
+      <heading>Penalties.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Any person who violates a provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment for not more than 60 days or both fine and imprisonment for each offense.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Each day a separate offense.</heading>
+        <text>Each day that a violation continues is a separate offense.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>3</num>
+    <reason>Repealed by Ord. 09-175</reason>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>4</num>
+    <heading>Receptacles on Collection Days</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>4-1</num>
+      <heading>General prohibition.</heading>
+      <text>Except as specifically provided in this subtitle, no person may have, keep, or maintain on any street, lane, alley, sidewalk, or other public place in the City, any box, bin, barrel, or other receptacle for the reception of mixed refuse, litter, or rubbish of any sort.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1950, art. 31, §8(1st sen.)(1st cl.)</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §8(1st sen.)(1st cl.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §8(a)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-473" type="History">Ord. 48-473</annotation>
+        <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-2</num>
+      <heading>Placement for collection.</heading>
+      <text>To facilitate the removal of mixed refuse on a designated collection day, the occupant of any premises may, at the time and in the manner specified in <cite path="|23">this article</cite> and the City <cite path="|building-codes|VII">Property Maintenance Code</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>place suitable receptacles containing the mixed refuse on  a sidewalk or along an alley:</text>
+        <para>
+          <num>(i)</num>
+          <text>in the rear of the premises; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>if the rear is not accessible to the collection vehicle, in front or on the side of the premises; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>allow the receptacles to remain until the mixed refuse has been collected.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1950, art. 31, §8(1st sen.)(2nd cl.)</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §8(1st sen.)(2nd cl.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §8(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-473" type="History">Ord. 48-473</annotation>
+        <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-3</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-4</num>
+      <heading>Penalties.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Any person who violates a provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment for not more than 60 days or both fine and imprisonment for each offense.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Each day a separate offense.</heading>
+        <text>Each day that a violation continues is a separate offense.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>5</num>
+    <reason>Reserved</reason>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>6</num>
+    <heading>Markets</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>6-1</num>
+      <heading>Receptacles required.</heading>
+      <text>All occupants of stalls in the City markets must:</text>
+      <para>
+        <num>(1)</num>
+        <text>place all vegetable and animal offal or refuse, paper, and other refuse in receptacles or containers; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>place the receptacles or containers near the stalls or in places designated by the Market Master.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 44, §17(1st sen.)</annotation>
+        <annotation type="Prior Codifications">1950, art. 31, §12(1st sen.)</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §12(1st sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §11(a)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-375" type="History">Ord. 20-375</annotation>
+        <annotation doc="City of Balt., Md., Ord. 42-736" type="History">Ord. 42-736</annotation>
+        <annotation doc="City of Balt., Md., Ord. 50-1120" type="History">Ord. 50-1120</annotation>
+        <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-2</num>
+      <heading>Prohibited littering.</heading>
+      <text>No person may throw foodstuffs, garbage, trash, paper, or other refuse on any street running through or bordering on any of the City markets.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1950, art. 31, §12(2nd sen.)</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §12(2nd sen.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §11(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 42-736" type="History">Ord. 42-736</annotation>
+        <annotation doc="City of Balt., Md., Ord. 50-1120" type="History">Ord. 50-1120</annotation>
+        <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>7</num>
+    <reason>Repealed by Ord. 09-175</reason>
+  </container>
+  <container name="8to10">
+    <prefix>Subtitles</prefix>
+    <num>8 to 10</num>
+    <reason>Reserved</reason>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>11</num>
+    <heading>Solid Waste Surcharges</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>11-1</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>In this subtitle, the following terms have the meanings indicated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Approved recycling facility.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Approved recycling facility" means a City-owned recycling facility or a private recycling facility so certified by the Director of Public Works, which processes material into a form or forms for reuse and for which an end user exists.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The facility need not be located in the City but it must be certified by the Director, at least semi-annually, as a facility which is not a final disposal site or a transfer station to a final disposal site.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Disposal, dispose, or disposed.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Disposal", "dispose", or "disposed" means the complete and ultimate placement of solid waste in a landfill, incinerator, or waste-to-energy facility.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Exclusion.</heading>
+          <text>"Disposal", "dispose", or "disposed" does not include the handling of solid waste at a transfer station or other processing facility where solid waste is not completely and ultimately placed in a landfill, incinerator, or waste-to-energy facility.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Hauler.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Hauler" means any person who contracts to provide services for collecting or transporting solid waste to a disposal site.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For the purposes of this subtitle, "hauler" also means any person with a valid demolition permit issued by the Commissioner of Housing and Community Development.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Person.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Inclusion of governmental entities.</heading>
+          <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person"also  includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Recyclable materials.</heading>
+        <text>"Recyclable materials" means materials:</text>
+        <para>
+          <num>(1)</num>
+          <text>not destined for final disposal and for which an end user exists;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>which would otherwise become solid waste for disposal in a solid waste acceptance facility; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>are collected, separated, or processed and returned to the marketplace in the form of raw materials or products.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Residue.</heading>
+        <text>"Residue" means the material (including, but not limited to, fly ash, bottom ash, and siftings) remaining after the processing of solid waste and after removal of any recyclable materials.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Self hauler.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Self hauler" means any person who collects, transports, and disposes of solid waste generated by that person.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Self hauler" does not include any person occupying residential property who collects, transports, and disposes of solid waste resulting from the residential use of such property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Solid waste.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Solid waste" means garbage, rubbish, refuse, hazardous waste, asbestos, medical waste, rubble, incinerator ash, ash, trash, and other material generated by commercial, industrial, institutional, and residential establishments.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Solid waste" does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>significant pollutants, such as silt or sediment in water resources;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>any recyclable materials; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>residue from a waste-to-energy facility.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>Solid waste acceptance facility.</heading>
+        <text>"Solid waste acceptance facility" means any:</text>
+        <para>
+          <num>(1)</num>
+          <text>sanitary landfill;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>transfer facility;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>central processing facility;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>incinerator;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>medical/pathological waste incinerator;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>waste-to-energy facility; or</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>any other type of facility that accepts solid waste for disposal, treatment, processing, composting, compacting, or transfer to a solid waste acceptance facility.</text>
+        </para>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>Solid waste generator.</heading>
+        <text>"Solid waste generator" means any person engaged in an enterprise which generates solid waste requiring collection and hauling to a disposal site.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §22</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-784" type="History">Ord. 91-784</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-366" type="History">Ord. 20-366</annotation>
+        <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-2</num>
+      <heading>Haulers disposal surcharge.</heading>
+      <reason>Section subject to abrogation</reason>
+      <para>
+        <num>(a)</num>
+        <heading>Surcharge imposed.</heading>
+        <text>Except as otherwise provided in <cite path="|23|§11-7">§ 11-7 {"Exemptions"} of this subtitle</cite>, there is a solid waste hauler disposal surcharge imposed on every hauler or solid waste generator who disposes of or causes to be disposed any solid waste in Baltimore City.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Rate.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Except as otherwise provided in paragraph (2) of this subsection, the solid waste hauler disposal surcharge is levied at a rate of $7.50 per ton of solid waste, as determined by the actual weight obtained from the scales located at the solid waste acceptance facility.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Board of Estimates shall establish an appropriate differential surcharge for small haulers licensed under Title 7, Subtitle 2, of the City Health Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Collection.</heading>
+        <text>The solid waste hauler disposal surcharge shall be paid by the hauler and collected by the operator at the solid waste acceptance facility for each ton of solid waste that is disposed in Baltimore City.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §§23, 24</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-672" type="History">Ord. 04-672</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-366" type="History">Ord. 20-366</annotation>
+        <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 91-757, effective July 1, 1991.  Section 3 of the Ordinance provided that the  provisions of §11-2 (then §§23 and 24) become “of no effect and ... null and void” when Baltimore County enacts a recycling incentive surcharge “similar” to that provided for in §11-3 below (formerly §§25 and 26).</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-3</num>
+      <heading>Recycling incentive surcharge.</heading>
+      <reason>Section effective on contingency</reason>
+      <para>
+        <num>(a)</num>
+        <heading>Surcharge imposed.</heading>
+        <text>There is hereby imposed a recycling incentive surcharge on every solid waste generator in Baltimore City.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Rate – in general.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The recycling incentive surcharge is levied at a rate set by the Board of Estimates at a rate recommended by the Director of Finance which would yield substantially the same revenue as the solid waste hauler disposal surcharge provided for in § 11-2 above as a percentage of the total bill presented by a hauler to the solid waste generator for payment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The total bill:</text>
+          <para>
+            <num>(i)</num>
+            <text>shall include costs for service, including equipment disposal charges, and applicable taxes; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>shall not include any charges for the collection, processing, transporting, and disposition of recyclable materials.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Rate – self haulers.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A solid waste generator who is a self hauler is subject to the payment of the recycling incentive surcharge.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The surcharge rate shall be applied to the lesser of:</text>
+          <para>
+            <num>(i)</num>
+            <text>2 times the amount charged by the solid waste acceptance facility; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>all customary and usual expenses actually incurred by the self hauler as documented on a form provided by the Director.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director shall adopt such rules, standards, or guidelines to determine the expenses incurred by the self hauler provided for in this subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c-1)</num>
+        <heading>Rate – small haulers.</heading>
+        <text>The Board of Estimates shall establish an appropriate differential surcharge for small haulers licensed under Title 7, Subtitle 2, of the <cite path="|health">City Health Code.</cite></text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Rate – hospitals.</heading>
+        <text>Any hospital generating solid waste for delivery to a solid waste acceptance facility shall pay a recycling incentive surcharge at a rate of $7.50 per ton.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Collection.</heading>
+        <text>The recycling incentive surcharge:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall be paid by the solid waste generator and collected by the hauler; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>shall be paid directly to the Director of Finance by the solid waste generator when self-hauling.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Proposed demolition by self-hauler.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any self-hauling generator obtaining a demolition permit shall, 30 days before the demolition begins, estimate the expenses to be incurred, based on the number of loads of demolition debris, the cost of transporting such debris to a disposal site, and the price charged at the disposal site and shall prepay the recycling incentive surcharge.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>After completion of the hauling of the demolition debris, the contractor may present to the Finance Department receipts from an approved recycling facility and will be refunded that portion of the prepaid surcharge for which receipts prove the materials have been recycled.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §§25, 26</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-672 Text Conformed 02/23/21" type="History">Ord. 04-672 Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (c)(3) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">Section 2 of Ordinance 91-757 provided for the enactment of “the following sections” — presumably,  then-§§25 and 26  (§11-3 of this codification) —  “if Sections 23 and 24 become null and void pursuant to Sec. 3” .  As to Section 3 of that Ordinance, see preceding Editor’s Note.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-4</num>
+      <heading>Collections.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Monthly remittance required.</heading>
+        <text>Commencing on August 25, 1991, with regard to the charge for the surcharges for services rendered during July, 1991, and continuing on the 25<sup>th</sup> day of each successive calendar month thereafter, every hauler, self hauler, and solid waste acceptance facility shall remit all applicable surcharges due under this subtitle to the Director for the services rendered during the preceding calendar month.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Forms and information.</heading>
+        <text>Each monthly remittance shall be:</text>
+        <para>
+          <num>(1)</num>
+          <text>on the forms prescribed by the Director of Finance; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>accompanied by such other information as may be necessary to fully collect the surcharge imposed by this subtitle.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §27(a)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-5</num>
+      <heading>Records.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>General requirements.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Pursuant to the Ordinance adopting this subtitle, it shall be the duty of every hauler, self hauler, solid waste generator, and solid waste acceptance facility subject to the provisions of this subtitle to keep and preserve, for a period of 4 years, such suitable records as may be necessary to determine the amount of such surcharges for which that person may be liable.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Among the records necessary are:</text>
+          <para>
+            <num>(i)</num>
+            <text>schedules and locations of disposal and collection;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>amount charged to each customer; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any other records determined by the Director of Finance to be necessary to the proper oversight of the surcharges.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Additional requirements for haulers and self haulers.</heading>
+        <text>Every hauler and self-hauling solid waste generator shall keep records and receipts relating to the final destination of recyclable materials that were transferred.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Inspections.</heading>
+        <text>The Director or the Director's agent shall have the right to inspect these records during regular business hours.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Failure to keep.</heading>
+        <text>If any person fails to keep records from which the surcharge imposed by this subtitle may be accurately computed, the Director of Finance may make use of a factor developed by surveying other operators of a similar type, or otherwise, compute the amount of surcharge due, and this computation shall be prima fade correct.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Recyclable materials which are taken to a non-approved facility are not exempt from the recycling incentive surcharge.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §27(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-6</num>
+      <heading>Sale, etc., of business.</heading>
+      <text>Whenever any person required to pay a surcharge hereunder ceases doing business or otherwise disposes of his or her business:</text>
+      <para>
+        <num>(1)</num>
+        <text>any monies due hereunder shall immediately become due and payable; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>that person shall within 3 days of cessation or disposition of the business submit the required receipts and remit the total mount of the surcharge due.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §27(d).)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-7</num>
+      <heading>Exemptions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>City and County agents.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The City of Baltimore and any authorized agents of the City, and Baltimore County or any authorized agents of the County are exempted from any solid waste surcharge.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Water and Waste Water Enterprise Fund of Baltimore City is not exempt from any solid waste surcharge.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Harbor cleanup.</heading>
+        <text>Solid waste from harbor area clean-up activity normally delivered to a solid waste acceptance facility owned and operated by the City of Baltimore, by the Maryland Port Authority, is exempt from the solid waste hauler disposal surcharge.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Certain nonprofit organizations.</heading>
+        <text>Any solid waste hauled from a nonprofit organization (as defined in § 11-204(a)(3) and (d) of the State Tax-General Article) certified as to its nonprofit status by the Director of Finance, which is otherwise exempt from disposal fees charged by a solid waste acceptance facility which generally charges haulers disposal fees for acceptance of their solid waste, shall not be subject to the solid waste hauler disposal surcharge only with regard to disposal at such solid waste disposal acceptance facility.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Neighborhood improvement associations.</heading>
+        <text>Neighborhood improvement associations are exempted from the solid waste hauler disposal surcharge for solid waste (described in agreements between the neighborhood association and the City of Baltimore in an agreement approved by the Board of Estimates) delivered by the neighborhood association to solid waste acceptance facilities owned and operated by the City of Baltimore.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Loads under 1 ton.</heading>
+        <text>Loads under 1 ton delivered to solid waste acceptance facilities owned and operated by the City of Baltimore shall be exempted from the solid waste hauler disposal surcharge.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Solid waste destined for disposal outside of Baltimore City.</heading>
+        <text>Solid waste that is destined for final disposal outside of Baltimore City is exempted from any surcharge imposed by this subtitle.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §28</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+        <annotation doc="City of Balt., Md., Ord. 94-401" type="History">Ord. 94-401</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-366" type="History">Ord. 20-366</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-8</num>
+      <heading>Interest and penalties.</heading>
+      <text>Whenever any person required to pay a surcharge hereunder fails to collect and/or remit to the Director of Finance the surcharge imposed by this subtitle within the time limited therefor, that person shall be assessed by the Director of Finance:</text>
+      <para>
+        <num>(1)</num>
+        <text>the amount of the surcharge due;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>interest at the rate of 1% per month or any fraction thereof; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>a penalty of 10% of the surcharge due.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §27(e)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-9</num>
+      <heading>License revocation.</heading>
+      <text>Any hauler who violates any provision of this subtitle shall, in addition, be subject to revocation of the solid waste collection permit issued to the hauler by the Commissioner of Health under the provisions of Title 7, Subtitle 2, of the <cite path="|health">Health Code of Baltimore City.</cite></text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §29(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-10</num>
+      <heading>Director of Finance to administer.</heading>
+      <text>In addition to the above powers granted to the Director of Finance, the Director is hereby authorized:</text>
+      <para>
+        <num>(1)</num>
+        <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, to make, adopt, and amend such rules and regulations as may be deemed necessary or proper:</text>
+        <para>
+          <num>(i)</num>
+          <text>to fully collect the surcharge; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>to define any terms used in connection with the imposition and collection of the surcharge;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>to compromise disputed claims in connection with the surcharge and for good and sufficient cause shown to waive interest and penalty;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>to extend, for good cause shown, the time for remitting any surcharge required to be paid for such period of time as may be deemed reasonable; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>to develop procedures to identify haulers used by solid waste generators.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §27(c)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+        <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed item (1) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11-11</num>
+      <reason>Repealed by Ord. 22-125</reason>
+      <annotations>
+        <annotation type="Editor's Notes">For the Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-12</num>
+      <heading>Criminal penalties.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Any person who violates any provision of this subtitle shall be guilty of a misdemeanor and upon conviction shall be fined not more than $500.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Each day a separate offense.</heading>
+        <text>Each day that a person violates a provision of this subtitle shall be considered a separate offense.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §29(a)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-757" type="History">Ord. 91-757</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container name="12to15">
+    <prefix>Subtitles</prefix>
+    <num>12 to 15</num>
+    <reason>Reserved</reason>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>16</num>
+    <heading>Recyclable Materials and Compostable Yard Waste</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>16-1</num>
+      <heading>No disposal at Quarantine Landfill.</heading>
+      <text>Recyclable materials, as defined in <cite path="|23|§11-1">§ 11-1 of this article</cite>, and compostable yard waste may not be disposed of at the Quarantine Landfill.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §31(a)(1st sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 92-113" type="History">Ord. 92-113</annotation>
+        <annotation doc="City of Balt., Md., Ord. 07-488" type="History">Ord. 07-488</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>16-2</num>
+      <heading>Recycling plan.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Commission on Sustainabilty to develop.</heading>
+        <text>The Commission on Sustainability shall prepare and implement a comprehensive recycling plan for recycling and composting at facilities operated by the City, individuals, and corporations, as prescribed in City Code <cite path="|5">Article 5</cite>, Subtitle 34 {"Commission on Sustainability"}.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Scope of plan.</heading>
+        <text>The plan shall include:</text>
+        <para>
+          <num>(1)</num>
+          <text>provisions for a City recycling and composting facility;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>standards for the operation of private individual and corporate recycling and composting facilities;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>provisions for residential and food and beverage business recycling programs, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>an expansion of the scope of recyclable materials to be collected from residential and food and beverage business locations;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>improvements in frequency and scheduling of pickup of recyclable materials from residential and food and beverage business locations;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>performance measures for evaluating recycling services;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>an analysis of the fiscal impact of complying with this recycling plan;</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>provisions for a local food waste composting program for food and beverage businesses;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>an analysis of the fiscal impact of complying with the recycling and composting plan; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>any other provisions relating to the process of providing for a comprehensive recycling and composting plan for the City of Baltimore.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §31(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 92-113" type="History">Ord. 92-113</annotation>
+        <annotation doc="City of Balt., Md., Ord. 07-488" type="History">Ord. 07-488</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>16-4</num>
+      <heading>Rules and regulations.</heading>
+      <text>The Director of Public Works may adopt rules and regulations to carry out the provisions of this subtitle, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, and subject to review by the Commission on Sustain ability.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §31(c)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 92-113" type="History">Ord. 92-113</annotation>
+        <annotation doc="City of Balt., Md., Ord. 07-488" type="History">Ord. 07-488</annotation>
+        <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16-5</num>
+      <reason>Repealed by Ord. 07-488</reason>
+      <annotations/>
+    </section>
+  </container>
+  <container name="17to20">
+    <prefix>Subtitles</prefix>
+    <num>17 to 20</num>
+    <reason>Reserved</reason>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>21</num>
+    <heading>General Penalties</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>21-1</num>
+      <heading>Enforcement by citation.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, the following provisions of <cite path="|23">this article</cite> may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}:</text>
+        <para>
+          <num>(1)</num>
+          <text>§ 2-1 {"Mixed Refuse: Receptacles"};</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>§ 2-2 {"Mixed Refuse: Handling"};</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>§ 4-1 {"Receptacles on Collection Days: General prohibition"}; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>§ 4-2 {"Receptacles on Collection Days: Placement for collection"}.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Remedy not exclusive.</heading>
+        <text>The issuance of an environmental citation to enforce these sections does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 23, §12(c)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-2</num>
+      <heading>Criminal Penalties.</heading>
+      <text>Any person who violates any provision of <cite path="|23">this article</cite> is guilty of a misdemeanor and, unless a different penalty is specified, is subject on conviction to a fine of not more than $100 for each offense.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 44, §16</annotation>
+        <annotation type="Prior Codifications">1950, art 31, §13</annotation>
+        <annotation type="Prior Codifications">1966, art. 23, §13</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 23, §12(a), (b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 19-564" type="History">Ord. 19-564</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1049" type="History">Ord. 83-1049</annotation>
+        <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
+        <annotation doc="City of Balt., Md., Ord. 09-175" type="History">Ord. 09-175</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

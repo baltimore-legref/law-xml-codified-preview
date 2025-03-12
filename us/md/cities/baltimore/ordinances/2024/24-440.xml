@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-440" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-440</num>
+  <num type="bill">24-0584</num>
+  <heading type="short">Baltimore City Government Entities - Language Access</heading>
+  <heading type="long">An Ordinance Concerning Baltimore City Government Entities - Language Access</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-09-16</introduced>
+    <effective>2025-05-31</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/8a7d37e0-2439-494c-b466-12be9b9741da.pdf">Ord. 24-440</citation>
+    </citations>
+    <history>
+      <vote date="2024-09-16" reading="first"/>
+      <vote date="2024-11-18" reading="second"/>
+      <enacted>2024-12-02</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="1|53" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§53-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>53</num>
+        <heading>Language Access</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>53-1</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>In this subtitle, the following words have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Covered entity.</heading>
+            <text>"Covered entity" means any municipal agency, as defined in <cite doc="City of Baltimore, Md., Code" path="|1|§2|(j)" proof="needed">Article 1, § 2(j) of the City Charter</cite>, that delivers a direct public service.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Designated Citywide language.</heading>
+            <text>"Designated Citywide language" means a language that, according to United States Census data, is the primary language used by at least 3 percent of the City's total population or 500 LEP individuals, whichever is less.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Direct public service.</heading>
+            <text>"Direct public service" means the provision of a good or service, including monetary goods, by a covered entity.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Grant.</heading>
+            <text>"Grant" means funds, regardless of source, that are controlled by the City and allocated from the City to a grantee for a specific purpose.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>Grantee.</heading>
+            <text>"Grantee" means a legal entity to which a grant is made.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <heading>Language access services.</heading>
+            <text>"Language access services" means the methods used by a covered entity to limit language barriers and provide LEP individuals with meaningful access.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <heading>Limited English Proficient individual.</heading>
+            <text>"Limited English Proficient individual" or "LEP individual" means:</text>
+            <para>
+              <num>(1)</num>
+              <text>an individual who does not speak English as the individual's primary language; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>an individual who has a limited ability to read, speak, write, or understand English.</text>
+            </para>
+          </para>
+          <para>
+            <num>(i)</num>
+            <heading>Major public contact.</heading>
+            <text>"Major public contact" means the employees and representatives of a covered entity who interact with members of the public at least twice in an average workday.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <heading>Meaningful access.</heading>
+            <text>"Meaningful access" means an LEP individual has the ability to use timely, accurate, and effective language access services at no cost to the individual in order to receive services and benefits comparable to those enjoyed by English proficient individuals.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <heading>MIMA.</heading>
+            <text>"MIMA" means the Mayor's Office of Immigrant Affairs or its successor agency.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <heading>Subgrant.</heading>
+            <text>"Subgrant" means an allocation of grant funds by a grantee to a separate legal entity.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <heading>Subgrantee.</heading>
+            <text>"Subgrantee" means a legal entity to which a subgrant is awarded.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <heading>Vital document.</heading>
+            <text>"Vital document" means any form, permit, record, or other official document produced by the City that an individual applying for a service or benefit from a covered entity must understand, respond to, or complete to access or continue to access a direct public service.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>53-2</num>
+          <heading>Covered entity with major public contact.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>A covered entity with major public contact shall provide an LEP individual with meaningful access to all of the covered entity's services and programs.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Language access liaison.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>A covered entity with major public contact shall designate, in consultation with the Department of Human Resources, where required, at least 1 employee to be the language access liaison for the covered entity.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Duties.</heading>
+              <text>A language access liaison shall:</text>
+              <para>
+                <num>(i)</num>
+                <text>consult with MIMA and the director of the covered entity to develop a Language Access Plan as required under subsection (c) of this section.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>continually assess the covered entity's Language Access Plan for effectiveness and initiate changes, if needed; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>coordinate the preparation and submission of the annual report</text>
+                <text>required under § 53-4 of this subtitle.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Language Access Plan.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>In consultation with MIMA, the language access liaison and director of a covered entity with major public contact shall develop and implement a Language Access Plan.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Contents.</heading>
+              <text>A Language Access Plan shall include:</text>
+              <para>
+                <num>(i)</num>
+                <text>a description of how the covered entity will implement its language access services;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>the methods the covered entity will use to monitor the covered entity's compliance with:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>the Language Access Plan;</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>the provisions of this subtitle; and</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>any other applicable laws, rules, and regulations regarding</text>
+                  <text>language access;</text>
+                </para>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>the types of oral language services that the covered entity will</text>
+                <text>provide;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>the titles of translated documents that the covered entity will</text>
+                <text>provide;</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>the names and contact information of employees who will serve as points of contact for LEP individuals;</text>
+              </para>
+              <para>
+                <num>(vi)</num>
+                <text>the methods the covered entity will use to assess and evaluate the</text>
+                <text>language access needs of a LEP individual attempting to access the entity's services; and</text>
+              </para>
+              <para>
+                <num>(vii)</num>
+                <text>protocols to provide public notice of the availability of language</text>
+                <text>services to LEP individuals.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <heading>Publication.</heading>
+              <text>A covered entity shall make the entity's Language Access Plan available to the public.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <heading>Biannual update.</heading>
+              <text>A covered entity shall update and submit to MIMA the entity's Language Access Plan by January 1 of every even-numbered year.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>53-3</num>
+          <heading>Grantees and subgrantees.</heading>
+          <text>A grantee, subgrantee, or contractor with major public contact shall provide LEP individuals with meaningful access.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>53-4</num>
+          <heading>Language access services.</heading>
+          <text>A covered entity shall provide the following language access services to an LEP individual:</text>
+          <para>
+            <num>(1)</num>
+            <text>translate to each designated Citywide language and make available all City-created vital documents, including website content and other materials needed to access the entity's services;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>make available oral language services in all designated Citywide languages and, when practicable, other languages, to an LEP individual seeking to participate in a program or service offered by the agency; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>when practicable, hire qualified multilingual individuals into existing budgeted vacant positions that have high contact with the public.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>53-5</num>
+          <heading>Annual report.</heading>
+          <para>
+            <num>(a)</num>
+            <text>In general.</text>
+            <text>On or before October 31 of each year, each covered entity shall file an annual report with MIMA and the Department of Legislative Reference.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Contents.</text>
+            <text>The report required under this subsection shall include:</text>
+            <para>
+              <num>(1)</num>
+              <text>an assessment of the covered entity's preparation and implementation of its Language Access Plan; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>data and performance metrics as required by the Director of MIMA.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>53-6</num>
+          <heading>Role of MIMA or its successor agency.</heading>
+          <text>Subject to the appropriation of funds in the annual Ordinance of Estimates and supplementary appropriations, MIMA shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>provide oversight, coordination, and technical assistance to a covered entity with major public contact as the covered entity prepares and implements a Language Access Plan;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>provide guidance to covered entities as the covered entities adhere to the requirements of this subtitle;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>identify and designate Citywide designated languages;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>designate covered entities with major public facing contact; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>make each covered entity's Language Access Plan available on MIMA's website and, upon request, provide information about covered entities' compliance with this subtitle available to the public in all designated Citywide languages.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>53-7</num>
+          <heading>Rules and regulations.</heading>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of MIMA shall adopt rules and regulations to carry out this subtitle.</text>
+        </section>
+      </container>
+    </codify:replace>
+  </section>
+</document>

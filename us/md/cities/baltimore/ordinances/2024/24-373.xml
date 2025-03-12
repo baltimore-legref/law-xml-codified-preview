@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-373">
+  <num type="law">24-373</num>
+  <num type="bill">24-0500</num>
+  <heading type="short">Zoning - Port Covington Area of Special Signage Control - Amendment</heading>
+  <heading type="long">An Ordinance Concerning Zoning - Port Covington Area of Special Signage Control - Amendment</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-02-26</introduced>
+    <effective>2024-10-02</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/53618b94-afda-417d-9125-c55db008040e.pdf">Ord. 24-373</citation>
+    </citations>
+    <history>
+      <vote date="2023-02-26" reading="first"/>
+      <vote date="2024-08-26" reading="second"/>
+      <enacted>2024-10-02</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="32|§17-502|(a)|(2)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§17-502|(a)|(2)|(2)">
+      <para>
+        <num>(2)</num>
+        <text>The entire PC Zoning District is designated an Area of Special Signage Control, unless the boundaries of the Area of Special Signage Control are otherwise amended per <cite doc="City of Baltimore, Md., Code" path="32|§17-505">§ 17-505</cite>.</text>
+      </para>
+    </codify:insert>
+  </section>
+</document>

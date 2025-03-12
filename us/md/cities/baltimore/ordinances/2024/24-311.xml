@@ -1,0 +1,894 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-311">
+  <num type="law">24-311</num>
+  <num type="bill">23-0449</num>
+  <heading type="short">Public Safety – Baltimore City Police Department</heading>
+  <heading type="long">An Ordinance Concerning Public Safety – Baltimore City Police Department</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-10-30</introduced>
+    <effective>2024-01-24</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/d3d0844f-ab62-4c18-aa2e-1276586afe93.pdf">Ord. 24-311</citation>
+    </citations>
+    <history>
+      <vote date="2023-10-30" reading="first"/>
+      <vote date="2023-12-18" reading="second"/>
+      <enacted>2024-01-24</enacted>
+      <committee>Favorable, with amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
+    <codify:insert doc="City of Baltimore, Md., Code" after="16" codified:doc="City of Baltimore, Md., Code" codified:path="17|§1-1|annos">
+      <container>
+        <prefix>Article</prefix>
+        <num>17</num>
+        <heading>Police Department</heading>
+        <container>
+          <prefix>Subtitle</prefix>
+          <num>1</num>
+          <heading>General Provisions; Definitions</heading>
+          <section>
+            <prefix>§</prefix>
+            <num>1-1</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>(a)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>In this article, the following terms have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>
+                <em>Commissioner.</em>
+              </text>
+              <text>"Commissioner" means the Police Commissioner of Baltimore City.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>
+                <em>Department.</em>
+              </text>
+              <text>"Department" means the Baltimore City Police Department.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>
+                <em>Department staff.</em>
+              </text>
+              <text>"Department staff" means an individual employed by the Mayor and City Council of Baltimore assigned to work for the Department, whether a civilian or a police officer.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>
+                <em>Police officer.</em>
+              </text>
+              <text>"Police officer" means a person who is:</text>
+              <para>
+                <num>(1)</num>
+                <text>legally authorized to enforce the general criminal laws of the State;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>legally authorized to enforce the criminal and civil laws of the City; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>an employee of the Mayor and City Council of Baltimore.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <prefix>§</prefix>
+            <num>1-2</num>
+            <heading>Rules and regulations.</heading>
+            <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>adopt rules and regulations to carry out this article;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>adopt rules, regulations, orders, policies, or other directives:</text>
+              <para>
+                <num>(i)</num>
+                <text>relating to or in connection with the administration of the Department; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>for the purpose of:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>safeguarding the lives and safety of all individuals within</text>
+                  <text>the City;</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>protecting property within the City; and</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>assisting in securing to all individuals the equal protection</text>
+                  <text>of the law.</text>
+                </para>
+              </para>
+            </para>
+          </section>
+          <section>
+            <prefix>§</prefix>
+            <num>1-3</num>
+            <heading>Records.</heading>
+            <text>Subject to Subtitle 10 {"Records Management"} of Article 1 of the City Code, the Police Commissioner shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>designate a records officer for the Department to:</text>
+              <para>
+                <num>(i)</num>
+                <text>serve as the Department liaison to the City Records Management Officer, as established under § 10-5 {"City Records Management Officer: In general"} of Article 1 of the City Code; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>assist the City Records Management Officer in carrying out the records management program for the Department;</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>on the request of the City Records Management Officer, prepare a record inventory;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>cooperate with the City Records Management Officer in the preparation of record retention and disposition schedules for the Department; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>comply with the rules and regulations adopted by the City Records Management Officer.</text>
+            </para>
+          </section>
+        </container>
+        <container>
+          <prefix>Subtitle</prefix>
+          <num>2</num>
+          <heading>Police Department</heading>
+          <section>
+            <prefix>§</prefix>
+            <num>2-1</num>
+            <heading>Required percentage of civilian employees.</heading>
+            <text>At lest 20 percent of the Department shall be civilian employees.</text>
+          </section>
+          <section>
+            <prefix>§</prefix>
+            <num>2-2</num>
+            <heading>Redistricting.</heading>
+            <para>
+              <num>(a)</num>
+              <text><em>Definitions</em>.</text>
+              <para>
+                <num>(1)</num>
+                <text><em>In general</em>.</text>
+                <text>In this section the following words have the meanings indicated.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text><em>District</em>.</text>
+                <text>"District" means a police district of the Department.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text><em>Plan</em>.</text>
+                <text>"Plan" means the proposal for the adjustment of district boundaries presented by the Mayor to the City Council for adoption or amendment by resolution.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text><em>Police redistricting plan standards</em>.</text>
+              <text>To ensure that the resources of the Department are efficiently allocated,  in accordance with Article VII, § 147 {"Redistricting"} of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> the Commissioner shall prepare a proposal for the adjustment of the geographic boundaries of each district and the reallocation of the resources and personnel of the Department among the districts using:</text>
+              <para>
+                <num>(i)</num>
+                <text>decennial census population and housing data of the United States Census Bureau;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>district call volume trends;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>district response times; and</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>any other information deemed necessary by the Commissioner.</text>
+              </para>
+            </para>
+          </section>
+        </container>
+        <container>
+          <prefix>Subtitle</prefix>
+          <num>3</num>
+          <heading>Police Officers</heading>
+          <section>
+            <prefix>§</prefix>
+            <num>3-1</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>(a)</num>
+              <text><em>In general</em>.</text>
+              <text>In this subtitle the following words have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>
+                <em>Certified exclusive representative.</em>
+              </text>
+              <text>"Certified exclusive representative" means an employee organization certified by the Labor Commissioner as provided for in Article 12, § 4-3 {"Election of exclusive representative"} of the City Code.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>
+                <em>Direct compensation.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text>
+                  <em>In general.</em>
+                </text>
+                <text>"Direct compensation" means:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>wages;</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>salaries;</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>longevity pay based on number of years worked for the Department;</text>
+                </para>
+                <para>
+                  <num>(iv)</num>
+                  <text>shift differential;</text>
+                </para>
+                <para>
+                  <num>(v)</num>
+                  <text>bonuses; and</text>
+                </para>
+                <para>
+                  <num>(vi)</num>
+                  <text>leave with monetary value.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>
+                  <em>Exclusions.</em>
+                </text>
+                <text>"Direct compensation" does not include:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>a pension or any benefit that is to be paid on or after an employee's retirement or termination of employment; and</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>Department policies and actions that do not relate to direct compensation, including:</text>
+                  <para>
+                    <num>(A)</num>
+                    <text>job security;</text>
+                  </para>
+                  <para>
+                    <num>(B)</num>
+                    <text>disciplinary procedures;</text>
+                  </para>
+                  <para>
+                    <num>(C)</num>
+                    <text>investigations and actions;</text>
+                  </para>
+                  <para>
+                    <num>(D)</num>
+                    <text>promotions;</text>
+                  </para>
+                  <para>
+                    <num>(E)</num>
+                    <text>deployment or scheduling, including eligibility and assignment to details and positions;</text>
+                  </para>
+                  <para>
+                    <num>(F)</num>
+                    <text>loss of leave as provided in the general orders; and</text>
+                  </para>
+                  <para>
+                    <num>(G)</num>
+                    <text>issues relating to eligibility for overtime compensation.</text>
+                  </para>
+                </para>
+              </para>
+            </para>
+          </section>
+          <section>
+            <prefix>§</prefix>
+            <num>3-2</num>
+            <heading>Labor relations; collective bargaining.</heading>
+            <para>
+              <num>(a)</num>
+              <text><em>Municipal Employee Relations Law to apply</em>.</text>
+              <text>Except as otherwise provided in this section, the provisions of Article 12 of the City Code as amended from time to time and any rules and regulations adopted pursuant thereto governing or relating to labor relations or collective bargaining with general municipal employees of the City shall apply to labor relations and collective bargaining between the City and Department staff.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text><em>Negotiations</em>.</text>
+              <para>
+                <num>(1)</num>
+                <text>Negotiations with a certified exclusive representative, on behalf of  police officers, shall be conducted jointly by the Police Commissioner and the Labor Commissioner, or the designees of the Police Commissioner and the Labor Commissioner, on behalf of the employer.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>An employee organization may not be denied certification as the exclusive representative of any police officers solely for the reason that it:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>permits both rank and file employees in addition to supervisory and professional employees to join its membership; or</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>affiliates with another employee organization that permits rank and file, supervisory, or professional employees to join its membership.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>
+                <em>Right to request arbitration.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text>If the certified exclusive representative and the Department have not reached a written agreement concerning all issues of direct compensation by March 1 of any year, either party may at any time thereafter request arbitration by a board of arbitration, as provided for in this subsection.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A request for arbitration by either the certified exclusive representative or the Department must be honored.</text>
+              </para>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>
+                <em>Board of arbitration; Composition.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text>The board of arbitration shall be composed of 3 members.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Within 4 days of the request for arbitration:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>1 member will be appointed by the Mayor; and</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>1 member will be appointed jointly by the certified exclusive representative.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Within 8 days of the request for arbitration, 1 member will be appointed by the 2 members previously chosen under paragraph (2) of this subsection.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>The member chosen by the 2 members described under paragraph (2) of this subsection shall serve as the chair of the board of arbitration.</text>
+              </para>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>
+                <em>Board of arbitration; List of arbitrators.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text>
+                  <em>In general.</em>
+                </text>
+                <text>In accordance with the procedures of the American Arbitration Association, the member appointed to the board of arbitration under subsection (d)(3) of this section must be selected from a list of 7 arbitrators furnished by the American Arbitration Association.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>
+                  <em>Qualifications.</em>
+                </text>
+                <text>All of the arbitrators on the list furnished by the American Arbitration Association under paragraph (1) of this subsection must be members of the National Academy of Arbitrators.</text>
+              </para>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>
+                <em>Chair of the board; Alternative selection process.</em>
+              </text>
+              <text>If the 2 members previously appointed under subsection (d)(2) of this section do not mutually agree on the 3<sup>rd</sup> member, then:</text>
+              <para>
+                <num>(1)</num>
+                <text>the party requesting the arbitration shall first strike 1 name from the list furnished under subsection (e)(1) of this section; and then</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>the remaining party shall strike 1 name from the list; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>this process shall continue until 1 name remains, who shall be the 3<sup>rd</sup> member of the board of arbitration.</text>
+              </para>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text><em>Board of arbitration; Powers</em>.</text>
+              <text>The board of arbitration shall have the power to:</text>
+              <para>
+                <num>(1)</num>
+                <text>administer oaths;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>compel the attendance of witnesses; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>require the production of evidence by subpoena.</text>
+              </para>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text>
+                <em>Board of arbitration; Procedure.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text>
+                  <em>Start of proceedings.</em>
+                </text>
+                <text>The board of arbitration shall begin the arbitration proceedings within 7 days after the chair is selected.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>
+                  <em>Decision; 30-day time limit.</em>
+                </text>
+                <text>The board of arbitration shall make its decision within 30 days.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>
+                  <em>Decision; Majority vote</em>
+                </text>
+                <text>A decision by the board of arbitration shall be determined by a majority vote.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>
+                  <em>Time requirements; Discretion of the chair.</em>
+                </text>
+                <text>For good cause the chair may extend any of the time requirements established by this subsection.</text>
+              </para>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text>
+                <em>Proposals; Labor Commissioner</em>
+              </text>
+              <text>Within 3 days after the selection of the chair of the board of arbitration, the Labor Commissioner or the Labor Commissioner's designee shall provide each member of the board of arbitration and all parties with a detailed itemization of the last proposal made by each of the respective parties during the negotiations with respect to issues of direct compensation.</text>
+            </para>
+            <para>
+              <num>(j)</num>
+              <text>
+                <em>Application of section; Exclusivity.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text>The provisions of this section governing interest arbitration for police officers shall apply only to the terms of collective bargaining agreements directly relating to direct compensation.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The provisions of this section may not be construed as being contradictory to the provisions of the general orders.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>If there is a dispute over whether an issue is an issue of direct compensation, the board of arbitration shall decide the issue and the decision by the board of arbitration is final and binding on both parties.</text>
+              </para>
+            </para>
+            <para>
+              <num>(k)</num>
+              <text>
+                <em>Decision; Factors.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text>
+                  <em>Factors.</em>
+                </text>
+                <text>The board of arbitration shall identify the major issues in the dispute, review the positions of all parties, and base its decision on the following factors:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>the lawful authority of the City;</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>the financial conditions of the City;</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>the stipulations of the parties;</text>
+                </para>
+                <para>
+                  <num>(iv)</num>
+                  <text>providing for direct compensation for employees involved in the arbitration proceeding;</text>
+                </para>
+                <para>
+                  <num>(v)</num>
+                  <text>the overall compensation and benefits paid to the employees involved in the arbitration proceeding, whether reached by a collective bargaining agreement or otherwise, including any increased cost to the City for providing the benefits;</text>
+                </para>
+                <para>
+                  <num>(vi)</num>
+                  <text>the terms and conditions of employment for other employees of the Mayor and City Council of Baltimore including any changes to the terms and conditions for the period to be covered by the decision of the board of arbitration;</text>
+                </para>
+                <para>
+                  <num>(vii)</num>
+                  <text>the overall compensation and benefits of public safety employees  in the State; and public safety employees in comparable out-of-state metropolitan political subdivisions as compared with private sector employees in the metropolitan Baltimore City area;</text>
+                </para>
+                <para>
+                  <num>(viii)</num>
+                  <text>factors that are normally used in the determination of wages and other benefits in the collective bargaining process, including:</text>
+                  <para>
+                    <num>(A)</num>
+                    <text>cost-of-living data; and</text>
+                  </para>
+                  <para>
+                    <num>(B)</num>
+                    <text>consumer prices for goods and services</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(ix)</num>
+                  <text>the increases and decreases in the Consumer Price Index published by the Bureau of Labor Statistics in the United States Department of Labor;</text>
+                </para>
+                <para>
+                  <num>(x)</num>
+                  <text>the public welfare, including the impact of the board of arbitration's decision on the City's ability to continue providing services generally to the residents of the City; and</text>
+                </para>
+                <para>
+                  <num>(xi)</num>
+                  <text>the terms of the existing collective bargaining agreement negotiated between the parties in the past.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>
+                  <em>Decision; Adverse effect on public services.</em>
+                </text>
+                <text>Notwithstanding paragraph 1 of this subsection, the board of arbitration may not render a decision relating to direct compensation that adversely impacts the City's ability to continue to fund other public services generally.</text>
+              </para>
+            </para>
+            <para>
+              <num>(l)</num>
+              <text>
+                <em>Decision; Specifications.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text><em>Implementation of last proposal</em>.</text>
+                <text>The board of arbitration, after hearing witnesses and receiving and considering the written evidence that is submitted, shall issue a written decision that orders the implementation of the last proposal of 1 of the respective parties submitted in accordance with subsection (i) of this section.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>
+                  <em>Written decision; Consideration and application of factors.</em>
+                </text>
+                <text>The board of arbitration shall issue a written decision that:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>demonstrates that all the factors set forth in subsection (l) of this section have been considered and applied; and</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>includes the evidence on record relied on in making the decision.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>
+                  <em>Finality of decision.</em>
+                </text>
+                <para>
+                  <num>(i)</num>
+                  <text>The decision of a majority of the members of the board of arbitration shall be final and binding on the Mayor and City Council of Baltimore and on the certified employee organizations involved in the proceedings.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>No appeal of the decision is allowed.</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>The decision constitutes:</text>
+                  <para>
+                    <num>(A)</num>
+                    <text>a mandate to the Mayor of Baltimore City with respect to the matters that can be remedied administratively by the Mayor; and</text>
+                  </para>
+                  <para>
+                    <num>(B)</num>
+                    <text>a mandate to the Board of Estimates and the City Council with respect to the matters which require legislative action necessary to implement the decision of the board of arbitration.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>
+                  <em>Required legislative action.</em>
+                </text>
+                <text>Legislation for matters that require legislative action for implementation shall be enacted within 45 days following the date of the arbitration decision.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>
+                  <em>Salaries and wage scales; Ordinance of Estimates.</em>
+                </text>
+                <text>The amounts of salaries and wage scales determined by the final decision of the board of arbitration shall be included in the proposed Ordinance of Estimates in accordance with Article VI, § 12(b) {"Multi-year collective bargaining agreements"} of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>(m)</num>
+              <text>
+                <em>Cost of arbitration.</em>
+              </text>
+              <text>The cost of the arbitration proceedings, including the cost for a court reporter, provided under this section shall be paid equally by the parties involved.</text>
+            </para>
+          </section>
+          <section>
+            <prefix>§</prefix>
+            <num>3-3</num>
+            <heading>Police officers – Qualifications, appointment, promotion, probation.</heading>
+            <para>
+              <num>(a)</num>
+              <text>
+                <em>Examinations.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text>
+                  <em>In general.</em>
+                </text>
+                <text>The Department shall administer competitive examinations and such other tests as may be necessary to ascertain the relative qualifications for a:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>candidate for appointment at the entry level; and</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>candidate for promotional appointment within the Department.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>
+                  <em>Examination requirements.</em>
+                </text>
+                <text>Examinations shall:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>be public;</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>fairly test the capacity and fitness of the candidate to discharge the duties of the position the candidate is seeking; and</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>be prepared with guidance from a nationally-recognized police or testing group, as designated by the Commissioner.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>
+                  <em>Preparation of graded lists.</em>
+                </text>
+                <text>The Department shall prepare graded lists of qualified candidates determined from the examinations and other tests administered under this subsection.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>
+                <em>Promotional appointments.</em>
+              </text>
+              <para>
+                <num>(1)</num>
+                <text>
+                  <em>Promotion list.</em>
+                </text>
+                <text>The Department shall prepare a promotion list that ranks qualified candidates in order from highest to lowest based on examination and test scores.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>
+                  <em>25 percent rule.</em>
+                </text>
+                <para>
+                  <num>(i)</num>
+                  <text>
+                    <em>In general.</em>
+                  </text>
+                  <text>The Commissioner shall make a promotional appointment from the candidates that are the highest scoring 25 percent of candidates on the promotion list prepared under paragraph (1) of this subsection.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>
+                    <em>Calculation of 25 percent.</em>
+                  </text>
+                  <para>
+                    <num>(A)</num>
+                    <text>
+                      <em>In general.</em>
+                    </text>
+                    <text>The top 25 percent of candidates is the quartile of candidates on the promotion list that score the highest.</text>
+                  </para>
+                  <para>
+                    <num>(B)</num>
+                    <text>
+                      <em>Timing of calculation.</em>
+                    </text>
+                    <text>The 25 percent highest scoring candidates shall be calculated when the promotion list is created and shall remain fixed for the life of the promotion list.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>
+                    <em>Continuing use of promotion list.</em>
+                  </text>
+                  <text>After the first promotion is made, as prescribed by subparagraph (i) of this paragraph, the Commissioner shall fill the next vacancy in the Department, if any, from the highest scoring remaining and available candidate on the promotion list.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>
+                  <em>Exhaustion of promotion list.</em>
+                </text>
+                <text>All promotional appointments made after the creation of a promotion list must be made in accordance with paragraph (2) of this subsection until the eligible list is exhausted by such appointments.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>
+                  <em>Term of promotion list.</em>
+                </text>
+                <para>
+                  <num>(i)</num>
+                  <text>Each promotion list created under paragraph (1) of this subsection may not be used for longer than 1 year, unless the list is extended upon the request of the Commissioner.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>The Commissioner may not extend the use of a promotion list for more than 2 years, dating from the time that the list was first created.</text>
+                </para>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>
+                  <em>Removing a candidate from the promotion list.</em>
+                </text>
+                <para>
+                  <num>(i)</num>
+                  <text>
+                    <em>In general.</em>
+                  </text>
+                  <text>The Commissioner or the Commissioner's designee may not remove a candidate from an promotion list.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>
+                    <em>Exceptions.</em>
+                  </text>
+                  <text>The Commissioner or the Commissioner's designee may remove a candidate from an promotion list, if:</text>
+                  <para>
+                    <num>(A)</num>
+                    <text>the candidate is no longer available for appointment; or</text>
+                  </para>
+                  <para>
+                    <num>(B)</num>
+                    <text>between the time the candidate applied for the promotion and the time in which the candidate is to be selected for the promotion, a misconduct complaint against the candidate for which the punishment could be termination has been received and sustained by the board or the Department's disciplinary review committee.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>
+                  <em>Inspection of promotion list.</em>
+                </text>
+                <para>
+                  <num>(i)</num>
+                  <text>
+                    <em>Public inspection.</em>
+                  </text>
+                  <text>A promotion list is subject to the Maryland Public Information Act.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>
+                    <em>Inspection by Commissioner and applicant.</em>
+                  </text>
+                  <text>The promotion list, examination papers, and other materials used in determining a candidate's eligibility may be inspected by:</text>
+                  <para>
+                    <num>(A)</num>
+                    <text>the Commissioner or the Commissioner's designee; and</text>
+                  </para>
+                  <para>
+                    <num>(B)</num>
+                    <text>the individual applicant, as limited to those materials that</text>
+                    <text>pertain to their application.</text>
+                  </para>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>
+                <em>Appointments without examination.</em>
+              </text>
+              <para>
+                <num>(i)</num>
+                <text>Notwithstanding any provisions of this subtitle, the Commissioner may make any appointment to the Department above the rank of lieutenant without examination.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>No position above the rank of lieutenant shall be filled by a police officer within the Department of a rank less than lieutenant.</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Where any such appointment is made, the police officer so appointed shall, upon the termination of service in such position, be returned to the rank from which the police officer was elevated, or to such higher rank as the police officer became eligible to serve in during the appointment.</text>
+              </para>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>
+                <em>Probation.</em>
+              </text>
+              <text>Any provisions relating to the Department contained in §§ <cite doc="City of Baltimore, Md., Charter" path="VII|§94">94</cite> to <cite doc="City of Baltimore, Md., Charter" path="VII|§103">103</cite> of <cite doc="City of Baltimore, Md., Charter" path="VII">Article VII of the City Charter</cite> notwithstanding, all appointments and promotional appointments shall be probationary in accordance with the following rules:</text>
+              <para>
+                <num>(1)</num>
+                <text>During the 1<sup>st</sup> year, all appointments to the Department at the entrance level of civilian employees shall be known and regarded as probationary.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>All appointments of a police officer to the Department shall, during the 1<sup>st</sup> year of service following completion of entrance level training, be known and regarded as probationary.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>At any time during the 1-year probationary period for either a civilian employee or a police officer the appointee's employment may, in the discretion of the Commissioner, be forthwith terminated without the necessity for a hearing, and when so terminated the appointee shall cease to be a member of the Department, if:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>the services of an appointee are not satisfactory to the Commissioner; or</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>the appointee is not certified by the police physician as physically qualified to continue to discharge the appointed individual's duties.</text>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>All promotional appointees, both civilian employees and police officers, shall be probationary for 1 year after which, if the appointee's services are satisfactory to the Commissioner, and the appointee is physically able to perform the duties of the appointee's rank, grade, or position, as certified by the police physician, the promotional appointment shall be made permanent.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>If, in the judgment of the Commissioner the services of a promotional appointee have not been satisfactory or the appointee is not physically qualified for the promotional appointment, the appointee shall be reduced to the rank, grade, or position from which the appointee was promoted.</text>
+              </para>
+            </para>
+          </section>
+        </container>
+        <annotations>
+          <annotation type="Editor's Notes">
+            <text>Chapter 133 of the Acts of 2021 named the Baltimore Police Department (the "Department") to be "an agency and instrumentality of the City of Baltimore" instead of the State by amending §§ 6-2(a) and 6-3 of this Subtitle 16. The transfer of control was made contingent on the passage of an amendment to the City Charter and its ratification by the voters of Baltimore City. The transfer of control was effectuated by the ratification of the amendment to the City Charter and became effective January 1, 2023.</text>
+            <text>Local control, however, was not complete. The General Assembly did not repeal part of § (27) of Article II, of the City Charter barring the Mayor and City Council from enacting any ordinance that would "conflict, impede, obstruct, hinder or interfere with the powers of the Police Commissioner." Historically this provision blocked any attempt by the Mayor and City Council to enact legislation impacting police operations. Article II of the City Charter contains the City's express powers as delegated by the State, and the Maryland Constitution provides that only the General Assembly may add, amend, or repeal provisions in Article II of the City Charter. Md. Const., Art. XI-A, §§ 2, 4; Kimball-Tyler Co. v. Baltimore, 214 Md. 86, 94 (1957) ("the City has no authority at all to legislate on the subject of its express powers . . .Only the General Assembly can alter those provisions,").</text>
+            <text>Two years after City voters authorized the transfer of control of the Department from the State to the City, the interfering part of § (27) of the City Charter was repealed by Chapter 947 of the Acts of 2024. Section 2 of Chapter 947 made contingent the effectiveness of the act "on the passage of an amendment to the Charter of Baltimore City that provides for the appointment, terms of office, and the powers and duties of the Baltimore City Police Commissioner and the powers and duties of the Baltimore City Police Department and its ratification by the voters of Baltimore City at the 2024 general election." Within the same Section 2 the Act specified that if the amendment was ratified at the 2024 general election the act would take effect on January 1, 2025.</text>
+            <text>By enacting Ordinance 24-310 on January 24, 2024, the Mayor and City Council of Baltimore sought to satisfy the requirements of § 2 of Chapter 947 by proposing to amend the City Charter by establishing the objectives, powers, and duties of the Baltimore City Police Department; creating the role of the Police Commissioner and establishing the Commissioner as the head of the Department; providing for the appointment and confirmation of the Commissioner; establishing the powers and duties of police officers; and requiring the reallocation of police district boundaries. At the 2024 general election on November 5, 2024, the voters of Baltimore City ratified Question E thereby satisfying the requirements of § 2 of Chapter 947 and effectuating Ordinance 24-310, effective on January 1, 2025.</text>
+            <text>In addition to the Charter amendments proposed in Ordinance 24-310, the Mayor and City Council also moved to repeal the then binding law in Subtitle 16 of the Public Local Laws for Baltimore City governing the organization and operation of the Department. Ordinance 24-311, as enacted on January 24, 2024, repealed nearly all of Subtitle 16 of the Public Local Laws for Baltimore City and transferred a majority of the provisions to a new Article 17 {"Police Department"} in the City Code.</text>
+            <text>While the Public Local Laws are generally controlled by the General Assembly, the Mayor and City Council are empowered to "repeal or amend local laws enacted by the Maryland Legislature[] on all matters covered by the express powers granted to the [City]". Pressman v. Barnes, 209 Md. 544, 556-57 (1956).</text>
+            <text>Section 1 of Ordinance 24-311 repealed §§ 16-1 through 16-15 and §§ 16-17 through 16-55 of Subtitle 16. Sections 16-16A, 16-16B, and 16-16C were not repealed. The 3 sections of Subtitle 16 that remain in effect historically provided the authority to the Commissioner to appoint special enforcement officers and for those officers to issue citations. However, to the extent that those sections permitted the City to enact local laws concerning special and traffic enforcement officers, the City gained full express powers to legislate over these topics with the repeal of the language in § (27) of Article II of the City Charter that had prohibited certain local legislation. Now, the City's express powers serve as the authority for the City's enactment of the ordinances contained in Subtitles 71 through 73 of Article 19 {"Police Ordinances"} of the City Code.</text>
+          </annotation>
+        </annotations>
+      </container>
+    </codify:insert>
+  </section>
+</document>

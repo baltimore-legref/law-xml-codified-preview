@@ -1,0 +1,1152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="general">
+  <heading>General Provisions Article of Baltimore City Code</heading>
+  <container>
+    <prefix>Title</prefix>
+    <num>1</num>
+    <heading>Definitions; Rules of Interpretation; Time Computations</heading>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>1</num>
+      <heading>Definitions</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>1-101</num>
+        <heading>In general.</heading>
+        <text>Throughout the Baltimore City Code, the following terms have the meanings indicated, except as otherwise expressly provided.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-102</num>
+        <heading>Adult.</heading>
+        <text>"Adult" means an individual who is 18 years or older.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-103</num>
+        <heading>City.</heading>
+        <text>"City" means the City of Baltimore.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-104</num>
+        <heading>City Code; Code.</heading>
+        <text>"City Code" or "Code" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>the numbered articles of the Baltimore City Code; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the unnumbered articles of the Revised Code of Baltimore City.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-105</num>
+        <heading>Includes; Including.</heading>
+        <text>"Includes" or "including" means by way of illustration and not by way of limitation.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-106</num>
+        <heading>Minor.</heading>
+        <text>"Minor" means an individual under the age of 18.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-107</num>
+        <heading>Person.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>"Person" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>an individual;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a receiver, trustee, guardian, personal representative, fiduciary, or representative of any kind; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a partnership, firm, association, corporation, or other entity of any kind.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Exclusion.</heading>
+          <text>"Person" does not include, except as otherwise expressly provided, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-108</num>
+        <heading>State.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Lower case.</heading>
+          <text>Except as provided in subsection (b) of this section, "state" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>a state, possession, territory, or commonwealth of the United States; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the District of Columbia.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Capitalized.</heading>
+          <text>When capitalized, "State" means Maryland.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-109</num>
+        <heading>Street.</heading>
+        <text>"Street" means any street, boulevard, road, highway, alley, lane, sidewalk, footway, or other way that is owned by the City or habitually used by the public.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>2</num>
+      <heading>Rules of Interpretation</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>1-201</num>
+        <heading>In general.</heading>
+        <text>Throughout the Baltimore City Code, the following rules of interpretation apply, except as otherwise expressly provided.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>1-202</num>
+        <reason>Reserved</reason>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-203</num>
+        <heading>Gender.</heading>
+        <text>A reference to one gender includes and applies to the other genders.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-204</num>
+        <heading>Mandatory, prohibitory, and permissive terms.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Mandatory terms.</heading>
+          <text>"Must" and "shall" are each mandatory terms used to express a requirement or to impose a duty.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Prohibitory terms.</heading>
+          <text>"Must not", "may not", and "no ... may" are each mandatory negative terms used to establish a prohibition.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Permissive terms.</heading>
+          <text>"May" is permissive.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-205</num>
+        <heading>Singular and plural.</heading>
+        <text>The singular includes the plural and the plural includes the singular.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section name="1-206to1-207">
+        <num>1-206 to 1-207</num>
+        <reason>Reserved</reason>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-208</num>
+        <heading>Captions or headings.</heading>
+        <text>The captions or headings of various statutory units:</text>
+        <para>
+          <num>(1)</num>
+          <text>are for convenience of reference only, intended to summarize the statutory provisions that follow; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>are not law and are not to be taken as affecting the meaning or effect of the law.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-209</num>
+        <heading>Editor's or Revisor's Notes.</heading>
+        <text>Editor's or Revisor's Notes accompanying various statutory units, including any accompanying list of defined terms:</text>
+        <para>
+          <num>(1)</num>
+          <text>are for convenience of reference only, intended to identify the sources of these provisions and highlight changes made to those sources; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>are not law and are not to be taken as affecting the meaning or effect of the law.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>1-210</num>
+        <reason>Reserved</reason>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-211</num>
+        <heading>Effect of repeal or amendment of statute.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The repeal, repeal and reenactment, or amendment of a statute does not release, extinguish, or alter a criminal or civil penalty, forfeiture, or liability imposed or incurred under the statute.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Purposes for which statute remains in effect.</heading>
+          <text>A repealed, repealed and reenacted, or amended statute remains in effect for the purpose of sustaining any:</text>
+          <para>
+            <num>(1)</num>
+            <text>criminal or civil action, suit, proceeding, or prosecution for the enforcement of a penalty, forfeiture, or liability; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>judgment, decree, or order that imposes, inflicts, or declares the penalty, forfeiture, or liability.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-212</num>
+        <heading>References to other laws.</heading>
+        <text>Whenever a provision of this City Code refers to any other part of the Code or to any other law, the reference applies to any subsequent amendment of the law referred to, unless the referring provision expressly provides otherwise.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>1-213</num>
+        <reason>Reserved</reason>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-214</num>
+        <heading>Severability.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Except as provided in subsection (b) of this section:</text>
+          <para>
+            <num>(1)</num>
+            <text>all provisions of this Code <em>{or of a regulation adopted under this Code} </em>are severable; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>if a court determines that a word, phrase, clause, sentence, paragraph, subsection, section, or other provision is invalid or that the application of any part of the provision to any person or circumstances is invalid, the remaining provisions and the application of those provisions to other persons or circumstances are not affected by that decision.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Exceptions.</heading>
+          <text>Subsection (a) of this section does not apply:</text>
+          <para>
+            <num>(1)</num>
+            <text>to the extent that a statute <em>{or regulation} </em>specifically provides otherwise; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>if the court finds that the remaining provisions alone are incomplete and incapable of   being executed in accordance with the legislative intent.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>3</num>
+      <heading>Time Computations</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>1-301</num>
+        <heading>In general.</heading>
+        <text>Throughout the Baltimore City Code, time shall be calculated in the manner provided by this subtitle, except as otherwise expressly provided.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-302</num>
+        <heading>Computation of time after an act, event, or default.</heading>
+        <para>
+          <num>(1)</num>
+          <text>In computing any period of time prescribed by this Code, the day of the act, event, or default after which the designated period of time begins to run is not included.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the period of time allowed is more than 7 days, intermediate Saturdays, Sundays, and legal holidays are counted.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the period of time allowed is 7 days or less, intermediate Saturdays, Sundays, and legal holidays are not counted.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The last day of the period so computed is included unless it is a Saturday, Sunday, or legal holiday, in which event the period runs until the end of the next day that is not a Saturday, Sunday, or legal holiday.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-303</num>
+        <heading>Computation of time before an act, event, or default.</heading>
+        <para>
+          <num>(1)</num>
+          <text>In determining the latest day for performing an act that is required by this Code to be performed a prescribed number of days before a certain day, act, or event, all days preceding that day, including intervening Saturdays, Sundays, and legal holidays, are counted in the number of days so prescribed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The latest day is included in the determination unless it is a Saturday, Sunday, or legal holiday, in which event the latest day is the first preceding day that is not a Saturday, Sunday, or legal holiday.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container name="2to3">
+    <prefix>Titles</prefix>
+    <num>2 to  3</num>
+    <reason>Reserved</reason>
+  </container>
+  <container>
+    <prefix>Title</prefix>
+    <num>4</num>
+    <heading>Administrative Procedure Act – Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes">
+        <text>This Title was initially enacted by Ordinance 20-431 (effective January 15, 2021), as amended by Ordinance 21-055 (effective October 18, 2021), and most recently amended by Ordinance 23-269 (effective October 15, 2023).</text>
+        <text>Section 4 of Ord. 20-341, as amended by Ord. 21-055, provides that any regulation that was current and effective as of January 15, 2021, shall remain effective if:</text>
+        <para>
+          <num>(1)</num>
+          <text>the regulation is submitted, in digital form, to the Director of Legislative Reference by January 15, 2022, for COBRA codification;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the regulation is not abrogated by:</text>
+          <para>
+            <num>(i)</num>
+            <text>the agency that adopted it; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a court of competent jurisdiction; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>no part of the text of the regulation is materially changed, which the City Solicitor shall determine and, if the City Solicitor does determine a material change has been made, the City Solicitor shall deem the revised text to be a proposed regulation, which:</text>
+          <para>
+            <num>(i)</num>
+            <text>is not effective unless adopted in accordance with the requirements of <cite path="|general">General Provisions Article</cite>, Title 4; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>does not affect the lawfulness of the existing regulation until the proposed regulation becomes effective pursuant to <cite path="|general">General Provisions Article</cite>, Title 4.</text>
+          </para>
+        </para>
+        <text>Additionally, Section 4 of Ord. 20-341, as amended by Ord. 21-055 goes on to state that “[a]ny regulation that may be affected by the provisions of this Ordinance and that was current and effective as of January 15, 2021, and not filed with the Director of Legislative Reference by January 15, 2022, shall terminate and no longer have legal effect.”</text>
+      </annotation>
+    </annotations>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>1</num>
+      <heading>Definitions; General Provisions</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>4-101</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this title, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Agency.</heading>
+          <text>"Agency" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>any department, board, commission, council, authority, committee, office, or other unit of City government; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any officer or other individual who exercises authority comparable to that of the head of a unit of City government.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Code; COBRA.</heading>
+          <text>"Code" or "COBRA" means the Code of Baltimore Regulations Annotated.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Director.</heading>
+          <text>"Director" means the Director of Legislative Reference or the Director's designee.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Notice of Proposed Action.</heading>
+          <text>"Notice of Proposed Action" means the form required for the submission of a proposed regulation to the COBRA Register as required by <cite path="|general|§4-301|(b)">§ 4-301(b) of this title</cite>.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Notice of Regulation Development.</heading>
+          <text>"Notice of Regulation Development" means the form created by the Department of Legislative Reference to initiate the regulation promulgation process as required by <cite path="|general|§4-205|(a)|(1)">§ 4-205(a)(1) of this title</cite>.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Promulgation.</heading>
+          <text>"Promulgation" means the process of formally putting a regulation into effect.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Register; COBRA Register.</heading>
+          <text>"Register" or "COBRA Register" means the document published by the Department of Legislative Reference containing regulations proposed by units of City government that provides public notice of the proposed regulations for 30 days.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Regulation.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Regulation" means a statement or an amendment of a statement that:</text>
+            <para>
+              <num>(i)</num>
+              <text>has general application;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>has future effect;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>details or carries out the law that the City or an agency of the City administers; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>is in any form, including:</text>
+              <para>
+                <num>(A)</num>
+                <text>a guideline;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>an executive order;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>a requirement;</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>a standard;</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>a statement of interpretation; or</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>a statement of policy.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Regulation" does not include a statement, policy, directive, or operating procedure of City government that:</text>
+            <para>
+              <num>(i)</num>
+              <text>does not affect directly the rights of the public or the procedures available to the public; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>either:</text>
+              <para>
+                <num>(A)</num>
+                <text>concerns only internal management of City government; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>requires compliance by City employees with provisions limited to attendance, conduct, training, discipline, or internal procedure.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation doc="City of Balt., Md., Ord. 23-269" type="History">Ord. 23-269</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-102</num>
+        <heading>Scope.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>This title applies only to regulations adopted by an agency that is authorized by law to adopt regulations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Implied authority.</heading>
+          <text>If a law authorizes an agency to implement or enforce that law, the agency may adopt a regulation to implement or enforce that law even if the authority to adopt the regulation is not expressly stated in that law.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Adoption authorized by federal or state law.</heading>
+          <text>This title does not apply to any regulation adopted under the authority provided by federal or State law, to the extent that the federal or State law requires an adoption procedure that differs from the procedures required under this title.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-103</num>
+        <heading>Repeal of a regulation.</heading>
+        <text>Except as provided in <cite path="|general|§4-404">§ 4-404 {"Removal of obsolete provisions"} of this title</cite>, the repeal of all or part of a previously adopted regulation shall be subject to the requirements and procedures set forth in this title.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>2</num>
+      <heading>Form of Regulations; Submission Before Publication</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>4-201</num>
+        <heading>Citation of legal authority.</heading>
+        <text>A regulation is not effective unless it contains a citation of the legal authority for the regulation.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 23-269" type="History">Ord. 23-269</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-202</num>
+        <heading>Form of proposed regulation.</heading>
+        <text>Except as otherwise provided in <cite path="|general|§4-203">§ 4-203 of this subtitle</cite>, regulations shall be written in plain language and shall conform to the style set forth in a style manual adopted by the Department of Legislative Reference.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord.  21-055" type="History">Ord.  21-055</annotation>
+          <annotation doc="City of Balt., Md., Ord. 23-269" type="History">Ord. 23-269</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-203</num>
+        <heading>Incorporation by reference.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>"Incorporate by reference" defined.</heading>
+          <text>In this section, "incorporate by reference" means the method by which a regulation makes provisions of another document part of the regulation by reference to the other document.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>In general.</heading>
+          <text>An agency may incorporate by reference another document within a regulation if:</text>
+          <para>
+            <num>(1)</num>
+            <text>both the Director and the agency find that restating the text or graphics of the document within the regulation would be unduly cumbersome, expensive, or otherwise inexpedient;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the reference within the regulation fully identifies the:</text>
+            <para>
+              <num>(i)</num>
+              <text>incorporated document by title and date of publication or issuance; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the page or pages of the incorporated document the regulation comprises;</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the reference clearly states which part or parts of the document are being incorporated, if the agency intends to incorporate only a portion of a document; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the agency maintains a copy of the incorporated document that is:</text>
+            <para>
+              <num>(i)</num>
+              <text>available for public inspection on the agency's website; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>indexed in plain language so that the public may easily search for the location of different topics contained in the regulation.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Subsequent amendments to incorporated material.</heading>
+          <text>An agency may incorporate later amendments or editions of a document previously incorporated by reference within a regulation only after compliance with the proposal, notice and publication, and adoption procedures set forth in this title.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 21-055" type="History">Ord. 21-055</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-204</num>
+        <heading>Single subject.</heading>
+        <text>A proposed regulation may not contain more than one subject matter.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 21-055" type="History">Ord. 21-055</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-205</num>
+        <heading>Submission before publication.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Initial submission.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Department of Legislative Reference.</heading>
+            <para>
+              <num>(i)</num>
+              <text>Before submitting a proposed regulation for inclusion in the Register, an agency shall submit the following to the Department of Legislative Reference for revision and approval of style and format:</text>
+              <para>
+                <num>(A)</num>
+                <text>the text of a proposed regulation; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>a Notice of Regulation Development in the form and with the content required by the Director.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Upon receipt of the materials described in paragraph (1) of this subsection, the Department of Legislative Reference shall forward the Notice of Regulation Development to the City Solicitor for initial approval as to the legal authority to promulgate regulations.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>City Administrator; City Solicitor.</heading>
+            <text>After a proposed regulation is approved by the Department of Legislative Reference as required by paragraph (1) of this subsection, an agency shall then submit the proposed regulation to:</text>
+            <para>
+              <num>(i)</num>
+              <text>the City Solicitor for approval as to form and legal sufficiency; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the City Administrator for approval.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Effect of noncompliance.</heading>
+          <text>If an agency fails to comply with this section or if the Department of Legislative Reference or the City Solicitor fails to approve the regulation as specified in subsection (a):</text>
+          <para>
+            <num>(1)</num>
+            <text>the proposed regulation may not be adopted; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>if adopted, is not effective.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 21-055" type="History">Ord. 21-055</annotation>
+          <annotation doc="City of Balt., Md., Ord. 23-269" type="History">Ord. 23-269</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>3</num>
+      <heading>Notice and Comment Period; Publication in Register; Adoption</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>4-301</num>
+        <heading>Notice of proposed regulation.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>After a proposed regulation has been approved by the Department of Legislative Reference, the City Solicitor, and the City Administrator, as described in <cite path="|general|§4-205">§ 4-205 of this title</cite>, the agency shall submit the proposed regulation to the Department of Legislative Reference for publication in the Register to solicit public comment for at least 30 days.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Publication of proposed regulation in Register.</heading>
+          <text>To have a proposed regulation published in the Register, an agency shall submit to the Department of Legislative Reference:</text>
+          <para>
+            <num>(1)</num>
+            <text>the proposed regulation; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a Notice of Proposed Action in the form and containing the information required by the Department of Legislative Reference.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Publication on website.</heading>
+          <text>An agency shall publish the text of a proposed regulation on the agency's website no later than 3 business days after the date that the proposed regulation is published in the Register.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 23-269" type="History">Ord. 23-269</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-302</num>
+        <heading>Effect of notice.</heading>
+        <text>Publication of the notice required by this subtitle:</text>
+        <para>
+          <num>(1)</num>
+          <text>creates a rebuttable presumption that the proposed regulation was adopted properly; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>is deemed to give a person who is subject to or affected by the proposed regulation notice of the contents of the proposed regulation.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-303</num>
+        <heading>COBRA Register.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>There is a COBRA Register that contains regulations proposed by units of City government.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Publication and distribution.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Department of Legislative Reference shall publish the Register once per calendar month.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Department of Legislative Reference shall distribute the Register each month by:</text>
+            <para>
+              <num>(i)</num>
+              <text>posting a copy of the Register on the Department of Legislative Reference's website; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>providing a copy of the Register to:</text>
+              <para>
+                <num>(A)</num>
+                <text>each City councilmember;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>each public library in the City;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>the City Solicitor; and</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>the City Administrator.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Contents.</heading>
+          <para>
+            <num>(1)</num>
+            <text>In general.</text>
+            <text>Except as provided in paragraph (2) of this subsection, the Register shall contain:</text>
+            <para>
+              <num>(i)</num>
+              <text>a publication date;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the proposed regulation or regulations; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a Notice of Proposed Action for each proposed regulation.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exceptions.</heading>
+            <text>If there are no proposed regulations during a calendar month, the Department of Legislative Reference shall distribute a copy of the Register in accordance with subsection (b)(2) of this section that contains:</text>
+            <para>
+              <num>(i)</num>
+              <text>a publication date; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a memorandum stating that no regulations were proposed during the respective calendar month.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Procedures.</heading>
+          <text>The Department of Legislative Reference shall determine procedures regarding the creation, publication, and distribution of the Register.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 23-269" type="History">Ord. 23-269</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-304</num>
+        <heading>Review by Committee.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>"Committee" defined.</heading>
+          <text>In this section, "Committee" means the Committee on Legislative Investigations, established by City Code <cite path="|1|§1-4">Article 1, § 1-4 {"Committee on Legislative Investigations"}</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>In general.</heading>
+          <para>
+            <num>(1)</num>
+            <text>On receipt of written notification or notifications by the Chair of the Committee from at least 3 councilmembers within 15 days from the receipt of the Register described in § 4-303 {"COBRA Register"}, a 60-day period of review of the proposed regulation shall commence before the Committee.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A review under this section may include holding a public hearing before the Committee.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Scope of review.</heading>
+          <text>In its review under this section, the Committee shall consider whether the proposed regulation:</text>
+          <para>
+            <num>(1)</num>
+            <text>conforms with the legal authority of the agency; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>reasonably complies with the legislative intent of the law under which the regulation was proposed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Effect of review period.</heading>
+          <para>
+            <num>(1)</num>
+            <text>During the Committee's 60-day review period, the proposed regulation may not be adopted nor may it become effective.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>On the expiration of the 60-day period, the agency may proceed with the formal adoption of the proposed regulation as provided in this title.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+          <annotation doc="City of Balt., Md., Ord. 23-269" type="History">Ord. 23-269</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-305</num>
+        <heading>Adoption or re-publication.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Submission to City Solicitor.</heading>
+          <para>
+            <num>(1)</num>
+            <text>After the notice and comment period described in <cite path="|general|§4-301">§ 4-301 {"Notice of proposed regulation"} of this subtitle</cite> has expired, if an agency makes changes to the text of the proposed regulation, the agency shall submit the changed proposed regulation to the City Solicitor.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The City Solicitor shall determine whether the change in the proposed regulation is a material change.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Determination of material change.</heading>
+          <text>If the City Solicitor determines that an agency has made a material change to the text of a proposed regulation, the agency may not adopt the proposed regulation unless it is proposed anew, re-published, and adopted in accordance with the requirements of this title.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>No change or determination of non-material change.</heading>
+          <text>If, after the notice and comment period, the agency has not made a change in the proposed regulation or if the City Solicitor determines that a change in the proposed regulation is not material, the agency may adopt and implement the proposed regulation only after:</text>
+          <para>
+            <num>(1)</num>
+            <text>securing the written approval of the agency head; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>filing the regulation with the Director for COBRA codification.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Failure to adopt.</heading>
+          <text>If an agency fails to adopt a proposed regulation within 180 days after the date the proposed regulation was initially published in the Register, the regulation shall be deemed withdrawn and may not be adopted unless proposed anew and adopted in accordance with the requirements of this subtitle.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 21-055" type="History">Ord. 21-055</annotation>
+          <annotation doc="City of Balt., Md., Ord. 23-269" type="History">Ord. 23-269</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-306</num>
+        <heading>Emergency regulations.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>"State of emergency" defined.</heading>
+          <text>In this section, "state of emergency" means a period of time in which:</text>
+          <para>
+            <num>(1)</num>
+            <text>a proclamation has been issued by the Governor declaring a state of emergency under Title 14, Subtitle 3 of the State Public Safety Article {"Governor's Emergency Powers"};</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a proclamation has been issued by the Governor declaring a catastrophic health emergency under Title 14, Subtitle 3A of the State Public Safety Article {"Governor's Health Emergency Powers"}; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>an order or proclamation has been issued by the Mayor declaring a state of emergency under § 14-111 {"Local state of emergency"} of the State Public Safety Article.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Temporary regulations.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>During a state of emergency, an agency may suspend the provisions of this title and adopt temporary regulations if:</text>
+            <para>
+              <num>(i)</num>
+              <text>the underlying cause of the state of emergency requires its adoption; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the public interest will be materially harmed if the regulation does not take effect immediately.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Effective date.</heading>
+            <text>Any temporary regulation adopted under this section is effective on:</text>
+            <para>
+              <num>(i)</num>
+              <text>approval by the City Solicitor for form and legal sufficiency;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>approval by the Department of Legislative Reference for form and use of plain language;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>signature by the agency; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>filing with the director.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Expiration.</heading>
+            <para>
+              <num>(i)</num>
+              <text>Except as provided in subparagraph (ii) of this paragraph, any temporary regulation adopted under this section expires and no longer has legal effect on the 90<sup>th</sup> day after the state of emergency has been lifted.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>If, within the 90 days after a state of emergency has been lifted, an agency submits a temporary regulation to the City Solicitor and the Department of Legislative Reference as set forth in § 4-205 {"Submission before publication"} and <cite path="|general|§4-301">§ 4-301 {"Notice of proposed regulation"} of this title</cite> and otherwise follows the notice and publication procedures set forth in this title to adopt that regulation as permanent, the regulation does not expire as stated in subparagraph (i) of this paragraph.</text>
+            </para>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+          <annotation doc="City of Balt., Md., Ord 23-269" type="History">Ord 23-269</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>4</num>
+      <heading>Codification</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>4-401</num>
+        <heading>Effective date of regulations.</heading>
+        <text>Except as provided in <cite path="|general|§4-306">§ 4-306 {"Emergency regulations"} of this title</cite>, if the agency proposing a regulation has fulfilled the requirements set forth in § 4-205 {"Submission before publication"} and <cite path="|general|§4-301">§ 4-301 {"Notice of Proposed Regulation"} of this title</cite> regulation is effective on submission to the Director for COBRA codification, unless a later effective date is specified by law or in the adopted regulation.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 21-055" type="History">Ord. 21-055</annotation>
+          <annotation doc="City of Balt., Md., Ord. 23-269" type="History">Ord. 23-269</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-402</num>
+        <heading>Code of Baltimore Regulations Annotated.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The Code of Baltimore Regulations Annotated is established.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Contents.</heading>
+          <text>The Director shall publish a Code of Baltimore Regulations Annotated (COBRA) that includes:</text>
+          <para>
+            <num>(1)</num>
+            <text>each then-current regulation adopted by an agency;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any other document that the Director determines should be included;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>any explanatory annotation the Director deems necessary; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>an index by agency and subject matter.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Mode of publication.</heading>
+          <text>The Code shall be published on the Department of Legislative Reference's website.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-403</num>
+        <heading>Correction of errors.</heading>
+        <text>After providing notice to, and in consultation with, the City Solicitor and the relevant agency, the Director may correct non-substantive drafting, style, or typographical errors within the Code.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>4-404</num>
+        <heading>Removal of obsolete provisions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>With the approval of the City Solicitor, an agency may request that the Director remove from the Code:</text>
+          <para>
+            <num>(1)</num>
+            <text>a part of a regulation that has been held unconstitutional by a court of competent final jurisdiction; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a regulation whose specific enabling law has been repealed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Reason for removal.</heading>
+          <text>The requesting agency shall state with particularity why the regulation is obsolete and, if approved for removal by the City Solicitor, the Director shall include that reason as an annotation within the Code.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 20-431" type="History">Ord. 20-431</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>4-405</num>
+        <reason>Repealed by Ord. 22-125</reason>
+        <annotations>
+          <annotation type="Editor's Notes">For the Code-wide standard for severability of provisions, see <cite path="|general|§1-214">§ 1-214 of this Article</cite>.</annotation>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container name="5etseq.">
+    <prefix>Titles</prefix>
+    <num>5 et seq.</num>
+    <reason>Reserved</reason>
+  </container>
+</container>

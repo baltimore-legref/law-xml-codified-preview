@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-291">
+  <num type="law">24-291</num>
+  <num type="bill">23-0372</num>
+  <heading type="short">CitiStat Program – Establishment and Administration</heading>
+  <heading type="long">An Ordinance Concerning CitiStat Program – Establishment and Administration</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-04-03</introduced>
+    <effective>2024-07-15</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/405f6acd-af5e-4e94-8224-1840344fcd7b.pdf">Ord. 24-291</citation>
+    </citations>
+    <history>
+      <vote date="2023-04-03" reading="first"/>
+      <vote date="2023-10-30" reading="second"/>
+      <enacted>2024-01-17</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="|1" codified:doc="City of Baltimore, Md., Code" codified:path="1|§61-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>61</num>
+        <heading>CitiStat Program</heading>
+        <annotations>
+          <annotation type="Editor's Notes">Ordinance 24-291 (effective July 22, 2024) designated this new Subtitle to be "Subtitle 59". That number, however, was already spoken for. Hence the placement here, with a different number.</annotation>
+        </annotations>
+        <section>
+          <prefix>§</prefix>
+          <num>61-1</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>In General</em>.</text>
+            <text>In this subtitle, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Analysis.</em>
+            </text>
+            <text>"Analysis" means the act of studying or examining something in detail.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Analytics.</em>
+            </text>
+            <text>"Analytics" means the systematic computational analysis of data or statistics.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>CitiStat meeting.</em>
+            </text>
+            <text>"CitiStat meeting" means a monthly meeting between the CitiStat Program and a principal agency wherein the attending principal agency reports data and statistics that may be used to inform performance measures and policy initiatives.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <em>CitiStat process.</em>
+            </text>
+            <text>"CitiStat process" means a system of applying insight gained from data analytics and analysis to management decisions within a principal agency.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>
+              <em>Continuous improvement processes</em>
+            </text>
+            <text>"Continuous improvement processes" means an ongoing effort to better principal agency services and procedures.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><em>Director</em>.</text>
+            <text>"Director" means the Director of the Baltimore City CitiStat Program.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>
+              <em>Data-driven officer.</em>
+            </text>
+            <text>"Data-driven officer" means a person using data and analysis to drive performance in a principal agency.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><em>Data-Driven Program</em>.</text>
+            <text>"Data-Driven Program" means a comprehensive data analysis and performance management program for the City that includes:</text>
+            <para>
+              <num>(1)</num>
+              <text>performance management agreements;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the CitiStat process; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>an innovation lab.</text>
+            </para>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>
+              <em>Data science.</em>
+            </text>
+            <text>"Data science" means the study of data with the intention of extrapolating knowledge or insights.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>
+              <em>Innovation lab.</em>
+            </text>
+            <text>"Innovation lab" means a team of people focused on addressing issues identified through the CitiStat process.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>
+              <em>CitiStat meeting.</em>
+            </text>
+            <text>"CitiStat meeting" means a monthly meeting between the Program and a principal agency wherein the attending principal agency reports relevant data and statistics that may be used to inform performance measures and policy initiatives.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>
+              <em>CitiStat memorandum.</em>
+            </text>
+            <text>"CitiStat memorandum" means a memorandum detailing the key issues relevant to a CitiStat meeting that includes:</text>
+            <para>
+              <num>(1)</num>
+              <text>data;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>any follow-up responses from a previous CitiStat meeting.</text>
+            </para>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>
+              <em>Performance.</em>
+            </text>
+            <text>"Performance" means the action or process of accomplishing a principal agency action, task, or function.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>
+              <em>Performance management.</em>
+            </text>
+            <text>"Performance management" means the process of supporting or improving City agency performance through the use of tools including:</text>
+            <para>
+              <num>(1)</num>
+              <text>assessments;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>employee counseling; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>continuous feedback.</text>
+            </para>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text>
+              <em>Performance management plan.</em>
+            </text>
+            <text>"Performance management plan" means an agreement between a principal agency and the Program that establishes outcomes and performance expectations for the agency.</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <text><em>Principal agency</em>.</text>
+            <text>"Principal agency" means any of the following City executive departments:</text>
+            <para>
+              <num>(1)</num>
+              <text>Fire Department;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Department of Finance;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Department of General Services;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Health Department;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Department of Housing and Community Development;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Police Department;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Department of Public Works;</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Department of Recreation and Parks; and</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Department of Transportation.</text>
+            </para>
+          </para>
+          <para>
+            <num>(r)</num>
+            <text>
+              <em>Process evaluation.</em>
+            </text>
+            <text>"Process evaluation" means an assessment of whether principal agency program activities have been implemented as intended and whether certain results were achieved.</text>
+          </para>
+          <para>
+            <num>(s)</num>
+            <text>
+              <em>Program.</em>
+            </text>
+            <text>"Program" means the Baltimor City CitiStat Program.</text>
+          </para>
+          <para>
+            <num>(t)</num>
+            <text>
+              <em>Program management.</em>
+            </text>
+            <text>"Program management" means the oversight of a program's process and progress toward an established goal.</text>
+          </para>
+          <para>
+            <num>(u)</num>
+            <text>
+              <em>Public policy.</em>
+            </text>
+            <text>"Public policy" means a system of laws, regulatory measures, courses of action, and funding priorities related to a given topic that are promulgated by a governmental entity or its representatives.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>61-2</num>
+          <heading>Program Established.</heading>
+          <text>There is a Baltimore City CitiStat Program.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>61-3</num>
+          <heading>Office Administration.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>Director</em>.</text>
+            <text>The Program shall be supervised and directed by a Director who shall report to the City Administrator.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Qualifications</em>.</text>
+            <text>At the time of appointment, the Director shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>have at least 5 years of experience in performance management; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>have experience in 1 of the following areas:</text>
+              <para>
+                <num>(i)</num>
+                <text>data science;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>continuous improvement processes;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>process evaluations;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>program management; or</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>public policy.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><em>Staff</em>.</text>
+            <text>The Director may employ a staff, as provided for in the Ordinance of Estimates.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>61-4</num>
+          <heading>Program Powers and Duties.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The Program shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>review investigations into municipal processes and policies using data analytics, and analysis;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>use findings of analytical reviews to make recommendations related to process improvement for City services;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>in consultation with principal agencies establish and implement data-based process improvement systems for various City services;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>in consultation with principal agencies and the City Administrator draft annual  performance management plans that establish priorities, goals, and measurements to track and evaluate performance;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>along with the Bureau of Budget and Management Research, establish measurements that can be considered within agency budget performance measures;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>in consultation with the Chief Information Officer of Baltimore City Information Technology and relevant principal agencies  assist in publishing accurate data on the City's Open Data Portal as allowed by applicable laws;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>have the authority to request all relevant data; and</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>establish new CitiStat meetings</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Reporting.</em>
+            </text>
+            <text>On or before January 31 of each year, the Program shall issue a report to the Mayor and City Council on:</text>
+            <para>
+              <num>(1)</num>
+              <text>the performance of each principal agency that participated in the CitiStat process over the previous year; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>identified areas for improvement and recommendations for each principal agency in the coming calendar year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Meetings.</em>
+            </text>
+            <text>The Program shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>develop an annual schedule to hold a CitiStat meeting at least once per month with each principal agency;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>produce an agency memorandum 48 hours prior to a principal agency CitiStat meeting that contains all relevant data and other information for that meeting; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>produce a CitiStat memorandum within 2 days after a meeting that includes:</text>
+              <para>
+                <num>(i)</num>
+                <text>all requests and commitments made by the agency; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>any additional data or materials required by the next CitiStat meeting.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>61-5</num>
+          <heading>Principal Agency Duties.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>Each principal agency shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>establish an internal CitiStat process to improve principal agency performance;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>monitor progress on the agency's annual performance management plan;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>develop plans to address gaps in municipal service delivery outcomes; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>report to the Program any relevant data requested by the Office.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Data Driven Officer.</em>
+            </text>
+            <text>Each principal agency shall identify a data-driven officer who shall report directly to the head of the agency and be responsible for managing that agency's CitiStat process.</text>
+          </para>
+        </section>
+      </container>
+    </codify:insert>
+  </section>
+</document>

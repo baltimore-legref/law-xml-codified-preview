@@ -1,0 +1,2697 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Article</prefix>
+  <num>12</num>
+  <heading>Municipal Labor Relations</heading>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>1</num>
+    <heading>Definitions; General Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>1-1</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>As used in <cite path="|12">this article</cite>:</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Appropriate unit.</heading>
+        <text>"Appropriate unit" means a group of employees recognized as appropriate for representation by an employee organization.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Budget submission date.</heading>
+        <text>"Budget submission date" means the date by which, under the law, the proposed budget of the employer is submitted to the City Council by the Board of Estimates for final action.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Employee.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Employee" means any person holding a position in the service of the Mayor and City Council of Baltimore, required by <cite doc="City of Baltimore, Md., Charter" path="VII|§99">Article VII, § 99 of the City Charter</cite> to be classified.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Employee" shall not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>those employees in the Baltimore City Public School System who are included within the definition of "public school employee" contained in § 6-401(c)(1) of the State Education Article;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>employees of the Police Department;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>part-time (other than regular part-time), seasonal, probationary, provisional, or temporary employees;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>employees engaged in personnel work in other than a clerical capacity;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>employees occupying positions which involve a relation of personal confidence between the one appointing and the one appointed; or</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>those classified employees whose salaries are established by any agency other than the Mayor and City Council.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In case of doubt, the Labor Commissioner shall determine who is an employee within the meaning of <cite path="|12">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Employee organization.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Employee organization" means any organization which admits municipal employees to membership, the primary purpose of which is to represent employees concerning terms and conditions of employment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Employee organization" shall not include any organization which discriminates because of race, color, creed, or national origin, with regard to the acquisition or retention of membership, or in accepting or advancing members in any training, apprenticeship, or employment program.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No "employee organization" shall be certified as the representative of employees in a unit of professional and/or supervisory employees if such organization admits to membership or is affiliated in any way with an organization which admits to membership rank and file employees; however, the provisions of this sentence shall not apply to employee organizations representing fire officers and registered nurses.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Employer.</heading>
+        <text>"Employer" means the Board of Estimates or any agency of the Mayor and City Council of Baltimore other than the City Council.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Grievance.</heading>
+        <text>"Grievance" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>a dispute concerning the application or interpretation of the terms of a memorandum of understanding, or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a claimed violation, misinterpretation, or misapplication of the rules or regulations of a municipal agency or the employer affecting the terms and conditions of employment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Professional employee.</heading>
+        <text>"Professional employee" means any employee engaged in work:</text>
+        <para>
+          <num>(1)</num>
+          <text>which is predominantly intellectual and varied in character as opposed to routine mental, manual, mechanical, or physical work;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>which involves the consistent exercise of discretion and judgment in its performance, of such a character that the output produced or the result accomplished cannot be standardized in relation to a given time period; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>which requires knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction and study in an institution of higher learning or a hospital, as distinguished from a general academic education or from an apprenticeship or from training in the performance of routine mental, manual, or physical processes.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Secondary boycott.</heading>
+        <text>"Secondary boycott" means any activity by an employee organization which is intended to induce, encourage, or coerce persons doing business with the employer to withhold, withdraw, or in any respect curtail their business relations with said employer.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>Strike.</heading>
+        <text>"Strike" means, by concerted action, the failure to report for duty, the willful absence from one's position, the stoppage or slow down of work, or the abstinence in whole or in part from the full, faithful, and proper performance of the duties of employment for the purpose of inducing, influencing, coercing, or preventing a change in compensation or rights, privileges, obligations, or other terms and conditions of employment.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>Supervisory employees.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Supervisory employees" means those employees having the authority to exercise independent judgment in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or having the responsibility to direct them or adjust their grievances, or effectively to recommend such action, if in connection with the foregoing the exercise of such authority is not of a routine or clerical nature but requires the use of independent judgment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Notwithstanding anything herein contained, any employee who receives cash payments for overtime pursuant to the rules of the Board of Estimates shall not be deemed to be a supervisory employee, unless said employee is a department head, bureau head, or division head.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provided, further, that the provisions of subsection (d) hereof excluding from coverage under <cite path="|12">this article</cite> employees occupying positions which involve a relation of personal confidence between the one appointing and the one appointed shall not be applicable to supervisory employees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>Terms and conditions of employment.</heading>
+        <text>"Terms and conditions of employment" means salaries, wages, hours, and other matters relating to employee benefits and duties, such as, but not limited to, holidays, pensions, and vacations.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §120</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-318" type="History">Ord. 68-318</annotation>
+        <annotation doc="City of Balt., Md., Ord. 70-670" type="History">Ord. 70-670</annotation>
+        <annotation doc="City of Balt., Md., Ord. 72-232" type="History">Ord. 72-232</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-022" type="History">Ord. 76-022</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-672" type="History">Ord. 04-672</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-2</num>
+      <heading>Findings and policy.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Preventing and resolving controversies.</heading>
+        <text>The City Council finds that unresolved disputes involving employees in the municipal service are injurious to the public, the municipality, and municipal employees.  Therefore, adequate means should be provided for preventing controversies between the municipality and its employees and for resolving them when they occur.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Fair treatment of employees.</heading>
+        <text>Because the paramount interest of the public and the nature of municipal governmental processes make it necessary to impose special limitations upon public employment, it is incumbent upon the municipality to provide orderly procedures for the participation by municipal employees and their representatives in the formulation of personnel policies and plans, to insure the fair and considerate treatment of municipal employees, to eliminate employment inequities, and to provide effective means of resolving questions and controversies with respect to terms and conditions of employment, at the same time insuring that the public health, welfare, and safety will be at all times maintained.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Cooperative efforts.</heading>
+        <para>
+          <num>(1)</num>
+          <text>To that end, it is necessary in the public interest that the municipal officials, municipal employees, and their representatives, shall enter into negotiations with affirmative willingness to resolve grievances and differences.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Municipal agencies and employees and their representatives shall have a mutual obligation to endeavor in good faith to resolve grievances and differences relating to terms and conditions of employment with due regard for and subject to the provisions of applicable laws relating to personnel policies, including hiring, promotion, suspension, discharge, position classification, and fixing of compensation and any and all other laws, ordinances, and Charter provisions governing public employment and fiscal practices in the City of Baltimore.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §119</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-3</num>
+      <heading>Special employees.</heading>
+      <text>Anything to the contrary in <cite path="|12">this article</cite> notwithstanding, if the governing body of</text>
+      <para>
+        <num>(1)</num>
+        <text>the Enoch Pratt Free Library of Baltimore City, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the Baltimore Museum of Art, Inc., or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the Municipal <em>{Peale}</em> Museum of the City of Baltimore, Inc., or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>the Baltimore City Public School System, or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>the Board of Trustees of the Community College of Baltimore,</text>
+        <text>determines by appropriate resolution to have the definition of employees contained in § 1-1(d) extended so as to include any of its employees not within said definition, then said employees of each such corporation shall be considered for the purpose of <cite path="|12">this article</cite>, employees of the Mayor and City Council and subject to all of the provisions hereof.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §135</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+        <annotation doc="City of Balt., Md., Ord. 69-475" type="History">Ord. 69-475</annotation>
+        <annotation doc="City of Balt., Md., Ord. 70-904" type="History">Ord. 70-904</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>2</num>
+    <heading>Office of Labor Commissioner</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>2-1</num>
+      <heading>Office created.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>There is hereby created and established the Office of Labor Commissioner of Baltimore City, the head of which shall be the Labor Commissioner, who shall be appointed by the Mayor in the manner prescribed by <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the Baltimore City Charter</cite> and hold office as therein provided.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Initial Commissioner.</heading>
+        <text>Provided that, in the first instance, the term of the person holding the position of Labor Commissioner at the time of the enactment of <cite path="|12">this article</cite> shall run concurrently with the term of the Mayor.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §121(1st par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-2</num>
+      <heading>Duties.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Administration of law; rules and regulations.</heading>
+        <text>The Labor Commissioner:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall be charged with the administration of the Municipal Labor Relations Ordinance; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, is hereby authorized and empowered to make any rules and regulations as may be necessary or proper to put into operation and effect the provisions of <cite path="|12">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Advisor.</heading>
+        <text>In addition, he shall act:</text>
+        <para>
+          <num>(1)</num>
+          <text>as a permanent member of the employer's negotiating team; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>as advisor to the Mayor and the Board of Estimates on labor relations matters which directly affect the City of Baltimore.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Recommendations on law, etc.</heading>
+        <text>The Labor Commissioner shall study and make recommendations with respect to the establishment, revision, or correction of policies and procedures governing the relations between the City of Baltimore and its employees, including the activities of the Civil Service Commission, the Department of Human Resources, and the Board of Estimates, and further make recommendations with respect to the introduction of ordinances to effectuate these policies.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §121(2nd, 3rd pars.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-822" type="History">Ord. 04-822</annotation>
+        <annotation type="History">Text Conformed 02/18/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (a)(2)  to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-3</num>
+      <heading>Staff; expenses.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Staff.</heading>
+        <text>The Labor Commissioner shall employ such other employees as shall be required to effectively administer the provisions of the within article subject to the provisions of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite> relating to Civil Service.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Expenses.</heading>
+        <text>Compensation of all persons in the Office of the Labor Commissioner and all other necessary expenses of the Commissioner shall be paid at such rates and in such amounts as the Board of Estimates shall approve and in accordance with the appropriation in the Ordinance of Estimates of Baltimore.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §121(4th par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>3</num>
+    <heading>Reserved Rights</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>3-1</num>
+      <heading>Employee rights.</heading>
+      <text>Employees shall have, and shall be protected in the exercise of, the right of self-organization, to form, join, assist, or participate in any employee organization, or to refrain from forming, joining, assisting, or participating in any employee organization, freely and without fear of penalty or reprisal, to negotiate collectively through representatives of their own choosing on terms and conditions of employment subject to the limitations herein stated and the administration of grievances arising thereunder, subject to the applicable provisions of any law, ordinance, or charter provisions relating thereto.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §122</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-2</num>
+      <heading>Employer rights.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Notwithstanding any other provision contained herein, it is the exclusive right of the employer to:</text>
+          <para>
+            <num>(i)</num>
+            <text>determine the mission of each of its constituent agencies;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>set standards of services to be offered to the public; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>exercise control and direction over its organization and operations.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It is also the right of the employer:</text>
+          <para>
+            <num>(i)</num>
+            <text>to direct its employees;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>to hire, promote, transfer, assign, or retain employees in positions within an agency; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>in that regard, to establish reasonable work rules.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>It also retains the right to:</text>
+          <para>
+            <num>(i)</num>
+            <text>suspend, demote, discharge, or take any other appropriate disciplinary action against its employees for just cause and in accordance with the provisions relating to Civil Service of employer's Charter and other applicable laws; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>to relieve its employees from duty in the event of lack of work, funds, or for other legitimate reasons.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Memorandums of Understanding — section deemed part of contract.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The provisions of this section shall be deemed to be a part of every memorandum of understanding reached between the employer and an employee organization.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provided, however, that nothing contained in this section shall be deemed to deny the right of any employee to submit a grievance as defined in § 1-1(g)(2) hereof.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Memorandums of Understanding — subject to Charter and laws.</heading>
+        <text>Any memorandum of understanding reached between the employer and employee organization shall be subject to the provisions of the Charter or applicable ordinance concerning salaries, hours of work, fringe benefits, pensions, and other conditions of employment.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §123</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>4</num>
+    <heading>Certification and Recognition of Employee Organizations</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>4-1</num>
+      <heading>In general.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Employer may recognize.</heading>
+        <text>The employer is hereby empowered to recognize any employee organization certified as hereinafter provided as the exclusive representative of the employees in an appropriate unit.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Duty to negotiate.</heading>
+        <text>The employer and such employee organization shall have the mutual duty to negotiate collectively, as hereinafter provided.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Exclusive right of representation.</heading>
+        <para>
+          <num>(1)</num>
+          <text>When an employee organization has been so certified, it shall have the exclusive right to represent all employees in the unit for the purpose of collective negotiation, as described herein, and the handling of employee grievances.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provided said employee organization shall be responsible for fairly representing the interests of all such employees without discrimination and without regard to employee organization membership.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Employee may grieve individually.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Provided, however, that any individual employee may present a grievance to his employer and have the grievance adjusted, without intervention of his certified employee organization, provided the adjustment shall not be inconsistent with the terms of any memorandum of understanding between the employer and the certified employee organization representing such employee then in effect.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any certified employee organization representing such employee:</text>
+          <para>
+            <num>(i)</num>
+            <text>shall be given prompt notice of the filing of the grievance;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>shall have the privilege of attending any hearings; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>shall be notified of the adjustment thereon.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §124</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-2</num>
+      <heading>Determining questions of representation.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Commissioner to process petition and negotiate.</heading>
+        <text>Whenever, in accordance with the provisions of <cite path="|12">this article</cite> and with such rules and regulations as may be promulgated by the Labor Commissioner, a petition or petitions have been filed with the Labor Commissioner claiming that a question concerning representation exists:</text>
+        <para>
+          <num>(1)</num>
+          <text>by or on behalf of an employee organization alleging:</text>
+          <para>
+            <num>(i)</num>
+            <text>that a substantial number of employees wish said employee organization to be their exclusive representative for collective negotiation, or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>that the employee organization currently certified no longer represents the majority of employees in the unit; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>by the employer alleging that one or more employee organizations have presented to it a claim to be recognized as the representative of a majority of employees in a specified unit,</text>
+          <text>the Labor Commissioner shall process said petition and negotiate on behalf of the employer, with the employee organization and any party or parties permitted to intervene in the proceedings, for the purpose of endeavoring to reach an agreement concerning the question of representation within 5 days.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Governing standards.</heading>
+        <text>In considering the question of representation, the Labor Commissioner shall define the appropriate unit pursuant to the following standards:</text>
+        <para>
+          <num>(1)</num>
+          <text>A unit which consists of a majority of employees in a civil service job classification or group of related civil service job classifications shall be deemed prima facie an appropriate unit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This shall not limit the power of the Labor Commissioner to determine that a unit other than one based on job classification is appropriate so long as:</text>
+          <para>
+            <num>(i)</num>
+            <text>the description of the unit corresponds to a community of interest among the employees in the proposed unit, involving such criteria as similarity of job duties, skills, wages, educational requirements, supervision, hours of work, job location, and working conditions; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the unit is compatible with the joint responsibilities of the employer and employees to serve the public.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No unit shall be deemed appropriate if it includes both professional and other employees unless a majority of such professional employees vote for inclusion in such unit, nor shall any unit be deemed appropriate if it includes both supervisory and non-supervisory personnel.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Impartial panel to decide unresolved questions.</heading>
+        <para>
+          <num>(1)</num>
+          <text>In the event said Labor Commissioner, employee organization, employer, intervenor, or intervenors fail to reach an agreement on any aspect of the question concerning representation, the Labor Commissioner shall refer the dispute for final determination to a board of 3 impartial persons selected from a panel obtained from an independent third party agency, agreeable to all parties, and such board, in reaching its determination, shall be bound by the provisions of <cite path="|12">this article</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The costs of such determination shall be divided among all parties thereto.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In the event the parties are unable to agree on an independent third party agency, the board shall be selected from a panel obtained from the Federal Mediation and Conciliation Service of the U.S. Department of Labor.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §125</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-3</num>
+      <heading>Election of exclusive representative.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>If a question concerning representation is found to exist, the Labor Commissioner shall direct an election upon the following bases.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>No intervenors with 10% or greater representation.</heading>
+        <text>Where an employee organization certifies to the employer that it has a membership enrollment, as evidenced by dues authorization cards, of at least 30% of the total number of employees in an appropriate unit, and if no other intervenor employee organization or organizations certifies that it has a membership enrollment of at least 10% of the total number of employees in said unit, then, in such event, a secret ballot election shall be held in which the employees in such unit shall be offered a choice between exclusive representation by such organization or of no exclusive representation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>2 or more intervenors with 10% or greater representation.</heading>
+        <text>In the event that an employee organization certifies to the employer that it has a membership enrollment of, or authorizations to represent at least 30% of the total number of employees in an appropriate unit and if any intervenor employee organization or organizations certifies that it has a membership enrollment of at least 10% of the total number of employees in such unit, then in such event, a secret ballot election shall be held wherein the ballot shall offer a choice among each of said employee organizations or of no exclusive representation.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Majority vote prevails.</heading>
+        <para>
+          <num>(1)</num>
+          <text>In all elections held hereunder the employee organization receiving the majority of votes cast by the eligible employees in a unit shall be declared to be the exclusive representative of all employees in such unit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provided, however, that if the majority of votes in said election is cast for no exclusive representative, then there shall be no representative designated for such unit.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provided further, that where none of the choices on the ballot receives a majority, a run-off election shall be conducted, the ballot providing for a selection between the 2 choices receiving the largest and second largest number of valid votes cast in the election.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>1 election only per 2-year period.</heading>
+        <text>No election shall be conducted in any unit in which an election has been conducted within the preceding 2 years.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Impartial agency assistance.</heading>
+        <text>The services of the State Department of Labor and Industry or any other impartial agency selected by the parties to the election shall be utilized for the purpose of conducting elections hereunder including any disputes which may arise in respect thereto.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Certification of results.</heading>
+        <text>The Labor Commissioner shall announce publicly the results of any election and shall certify said results.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §126</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>5</num>
+    <heading>Labor Negotiations</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>5-1</num>
+      <heading>"Negotiation" defined.</heading>
+      <text>The term "negotiation", as used herein, shall include the duty to:</text>
+      <para>
+        <num>(1)</num>
+        <text>confer in good faith at reasonable times, including meetings appropriately related to the budget-making process; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>reduce to a memorandum of understanding the matters agreed upon as the result of such negotiations in the event that all of the issues have been resolved.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §127(2nd par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-2</num>
+      <heading>Duty to negotiate.</heading>
+      <text>On certification of an employee organization as the exclusive representative of employees, the employer and the employee organization have the duty, through appropriate officials or their representatives, to negotiate collectively with respect to the terms and conditions of employment of the employees in the unit.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §127(1st par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-672" type="History">Ord. 04-672</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-3</num>
+      <heading>Negotiators.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Negotiations between the employer and the employee organization shall be conducted:</text>
+        <para>
+          <num>(1)</num>
+          <text>on behalf of the employer, by a committee to be named by the Mayor, which committee shall include the Labor Commissioner; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>on behalf of the employee organization designated as the exclusive negotiating agent for the employees in the unit, by 2 or more representatives of such employee organization.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Chair.</heading>
+        <text>The chairman of the employer's negotiating team shall be named by the Mayor.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §127(3rd par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-4</num>
+      <heading>Scope limitations.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>In the event that the appropriate unit determined hereunder consists of other than a unit of all City employees or less than a Citywide unit of all employees in a particular job classification or groups of related job classifications, the scope of negotiations between the employer and employee organization shall be limited as hereinafter provided.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Wage scales that must be uniform.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Negotiations for salaries and wage scales which must be uniform and apply equally to City employees in like classifications pursuant to <cite doc="City of Baltimore, Md., Charter" path="VI|§12">Article VI, § 12 of the City Charter</cite> shall be negotiated jointly with all certified employee organizations representing employees within the said classifications, provided that said certified employee organizations which participate in said negotiations jointly represent more than 30% of the employees in such classification or classifications.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the certified employee organizations electing to participate in such negotiations jointly represent less than 30% of said employees, salaries and wage scales shall be excluded from the scope of negotiations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Working conditions that must be alike.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Provided, further, that negotiations for working conditions which must be alike for the employees in the several municipal agencies pursuant to <cite doc="City of Baltimore, Md., Charter" path="VI|§12">Article VI, § 12 of the City Charter</cite> shall be negotiated jointly with all certified employee organizations representing employees within the several municipal agencies, provided that said certified employee organizations which participate in said negotiations jointly represent more than 30% of the employees in the several municipal agencies.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the certified employee organizations electing to participate in such negotiations jointly represent less than 30% of said employees, working conditions shall be excluded from the scope of negotiations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Organizations may choose not to participate.</heading>
+        <text>This provision shall not be construed to require any certified employee organization to participate in negotiations if it does not choose to do so, but such refusing certified employee organization shall be barred during the current negotiating period from participating in such joint negotiations.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §127( 4th - 7th pars.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-5</num>
+      <heading>Impasse.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Attempt to mediate.</heading>
+        <text>If after a reasonable period of negotiation over the terms of an agreement, a dispute exists between the employer and the certified employee organization or organizations with whom it is negotiating, or if no understanding has been reached within a reasonable period of time, but not later than March 1, prior to the final date for setting the municipal budget, it shall be deemed that an impasse has been reached, at which time the Mayor shall request that an Impasse Panel be selected pursuant to § 5-6 hereof and that the Chairman of the Impasse Panel enter the negotiations for the purpose of mediating the impasse.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Referral for fact-finding and recommendation.</heading>
+        <text>If the said Chairman is unable to mediate the impasse, the matter shall be referred to the entire Impasse Panel for fact-finding and recommendation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Exception.</heading>
+        <text>No impasse shall be deemed to have occurred where the employee organization or organizations which represent the greater number of employees covered by the negotiations have accepted the employer's proposal.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §127(8th, 9th pars.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-6</num>
+      <heading>Selection of Impasse Panel.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Should an impasse be reached in negotiations between the employer and certified employee organization concerning terms and conditions of employment (as provided in § 5-5 hereof), an Impasse Panel consisting of 3 persons shall be selected as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>The employer and the employee organization shall each select 1 member within 3 days after the request for the convening of the panel.  Should there be more than 1 employee organization involved in the dispute, all said employee organizations together shall be limited to selecting 1 member.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The 2 members so selected shall select a third member within 3 days of their selection.  If the 2 members are unable to agree on the third member, they shall make their selection from a panel maintained by an independent third party agency agreeable to all parties.  If the parties are unable to agree on the independent third party agency, the third member shall be selected from a panel maintained by the Federal Mediation and Conciliation Service of the United States Department of Labor.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Chairman of the panel shall be the member selected pursuant to (2) above.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Compensation of members; assessment of costs.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Labor Commissioner shall provide in his rules and regulations for standard rates of compensation for the members of the panel for their services, subject to approval by the Board of Estimates.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The cost of Impasse Panel procedures shall be divided equally between the parties.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §128(a), (b)(3rd par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-7</num>
+      <heading>Panel findings and recommendations.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>"Fact finding" defined.</heading>
+        <text>"Fact finding", as used herein, shall include the identification of the major issues in the dispute, review of the positions of the parties, and the resolution of factual differences.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Panel to make findings, etc.</heading>
+        <text>Where an impasse has been reached in negotiations, the Impasse Panel shall meet with the parties and shall make written findings of fact and recommendations for the solution of the dispute.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Factors to be considered.</heading>
+        <text>The panel, in making its findings and recommendations shall take into consideration, among other pertinent factors:</text>
+        <para>
+          <num>(1)</num>
+          <text>wages and fringe benefits paid other City employees;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>wages and fringe benefits paid for like work by private employers in the City of Baltimore;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the value of other benefits available to or received by City employees as compared with private employees in the City of Baltimore;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>cost of living data; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the availability of funds.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Dissemination of findings, etc.</heading>
+        <text>Copies of such findings and recommendations shall be sent to the employer and the employee organization or organizations.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Mediation not precluded.</heading>
+        <text>Nothing herein contained shall be construed as prohibiting the Impasse Panel from mediating the dispute at any time after it is referred to it prior to the issuance of its recommendations.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §128(b)(1st, 2nd pars.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-8</num>
+      <heading>Time table.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Negotiation period; effective date.</heading>
+        <text>Regardless of the date upon which certification is issued to any employee organization, negotiations shall be held only between January 1 and March 1 of the following year and all memoranda of understanding reached as a result of such negotiations shall become effective on July 1 following such negotiations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Submission to Board of Estimates.</heading>
+        <text>Any recommendations contained in the memorandum of understanding reached between the employer and employee organization as the result of negotiations shall be brought to the Board of Estimates for its approval by April 1 in order that the Board of Estimates shall have adequate time to consider the recommendations contained therein in connection with the proposed Ordinance of Estimates for the ensuing fiscal year.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §136</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>6</num>
+    <heading>Dues; Service Fees</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>6-1</num>
+      <heading>Dues check-off.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Authorized.</heading>
+        <text>Any employee organization certified as the exclusive representative of employees in a designated unit, upon the presentation of dues deduction authorization cards duly executed by individual employees in said unit, shall be entitled to have such employees' membership dues deducted from their paychecks and remitted to the designated employee organization.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Term.</heading>
+        <text>Such authorization shall be irrevocable for the period of 1 year, and automatically renewable from year to year thereafter, unless written notice of termination by the employee is given to the employer at least 30 days prior to the anniversary date.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Limitation.</heading>
+        <text>An employee organization shall be entitled to such dues deductions:</text>
+        <para>
+          <num>(1)</num>
+          <text>only in those units where said employee organization has been certified as the exclusive representative; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>only during the period that said employee organization continues to be so certified as the exclusive representative.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §129</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+        <annotation doc="City of Balt., Md., Ord. 69-587" type="History">Ord. 69-587</annotation>
+        <annotation doc="City of Balt., Md., Ord. 73-503" type="History">Ord. 73-503</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-993" type="History">Ord. 75-993</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-022" type="History">Ord. 76-022</annotation>
+        <annotation doc="City of Balt., Md., Ord. 96-067" type="History">Ord. 96-067</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-2</num>
+      <heading>Service fees.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Contract may authorize.</heading>
+        <text>A memorandum of understanding executed between the Mayor and City Council of Baltimore and any employee organization certified as the exclusive representative of employees in a designated unit may contain a provision whereby all employees who elect not to join, or remain members of, the employee organization certified in their respective bargaining unit, unless otherwise indicated in the Fiscal Year 1996 Memorandum of Understanding applicable to their bargaining unit, shall be required, as a condition of employment, to pay a service fee to the certified employee organization during the period that said employee organization retains its certification, in an amount not to exceed the then current employee organization dues in order to defray the costs incurred by the said certified employee organization in the negotiation, administration, and implementation of the terms of the memorandum of understanding, and all modifications and amendments thereto, including related proceedings before an Impasse Panel or arbitrators; in the processing of grievances; in the conduct of disciplinary proceedings and in the appeal thereof; in the protection and improvement of civil service rights; and in any and all other proceedings and matters for which the employee organization is the employees' exclusive representative as a result of its certification.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Payroll deduction.</heading>
+        <text>The service fees authorized by this section shall be deducted from employees' pay without their written authorization.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §130</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-993" type="History">Ord. 75-993</annotation>
+        <annotation doc="City of Balt., Md., Ord. 96-067" type="History">Ord. 96-067</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>7</num>
+    <heading>Unfair Labor Practices</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>7-1</num>
+      <heading>In general.</heading>
+      <text>The following shall be deemed unfair labor practices which are prohibited.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §131(intro)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>7-2</num>
+      <heading>Prohibited conduct by employer.</heading>
+      <text>The employer is prohibited from:</text>
+      <para>
+        <num>(1)</num>
+        <text>Interfering with, restraining or coercing employees in the exercise of their rights of self-organization or non-organization.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Encouraging or discouraging membership in an employee organization by discrimination in regard to hire, tenure, promotion, or other conditions of employment; provided, that nothing in this law shall preclude the employer from including in a memorandum of understanding with an employee organization certified as the exclusive representative of employees pursuant to § 4-3 hereof, a provision whereby all employees who elect not to join, or remain members of, the employee organization certified in their respective bargaining unit, unless otherwise indicated in the Fiscal Year 1996 Memorandum of Understanding applicable to their bargaining unit, shall be required, as a condition of employment, to pay a service fee to the certified employee organization and to have such fee automatically deducted by the employer from their paychecks as provided in § 6-2 hereof.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Controlling or dominating an employee organization or contributing financial or other support to it.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Refusing to negotiate in good faith with a certified employee organization.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §131(2nd par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-993" type="History">Ord. 75-993</annotation>
+        <annotation doc="City of Balt., Md., Ord. 96-067" type="History">Ord. 96-067</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>7-3</num>
+      <heading>Prohibited conduct by employee organization.</heading>
+      <text>Employee organizations are prohibited from:</text>
+      <para>
+        <num>(1)</num>
+        <text>Interfering with, restraining, or coercing employees in the exercise of their rights of self-organization or non-organization.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Inducing the employer or its representatives to commit any unfair labor practice.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Refusing to negotiate in good faith with the employer.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §131(3rd par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>7-4</num>
+      <heading>Referring complaints to third-party agency.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Complainant may refer.</heading>
+        <text>In the event that a claim is made that an unfair labor practice has been committed by either the employer or employee organization, the complaining party shall file with an independent third party agency designated by the Labor Commissioner a verified complaint setting forth a detailed statement of the alleged unfair labor practice.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Response.</heading>
+        <text>The party complained of shall have the right to file an answer to the complaint within 5 days after service thereof.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Agency's options.</heading>
+        <text>After investigation, such agency may:</text>
+        <para>
+          <num>(1)</num>
+          <text>issue an order dismissing the complaint; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>order a further investigation or a hearing thereon at a designated time and place.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §131(4th par.)(1st - 3rd sens.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>7-5</num>
+      <heading>Conduct of hearing.</heading>
+      <text>Any such hearing shall be conducted without regard for the strict rules of evidence and a transcript of testimony shall be taken.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §131(4th par.)(4th sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>7-6</num>
+      <heading>Decision.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Prohibited practice found to have occurred.</heading>
+        <text>If, upon all the testimony, the agency determines that an unfair labor practice has been committed, it shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>state its findings of fact;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>issue and cause to be served upon the party committing the unfair labor practice an order requiring it or him to cease and desist from such practice within a specified period; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>take such further affirmative action as will comply with the provisions of <cite path="|12">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>No prohibited practice found to have occurred.</heading>
+        <text>If, upon all the testimony, the agency determines that a prohibited practice has not been or is not being committed, it shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>state its finding of fact; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>issue an order dismissing the complaint.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §131(5th par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>8</num>
+    <heading>Negotiated Grievance Procedures</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>8-1</num>
+      <heading>Authorized.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Understandings reached between an employee organization which is the exclusive representative of employees in an appropriate unit and the employer may contain provisions concerning procedures for consideration and resolution of grievances by binding arbitration.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Limitation.</heading>
+        <text>Provided, however, that if binding arbitration of a particular grievance would be contrary to any of the provisions of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>, the decision of any arbitrator shall not be final and binding on the parties but shall be advisory only.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §132(1st sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+        <annotation doc="City of Balt., Md., Ord. 72-241" type="History">Ord. 72-241</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-2</num>
+      <heading>Alternative procedures.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Such procedures shall be in addition to any grievance procedure already established by the Board of Estimates.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Employee option.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The employee shall have the right to choose which method of grievance procedure he prefers.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Once an employee has elected to pursue a specific grievance procedure, he is bound by his election and he may not subsequently choose to follow a different procedure.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §132(2nd, 3rd sens.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+        <annotation doc="City of Balt., Md., Ord. 72-241" type="History">Ord. 72-241</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>9</num>
+    <heading>Union Activities</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>9-1</num>
+      <heading>When activities permitted.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Internal business.</heading>
+        <text>Solicitation of members, dues, and other internal employee organization business shall be conducted only during the non-duty hours of the employees concerned.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Meetings, etc., between management and union representatives.</heading>
+        <text>Employer-requested or -approved consultations and meetings between management officials and representatives of recognized employee organizations shall, whenever practicable, be conducted on official time, but negotiations with an employee organization which has been accorded exclusive recognition shall be conducted during the non-duty hours of the employee organization representatives involved in such negotiations, if they are employees within the unit.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §133</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-2</num>
+      <heading>Strikes, secondary boycotts, and picketing prohibited.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Strikes or secondary boycotts.</heading>
+        <text>Employee organizations shall not engage in, initiate, sponsor, support, or direct a strike or secondary boycott.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Picketing.</heading>
+        <text>Employee organizations shall be prohibited from engaging in, initiating, sponsoring, supporting, directly or indirectly, picketing of the employer or any of its property in furtherance of a strike.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Penalties.</heading>
+        <text>If any employee organization shall violate any of the provisions hereof:</text>
+        <para>
+          <num>(1)</num>
+          <text>its designation as exclusive representative, if any, may be revoked by the employer;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>it may be ineligible to participate in elections or be certified as exclusive representative for a period of 2 years thereafter; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the employer may refrain from making payroll deductions for such organization's dues for a period of 2 years thereafter.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §134</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
+        <annotation doc="City of Balt., Md., Ord. 74-770" type="History">Ord. 74-770</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>10</num>
+    <heading>Professional and Supervisory Units</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>10-1</num>
+      <heading>Limitation for professional and supervisory units.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Notwithstanding the rights granted employee organizations pursuant to Subtitles 5, 7, and 8 of <cite path="|12">this article</cite>, an employee organization certified as representative of employees in a unit consisting of professional and/or supervisory employees is limited in its rights hereunder only to meet and confer concerning wages, hours, and working conditions and reduce the results of such negotiations to a memorandum of understanding.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Exceptions.</heading>
+        <text>The provisions of this section shall not apply to employee organizations representing fire officers and registered nurses.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §137</annotation>
+        <annotation doc="City of Balt., Md., Ord. 72-231" type="History">Ord. 72-231</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>11</num>
+    <heading>City Employees and Retirees Health Benefits Program</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>11-1</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>In this subtitle, the following words have the meanings indicated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Director.</em>
+        </text>
+        <text>"Director" means the Director of the Department of Finance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Exclusive employee organization.</em>
+        </text>
+        <text>"Exclusive employee organization" means an employee organization designated as an exclusive representative, as described under <cite path="12|4">subtitle 4</cite> of the <cite path="12">Municipal Labor Relations Article</cite> {"Certification and Recognition of Employee Organizations"}.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Fund.</em>
+        </text>
+        <text>"Fund" means the Premium Stabilization Fund created under this subtitle.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <em>Generally Accepted Accounting Principles.</em>
+        </text>
+        <text>"Generally Accepted Accounting Principles" or "GAAP" means the accounting principles, standards, and procedures of the Financial Accounting Standards Board.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>
+          <em>Government Standards Accounting Board.</em>
+        </text>
+        <text>"Government Accounting Standards Board" or "GASB" means the organization that promulgates accounting and financial reporting standards for U.S. state and local governments that follow GAAP.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>
+          <em>Health benefit option.</em>
+        </text>
+        <text>"Health benefit option" means the type and components of a health benefit plan offered to:</text>
+        <para>
+          <num>(1)</num>
+          <text>an employee;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a retiree;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>an employee or retiree's spouse; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>an employee or retiree's dependent.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>
+          <em>Health benefit option – Inclusions</em>
+        </text>
+        <text>"Health benefit option" includes:</text>
+        <para>
+          <num>(1)</num>
+          <text>the structure of a health plan, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>a health maintenance organization;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a participating provider organization;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a point-of-service plan;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>a fee-for-service plan; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>a consumer-directed plan;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>covered benefits, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>medical benefits;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>dental benefits;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>prescription drug benefits; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>vision benefits;</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the manner in which benefits are covered, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>group health plans; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>health insurance exchanges;</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>cost-sharing plan features, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>deductibles;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>co-pays;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>coinsurance; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>out-of-pocket maximums; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>cost-controlling plan features, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>prior approval requirements;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>prescription formularies; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>management of investigative or trial treatments and services.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>
+          <em>Health benefit plan.</em>
+        </text>
+        <text>"Health benefit plan" means the health benefits and other options available to a participant under an insured plan or a self-insured plan offered by Baltimore City under the Program.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>
+          <em>Health Insurance Committee: HIC.</em>
+        </text>
+        <text>"Health Insurance Committee" or "HIC" means the labor management committee established by action of the City Board of Estimates on November 7, 2012.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>
+          <em>Participant.</em>
+        </text>
+        <text>"Participant" means any individual who is or may be eligible to receive benefits under the Program, including a:</text>
+        <para>
+          <num>(1)</num>
+          <text>City employee;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>retired City employee;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>spouse of a City employee or retired City employee; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>dependent of a City employee or retired City employee.</text>
+        </para>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>
+          <em>Plan year.</em>
+        </text>
+        <text>"Plan year" means the calendar or fiscal year of each benefit plan offered  under the Program.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>
+          <em>Program.</em>
+        </text>
+        <text>"Program" means the City Employee and Retiree Health Benefits Program.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>
+          <em>Retiree: retired City employee.</em>
+        </text>
+        <text>"Retiree" or "retired City employee" means a former City employee who receives or is entitled to receive a defined benefit pension under City Code <cite path="|22">Article 22 {"Retirement Systems"}</cite>.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>
+          <em>Retiree health plan.</em>
+        </text>
+        <text>"Retiree health plan" means any health benefit plan, including any Medicare Advantage Plan, offered by or through the City to its retirees, their spouses, and their dependents.</text>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-2</num>
+      <heading>Health Benefits Program; establishment.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>The City shall maintain an Employee and Retiree Health Benefits Program.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Administration.</em>
+        </text>
+        <text>The Program shall be administered by the Baltimore City Department of Human Resources, in conjunction with the City HIC.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Required coverage.</em>
+        </text>
+        <text>The Program shall include the following coverage for all participants:</text>
+        <para>
+          <num>(1)</num>
+          <text>comprehensive medical care; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>prescription drugs.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Optional coverage.</em>
+        </text>
+        <text>The Program may include:</text>
+        <para>
+          <num>(1)</num>
+          <text>dental coverage;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>vision coverage; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>other coverage related to a participant's health.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-3</num>
+      <heading>HIC; Membership.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>The HIC shall be composed of:</text>
+        <para>
+          <num>(1)</num>
+          <text>City appointees;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>exclusive employee representatives; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>retiree representatives.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Membership.</em>
+        </text>
+        <text>The HIC shall include the following members:</text>
+        <para>
+          <num>(1)</num>
+          <text>1 member appointed by each exclusive employee organization;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>1 member appointed by the Managerial and Professional Society of Baltimore, Inc. ("MAPS");</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>1 member appointed by the Baltimore City Retirees' Association in consultation with the exclusive employee organization;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>1 member appointed by each of the following City agencies:</text>
+          <para>
+            <num>(i)</num>
+            <text>Office of the Labor Commissioner;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Division of Employee Benefits in the Department of Human Resources;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Department of Finance; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Office of the Mayor;</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>a professional consultant designated jointly by the exclusive employee organizations, MAPS, and retirees association as participants in the HIC; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>a professional consultant appointed by the City.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-4</num>
+      <heading>HIC; meetings.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>The HIC shall meet at the request of the exclusive employee organizations, MAPS, and retirees no more than 4 times in each calendar year.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Mandatory meetings: next plan year.</em>
+        </text>
+        <text>The HIC shall meet at least twice between the months of June and September to discuss:</text>
+        <para>
+          <num>(1)</num>
+          <text>the fiscal and benefit outcomes of the immediate past plan year;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>health benefit options for the next plan year;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>margin and other factors considered for pricing of the next plan year;        and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>premium rates for the next plan year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>City requests for meetings.</em>
+        </text>
+        <text>The City may request a meeting of the HIC by providing written notice to employee, MAPS, and retiree members of the HIC through their professional consultant at least 10 business days in advance of a proposed meeting.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Agenda.</em>
+        </text>
+        <text>Following a request for a meeting, the party that made the request must furnish a copy of a proposed agenda for the meeting to the Labor Commissioner and to the professional consultants on the HIC no later than one week before the meeting.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <em>Meeting continuation.</em>
+        </text>
+        <text>HIC meetings may be adjourned by mutual consent and continued to subsequent timely dates to enable the City to fulfill requests for:</text>
+        <para>
+          <num>(1)</num>
+          <text>documents;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>information;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>data; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>other relevant materials requested by exclusive employee organizations, MAPS, and retiree participants in the HIC.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-5</num>
+      <heading>Administration of Program.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>Mandatory meetings: annual data.</em>
+        </text>
+        <text>The HIC shall meet at least 3 times per calendar year to review and discuss:</text>
+        <para>
+          <num>(1)</num>
+          <text>the annually-accounted receipts, disbursements, and incurred but not reported reserves for each City-sponsored plan;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>cost containment and efficiencies; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>data for each health benefit and other plan for active City employees, as defined in this subtitle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Arbitration requirement.</em>
+        </text>
+        <text>Any dispute about the meaning or application of any part or provision of this subtitle, or any disagreement about the denial benefits or premiums charged to any participant shall be subject to final and binding arbitration, if a demand for arbitration is submitted upon the joint demand of either:</text>
+        <para>
+          <num>(1)</num>
+          <text>the exclusive employee organizations for a majority of City employees covered under <cite path="|12">Article 12</cite>.  Municipal Labor Relations of the Baltimore City Code; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a majority of the number of exclusive employee organizations under <cite path="|12">Article 12</cite>.  Municipal Labor Relations of the Baltimore City Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Arbitrator qualifications.</em>
+        </text>
+        <text>Once a demand for arbitration is submitted, arbitration shall be conducted between the organizations and the City before an arbitrator who is:</text>
+        <para>
+          <num>(1)</num>
+          <text>a member of the National Academy of Arbitrators; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>selected from a list of 9 arbitrators furnished upon request by either:</text>
+          <para>
+            <num>(i)</num>
+            <text>the Federal Mediation Conciliation Service; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the American Arbitration Association.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Arbitrator selection.</em>
+        </text>
+        <text>The arbitrator described in subsection (c) of this section shall be selected from the furnished list by the means of the parties alternately striking candidates from the list.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <em>Arbitration award.</em>
+        </text>
+        <text>A final written arbitration award shall be:</text>
+        <para>
+          <num>(1)</num>
+          <text>subject to review by the Circuit Court for Baltimore City upon the filing of a petition to:</text>
+          <para>
+            <num>(i)</num>
+            <text>affirm;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>modify; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>vacate; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>subject to further review on appeal under the Maryland Uniform Arbitration Act.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-6</num>
+      <heading>Requests for information.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>The exclusive employee organizations, MAPS, and retirees may request information and data related to the Employee and Retiree Health Benefits Program.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>City to honor requests.</em>
+        </text>
+        <text>The City shall honor and respond to a request described under subsection (a) of this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Request for information; format and delivery.</em>
+        </text>
+        <text>A request for information shall be delivered in an email addressed to the Director and Chief Human Capital Officer of the City Department of Human Resources, with copies sent to the City Director of Finance and Office of the Labor Commissioner.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Delivery of information.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The documents, information, and data provided to the HIC as a response to a request made under subsection (a) of this section shall be provided in a format organized by each health benefit plan offered.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Separate disclosure.</em>
+          </text>
+          <text>When requested, the documents, information, and data provided shall include separate disclosure of revenues, claims, and expenses for:</text>
+          <para>
+            <num>(i)</num>
+            <text>active employees;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>pre-Medicare-eligible retirees;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Medicare-eligible retirees;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>spouses of employees and retirees; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>dependents of employees and retirees.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Restriction of information.</text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>Withholding of requested materials barred.</em>
+          </text>
+          <text>Documents, information, and data requested under the authority of this subtitle may not be unreasonably withheld from disclosure to employee, MAPS, and retiree representatives.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Unreasonable delay of communication.</em>
+          </text>
+          <text>The production of documents, information, and data requested under the authority of this subtitle may not be unreasonably delayed by any City agency or City vendor.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>
+            <em>Complaints.</em>
+          </text>
+          <text>Any complaint regarding the content or timing of the City's or City vendor's response to a request made under the authority of this subtitle shall be brought to the attention of the Labor Commissioner who shall attempt to resolve the issue within a reasonable time frame.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>
+            <em>Public Information Act.</em>
+          </text>
+          <text>Access to data and documents granted to the HIC under this section shall be in addition to any rights or remedies conferred under the Maryland Public Information Act.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-7</num>
+      <heading>Annual provider reports.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>Following the conclusion of each plan year, the City shall order an annual provider report to be prepared for each benefit plan offered under the Program.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Included demographics.</em>
+        </text>
+        <text>A provider report required under subsection (a) of this section must cover:</text>
+        <para>
+          <num>(1)</num>
+          <text>current employees;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>pre-Medicare eligible retirees;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Medicare-covered retirees;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>spouses of City employees or retired City employees; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>dependents of City employees or retired City employees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Included plans.</em>
+        </text>
+        <text>The city shall order and prepare an annual provider report for each health benefit plan offered under the Program, without regard to whether a plan is vendor-insured or City self-insured.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Contents.</em>
+        </text>
+        <text>An annual provider report shall include information from the prior plan year, including:</text>
+        <para>
+          <num>(1)</num>
+          <text>enrollment data;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>data relating to claims, including claims exceeding $75,000; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>any other relevant information about the health benefit plan's:</text>
+          <para>
+            <num>(i)</num>
+            <text>status;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>benefit delivery; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>fiscal outcome.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <em>Provision of annual provider report.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>When an annual provider report becomes available, the City shall furnish a copy of each annual provider report to:</text>
+          <para>
+            <num>(i)</num>
+            <text>the exclusive employee organizations;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>MAPS;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the retiree representatives; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>their consultant.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Deadline.</em>
+          </text>
+          <text>No later than June 15 of each calendar year, each annual provider report shall be furnished to:</text>
+          <para>
+            <num>(i)</num>
+            <text>the exclusive employee organizations;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>MAPS;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the retiree representatives; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>their consultant.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>
+          <em>Annual provider reports to be discussed.</em>
+        </text>
+        <text>One of the HIC meetings conducted between June and September of each calendar year shall be used to discuss the annual provider reports for the past plan year.</text>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-8</num>
+      <heading>Premiums and premium equivalents.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>Annual report.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>After the City receives from its consultant the projected premiums and projected premium equivalent rates for the upcoming plan year, the City shall release to the consultant for the exclusive employee organizations, MAPS, and retirees:</text>
+          <para>
+            <num>(i)</num>
+            <text>the formula, methods, and data used by the City's consultant to build rate projections for the ensuing plan year;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a report containing the projected premiums and premium equivalent rates for each provider plan within the Program for the upcoming plan year, including:</text>
+            <para>
+              <num>(A)</num>
+              <text>self-insured plans; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>vendor-insured plans; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any available supporting data.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Request for meeting.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The exclusive employee organizations, MAPS, and retirees or their consultant may request a meeting with the City or City's consultant concerning the proposed premium or premium equivalent rates.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Request timeline.</em>
+          </text>
+          <text>The exclusive employee organizations, MAPS, and retirees must request a meeting described in paragraph (1) of this subsection:</text>
+          <para>
+            <num>(i)</num>
+            <text>in writing;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>no later than 15 days following the disclosure of the proposed rates; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>no later than September 10, provided that the annual report required by this section is delivered to the exclusive employee organizations, MAPS, retirees, and their consultant prior to August 25.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>
+            <em>Meeting timeline.</em>
+          </text>
+          <text>The meeting described in paragraph (1) of this subsection shall be held at least 15 days prior to the submission of the proposed rates to the Board of Estimates.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>
+            <em>City's response timeline.</em>
+          </text>
+          <text>At least 10 days before the submission of the proposed rates to the Board of Estimates, the City shall consider and respond in writing to the exclusive employee organizations, MAPS, retirees, and their consultant regarding the proposed rates.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-9</num>
+      <heading>Collective Bargaining.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>The following are subjects of collective bargaining under <cite path="|12">Article 12</cite>. {"Municipal Labor Relations"} of the Baltimore City Code and <cite doc="City of Baltimore, Md., Charter" path="II|55|(a)">City Charter Article II §§ 55(a)</cite> and <cite doc="City of Baltimore, Md., Charter" path="II|55|(b)">(b)</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>health benefit options offered or proposed under the Program;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>employer-employee and employer-retiree contributions proposed to sustain health benefit options offered under the Program; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>components of the health benefit plans that, under this subtitle, are available to or proposed for:</text>
+          <para>
+            <num>(i)</num>
+            <text>employees and retirees;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>eligible spouses of employees and retirees; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>eligible dependents of employees and retirees.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Timeline.</em>
+        </text>
+        <text>Collective bargaining concerning the following shall be conducted and completed with all exclusive employee organizations and MAPS at least 90 days prior to the release of plan enrollment documents covering active employees and retirees for a new plan year:</text>
+        <para>
+          <num>(1)</num>
+          <text>health benefit options offered under the Program;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>employer-employee and employer-retiree contributions to health benefit options offered under the Program; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>components of the health benefit plans.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Premiums and premium-equivalent charges.</em>
+        </text>
+        <text>After the date of a retiree's permanent separation from City employment, no premium or premium-equivalent charges, nor the retiree's respective share thereof under the Graduated Retiree Contribution Schedule, may be changed for the following individuals:</text>
+        <para>
+          <num>(1)</num>
+          <text>a retiree;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the spouse of a retiree; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the dependent of a retiree.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Program information: unreasonable denial and delay.</em>
+        </text>
+        <text>The City and each of its constituent units may not unreasonably deny or delay disclosure of information, data, and documents requested about the Program before and during collective bargaining over:</text>
+        <para>
+          <num>(1)</num>
+          <text>plan subsidies;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>plan benefit options; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>any other components of any:</text>
+          <para>
+            <num>(i)</num>
+            <text>health benefit plans;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>prescription drug plans; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>plans for other services.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-10</num>
+      <heading>Gain and Loss Statement.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>Once a year, the City shall provide a good faith operating gain and loss    statement for:</text>
+        <para>
+          <num>(1)</num>
+          <text>each self-insured health benefit plan;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>each insured health benefit plan; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>any other plan offered by the City under the Program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Form and time line.</em>
+        </text>
+        <text>The gain and loss statement required under subsection (a) of this section shall be:</text>
+        <para>
+          <num>(1)</num>
+          <text>provided following the close of each plan year;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>provided on or before May 30;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>consistent with the GAAP adopted under the rules of GASB; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>provided to the exclusive employee organizations, MAPS, retirees and their consultant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Content.</em>
+        </text>
+        <text>The gain and loss statement required under subsection (a) of this section shall account for all premium equivalents of the plan for the benefit year, as compared to expenditures for the plan, which include:</text>
+        <para>
+          <num>(1)</num>
+          <text>estimated incurred claims;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>premiums paid;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>administrative fees;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>network fees;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>any other fees; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>any taxes.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Supporting materials.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>If requested by the exclusive employee organizations, MAPS, and retirees, the City shall provide the documents, information, and data considered to prepare the gains and losses statement required under subsection (a) of this section to:</text>
+          <para>
+            <num>(i)</num>
+            <text>exclusive employee organizations;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>MAPS;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>retirees; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>their consultant.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Separate disclosures.</em>
+          </text>
+          <text>To the extent that such information is collected in the ordinary course of business, the supporting materials shall include separate disclosures of revenues, claims, and expenses for:</text>
+          <para>
+            <num>(i)</num>
+            <text>exclusive employee organizations;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>MAPS;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>retirees; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>their consultant.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-11</num>
+      <heading>Final accounting.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>No later than June 30 of each year, the City shall deliver a final accounting prepared by the Director to:</text>
+        <para>
+          <num>(1)</num>
+          <text>exclusive employee organizations;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>MAPS;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>retirees; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>their consultant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Content.</em>
+        </text>
+        <text>The final accounting shall include information and data related to:</text>
+        <para>
+          <num>(1)</num>
+          <text>enrollment;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>claims;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>administrative costs;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>usage trends; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>any other data necessary to calculate any surplus or deficit experienced by the plan for the immediately preceding plan year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Excess revenues.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The Director and the consultant appointed by the exclusive employee organization, MAPS, and retirees shall meet in the event that the final accounting reports an excess of revenues over costs in the difference between:</text>
+          <para>
+            <num>(i)</num>
+            <text>premium equivalents;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>premiums;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>other payments received from covered:</text>
+            <para>
+              <num>(A)</num>
+              <text>active employees;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>spouses of active employees;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>dependents of active employees;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>retirees;</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>spouses of retirees; and</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>dependents of retirees;</text>
+            </para>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>vendor rebates and remissions; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>all plan costs and expenses incurred for each:</text>
+            <para>
+              <num>(A)</num>
+              <text>insured health benefit plan;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>self-insured health benefit plan; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>prescription drug plan.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Meeting agenda.</em>
+          </text>
+          <text>During the meeting required by this subsection, the   Director and the consultant shall determine if:</text>
+          <para>
+            <num>(i)</num>
+            <text>they agree that the findings are correct;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the findings are based on GAAP; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the findings follow GASB rules.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>
+            <em>Variance.</em>
+          </text>
+          <text>During their assessment of the findings at the meeting required by this subsection, the Director and the consultant shall take into account any positive or negative variance in all plans.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Surplus.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>Determination.</em>
+          </text>
+          <text>The Program's year-end surplus shall be determined and verified by calculating the difference of the City's obligation for premiums and other funds owed by the City to support all insurance benefits under any one or more of the plans offered by the City, from 1 plan year to the next.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Use.</em>
+          </text>
+          <text>The surplus described under this subsection may not be used by the City for a purpose other than sustaining the City's health benefit plans.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>
+            <em>Fund.</em>
+          </text>
+          <text>The Program's year-end surplus shall be deposited in the Premium Stabilization Fund created under this subtitle.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-12</num>
+      <heading>Premium Stabilization Fund.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>The City shall maintain a Premium Stabilization Fund within the City's Risk Management Fund.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Maintenance.</em>
+        </text>
+        <text>The Fund:</text>
+        <para>
+          <num>(1)</num>
+          <text>may not be commingled with any part of the City's General Operating Fund;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>shall be maintained by the City for the exclusive benefit of the Program; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>shall be used only to enable the City to defray a year-end deficit in the health benefit plan accounts after:</text>
+          <para>
+            <num>(i)</num>
+            <text>all revenues, claims, and costs are fully accounted for; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>full disclosure has been made to the:</text>
+            <para>
+              <num>(A)</num>
+              <text>exclusive employee organizations;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>MAPS;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>retirees; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>their consultant.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Transfer of surplus.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>The Program's year-end surplus shall be transferred into the Fund until the balance of the Fund reaches the equivalent of 2 months of medical and prescription drug claims for the previous plan year.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Reporting.</em>
+          </text>
+          <text>The Director shall report the balance of the Fund within 3 to 6 months after the end of each plan year to the:</text>
+          <para>
+            <num>(i)</num>
+            <text>exclusive employee organizations;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>MAPS;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>retirees; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>their consultant.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <em>Pricing.</em>
+        </text>
+        <text>When the Fund's balance is equal to or greater than 2 months of Program medical and prescription drug claims for the most recent completed plan year, the City may not use margin as a factor in the pricing of:</text>
+        <para>
+          <num>(1)</num>
+          <text>premiums for vendor insured plans for active employees;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>premiums for vendor insured plans for retirees;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>premium equivalents for self-insured benefit plans for active employees; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>premium equivalents for self-insured benefit plans for retirees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <em>Disbursements.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>Application by Director.</em>
+          </text>
+          <text>Disbursements from the Fund shall be authorized only if the Board of Estimates approves an application by the Director.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Disclosure to representatives.</em>
+          </text>
+          <text>Thirty days before presenting the application described under this subsection to the Board of Estimates, the Director shall provide a copy of the application to the:</text>
+          <para>
+            <num>(i)</num>
+            <text>exclusive employee organizations;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>MAPS;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>retirees; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>their consultant.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>
+            <em>Application of surplus after disbursement.</em>
+          </text>
+          <text>If a disbursement from the Fund is authorized by the Board of Estimates due to a plan's year-end deficit, then year-end plan surpluses in subsequent plan years shall be exclusively applied to restore the Fund.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-13</num>
+      <heading>Retained duties and powers of City.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>The Director of the Department of Human Resources shall have the general duty to administer the Program.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Powers.</em>
+        </text>
+        <text>Subject to the provisions of this subtitle, the Director of the Department of Human Resources or the Director's designee may:</text>
+        <para>
+          <num>(1)</num>
+          <text>propose the health benefit options and design the health benefits plans, which may include a wellness program made available to participants;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>prepare forms and establish procedures to be followed in order to obtain health benefits under the Program;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>determine the eligibility of persons to participate in the Program and its health benefit plans and other plans by applying the provisions of the Program governing such eligibility subject to the right of persons to appeal adverse decisions on eligibility through grievance and arbitration procedures established under this subtitle;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>approve or supervise the approval of the payment of claims for health and other benefits;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>establish a process for internal appeals and external review of decisions on claims that complies with the federal Affordable Care Act and subsequent statutes;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>review the payment of claims for health insurance benefits and seek recovery of any overpayment of benefits;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>establish through the processes of collective bargaining available under this subtitle health care flexible spending accounts or health savings accounts as part of the Program; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>subject to <cite path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"}</cite> of the <cite path="|general">City General Provisions Article</cite>, may adopt rules and regulations to carry out this subtitle, provided that, at least 60 prior to taking effect, the rules and regulations are published and delivered to:</text>
+          <para>
+            <num>(i)</num>
+            <text>each exclusive employee organization;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>MAPS;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>retirees; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>their consultant.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <annotation app="2022-10-19" doc="City of Balt., Md., Ord. 22-165" eff="2022-10-19" path="§1" type="History"/>
+  </container>
+</container>

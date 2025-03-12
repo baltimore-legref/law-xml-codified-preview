@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-431">
+  <num type="law">24-431</num>
+  <num type="bill">24-0601</num>
+  <heading type="short">Property Taxes - Special Rate for Vacant and Abandoned Property</heading>
+  <heading type="long">An Ordinance Concerning Property Taxes - Special Rate for Vacant and Abandoned Property</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-10-07</introduced>
+    <effective>2025-01-01</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/eb279e81-6109-4135-a6d5-36817d71a30f.pdf">Ord. 24-431</citation>
+    </citations>
+    <history>
+      <vote date="2024-10-07" reading="first"/>
+      <vote date="2024-11-04" reading="second"/>
+      <enacted>2024-11-27</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="28|II" after="10" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="28|§11-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>11</num>
+        <heading>Vacant and Abandoned Property</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>11-1</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>In this section, the following words have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Building.</heading>
+              <text>“Building” has the meaning stated in City Code Article 13, § 11-1 {“Definitions”}.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <heading>Property owner.</heading>
+              <text>“Property owner” means the person who holds the title to a vacant structure.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <heading>Vacant structure.</heading>
+              <text>“Vacant structure” has the meaning stated in § 116.4 of the Baltimore City Building Code.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Property tax applies.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>A property classified by the Department of Housing and Community Development as a vacant structure is subject to:</text>
+              <para>
+                <num>(i)</num>
+                <text>in the first full tax year the property is classified as a vacant structure, 3 times the full rate property tax established by City Charter Article VI, § 7(c) {“Enactment of Ordinance of Estimates: Revenue ordinances”}; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>any tax year thereafter that the property is classified as a vacant structure, 4 times the full rate property tax.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>First tax year.</heading>
+              <text>The first tax year when the property tax described in paragraph (1) of this subsection may be applied in the July 1, 2026 to June 30, 2027 tax year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Rules and regulations.</heading>
+            <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the City General Provisions Article, the Director of Finance and the Commissioner of Housing and Community Development shall adopt rules and regulations to carry out the provisions of this subtitle.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Notice required.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>The City Administrator or the City Administrator’s designee shall notify an owner of real property located within the City limits of the implementation of the tax established by this subtitle 11 by the following methods:</text>
+              <para>
+                <num>(i)</num>
+                <text>United States mail;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>advertisement in 2 newspapers in general circulation for a minimum of 2 consecutive weeks during each month of June preceding the tax years listed below; and</text>
+                <text>
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>Tax Year</th>
+                        <th>Date: Start</th>
+                        <th>Date: End</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>01</td>
+                        <td>July 1, 2026</td>
+                        <td>June 30, 2027</td>
+                      </tr>
+                      <tr>
+                        <td>02</td>
+                        <td>July 1, 2027</td>
+                        <td>June 30, 2028</td>
+                      </tr>
+                      <tr>
+                        <td>03</td>
+                        <td>July 1, 2028</td>
+                        <td>June 30, 2029</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>posting on the City website.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Notice by mail.</heading>
+              <text>To comply with paragraph (1)(i) of this subsection the City Administrator or the City Administrator’s designee may include the notice required by paragraph (1) of this subsection with:</text>
+              <para>
+                <num>(i)</num>
+                <text>a water bill; or</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>a violation notice for a vacant structure issued by the Department of Housing and Community Development.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Reporting.</heading>
+            <text>On or before December 1 of each year, the Department of Finance shall submit to the Mayor and City Council, and in accordance with § 6-302(c)(2) of the State Tax – Property Article, the Maryland Department of Housing and Community Development, and the Maryland General Assembly, a report that includes the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>the special rate set under State Tax – Property Article § 6-302(c)(1);</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the number of properties to which the special tax rate applies;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the revenue change resulting from the special rate;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>the use of the revenue from the special rate;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>whether properties subject to the special rate are viable for adaptive reuse, as defined in § 1-102 of the State Housing and Community Development Article; and</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>any existing plans to convert properties viable for adaptive reuse.</text>
+            </para>
+          </para>
+        </section>
+      </container>
+    </codify:insert>
+  </section>
+</document>

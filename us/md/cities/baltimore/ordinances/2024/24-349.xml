@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-349" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-349</num>
+  <num type="bill">24-0520</num>
+  <heading type="short">Parking Facilitators and Taxes</heading>
+  <heading type="long">An Ordinance Concerning Parking Facilitators and Taxes</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-04-15</introduced>
+    <effective>2024-08-10</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/4f4c8df8-376c-40ab-af98-eca9c512f01c.pdf">Ord. 24-349</citation>
+    </citations>
+    <history>
+      <vote date="2024-04-15" reading="first"/>
+      <vote date="2024-06-10" reading="second"/>
+      <enacted>2024-07-11</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="28|§22-1" codified:doc="City of Baltimore, Md., Code" codified:path="28|§22-1">
+      <section>
+        <prefix>§</prefix>
+        <num>22-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Director.</heading>
+          <text>"Director" means the City Director of Finance.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Facilitator.</em>
+          </text>
+          <text>"Facilitator" means a business entity that makes parking spaces in the City available for use by a person through an online, mobile, or other third-party booking platform:</text>
+          <para>
+            <num>(1)</num>
+            <text>for a certain amount of time; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>for a fee.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Garage.</em>
+          </text>
+          <text>"Garage" means any structure or part of a structure for the parking of 3 or more motor vehicles in exchange for a fee or other consideration.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>
+            <em>Motor Vehicle.</em>
+          </text>
+          <text>"Motor vehicle" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>any self-propelled vehicle; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any other vehicle required to be registered under the laws of this State or of any other state.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>
+            <em>Operator.</em>
+          </text>
+          <text>"Operator" means any person who controls, conducts, or operates a parking lot or garage.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>
+            <em>Parking.</em>
+          </text>
+          <text>"Parking" means any parking, storing, housing, or keeping of a motor vehicle, whether self-service, valet-service, long-term, short-term, ticketed metered, through coordination with a facilitator, for special events only, or otherwise.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>
+            <em>Parking lot.</em>
+          </text>
+          <text>"Parking lot" means any outdoor area or space for the parking of 3 or more motor vehicles in exchange for a fee or other consideration.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>
+            <em>Person.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>"Person" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|general|§1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Inclusion of governmental entities.</em>
+            </text>
+            <text>Notwithstanding <cite doc="City of Baltimore, Md., Code" path="|general|§1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article</cite>, in this subtitle "person" also includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>
+            <em>Transaction.</em>
+          </text>
+          <text>"Transaction" means the parking of a motor vehicle on a parking lot or in a garage in exchange for a fee or other consideration.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="28|§22-3|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§22-3|(a)">
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>For all parking, whether on an hourly, daily, weekly, monthly, or longer basis, the tax is 20% of  any fee or other consideration received, directly or indirectly, by the operator of the parking lot or garage or the facilitator, for or in connection with that parking.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="28|§22-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§22-5|(a)">
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>Collection.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>(i) Except as provided in paragraph (2) of this subsection, the operator of the parking lot or garage or the facilitator, must collect the tax imposed by this subtitle from the person seeking the privilege of parking.</text>
+          <para>
+            <num>(ii)</num>
+            <text>The operator or the facilitator, must collect the tax at the same time that the operator or the facilitator collects  any fee or other consideration charged for parking, whether that fee or other consideration is charged on an hourly, daily, weekly, monthly, or other basis.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+</document>

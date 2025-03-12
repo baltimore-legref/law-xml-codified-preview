@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Laws of Md., ch. 947 (2024 Session Md. Gen. Assembly)">
+  <num type="law">947</num>
+  <num type="bill">732</num>
+  <heading type="short">Baltimore City – Control Over Powers of Police Commissioner</heading>
+  <heading type="long">An Act Concerning Baltimore City – Control Over Powers of Police Commissioner</heading>
+  <meta>
+    <effective>2024-06-01</effective>
+    <citations>
+      <citation type="law" url="./947.pdf">Laws of Md., ch. 947</citation>
+    </citations>
+    <history>
+      <adopted>2024-05-16</adopted>
+    </history>
+  </meta>
+  <codify:replace doc="City of Baltimore, Md., Charter" path="II|§(27)" codified:doc="City of Baltimore, Md., Charter" codified:path="II|§(27)">
+    <section>
+      <prefix>§</prefix>
+      <num>(27)</num>
+      <heading>Police power.</heading>
+      <text>To have and exercise within the limits of Baltimore City all the power commonly known as the Police Power to the same extent as the State has or could exercise that power within the limits of Baltimore City.</text>
+    </section>
+  </codify:replace>
+</document>

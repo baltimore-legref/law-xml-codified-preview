@@ -1,0 +1,1554 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>Community Relations</heading>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>1</num>
+    <heading>Definitions; General Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>1-1</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>In <cite path="|4">this article</cite>, the following terms have the meanings indicated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Age.</heading>
+        <text>"Age", as used in <cite path="|4|§3-5">§ 3-5 of this article</cite>, means the "age of majority", and refers to anyone who has attained the age of 18 years.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Age discrimination.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Age discrimination", as used in <cite path="|4|§3-1">§ 3-1 of this article</cite>, means any difference in the treatment of an individual or person because of age.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except that:</text>
+          <para>
+            <num>(i)</num>
+            <text>it shall not be discrimination for an employer, employment agency, or labor organization to observe the terms of a bona fide employee benefit plan, such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of <cite path="|4">this article</cite>, and excepting further, that no such employee benefit plan shall excuse the failure to hire any individual; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the prohibitions relating to age discrimination are limited to individuals who are at least 18 years of age but less than 65 years of age.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Commission.</heading>
+        <text>"Commission" means the Baltimore Community Relations Commission, heretofore named the Baltimore Equal Opportunity Commission.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Complainant.</heading>
+        <text>"Complainant" means any person or groups of persons claiming to be aggrieved under <cite path="|4">this article</cite>.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Discrimination.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Discrimination" means any difference in the treatment of an individual or person because of race, color, religion, national origin, ancestry, sex, marital status, physical or mental disability, sexual orientation, gender identity or expression, HIV or AIDS status or, in the context of discriminatory housing practices under <cite path="|4|3|3-5">§ 3-5 {"Housing"}</cite> of <cite path="|4">this article</cite>, source of income.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Discrimination" includes segregation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>However, it is not discrimination for:</text>
+          <para>
+            <num>(i)</num>
+            <text>any religious or denominational institution to devote its facilities, exclusively or primarily, to or for members of its own religion or denomination or to give preference to those members or to make any selection as is calculated by the institution to promote the religious principles for which it is established or maintained;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>an employer to disqualify a person with a physical or mental disability when the nature or extent of the disability makes the person unfit or unsuited for the job;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>an educational institution to restrict its student body and student activities to one sex or the other;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>an educational institution to provide special educational or recreational programs for individuals with a physical or mental disability; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>any person to provide:</text>
+            <para>
+              <num>(A)</num>
+              <text>separate toilet facilities for males and females; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>lactation accommodations for females in accord with City Code <cite path="|11">Article 11</cite>, Subtitle 16 {"Lactation Accommodation in the Workplace"}.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>This definition also applies to the verb "to discriminate" and to the adjective "discriminatory", as used in <cite path="|4">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Dwelling.</heading>
+        <text>"Dwelling" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>any building, structure, or portion thereof which is occupied as, or designed or intended for occupancy as a residence by 1 or more families; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>any vacant land which is offered for sale or lease for the construction or location thereon of any such building, structure, or portion thereof.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Educational institution.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Educational institution" means any person, institution, or organization, public or private, rendering services free or for tuition, and licensed or accredited by the City, State or Federal Government, or any agency thereof, for the purpose of teaching or instructing persons.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Educational institution" shall include also all libraries, art galleries, nursery schools, kindergartens, primary and secondary schools, high schools, academies, colleges and universities, business schools, and extension or correspondence courses, and all institutions established for vocational or professional training or preparation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>"Educational institution" shall not include any natural person who tutors another natural person or persons individually at the residence of either the tutor or the student.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Employer.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Employer" means every person, other than fraternal and religious organizations, who employs 1 or more persons, exclusive of parents, spouse, or children of that person during at least 15 days in the preceding 12 full months.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Employer" includes any governmental unit, agency, or employer as to which the City has the power to legislate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>Employment agency.</heading>
+        <text>"Employment agency" means every person regularly undertaking in this City, with or without compensation, to procure opportunities to work or to procure, refer, or place employees.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>Familial status.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Familial status" means 1 or more individuals (who have not attained the age of 18 years) being domiciled with:</text>
+          <para>
+            <num>(i)</num>
+            <text>a parent or another person having custody of such individual or individuals; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the designee of such parent or other person having such custody, with the written permission of such parent or other person.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The protections afforded against discrimination on the basis of familial status shall apply to any person who is pregnant or is in the process of securing legal custody of any individual who has not attained the age of 18 years.</text>
+        </para>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>Family.</heading>
+        <text>"Family" includes a single individual.</text>
+      </para>
+      <para>
+        <num>(l-1)</num>
+        <heading>Gender identity or expression.</heading>
+        <text>"Gender identity or expression" means an individual's having or being perceived as having a gender-related self- identity, self-image, appearance, expression, or behavior, whether or not those gender-related characteristics differ from those associated with the individual's assigned sex at birth.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <heading>Health and welfare service agency.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Health and welfare service agency" means any public, voluntary, or private health or welfare organization which receives public funds.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Health and welfare service agency" includes any hospital, clinic, dispensary, nursing home, convalescent home, rehabilitation center, social work, agency, community service center, group work-recreation center, counseling and guidance service agency, sheltered or protective workshop, social agency, day camp or resident camp, or protective service organization or facility.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Except for a hospital, clinic or dispensary, "health and welfare service agency" shall not include any health and welfare service agency:</text>
+          <para>
+            <num>(i)</num>
+            <text>operated by a bona fide religious denomination exclusively or primarily for members of its faith;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>operated by any fraternal organization whose membership is limited to 1 religious denomination or faith; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>operated by any charitable organization organized exclusively or primarily for the benefit of members of 1 denomination or faith.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(m-1)</num>
+        <text>
+          <em>HIV or AIDS status.</em>
+        </text>
+        <text>"HIV or AIDS status" means whether or not the immune system of an individual is infected wtih the human immunodeficiency virus (HIV).</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <heading>Labor organization.</heading>
+        <text>"Labor organization" means any organization which exists for the purpose, in whole or in part, of collective bargaining or of dealing with employers concerning grievances, terms, or conditions of employment, or of other mutual aid or protection in relation to employment.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <heading>Mental disability.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Mental disability" means the existence of, or history of, an emotional or intellectual disorder, as defined by psychiatrists, which requires special educational or psychotherapeutic services, and includes being regarded as having such an impairment , but shall not include a judicial determination of disability.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Mental disability" does not include current, illegal use of or addiction to a controlled substance (as defined in §102 of the Controlled Substance Act (21 U.S.C. 802)).</text>
+        </para>
+      </para>
+      <para>
+        <num>(p)</num>
+        <heading>Person.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107">§ 1-107 </cite>of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Inclusions.</heading>
+          <text>The term "person":</text>
+          <para>
+            <num>(i)</num>
+            <text>as applied to a partnership or other association, includes the partners or members thereof; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>as applied to a corporation, includes the officers thereof.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(q)</num>
+        <heading>Physical disability.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Physical disability" means any physical condition, infirmity, malformation or disfigurement which is caused by bodily injury, birth defect, trauma, or illness, including epilepsy, which shall include, but not be limited to any degree of paralysis, amputation, lack of physical coordination, blindness or visual impairment, deafness or hearing impairment, muteness or speech impairment or disorder, or physical reliance on a seeing eye dog, wheelchair, or any other remedial appliance, device, or medication, and includes a record of having such a disability or being regarded as having such a disability.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Physical disability" does not include current, illegal use of or addiction to a controlled substance (as defined in § 102 of the Controlled Substances Act (21 U.S.C. 802)).</text>
+        </para>
+      </para>
+      <para>
+        <num>(r)</num>
+        <heading>Place of public accommodation, resort, or amusement.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Place of public accommodation, resort, or amusement" shall be limited to inns, roadhouses, hotels, motels, restaurants, or eating houses, all bathhouses, swimming pools, all retail stores and establishments, theaters, motion picture houses, roof gardens, music halls, race courses, skating rinks, amusement and recreation parks, fairs and carnivals, bowling alleys, shooting galleries, billiard and pool parlors, garages, and all public conveyances operated on land or water or in the air, as well as the stations, terminals, and airports thereof, and ambulances.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Place of public accommodation, resort, or amusement" does not apply to any bona fide private club where the accommodations, facilities, and services are restricted to the members of such club and their guests.</text>
+        </para>
+      </para>
+      <para>
+        <num>(r-1)</num>
+        <heading>Protective hairstyles.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Protective hairstyles" means hairstyles necessitated by or resulting from the immutable characteristics of a hair texture associated with race, including those that protect against split ends, knotting, or general damage, and also help retain the length of the hair.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Examples.</heading>
+          <text>"Protective hairstyles" includes hairstyles such as braids, twists, afro hairstyles, curls, and locks.</text>
+        </para>
+      </para>
+      <para>
+        <num>(s)</num>
+        <heading>Public funds.</heading>
+        <text>"Public funds" means funds derived from any governmental body or agency thereof, or funds derived from general Citywide solicitations.</text>
+      </para>
+      <para>
+        <num>(s-1)</num>
+        <heading>Race.</heading>
+        <text>"Race" means immutable traits historically associated with race, including hair texture and protective hairstyles.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <heading>Rent.</heading>
+        <text>"Rent" includes to lease, to sublease, to let, or otherwise to grant for a consideration the right to occupy premises not owned by the occupant.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <heading>Respondent.</heading>
+        <text>"Respondent" means any person or groups of persons against whom a complaint is lodged.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <heading>Restrictive covenant.</heading>
+        <text>"Restrictive covenant" means any specification limiting the transfer, rental, or lease of any dwelling because of race, color, religion, national origin, ancestry, sex, age, marital status, familial status, physical or mental disability, sexual orientation, gender identity or expression, or, in the context of discriminatory housing practices under <cite path="|4|§3-5">§ 3-5 {"Housing"} of this article</cite>, source of income.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <heading>Sexual orientation.</heading>
+        <para>
+          <num>(1)</num>
+          <text>"Sexual orientation" means the status of an individual as to homosexuality, heterosexuality, or bisexuality.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This subsection is not intended to permit any practice prohibited by state or local law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(x)</num>
+        <heading>Source of income.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Source of income", as used in <cite path="|4|§3-5">§ 3-5 {"Housing"} of this article</cite>,  means any lawful source of money paid directly or indirectly to, or on behalf of, a renter or buyer of housing.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Inclusions.</heading>
+          <text>"Source of income" includes income from:</text>
+          <para>
+            <num>(i)</num>
+            <text>a lawful profession, occupation, or job;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>any government or private assistance, grant, loan, or rental assistance program, including low-income housing assistance certificates and vouchers issued under the United States Housing Act of 1937; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a gift, an inheritance, a pension, an annuity, alimony, child support, or other consideration or benefit.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §9</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §9</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1160" type="History">Ord. 71-1160</annotation>
+        <annotation doc="City of Balt., Md., Ord. 72-052" type="History">Ord. 72-052</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-908" type="History">Ord. 75-908</annotation>
+        <annotation doc="City of Balt., Md., Ord. 77-590" type="History">Ord. 77-590</annotation>
+        <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
+        <annotation doc="City of Balt., Md., Ord. 18-213" type="History">Ord. 18-213</annotation>
+        <annotation doc="City of Balt., Md., Ord. 19-234" type="History">Ord. 19-234</annotation>
+        <annotation doc="City of Balt., Md., Ord. 19-267" type="History">Ord. 19-267</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-471" type="History">Ord. 20-471</annotation>
+        <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-2</num>
+      <heading>Findings; policy.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Findings.</heading>
+        <text>The Mayor and City Council of Baltimore finds that:</text>
+        <para>
+          <num>(1)</num>
+          <text>The population of Baltimore is composed of persons having differing racial, religious, and ethnic backgrounds.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Discrimination in the fields of education and preliminary job training and other prevailing conditions and causes have precluded members of certain ethnic, sex, or age groups, and persons with a physical or mental disability, from acquiring, developing, and maintaining essential educational, vocational, cultural, and professional background and efficiency for entrance into, and the earning of a livelihood in, many fields of endeavor.  Members of these groups who are qualified are not given fair, equal, and impartial employment opportunities.  Such prevention from earning an income necessary to maintain normal and decent living standards has retarded community progress and increased public relief rolls.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Discrimination in health and welfare services imposes unnecessary individual and community hardships and has actually resulted in denial to members of such groups of care, attention, and service essential to maintenance of their physical and emotional well-being.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The practice by places of public accommodation, resort, or amusement of refusing to accommodate and serve members of groups tends to impose hardship upon the members of these groups and also tends to cause and intensify inter-group tension.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Discrimination against women in the fields of education, preliminary job training, health and welfare services, and employment opportunities, and the refusal of service in places of public accommodations, resort, or amusement imposes a social hardship upon women and penalizes the society in that women cannot make maximum use of their skills and abilities to enrich the world around them.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Arbitrary age discrimination in employment prevents many of our citizens from working at jobs for which they are qualified and forces others who are willing and able to work into involuntary retirement.  These workers are denied the opportunity of working in their chosen fields and are often forced to accept support from society through unemployment insurance and relief payments.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>It is estimated that over 11% of the working age population in the Baltimore area has a physical or mental disability which limits the kind of work such persons can do.  The law should protect their right to have an equal chance to perform in the jobs for which they are suited and to be educated for such employment.  Places of public accommodation, resort, and amusement as well as health and welfare agencies and educational institutions should make available their facilities and programs to persons having physical and mental disabilities.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Discrimination in the sale and rental of housing accommodations imposes social and financial hardship.  Equal access to housing is fundamental to the exercise of basic rights and to the enjoyment of many other liberties and opportunities and should be available to all members of our community.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Discrimination because of sexual orientation or gender identity or expression produces untold anxieties, mental anguish, and human suffering, not only in the victims of discrimination themselves, but also among their families.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Legislation is necessary in the public interest to avoid permanent adverse effects upon the development, growth, and renewal of the City of Baltimore.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Policy.</heading>
+        <text>Therefore, the Mayor and City Council of Baltimore deems it necessary and expedient to promote and protect the public welfare by enacting <cite path="|4">this article</cite> to prevent and eliminate discrimination by the persons and in the areas herein defined.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §8</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §8</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1160" type="History">Ord. 71-1160</annotation>
+        <annotation doc="City of Balt., Md., Ord. 72-052" type="History">Ord. 72-052</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-908" type="History">Ord. 75-908</annotation>
+        <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>1-3</num>
+      <reason>Repealed by Ord. 22-125</reason>
+      <annotations>
+        <annotation type="Editor's Notes">For the Code-wide standard for severability of provisions, see <cite path="|general">General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>2</num>
+    <heading>Community Relations Commission</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>2-1</num>
+      <heading>Commission continued.</heading>
+      <text>The agency originally created as the Baltimore Equal Employment Opportunity Commission and subsequently continued as the Baltimore Equal Opportunity Commission is continued as the Baltimore Community Relations Commission of the Mayor and City Council of Baltimore.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §15(a)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §15(a)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-2</num>
+      <heading>Organization.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The Commission consists of 10 members, who shall be appointed by the Mayor subject to approval by the City Council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Quorum.</heading>
+        <text>5 members of the Commission constitute a quorum.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Compensation; expenses.</heading>
+        <text>The members of the Commission:</text>
+        <para>
+          <num>(1)</num>
+          <text>serve without compensation; but</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>are entitled to reimbursement for reasonable expenses incurred in the performance of their duties, as provided in the Ordinance of Esrimates.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Officers.</heading>
+        <text>The members of the Commission shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>annually elect a Chair from among the members of the Commission; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>appoint a secretary.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §15(b)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §15(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 99-526" type="History">Ord. 99-526</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-3</num>
+      <heading>General responsibility.</heading>
+      <text>The Commission has the responsibility for the elimination of discrimination in all areas of community life, as more particularly provided throughout <cite path="|4">this article</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §15(c)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §15(c)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-4</num>
+      <heading>Powers and duties of Commission.</heading>
+      <text>The Commission is authorized to and shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>formulate and carry out a comprehensive educational and action program designed to eliminate and prevent prejudice and discrimination in the City of Baltimore;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>initiate studies concerning the current status of civil rights, inter-group relations, and discriminatory practices;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>conduct and publish an annual survey or community audit of the status of human rights in the City of Baltimore;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>create such advisory councils, committees, or subcommittees as in the judgment of the Commission will aid in carrying out the purposes of <cite path="|4">this article</cite> and to cooperate with such councils, committees, or subcommittees toward such ends;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>receive and investigate and seek to resolve all complaints of unlawful practices forbidden by <cite path="|4">this article</cite>, but no complaints shall be received unless made to the Commission within 300 days of such alleged unlawful practice;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>make appropriate findings as a result of any of its investigations;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>from time to time, but not less than once a year, render to the Mayor and City Council a written report of its activities and recommendations for legislation as in the judgment of the Commission is necessary or desirable to aid it in carrying out its purposes and functions under <cite path="|4">this article</cite>;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt and publish such rules and regulations as may be necessary to carry out the functions of the Commission and to effectuate the purposes and provisions of <cite path="|4">this article</cite>;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>consult with such advisory agencies and conciliation councils as will aid in effectuating the purposes of <cite path="|4">this article</cite>;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>conduct investigations and studies and hold public hearings for the purpose of determining the existence of problems, practices, or conditions in the areas placed under its jurisdiction by this or any other ordinance or by State or Federal law;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>in the enforcement of <cite path="|4">this article</cite>, issue subpoenas and compel the attendance and testimony of witnesses and the production of books, papers, records, and documents relevant or necessary for hearings, investigations, and proceedings.  Any such subpoena shall be served by the Sheriff of Baltimore City or any of his deputies.  In case of disobedience to a subpoena, the Commission may apply to the court of appropriate jurisdiction of Baltimore City for an order requiring the attendance and testimony of witnesses and the production of books, papers, records, and documents.  Said court may, in case of contumacy or refusal to obey any such subpoena, after notice to the person subpoenaed, and upon finding that the attendance or testimony of such witnesses or the production of such books, papers, records, and documents, as the case may be, is relevant or necessary for such hearings, investigations, or proceedings of the Commission, issue an order requiring the attendance and testimony of such witnesses and the production of such books, papers, records and documents, or any of them, and any failure to obey such order of said court may be punished by such court as contempt thereof.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>to cooperate, negotiate, and contract on behalf of the City with any state or federal agency functioning or having jurisdiction in the same area as the Commission, with respect to the subject matter of <cite path="|4">this article</cite>, to the end that duplication of effort in said areas may be avoided.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §16</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §16</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-984" type="History">Ord. 75-984</annotation>
+        <annotation doc="City of Balt., Md., Ord. 77-590" type="History">Ord. 77-590</annotation>
+        <annotation type="History">Text Conformed 02/12/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (8) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-438" eff="2025-01-01" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-5</num>
+      <heading>Cooperation with civic groups.</heading>
+      <text>The Commission shall invite and enlist the cooperation of racial, religious, and ethnic groups, community organizations, labor and business organizations, fraternal and benevolent societies, veterans' organizations, professional and technical organizations, and other groups in the City of Baltimore in carrying out its duties, functions, and purposes under <cite path="|4">this article</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 4, §16A</annotation>
+        <annotation doc="City of Balt., Md., Ord. 77-590" type="History">Ord. 77-590</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>3</num>
+    <heading>Unlawful Practices</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>3-1</num>
+      <heading>Employment.</heading>
+      <text>Except where a particular occupation or position reasonably requires, as an essential qualification, the employment of a person or persons of  a particular race, color, religion, national origin, ancestry, sex, age, marital status, physical or mental capability, sexual orientation,  gender identity or expression, or HIV or AIDS status and that qualification is not adopted as a means of circumventing the purpose of this article, it is an unlawful employment practice:</text>
+      <para>
+        <num>(1)</num>
+        <text>for any employer to discriminate against an individual with respect to hire, tenure, promotion, terms, conditions, or privileges of employment or any matter directly or indirectly related to employment;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>for any employer, employment agency, or labor organization to practice discrimination by denying or limiting through a quota system or otherwise, employment or membership opportunities to any group or individual;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>for any employer, employment agency, or labor organization, before employing an individual or admitting an individual to membership, to:</text>
+        <para>
+          <num>(i)</num>
+          <text>make any inquiry about or record of an applicant's race, color, religion, national origin, ancestry, marital status, sexual orientation,  gender identity or expression, or HIV or AIDS status, except as authorized or ordered by the Commission;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>use any form of application for employment or membership that contains questions or entries about race, color, religion, national origin, ancestry, marital status, sexual orientation,  gender identity or expression, or HIV or AIDS status, except as authorized or ordered by the Commission; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>cause to be printed, published, or circulated any notice or advertisement relating to employment or membership that indicates any preference, limitation, specification, or discrimination based on race, color, religion, national origin, ancestry, sex, age, marital status, sexual orientation,  gender identity or expression, or HIV or AIDS status;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>for any employment agency to practice discrimination by failing or refusing properly to classify an individual or to refer him for employment;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>for any labor organization to discriminate against any individual by limiting, segregating, or classifying its membership in any way which would deprive or tend to deprive such individual of employment opportunities or would limit his employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment or would affect adversely his wages, hours, or employment conditions;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>for any labor organization or employers' association established for the purpose of training apprentice candidates, acting individually or jointly, to discriminate against any person with respect to admission or membership, or with respect to terms, conditions of employment or training, placement, or any other benefits;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>for any employer, employment agency, or labor organization to discriminate against any individual because he has sought psychiatric help; or</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>for any employer, employment agency, or labor organization to willfully and repeatedly use an individual's incorrect name or pronouns after being clearly informed of the individual's correct name or pronouns, unless otherwise required by law.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §10</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §10</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1160" type="History">Ord. 71-1160</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-908" type="History">Ord. 75-908</annotation>
+        <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-2</num>
+      <heading>Public accommodations.</heading>
+      <text>It is an unlawful practice for any person, including any owner, lessee, proprietor, superintendent, manager, agent, or employee of a place of public accommodation, resort, or amusement to:</text>
+      <para>
+        <num>(1)</num>
+        <text>discriminate against any person by directly or indirectly withholding from or denying to such person any of the services, advantages, facilities, or privileges offered by such place of public accommodation, resort, or amusement;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>discriminate against any person, in the setting of rates or charges for any of the services, advantages, facilities, or privileges offered by such place of public accommodation, resort, or amusement;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>communicate, publish, advertise, or represent:</text>
+        <para>
+          <num>(i)</num>
+          <text>that any services, advantages, facilities, or privileges of that place of public accommodation, resort, or amusement will be refused, withheld, or denied to any person on account of race, color, religion, national origin, ancestry, sex, marital status, physical or mental disability, sexual orientation,  gender identity or expression, or HIV or AIDS status; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>that the patronage or custom of any person belonging to or purporting to be of any particular race, color, religion, national origin, ancestry, sex, marital status, sexual orientation,  gender identity or expression, or HIV or AIDS status,  or possessing any physical or mental disability, is unwelcome, objectionable, or not acceptable, desired, or solicited; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>willfully and repeatedly use an individual's incorrect name or pronouns after being clearly informed of the individual's correct name or pronouns, unless otherwise required by law.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §11</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §11</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1160" type="History">Ord. 71-1160</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-908" type="History">Ord. 75-908</annotation>
+        <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-3</num>
+      <heading>Education.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>It is an unlawful educational practice for any person, any educational institution, or any owner, superintendent, teacher, professor, manager, trustee, or officer of an educational institution to:</text>
+        <para>
+          <num>(1)</num>
+          <text>discriminate in admissions to such institutions or to restrict or limit the same by quota or otherwise;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>discriminate in the admission of any student to any course or courses of study or programs offered by or in any such educational institution;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>discriminate against any student with respect to any of the facilities of such institution otherwise afforded to students or available to students, whether or not such facilities or accommodations are on or off the campus or owned, rented, or leased for the benefit of students;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>discriminate or promote discrimination by any organization officially recognized by such educational institution with respect to any extra-curricular activities, whether or not those activities take place on or off the campus of said educational institution; except that it shall not be considered to be discriminatory if such organizations restrict their membership or their activities to one sex or the other;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>discriminate against any person in the establishment of rates, fees, or tuition for any service or program offered by such educational institution, or by any owner, superintendent, teacher, professor, manager, or officer thereof;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>communicate, publish, advertise, or represent:</text>
+          <para>
+            <num>(i)</num>
+            <text>that any of the courses, services, programs, facilities, lectures, affairs, or privileges are withheld from or denied to any person on a discriminatory basis; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>that any person is unwelcome, objectionable, or unacceptable because of race, color, religion, national origin, ancestry, sex, marital status, physical or mental disability, sexual orientation, gender identity or expression, or HIV or AIDS status;</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>discriminate in admissions to such institutions or in admission to any course or courses of study or programs offered by any educational institution because of a mental or physical disability of a student except where specific physical or mental skills may be reasonably required; or</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>willfully and repeatedly use an individual's incorrect name or pronouns after being clearly informed of the individual's correct name or pronouns, unless otherwise required by law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Exemptions.</em>
+        </text>
+        <text>This section is subject to the exemptions based upon religious principles provided in <cite path="|4|1|1-1|(f)">§ 1-1(f)</cite> of <cite path="|4">this article</cite>.
+        </text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §12</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §12</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1160" type="History">Ord. 71-1160</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-908" type="History">Ord. 75-908</annotation>
+        <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-4</num>
+      <heading>Health and welfare agencies.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>It is an unlawful practice for any health and welfare agency or any owner, supervisor, staff person, director, manager, or officer of a health and welfare agency to:</text>
+        <para>
+          <num>(1)</num>
+          <text>discriminate against any person by refusing, denying, or withholding from him any of the services, programs, benefits, facilities, or privileges of any health and welfare program or service;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>discriminate against any person in the setting of rates or charges for any of the services, programs, benefits, facilities, or privileges of any such agency; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>communicate, publish, advertise, or represent:</text>
+          <para>
+            <num>(i)</num>
+            <text>that any of the services, programs, benefits, facilities, or privileges of any health and welfare agency are withheld from or denied to any person on a discriminatory basis; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>that the patronage of any person is unwelcome, objectionable, or unacceptable because of race, color, religion, national origin, ancestry, sex, marital status, physical or mental disability, sexual orientation,  gender identity or expression, or HIV or AIDS status; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>based on an individual's sexual orientation, gender identity or expression, or HIV or AIDS status:</text>
+          <para>
+            <num>(i)</num>
+            <text>deny admission to a facility, transfer or refuse to transfer the individual within a facility or to another facility, or discharge or evicts an individual from a facility;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>deny a request by individuals to share a room in a facility;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>if rooms are assigned by gender, assign, reassign, or refuse to assign a room to a transgender individual other than in accordance with the individual's gender identity, unless at the individual's request;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>prohibit an individual from using, or harassing an individual who seeks to use or does use, a restroom available to other individuals of the same gender identity, regardless of whether the individual is  making a gender transition or appears to be gender- nonconforming;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>willfully and repeatedly use an individual's incorrect name or pronouns after being clearly informed of the individual's correct name or pronouns, unless otherwise required by law;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>deny an individual the right to wear or be dressed in clothing, accessories, or cosmetics that are allowed for any other individual;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>restrict an individual's right to associate with other individuals, including the right to consensual sexual relations, unless the restriction uniformly applies to all individuals in a nondiscriminatory manner;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>deny or restrict medical or nonmedical care; or</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>provide medical or nonmedical care in a manner that, to a similarly situated reasonable individual, unduly demeans the individual's dignity or causes avoidable discomfort.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Notice requirement.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>A facility must post prominently, and must include with any materials that describe the facility's nondiscrimination policies, a notice that:</text>
+          <para>
+            <num>(i)</num>
+            <text>meets the requirements of this subsection; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>is in a form prescribed by the Director.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Contents.</em>
+          </text>
+          <text>The notice required under this subsection must include:</text>
+          <para>
+            <num>(i)</num>
+            <text>a statement that the law prohibits discrimination, including bullying, abuse, or harassment, on the basis of actual or perceived sexual orientation, gender identity, gender expression, or HIV or AIDS status; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>information about enforcement under City Code <cite path="|4|4">Article 4, Subtitle 4 {"Enforcement"}</cite>.
+            </text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §12</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §12</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 71-1160" type="History">Ord. 71-1160</annotation>
+        <annotation doc="City of Balt., Md., Ord. 75-908" type="History">Ord. 75-908</annotation>
+        <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-5</num>
+      <heading>Housing.</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>It is an unlawful discriminatory housing practice, because of race, color, religion, national origin, ancestry, sex, age, marital status, familial status, physical or mental disability, sexual orientation, gender identity or expression,  source of income, or HIV or AIDS status, for any person having the right to sell, rent, lease, control, construct, or manage any dwelling constructed or to be constructed, or for any employee of such a person:</text>
+        <para>
+          <num>(1)</num>
+          <text>to refuse to negotiate for the sale or rental or to refuse to sell or rent or otherwise deny to or withhold any dwelling from any person;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to discriminate against any person in the terms, conditions, or privileges of the sale or rental of any dwelling or in the furnishing of facilities or services in connection therewith;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to refuse to receive or transmit a bona fide offer to purchase, rent, or lease any dwelling from any person;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>to make, print, or publish, or cause to be made, printed, or published, any notice, statement, or advertisement, with respect to the sale or rental of a dwelling, that indicates any preference, limitation, or discrimination, or any intention to make any such preference, limitation, or discrimination;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>to represent to any person that any dwelling is not available for inspection, sale, or rental when such dwelling is in fact so available;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>to discriminate in allowing or disallowing a person access to or membership or participation in any multiple-listing service, real estate broker's organization or other service, organization, or facility relating to the business of selling or renting dwellings, or to discriminate in the terms or conditions of such access, membership, or participation;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>to include in any transfer, sale, or rental of housing any restrictive covenant that discriminates;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>to honor or exercise, or attempt to honor or exercise any discriminatory covenant pertaining to housing;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>to refuse to consider 2 or more applicants' incomes when they seek to buy or rent a dwelling or dwelling unit;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>to refuse to consider alimony or child support awarded by a court and received by an applicant as a valid source of income, when that source can be verified as to its amount, length of time received, and regularity of receipt;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>to request or consider information about birth control practices in evaluating any prospective buyer or lessee of a dwelling;</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>to discriminate in the sale or rental of, or to otherwise make unavailable or deny, a dwelling to any buyer or renter because of a mental or physical disability of:</text>
+          <para>
+            <num>(i)</num>
+            <text>that buyer or renter;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a person residing in or intending to reside in that dwelling after it is so sold, rented, or made available; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any person associated with that buyer or renter;</text>
+          </para>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>to discriminate against any person in the terms, conditions, or privileges of sale or rental of a dwelling, or in the provision of services or facilities in connection     with such dwelling, because of a mental or physical disability of:</text>
+          <para>
+            <num>(i)</num>
+            <text>that person;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a person residing in or intending to reside in that dwelling after it is so sold, rented, or made available; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any person associated with that person; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>to willfully and repeatedly use an individual's incorrect name or pronouns after being clearly informed of the individual's correct name or pronouns, unless otherwise required by law.</text>
+        </para>
+        <text>(a-1)<em>  Source of income exception</em>.
+        </text>
+        <para>
+          <num>(1)</num>
+          <text><em>Qualifying housing development defined</em>.
+          </text>
+          <text>In this subsection, "qualifying housing development" means a development consisting of 5 or more contiguous rental dwelling units in which 20% or more of the dwelling units are rented to persons whose source of income is derived in whole or in part from housing assistance certificates or vouchers issued under the United States Housing Act of 1937.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text><em>Exception</em>.
+          </text>
+          <text>The prohibitions in subsection (a) of this section, as they relate to source of income, do not apply to a qualifying housing development in Baltimore City.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text><em>Termination of subsection</em>.
+          </text>
+          <text>The exception in this subsection automatically expires on June 30, 2023, unless the City Council, after causing an appropriate study to be undertaken, conducting public hearings, and hearing testimonial evidence, finds that the exception remains in the public interest, in which case this subsection may be extended for 4 more years.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Persons with disabilities.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>For purposes of subsections (a)(12) and (a)(13), discrimination includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>a refusal to permit, at the expense of the handicapped person, reasonable modifications of existing premises occupied or to be occupied by such person if such modifications may be necessary to afford such person full enjoyment of the premises, except that, in the case of a rental, the landlord may where it is reasonable to do so condition permission for a modification on the renter agreeing to restore the interior of the premises to the condition that existed before the modification, reasonable wear and tear excepted;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a refusal to make reasonable accommodations in rules, policies, practices, or services, when such accommodations may be necessary to afford such person equal opportunity to use and enjoy a dwelling; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>in connection with the design and construction of covered multifamily dwellings for first occupancy after the date that is 30 months after the date of enactment of the Fair Housing Amendments Act of 1988, a failure to design and construct those dwellings in such a manner that:</text>
+            <para>
+              <num>(A)</num>
+              <text>the public use and common use portions of such dwellings are readily accessible to and usable by handicapped persons;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>all the doors designed to allow passage into and within all premises within such dwellings are sufficiently wide to allow passage by handicapped persons in wheelchairs; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>all premises within such dwellings contain the following features of adaptive design:</text>
+              <para>
+                <num>1.</num>
+                <text>an accessible route into and through the dwelling;</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>light switches, electrical outlets, thermostats, and other environmental controls in accessible locations;</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>reinforcements in bathroom walls to allow later installation of grab bars; and</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>usable kitchens and bathrooms such that an individual in a wheelchair can maneuver about the space.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As used in this subsection, the term "covered multifamily dwellings" means:</text>
+          <para>
+            <num>(i)</num>
+            <text>buildings consisting of 4 or more units if such buildings have 1 or more elevators; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>ground floor units in other buildings consisting of 4 or more units.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Nothing in this section requires that a dwelling be made available to an individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Unlawful insuring practices.</em>
+        </text>
+        <text>It is an unlawful insuring practice for any person to refuse to enter into or to discriminate in the terms, conditions, or privileges of a contract of insurance against hazards to a dwelling because of the race, color, religion, national origin, ancestry, sex, age, marital status, familial status, physical or mental disability, sexual orientation,  gender identity or expression, or HIV or AIDS status,  of any person owning, residing in, or residing in the vicinity of the dwelling.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><em>Unlawful financing practices</em>.
+        </text>
+        <text>It is an unlawful financial practice for any person:</text>
+        <para>
+          <num>(1)</num>
+          <text>to discriminate against any person because of race, color, religion, national origin, ancestry, sex, age, marital status, familial status, physical or mental disability, sexual orientation,  gender identity or expression, or HIV or AIDS status,  in connection with an application for financial assistance for the purchase, construction, improvement, repair, or maintenance of a dwelling or for financial assistance secured by residential real estate, including but not limited to rates, terms, conditions, privileges, or other provisions of financial assistance or in the extension of related services;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to use a form of application for financial assistance for the purchase, construction, improvement, repair, or maintenance of a dwelling, or for financial assistance secured by residential real estate, or to make inquiry or keep a record in connection thereto which indicates, directly or indirectly, discrimination;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to discriminate by refusing to give full recognition to the income of each applicant, the total income and expenses of all applicants who become or are prepared to become joint obligors for the purchase of a dwelling;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>to refuse to consider alimony or child support awarded by a court and received by an applicant as a valid source of income, when that source can be verified as to its amount, length of time received, and regularity of receipt; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>to discriminate in appraising the value of residential real property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <em>Unlawful representations.</em>
+        </text>
+        <text>It is an unlawful practice for a person, for the purpose of inducing or discouraging a real estate transaction:</text>
+        <para>
+          <num>(1)</num>
+          <text>to represent that a change has occurred or will or may occur with respect to race, color, religion, national origin, ancestry, sex, age, marital status, physical or mental disability, sexual orientation,  gender identity or expression, or HIV or AIDS status,  in the composition of the owners or occupants in the block, neighborhood, or area in which the dwelling is located; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to represent that a change with respect to race, color, religion, national origin, ancestry, sex, age, marital status, physical or mental disability, sexual orientation,  gender identity or expression, or HIV or AIDS status,  in the composition of the owners or occupants in the block, neighborhood, or area in which the dwelling is located will or may result in the lowering of property values, an increase in criminal or anti-social behavior, or a decline in the quality of schools.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><em>Restrictive covenants declared void</em>.
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Any restrictive covenant, whether heretofore or hereafter included in an instrument affecting the title to real or leasehold property, is declared to be null, void, and of no effect, and contrary to public policy, as well as contrary to the Constitution and the laws of the United States.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who is asked to accept a document affecting title to real or leasehold property may decline to accept the same if it includes such a covenant until the covenant has been deleted from the document.  Refusal to accept delivery of an instrument for this reason shall not be deemed a breach of a contract to purchase, lease, mortgage, or otherwise deal with such property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text><em>Exemptions — single-sex housing</em>.
+        </text>
+        <text>Nothing in this section shall be construed to bar any person from renting or advertising any dwelling for occupancy by a single sex, where the physical limitations or configuration of the housing facility, or considerations of personal privacy or personal safety, make it inappropriate for the facility to be occupied by persons of both sexes.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>
+          <em>Exemptions — housing for older persons.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Nothing in this section regarding familial status or age shall apply to housing for older persons.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As used in this section "housing for older persons" means housing:</text>
+          <para>
+            <num>(i)</num>
+            <text>provided under any city, state, or federal program specifically designed and operated to assist elderly persons (as defined in the city, state, or federal program);</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>intended for, and occupied solely by, persons 62 years of age or older; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>intended and operated for occupancy by at least 1 person 55 years of age or older per unit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For housing to qualify as housing for older persons, the following conditions are required:</text>
+          <para>
+            <num>(i)</num>
+            <text>the existence of significant facilities and services specifically designed to meet the physical or social needs of older persons, or if the provision of such facilities and services is not practicable, that such housing is necessary to provide important housing opportunities for older persons;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>that at least 80% of the units are occupied by at least 1 person 55 years of age or older per unit; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the publication of, and adherence to, policies and procedures which demonstrate an intent by the owner or manager to provide housing for persons 55 years of age or older.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Housing shall not fail to meet the requirements for housing for older persons by reason of:</text>
+          <para>
+            <num>(i)</num>
+            <text>persons residing in such housing as of the date of enactment of this ordinance who do not meet the age requirements of paragraph (2)(ii) or (iii) of this subsection, provided that new occupants of such housing meet the age requirements of paragraph (2)(ii) or (iii) of this subsection; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>unoccupied units, provided that such units are reserved for occupancy by persons who meet the age requirements of paragraph (2)(ii) or (iii) of this subsection.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>
+          <em>Exemptions — owner-occupied dwellings; religious institutions.</em>
+        </text>
+        <text>Nothing in this section shall apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>to the rental of a dwelling unit in a building which contains not more than 4 dwelling units, provided the owner resides in 1 of the units;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to the rental of not more than 2 rooming units in a dwelling unit by any person if the person resides in the dwelling unit; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to a religious institution, or to an organization operated for charitable or educational purposes, which is operated, supervised or controlled by a religious corporation, association or society, to the extent that the religious corporation, association or society limits, or gives preference in the sale, lease, rental, assignment, or sublease of residential real property which it owns or operates for other than a commercial purpose, to individuals of the same religion, or makes a selection of buyers, tenants, lessees, assignees, or sublessees, that is calculated by such religious corporation, association, or society to promote the religious principles for which it is established or maintained; provided that membership in such religion is not restricted on account of race, color, or national origin.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>
+          <em>Exemptions — governmental occupancy limits.</em>
+        </text>
+        <text>Nothing in this section limits the applicability of local, state, or federal restrictions regarding the maximum number of occupants permitted to occupy a dwelling.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text><em>Exemptions — persons convicted of certain drug offenses</em>.
+        </text>
+        <text>Nothing in this section prohibits conduct against a person because such person has been convicted by any court of competent jurisdiction of the illegal manufacture or distribution of a controlled substance as defined in § 102 of the Controlled Substances Act (21 U.S.C. 802) or a controlled dangerous substance as defined in § 277, Article 27 - Crimes and Punishments, Annotated Code of Maryland, 1987 Replacement Volume, as amended.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 4, §13A</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-6</num>
+      <heading>Ancillary prohibitions.</heading>
+      <text>It shall be an unlawful practice for any person:</text>
+      <para>
+        <num>(1)</num>
+        <text>to aid, abet, incite, compel, or coerce the doing of any act or to attempt to commit any act declared unlawful by the provisions of <cite path="|4">this article</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>to penalize or discriminate against any person because that person has opposed any practice made unlawful by <cite path="|4">this article</cite> or because that person has made a complaint, testified, or assisted in any manner in any investigation or proceeding hereunder;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>to intimidate in any way any person who is attempting to exercise the rights provided for in <cite path="|4">this article</cite>; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>to obstruct, prevent, or discourage any person from complying with the provisions of <cite path="|4">this article</cite> or any order issued hereunder.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §14</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §14</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation doc="City of Balt., Md., Ord. 91-739" type="History">Ord. 91-739</annotation>
+        <annotation doc="City of Balt., Md., Ord. 19-234" type="History">Ord. 19-234</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>4</num>
+    <heading>Enforcement</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>4-1</num>
+      <heading>Complaints.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>By aggrieved person.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any person claiming to be aggrieved by an alleged unlawful practice may, by himself or his attorney, make, sign, and file with the Commission a complaint in writing under oath.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The complaint shall state the name and address of the person alleged to have committed the unlawful practice (hereinafter referred to as the respondent) and the particulars thereof, and contain such information as may be required by the Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>By Commission.</heading>
+        <text>Whenever it has reason to believe that any person has been engaged or is engaging in any unlawful practice, the Commission may issue a complaint.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>By employer of violator.</heading>
+        <text>Any respondent whose employees refuse or threaten to refuse to comply with the provisions of <cite path="|4">this article</cite> may, by himself or his attorney, file with the Commission a written complaint under oath asking for assistance by conciliation or other remedial action.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §17</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §17</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-2</num>
+      <heading>Investigations.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Referral for investigation.</heading>
+        <para>
+          <num>(1)</num>
+          <text>After the filing of any complaint, the Director shall consider such complaint and, if deemed appropriate, shall refer the complaint to the appropriate section of the Commission's staff for prompt investigation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Chair of the Commission shall not sit on any hearing panel involving any complaint initiated by the Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Findings of fact.</heading>
+        <text>The results of all investigations shall be reduced to written findings of fact.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Probable cause — conference.</heading>
+        <para>
+          <num>(1)</num>
+          <text>If the finding is made that there is probable cause for believing that an unlawful practice has been or is being committed, the Commission's staff shall immediately endeavor to eliminate the unlawful practice by conference, conciliation, and persuasion.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Where the unlawful practice pertains to employment, the Commission's staff shall be authorized to require as a condition, the elimination of the unlawful practice, upgrading, or reinstatement of the employee discriminated against, with or without back pay, hiring, or acceptance in any respondent labor organization, as the situation may warrant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Probable cause — written agreement or finding.</heading>
+        <para>
+          <num>(1)</num>
+          <text>If an agreement is reached for the elimination of such unlawful practice as a result of such conference, conciliation, and persuasion, the agreement shall be reduced to writing and signed by the respondent, and an order shall be entered by the Commission setting forth the terms of said agreement.  No order shall be entered by the Commission at this stage of the proceedings except upon such written agreement.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If no such agreement can be reached, a finding to that effect shall be made and reduced to writing, with a copy thereof furnished to the complainant and the respondent.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>No probable cause — appeal by complainant.</heading>
+        <para>
+          <num>(1)</num>
+          <text>If the finding is made that there is no probable cause, said finding shall be reduced to writing and a copy promptly mailed by certified mail to the complainant and to the respondent.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Within 7 days after receipt thereof, the complainant shall have the right to appeal such finding to the Commission by filing a written statement with it.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Confidentiality of proceedings.</heading>
+        <text>Neither the Commission nor its staff shall disclose what has transpired during the course of any investigation; nor shall any publicity be given to any negotiations or to the fact that a complaint has been filed.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §18</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §18</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 77-590" type="History">Ord. 77-590</annotation>
+        <annotation doc="City of Balt., Md., Ord. 83-1026" type="History">Ord. 83-1026</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-3</num>
+      <heading>Hearings.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Certification to Chair.</heading>
+        <text>In case of failure to reach an agreement for the elimination of such unlawful practice, and upon the entry of findings to that effect, the entire file, including the complaint and any and all findings made, shall be certified to the Chairman of the Commission.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Designation of hearing examiner; notice to respondent.</heading>
+        <text>A hearing examiner who shall not be a member of the Commission shall be designated to hear the complaint and shall cause to be issued and served in the name of the Commission a written notice, together with a copy of the complaint, as the same may have been amended, and a copy of the findings of fact, requiring the respondent to answer the charges of the complaint at a public hearing before the hearing examiner, at a time and place to be specified in the notice.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Answer; attendance at hearing.</heading>
+        <text>The respondent may file a written answer to the complaint and appear at the hearing in person or otherwise, with or without counsel, and submit testimony and be fully heard and otherwise examine and cross-examine witnesses.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Amendments; testimony.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The hearing examiner conducting any hearing may permit reasonable amendment to any complaint or answer.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Testimony at the hearing shall be under oath and recorded.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Decision and order.</heading>
+        <para>
+          <num>(1)</num>
+          <text>After hearing all the evidence, the hearing examiner shall recommend a decision and an order to be approved by the Commission.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Commission shall issue and cause to be served on such respondent an order requiring such respondent to:</text>
+          <para>
+            <num>(i)</num>
+            <text>cease and desist from such unlawful practice; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>take such affirmative action including (but not limited to) hiring, reinstatement, or upgrading of employees with or without back pay, the sale or rental of the dwelling sought by the complainant, or a similar dwelling, restoration to membership in any respondent labor organization, admission to or participation in a guidance program, apprenticeship training program, on-the-job training program or other occupational training or retraining program, where such programs are an established part of an employer's labor policy, the extension of fair and equal advantages, facilities and privileges to all persons as required by the provisions of <cite path="|4">this article</cite>, awarding of compensatory damages to the person aggrieved by such practice, as, in the judgment of the Commission, will effectuate the purposes of <cite path="|4">this article</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Compensatory damages may include compensation for humiliation, embarrassment, and emotional distress, for expenses incurred in obtaining alternate housing accommodations, and for other expenses incurred by an aggrieved person as a direct result of any unlawful discriminatory practice.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>For a violation of any provision of § 3-5, the Commission may also impose a civil penalty of not more than $1,000, and each day that a violation continues constitutes a separate offense, with maximum amounts assessable as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>in an amount not exceeding $10,000, if the respondent has not been adjudged to have committed any prior discriminatory housing practice;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>in an amount not exceeding $25,000, if the respondent has been adjudged to have committed 1 other discriminatory housing practice during the 5-year period ending on the date of the filing of this complaint; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>in an amount not exceeding $50,000, if the respondent has been adjudged to have committed 2 or more discriminatory housing practices during the 7-year period ending on the date of the filing of this complaint;</text>
+            <text>except that if the acts constituting the discriminatory housing practice that is the object of the complaint are committed by the same natural person who has been previously adjudged to have committed acts constituting a discriminatory housing practice, then the civil penalties set forth in subparagraphs (ii) and (iii) may be imposed without regard to the period of time within which any subsequent discriminatory housing practice occurred.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Standard of proof for monetary awards.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any award made for damages compensable under <cite path="|4">this article</cite> shall be made only upon reasonable and competent evidence that the damages resulted from the respondent's unlawful discriminatory act or practice.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any award made for expenses compensable under <cite path="|4">this article</cite> shall be made only upon the production of documentary evidence of such expenses, including but not limited to bills, receipts, canceled checks, and invoices.  An award for any other compensable damages may be made on reasonable and credible testimony and evidence.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Rules and regulations.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission may adopt administrative and procedural rules and regulations governing hearings before the hearing examiners.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §19</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §19(a) - (f)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 77-590" type="History">Ord. 77-590</annotation>
+        <annotation doc="City of Balt., Md., Ord. 87-981" type="History">Ord. 87-981</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation type="History">Text Conformed 02/12/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (g) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-4</num>
+      <heading>Judicial and appellate review.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Judicial review.</heading>
+        <text>In a contested case, a respondent aggrieved by a final decision of the Commission may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Appellate review.</heading>
+        <text>A party to the judicial review may appeal the court's final judgment to the Court of Special Appeals in accordance with the Maryland Rules of Procedure.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 4, §19(g)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-672" type="History">Ord. 04-672</annotation>
+        <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-5</num>
+      <heading>Public notice of violation.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>If no appeal taken.</heading>
+        <text>After public hearing and after the time for judicial appeal has passed without appeal having been taken, the Commission may publish or cause to be published the name of any person who has been found to have engaged in a violation of <cite path="|4">this article</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>If appeal taken.</heading>
+        <text>If a respondent takes an appeal from a decision of the Commission, the Commission shall not publish the name of the respondent until the appeal process is exhausted.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 4, §19(h)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-6</num>
+      <heading>Action by Law Department</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Commission may refer to Law Department.</heading>
+        <text>In the event any respondent refuses to comply with an order of the Commission (as to any matter other than those covered by <cite path="|4|§2-4|(11)">§ 2-4(11) of this article</cite>) or in the event, at any time after the filing of a complaint the Commission determines that the alleged unlawful practice will have become final and unrectifiable unless restrained, the Commission may certify the matter to the City Law Department.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Law Department to file action.</heading>
+        <text>The City Law Department shall thereupon proceed, in the name of the Mayor and City Council of Baltimore, as soon as reasonably possible, to invoke the aid of an appropriate court to secure compliance with the Commission's order and with the provisions of <cite path="|4">this article</cite>, or to prevent final, unrectifiable accomplishment of a practice designated as unlawful by <cite path="|4">this article</cite>, as the case may be.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Decision by court.</heading>
+        <text>The court shall have power to grant such temporary relief or restraining order as it deems just and proper and to make and enter an order enforcing, modifying, and enforcing as so modified, or setting aside, in whole or in part, the order of the Commission.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1966, art. 4, §20</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 4, §20(a)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 64-103" type="History">Ord. 64-103</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-019" type="History">Ord. 76-019</annotation>
+        <annotation doc="City of Balt., Md., Ord. 77-590" type="History">Ord. 77-590</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-7</num>
+      <heading>Exhaustion of remedies not required.</heading>
+      <text>Nothing in <cite path="|4">this article</cite> shall be construed to require a person to exhaust the administrative remedies provided by <cite path="|4">this article</cite> prior to initiating a civil action.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 4, §20(b)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-8</num>
+      <heading>Violation by broker, etc.</heading>
+      <text>Where a real estate broker, associate real estate broker, real estate operator, or real estate salesperson licensed by the Real Estate Commission of Maryland has failed to comply with an order issued by the Commission or has been found to have committed an unlawful discriminatory housing practice in violation of <cite path="|4">this article</cite>, the Commission shall promptly notify in writing the Real Estate Commission of the State of Maryland of said violation or failure to comply.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 4, §20(c)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-437" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-437</num>
+  <num type="bill">24-0554</num>
+  <heading type="short">Building, Fire, and Related Codes - Corrective Amendment</heading>
+  <heading type="long">An Ordinance Concerning Building, Fire, and Related Codes - Corrective Amendment</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-06-24</introduced>
+    <effective>2024-12-02</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/7c9cba4c-6094-4921-9202-f90f6ccbb5d8.pdf">Ord. 24-437</citation>
+    </citations>
+    <history>
+      <vote date="2024-06-24" reading="first"/>
+      <vote date="2024-11-18" reading="second"/>
+      <enacted>2024-12-02</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="building-codes|II|1|109|109.5|109.5.3|1." codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|109|109.5|109.5.3|1.">
+      <para>
+        <num>1.</num>
+        <text>If the application for extension is made within 90 days after the permit expires, the fee for the extension is $25.</text>
+      </para>
+    </codify:replace>
+  </section>
+</document>

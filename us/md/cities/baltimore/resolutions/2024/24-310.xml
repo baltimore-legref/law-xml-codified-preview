@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Res. 24-310" codify:doc="City of Baltimore, Md., Charter">
+  <num type="law">24-310</num>
+  <num type="bill">23-0445</num>
+  <heading type="short">Charter Amendment – Baltimore City Police Department</heading>
+  <heading type="long">A Resolution of the Mayor and City Council Concerning Charter Amendment – Baltimore City Police Department</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-10-30</introduced>
+    <effective>2024-11-05</effective>
+    <citations>
+      <citation type="res" url="./adopted/24-310.pdf">Res. 24-310</citation>
+    </citations>
+    <history>
+      <vote date="2023-10-30" reading="first"/>
+      <vote date="2023-12-18" reading="second"/>
+      <adopted>2024-11-05</adopted>
+      <committee>Favorable, with amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="IV|§6|(b)" codified:doc="City of Baltimore, Md., Charter" codified:path="IV|§6|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Terms of officers.</heading>
+        <text>The terms of all municipal officers appointed by the Mayor shall expire at the end of four years or at the end of the Mayor's term of office, whichever first occurs, with the exception of the terms of the City Administrator, the Police Commissioner, and some members of the Board of School Commissioners, the Civil Service Commission, the Planning Commission, the Board of Municipal and Zoning Appeals, the advisory board established by <cite path="X|§2" doc="City of Balt., Md., Res. 24-310">Article X, Section 2</cite> of this Charter, and those boards and commissions governed by State or federal law.  The terms of the City Administrator, the Police Commissioner, and the members of these boards and commissions are prescribed elsewhere in the Charter or by other law.</text>
+      </para>
+    </codify:replace>
+    <codify:insert path="VII|baltimore-city-police-department" codified:doc="City of Baltimore, Md., Charter" codified:path="VII|§142">
+      <section>
+        <prefix>§</prefix>
+        <num>142</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>For §§ 141 through 146 of this article, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Commissioner.</heading>
+          <text>"Commissioner" means the Police Commissioner of Baltimore City.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Department.</heading>
+          <text>"Department" means the Baltimore City Police Department.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Department staff.</heading>
+          <text>"Department staff" means an individual employed by the Mayor and City Council of Baltimore assigned to work for the Department, whether a civilian or a police officer.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Police officer.</heading>
+          <text>"Police officer" means a person who is:</text>
+          <para>
+            <num>(1)</num>
+            <text>legally authorized to enforce the general criminal laws of the State;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>legally authorized to enforce the criminal and civil laws of the City; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>an employee of the Mayor and City Council of Baltimore.</text>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="VII|baltimore-city-police-department" codified:doc="City of Baltimore, Md., Charter" codified:path="VII|§143">
+      <section>
+        <prefix>§</prefix>
+        <num>143</num>
+        <heading>Commissioner.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Head of Department; Qualifications.</heading>
+          <text>The Police Commissioner shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>be at least 30 years of age; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>have at least 5 years of experience in law enforcement.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Appointment.</heading>
+          <text>The Commissioner shall be appointed and must be confirmed pursuant to City Charter Article IV, § 6(a) {"Appointments subject to confirmation"}.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Term.</heading>
+          <text>The term of the Commissioner shall be established by the Mayor.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Salary.</heading>
+          <text>The Commissioner shall be paid a salary as provided for in the Ordinance of Estimates.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Staff.</heading>
+          <text>The Commissioner may appoint such employees as provided in the Ordinance of Estimates.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="VII|baltimore-city-police-department" codified:doc="City of Baltimore, Md., Charter" codified:path="VII|§144">
+      <section>
+        <prefix>§</prefix>
+        <num>144</num>
+        <heading>Commissioner: Powers.</heading>
+        <text>The Commissioner shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>determine and establish the form and organization of the Department;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>appoint individuals above the rank of lieutenant;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>as necessary to best serve the interests of the City:</text>
+          <para>
+            <num>(i)</num>
+            <text>assign, reassign, allocate, and reallocate duties to Department staff; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>assign, reassign, allocate, and reallocate Department staff to organizational subdivisions of the Department;</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>determine and establish:</text>
+          <para>
+            <num>(i)</num>
+            <text>the classification of ranks, grades, and positions;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>uniform insignia;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the powers, duties, rights, and privileges for Department staff; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the order of succession for positions of command;</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>with the consent of the Department of Human Resources, determine and establish positions within the Department for civilian employees;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>appoint, promote, reduce in rank, grade, or position, reassign, reclassify, retire, and discharge  Department staff  in the manner prescribed by law;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>institute a system of:</text>
+          <para>
+            <num>(i)</num>
+            <text>periodic performance evaluation for Department staff; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>regular physical examination of Department staff, as necessary for the employee to effectively perform assigned duties;</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>make and execute contracts and other instruments as may be authorized in the exercise and performance of the powers of the Commissioner and the Department;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>establish, maintain, and modify systems for the reception, processing, and maintenance of:</text>
+          <para>
+            <num>(i)</num>
+            <text>reports and records of occurrences or alleged occurrences of crime within the City; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>reports and records of the administration, management, and operation of the Department; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>adopt rules and regulations to effectively discharge the powers and
+			  duties of the Commissioner and Department.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="VII|baltimore-city-police-department" codified:doc="City of Baltimore, Md., Charter" codified:path="VII|§145">
+      <section>
+        <prefix>§</prefix>
+        <num>145</num>
+        <heading>Department: Powers and duties.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Purpose.</heading>
+          <text>The purpose of the Department is to:</text>
+          <para>
+            <num>(1)</num>
+            <text>safeguard the lives and safety of all individuals within the City;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>protect property within the City; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>assist in securing to all individuals the equal protection of the law.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Powers.</heading>
+          <text>The Department shall have, within the boundaries of the City, the power to:</text>
+          <para>
+            <num>(1)</num>
+            <text>maintain the orderly flow of traffic in the public right of way; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>assist law enforcement agencies of:</text>
+            <para>
+              <num>(i)</num>
+              <text>the State; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any official unit of federal, tribal, state, or local government within the United States.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Duties.</heading>
+          <text>The Department shall have, within the boundaries of the City, the specific duty and responsibility to:</text>
+          <para>
+            <num>(1)</num>
+            <text>preserve the public peace;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>detect and prevent the commission of crime;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>enforce the laws of:</text>
+            <para>
+              <num>(i)</num>
+              <text>the State; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the Mayor and City Council of Baltimore;</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>apprehend and arrest individuals who violate or are lawfully accused of violating the law;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>preserve order at public places; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>discharge its duties and responsibilities with dignity and in a manner that will inspire public confidence and respect.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Duties: Outside the City.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>The Department shall perform the duties set forth in subsection (b) of this section within those areas outside the corporate limits of the City which are, from time to time, owned, controlled, operated, or leased by the Mayor and City Council of Baltimore or any unit of City government.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Concurrent jurisdiction.</heading>
+            <text>In those areas described in paragraph (1) of this subsection:</text>
+            <para>
+              <num>(i)</num>
+              <text>the authority and duties of the Department shall be concurrent with that of any police department or police agency in the jurisdiction in which such areas are located; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>nothing contained herein shall limit or adversely affect the jurisdiction and authority of any police department or police agency in the jurisdiction in which such areas are located.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="VII|baltimore-city-police-department" codified:doc="City of Baltimore, Md., Charter" codified:path="VII|§146">
+      <section>
+        <prefix>§</prefix>
+        <num>146</num>
+        <heading>Police officers: Powers and duties.</heading>
+        <text>All police officers of the Department, including such other Department staff who may be designated by the Commissioner from time to time to exercise the powers and duties of police officers, shall have the authority conferred under Title 2 {"Law Enforcement Procedures; Arrest Process"} of the Criminal Procedure Article of the Annotated Code of Maryland.</text>
+      </section>
+    </codify:insert>
+    <codify:insert path="VII|baltimore-city-police-department" codified:doc="City of Baltimore, Md., Charter" codified:path="VII|§147">
+      <section>
+        <prefix>§</prefix>
+        <num>147</num>
+        <heading>Redistricting.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Commissioner to prepare plan for reallocation of boundaries.</heading>
+          <text>To ensure that the resources of the Department are efficiently allocated, following each decennial census of the United States the Commissioner shall prepare and submit a police district redistricting plan to the Mayor within 1 year from the publication of decennial census data for the reallocation of police district boundaries.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Action by the Mayor.</heading>
+          <text>Within 90 days of receipt of a police district redistricting plan from the Commissioner under subsection (a) of this section and after public hearings the Mayor shall submit a police district redistricting plan for the reallocation of police district boundaries to the City Council for adoption as a resolution of the Mayor and City Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Action by the City Council.</heading>
+          <text>The police district redistricting plan, as it may be amended by the City Council, must be approved by resolution of the Mayor and City Council within 180 days from the date the plan is introduced on the Council floor.</text>
+        </para>
+      </section>
+    </codify:insert>
+  </section>
+</document>

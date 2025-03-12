@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 22-176">
+  <num type="law">22-176</num>
+  <num type="bill">22-0228</num>
+  <heading type="short">Midtown Community Benefits District – Amendment</heading>
+  <heading type="long">An Ordinance Concerning Midtown Community Benefits District – Amendment</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-10-30</introduced>
+    <effective>2022-12-07</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/d819e3a2-617a-44a1-9834-065528b6ba49.pdf">Ord. 22-176</citation>
+    </citations>
+    <history>
+      <vote date="2022-04-25" reading="first"/>
+      <vote date="2022-10-03" reading="second"/>
+      <enacted>2022-11-07</enacted>
+      <committee>Favorable, with amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-2|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-1|annos">
+      <para>
+        <num>(a)</num>
+        <text>
+          <em>In general.</em>
+        </text>
+        <text>There is a community benefits district to be known as the Midtown Community Benefits District, within the following boundaries:</text>
+        <text>Beginning at the point of intersection of the center lines of Franklin Street and Park Avenue; then east along the north side of Franklin Street to intersect with the property line between Lot 4 and Lot 5 of Block 551; then north along that property line continuing across Hamilton Street to intersect with the north side of Centre Street; then east on the north side of Centre Street to intersect with the center line of I-83; then north on 1-83 to intersect with the west side of Calvert Street; then north on the west side of Calvert Street to intersect with the south side of North Avenue; then west on the south side of North Avenue; then continuing west on the south side of North Avenue to intersect with the southeast side of Gold Street; then southwest on the southeast side of Gold Street to intersect with the northeast side of Tiffany Alley; then southeast on the northeast side of Tiffany Alley to intersect with the northwest side of Dolphin Street; then northeast on the northwest and north sides of Dolphin Street to intersect with the northeast side of Madison Avenue; then southeast on the east side of Madison Avenue to intersect with the southeast side of Martin Luther King, Jr. Boulevard; then southwest on the northeast side of Martin Luther King, Jr. Boulevard to intersect with the northeast side of Read Street; then southeast on the northeast side of Read Street to intersect with the east side of Tyson Street; then south on the east side of Tyson Street to intersect with the south side of Monument Street; then west on the south side of Monument Street to intersect with the east side of Howard Street; then south on the east side of Howard Street to intersect with the north side of Centre Street; then east on the north side of Centre Street to intersect with the east side of Park Avenue; then south on the east side of Park Avenue to the point of beginning.</text>
+        <text>Provided, however, that the following property is included in the described area: 1801 Falls Road (Block 387, Lots 25b, 26, 35, 36, 37, and 38).</text>
+      </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-6|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-1|annos">
+      <para>
+        <num>(e)</num>
+        <text>
+          <em>Composition.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>The Board comprises the following voting members:</text>
+          <para>
+            <num>(i)</num>
+            <text>1 member appointed by the Mayor.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>1 member shall be a member of the City Council appointed by the President of the City Council.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>At least 2 members from each of the following constituent organizations within the District:</text>
+            <para>
+              <num>(A)</num>
+              <text>Charles-North Community Association;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Bolton Hill Community Association;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Madison Park Improvement Association, Inc.; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Mt. Vernon-Belvedere Improvement Association.</text>
+            </para>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The Board shall contain 4 at-large members, 1 from each of the following communities comprising the District:</text>
+            <para>
+              <num>(A)</num>
+              <text>Charles-North;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Bolton Hill;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Madison-Park; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Mt. Vernon-Belvedere.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Board may contain additional members from the following constituent groups, as determined by the Board from time to time:</text>
+          <para>
+            <num>(i)</num>
+            <text>up to 3 voting members from the organizations within the District that make voluntary contributions to the District:</text>
+            <para>
+              <num>(A)</num>
+              <text>Maryland Institute College of Art;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>University of Baltimore; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Peabody Institute of the Johns Hopkins University; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>up to 6 voting members representing constituencies that the Board determines in its discretion will enhance the Authority's success in furthering the broad objectives of improving and enhancing public services throughout the District, including, by way of example only, retail merchants, major employers, professionals practicing in the District, and residential tenants.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>At least 2/3 of the Board must be property owners or representatives of property owners subject to the tax imposed by this subtitle.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Consistent with the encouragement of partnerships between the Authority and property owners exempt from the tax imposed by this subtitle, the Board is encouraged to consider representation of exempt partners on the Board.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-8|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-1|annos">
+      <para>
+        <num>(b)</num>
+        <text>
+          <em>Assessment; collection; enforcement.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>The funding for operation of the Authority shall be provided by a supplemental property tax (the "Supplemental Tax") on the assessable base of the District as determined in subsection (a).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Supplemental Tax shall be assessed and collected in conjunction with the property taxes assessed and collected by the City ("Regular Tax"), unless otherwise established by the Board of Estimates.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Enforcement of the Supplemental Tax shall be in accordance with the enforcement of the Regular Tax, and all provisions applicable to the assessments, refunds, collections, and enforcement which apply to the Regular Tax shall apply to the Supplemental Tax unless modified herein.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-8|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-1|annos">
+      <para>
+        <num>(c)</num>
+        <text>
+          <em>Determination of tax.</em>
+        </text>
+        <text>The Supplemental Tax rate shall be determined as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any increase in the rate of the Supplemental Tax must be approved by a majority of the voting Board members.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For the initial budget year, the rate of the Supplemental Tax shall be set to raise revenues equal to the costs of the Financial Plan but shall not exceed a full year rate of 30¢ per $100 of assessed value.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For the first full budget year, the rate of the Supplemental Tax shall be set to raise revenues equal to the costs of the Financial Plan but shall not exceed 30¢ per $100 of assessed value, except that the rate may be adjusted to produce revenue equivalent to the full year 30¢ yield of the initial budget year.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>For any year after the first full budget year, the rate of the Supplemental Tax may be adjusted to yield revenues which are no more than 10% greater than in the prior year unless the increase is approved by 80% or more of the voting Board members.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+</document>

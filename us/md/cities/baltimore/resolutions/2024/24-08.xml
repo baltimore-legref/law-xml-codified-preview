@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Res. 24-08" codify:doc="City of Baltimore, Md., Charter">
+  <num type="law">24-08</num>
+  <num type="bill">23-0380</num>
+  <heading type="short">Charter Amendment - Community Reinvestment and Reparations Fund</heading>
+  <heading type="long">A Resolution of the Mayor and City Council Concerning Charter Amendment - Community Reinvestment and Reparations Fund</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-05-01</introduced>
+    <effective>2024-11-05</effective>
+    <citations>
+      <citation type="res" url="./adopted/24-08.pdf">Res. 24-08</citation>
+    </citations>
+    <history>
+      <vote date="2023-05-01" reading="first"/>
+      <vote date="2024-04-15" reading="second"/>
+      <adopted>2024-11-05</adopted>
+      <committee>Favorable, as amended</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert path="I" codified:doc="City of Baltimore, Md., Charter" codified:path="I|§20">
+      <section>
+        <prefix>§</prefix>
+        <num>20</num>
+        <heading>Community Reinvestment and Reparations Fund.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Purpose.</heading>
+          <text>There is a continuing, nonlapsing fund for purposes of supporting the work of the Community Reinvestment and Reparations Commission, to the extent that the work of the Commission is within the scope of the use limitations in § 1-322 {"Community Reinvestment and Repair Fund"} of the State Alcoholic Beverage and Cannabis Article.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Revenue sources.</heading>
+          <text>The fund established under this section shall comprise:</text>
+          <para>
+            <num>(1)</num>
+            <text>disbursements from the State Comptroller from the State Community Reinvestment and Repair Fund; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>future appropriations from the federal, State, or local government.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Continuing nature of Fund.</heading>
+          <text>Notwithstanding any other provision of this Charter, unspent portions of the Fund established under this section:</text>
+          <para>
+            <num>(1)</num>
+            <text>remain in the Fund, to be used exclusively for their ordained purposes;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>do not revert to the general revenues of the City; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>their appropriations do not lapse.</text>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+  </section>
+</document>

@@ -1,0 +1,2787 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Article</prefix>
+  <num>24</num>
+  <heading>Water</heading>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>1</num>
+    <heading>Director of Public Works</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>1-1</num>
+      <heading>Rules and regulations.</heading>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Public Works may adopt and enforce rules and regulations governing:</text>
+      <para>
+        <num>(1)</num>
+        <text>the operations of the Department of Public Works; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the protection of the City's water supply and facilities.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §1</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §1</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §1</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §1</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §1</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §1</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1862-010" type="History">Ord. 1862-010</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1896-026" type="History">Ord. 1896-026</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-463" type="History">Ord. 48-463</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+        <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-2</num>
+      <heading>Rates and charges.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Assessment; records.</heading>
+        <text>The Director of Public Works shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>assess the water rates or charges on all buildings and premises where the rates are established by law; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>keep suitable books in which shall be entered:</text>
+          <para>
+            <num>(i)</num>
+            <text>all transactions of the department;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the kind of building or premises;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the amount charged;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the names of the owners of all buildings or premises;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>the street and number of the building or premises; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>the front footage.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Meter readings.</heading>
+        <text>The Director of Public Works must ensure that:</text>
+        <para>
+          <num>(1)</num>
+          <text>every consumer's accessible water meter is actively read and the actual reading accurately recorded at least once a month; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>no water bill based on an estimated rather than actual reading is sent to any residential consumer whose water meter is accessible to Department of Public Works employees when they attempt to read the water meter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Charges to be liens.</heading>
+        <text>The charges imposed under <cite path="|24">this article</cite> and all increases, interest, and penalties thereon shall be a lien upon the property of any person liable to pay the same to the City.  Such lien shall be recorded in the Tax Lien Records maintained by the Department of Finance.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §6</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §6</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §5</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §2</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §2</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §2</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1862-010" type="History">Ord. 1862-010</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-462" type="History">Ord. 48-462</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+        <annotation doc="City of Balt., Md., Ord. 79-959" type="History">Ord. 79-959</annotation>
+        <annotation doc="City of Balt., Md., Ord. 11-455" type="History">Ord. 11-455</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-523" type="History">Ord. 16-523</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-3</num>
+      <heading>Payments on claims.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Claims to be certified.</heading>
+        <text>No payments for any claims upon the Department of Public Works shall be made unless the bill or claim be certified by the officer or other person duly authorized to make an agreement or contract for the Director of Public Works.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Order and recording.</heading>
+        <text>All payments shall be ordered by the Director and the order recorded on his records.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §10</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §10</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §9</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §3</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §3</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §3</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1862-010" type="History">Ord. 1862-010</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-496" type="History">Ord. 48-496</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-4</num>
+      <heading>Installations.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Director may install.</heading>
+        <text>The Director of Public Works is empowered and authorized to make installations of water supply service pipes from the water mains to the curb line or, lacking such limit at the time of installation, to a corresponding appropriate location within the public way, or the private way used or intended to be used by the public.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>No tapping, etc., without authorization.</heading>
+        <text>No pipe or main shall be tapped, opened, or reopened for a supply of water unless it be done under the direction of the Director of Public Works.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §13</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §13</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §12</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §4</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §4</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §4</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1862-010" type="History">Ord. 1862-010</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-496" type="History">Ord. 48-496</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-5</num>
+      <heading>Work by contract or labor.</heading>
+      <text>The Department of Public Works is authorized and empowered to do any of the work either by contract or by day labor as in the judgment of the Director of Public Works may be best for the interests of the City, in each instance.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §14</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §14</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §13</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §5</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §5</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §5</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1862-010" type="History">Ord. 1862-010</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-496" type="History">Ord. 48-496</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-6</num>
+      <heading>Suspension, etc., of certain uses.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Director may suspend, etc.</heading>
+        <text>Whenever the Director of Public Works determines that the state of the water supply requires, the Director may issue an order to suspend, condition, limit, or temporarily prohibit the use of water.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Scope.</heading>
+        <text>The Director's order may encompass, as the Director considers appropriate under the circumstances:</text>
+        <para>
+          <num>(1)</num>
+          <text>some or all types of water users, including industrial, commercial, residential, and other users; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>some or all types of water uses, including lawn sprinkling, air conditioning, street or pavement washing, car or other vehicle washing, and industrial or commercial processes.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 48, §26</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §6</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §6</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §6</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-125" type="History">Ord. 04-125</annotation>
+        <annotation doc="City of Balt., Md., Ord. 11-043" type="History">Ord. 11-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-508" type="History">Ord. 48-508</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+      </annotations>
+    </section>
+    <section name="1-7to1-10">
+      <num>1-7 to 1-10</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-11</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>In <cite path="|24">this article</cite>, the following terms have the meanings indicated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Applicant.</heading>
+        <text>"Applicant" means a customer who applies for the Water-for-All Discount Program.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Authorized representative.</heading>
+        <text>"Authorized representative" means a person who has been designated in writing by the applicant or recipient to act on behalf of the applicant or recipient.  The writing need not be notarized.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Customer.</heading>
+        <text>"Customer" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>the owner or tenant of a property who receives or is requesting to receive water or wastewater services from the Department; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>that owner's or tenant's authorized representative.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Department; DPW.</heading>
+        <text>"Department" or "DPW" means the Department of Public Works.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Director; DPW Director.</heading>
+        <text>"Director" or "DPW Director" means the Director of the Department of Public Works or the Director's designee.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Eligible residential- or tenant-water-utility customer.</heading>
+        <text>"Eligible residential-water-utility customer" and "eligible tenant-water-utility customer" mean a customer who is eligible for the  Water-for-All Discount Program.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Household.</heading>
+        <text>"Household" means an individual or group of individuals who are living together as one unit and for whom water and wastewater services are purchased in common.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Recipient.</heading>
+        <text>"Recipient" means a person who is eligible for and enrolled in the Water-for-All Discount Program.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>Residential-water-utility customer.</heading>
+        <text>"Residential-water-utility customer" means a customer:</text>
+        <para>
+          <num>(1)</num>
+          <text>who owns and occupies real property as his or her principal residence;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>whose name appears on Department records or who is a legal heir to a person whose name appears on Department records; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>who is responsible for payment of the cost of water or wastewater services at that residence.</text>
+        </para>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>Tenant.</heading>
+        <text>"Tenant" means an individual who is renting or leasing real property as his or her principal residence.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>Tenant-water-utility customer.</heading>
+        <text>"Tenant-water-utility customer" means a customer who is a tenant and who can verify that he or she pays a landlord, separate from the fixed periodic rent, an amount for water or wastewater services provided to his or her principal residence.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <heading>Unused credit.</heading>
+        <text>"Unused credit" means any portion of a Water-for-All Credit not applied to the recipient's water and wastewater bill or sent to the recipient prior to cut-off of service.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <heading>Water-for-All Credit.</heading>
+        <text>"Water-for-All Credit" means the total credit towards the cost of water or wastewater services for a household that a customer is eligible to receive from the Water-for-All Discount Program for the calendar year, as determined on review of the customer's application.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <heading>Water-for-All Discount Program; Program.</heading>
+        <text>"Water-for-All Discount Program" or "Program" means the Water-for-All Discount Program established under <cite path="|24">this article</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+        <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>2</num>
+    <heading>Bills</heading>
+    <annotations>
+      <annotation type="Editor's Notes">
+        <text>Ordinance 20-468 provides in some detail for the effective dates and interim requirements of the Water Accountability and Equity Act, as follows</text>
+        <text>Section 3.  And be it further ordained, That the Laws of Baltimore City read as follows:</text>
+        <text>Ordinance 20-336</text>
+        <text>Section 6.  And be it further ordained, That, except as provided by Section 4 of this Ordinance, this Ordinance takes effect [6 months after the date it is enacted] on July 1, 2021.</text>
+        <text>Section 4.  And be it further ordained, That Section 3 of this Ordinance takes effect on the date that this Ordinance is enacted {i.e., December 7, 2020}, retroactive to January 13, 2020 (the date on which Ordinance 20-336 was enacted).</text>
+        <text>Section 5.  And be it further ordained, That the Water Accountability and Equity Act, as enacted by Ordinance 20-336 and modified in part by this Ordinance, takes effect on July 1, 2021, subject, however, to the following interim effective dates and requirements:</text>
+        <para>
+          <num>(a)</num>
+          <para>
+            <num>(1)</num>
+            <text>Effective on the date that this Ordinance is enacted <em>{i.e., December 7, 2020}</em>, the Department of Public Works shall recommence preparation of rules and regulations to administer the Water-for-All Discount Program (Art. 24, § 2-6 through § 2-15).</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>On or before April 1, 2021, the Department of Public Works shall publish for public comment its proposed set of those rules and regulations for the Water-for-All Discount Program.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <para>
+            <num>(1)</num>
+            <text>On the date that this Ordinance is enacted, the tenant protections provided in Art. 13, § 7-3(a-1), and Art. 24, § 2-1(d) and (e), take effect.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Within <s>10</s> <u>60</u> business days after this Ordinance is enacted, the Department of Public Works shall notify existing customers of these protections.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <para>
+            <num>(1)</num>
+            <text>On the date that this Ordinance is enacted, the Department of Public Works shall continue to finalize proposed rules and regulations governing the criteria by which to assess whether a bill adjustment is warranted under varying circumstances.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>At least 2 weeks before the first meeting of the Committee for Office Oversight, as scheduled under subsection (f) of this Section 5, the Department of Public Works shall publish for public comment those proposed rules and regulations.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A final version of the rules and regulations, with or without revisions, must be adopted and become effective no later than 1 month after the first meeting of the Committee.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>On or before December 1, 2020, the ECB shall publish for public comment proposed rules and regulations governing ECB hearings (Art. 24, § 2-19(b), (c), and (d) and § 2 21), including simplified rules for hearings in which customers are not represented by legal counsel.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Effective on January 13, 2021:</text>
+          <para>
+            <num>(1)</num>
+            <text>ECB shall begin hearings under Art. 24, § 2-19(b), (c), and (d) and § 2-21;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>DPW shall begin the collection of data, as specified in Art. 24, § 2-17(d), as added by this Ordinance, and shall provide all collected data to the Office (or to its Oversight Committee) as soon as possible and, in any event, no later than July 1, 2021;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>DPW shall implement and abide by Art. 24, § 2-22 {"Continued service, rights pending reviews, etc."}, as amended by this Ordinance;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>DPW and the Finance Department shall implement and abide by Art. 24, § 4-5 {"Installment payment agreement"}, as amended by Ordinance 20-336; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>DPW shall implement the exception in Art. 28, § 4-4 {"Warning of lien and potential foreclosure"}, as added by Ordinance 20-336.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <para>
+            <num>(1)</num>
+            <text>On January 15, 2021, the Committee for Office Oversight shall be activated and effective for the purpose of coordinating with and overseeing DPW's preparations for and implementation of the Water Accountability and Equity Act, as enacted by Ordinance 20-336 and modified in part by this Ordinance.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The first hearing of the Committee shall take place no later than February 15, 2021; a second hearing shall take place no later than May 1, 2021; and hearings thereafter shall be scheduled at approximately 6-month intervals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>On or before March 1, 2021, the Department of Public Works shall publish for public comment proposed  rules and regulations to govern  the Department's coordination with social services agencies pursuant to Art. 24, § 2-17(c)(1)(iii).</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Department of Public Works may not exercise its authority to cut-off a water supply for default or arrearage under Art. 24, § 2-1(c) or § 2-3 and may not impose either service restoration fees or late fees for any individual who is enrolled in any discount program until July 1, 2021, when all provisions of the Water Equity and Accountability Act, as enacted by Ordinance 20-336 and modified in part by this Ordinance, will have taken effect, as provided at the outset of this Section 5.</text>
+        </para>
+      </annotation>
+      <annotation type="Editor's Notes">Ordinance 20-336 {“Water Accountability and Equity Act”} and Ordinance 20-468 {“Water Accountability ... Act – Modifications”} substantially amended Subtitles 2 and 4 of <cite path="|24">this article</cite> and related provisions elsewhere.  Ord. 20-468, enacted December 7, 2020, deferred the effective dates of both these ordinances to July 1, 2021 – subject, however, to several “interim effective dates and requirements”.</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>2-1</num>
+      <heading>Collection.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Finance to collect.</heading>
+        <text>The bills for water used or work done by the Department of Public Works shall be collected by the Department of Finance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>When due.</heading>
+        <text>Unless abated under this subtitle, all bills therefor shall be paid within 20 days after they have been issued.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Cut-off on default.</heading>
+        <text>Subject to the requirements of <cite path="|24">this article</cite>, on default in payment for bills issued under this section, the Department of Public Works may cut off the supply.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Copy of bill to tenant-water-utility customer.</heading>
+        <text>Any landlord that requires a residential tenant to pay for the costs of water or wastewater services shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>include that requirement in a written lease, as provided in City Code <cite path="|13|§7-3|(a-1)">Article 13, § 7-3(a-1)</cite>; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>either:</text>
+          <para>
+            <num>(i)</num>
+            <text>timely provide the tenant with a copy of the water or wastewater bill; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>timely notify the Department that a copy of the bill should be sent to the tenant.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Tenant-water-utility customer requests.</heading>
+        <text>The property owner's or managing operator's refusal or failure to participate in a tenant-water-utility-customer's request to the Department for a discount, bill adjustment, payment plan, or other agency action may not be grounds for the Department to deny the request.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 48, §24</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §7</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §7</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §7</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-125" type="History">Ord. 04-125</annotation>
+        <annotation doc="City of Balt., Md., Ord. 11-043" type="History">Ord. 11-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-501" type="History">Ord. 48-501</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-523" type="History">Ord. 16-523</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-468" type="History">Ord. 20-468</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-2</num>
+      <heading>Abatements.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Director may abate.</heading>
+        <text>The Director of Public Works shall have full power and authority to abate any charge for water made against any property, whether the same be made by meter, fixed charge, or otherwise, whenever the Director in his discretion may, for any cause, deem such abatement proper and advisable.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Scope.</heading>
+        <text>Said abatement may, in the discretion of the Director of Public Works, be of the whole or any part of the charge so made, and upon such terms and conditions as the Director may deem advisable and may prescribe.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 48, §25</annotation>
+        <annotation type="Prior Codifications">1950, art. 89, §8</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §8</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §8</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-125" type="History">Ord. 04-125</annotation>
+        <annotation doc="City of Balt., Md., Ord. 11-043" type="History">Ord. 11-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-501" type="History">Ord. 48-501</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-3</num>
+      <heading>Cut-off for arrearage.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Property owners responsible.</heading>
+        <text>The owners of property are in all cases responsible for the payment of water bills.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Arrearages.</heading>
+        <para>
+          <num>(1)</num>
+          <text>If a structure for which a bill is in arrears is not a vacant structure, as defined in <cite path="|building-codes|II">Building Code</cite> <cite path="|building-codes|II|116.4" proof="needed">§ 116.4</cite> {"Vacant structures"}, the Department may cut off water service, subject to the requirements of <cite path="|24">this article</cite>, until all arrearages are paid.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a structure for which a bill is in arrears is a vacant structure, as defined in Baltimore City <cite path="|building-codes|II">Building Code</cite> <cite path="|building-codes|II|116.4" proof="needed">§ 116.4</cite> {"Vacant structures"}, the Department shall proceed as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>for a structure that has an accessible water meter, the Department shall cut off the water to the premises; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>for a structure that does not have an accessible water meter, the Department shall cut off the water to the premises if damage to adjacent property is imminent or demolition of the property is planned.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Charge to restore service.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Except as otherwise provided in this subsection, when a water supply is cut off for nonpayment of water charges, a service-restoration fee must be paid before the supply is turned on again.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The amount of the service-restoration fee shall be as determined by the Board of Estimates in accordance with Subtitle 3 of <cite path="|24">this article</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>While enrolled in the Water-for-All Discount Program, a recipient is not liable for any service-restoration fee imposed under this subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Unauthorized use.</heading>
+        <text>The Department of Public Works may cut off the water from the premises of any person who:</text>
+        <para>
+          <num>(1)</num>
+          <text>introduces water to his, her, or its premises without authorization from the Department; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>permits another person (not entitled to use the water) to use the water without authorization from the Department.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §21</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §22</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §35</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §9</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §9</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §9</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1862-010" type="History">Ord. 1862-010</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1866-083" type="History">Ord. 1866-083</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-502" type="History">Ord. 48-502</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+        <annotation doc="City of Balt., Md., Ord. 78-923" type="History">Ord. 78-923</annotation>
+        <annotation doc="City of Balt., Md., Ord. 99-526" type="History">Ord. 99-526</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+        <annotation doc="City of Balt., Md., Ord. 07-434" type="History">Ord. 07-434</annotation>
+        <annotation doc="City of Balt., Md., Ord. 13-093" type="History">Ord. 13-093</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section name="2-4to2-5">
+      <num>2-4 to 2-5</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-6</num>
+      <heading>Water-for-All Program – Overview.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Rules and regulations.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the DPW Director and the Finance Director shall adopt and enforce rules and regulations to administer a Water-for-All Discount Program in conformance with <cite path="|24">this article</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Eligibility criteria.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Each residential- and tenant-water-utility customer whose household income in a calendar year is less than 200% of the federal government's official poverty income guidelines, as published annually by the U.S. Department of Health and Human Services, is eligible for the Water-for-All Discount Program.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Residential- and tenant-water-utility customers are not required to be citizens or permanent residents of the United States in order to be eligible for the Water-for-All Discount Program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Informing customers  of Program.</heading>
+        <text>The DPW Director or Finance Director, as the case may be, shall inform each residential- and tenant-water-utility customer of the availability of and eligibility criteria for the Water-for-All Discount Program in each bill and in each notice provided under <cite path="|24|§4-3|(d)">§ 4-3(d) {"Cut-off for non-payment: Notice"} of this article</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+        <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-7</num>
+      <heading>Water-for-All Program – Application for Program.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>How submitted.</heading>
+        <text>A customer may submit a Water-for-All Discount Program application to the Department online, in person, or by mail.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Requisites for complete application.</heading>
+        <text>Except as provided in subsection (d) of this section, a complete application, signed and dated by the customer or the customer's authorized representative, must include:</text>
+        <para>
+          <num>(1)</num>
+          <text>the names of all household members;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the estimated annual household income for the current calendar year;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>if the applicant is a tenant:</text>
+          <para>
+            <num>(i)</num>
+            <text>a statement, separately signed and dated by the customer or the customer's authorized representative, that the tenant is a tenant-water-utility customer;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the name and address of the landlord; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>if applicable, verification that the tenant pays a separate amount for water or wastewater services to the landlord (<em>e.g.</em>, by copy of the rental or lease agreement so indicating);</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>a statement, separately signed and dated by all members of the household whose income will be evaluated for the Program, allowing the Director to obtain verification, through any appropriate sources, about statements made or documents presented by members of the household whose income will be evaluated for the Program during the application process;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>a certification:</text>
+          <para>
+            <num>(i)</num>
+            <text>that the recipient will notify the Department immediately if the actual annual household income exceeds the amount stated in the application; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>that, if the actual income renders the recipient ineligible, the recipient will fully and promptly cooperate  with the Department in its efforts, under <cite path="|24|§2-11|(c)">§ 2-11(c) {"Water-for-All ... – Midyear ineligibility"} of this subtitle</cite>, to recover credits distributed for any period of ineligibility; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>a certification, separately signed and dated by the applicant or the applicant's authorized representative, that all answers to the questions and items on the application form are true and accurate to the best of the applicant's knowledge.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Verification.</heading>
+        <text>On request by the Director for good cause, the applicant shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>provide verification of the information provided on the application; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>submit for review the relevant Federal, State, or City income tax return or other acceptable evidence.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Exception for enrollees in certain State programs.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Instead of the application set forth in this section, an applicant who demonstrates that he or she is already a participant in any State program where eligibility is established by income of less than 200%  of the Federal government's official guidelines, is deemed eligible for the Water-for-All Discount Program.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Director shall provide a streamlined application process for these applicants and may not require any other income verification for Program eligibility.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-8</num>
+      <heading>Water-for-All Program – Grant of Credit.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Each eligible residential- or tenant-water-utility customer who submits a complete application,  containing the  information required by <cite path="|24|§2-7">§ 2-7 {"Water-for-All ... – Application for Program"} of this subtitle</cite>, shall receive a Water-for-All Credit as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Eligible residential-water-utility customers shall receive 1 fixed annual credit for each household.  Only 1 credit is allowed per household per calendar year.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Eligible tenant-water-utility customers shall receive only 1 annual credit per eligible customer.  However, where there are multiple tenants sharing rent in a household, the credit shall be divided among those who are on the lease or rental agreement or who otherwise verify that they are eligible tenant-water-utility customers.  For subleases, the credit shall be prorated for the time that the sublessee is an eligible tenant-water-utility customer living in that household.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Amount of  credit.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Formula.</heading>
+          <text>The Water-for-All Credit is determined by the formula</text>
+          <text>C = B – I x A</text>
+          <text>where</text>
+          <text>C = the Water-for-All Credit.</text>
+          <text>B = either:</text>
+          <para>
+            <num>(i)</num>
+            <text>the recipient's estimated annual water and wastewater bill, inclusive of volumetric usage charges, the account management fee, and infrastructure charges, based on the recipient's historical average annual water usage and the projected rate schedule for the year; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>if  water and wastewater utility service is master-metered and the owner bills the cost of service to a tenant-water-utility-customer on an allocated basis, the recipient's estimated annual water and wastewater bill, based on evidence of prior billings occurring during the tenant recipient's current lease or rental-agreement term and exclusive of the owner's administrative charges related to the allocation.</text>
+          </para>
+          <text>I = the recipient's estimated annual household income.</text>
+          <text>A = affordability threshold, as follows:</text>
+          <para>
+            <num proof="done">(i)</num>
+            <text>if the recipient's annual household income is 50% or less than the federal government's official poverty income guidelines, A equals 1%;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>if the recipient's annual household income is greater than 50% but not greater than 100% of the federal government's official poverty income guidelines, A equals 2%; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>if the recipient's annual household income is greater than 100% of the federal government's official poverty income guidelines, A equals 3%.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Negative C.</heading>
+          <text>For all negative values of C, the Water-for-All Credit is zero dollars.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Proration.</heading>
+          <text>The 1<sup>st</sup> annual Water-for-All Credit shall be prorated, accounting from the date of the recipient's enrollment in the Program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Calculating income.</heading>
+        <text>In calculating annual household income for both eligibility and amount of the Water-for-All Credit, the Director shall use the same countable and non-countable income specified, in COMAR 07.03.22.04, as amended from time to time, by the Maryland Department of Human Resources for its "Electric Universal Service Program".</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-9</num>
+      <heading>Water-for-All Program – Distribution of Credit.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The Water-for-All Credit shall be applied to the water or wastewater bill or sent to each recipient by check, as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Distribution of the credit shall begin as soon as practicable after the eligible residential- or tenant-water-utility customer applies for the Program.  But in no case may it be later than 90 days after the Department's receipt of a completed application that demonstrates a customer's eligibility for the Program.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The credit for a tenant-water-utility customer whose water and wastewater utility service is master-metered and billed to the customer by the owner on an allocated basis shall be disbursed by check payable to the tenant-water-utility customer.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Customers may elect to receive credits disbursed on a monthly basis in an amount equal to one-twelfth of the annual credit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The credit shall be applied to each subsequent bill until the full amount of the credit is exhausted.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>At the end of each calendar year, for customers eligible for the Water-for-All Discount Program for the following year, the  Director shall apply any unused credit to the recipient's bills for the following year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>In case of service termination.</heading>
+        <text>When a recipient terminates service, the unused credit shall be dispersed according the following priorities:</text>
+        <para>
+          <num>(1)</num>
+          <text>Within 45 days of termination, the DPW Director or Finance Director, as the case may be, shall apply any unused balance to the recipient's bill before any other credits or deposits are applied when determining the bill balance due to or from the customer.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When a recipient changes his or her principal residence to a different unit that is provided water and wastewater services by the Department, any unused credit shall be transferred to the recipient's new bill.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>On the death of a recipient, the unused credit shall be transferred to a new bill of a surviving member of the decedent's household who is an eligible residential- or tenant-water-utility customer in his or her own right.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Within 60 days of termination, any unused credit that cannot be transferred as stated in this subsection shall be returned to the self-sustaining water fund.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-10</num>
+      <heading>Water-for-All Program – Program denials.</heading>
+      <text>If the Director determines any applicant to be ineligible for the Water-for-All Credit, the Director shall notify the applicant of this determination and of the applicant's right to appeal under <cite path="|24|§2-21">§ 2-21 {"Office ... – Appeals"} of this subtitle</cite>.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-11</num>
+      <heading>Water-for-All Program – Midyear ineligibility for credit.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Midyear ineligibility described.</heading>
+        <text>The Water-for-All Credit is conferred based on annual household income for the current calendar year, as estimated at the time of application.  If the recipient's actual annual household income for the current calendar year exceeds the eligibility criteria, that recipient will become ineligible for the remainder of the calendar year.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Recipient to notify Director of increased income.</heading>
+        <text>Recipients are required to notify the Director immediately if their annual household income exceeds the eligibility criteria.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Department to recover credits distributed while ineligible.</heading>
+        <text>The Finance Department shall take necessary action to recover, when appropriate, the full amount of Water-for-All Credits distributed to beneficiaries for any period of  ineligibility.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-12</num>
+      <heading>Water-for-All Program – Enrollment confirmation.</heading>
+      <text>On a customer's enrollment into the Water-for-All Discount Program, the Department shall provide the customer with a written statement that sets forth:</text>
+      <para>
+        <num>(1)</num>
+        <text>the estimated annual and monthly bill without the Water-for-All Credit;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the amount of the Water-for-All Credit;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the estimated annual and monthly bill with the Water-for-All Credit to be applied;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>the monthly bill due date;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>the amount of pre-Water-for-All Credit arrears that were accrued prior to enrollment;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>the requirement that bills issued must be paid;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>a brief explanation of the consequences of nonpayment;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>a brief explanation of the elimination of pre-enrollment arrears on timely payments, as provided in <cite path="|24|§2-13">§ 2-13 {"Water-for-All ... – Program arrears"} of this subtitle</cite>;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>a brief explanation of the duty to remain eligible or to notify the Department immediately if the customer becomes ineligible; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>a brief explanation of the annual recertification requirement for continued participation.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-13</num>
+      <heading>Water-for-All Program – Program arrears.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>On-time payments.</heading>
+        <text>Each on-time payment by a Water-for-All Discount Program recipient shall be credited towards the recipient's pre-enrollment arrears in the amount of the payment until all arrears are satisfied.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Excess payments.</heading>
+        <text>Any amount paid for a bill in excess of the recipient's current water liabilities reduces the balance of his or her pre-enrollment arrears and reduces the amount of on-time payments that the recipient will have to make to satisfy those arrears</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Timely payments in full - Effect of making.</heading>
+        <text>Once a recipient is enrolled in the Water-for-All Discount Program, timely payment in full of each bill satisfies all of a recipient's current water liabilities, so that there is no addition to arrears after enrollment.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Timely payments in full - Effect of failure to make.</heading>
+        <text>A failure to make timely payments in full will add to pre-enrollment arrears, subjecting them to potential water cut-off pursuant to <cite path="|24|§4-3">§ 4-3 {"Cut-off for nonpayment"} of this article</cite> and extending the number of on-time payments that the recipient will have to make to eliminate all pre-enrollment arrears.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Service restoration after cut-off for non-payment.</heading>
+        <text>In the event that a recipient's service is terminated for non-payment of bills after enrollment in the Water-for-All Discount Program, the recipient is entitled to immediate restoration of service on:</text>
+        <para>
+          <num>(i)</num>
+          <text>the recipient's payment of those unpaid bills; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>the recipient's entry into an installment payment agreement with the Department for payment of those unpaid bills.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Notice of Program and available installment payment agreement.</heading>
+        <text>The Department shall notify all customers in arrears of the availability of the Water-for-All Program and of their ability to enter into an installment payment agreement program pursuant to <cite path="|24|§4-5">§ 4-5 {"Installment payment agreement"} of this article</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-14</num>
+      <heading>Water-for-All Program – Annual recertification of eligibility.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>No less than 60  calendar days before the end of each calendar year, the Director shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>notify all recipients of their obligation to recertify their eligibility for the Program; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>allow each recertified recipient to re-enroll in person, online, or in the mail.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Effect of recertification.</heading>
+        <text>A recipient's recertification of eligibility has the same effect as if the customer had reapplied.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Effect of failure to recertify.</heading>
+        <text>A recipient's failure to recertify eligibility within 90 days after the notification renders the recipient ineligible to continue in the Program, subject to reapplication.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-15</num>
+      <heading>Water-for-All Program – Program disputes.</heading>
+      <text>Any applicant or recipient aggrieved by a determination of the Department under this Program may appeal that determination, as provided in <cite path="|24|§2-21">§ 2-21 {"Office ... – Appeals"} of this subtitle</cite>.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>2-16</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-17</num>
+      <heading>Office of Water-Customer Advocacy and Appeals  –  Office established; Nature, purposes; Primary functions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Office established.</heading>
+        <text>There is an  Office of Water-Customer Advocacy and Appeals in the Department of Public Works.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Nature and purposes of Office.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Office is a neutral intermediary created to promote fairness to customers dealing with water and wastewater  billing disputes.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The purposes of the Office are:</text>
+          <para>
+            <num>(i)</num>
+            <text>to provide a problem-solving resolution process for disputes between customers and the Department of Public Works about water and wastewater billings, assistance under the Water-for-All Discount Program, and assistance under any other Baltimore Water Assistance Programs; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>to provide guidance on broader rules, regulations, policies, and procedures of the Department that relate to customer issues with water and wastewater billings.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Office is entitled to the full cooperation and collaboration of the Department of Public Works' staff and contractors, including access to all customer records and the ability to confer with Department leadership, staff, and contractors.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Primary functions.</heading>
+        <text>The Office serves the following three primary functions:</text>
+        <para>
+          <num>(1)</num>
+          <text>serving as a customer advocate, by conducting problem-solving investigations and implementing solutions, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>investigating the causes of and solutions to billing disputes between customers and the Department of Public Works, even if the customer has not yet exhausted options for dispute resolution offered by the Department;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>investigating the causes of and solutions to disputes between customers and the Department of Public Works over Water-for-All Discount Program determinations or other Department actions or decisions related to water and wastewater billing, service cut-offs, or lack of notice of billing-related issues;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>connecting customers to complementary social services;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>investigating and improving communications between customers and the Department of Public Works, by investigating whether notices should be in other languages, ensuring that customers receive timely and complete notice of payments due, and ensuring that customers receive timely and complete notice of options for reducing payments under all existing programs; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>adjusting customer bills when warranted;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>conducting appeals hearings on request of aggrieved customers after a problem-solving determination has been made; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>reporting at least semi-annually to the Committee for Office Oversight established under <cite path="|24|§2-23">§ 2-23 {"Office ... -  Committee for Office Oversight"} of this subtitle</cite>, on:</text>
+          <para>
+            <num>(i)</num>
+            <text>Office operations and activities, including:</text>
+            <para>
+              <num>(A)</num>
+              <text>data on the Office's customer-advocacy investigation and problem-solving efforts and its appeals function, as set fort in subsection (d) of this section; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>examples of common customer complaints, the methods by which the Department of Public Works addresses those complaints, an assessment of those methods, and recommendations for alternative approaches; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>recommendations that the Office has for:</text>
+            <para>
+              <num>(A)</num>
+              <text>changes to the department's rules, regulations, policies, or procedures that will promote fairness to customers and resolve customer concerns;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>task forces and additional Office staff; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>any other options for promoting fairness to customers and resolving customer concerns.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Data and metrics.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Data and metrics shall be used to enable:</text>
+          <para>
+            <num>(i)</num>
+            <text>an understanding of the problems experienced by customers and by DPW;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the design of workable solutions; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the evaluation of whether reforms implemented are successful.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Significant data shall be collected from individuals participating in the various dispute resolution processes under this subtitle, which will reduce data collection costs and emphasize customers' direct experiences.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Data shall be collected that reveals the nature and frequency of:</text>
+          <para>
+            <num>(i)</num>
+            <text>customer concerns raised on matters of all kinds;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>methods used by Office Advocates to investigate problems, to assess DPW's responses, and to create solutions promoting customer fairness;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>dispute resolution outcomes and justifications, including bill adjustment dollar amounts, orders regarding enrollment in discount and affordability programs, referrals to social service agencies, complaints left unaddressed, and other outcome es;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>decisions of the Public Works Director that overrule an Office Advocate or the ECB;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>communications among billing analysts, the Office, the ECB, and customers;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>data collection efforts;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>customer feedback (from customers both participating in dispute resolution systems and not participating in them);</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>ideas solicited from customers about potential causes of problems and potential solutions that would promote customer fairness;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>input from social service organizations that serve customers; and</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>with respect to discount and affordability programs, application and enrollment numbers compared to the anticipated number of eligible customers, reasons for denials, and the relative success of different outreach methods.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>When reporting to the Committee for Office Oversight, the Office shall explain how data derived directly from customer experiences was given great weight in designing reform proposals that promote customer fairness, and shall define metrics to be used to measure the effectiveness of the future reforms. As reforms are implemented, additional data shall be collected to evaluate the effectiveness of the reforms, and the Office shall, as appropriate, propose further improvements to the reforms or to the metrics to be used to assess them.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-468" type="History">Ord. 20-468</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-18</num>
+      <heading>Office of Customer Advocacy . . .  –  Administration.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Office Administrator.</heading>
+        <text>The head of the Office, who shall supervise and direct the Office's personnel and operations, is the Office Administrator, to be appointed by the Mayor in accordance <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Office staff.</heading>
+        <text>The Office Administrator may appoint  the Office's Customer Advocates and supporting staff, as provided in the Ordinance of Estimates.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Qualifications of Office officials.</heading>
+        <text>The Office's Administrator and Customer Advocates must:</text>
+        <para>
+          <num>(1)</num>
+          <text>be impartial;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>be knowledgeable about water and wastewater services, water usage, billing practices, and billing procedures; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>have substantial experience in dispute resolution, consumer protection, and the delivery of public services.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Salary; benefits.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Office's Administrator, Customer Advocates, and supporting staff are entitled to compensation as provided in the Ordinance of Estimates.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Office's Administrator, Customer Advocates, and supporting staff are entitled to participate in any City-sponsored benefits program to the same extent and under the same terms as other City officers and employees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Office employees.</heading>
+        <text>Office employees:</text>
+        <para>
+          <num>(1)</num>
+          <text>may  not be made to suffer any adverse employment action without cause; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to avoid even the appearance of a conflict of interest:</text>
+          <para>
+            <num>(i)</num>
+            <text>may not be required to get prior approval from DPW officials or employees for Office  reviews, reports, or recommendations; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>shall have only limited communications with DPW employees, as needed to fulfill the Office's customer fairness mandate.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-468" type="History">Ord. 20-468</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-19</num>
+      <heading>Office of Customer Advocacy . . .  –  Request for assistance.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Request for assistance.</heading>
+        <text>A customer may seek Office assistance by submitting a written or oral request to the Department        or to the Office within 90 calendar days of any disputed Water-for-All Discount Program        determination or other Department action or decision related to water and wastewater billing,        service cut-offs, or lack of notice of billing-related issues.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Right to dispute determinations.</heading>
+        <text>The right to dispute a determination by the Department before the Department, the Office, or the ECB may not be limited, except as otherwise stated in <cite path="|24">this article</cite>.  Thus, a customers may  not be required by the Department, the Office, or the ECB to do any of the following as a prerequisite to having the customer's appeal heard:</text>
+        <para>
+          <num>(1)</num>
+          <text>pay money to any party, including a plumber;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>prove that DPW equipment is faulty; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>pay bills that are being challenged by the customer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Publishing rules and regulations for public comment.</heading>
+        <text>All proposed new or modified rules and regulations that govern or affect the operations of the Office or ECB or that delimit rights granted customers by <cite path="|24">this article</cite> shall be published for public comment and shall be posted online in both draft and final form.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-468" type="History">Ord. 20-468</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-20</num>
+      <heading>Office of Customer Advocacy . . .  – Customer-advocacy services.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Referral to customer-advocacy services.</heading>
+        <text>Whenever a customer asks the Department for assistance under § 2-19 {"Office ... - Request for assistance ..."}, the Department shall immediately:</text>
+        <para>
+          <num>(1)</num>
+          <text>notify the customer of the customer's right to access the Office's customer-advocacy problem-solving services; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>forward the customer's request for assistance to the Office.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Investigation by Customer Advocate.</heading>
+        <para>
+          <num>(1)</num>
+          <text>In order to resolve a billing or other dispute, a Customer Advocate may:</text>
+          <para>
+            <num>(i)</num>
+            <text>investigate the computation of water charges for accuracy;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>investigate meter reading for possible miscalculations or malfunction;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>investigate whether the amount billed is erroneous based on household size, billing cycle, amount of reported usage, or other relevant factors;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>consider whether reported meter readings are so unreasonably high as to be prima facie evidence that the meter is incorrect;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>facilitate a search for leaks on the customer's premises and nearby City property; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>make a reasonable investigation of any material facts and claims asserted by the customer as to the cause of the erroneous bill or Department decision.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Both the customer and the Department of Public Works shall comply with a Customer Advocate's requests for information and scheduling.  On request of the Office, staff and contractors of the Department shall perform tests and otherwise use their expertise to assist in investigation and problem-solving functions.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Examples of potential relief available.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>A Customer Advocate may grant appropriate equitable relief to a customer, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>the change of an amount due on a bill for water or wastewater; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the reversal of a Department decision.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Limitation.</heading>
+          <text>Notwithstanding any other provision of <cite path="|24">this article</cite>, a Customer Advocate may not increase any charges in a bill issued to a residential- or tenant-water-utility customer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Advocate's report.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>After completion of an investigation, the Customer Advocate shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>issue a written report containing a description of the investigation and a statement of:</text>
+            <para>
+              <num>(A)</num>
+              <text>the law and facts;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the results of the investigation;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>any relief granted or denied; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>an explanation for that determination;</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>mail a copy of the report to the Department and to the customer at the customer's last-known address; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>keep all records of the investigation and the report.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Bill adjustment.</heading>
+          <text>If the report concludes that the customer's bill needs to be adjusted, the Finance Department shall promptly issue an amended bill to the customer.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Notice of right to appeal.</heading>
+          <para>
+            <num>(i)</num>
+            <text>The report shall notify the customer of his or her right to appeal the results of the investigative report.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The notice shall contain:</text>
+            <para>
+              <num>(A)</num>
+              <text>the deadlines for and methods of filing the appeal; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the procedures by which the appeal will be heard.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-21</num>
+      <heading>Office of Customer Advocacy . . .  – Appeals.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Independent review by third-party hearing officer.</heading>
+        <para>
+          <num>(1)</num>
+          <text>DPW shall contract with the Environmental Control Board to make available hearing officers to provide an independent review of customer appeals from a Customer Advocate's investigative report.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hearing officers and individuals conducting or overseeing these independent reviews:</text>
+          <para>
+            <num>(i)</num>
+            <text>may not be made to suffer any adverse employment action without cause; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>to avoid even the appearance of a conflict of interest:</text>
+            <para>
+              <num>(A)</num>
+              <text>may not engage in any ex parte communication involving a matter pending before the ECB; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>may not communicate with any DPW official or employee about        preferences for the outcome of a matter that might come before the ECB.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Customer's right to appeal.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A customer is entitled to file an appeal with the Environmental Control Board within 30 calendar days of receipt of a Customer Advocate's investigative report or within 45 calendar days of asking for assistance from the customer advocate.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The appeal must be filed:</text>
+          <para>
+            <num>(i)</num>
+            <text>in-person, at an address designated by the Environmental Control Board;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>electronically, in a format approved by the Environmental Control Board; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>by first-class mail, postmarked within 30 calendar days of receipt of the report.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Board to promptly schedule hearing.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Within 30 days of the filing of an appeal, the Environmental Control Board shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>promptly schedule an in-person hearing with a hearing officer; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>notify the Department, the customer, and the Customer Advocate of the date, time, and location of the hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The customer must be given at least 15 calendar days notice of the hearing's date, time, and location.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Customer's prerogatives.</heading>
+        <text>At the hearing, the customer is entitled to:</text>
+        <para>
+          <num>(1)</num>
+          <text>represent him- or herself or be represented by an attorney;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>present his or her case with evidence;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>submit evidence in rebuttal; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>conduct cross-examination.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Customer Advocate to appear at hearing.</heading>
+        <text>At the hearing, the Customer Advocate shall appear and may be questioned by the customer, the Department, and the hearing officer.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Conduct of hearing.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Hearings shall be conducted in a full, fair, impartial, and orderly manner.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except as otherwise provided by law, formal rules of evidence and trial procedures do not apply.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The hearing shall be filmed, audio recorded, or transcribed.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>To facilitate the resolution of an appeal, the hearing officer may:</text>
+          <para>
+            <num>(i)</num>
+            <text>administer oaths and affirmations;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>examine witnesses and take testimony;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>issue summonses and subpoenas, especially those requested by the customer or the Department and received by the hearing officer at least 7 days before the hearing;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>request investigative reports prepared by the Customer Advocate and any relevant Department records or information;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>regulate the course and conduct of hearings, which shall be conducted:</text>
+            <para>
+              <num>(A)</num>
+              <text>informally, in a manner to ascertain the substantial rights of the customer and the Department; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>without the hearing officer's being bound by common law or statutory rules as to the admissibility of evidence or by technical rules of procedure;</text>
+            </para>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>consider whether reported meter readings are so unreasonably high as to be prima facie evidence that the meter is not functioning properly or is the wrong size;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>rule on motions or informal requests; and</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>continue any hearing as deemed necessary for the efficient disposition of the matter, but the hearing officer may not receive ex parte, directly or indirectly,any additional evidence or communication regarding the merits of any issue in the matter during the continuance.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Hearing officer's proposed decision.</heading>
+        <para>
+          <num>(1)</num>
+          <text>After the hearing has concluded, the hearing officer shall issue a written proposed decision, including a statement of material facts and conclusions of law.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The proposed decision:</text>
+          <para>
+            <num>(i)</num>
+            <text>shall be based on consideration of the entire record;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>may include the forms of relief specified in <cite path="|24|§2-20|(c)">§ 2-20(c) {"Office ... – Customer-advocacy services: Examples of potential relief"} of this subtitle</cite>; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>may not increase any charges in a bill issued to a residential- or tenant-water-utility customer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The hearing officer's proposed decision shall be communicated by mail to the customer and to the DPW Director no later than 30 days after the hearing, unless the customer agrees in writing to a longer period.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Review and final decision or remand by Director.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Promptly on receipt of the hearing officer's proposed decision, the DPW Director:</text>
+          <para>
+            <num>(i)</num>
+            <text>shall review the proposed decision and the administrative record of the dispute; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>shall:</text>
+            <para>
+              <num>(A)</num>
+              <text>issue a final agency decision that:</text>
+              <para>
+                <num>i.</num>
+                <text>adopts the hearing officer's proposed decision; or</text>
+              </para>
+              <para>
+                <num>ii.</num>
+                <text>modifies the hearing officer's proposed decision and, in writing:</text>
+                <para>
+                  <num>1.</num>
+                  <text>specifies each of the Director's modifications; and</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>explains the reasons for each modification; or</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>if the hearing officer's proposed decision fails to provide sufficient information on which to render a final decision, issue an order that describes the deficiency and remands the matter to the hearing officer for further proceedings.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Director shall promptly serve a copy of the final agency decision or the remand order, as the case may be, on each party to the proceeding and, if not a party, on the owner of the property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Judicial and appellate review.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Judicial review.</heading>
+          <text>A customer or other party aggrieved by a final decision under this section may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Appellate review.</heading>
+          <text>A party to the judicial review may appeal the Circuit Court's final judgment to the Court of Special Appeals in accordance with the Maryland Rules of Procedure.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-468" type="History">Ord. 20-468</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-22</num>
+      <heading>Office of Customer Advocacy . . .  – Continued service, rights pending reviews, etc.</heading>
+      <text>Notwithstanding any other provision of <cite path="|24">this article</cite>, the Department may not cut off water or wastewater service because of a delinquency or arrearage that is the subject of a pending request, made in good faith, for investigation, review, or appeal, or for judicial or appellate review of a billing dispute.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-468" type="History">Ord. 20-468</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-23</num>
+      <heading>Office of Customer Advocacy . . .  –  Committee for Office Oversight.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Committee established.</heading>
+        <text>There is a Committee for Office Oversight.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Composition.</heading>
+        <text>The Committee comprises the following 7 members:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Inspector General or the Inspector General's designee;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the City Auditor or the City Auditor's designee;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the Mayor or the Mayor's designee;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the City Council President or the President's designee; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>3 City Councilmembers, appointed by the  City Council President.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Officers.</heading>
+        <text>The Committee:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall elect one of its members to serve as the Chair of the Committee; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>may elect from among its members any other officers that the Committee considers necessary or appropriate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Meetings, quorum, etc.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Committee shall meet at the call of the Chair or at the call of a majority of Committee members, as frequently as required to perform its duties.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>4 members of the Committee constitute a quorum for the transaction of business.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>An affirmative vote of at least 4 members is needed for any official action.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All meetings of the Commission must be conducted in accordance with the State Open Meetings Act (State <cite path="|general">General Provisions Article</cite>, Title 3).</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Oversight duties.</heading>
+        <text>The Committee shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>review and evaluate the activities and operations of the Office, including the performance of its customer-advocacy problem-solving services and  its appeals function;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>provide advice and guidance to the Office and recommend new or modified policies and procedures that the Committee considers necessary or appropriate for the more effective operation of the Office; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to these ends, hold at least 2 publicly advertised hearings a year at which:</text>
+          <para>
+            <num>(i)</num>
+            <text>the Office Administrator shall appear and report on:</text>
+            <para>
+              <num>(A)</num>
+              <text>the status of  Office activities and operations; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the Office's recommendations for changes necessary or appropriate to further promote fairness to customers and resolving customer concerns; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the public may attend and testify on the efficacy of the Office's activities and operations and any need for further modifications to these activities and operations.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-468" type="History">Ord. 20-468</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>3</num>
+    <heading>Setting Rates and Charges; Expenditures</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>3-1</num>
+      <heading>Board of Estimates to set.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In  general.</heading>
+        <text>The Board of Estimates, on the recommendation of the Director of Finance and the Director of Public Works, may establish, assess, and change rates and charges for:</text>
+        <para>
+          <num>(1)</num>
+          <text>sanitary wastewater; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>for the supply or use or both of water, for any purpose and at any point in or outside Baltimore City,  whether by meter, fixed charge, or otherwise.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Public notice.</heading>
+        <text>At least 30 days before taking any final action on rates or charges, the Board of Estimates:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall publish notice of the proposed action;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>shall send the recommendations of the Director of Finance and the Director of Public Works to the City Council and the members thereof; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>shall afford an opportunity for the Council members and the public to make recommendations thereon.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Abatements or reductions.</heading>
+        <text>The Board shall also have the power to provide for abatement and reduction of such rates or other charges.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 48, §23</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §21</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §21</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §21</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-125" type="History">Ord. 04-125</annotation>
+        <annotation doc="City of Balt., Md., Ord. 11-043" type="History">Ord. 11-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 23-072" type="History">Ord. 23-072</annotation>
+        <annotation doc="City of Balt., Md., Ord. 78-941" type="History">Ord. 78-941</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-2</num>
+      <heading>Accounting system</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The accounting system for the water and sanitary wastewater utilities:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall conform to generally accepted principles of utility accounting; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>shall be kept on the accrual basis and in the manner prescribed in <cite doc="City of Baltimore, Md., Charter" path="VII|§11">Article VII, § 11 of the City Charter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Revenue records by class.</heading>
+        <text>The records of revenues of each said utility shall be kept so that the sales made to each class of customer according to the rate schedules adopted by the Board of Estimates for each utility can be determined.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 29, §21A(a)(1st, 2nd sens.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 78-941" type="History">Ord. 78-941</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-3</num>
+      <heading>Annual report.</heading>
+      <text>After the close of each fiscal year, there shall be submitted to the Board of Estimates, the Board of Finance, and to the members of the City Council, a report which may be submitted as a separate section of the statements prescribed under <cite doc="City of Baltimore, Md., Charter" path="VII|§11">Article VII, § 11 of the City Charter</cite> as to the operation of each said utility containing at least the following financial statements:</text>
+      <para>
+        <num>(1)</num>
+        <text>a comparative balance sheet showing the financial condition of the utility as of the beginning and close of the fiscal year;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>an analysis of the retained earnings account showing the factors of change in the account as reflected by the comparative balance sheet;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>a comparative income statement of the last 2 fiscal years; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>a comparative detailed analysis of operating expense for the last 2 fiscal years according to functional groupings.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 29, §21A(a)(3rd sen.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 78-941" type="History">Ord. 78-941</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-4</num>
+      <heading>Excess revenues.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Optional uses.</heading>
+        <text>After the budgets of the water and sanitary wastewater utilities have been adopted, should it appear that for either utility there will be revenues in excess of those budgeted:</text>
+        <para>
+          <num>(1)</num>
+          <text>additional expenditures may be authorized by the Board of Estimates from the funds of that utility in an amount not exceeding such excess; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>upon recommendation of the Directors of Finance and Public Works, the Board may decrease the utility rates and charges.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Expenditures subject to appropriation procedures.</heading>
+        <text>Any such additional expenditures of the water or sanitary wastewater utility shall be subject to the appropriation procedures provided in <cite doc="City of Baltimore, Md., Charter" path="VI">Article VI of the City Charter</cite>.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 29, §21A(a)(2nd par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 78-941" type="History">Ord. 78-941</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-5</num>
+      <heading>Setting rates and charges.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>It shall be the duty of the Director of Finance and the Director of Public Works to recommend, and the duty of the Board of Estimates to:</text>
+        <para>
+          <num>(1)</num>
+          <text>establish rates and charges to make each utility financially self-sustaining at all times; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>adjust the rates if the projected profit and loss statement for the current year anticipates a loss and the actual results for the immediate prior year resulted in a loss or deficit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Recovery of prior losses.</heading>
+        <text>The rates so established shall be at a level sufficient to recover any accumulated loss from prior years.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Costs, depreciation, etc.</heading>
+        <text>In order to make and assure that each utility is financially self-sustaining, there shall be provision for:</text>
+        <para>
+          <num>(1)</num>
+          <text>operating and maintenance costs;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>depreciation accruals;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>amortization of bonds; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>reasonable accumulation of surplus.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Classes of users.</heading>
+        <text>Charges shall be made to various classes of consumers including but not limited to domestic, commercial, industrial, and municipal government and other governmental users of the services of water and sanitary wastewater utilities.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 29, §21A(b), (c)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 78-941" type="History">Ord. 78-941</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-6</num>
+      <heading>Approval of expenditures.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Expenditures may be made with the approval of the Board of Estimates from the appropriated funds of either utility, on the recommendation of the Director of Public Works, for necessary renewing, improving, rebuilding, or extending the plant and distribution system of such utility including all costs related thereto.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Budgets to comply with Charter.</heading>
+        <text>The budgets for renewing, improving, rebuilding or extending the plant and distribution system of such utility shall be prepared in the manner prescribed in <cite doc="City of Baltimore, Md., Charter" path="V">Article V of the City Charter</cite>.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 29, §21A(d)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 78-941" type="History">Ord. 78-941</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-7</num>
+      <heading>City loans to utility.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The City may lend to each utility an amount not to exceed the equivalent to a 60-day cash working capital requirement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Repayment requirements.</heading>
+        <text>Any such loan shall be repaid by each utility on or before 24 months from the date of such loan, with interest at the rate of average interest earned by the City on its invested funds during the same period.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 29, §21A(e)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 78-941" type="History">Ord. 78-941</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-8</num>
+      <heading>Conflict with covenants, etc.</heading>
+      <text>In the event that any provision in this subtitle for the water and sanitary wastewater utilities shall be inconsistent with any covenants, conditions, laws, or any regulations promulgated thereunder governing any contract, project, or grant from the United States or from the State or funds dedicated by an Act of Congress or by State law or by the terms of any private grant, such provision in this section shall be applicable only to the extent that it is not inconsistent with any such covenants, laws, or regulations for any federal or State contract, project, or grant or with the terms of any such private grant.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 29, §21A(f)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 78-941" type="History">Ord. 78-941</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>4</num>
+    <heading>Collection of Charges</heading>
+    <annotations>
+      <annotation type="Editor's Notes">Ordinance 20-336 {“Water Accountability and Equity Act”} substantially amended Subtitles 2 and 4 of <cite path="|24">this article</cite>, and related provisions elsewhere, effective July 13, 2020.</annotation>
+    </annotations>
+    <section>
+      <num>4-1</num>
+      <reason>Repealed by Ord. 16-523</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-2</num>
+      <heading>Metered water charges; Fire supply service inspection charges.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>When due.</heading>
+        <text>Metered water charges and fire supply service inspection charges are due and payable when the bills for them have been rendered.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>When delinquent.</heading>
+        <text>Excep as otherwise provided, any metered water charges and fire supply service inspection charges unpaid 20 days after the issue date of the bill are considered delinquent, and all water service are subject to turn-off for nonpayment of those charges at any time.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Penalties.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Except as otherwise provided in paragraph (2) of this subsection:</text>
+          <para>
+            <num>(i)</num>
+            <text>a penalty at the rate of 1.64% of the water charge and fire supply service inspection charge shall be added to every metered water charge and fire supply service inspection charge at the time they become delinquent; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>an additional penalty of 1.64% shall be imposed on all charges, including accrued penalties, which remain unpaid and are forwarded as arrearages on subsequent bills.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Recipients of the Water-for-All Discount Program are not liable for any penalties imposed under this subsection while enrolled in the Program.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §15</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §15</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §14</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §26</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §26(c), (d)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §26(c), (d)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1897-004" type="History">Ord. 1897-004</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-499" type="History">Ord. 48-499</annotation>
+        <annotation doc="City of Balt., Md., Ord. 49-621" type="History">Ord. 49-621</annotation>
+        <annotation doc="City of Balt., Md., Ord. 67-1153" type="History">Ord. 67-1153</annotation>
+        <annotation doc="City of Balt., Md., Ord. 58-1572" type="History">Ord. 58-1572</annotation>
+        <annotation doc="City of Balt., Md., Ord. 59-035" type="History">Ord. 59-035</annotation>
+        <annotation doc="City of Balt., Md., Ord. 66-901" type="History">Ord. 66-901</annotation>
+        <annotation doc="City of Balt., Md., Ord. 67-1016" type="History">Ord. 67-1016</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-059" type="History">Ord. 68-059</annotation>
+        <annotation doc="City of Balt., Md., Ord. 69-391" type="History">Ord. 69-391</annotation>
+        <annotation doc="City of Balt., Md., Ord. 73-393" type="History">Ord. 73-393</annotation>
+        <annotation doc="City of Balt., Md., Ord. 80-070" type="History">Ord. 80-070</annotation>
+        <annotation doc="City of Balt., Md., Ord. 08-042" type="History">Ord. 08-042</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-523" type="History">Ord. 16-523</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-3</num>
+      <heading>Cut-off for nonpayment.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Subject to subsections (b) through (e) of this section, an account balance of $250 or more and 2 billing cycles past due is sufficient reason for sending a cut-off notice for all water service, even though other water charges against the property are not in arrears.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Timing.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Prior to any cut-off for delinquency of payment, the Director of Public Works shall, at least 45 days prior to the earliest date on which service will be cut-off, provide notice as required by subsection (d) of this section.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Cut-offs may be performed:</text>
+          <para>
+            <num>(i)</num>
+            <text>only Monday through Thursday;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>only when no heat or cold advisory issued by the City Health Department is in effect; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>for residential and multi-unit locations, only from March 1 through October 31.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Department may not cut off water more than 90 calendar days after the cut-off notice, unless it has issued a new cut-off notice in the manner required by subsection (d) of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Exception for fire service.</heading>
+        <text>Fire service may not be cut off for nonpayment.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Notice.</heading>
+        <text>Each notice:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall be served both by certified mail and by posting on the front entrance to the customer's premises; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>shall clearly state:</text>
+          <para>
+            <num>(i)</num>
+            <text>the earliest date on which service may be cut off;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the reasons for the cut-off;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the actions that the customer must take to avoid service cut-off, including the total amount required to be paid and the date by which that payment must be made;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the address and telephone number of a Department representative that the customer may contact in reference to the account;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>the procedures specified in § 2-19 {"Office ... – Request for assistance"} and § 2-21 {"Office ... – Appeals"}  of <cite path="|24">this article</cite> to request Office assistance and subsequent appeal;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>the exceptions set forth in  subsections (c) and (f) of this section;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>that any payment made by check or draft that is subsequently dishonored does not constitute payment and will entitle the Department to cut off service without further notice;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>a description of the actions that the customer must take to enter into an installment payment agreement, as set forth in <cite path="|24|§4-5">§ 4-5 {"Installment payment agreement"} of this subtitle</cite>; and</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>a description of the Water-for-All Discount Program and the actions that the customer must take to apply.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Verification.</heading>
+        <text>On the day that service will be cut-off, the Director shall verify that the customer has not taken any action and is not otherwise qualified under subsections (c) and (f) of this section to avoid service cut-off.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>No cut-off under certain conditions.</heading>
+        <text>The Department may not cut off service if, prior to the time that cut-off is to take place:</text>
+        <para>
+          <num>(1)</num>
+          <text>with respect to any charges giving rise to the cut-off, the customer requests, in good faith, Office assistance under <cite path="|24|§2-19">§ 2-19 {"Office ... – Request for assistance"} of this article</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the customer produces a written record of payment in full of all delinquent charges that gave rise to the cut-off notice;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the customer pays the full amount demanded in the cut-off notice;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the customer offers to enter into an installment payment agreement, in accordance with <cite path="|24|§4-5">§ 4-5 {"Installment payment agreement"} of this subtitle</cite> and, within 3 days, executes the agreement and pays the down payment or initial installment;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the customer has submitted an application for the Water-for-All Discount Program and a determination of eligibility is pending;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the customer indicates that the customer has a significant medical condition, as certified in writing by a licensed medical doctor, nurse practitioner, physician assistant, or the Baltimore City Department of Health, indicating that the absence of water service at the subject residential premises will aggravate the existing significant medical condition;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>the customer provides verifiable documentation that the customer is 62 years old or older, under 18 years old, or has an infant human being not more than 6 months old in residence at the premises;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>the customer provides verifiable documentation that the customer has central vision acuity of 20/200 or less in the better eye with the use of a correcting lens, has at least one eye with a limitation in the fields of vision such that widest diameter of the visual field subtends an angle no greater than 20 degrees, as certified in writing by a licensed medical doctor, nurse practitioner, physician assistant, or the Baltimore City Department of Health;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>the customer provides verifiable documentation that the customer has a physical, mental, or medical impairment resulting from anatomical, physiological, or neurological conditions that prevents the exercise of a normal bodily function or that renders the customer unable to manage his or her own resources or to protect himself or herself from neglect or hazardous situations without the assistance of others, as certified in writing by a licensed medical doctor, nurse practitioner, physician assistant, or the Baltimore City Department of Health;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>the property where service is to be cut off is in bankruptcy proceedings; or</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>the property where service is to be cut off is in tax lien certificate sale.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1950, art. 39, §26</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §26(f)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §26(f)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-499" type="History">Ord. 48-499</annotation>
+        <annotation doc="City of Balt., Md., Ord. 49-621" type="History">Ord. 49-621</annotation>
+        <annotation doc="City of Balt., Md., Ord. 57-1153" type="History">Ord. 57-1153</annotation>
+        <annotation doc="City of Balt., Md., Ord. 58-1572" type="History">Ord. 58-1572</annotation>
+        <annotation doc="City of Balt., Md., Ord. 66-901" type="History">Ord. 66-901</annotation>
+        <annotation doc="City of Balt., Md., Ord. 67-1016" type="History">Ord. 67-1016</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-059" type="History">Ord. 68-059</annotation>
+        <annotation doc="City of Balt., Md., Ord. 69-391" type="History">Ord. 69-391</annotation>
+        <annotation doc="City of Balt., Md., Ord. 73-393" type="History">Ord. 73-393</annotation>
+        <annotation doc="City of Balt., Md., Ord. 08-042" type="History">Ord. 08-042</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-4</num>
+      <heading>Full payment required to restore service.</heading>
+      <text>The total of all delinquent water charges, including but not limited to the penalty or interest and turn-off charges, must be paid before service will be restored.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1950, art. 39, §26</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §26(e)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §26(e)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-499" type="History">Ord. 48-499</annotation>
+        <annotation doc="City of Balt., Md., Ord. 49-621" type="History">Ord. 49-621</annotation>
+        <annotation doc="City of Balt., Md., Ord. 157-153" type="History">Ord. 157-153</annotation>
+        <annotation doc="City of Balt., Md., Ord. 58-1572" type="History">Ord. 58-1572</annotation>
+        <annotation doc="City of Balt., Md., Ord. 66-901" type="History">Ord. 66-901</annotation>
+        <annotation doc="City of Balt., Md., Ord. 67-1016" type="History">Ord. 67-1016</annotation>
+        <annotation doc="City of Balt., Md., Ord. 68-059" type="History">Ord. 68-059</annotation>
+        <annotation doc="City of Balt., Md., Ord. 69-391" type="History">Ord. 69-391</annotation>
+        <annotation doc="City of Balt., Md., Ord. 73-393" type="History">Ord. 73-393</annotation>
+        <annotation doc="City of Balt., Md., Ord. 08-042" type="History">Ord. 08-042</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-5</num>
+      <heading>Installment payment agreement.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Offer; Effect of compliance.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The  Finance Director shall offer an installment payment agreement to each customer who has been issued a cut-off notice.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Execution of an installment payment agreement acceptable to the Finance Director will enable the customer to:</text>
+          <para>
+            <num>(i)</num>
+            <text>avoid service cut-off;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>avoid accrual of the penalties imposed under <cite path="|24|§4-2|(c)">§ 4-2(c) {"Metered water charges...: Penalties"} of this subtitle</cite>; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>enable service that has been turned off to be restored, provided that the customer remains in compliance with the agreement.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Effect of breach.</heading>
+        <text>If payment is missed and the payment agreement declared to be breached, the suspended penalties shall be reinstated a nd all subsequent penalties shall continue to accrue.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Notice.</heading>
+        <text>Each offer of an installment payment agreement must:</text>
+        <para>
+          <num>(1)</num>
+          <text>inform the customer of the availability of an agreement;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>state the minimum terms of the agreement that would be acceptable to the Director;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>explain any alternate terms that may be available;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>state the date by which the customer must contact the Department and execute an agreement in order to avoid service cut-off;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>indicate the name and telephone number of a Department representative that the customer may call to discuss an agreement; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>state what action the Department will take if an installment payment agreement is not executed and returned by its due date.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Terms of agreement.</heading>
+        <text>An installment payment agreement shall set forth:</text>
+        <para>
+          <num>(1)</num>
+          <text>the total amount and dates of the delinquent charges covered by the agreement;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the time period over which the total amount shall be paid;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the number, due date, and amount of each periodic payment due under the agreement;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the amount of the required down payment or initial installment due on the customer's execution of the agreement, which may not exceed 25%  of the total amount covered by the agreement;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the interest rate to be charged on the unpaid balance under the agreement, which shall be equal to the interest rate then being charged by the City for unpaid real estate taxes on a property where the annual real estate taxes are $2,750 or less; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the customer's right under § 2-17 et seq. of <cite path="|24">this article</cite> to the services of a Customer Advocate in seeking resolution of any billing or other dispute.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Notice of installment payments due.</heading>
+        <text>The Finance Department shall mail to the customer 30 days' notice of each installment payment due.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 08-042" type="History">Ord. 08-042</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-523" type="History">Ord. 16-523</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>5</num>
+    <heading>Municipal Uses</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>5-1</num>
+      <heading>Tax to cover costs.</heading>
+      <text>A sufficient tax shall be annually levied and imposed for the payment of the expenses incurred in supplying water to any of the departments of the city government and all other uses ordered by the Mayor and City Council.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 48, §22(1st par.)</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §22(1st par.)</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §22(1st par.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §22(1st par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-125" type="History">Ord. 04-125</annotation>
+        <annotation doc="City of Balt., Md., Ord 11-043" type="History">Ord 11-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 23-072" type="History">Ord. 23-072</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-2</num>
+      <heading>Public parks and squares.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The Department of Recreation and Parks shall pay for the water used in the public parks and squares, the charges to be at the rate or rates fixed by the Board of Estimates for water used by individuals, firms, and corporations where meters are installed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Reduced amount.</heading>
+        <text>The Board of Estimates may, however, in its discretion, make an agreement with the said Department of Recreation and Parks for the payment of a certain amount each year in lieu of said charges.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 48, §22(2nd par.)</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §22(2nd par.)</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §22 (2nd par.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §22(2nd par.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-125" type="History">Ord. 04-125</annotation>
+        <annotation doc="City of Balt., Md., Ord 11-043" type="History">Ord 11-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 23-072" type="History">Ord. 23-072</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container name="6to10">
+    <prefix>Subtitles</prefix>
+    <num>6 to 10</num>
+    <reason>Reserved</reason>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>11</num>
+    <heading>Drinking Fountains</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>11-1</num>
+      <heading>Construction; location; removal.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Removal or relocation .</heading>
+        <text>The Mayor and the Director of Public Works are hereby authorized to remove or change the location of any and all existing drinking fountains and water troughs which, in their judgment, should be removed, or the location of which, in their judgment, ought to be changed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Construction.</heading>
+        <text>The Mayor and the Director of Public Works are hereby empowered to authorize and direct the construction of such drinking fountains and water troughs as they may deem advisable in the public highways of Baltimore City, and to determine the location thereof.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Unauthorized construction prohibited.</heading>
+        <text>No drinking fountain or water trough shall hereafter be constructed in any of the public highways of Baltimore City without the authority of the Mayor and the Director of Public Works unless the same be authorized by ordinance of the Mayor and City Council of Baltimore.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1927, art. 48, §82</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §10</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §10</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §10</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-104" type="History">Ord. 16-104</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>12</num>
+    <heading>Laying Pipes in Streets</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>12-1</num>
+      <heading>Powers of Department.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The Department of Public Works shall have full power and authority:</text>
+        <para>
+          <num>(1)</num>
+          <text>to convey water under and along any of the streets, lanes, and alleys of the City of Baltimore;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to lay a pipe or pipes in any of the said streets, lanes, and alleys for the purpose of conveying and distributing the said water;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to renew and repair the said pipes from time to time; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>for that purpose, to dig, break up, and open such portions of such street, lane, or alley, and of the pavement and footways thereof as may be necessary, leaving at all times a sufficient passageway for pedestrians and vehicles, if the same will admit thereof.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Prompt restoration of streets required.</heading>
+        <text>All such streets, lanes, and alleys as shall from time to time and at any time be so dug, opened, and taken up shall be restored as soon as possible to their former condition at the expense of the Department of Public Works.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §25</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §25</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §38</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §17</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §17</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §17</annotation>
+        <annotation doc="City of Balt., Md., Rev. Ords. 1858-043" type="History">Rev. Ords. 1858-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-495" type="History">Ord. 48-495</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>12-2</num>
+      <heading>Digging up streets.</heading>
+      <text>Whenever the Department of Public Works, or any of its agents or workmen, shall take up any part of the pavement or dig up any part of the streets, lanes, or alleys of the City of Baltimore for the purpose of laying or repairing the pipes for conducting the water through the City or into the houses or lots of the citizens, it shall proceed without delay to put down or repair the pipes, as the case may be, and immediately thereafter fill in the earth or otherwise secure the place so dug up from becoming a nuisance or endangering persons using the streets, lanes, and alleys.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §26</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §26</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §39</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §18</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §18</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §18</annotation>
+        <annotation doc="City of Balt., Md., Rev. Ords. 1858-043" type="History">Rev. Ords. 1858-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-495" type="History">Ord. 48-495</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>12-3</num>
+      <heading>Repairing pipes.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Immediate repair required.</heading>
+        <text>As often as any of the said pipes shall prove defective, so as to cause the water to flow on the surface of the ground or pavement, it shall be the duty of the Department of Public Works to have the same immediately repaired.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Scope of section.</heading>
+        <text>The pipes mentioned and referred to in subsection (a) of this section are hereby declared to mean and be any pipes laid by the Department of Public Works or in connection with the works under its care, under or along any street, lane, or alley of the City, whether the same be under or along the space covered or designed to be covered with the foot pavement or not, and a notice of the fact, by any person whatsoever, left at the office of said Department, shall be a sufficient notification.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §§27, 28</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §§27, 28</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §§40, 41</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §§19, 20</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §§19, 20</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §§19, 20</annotation>
+        <annotation doc="City of Balt., Md., Rev. Ords. 1858-043" type="History">Rev. Ords. 1858-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-495" type="History">Ord. 48-495</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>13</num>
+    <heading>Pavements</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>13-1</num>
+      <heading>Repair work.</heading>
+      <text>In all cases where the Department of Public Works or any of its agents or workmen shall take up any paving or curbing, whether in the roadway or sidewalk area, for any of the purposes aforesaid, the said Department of Public Works shall have such areas repaved, reconstructed, or repaired in a satisfactory manner.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §29</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §29</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §42</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §23</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §23</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §23</annotation>
+        <annotation doc="City of Balt., Md., Rev. Ords. 1858-043" type="History">Rev. Ords. 1858-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 50-1246" type="History">Ord. 50-1246</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>13-2</num>
+      <heading>Marking distribution facilities.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Marking by contractor required.</heading>
+        <text>Whenever it becomes necessary to pave, repave, or repair any street, lane, alley, sidewalk, or yard in the City of Baltimore, it shall be the duty of the contractor, paver, or other person or persons performing this work to distinctly mark, by a wooden or iron box, or by some other means approved by the Director of Public Works, all manhole frames and covers, roadway valve boxes, meter frames and covers, and curb boxes which are a part of the distribution system of the Department of Public Works or are a part of the water supply service to a consumer's property.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Penalties for violation.</heading>
+        <text>Any person, firm, or corporation failing or neglecting to comply with this provision shall forfeit and pay for each and every offense the sum of $10 to be paid to the Director of Finance.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §§32, 33</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §§32, 33</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §46</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §24</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §24</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §24</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1864-003" type="History">Ord. 1864-003</annotation>
+        <annotation doc="City of Balt., Md., Ord. 50-1391" type="History">Ord. 50-1391</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>14</num>
+    <reason>Repealed by Ord. 02-476</reason>
+  </container>
+  <container name="15to20">
+    <prefix>Subtitles</prefix>
+    <num>15 to 20</num>
+    <reason>Reserved</reason>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>21</num>
+    <heading>Prohibited Conduct; Penalties</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>21-1</num>
+      <heading>Rules and regulations.</heading>
+      <text>No person may violate any rule or regulation adopted under <cite path="|24|§1-1">§ 1-1 of this article</cite> to protect the City's water supply and facilities.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-2</num>
+      <heading>Suspension, etc., of certain uses.</heading>
+      <text>No person may violate any order issued under <cite path="|24|§1-6">§ 1-6 of this article</cite> to suspend, condition, limit, or temporarily prohibit the use of water.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-3</num>
+      <heading>Injuring fire hydrants.</heading>
+      <text>No person may wilfully injure or deface any fire hydrant belonging to the City.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §57</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §57</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §70</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §13</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §13</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §13</annotation>
+        <annotation doc="City of Balt., Md., Rev. Ords. 1858-043" type="History">Rev. Ords. 1858-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1859-080" type="History">Ord. 1859-080</annotation>
+        <annotation doc="City of Balt., Md., Ord. 50-1141" type="History">Ord. 50-1141</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-4</num>
+      <heading>Wrongful use after cut-off.</heading>
+      <text>No person may, without authorization from the Department of Public Works, connect with any water pipe that belongs to the City or otherwise turn on the water to any premises to which the water was turned off by an officer of the Department.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1893, art. 54, §42</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §55</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §32</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §27</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §27</annotation>
+        <annotation doc="City of Balt., Md., Rev. Ords. 1858-043" type="History">Rev. Ords. 1858-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 1880-043" type="History">Ord. 1880-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 50-1393" type="History">Ord. 50-1393</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-5</num>
+      <heading>Refusal of entry.</heading>
+      <text>No person may refuse to permit an agent of the Department of Public Works to visit his, her, or its premises in the discharge of that agent's official duties.</text>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1879, art. 53, §43</annotation>
+        <annotation type="Prior Codifications">1893, art. 54, §43</annotation>
+        <annotation type="Prior Codifications">1927, art. 48, §56</annotation>
+        <annotation type="Prior Codifications">1950, art. 39, §33</annotation>
+        <annotation type="Prior Codifications">1966, art. 29, §28</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 29, §28</annotation>
+        <annotation doc="City of Balt., Md., Rev. Ords. 1858-043" type="History">Rev. Ords. 1858-043</annotation>
+        <annotation doc="City of Balt., Md., Ord. 50-1393" type="History">Ord. 50-1393</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-6</num>
+      <heading>Interference with equipment; Illegal use of water.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Scope of section.</heading>
+        <text>This section does not apply to the lawful governmental regulation of water companies, their canals, springs, reservoirs, tunnels, mounds, dams, plugs, fire hydrants, mains, pipes, conduits, connections, taps, valves, engines, and machinery.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Prohibited conduct.</heading>
+        <text>Unless authorized by law or by permit from the Department of Public Works, no person may:</text>
+        <para>
+          <num>(1)</num>
+          <text>connect, disconnect, tap, or interfere or tamper with any of the canals, springs, reservoirs, tunnels, mounds, dams, plugs, fire hydrants, mains, pipes, conduits, connections, taps, valves, engines, or machinery belonging to the City;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>connect with any canal, spring, reservoir, tunnel, mound, dam, plug, fire hydrant, main, pipe, conduit, connection, tap, valve, engine, or machinery for the purpose of using or wasting water;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>tamper in any way with any meter used to register water consumption; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>introduce water to any premises not entitled to use it.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 29, §14</annotation>
+        <annotation doc="City of Balt., Md., Ord. 94-346" type="History">Ord. 94-346</annotation>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+      </annotations>
+    </section>
+    <section name="21-7to21-10">
+      <num>21-7 to 21-10</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-11</num>
+      <heading>Enforcement by citation.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
+        <para>
+          <num>(i)</num>
+          <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Process not exclusive.</heading>
+        <text>The issuance of an environmental citation to enforce this subtitle does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+        <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-12</num>
+      <heading>Criminal penalties.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Each day a separate offense.</heading>
+        <text>Each day that a violation continues is a separate offense.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

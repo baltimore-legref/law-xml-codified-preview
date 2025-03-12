@@ -1,0 +1,1512 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 22-165">
+  <num type="law">22-165</num>
+  <num type="bill">22-0211</num>
+  <heading type="short">City Employees and Retirees – Healthcare Reform</heading>
+  <heading type="long">City Employees and Retirees – Healthcare Reform</heading>
+  <meta>
+    <stub/>
+    <introduced>2022-03-21</introduced>
+    <effective>2022-10-19</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/46aa7bf4-0ab0-4796-b97a-5f0175705d0d.pdf">Ord. 22-165</citation>
+    </citations>
+    <history>
+      <vote date="2022-03-21" reading="first"/>
+      <vote date="2022-07-25" reading="second"/>
+      <enacted>2022-09-19</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="12" codified:doc="City of Baltimore, Md., Code" codified:path="12|§11-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>11</num>
+        <heading>City Employees and Retirees Health Benefits Program</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>11-1</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>In this subtitle, the following words have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Director.</em>
+            </text>
+            <text>"Director" means the Director of the Department of Finance.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Exclusive employee organization.</em>
+            </text>
+            <text>"Exclusive employee organization" means an employee organization designated as an exclusive representative, as described under <cite doc="City of Baltimore, Md., Code" path="12|4">subtitle 4</cite> of the <cite doc="City of Baltimore, Md., Code" path="12">Municipal Labor Relations Article</cite> {"Certification and Recognition of Employee Organizations"}.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Fund.</em>
+            </text>
+            <text>"Fund" means the Premium Stabilization Fund created under this subtitle.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <em>Generally Accepted Accounting Principles.</em>
+            </text>
+            <text>"Generally Accepted Accounting Principles" or "GAAP" means the accounting principles, standards, and procedures of the Financial Accounting Standards Board.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>
+              <em>Government Standards Accounting Board.</em>
+            </text>
+            <text>"Government Accounting Standards Board" or "GASB" means the organization that promulgates accounting and financial reporting standards for U.S. state and local governments that follow GAAP.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>
+              <em>Health benefit option.</em>
+            </text>
+            <text>"Health benefit option" means the type and components of a health benefit plan offered to:</text>
+            <para>
+              <num>(1)</num>
+              <text>an employee;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>a retiree;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>an employee or retiree's spouse; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>an employee or retiree's dependent.</text>
+            </para>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>
+              <em>Health benefit option – Inclusions</em>
+            </text>
+            <text>"Health benefit option" includes:</text>
+            <para>
+              <num>(1)</num>
+              <text>the structure of a health plan, including:</text>
+              <para>
+                <num>(i)</num>
+                <text>a health maintenance organization;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>a participating provider organization;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>a point-of-service plan;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>a fee-for-service plan; and</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>a consumer-directed plan;</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>covered benefits, including:</text>
+              <para>
+                <num>(i)</num>
+                <text>medical benefits;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>dental benefits;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>prescription drug benefits; and</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>vision benefits;</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the manner in which benefits are covered, including:</text>
+              <para>
+                <num>(i)</num>
+                <text>group health plans; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>health insurance exchanges;</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>cost-sharing plan features, including:</text>
+              <para>
+                <num>(i)</num>
+                <text>deductibles;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>co-pays;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>coinsurance; and</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>out-of-pocket maximums; and</text>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>cost-controlling plan features, including:</text>
+              <para>
+                <num>(i)</num>
+                <text>prior approval requirements;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>prescription formularies; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>management of investigative or trial treatments and services.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>
+              <em>Health benefit plan.</em>
+            </text>
+            <text>"Health benefit plan" means the health benefits and other options available to a participant under an insured plan or a self-insured plan offered by Baltimore City under the Program.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>
+              <em>Health Insurance Committee: HIC.</em>
+            </text>
+            <text>"Health Insurance Committee" or "HIC" means the labor management committee established by action of the City Board of Estimates on November 7, 2012.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>
+              <em>Participant.</em>
+            </text>
+            <text>"Participant" means any individual who is or may be eligible to receive benefits under the Program, including a:</text>
+            <para>
+              <num>(1)</num>
+              <text>City employee;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>retired City employee;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>spouse of a City employee or retired City employee; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>dependent of a City employee or retired City employee.</text>
+            </para>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>
+              <em>Plan year.</em>
+            </text>
+            <text>"Plan year" means the calendar or fiscal year of each benefit plan offered  under the Program.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>
+              <em>Program.</em>
+            </text>
+            <text>"Program" means the City Employee and Retiree Health Benefits Program.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>
+              <em>Retiree: retired City employee.</em>
+            </text>
+            <text>"Retiree" or "retired City employee" means a former City employee who receives or is entitled to receive a defined benefit pension under City Code <cite doc="City of Baltimore, Md., Code" path="|22">Article 22 {"Retirement Systems"}</cite>.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>
+              <em>Retiree health plan.</em>
+            </text>
+            <text>"Retiree health plan" means any health benefit plan, including any Medicare Advantage Plan, offered by or through the City to its retirees, their spouses, and their dependents.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-2</num>
+          <heading>Health Benefits Program; establishment.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The City shall maintain an Employee and Retiree Health Benefits Program.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Administration.</em>
+            </text>
+            <text>The Program shall be administered by the Baltimore City Department of Human Resources, in conjunction with the City HIC.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Required coverage.</em>
+            </text>
+            <text>The Program shall include the following coverage for all participants:</text>
+            <para>
+              <num>(1)</num>
+              <text>comprehensive medical care; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>prescription drugs.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Optional coverage.</em>
+            </text>
+            <text>The Program may include:</text>
+            <para>
+              <num>(1)</num>
+              <text>dental coverage;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>vision coverage; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>other coverage related to a participant's health.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-3</num>
+          <heading>HIC; Membership.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The HIC shall be composed of:</text>
+            <para>
+              <num>(1)</num>
+              <text>City appointees;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>exclusive employee representatives; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>retiree representatives.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Membership.</em>
+            </text>
+            <text>The HIC shall include the following members:</text>
+            <para>
+              <num>(1)</num>
+              <text>1 member appointed by each exclusive employee organization;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>1 member appointed by the Managerial and Professional Society of Baltimore, Inc. ("MAPS");</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>1 member appointed by the Baltimore City Retirees' Association in consultation with the exclusive employee organization;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>1 member appointed by each of the following City agencies:</text>
+              <para>
+                <num>(i)</num>
+                <text>Office of the Labor Commissioner;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Division of Employee Benefits in the Department of Human Resources;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Department of Finance; and</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>Office of the Mayor;</text>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>a professional consultant designated jointly by the exclusive employee organizations, MAPS, and retirees association as participants in the HIC; and</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>a professional consultant appointed by the City.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-4</num>
+          <heading>HIC; meetings.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The HIC shall meet at the request of the exclusive employee organizations, MAPS, and retirees no more than 4 times in each calendar year.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Mandatory meetings: next plan year.</em>
+            </text>
+            <text>The HIC shall meet at least twice between the months of June and September to discuss:</text>
+            <para>
+              <num>(1)</num>
+              <text>the fiscal and benefit outcomes of the immediate past plan year;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>health benefit options for the next plan year;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>margin and other factors considered for pricing of the next plan year;        and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>premium rates for the next plan year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>City requests for meetings.</em>
+            </text>
+            <text>The City may request a meeting of the HIC by providing written notice to employee, MAPS, and retiree members of the HIC through their professional consultant at least 10 business days in advance of a proposed meeting.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Agenda.</em>
+            </text>
+            <text>Following a request for a meeting, the party that made the request must furnish a copy of a proposed agenda for the meeting to the Labor Commissioner and to the professional consultants on the HIC no later than one week before the meeting.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <em>Meeting continuation.</em>
+            </text>
+            <text>HIC meetings may be adjourned by mutual consent and continued to subsequent timely dates to enable the City to fulfill requests for:</text>
+            <para>
+              <num>(1)</num>
+              <text>documents;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>information;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>data; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>other relevant materials requested by exclusive employee organizations, MAPS, and retiree participants in the HIC.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-5</num>
+          <heading>Administration of Program.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>Mandatory meetings: annual data.</em>
+            </text>
+            <text>The HIC shall meet at least 3 times per calendar year to review and discuss:</text>
+            <para>
+              <num>(1)</num>
+              <text>the annually-accounted receipts, disbursements, and incurred but not reported reserves for each City-sponsored plan;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>cost containment and efficiencies; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>data for each health benefit and other plan for active City employees, as defined in this subtitle.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Arbitration requirement.</em>
+            </text>
+            <text>Any dispute about the meaning or application of any part or provision of this subtitle, or any disagreement about the denial benefits or premiums charged to any participant shall be subject to final and binding arbitration, if a demand for arbitration is submitted upon the joint demand of either:</text>
+            <para>
+              <num>(1)</num>
+              <text>the exclusive employee organizations for a majority of City employees covered under <cite doc="City of Baltimore, Md., Code" path="|12">Article 12</cite>.  Municipal Labor Relations of the Baltimore City Code; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>a majority of the number of exclusive employee organizations under <cite doc="City of Baltimore, Md., Code" path="|12">Article 12</cite>.  Municipal Labor Relations of the Baltimore City Code.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Arbitrator qualifications.</em>
+            </text>
+            <text>Once a demand for arbitration is submitted, arbitration shall be conducted between the organizations and the City before an arbitrator who is:</text>
+            <para>
+              <num>(1)</num>
+              <text>a member of the National Academy of Arbitrators; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>selected from a list of 9 arbitrators furnished upon request by either:</text>
+              <para>
+                <num>(i)</num>
+                <text>the Federal Mediation Conciliation Service; or</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>the American Arbitration Association.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Arbitrator selection.</em>
+            </text>
+            <text>The arbitrator described in subsection (c) of this section shall be selected from the furnished list by the means of the parties alternately striking candidates from the list.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <em>Arbitration award.</em>
+            </text>
+            <text>A final written arbitration award shall be:</text>
+            <para>
+              <num>(1)</num>
+              <text>subject to review by the Circuit Court for Baltimore City upon the filing of a petition to:</text>
+              <para>
+                <num>(i)</num>
+                <text>affirm;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>modify; or</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>vacate; and</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>subject to further review on appeal under the Maryland Uniform Arbitration Act.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-6</num>
+          <heading>Requests for information.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The exclusive employee organizations, MAPS, and retirees may request information and data related to the Employee and Retiree Health Benefits Program.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>City to honor requests.</em>
+            </text>
+            <text>The City shall honor and respond to a request described under subsection (a) of this section.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Request for information; format and delivery.</em>
+            </text>
+            <text>A request for information shall be delivered in an email addressed to the Director and Chief Human Capital Officer of the City Department of Human Resources, with copies sent to the City Director of Finance and Office of the Labor Commissioner.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Delivery of information.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>The documents, information, and data provided to the HIC as a response to a request made under subsection (a) of this section shall be provided in a format organized by each health benefit plan offered.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Separate disclosure.</em>
+              </text>
+              <text>When requested, the documents, information, and data provided shall include separate disclosure of revenues, claims, and expenses for:</text>
+              <para>
+                <num>(i)</num>
+                <text>active employees;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>pre-Medicare-eligible retirees;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Medicare-eligible retirees;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>spouses of employees and retirees; and</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>dependents of employees and retirees.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Restriction of information.</text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>Withholding of requested materials barred.</em>
+              </text>
+              <text>Documents, information, and data requested under the authority of this subtitle may not be unreasonably withheld from disclosure to employee, MAPS, and retiree representatives.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Unreasonable delay of communication.</em>
+              </text>
+              <text>The production of documents, information, and data requested under the authority of this subtitle may not be unreasonably delayed by any City agency or City vendor.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>
+                <em>Complaints.</em>
+              </text>
+              <text>Any complaint regarding the content or timing of the City's or City vendor's response to a request made under the authority of this subtitle shall be brought to the attention of the Labor Commissioner who shall attempt to resolve the issue within a reasonable time frame.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>
+                <em>Public Information Act.</em>
+              </text>
+              <text>Access to data and documents granted to the HIC under this section shall be in addition to any rights or remedies conferred under the Maryland Public Information Act.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-7</num>
+          <heading>Annual provider reports.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>Following the conclusion of each plan year, the City shall order an annual provider report to be prepared for each benefit plan offered under the Program.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Included demographics.</em>
+            </text>
+            <text>A provider report required under subsection (a) of this section must cover:</text>
+            <para>
+              <num>(1)</num>
+              <text>current employees;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>pre-Medicare eligible retirees;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Medicare-covered retirees;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>spouses of City employees or retired City employees; and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>dependents of City employees or retired City employees.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Included plans.</em>
+            </text>
+            <text>The city shall order and prepare an annual provider report for each health benefit plan offered under the Program, without regard to whether a plan is vendor-insured or City self-insured.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Contents.</em>
+            </text>
+            <text>An annual provider report shall include information from the prior plan year, including:</text>
+            <para>
+              <num>(1)</num>
+              <text>enrollment data;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>data relating to claims, including claims exceeding $75,000; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>any other relevant information about the health benefit plan's:</text>
+              <para>
+                <num>(i)</num>
+                <text>status;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>benefit delivery; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>fiscal outcome.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <em>Provision of annual provider report.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>When an annual provider report becomes available, the City shall furnish a copy of each annual provider report to:</text>
+              <para>
+                <num>(i)</num>
+                <text>the exclusive employee organizations;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>MAPS;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>the retiree representatives; and</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>their consultant.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Deadline.</em>
+              </text>
+              <text>No later than June 15 of each calendar year, each annual provider report shall be furnished to:</text>
+              <para>
+                <num>(i)</num>
+                <text>the exclusive employee organizations;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>MAPS;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>the retiree representatives; and</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>their consultant.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>
+              <em>Annual provider reports to be discussed.</em>
+            </text>
+            <text>One of the HIC meetings conducted between June and September of each calendar year shall be used to discuss the annual provider reports for the past plan year.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-8</num>
+          <heading>Premiums and premium equivalents.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>Annual report.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>After the City receives from its consultant the projected premiums and projected premium equivalent rates for the upcoming plan year, the City shall release to the consultant for the exclusive employee organizations, MAPS, and retirees:</text>
+              <para>
+                <num>(i)</num>
+                <text>the formula, methods, and data used by the City's consultant to build rate projections for the ensuing plan year;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>a report containing the projected premiums and premium equivalent rates for each provider plan within the Program for the upcoming plan year, including:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>self-insured plans; and</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>vendor-insured plans; and</text>
+                </para>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>any available supporting data.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Request for meeting.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>The exclusive employee organizations, MAPS, and retirees or their consultant may request a meeting with the City or City's consultant concerning the proposed premium or premium equivalent rates.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Request timeline.</em>
+              </text>
+              <text>The exclusive employee organizations, MAPS, and retirees must request a meeting described in paragraph (1) of this subsection:</text>
+              <para>
+                <num>(i)</num>
+                <text>in writing;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>no later than 15 days following the disclosure of the proposed rates; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>no later than September 10, provided that the annual report required by this section is delivered to the exclusive employee organizations, MAPS, retirees, and their consultant prior to August 25.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>
+                <em>Meeting timeline.</em>
+              </text>
+              <text>The meeting described in paragraph (1) of this subsection shall be held at least 15 days prior to the submission of the proposed rates to the Board of Estimates.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>
+                <em>City's response timeline.</em>
+              </text>
+              <text>At least 10 days before the submission of the proposed rates to the Board of Estimates, the City shall consider and respond in writing to the exclusive employee organizations, MAPS, retirees, and their consultant regarding the proposed rates.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-9</num>
+          <heading>Collective Bargaining.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The following are subjects of collective bargaining under <cite doc="City of Baltimore, Md., Code" path="|12">Article 12</cite>. {"Municipal Labor Relations"} of the Baltimore City Code and <cite doc="City of Baltimore, Md., Charter" path="II|55|(a)">City Charter Article II §§ 55(a)</cite> and <cite doc="City of Baltimore, Md., Charter" path="II|55|(b)">(b)</cite>:</text>
+            <para>
+              <num>(1)</num>
+              <text>health benefit options offered or proposed under the Program;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>employer-employee and employer-retiree contributions proposed to sustain health benefit options offered under the Program; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>components of the health benefit plans that, under this subtitle, are available to or proposed for:</text>
+              <para>
+                <num>(i)</num>
+                <text>employees and retirees;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>eligible spouses of employees and retirees; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>eligible dependents of employees and retirees.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Timeline.</em>
+            </text>
+            <text>Collective bargaining concerning the following shall be conducted and completed with all exclusive employee organizations and MAPS at least 90 days prior to the release of plan enrollment documents covering active employees and retirees for a new plan year:</text>
+            <para>
+              <num>(1)</num>
+              <text>health benefit options offered under the Program;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>employer-employee and employer-retiree contributions to health benefit options offered under the Program; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>components of the health benefit plans.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Premiums and premium-equivalent charges.</em>
+            </text>
+            <text>After the date of a retiree's permanent separation from City employment, no premium or premium-equivalent charges, nor the retiree's respective share thereof under the Graduated Retiree Contribution Schedule, may be changed for the following individuals:</text>
+            <para>
+              <num>(1)</num>
+              <text>a retiree;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the spouse of a retiree; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the dependent of a retiree.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Program information: unreasonable denial and delay.</em>
+            </text>
+            <text>The City and each of its constituent units may not unreasonably deny or delay disclosure of information, data, and documents requested about the Program before and during collective bargaining over:</text>
+            <para>
+              <num>(1)</num>
+              <text>plan subsidies;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>plan benefit options; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>any other components of any:</text>
+              <para>
+                <num>(i)</num>
+                <text>health benefit plans;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>prescription drug plans; or</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>plans for other services.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-10</num>
+          <heading>Gain and Loss Statement.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>Once a year, the City shall provide a good faith operating gain and loss    statement for:</text>
+            <para>
+              <num>(1)</num>
+              <text>each self-insured health benefit plan;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>each insured health benefit plan; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>any other plan offered by the City under the Program.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Form and time line.</em>
+            </text>
+            <text>The gain and loss statement required under subsection (a) of this section shall be:</text>
+            <para>
+              <num>(1)</num>
+              <text>provided following the close of each plan year;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>provided on or before May 30;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>consistent with the GAAP adopted under the rules of GASB; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>provided to the exclusive employee organizations, MAPS, retirees and their consultant.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Content.</em>
+            </text>
+            <text>The gain and loss statement required under subsection (a) of this section shall account for all premium equivalents of the plan for the benefit year, as compared to expenditures for the plan, which include:</text>
+            <para>
+              <num>(1)</num>
+              <text>estimated incurred claims;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>premiums paid;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>administrative fees;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>network fees;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>any other fees; and</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>any taxes.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Supporting materials.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>If requested by the exclusive employee organizations, MAPS, and retirees, the City shall provide the documents, information, and data considered to prepare the gains and losses statement required under subsection (a) of this section to:</text>
+              <para>
+                <num>(i)</num>
+                <text>exclusive employee organizations;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>MAPS;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>retirees; and</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>their consultant.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Separate disclosures.</em>
+              </text>
+              <text>To the extent that such information is collected in the ordinary course of business, the supporting materials shall include separate disclosures of revenues, claims, and expenses for:</text>
+              <para>
+                <num>(i)</num>
+                <text>exclusive employee organizations;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>MAPS;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>retirees; and</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>their consultant.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-11</num>
+          <heading>Final accounting.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>No later than June 30 of each year, the City shall deliver a final accounting prepared by the Director to:</text>
+            <para>
+              <num>(1)</num>
+              <text>exclusive employee organizations;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>MAPS;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>retirees; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>their consultant.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Content.</em>
+            </text>
+            <text>The final accounting shall include information and data related to:</text>
+            <para>
+              <num>(1)</num>
+              <text>enrollment;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>claims;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>administrative costs;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>usage trends; and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>any other data necessary to calculate any surplus or deficit experienced by the plan for the immediately preceding plan year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Excess revenues.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>The Director and the consultant appointed by the exclusive employee organization, MAPS, and retirees shall meet in the event that the final accounting reports an excess of revenues over costs in the difference between:</text>
+              <para>
+                <num>(i)</num>
+                <text>premium equivalents;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>premiums;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>other payments received from covered:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>active employees;</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>spouses of active employees;</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>dependents of active employees;</text>
+                </para>
+                <para>
+                  <num>(D)</num>
+                  <text>retirees;</text>
+                </para>
+                <para>
+                  <num>(E)</num>
+                  <text>spouses of retirees; and</text>
+                </para>
+                <para>
+                  <num>(F)</num>
+                  <text>dependents of retirees;</text>
+                </para>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>vendor rebates and remissions; and</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>all plan costs and expenses incurred for each:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>insured health benefit plan;</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>self-insured health benefit plan; and</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>prescription drug plan.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Meeting agenda.</em>
+              </text>
+              <text>During the meeting required by this subsection, the   Director and the consultant shall determine if:</text>
+              <para>
+                <num>(i)</num>
+                <text>they agree that the findings are correct;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>the findings are based on GAAP; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>the findings follow GASB rules.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>
+                <em>Variance.</em>
+              </text>
+              <text>During their assessment of the findings at the meeting required by this subsection, the Director and the consultant shall take into account any positive or negative variance in all plans.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Surplus.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>Determination.</em>
+              </text>
+              <text>The Program's year-end surplus shall be determined and verified by calculating the difference of the City's obligation for premiums and other funds owed by the City to support all insurance benefits under any one or more of the plans offered by the City, from 1 plan year to the next.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Use.</em>
+              </text>
+              <text>The surplus described under this subsection may not be used by the City for a purpose other than sustaining the City's health benefit plans.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>
+                <em>Fund.</em>
+              </text>
+              <text>The Program's year-end surplus shall be deposited in the Premium Stabilization Fund created under this subtitle.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-12</num>
+          <heading>Premium Stabilization Fund.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The City shall maintain a Premium Stabilization Fund within the City's Risk Management Fund.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Maintenance.</em>
+            </text>
+            <text>The Fund:</text>
+            <para>
+              <num>(1)</num>
+              <text>may not be commingled with any part of the City's General Operating Fund;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>shall be maintained by the City for the exclusive benefit of the Program; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>shall be used only to enable the City to defray a year-end deficit in the health benefit plan accounts after:</text>
+              <para>
+                <num>(i)</num>
+                <text>all revenues, claims, and costs are fully accounted for; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>full disclosure has been made to the:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>exclusive employee organizations;</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>MAPS;</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>retirees; and</text>
+                </para>
+                <para>
+                  <num>(D)</num>
+                  <text>their consultant.</text>
+                </para>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Transfer of surplus.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>The Program's year-end surplus shall be transferred into the Fund until the balance of the Fund reaches the equivalent of 2 months of medical and prescription drug claims for the previous plan year.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Reporting.</em>
+              </text>
+              <text>The Director shall report the balance of the Fund within 3 to 6 months after the end of each plan year to the:</text>
+              <para>
+                <num>(i)</num>
+                <text>exclusive employee organizations;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>MAPS;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>retirees; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>their consultant.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Pricing.</em>
+            </text>
+            <text>When the Fund's balance is equal to or greater than 2 months of Program medical and prescription drug claims for the most recent completed plan year, the City may not use margin as a factor in the pricing of:</text>
+            <para>
+              <num>(1)</num>
+              <text>premiums for vendor insured plans for active employees;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>premiums for vendor insured plans for retirees;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>premium equivalents for self-insured benefit plans for active employees; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>premium equivalents for self-insured benefit plans for retirees.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <em>Disbursements.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>Application by Director.</em>
+              </text>
+              <text>Disbursements from the Fund shall be authorized only if the Board of Estimates approves an application by the Director.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>
+                <em>Disclosure to representatives.</em>
+              </text>
+              <text>Thirty days before presenting the application described under this subsection to the Board of Estimates, the Director shall provide a copy of the application to the:</text>
+              <para>
+                <num>(i)</num>
+                <text>exclusive employee organizations;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>MAPS;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>retirees; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>their consultant.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>
+                <em>Application of surplus after disbursement.</em>
+              </text>
+              <text>If a disbursement from the Fund is authorized by the Board of Estimates due to a plan's year-end deficit, then year-end plan surpluses in subsequent plan years shall be exclusively applied to restore the Fund.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>11-13</num>
+          <heading>Retained duties and powers of City.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>The Director of the Department of Human Resources shall have the general duty to administer the Program.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Powers.</em>
+            </text>
+            <text>Subject to the provisions of this subtitle, the Director of the Department of Human Resources or the Director's designee may:</text>
+            <para>
+              <num>(1)</num>
+              <text>propose the health benefit options and design the health benefits plans, which may include a wellness program made available to participants;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>prepare forms and establish procedures to be followed in order to obtain health benefits under the Program;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>determine the eligibility of persons to participate in the Program and its health benefit plans and other plans by applying the provisions of the Program governing such eligibility subject to the right of persons to appeal adverse decisions on eligibility through grievance and arbitration procedures established under this subtitle;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>approve or supervise the approval of the payment of claims for health and other benefits;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>establish a process for internal appeals and external review of decisions on claims that complies with the federal Affordable Care Act and subsequent statutes;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>review the payment of claims for health insurance benefits and seek recovery of any overpayment of benefits;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>establish through the processes of collective bargaining available under this subtitle health care flexible spending accounts or health savings accounts as part of the Program; and</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, may adopt rules and regulations to carry out this subtitle, provided that, at least 60 prior to taking effect, the rules and regulations are published and delivered to:</text>
+              <para>
+                <num>(i)</num>
+                <text>each exclusive employee organization;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>MAPS;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>retirees; and</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>their consultant.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+      </container>
+    </codify:insert>
+  </section>
+</document>

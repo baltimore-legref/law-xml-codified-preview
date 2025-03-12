@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-332" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-332</num>
+  <num type="bill">23-0468</num>
+  <heading type="short">Off-Street Parking - Inclusionary Housing</heading>
+  <heading type="long">An Ordinance Concerning Off-Street Parking - Inclusionary Housing</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-12-04</introduced>
+    <effective>2024-05-24</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/90992571-1ea9-471a-898a-ab4e159db992.pdf">Ord. 24-332</citation>
+    </citations>
+    <history>
+      <vote date="2023-12-04" reading="first"/>
+      <vote date="2024-04-08" reading="second"/>
+      <enacted>2024-04-24</enacted>
+      <committee>Favorable, as amended</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="32|§16-601" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601">
+      <section>
+        <prefix>§</prefix>
+        <num>16-601</num>
+        <heading>Exemptions and reductions from requirements.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The following districts and uses are allowed the following exemptions from the off-street parking requirements of <em>Table 16-406: Required Off-Street Parking</em>.  These do not include exemptions from required bicycle parking.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Exemptions within certain districts.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The C-1, C-1-E, C-1-VC, and C-5 Districts and all non-residential uses in the R-MU and D-MU Overlay Districts are exempt from parking requirements.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <para>
+              <num>(i)</num>
+              <text>In the PC Subdistricts, the following uses are exempt from the off-street parking requirements of <em>Table 16-406: Required Off-Street Parking</em>:</text>
+              <para>
+                <num>(A)</num>
+                <text>open-space uses (except for recreational marinas); and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>commercial uses with a gross floor area of less than 25,000 square feet.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The commercial-use exemption applies to any commercial use with a gross floor area of less than 25,000 square feet, even if there are other commercial uses located on the same lot.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Square footage exemption for C-2.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The first 3,000 square feet of gross floor area for commercial uses in the C-2 District are exempt from the parking requirements of <em>Table 16-406</em>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Those commercial uses 3,000 square feet or less in gross floor area located within a multi-tenant configuration (e.g., a shopping center) are not eligible for this exemption and must provide the required parking.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Rowhouse dwelling.</heading>
+          <text>For a rowhouse dwelling that is placed, constructed, or reconstructed in an existing row of attached or formerly attached rowhouse dwellings, no off-street parking spaces need be provided if any of the following circumstances are met:</text>
+          <para>
+            <num>(1)</num>
+            <text>no off-street parking space existed for the previous dwelling;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the lot adjoins a street that is at least 34 feet wide;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the lot is less than 85 feet deep; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>regardless of the depth of the lot or the width of the street, the alley adjoining the dwelling is less than 10 feet wide.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Neighborhood commercial establishment.</heading>
+          <text>In a neighborhood commercial establishment allowed by this Code, no off-street parking is required for any use of less than 2,500 square feet in gross floor area.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Structures over 50 years old, etc.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>Structures over 50 years old or structures that have received an historic tax credit are exempt from the parking requirements, subject to review and approval by the Director of Planning, if they have not historically provided parking and they lack sufficient space on the lot to accommodate parking.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Permitting.</heading>
+            <para>
+              <num>(i)</num>
+              <text>A parking variance is not required:</text>
+              <para>
+                <num>(A)</num>
+                <text>if the Director of Planning grants an exemption to certain parking requires as provided for under paragraph (1) of this subsection; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>if evidence the exemption is submitted with the permit application.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>If the exemption is denied by the Director of Planning, a request for a parking variance may be submitted to and, after review, approved by the Board of Municipal and Zoning Appeals.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>
+            <em>Residential projects subject to inclusionary housing.</em>
+          </text>
+          <text>Off-street parking is not required for a residential project that is subject to the inclusionary requirements under <cite doc="City of Baltimore, Md., Code" path="|13|§2B-21">§ 2B-21 {"Inclusionary Requirements"} of Article 13</cite> of this Code.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><em>Reductions - Affordable housing</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>No more than 1 parking space need be provided for every 2 dwelling units in dwellings that are erected or rehabilitated subject to a restriction that the units be leased to residents with incomes at or below 60% of the Area Median Income, with that restriction being for a term of not less than 15 years from the date of the issuance of a use permit and recorded in the Land Records of Baltimore City.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Housing Commissioner must verify, by letter to the Planning Director and the Zoning Administrator, the recordation, term, and tenor of the restriction.</text>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text><em>Reductions - Small dwellings</em>.</text>
+          <text>No more than 0.5 parking spaces need be provided for every dwelling unit that is 500 square feet or smaller.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text><em>Reductions - Housing for elderly</em>.</text>
+          <text>For units designed for occupancy by the elderly in a government-assisted private or public housing dwelling, no more than 1 space need be provided for every 4 units.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

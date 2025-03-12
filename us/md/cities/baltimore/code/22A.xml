@@ -1,0 +1,2909 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Article</prefix>
+  <num>22A</num>
+  <heading>Retirement Savings Plan</heading>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>1</num>
+    <heading>Definitions; General Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>1-1</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>In <cite path="|22A">this article</cite>, the following terms have the meanings indicated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Account.</heading>
+        <text>"Account" means the separate bookkeeping account established and maintained on behalf of each member under <cite path="|22A|§6-1">§ 6-1 {"Accounts: Establishment"} of this article</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Beneficiary.</heading>
+        <text>"Beneficiary" means any person entitled under <cite path="|22A|§9-4">§ 9-4 {"Distributable events – Death"} of this article</cite> to receive the value of a member's account on the death of that member.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Board of Trustees; Board.</heading>
+        <text>"Board of Trustees" or "Board" means the Board of Trustees established by <cite path="|22A">this article</cite>.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>City of Baltimore; City.</heading>
+        <text>"City of Baltimore" or "City" means the Mayor and City Council of Baltimore.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Deferred Compensation Plan.</heading>
+        <text>"Deferred Compensation Plan" means the City of Baltimore Deferred Compensation Plan.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Earnable compensation.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Hybrid member.</heading>
+          <text>"Earnable compensation" means the annual salary authorized for a hybrid member.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Non-hybrid member.</heading>
+          <text>"Earnable Compensation" means the actual pay received each payroll period (if any) by a non-hybrid member.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Exclusions.</heading>
+          <text>For both hybrid and non-hybrid members, "earnable compensation" does not include overtime pay, differential pay, environmental pay, hazardous duty pay, pay for conversion of leave, bonus pay or other fringe benefits, or any like additional payments.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Employee.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Employee" means any of the following, if in a job classification that requires at least 500 hours per year:</text>
+          <para>
+            <num>(i)</num>
+            <text>except as provided in paragraph (2) of this subsection, any permanent officer or employee of the Mayor and City Council of Baltimore, including any officer or employee of an agency, department, unit, subdivision, or instrumentality of the Mayor and City Council;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>any employee of the Baltimore City Public School System who is not eligible to participate in the Maryland State Retirement and Pension System; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any employee of the Enoch Pratt Free Library who is not eligible to participate in the Maryland State Retirement and Pension System.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Exclusions.</heading>
+          <text>"Employee" does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>any "elected official", as defined in City Code <cite path="|22|§17A|(2)">Article 22, § 17A(2)</cite>, for purposes of membership in the Elected Officials' Retirement System of the City of Baltimore;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>any "employee", as defined in City Code <cite path="|22|§30|(2)">Article 22, § 30(2)</cite>, for purposes of membership in the Fire and Police Employees' Retirement System of the City of Baltimore; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any "employee" of the Baltimore Museum of Art or the Walters Art Museum.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>In case of doubt.</heading>
+          <para>
+            <num>(i)</num>
+            <text>In all cases of doubt, the Board of Trustees determines who is an "employee" under <cite path="|22A">this article</cite>.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A determination by the Board under this paragraph is final and binding on all persons, subject to the rights of appeal and review under § 2-17 {"Administrative appeal"} and <cite path="|22A|§2-18">§ 2-18 {"Judicial and appellate review"} of this article</cite>.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Hybrid member.</heading>
+        <text>"Hybrid member" means an employee who, under City Code <cite path="|22|§9">Article 22, § 9</cite>.1, has elected to become both a member of the Retirement Savings Plan and a Class D member of the Employees' Retirement System.</text>
+      </para>
+      <para name="(j)">
+        <num>(j)</num>
+        <reason>Repealed</reason>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>IRC.</heading>
+        <text>"IRC" means the Internal Revenue Code, as amended from time to time.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>Member.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Member" means an employee who is a member of the Retirement Savings Plan.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Inclusions.</heading>
+          <text>"Member" includes, except as otherwise specifically limited, any hybrid member or non-hybrid member of the Plan.</text>
+        </para>
+      </para>
+      <para>
+        <num>(m)</num>
+        <heading>Military service.</heading>
+        <text>"Military service" means "service in the uniformed services", as that phrase is defined in 38 U.S.C. § 4303(13) or any successor law.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <heading>Non-hybrid member.</heading>
+        <text>"Non-hybrid member" means an employee who, under City Code <cite path="|22|§9">Article 22, § 9</cite>.1, has elected to become a member of the Retirement Savings Plan, but not a Class D member of the Employees' Retirement System.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <heading>Normal retirement age.</heading>
+        <text>"Normal retirement age" means age 65.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <heading>Other City retirement plan.</heading>
+        <text>"Other City retirement plan" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Employees' Retirement System of the City of Baltimore;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the Fire and Police Employees' Retirement System of the City of Baltimore; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the Elected Officials' Retirement System of the City of Baltimore.</text>
+        </para>
+      </para>
+      <para>
+        <num>(q)</num>
+        <heading>Participating employer; Employer.</heading>
+        <text>"Participating employer" or "employer" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Mayor and City Council of Baltimore; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the Baltimore City Public School System.</text>
+        </para>
+      </para>
+      <para>
+        <num>(r)</num>
+        <heading>Plan Year.</heading>
+        <text>"Plan Year<strong>" </strong>means the 12-month period beginning on July 1 of each year and ending on June 30 of the following year, both dates inclusive.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <heading>Retirement Savings Plan; Plan.</heading>
+        <text>"Retirement Savings Plan" or "Plan" means the Retirement Savings Plan of the City of Baltimore established by <cite path="|22A">this article</cite>.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <heading>Service.</heading>
+        <text>"Service", as applied to an employee's service with a participating employer, has the meaning stated in <cite path="|22A|§4-1">§ 4-1 {" 'Service' defined"} of this article</cite>.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <heading>Trustee.</heading>
+        <text>"Trustee" means a member of the Board of Trustees.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <heading>USERRA.</heading>
+        <text>"USERRA" means the Uniformed Services Employment and Reemployment Rights Act of 1994, as amended, 38 U.S.C. § 4301 <em>et seq</em>.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <heading>Value.</heading>
+        <text>"Value", as applied to a member's account or sub-account, means the total value of that account or sub-account, as determined under <cite path="|22A|§6-3|(b)">§ 6-3(b) {"Value of funds and accounts"} of this article</cite>.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <heading>Vested account.</heading>
+        <text>"Vested account" means the aggregate of the following vested sub-accounts:</text>
+        <para>
+          <num>(1)</num>
+          <text>a non-hybrid member's Mandatory Employee Contribution Sub-Account;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a member's Employer Contribution Sub-Account, if vested under <cite path="|22A|§7-2">§ 7-2 {"Vesting: Employer Contribution Sub-Account"} of this article</cite>; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>if applicable, a member's Rollover Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+        <annotation type="Editor's Notes">for the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>1-2</num>
+      <reason>Repealed by Ord. 22-125</reason>
+      <annotations>
+        <annotation type="Editor's Notes">See <cite path="|general">City General Provisions Article</cite>, Subtitles 2 and 3, for the Code-wide standard rules of interpretation, of severability, and of time computations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>1-3</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-4</num>
+      <heading>Plan established.</heading>
+      <text>The Retirement Savings Plan of the City of Baltimore is established, effective as of July 1, 2014, for the purpose of providing retirement benefits for eligible employees.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-5</num>
+      <heading>Qualification under Internal Revenue Code.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The Retirement Savings Plan is intended to be:</text>
+        <para>
+          <num>(1)</num>
+          <text>a qualified profit-sharing plan under IRC § 401(a); and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a "governmental plan" under IRC § 414(d).</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Construction of article.</heading>
+        <text>Accordingly, any provision of <cite path="|22A">this article</cite> that is subject to more than one construction or interpretation must be resolved in favor of the construction or interpretation that is consistent with the requirements of IRC § 401(a) and § 414(d).</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-329" type="History">Ord. 15-329</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-6</num>
+      <heading>Limitations on liability.</heading>
+      <text>Notwithstanding any other provision of <cite path="|22A">this article</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>no member is, by virtue of membership in the Retirement Savings Plan, considered to have entered into a contract at any time with the Mayor and City Council of Baltimore;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the Mayor and City Council of Baltimore does not guarantee the payment of any benefit under the Plan; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>any person claiming a benefit under the Plan must look solely to Plan assets.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-7</num>
+      <heading>Exclusive benefit.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Notwithstanding any other provision of <cite path="|22A">this article</cite>, other than subsection (b) of this section, no part of the assets of the Retirement Savings Plan may be used for or diverted to any purposes other than for the exclusive benefit of members and beneficiaries.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Exception for mistake of fact.</heading>
+        <para>
+          <num>(1)</num>
+          <text>An employer contribution made by mistake of fact may be returned to the appropriate participating employer after payment of the mistaken contribution.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The amount returned:</text>
+          <para>
+            <num>(i)</num>
+            <text>must be reduced by its proportionate share of losses and expenses; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>may not be increased by any gains.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>2</num>
+    <heading>Administration</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>2-1</num>
+      <heading>Board established.</heading>
+      <text>There is a Board of Trustees of the Retirement Savings Plan.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-2</num>
+      <heading>Board composition.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Board consists of the following 13 trustees, all of whom serve with voting privileges:</text>
+          <para>
+            <num>(i)</num>
+            <text>the Director of Finance or the Director's designated representative, who must be either the Deputy Director of Finance or the Budget Director;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the City Comptroller or the Comptroller's designated representative, who must be a Deputy Comptroller;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the Director of Human Resources;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the City Labor Commissioner;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>2 representatives of the Baltimore City Public School System, to be designated by the Chief Executive Officer of the Baltimore City Public School System;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>the President of AFSCME Local 44 or the President's designated representative;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>the President of the City Union of Baltimore ("CUB") or the President's    designated representative;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>the President of the Managerial and Professional Society of Baltimore, Inc. ("MAPS") or the President's designated representative;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>a representative jointly designated by the Baltimore Fire Officers Association and Baltimore City Lodge #3 Fraternal Order of Police;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>2 residents and registered voters of the City of Baltimore, to be appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV">City Charter Article IV</cite>, §6; and</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>`a representative appointee to be designated by the City Council President.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Appointed trustees – Qualifications.</heading>
+          <text>Each of the 2 trustees appointed under paragraph (1)(x) of this subsection must have at least 10 years of relevant institutional investment management expertise or other equivalent experience and may not be an official or employee of the City at the time of his or her appointment or during the entire term of office.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Appointed trustees – Term of office.</heading>
+          <para>
+            <num>(i)</num>
+            <text>Each of the 3 trustees appointed under paragraph (1)(x) and (xi) of this subsection serves for a term of 4 years, concurrent with the term of the Mayor and the City Council President.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>At the end of a term, an appointed member continues to serve until a successor is appointed and qualifies.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If appointed to fill a vacancy in an unexpired term, a trustee serves only for the   remainder of that term.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Service without regard to political affiliation.</heading>
+        <text>Notwithstanding <cite doc="City of Baltimore, Md., Charter" path="IV|§8">City Charter Article IV, § 8</cite>, trustees may be appointed or hold their positions without regard to political affiliation.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-329" type="History">Ord. 15-329</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+        <annotation doc="City of Balt., Md., Ord. 21-019" type="History">Ord. 21-019</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-3</num>
+      <heading>Board functions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The Board of Trustees serves both:</text>
+        <para>
+          <num>(1)</num>
+          <text>in an administrative capacity, as described in subsection (b) of this section; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>as trustee of Plan assets, as described in subsection (c) of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Administrative capacity.</heading>
+        <text>Subject to <cite path="|22A|§2-8">§ 2-8 {"Retention of services; Right of reliance"} of this subtitle</cite>, the Board is responsible for:</text>
+        <para>
+          <num>(1)</num>
+          <text>the general administration and proper operation of the Plan; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>effectuating the provisions of <cite path="|22A">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Trustee of Plan assets.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Board is the trustee of the Plan assets.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Subject to <cite path="|22A|§2-8">§ 2-8 {"Retention of services; Right of reliance"} of this subtitle</cite>, the Board is responsible for:</text>
+          <para>
+            <num>(i)</num>
+            <text>selecting investment funds (including a default investment fund) under <cite path="|22A|§6-2">§ 6-2 {"Accounts: Investments"} of this article</cite>;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>monitoring these investment funds on an ongoing basis; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>adding or replacing these investment funds as the Board considers prudent.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Other assets.</heading>
+        <text>Subject to <cite path="|22A|§2-8">§ 2-8 {"Retention of services; Right of reliance"} of this subtitle</cite>, the Board is responsible for any other assets assigned to the Board by the City.  The scope of the Board's responsibility is determined by the terms of the assignment.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-329" type="History">Ord. 15-329</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>2-4</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-5</num>
+      <heading>Oath of office.</heading>
+      <text>Each Trustee must take an oath of office as required by <cite doc="City of Baltimore, Md., Charter" path="IV|§6|(i)">City Charter Article IV, § 6(i)</cite>, or other applicable law.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-6</num>
+      <heading>Officers.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Chair.</heading>
+        <text>The Director of Finance (or the Director's designated representative) serves as Chair of the Board.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Vice-Chair.</heading>
+        <text>The trustees may elect a trustee to serve as Vice-Chair of the Board.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Secretary.</heading>
+        <para>
+          <num>(1)</num>
+          <text>If an Executive Director has been appointed by the Board under <cite path="|22A|§2-8|(a)">§ 2-8(a) {"Services"} of this subtitle</cite>, the Executive Director serves as the Board's Secretary.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If no Executive Director has been appointed, the trustees may elect a trustee to serve as the Board's Secretary.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-7</num>
+      <heading>Meetings; Voting; Records.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Meetings.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Board of Trustees must meet once during each calendar quarter, unless the Chair determines that additional meetings are required.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All meetings of the Board must be conducted in accordance with the State Open Meetings Act, Title 3 of the State <cite path="|general">General Provisions Article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Voting.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Each trustee is entitled to 1 vote on the Board.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>6 trustees constitute a quorum.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>An affirmative vote by the majority of a quorum is needed for any action by the Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Records.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Board must keep a record of all of its proceedings.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>These records are open to public inspection in accordance with the State Public Information Act, Title 4 of the State <cite path="|general">General Provisions Article</cite>.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-329" type="History">Ord. 15-329</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-8</num>
+      <heading>Retention of services; Right of reliance.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Services.</heading>
+        <para>
+          <num>(1)</num>
+          <text>From time to time, as the Board of Trustees determines necessary for the efficient administration of the Retirement Savings Plan, the Board may:</text>
+          <para>
+            <num>(i)</num>
+            <text>retain the services of a third-party administrator to provide administrative and recordkeeping services for the Plan;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>retain the services of 1 or more investment advisors to provide investment assistance and advice;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>retain the services or secure the advice of any other person or entity; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>appoint an Executive Director for the Plan and delegate to the Executive Director and the Executive Director's staff any of the Board's duties or responsibilities under this subtitle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The retention of these services is subject to the approval of the Board of Estimates if the fees for the services exceed the dollar threshold that generally requires Board of Estimates approval.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Reliance.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Board of Trustees is entitled to rely conclusively on, and is fully protected in any action or omission taken by it in good faith reliance on, the advice of any person or entity.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Board is not liable for any act or omission of any person to whom the Board has delegated any of its duties or responsibilities.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-9</num>
+      <heading>Rules and regulations.</heading>
+      <text>Subject to any limitations imposed by <cite path="|22A">this article</cite> and to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees may adopt rules and regulations for the efficient administration of the Retirement Savings Plan.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation type="History">Text Conformed 02/22/21</annotation>
+        <annotation type="Editor's Notes">
+          <text>By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in</text>
+          <text>consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</text>
+        </annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-10</num>
+      <heading>Compensation; Expenses.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Except as provided in subsection (b) of this section, each trustee serves without compensation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Expenses.</heading>
+        <text>Trustees serve without compensation, but are entitled to reimbursement for reasonable expenses incurred in the performance of their duties.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-329" type="History">Ord. 15-329</annotation>
+        <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-11</num>
+      <heading>Legal advisor.</heading>
+      <text>The City Solicitor is the legal advisor to the Board.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-12</num>
+      <heading>Fiduciary standards; Indemnification; Insurance.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>"Acting as a fiduciary ..." defined.</heading>
+        <text>For purposes of this section, a person is "acting as a fiduciary with respect to the Plan" to the extent that the person:</text>
+        <para>
+          <num>(1)</num>
+          <text>exercises any discretionary authority or discretionary control respecting management of the Retirement Savings Plan;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>exercises any discretionary authority or discretionary control respecting management or disposition of Plan assets; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>has any discretionary authority or discretionary responsibility in administering the Plan.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Fiduciary standards.</heading>
+        <text>The trustees and every other person "acting as a fiduciary with respect to the Plan" must discharge their duties with respect to the Plan:</text>
+        <para>
+          <num>(1)</num>
+          <text>solely in the interest of members and beneficiaries and for the exclusive purpose of providing benefits to members and beneficiaries and defraying reasonable expenses of administering the Plan;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in a like capacity and familiar with those matters would use in the conduct of an enterprise of a like character and with like aims; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>in accordance with <cite path="|22A">this article</cite> and with the documents and instruments governing the Plan.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Indemnification.</heading>
+        <para>
+          <num>(1)</num>
+          <text>To the extent allowable by applicable law, the City may indemnify every person who is made or is threatened to be made a party to any action, suit, or proceeding, including any administrative or investigative proceeding, by reason of "acting as a fiduciary with respect to the Plan".</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This indemnification may cover those expenses actually and reasonably incurred in connection with the action, suit, or proceeding, including attorney's fees, judgments, fines, and amounts paid in settlement.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Notwithstanding any other provision of this subsection, indemnification may not be made with respect to:</text>
+          <para>
+            <num>(i)</num>
+            <text>any action, suit, or proceeding as to which the person acted with gross negligence or willful misconduct; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>an independent contractor providing services to the Plan.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Fiduciary insurance.</heading>
+        <text>The City may provide insurance or self-insurance to cover potential liability resulting from an act or failure to act on the part of any person "acting as a fiduciary with respect to the Plan".</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Failure to indemnify or adequately insure.</heading>
+        <text>If the City fails to indemnify or provide adequate insurance for any person "acting as a fiduciary with respect to the Plan", the City assumes all liability resulting from that person's act or failure to act.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-13</num>
+      <heading>Plan expenses.</heading>
+      <text>Except for investment fund fees and expenses paid under <cite path="|22A|§6-2|(e)">§ 6-2(e) {"Investments: Fund fees and expenses"} of this article</cite>, all expenses incurred in the administration of the Retirement Savings Plan and in the management of Plan assets may only be paid as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>first, out of either forfeitures under Subtitle 8 {"Forfeitures"} of <cite path="|22A">this article</cite>; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the unallocated Plan Asset Account that holds revenue sharing or similar payments received by the Plan from or with respect to an investment option, as determined by the Board.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-14</num>
+      <heading>Recovery of overpayments.</heading>
+      <text>If the Board of Trustees determines that a member or beneficiary has received from the Retirement Savings Plan a distribution that exceeds the amount to which the member or beneficiary was entitled, the Board must take all necessary steps to recover the overpayment.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section name="2-15and2-16">
+      <num>2-15 and 2-16</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-17</num>
+      <heading>Administrative appeal.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Right of appeal.</heading>
+        <text>Any person aggrieved by a determination made or action taken with respect to a person's eligibility for membership in or benefits under the Retirement Savings Plan may appeal that determination or action to the Board of Trustees.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>When and how taken.</heading>
+        <text>A notice of appeal must be filed with the Board within 1 year of the determination or action in question.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Hearing.</heading>
+        <para>
+          <num>(1)</num>
+          <text>On receipt of a notice of appeal, the Board must hold a hearing on the appeal as soon as administratively practicable.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except as otherwise provided in this section or, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, by rule or regulation of the Board:</text>
+          <para>
+            <num>(i)</num>
+            <text>the hearing must be conducted in an orderly but informal manner; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>formal rules of evidence and trial procedures do not apply.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Counsel.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The person filing the appeal may be represented by counsel at the hearing.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Plan will be represented by the City Solicitor or the Solicitor's designee.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Witnesses.</heading>
+        <text>All witnesses testifying at the hearing must do so under oath or by affirmation, subject to the penalties of perjury.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Decision.</heading>
+        <para>
+          <num>(1)</num>
+          <text>As soon as administratively practicable after the hearing, the Board must render its decision and notify the person filing the appeal of that decision.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In its decision, the Board may affirm, modify, or reverse the determination or action from which the appeal was taken.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation type="History">Text Conformed 02/22/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (c)(2) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-18</num>
+      <heading>Judicial and appellate review.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Judicial review.</heading>
+        <text>A party aggrieved by a final decision of the Board of Trustees under <cite path="|22A|§2-17">§ 2-17 {"Administrative appeal"} of this subtitle</cite> may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Appellate review.</heading>
+        <text>A party to the judicial review may appeal the court's final judgment to the Court of Special Appeals in accordance with the Maryland Rules of Procedure.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>2-19</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>2-20</num>
+      <heading>Conflicts of interest.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Application of City Ethics Code.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Board of Trustees is an "agency" and "board" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law (City Code <cite path="|8">Article 8</cite>).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Each trustee is a "public servant" and an "official" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics law.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Each employee of the Board is a "public servant" and an "employee" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Additional standards and requirements.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>In addition to the standards and requirements contained in the Baltimore City Public Ethics Law, trustees and Board employees may not engage in any of the following activities or hold any of the following interests, as these activities or interests are defined in the Baltimore City Public Ethics Law.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Business with City Benefit Plan.</heading>
+          <text>No Trustee or Board employee may do business with any system, plan, or trust administered by any of the following (collectively, "the City Benefit Plans"):</text>
+          <para>
+            <num>(i)</num>
+            <text>the Board of Trustees of the Employees' Retirement System of the City of Baltimore;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the Board of Trustees of the Fire and Police Employees' Retirement System of the City of Baltimore;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the Board of Trustees of the Elected Officials' Retirement System of the City of Baltimore; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the Board of Trustees of the Retirement Savings Plan of the City of Baltimore.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Employment by or interest in person seeking business with City Benefit Plan.</heading>
+          <text>No trustee or Board employee may be employed by or have a financial interest in any person or entity doing business or seeking to do business with any City Benefit Plan.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Gifts, payments, free admissions, expense reimbursements.</heading>
+          <para>
+            <num>(i)</num>
+            <text>Notwithstanding City Code <cite path="|8|§6-28|(3)">Article 8 {"Ethics"}, § 6-28(3) {"Gifts: Qualified exemptions; travel, etc., expenses"}</cite>, no trustee or Board employee may accept any gift or any payment, free admission, or expense reimbursement for attendance at a conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, if the gift or the payment, free admission, or reimbursement is, directly or indirectly, from:</text>
+            <para>
+              <num>(A)</num>
+              <text>any person or entity engaged in an activity or providing a product or service that the trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the trustee reasonably would expect to be marketed to a City Benefit Plan; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>any trade, professional, or other association that has members engaged in an activity or providing a product or service that the trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the trustee reasonably would expect to be marketed to a City Benefit Plan.</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Subparagraph (i) of this paragraph does not preclude application of the qualified exemptions contained in City Code <cite path="|8|§6-28|(1)">Article 8, § 6-28(1) {"food or beverages … consumed … in… presence … of donor"}</cite>, § 6-28(2) {"gift … [of] insignificant value"}, § 6-28(5) {"gift … [exempted by] Ethics Board"}, or § 6-28(6) {"gift from a spouse, parent, child, or sibling"}, subject to the qualifications of § 6-29 {"exemption limitations"}.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <heading>Using Plan assets for conferences, etc.</heading>
+          <text>No assets of the Retirement Savings Plan or of any system, plan, or trust administered by the Board of Trustees of the Plan may be used to pay for the attendance of a trustee or Board employee at any conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, unless that attendance has first been approved by the Board of Estimates in accordance with the Administrative Manual of Baltimore City, AM-240-3 {"Board of Estimates Approval"}.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <heading>Lobbying activities.</heading>
+          <text>No trustee or Board employee may engage in any activity that requires registration as a lobbyist with the City Ethics Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Administration and enforcement.</heading>
+        <text>The City Ethics Board administers and enforces this section in accordance with the administrative and enforcement provisions of the Baltimore City Public Ethics Law.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 17-068" type="History">Ord. 17-068</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>3</num>
+    <heading>Plan Membership</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>3-1</num>
+      <heading>Membership mandatory.</heading>
+      <text>Every employee who is initially employed or reemployed by a participating employer on or July 1, 2014, must, as a condition of that employment, become either a hybrid member or a non-hybrid member of the Retirement Savings Plan.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-2</num>
+      <heading>Commencement of participation.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Initial employment on or after July 1, 2014.</heading>
+        <text>An employee initially employed by a participating employer on or after July 1, 2014, must make an election under City Code <cite path="|22|§9">Article 22, § 9</cite>.1, and, based on that election, will commence participation in the Plan as follows:</text>
+        <para>
+          <num>(i)</num>
+          <text>A hybrid member will commence participation on the 1<sup>st</sup> anniversary of the date on which his or her initial employment began.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A non-hybrid member will commence participation on the 180<sup>th</sup> day after the date on which his or her initial employment began.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Preemployment if initially employed before July 1, 2014.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Prior employment terminated after earning vested benefit.</heading>
+          <text>An employee who was employed by a participating employer before July 1, 2014, and who, after having terminated that employment with a vested benefit under a City retirement plan, is reemployed by that or another participating employer on or after July 1, 2014, automatically commences participation in the Plan as a non-hybrid member on the 30<sup>th</sup> day after the date of reemployment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Prior employment terminated before earning vested benefit.</heading>
+          <text>An employee who was employed by a participating employer before July 1, 2014, and who, after having terminated that employment before earning a vested benefit under a City retirement plan, is reemployed by that or another participating employer on or after July 1, 2014, must make an election under City Code <cite path="|22|§9">Article 22, § 9</cite>.1, and, based on that election, will commence participation as a hybrid member or a non-hybrid member on the date provided in subsection (a) of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Breaks in service.</heading>
+        <text>A Plan member who terminates employment with a participating employer and is subsequently reemployed by that or another participating employer will recommence participation in the Plan as a hybrid member or a non-hybrid member, based on his or her previous election under City Code <cite path="|22|§9">Article 22, § 9</cite>.1, on the 30<sup>th</sup> day after the date on which his or her reemployment began.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-3</num>
+      <heading>Dual memberships precluded.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Except as provided in subsection (b) of this section, a member of the Retirement Savings Plan may not, while a member of the Retirement Savings Plan, make contributions to, receive benefits from, or accrue service credit under any other City retirement plan.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Exceptions.</heading>
+        <text>Subsection (a) of this section does not apply to participation by a hybrid member of the Retirement Savings Plan as a Class D member of the Employees' Retirement System.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Membership in Plan after participation in other City plan.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Scope of subsection.</heading>
+          <text>This subsection applies to a person who:</text>
+          <para>
+            <num>(i)</num>
+            <text>as a member of any other City retirement plan, becomes eligible for a retirement benefit from that other plan; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>either:</text>
+            <para>
+              <num>(A)</num>
+              <text>after terminating employment or exiting elected office and having begun to receive that benefit, becomes an employee on or after July 1, 2014;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>after terminating active membership with the other City retirement plan on or after July 1, 2014, immediately becomes an employee through a transfer of employment; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>after terminating employment or exiting elected office, becomes an employee on or after July 1, 2014, before beginning to receive that benefit.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Suspension or postponement.</heading>
+          <para>
+            <num>(i)</num>
+            <text>For a person described in paragraph (1)(ii)(A) of this subsection, payment of his or her benefit from the other City retirement plan is suspended until the member later terminates employment.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>For a person described in paragraph (1)(ii)(B) or (c) of this subsection, receipt of her or his benefit from the other City retirement plan is postponed until the member later terminates employment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Death benefits.</heading>
+          <text>If a person described in paragraph (1) of this subsection dies before later terminating employment, the following death benefits must be paid:</text>
+          <para>
+            <num>(i)</num>
+            <text>the death benefit provided for by <cite path="|22A|§9-4">§ 9-4 {"Distributable events – Death"} of this article</cite>; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a death benefit from the other City retirement plan in accordance with <cite path="|22|§48|(e)|(1)|(ii)">Article 22, § 48(e)(1)(ii)</cite>.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>3-4</num>
+      <heading>Termination of participation.</heading>
+      <text>A member's participation in the Retirement Savings Plan terminates on the complete distribution to the member or the member's beneficiary of the member's vested account.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>4</num>
+    <heading>Service</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>4-1</num>
+      <heading>"Service" defined.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Except as otherwise provided in this section, "service" means the sum of each period of a member's employment with a participating employer.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Exclusions.</heading>
+        <text>Except as provided in subsection (c) of this section, "service" does not include any period of employment:</text>
+        <para>
+          <num>(1)</num>
+          <text>that has been credited as service under any other City retirement plan for calculating the amount of a retirement benefit or a deferred vested retirement benefit; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>during which the member was not on the active payroll of the participating employer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Exceptions.</heading>
+        <text>The exclusions of subsection (b) of this section do not apply to any period of employment credited to a hybrid member for service as a Class D member of the Employees' Retirement System.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Transfers of service.</heading>
+        <text>If a member transfers service to any other City retirement plan, that transferred service may not be counted to determine whether the member is vested in his or her employer contribution sub-account.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-2</num>
+      <heading>Applicability.</heading>
+      <text>A member's service is used to determine whether the member is vested in his or her Employer Contribution Sub-Account.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-3</num>
+      <heading>Military Service.</heading>
+      <text>To the extent required by USERRA, the service of a member returning from an unpaid leave of absence on account of military service includes the period of the member's leave of absence.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-4</num>
+      <heading>Determination final and binding.</heading>
+      <text>The determination of a member's service:</text>
+      <para>
+        <num>(1)</num>
+        <text>is made by the Board of Trustees; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>is final and binding on all persons, subject to the rights of appeal and review under § 2-17{"Administrative appeal"} and <cite path="|22A|§2-18">§ 2-18 {"Judicial and appellate review"} of this article</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>5</num>
+    <heading>Contributions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>5-1</num>
+      <heading>Types of contributions.</heading>
+      <text>The following contributions are made to the Retirement Savings Plan:</text>
+      <para>
+        <num>(1)</num>
+        <text>Mandatory employee contributions made under<cite path="|22A|§5-2">§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Employer contributions made under <cite path="|22A|§5-3">§ 5-3 {"Employer contributions"} of this subtitle</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Rollover contributions made under <cite path="|22A|§5-4">§ 5-4 {"Rollover contributions"} of this subtitle</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-2</num>
+      <heading>Mandatory contributions by non-hybrid members.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Scope of section.</heading>
+        <text>This section applies only to non-hybrid members of the Plan.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>In general.</heading>
+        <text>Beginning with the first full payroll period that starts on or after the date on which a  non-hybrid member commences participation in the Retirement Savings Plan and continuing through the last full payroll period ending on or before termination of employment with a participating employer:</text>
+        <para>
+          <num>(1)</num>
+          <text>for each payroll period, the member must contribute to the Plan 5% of the member's earnable compensation for that payroll period;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>for each payroll period, the Department of Finance will cause the contribution to be deducted from the member's earnable compensation for that payroll period; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>as soon as administratively practicable after the deduction is taken, the contribution will be credited to the member's Mandatory Employee Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>"Picked-up" status.</heading>
+        <para>
+          <num>(1)</num>
+          <para>
+            <num>(i)</num>
+            <text>The contributions described in this section are intended to be treated as being "picked up" by the participating employer within the meaning of IRC § 414(h)(2).</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The amount of each mandatory employee contribution is paid by the employer in lieu of contributions by members, and members may not receive those amounts directly.  Because the mandatory employee contributions are paid by the employer, they must be treated as employer contributions in determining their federal income tax treatment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The picked-up contributions may not be excluded in computing any other benefit paid in connection with the member's employment with a participating employer.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <para>
+            <num>(i)</num>
+            <text>As soon as administratively practicable after enactment of <cite path="|22A">this article</cite>, the City will request a private letter ruling from the Internal Revenue Service to the effect that the contributions so picked up by the employer on behalf of members will be treated as employer contributions under IRC § 414(h)(2) and will not be includible in the member's gross income for federal income tax purposes for the year in which they are contributed.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the Internal Revenue Service rules that the pick up of contributions does not satisfy the requirements of IRC § 414(h)(2), or if IRC § 414(h)(2) is repealed, the contributions required under this section will remain in effect, but the contributions may no longer be treated as picked up and instead will be treated as paid directly by the member.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-3</num>
+      <heading>Employer contributions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Employer contributions must be made to the Retirement Savings Plan as provided in this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Non-hybrid members.</heading>
+        <para>
+          <num>(1)</num>
+          <text>For each payroll period in which a non-hybrid member makes a mandatory employee contribution under <cite path="|22A|§5-2">§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle</cite>, the member's employer must contribute to the Retirement Savings Plan an amount equal to 4% of the member's earnable compensation for that payroll period.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As soon as administratively practicable after the employer contribution is made, the contribution will be credited to the non-hybrid member's Employer Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Hybrid members.</heading>
+        <para>
+          <num>(1)</num>
+          <text>For each payroll period in which a hybrid member has earnable compensation and the Class D funded status is 85% or more, the hybrid member's employer must contribute to the Retirement Savings Plan 3% of the member's earnable compensation for that payroll period.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For each payroll period in which a hybrid member has earnable compensation and the Class D funded status is less than 85%, the hybrid member's employer must contribute to the Retirement Savings Plan 1.5% of the members's earnable compensation for that payroll period.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>As soon as administratively practicable after the employer contribution is made, the contribution will be credited to the hybrid member's Employer Contribution Sub-Account.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <para>
+            <num>(i)</num>
+            <text>For purposes of paragraphs (2) and (3) of this subsection, the Class D funded status for a payroll period is the ratio described in subparagraph (ii) of this paragraph as of June 30 of the calendar year immediately preceding the calendar year in which the payroll period begins.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Except as provided in subparagraph (iii) of the paragraph, the Class D funded status as of each June 30 is the ratio that the Employees' Retirement System's assets attributable to Class D members on that date, determined on an "adjusted market value basis", bears to the Employees' Retirement System's liabilities attributable to Class D members on that date.  The ratio will be determined by the actuary of the Employees' Retirement System, using a methodology approved jointly by the Boards of this Plan and of the Employees' Retirement System.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Notwithstanding subparagraph (ii) of this paragraph, the Class D funded status for payroll periods beginning in calendar years 2014 and 2015 is 100%.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Non-hybrid members also contributing to Deferred Compensation Plan.</heading>
+        <para>
+          <num>(1)</num>
+          <text>For each payroll period in which a non-hybrid member makes a voluntary deferral to the City's Deferred Compensation Plan, the member's employer must contribute to the Retirement Savings Plan an amount equal to 50% of the amount deferred by the member for that payroll period, but taking into account only the amount deferred that does not exceed 2% of the member's earnable compensation for that payroll period.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As soon as administratively practicable after this employer contribution is made, the contribution will be credited to the non-hybrid member's Employer Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-329" type="History">Ord. 15-329</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-4</num>
+      <heading>Rollover contributions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Subject to the requirements of this section, a member may make 1 or more rollover contributions to the Retirement Savings Plan.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As soon as administratively practicable after a rollover contribution is made, the contribution will be credited to the member's Rollover Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Required submissions.</heading>
+        <text>A member who wishes to make a rollover contribution must:</text>
+        <para>
+          <num>(1)</num>
+          <text>file a request with the Board of Trustees in the form required by the Board; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>establish to the satisfaction of the Board that amounts intended to be rolled over satisfy the conditions of subsection © of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Conditions of rollover.</heading>
+        <text>Every rollover contribution must be:</text>
+        <para>
+          <num>(1)</num>
+          <text>either:</text>
+          <para>
+            <num>(i)</num>
+            <text>an "eligible rollover distribution" as defined in IRC § 402(f)(2)(A), including eligible distributions of designated Roth contributions described in IRC § 402a(c)(3); or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>eligible for rollover treatment under IRC § 408(d)(3), including eligible distribution from a Roth IRA described in IRC § 408(a) eligible for rollover treatment under IRC § 408(d)(3), including eligible distributions from a Roth IRA described in IRC § 408(a).</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>made solely in cash;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>distributed from:</text>
+          <para>
+            <num>(i)</num>
+            <text>a qualified plan under IRC § 401(a) or §403(a), except that amounts rolled over may not include nondeductible or after-tax contributions;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a tax-sheltered annuity under IRC § 403(b);</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>an eligible plan under IRC § 457(b) that is maintained by a state, a political subdivision of a state, or any agency or instrumentality of a state or political subdivision of a state; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>an individual retirement account under IRC § 408(a) or an individual retirement annuity under IRC § 408(b), except that amounts rolled over may not include nondeductible or after-tax contributions; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>either transferred directly to the Retirement Savings Plan or, within 60 days of its receipt, contributed to the Plan by the member.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-5</num>
+      <heading>Makeup contributions after military leave.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Non-hybrid members – In general.</heading>
+        <para>
+          <num>(1)</num>
+          <para>
+            <num>(i)</num>
+            <text>To the extent required by USERRA, a non-hybrid member returning from an unpaid leave of absence on account of military service may make a 1-time irrevocable election to make up all or part of the mandatory employee contributions the member would have been required to make under <cite path="|22A|§5-2">§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle</cite> had he or she remained actively employed by a participating employer.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The non-hybrid member's makeup contribution is based on what the member's earnable compensation would have been had the member remained actively employed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The election must:</text>
+          <para>
+            <num>(i)</num>
+            <text>be made by filing with the Board of Trustees in the form required by the Board; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>include the amount of mandatory employee contributions that the non-hybrid member wishes to make up and the period (not to exceed the lesser of 3 times the length of the leave of absence or 5 years) over which the contributions will be made.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <para>
+            <num>(i)</num>
+            <text>As soon as administratively practicable after the Board receives the non-hybrid member's election, the Department of Finance will cause the amount of makeup contributions to be deducted from the member's earnable compensation pro-rata for each payroll period during the period elected (but not beyond the last full payroll period ending on or before the member's termination of employment with an employer).</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>As soon as administratively practicable after each amount is deducted, the amount will be credited to the member's Mandatory Employee Contribution Sub-Account.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Makeup contributions made under this subsection will be treated as being "picked up" to the same extent as mandatory employee contributions are treated as being "picked up" under <cite path="|22A|§5-2I" proof="needed">§ 5-2I {"Mandatory contributions by non-hybrid members: 'Picked-up' Status"} of this subtitle</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Non-hybrid members – Employer's contribution.</heading>
+        <para>
+          <num>(1)</num>
+          <text>For each payroll period in which a non-hybrid member elects to make up mandatory employee contributions under subsection (a) of this section, the member's employer must make a corresponding contribution to the Plan in an amount equal to 80% of the employee's mandatory employee contribution for that payroll period (as determined under subsection (a) of this section).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As soon as administratively practicable after the corresponding contribution is made, the contribution will be credited to the member's Employer Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Non-Hybrid members – Also contributing to Deferred Compensation Plan.</heading>
+        <para>
+          <num>(1)</num>
+          <text>For each payroll period in which a member elects to make up voluntary deferrals to the City's Deferred Compensation Plan, the member's employer must make a corresponding contribution to the Plan in an amount equal to 50% of the first 2% of compensation deferred by the member as a makeup contribution for that payroll period.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As soon as administratively practicable after this corresponding contribution is made, the contribution will be credited to the member's Employer Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Hybrid members.</heading>
+        <para>
+          <num>(1)</num>
+          <text>To the extent required by USERRA, the employer of a hybrid member returning from an unpaid leave of absence on account of military service must make an employer contribution to this Plan in an amount equal to the amount the employer would have been required to make, under <cite path="|22A|§5-3|(c)">§ 5-3(c) {"Employer contributions: Hybrid members"} of this subtitle</cite>, had the retiring member remained actively employed by a participating employer.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As soon as administratively practicable after the contribution is made, the contribution will be credited to the hybrid member's Employer Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-6</num>
+      <heading>Maximum annual additions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>In this section, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"<em>Annual additions".</em></text>
+          <para>
+            <num>(i)</num>
+            <heading>In general.</heading>
+            <text>"Annual additions" means the sum of the following amounts credited to a member's account for the Limitation Year:</text>
+            <para>
+              <num>(A)</num>
+              <text>Mandatory employee contributions made under<cite path="|22A|§5-2">§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle</cite>; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Employer contributions made under<cite path="|22A|§5-3">§ 5-3 {"Employer contributions"} of this subtitle</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <heading>Inclusions.</heading>
+            <text>"Annual additions" includes makeup contributions made under <cite path="|22A|§5-5">§ 5-5 {"Makeup contributions after military leave"} of this subtitle</cite> for the limitation year to which the contributions relate (not for the limitation year in which the contributions are made).</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <heading>Exclusions.</heading>
+            <text>"Annual additions" does not include rollover contributions made under <cite path="|22A|§5-4">§ 5-4 {"Rollover contributions"} of this subtitle</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>"Limitation year".</heading>
+          <text>"Limitation year" means a calendar year.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>"Section 415 compensation".</heading>
+          <para>
+            <num>(i)</num>
+            <heading>In general.</heading>
+            <para>
+              <num>(A)</num>
+              <text>"Section 415 compensation" means wages, within the meaning of IRC § 3401, plus amounts that would be included in wages but for an election under IRC § 125, § 132(f)(4), § 402I(3), § 402(h)(1)(B), § 402(k), or § 457(b), and all other payments of compensation to an employee by a participating employer for which the employer is required to furnish the employee a written statement under IRC § 6041(d), § 6051(a)(3), or § 6052.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Section 415 compensation must be determined without regard to any rules under IRC § 3401 that limit the remuneration included in wages based on the nature or location of the employment or the services performed (such as the exception for agricultural labor in IRC § 3401(a)(2)).</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Section 415 compensation for a limitation year is the Section 415 compensation actually paid or made available in gross income for that limitation year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <heading>Inclusions.</heading>
+            <text>"Section 415 compensation" includes the following amounts paid after an employee's severance from employment with a participating employer, if those amounts would have been included in subparagraph (i) of this paragraph had they been paid before severance and if those amounts are paid to the employee before the later of 2½ months after severance or the end of the calendar year in which the severance becomes effective:</text>
+            <para>
+              <num>(A)</num>
+              <text>regular payments made after severance, if:</text>
+              <para>
+                <num>1.</num>
+                <text>the payments are:</text>
+                <para>
+                  <num>a.</num>
+                  <text>compensation for services during the employee's regular working hours;</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>compensation for services outside the employee's regular working hours (such as overtime or shift differential); or</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>commissions, bonuses, or other similar payments; and</text>
+                </para>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>the payments would have been paid to the employee before severance had the employee continued to be employed by the employer; and</text>
+              </para>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>payments made after severance for accrued and unused bona fide sick, vacation, or other leave, if the employee would have been able to use that leave had the employee continued to be employed by the employer.</text>
+            </para>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <heading>Exclusions.</heading>
+            <text>"Section 415 compensation" for a limitation year does not include compensation in excess of the compensation limit applicable to that limitation year under IRC § 401(a)(17).</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Limitation on annual additions.</heading>
+        <text>Notwithstanding any other provision of <cite path="|22A">this article</cite>, to the extent required under the Internal Revenue Code, the annual additions that are credited to the account of any member in any limitation year may not exceed the lesser of:</text>
+        <para>
+          <num>(1)</num>
+          <text>$40,000, as adjusted by cost-of-living increases under IRC § 415(d); or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>100% of the member's Section 415 compensation for the limitation year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Correcting excess annual additions.</heading>
+        <text>If, for any limitation year, the annual additions that are credited to the account of a member exceed the limitation set forth in subsection (b) of this section, the City must follow any applicable correction methodology authorized by the Internal Revenue service under the Employee Plans Compliance Resolution System ("EPCRS") or otherwise.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-7</num>
+      <heading>Compensation limit.</heading>
+      <text>Pursuant to IRC § 401(a)(17) and the regulations adopted under that section, the annual compensation of each member taken into account in determining the amount of contributions under the Retirement Savings Plan may not exceed $200,000, as adjusted by cost-of-living increases under IRC § 415(d).</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>6</num>
+    <heading>Accounts</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>6-1</num>
+      <heading>Establishment.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A separate account on behalf of each member will be established and maintained under the Retirement Savings Plan.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The establishment and maintenance of an account is for bookkeeping purposes only and does not require or permit assets held in any account to be segregated for investment purposes.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Sub-accounts.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A member's account consists of the following sub-accounts:</text>
+          <para>
+            <num>(i)</num>
+            <text>if applicable, a member's Mandatory Employee Contribution Sub-Account;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>an Employer Contribution Sub-Account; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>if applicable, a Rollover Contribution Sub-Account.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To each of these sub-accounts:</text>
+          <para>
+            <num>(i)</num>
+            <text>contributions are credited under § 5-2 {"Mandatory contributions by non-hybrid members"}, § 5-3 {"Employer contributions"}, or <cite path="|22A|§5-4">§ 5-4 {"Rollover contributions"} of this article</cite>, respectively;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>gains and losses are allocated under <cite path="|22A|§6-2|(d)">§ 6-2(d) {"Investments: Fund gains and losses"} of this subtitle</cite>; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>fees and expenses are charged under<cite path="|22A|§6-2|(e)">§ 6-2(e) {"Investments: Fund fees and expenses"} of this subtitle</cite>.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-2</num>
+      <heading>Investments.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Board to select available investment funds.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Board of Trustees must select:</text>
+          <para>
+            <num>(i)</num>
+            <text>1 or more separate investment funds in which a member may elect to have the member's account invested; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a default investment fund for the automatic investment of the account of a member who fails to make an affirmative investment election under subsection (b) of this section.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>From time to time, the Board may change any or all of the investment funds or the default investment fund.  Any change must be communicated to members before its effective date.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Members' investment elections.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Each member will be provided a list that identifies the available investment funds (including the default investment fund) when commencing participation in the Retirement Savings Plan.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In accordance with procedures established by the Board, each member may affirmatively elect to have the member's account invested in 1 or more of the listed investment funds.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>An affirmative investment election remains in effect until the member changes it by making a new election in accordance with the Board's procedures.  A new election revokes all prior elections.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>As soon as administratively practicable after a member's affirmative investment election is received, the member's account must be invested in accordance with that election.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Default investments.</heading>
+        <text>Unless and until a member makes an affirmative investment election under subsection (b) of this section, the member is deemed to have made an election to have the member's account invested automatically in the default investment fund.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Fund gains and losses.</heading>
+        <text>All gains and losses of an investment fund in which a member's account is invested will be allocated to that account based on established procedures applied on a uniform and nondiscriminatory basis.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Fund fees and expenses.</heading>
+        <text>All fees charged and expenses incurred by an investment fund in which a member's account is invested, including servicing fees paid by the investment fund to the Plan's third-party administrator, will be charged to that account based on established procedures applied on a uniform and nondiscriminatory basis.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>No liability for Investment Elections.</heading>
+        <text>Neither the City nor the Board of Trustees is liable to a member, a beneficiary, or any other person for any loss resulting from:</text>
+        <para>
+          <num>(1)</num>
+          <text>a member's affirmative investment election;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a member's failure to make an affirmative investment election;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>a reasonable delay in implementing an affirmative investment election; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>a reasonable delay in implementing a default investment under subsection (c) of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Applicability to Deferred Compensation Plan.</heading>
+        <text>Voluntary deferrals made by a member to the City's Deferred Compensation Plan will be invested in accordance with the member's affirmative investment election under subsection (b) of this section or the member's default investment under subsection (c) of this section.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-329" type="History">Ord. 15-329</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-3</num>
+      <heading>Valuations.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>"Valuation date" defined.</heading>
+        <text>In this section,"valuation date" means the date, no less frequently than the last day of each calendar quarter, for determining:</text>
+        <para>
+          <num>(1)</num>
+          <text>the fair market value of each investment fund (including the default investment fund);</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the portion of each member's account invested in that fund; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the total value of each member's account.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Value of funds and accounts.</heading>
+        <text>The fair market value of each investment fund, the portion of each member's account invested in that fund, and the total value of each member's account will be determined as of each valuation date, based on established procedures applied on a uniform and nondiscriminatory basis.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Value of account on distributable event.</heading>
+        <text>The date as of which a member's account is valued on a distributable event under Subtitle 9 {"Distributions"} of <cite path="|22A">this article</cite> will be determined on the basis of established procedures applied on a uniform and nondiscriminatory basis.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>6-4</num>
+      <heading>Periodic statements.</heading>
+      <text>On a periodic basis, but no less frequently than quarterly, a statement showing the value of a member's account as of the most recent valuation date will be made available to each member.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>7</num>
+    <heading>Vesting</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>7-1</num>
+      <heading>Mandatory Employee Contribution Sub-Account.</heading>
+      <text>A member's Mandatory Employee Contribution Sub-Account is immediately and at all times 100% vested and non-forfeitable.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>7-2</num>
+      <heading>Employer Contribution Sub-Account.</heading>
+      <text>A member's Employer Contribution Sub-Account becomes 100% vested and non-forfeitable on the earliest of:</text>
+      <para>
+        <num>(1)</num>
+        <text>the member's attainment of normal retirement age;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the member's being credited with 5 years of service;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the member's providing the Board of Trustees with an SSA determination of disability under <cite path="|22A|§9-3">§ 9-3 {"Distributable events – Disability"} of this article</cite>;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>the member's death while an employee;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>a permanent discontinuance of contributions or Plan termination under <cite path="|22A|§11-2">§ 11-2 {"Discontinuance of payments; Plan termination"} of this article</cite>; or</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>a "partial plan termination", as defined under applicable law.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>7-3</num>
+      <heading>Rollover Contribution Sub-Account.</heading>
+      <text>A member's Rollover Contribution Sub-Account is immediately and at all times 100% vested and non-forfeitable.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>8</num>
+    <heading>Forfeitures</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>8-1</num>
+      <heading>Forfeiture of non-vested Employer Contributions.</heading>
+      <text>The Employer Contribution Sub-Account of a member who terminates employment with a participating employer before that sub-account is vested under <cite path="|22A|§7-2">§ 7-2 {"Vesting: Employer Contribution Sub-Account"} of this article</cite> is forfeited as of the date of the member's termination of employment, unless that member is reemployed by a participating employer within 30 days after termination of employment.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-2</num>
+      <heading>Forfeiture Account.</heading>
+      <text>Forfeitures under this subtitle will be held in a separate Forfeiture Account for bookkeeping purposes.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-3</num>
+      <heading>Restoration.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>If, following forfeiture of a member's Employer Contribution Sub-Account, the member provides the Board with an SSA determination of disability under <cite path="|22A|§9-3">§ 9-3 {"Distributable events – Disability"} of this article</cite>, the Employer Contribution Sub-Account will be restored out of the Forfeiture Account and distributed, without any adjustment for earnings or losses, to the member.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Employer contribution.</heading>
+        <text>If the Forfeiture Account has insufficient funds to fully restore the Employer Contribution Sub-Account, the appropriate employer must make a contribution in the amount necessary for full restoration.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8-4</num>
+      <heading>Remaining amounts in Forfeiture Account.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>To defray reasonable Plan expenses.</heading>
+        <text>After the end of each Plan Year, any amount remaining in the Forfeiture Account after all Employer Contribution Sub-Accounts are restored under <cite path="|22A|§8-3">§ 8-3 {"Restoration"} of this subtitle</cite> will be used to defray reasonable Plan administrative expenses.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Reduction of Employer contribution.</heading>
+        <text>Any amount remaining in the Forfeiture Account after all reasonable Plan administrative expenses are defrayed will be used to reduce the employer contribution required under <cite path="|22A|§5-3">§ 5-3 {"Employer contributions"} of this article</cite> for the plan year in which the forfeiture occurred.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>9</num>
+    <heading>Distributions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>9-1</num>
+      <heading>Form and commencement of payment.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <para>
+          <num>(1)</num>
+          <text>On a distributable event under § 9-2 {"Distributable events – Retirement"}, § 9-3 {"Distributable events – Disability"}, or <cite path="|22A|§9-5">§ 9-5 {"Distributable events – Other termination of employment"} of this subtitle</cite>, a member may elect to have his or her vested account distributed under 1 of the options described in subsection (b) of this section.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The election shall be made by written notice filed with the Board.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Subject to § 9-8 {"Minimum distribution rules"}of this subtitle, distribution of a member's vested account balance shall be paid (in the case of a lump-sum cash payment under subsection (b)(1) of this section) or commence (in the case of installment payments or an annuity contract under subsections (b)(2) or (3) of this section) as soon as administratively practicable after receipt of the written notice required by paragraph (2) of this subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Options.</heading>
+        <text>Distributions will be made in any 1 of the following forms, as elected by the member:</text>
+        <para>
+          <num>(1)</num>
+          <text>a lump-sum cash payment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <para>
+            <num>(i)</num>
+            <text>Periodic installment payments (monthly, quarterly, or annually) over a fixed period of years, as elected by the member.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Subject to <cite path="|22A|§9-8">§ 9-8 {"Minimum distribution rules"} of this subtitle</cite>, the amount payable each year under this option is:</text>
+            <para>
+              <num>(A)</num>
+              <text>the balance of the member's vested account at the end of the preceding year, multiplied by</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>a fraction, the numerator of which is 1 and the denominator of which is the number of years remaining in the installment payment period.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Purchase of a single-premium, nontransferable, immediate or deferred annuity contract that provides one of the following payment options:</text>
+          <para>
+            <num>(i)</num>
+            <text>a single-life annuity under which:</text>
+            <para>
+              <num>(A)</num>
+              <text>the member will receive equal monthly payments during his or her lifetime; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>no further benefits will be paid after the member's death;</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a joint and survivor annuity under which:</text>
+            <para>
+              <num>(A)</num>
+              <text>the member will receive equal monthly payments during his or her lifetime; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>on the member's death, monthly payments will be made to the member's designated beneficiary during the beneficiary's lifetime, if the beneficiary survived the member; or</text>
+            </para>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a guaranteed annuity under which:</text>
+            <para>
+              <num>(A)</num>
+              <text>the member will receive equal monthly payments during his or her lifetime; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>on the member's death:</text>
+              <para>
+                <num>1.</num>
+                <text>if the member dies before receiving monthly payments for a guaranteed period of 5, 10, or 15 years, as elected by the member, the member's designated beneficiary will continue to receive monthly payments for the remainder of the guaranteed period; and</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>if the member dies after receiving monthly payments for at least the guaranteed period, no further benefits will be paid after the member's death.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-2</num>
+      <heading>Distributable events – Retirement.</heading>
+      <text>A member who terminates employment on or after the member's normal retirement age is entitled to receive the value of the member's:</text>
+      <para>
+        <num>(1)</num>
+        <text>if applicable, Mandatory Employee Contribution Sub-Account;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Employer Contribution Sub-Account; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>if applicable, Rollover Contribution Sub-Account.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-2A</num>
+      <heading>Distributable events – Transfers.</heading>
+      <text>A member who terminates employment and transfers his or her service to another City retirement plan is entitled to receive the value of the member's:</text>
+      <para>
+        <num>(1)</num>
+        <text>mandatory employee contribution sub-account; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>if applicable, rollover contribution sub-account.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-3</num>
+      <heading>Distributable events – Disability.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>"SSA determination of disability" defined.</heading>
+        <text>"SSA determination of disability" means a written determination, made by a Social Security Administration's disability determination service, hearing officer, or administrative law judge, that a member is disabled under the federal Social Security Act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>In general.</heading>
+        <text>If a member terminates employment as a result of a disability incurred while an employee and provides the Board of Trustees with the SSA determination of disability required by subsection (c) of this section, the member is entitled to receive the value of the member's:</text>
+        <para>
+          <num>(1)</num>
+          <text>if applicable, Mandatory Employee Contribution Sub-Account;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Employer Contribution Sub-Account (determined as of the date the member terminated employment); and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>if applicable, Rollover Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>SSA Determination of Disability.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A member who seeks to receive a distribution of his or her Employer Contribution Sub-Account as a result of a disability must provide the Board of Trustees, in accordance with procedures established by the Board, with an SSA determination of disability no later than 36 months after the member's termination.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a determination of disability is not provided by that deadline:</text>
+          <para>
+            <num>(i)</num>
+            <text>the member is not eligible to receive the distribution as a result of a disability; but</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the member might still be eligible for a distribution of that sub-account under§ 9-2 {"Distributable events – Retirement"} or <cite path="|22A|§9-5">§ 9-5 {"Distributable events – Other termination of employment"} of this subtitle</cite>.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Board's administrative determination.</heading>
+        <text>The final determination of whether a member is eligible to receive a distribution of the member's Employer Contribution Sub-Account as a result of a disability:</text>
+        <para>
+          <num>(1)</num>
+          <text>is made by the Board of Trustees; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>is final and binding on all persons, subject to the rights of appeal and review under § 2-17 {"Administrative appeal"} and <cite path="|22A|§2-18">§ 2-18 {"Judicial and appellate review"} of this article</cite>.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-4</num>
+      <heading>Distributable events – Death.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>On the death of a member while an employee (or before receiving a distribution under § 9-2 {"Distributable events – Retirement"}, § 9-3 {"Distributable events – Disability"}, or <cite path="|22A|§9-5">§ 9-5 {"Distributable events – Other termination of employment"} of this subtitle</cite>), the member's beneficiary is entitled to receive, as soon as administratively practicable after the Board of Trustees has determined that the member has died, a lump-sum cash payment in an amount equal to the value of the member's:</text>
+        <para>
+          <num>(1)</num>
+          <text>if applicable, Mandatory Employee Contribution Sub-Account;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Employer Contribution Sub-Account; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>if applicable, Rollover Contribution Sub-Account.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Designation of beneficiary.</heading>
+        <para>
+          <num>(1)</num>
+          <text>In accordance with procedures established by the Board, a member may designate a beneficiary to receive death benefits from the Plan.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The designation remains in effect until the member changes it by making a new designation in accordance with the Board's procedures.  A new designation revokes all prior designations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Beneficiary to establish member's death.</heading>
+        <text>To receive a death benefit under this section, the member's beneficiary must establish to the satisfaction of the Board that the member has died.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Failure to designate beneficiary.</heading>
+        <para>
+          <num>(1)</num>
+          <text>If the Board determines that a member has died and there is no valid beneficiary designation, or if all designated beneficiaries predecease the member, the member's account will be paid to the member's surviving spouse, or, if there is no surviving spouse, to the member's estate.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the member's estate would be entitled to receive the death benefit under paragraph (1) of this subsection, but no estate is opened within 1 year of the member's death, the amount of the death benefit is forfeited and will be applied in accordance with Subtitle 8 {"Forfeitures"} of <cite path="|22A">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Resolution of disputes.</heading>
+        <para>
+          <num>(1)</num>
+          <text>If any question or dispute arises regarding payment of a death benefit under this section, the Board may:</text>
+          <para>
+            <num>(i)</num>
+            <text>distribute the death benefit to the member's estate;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>retain the death benefit until the Board is satisfied that the right to payment has been finally determined; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>deposit the amount of the death benefit into any court of competent jurisdiction.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A determination by the Board under this section is final and binding on all persons, subject to the rights of appeal and review under § 2-17 {"Administrative appeal"} and <cite path="|22A|§2-18">§ 2-18 {"Judicial and appellate review"} of this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>While performing qualified military service.</heading>
+        <text>To the extent required by IRC § 401(a)(37), the value of a member's account payable to the beneficiary of a member who dies while performing "qualified military service", as defined in IRC § 414(u)(5), will be determined as if the member died while an active employee.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-329" type="History">Ord. 15-329</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-5</num>
+      <heading>Distributable events – Other termination of employment.</heading>
+      <text>If a member terminates employment before the member's normal retirement age and not as a result of disability or death, the member is entitled to receive the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>if applicable, the value of the member's Mandatory Employee Contribution Sub-Account and Rollover Contribution Sub-Account; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>if vested under <cite path="|22A|§7-2">§ 7-2 {"Vesting: Employer Contribution Sub-Account"} of this article</cite>, the value of the member's Employer Contribution Sub-Account.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-6</num>
+      <heading>No loans or withdrawals.</heading>
+      <text>No loan against nor in-service withdrawal from any part of a member's account is permitted.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-7</num>
+      <heading>Direct rollovers.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>In this section, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>"Distributee".</heading>
+          <text>"Distributee" means:</text>
+          <para>
+            <num>(i)</num>
+            <text>an employee or former employee;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the employee's or former employee's spouse or former spouse who is the alternate payee under a qualified domestic relations order, as defined in IRC § 414(p), with regard to the interest of the spouse or former spouse; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the employee's or former employee's nonspouse designated beneficiary, if the direct rollover is made to an individual retirement account or annuity ("IRA") under IRC § 408(a) or § 408(b) that:</text>
+            <para>
+              <num>(A)</num>
+              <text>is established on behalf of the designated beneficiary; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>is treated as an inherited IRA under IRC § 402(c)(11).</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>"Eligible retirement plan".</heading>
+          <text>"Eligible retirement plan" means any of the following that accepts a distributee's eligible rollover distribution:</text>
+          <para>
+            <num>(i)</num>
+            <text>an individual retirement account under IRC § 408(a);</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>an individual retirement annuity under IRC § 408(b);</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a qualified plan under IRC § 401(a);</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>an annuity plan under IRC § 403(a);</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>an eligible deferred compensation plan under IRC § 457(b) that is maintained by a state, a political subdivision of a state, or any agency or instrumentality of a state or political subdivision of a state and that agrees to separately account for amounts transferred from the Retirement Savings Plan;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>an annuity contract described in IRC § 403(b); and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>a Roth IRA described in IRC § 408A.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>"Eligible rollover distribution".</heading>
+          <para>
+            <num>(i)</num>
+            <heading>In general.</heading>
+            <text>"Eligible rollover distribution" means any distribution of all or any portion of the balance to the credit of the distributee.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <heading>Exclusions.</heading>
+            <text>"Eligible rollover distribution" does not include:</text>
+            <para>
+              <num>(A)</num>
+              <text>any distribution that is one of a series of substantially equal periodic payments (not less frequently than annually) made for the life (or life expectancy) of the distributee or the joint lives (or joint life expectancies) of the distributee and the distributee's designated beneficiary, or for a specified period of 10 years or more;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>any distribution to the extent that it is required under IRC § 401(a)(9);</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>any distribution that is made on account of hardship; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>subject to subparagraph (iii) of this paragraph, the portion of any distribution that is not includible in gross income.</text>
+            </para>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <heading>Qualifications for exclusion under subparagraph (ii)(D).</heading>
+            <para>
+              <num>(A)</num>
+              <text>Notwithstanding subparagraph (ii)(D) of this paragraph, a portion of a distribution does not fail to be an "eligible rollover distribution" merely because the portion consists of after-tax employee contributions that are not includible in gross income.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Sub-subparagraph (A) of this subparagraph applies only if the portion is transferred to:</text>
+              <para>
+                <num>1.</num>
+                <text>a traditional individual retirement account or annuity under IRC § 408(a) or § 408(b) or a Roth individual retirement account or annuity under IRC § 408A; or</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>a qualified plan under IRC § 401(a) or § 403(a) or an annuity contract under IRC§ 403(b), if the plan or contract provides for:</text>
+                <para>
+                  <num>a.</num>
+                  <text>separate accounts for amounts so transferred (including earnings on the transferred amounts); and</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>separate accounting for the portion of the distribution that is includible in gross income and the portion of the distribution that is not so includible.</text>
+                </para>
+              </para>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Direct rollovers.</heading>
+        <text>Notwithstanding any provision of <cite path="|22A">this article</cite> that would otherwise limit a distributee's election under this section, a distributee may elect, at the time and in the manner directed by the Board of Trustees, to have any portion of an eligible rollover distribution paid directly to an eligible retirement plan specified by the distributee in a direct rollover.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-8</num>
+      <heading>Minimum distribution rules.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>In this section, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Designated beneficiary.</heading>
+          <text>"Designated beneficiary" means the individual who is designated by the member (or the member's surviving spouse) as the beneficiary of the member's interest under the Plan and who is the designated beneficiary under IRC § 401(a)(9) and 26 CFR § 1.401(a)(9)-4.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Distribution calendar year.</heading>
+          <para>
+            <num>(i)</num>
+            <text>"Distribution calendar year" means a calendar year for which a minimum distribution is required.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>For distributions beginning before the member's death, the first distribution calendar year is the calendar year immediately preceding the calendar year that contains the member's required beginning date.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The required minimum distribution for the member's first distribution calendar year will be made on or before the member's required beginning date.</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The required minimum distribution for other distribution calendar years, including the required minimum distribution for the distribution calendar year in which the member's required beginning date occurs, will be made on or before December 31 of that distribution calendar year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Life expectancy.</heading>
+          <text>"Life expectancy" means life expectancy as computed by use of the Single Life Table in 26 CFR 1.401(a)(9)-9, Q&amp;A-1.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <heading>Member's account balance.</heading>
+          <para>
+            <num>(i)</num>
+            <text>"Member's account balance" means:</text>
+            <para>
+              <num>(A)</num>
+              <text>the account balance as of the last valuation date in the calendar year immediately preceding the distribution calendar year (valuation calendar year), increased by</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the amount of any contributions made and allocated or forfeitures allocated to the account as of dates in the valuation calendar year after the valuation date, and decreased by</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>distributions made in the valuation calendar year after the valuation date.</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The account balance for the valuation calendar year includes any amounts rolled over or transferred to the Plan either in the valuation calendar year or in the distribution calendar year if distributed or transferred in the valuation calendar year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <heading>Required beginning date.</heading>
+          <text>"Required beginning date" means April 1 of the calendar year following the calendar year in which the member attains age 70½.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Reasonable good faith compliance.</heading>
+        <text>Notwithstanding any other provision of this section, distributions under <cite path="|22A">this article</cite> must be made in accordance with a reasonable good faith interpretation of IRC § 401(a)(9), as applicable to the Retirement Savings Plan.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>General rule.</heading>
+        <text>As of the first distribution calendar year, distributions to a member, if not made in a lump-sum, may only be made over 1 of the following periods:</text>
+        <para>
+          <num>(1)</num>
+          <text>the life of the member;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the joint lives of the member and a designated beneficiary;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>a period certain not extending beyond the life expectancy of the member; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>a period certain not extending beyond the joint life and last survivor expectancy of the member and a designated beneficiary.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Time and manner of distribution.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Required {latest} beginning date.</heading>
+          <text>The member's entire interest must be distributed to the member no later than the April 1 of the calendar year following the later of:</text>
+          <para>
+            <num>(i)</num>
+            <text>the calendar year in which the member attains age 70½; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the calendar year in which the member terminates employment with a participating employer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Death of member before distribution.</heading>
+          <text>If the member dies before distribution is made, the member's entire interest must be distributed no later than December 31 of the calendar year in which the 5<sup>th</sup> anniversary of the member's death occurs.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Forms of distribution.</heading>
+          <para>
+            <num>(i)</num>
+            <text>As of the first distribution calendar year, unless a member's interest is distributed on or before the required beginning date in the form of an annuity purchased from an insurance company or in a lump-sum, distributions must be made in accordance with subsections (e) and (f) of this section.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the member's interest is distributed in the form of an annuity purchased from an insurance company, distributions under the annuity must be made in accordance with a reasonable good-faith interpretation of IRC § 401(a)(9).</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Required minimum distributions during member's lifetime.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Minimum for each distribution calendar year.</heading>
+          <text>During a member's lifetime, the minimum amount that must be distributed for each calendar year is the lesser of:</text>
+          <para>
+            <num>(i)</num>
+            <text>the quotient obtained by dividing the member's account balance by the distribution period in the Uniform Lifetime Table set forth in 26 CFR § 1.401(a)(9)-9, Q&amp;A-2, using the member's age as of the member's birthday in the distribution calendar year; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>if the member's sole designated beneficiary for the distribution calendar year is the member's spouse, the quotient obtained by dividing the member's account balance by the number in the Joint and Last Survivor Table set forth in 26 CFR § 1.401(a)(9)-9, Q&amp;A-3, using the member's and spouse's attained ages as of the member's and spouse's birthdays in the distribution calendar year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Continuation through year of member's death.</heading>
+          <text>Required minimum distributions must be determined under this subsection beginning with the first distribution calendar year and continuing up to, and including, the distribution calendar year that includes the member's date of death.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Required minimum distributions after member's death.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Member survived by designated beneficiary.</heading>
+          <text>If a member dies on or after the date distributions begin and there is a designated beneficiary, the minimum amount that must be distributed for each distribution calendar year after the year of the member's death is the quotient obtained by dividing the member's account balance by the longer of the remaining life expectancy of the member or the remaining life expectancy of the member's designated beneficiary, determined as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>The member's remaining life expectancy is calculated by using the age of the member in the year of death, reduced by one for each subsequent year.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the member's surviving spouse is the member's sole designated beneficiary, the remaining life expectancy of the surviving spouse is calculated for each distribution calendar year after the year of the member's death by using the surviving spouse's age as of the spouse's birthday in that year.  For distribution calendar years after the year of the surviving spouse's death, the remaining life expectancy of the surviving spouse is calculated by using the age of the surviving spouse as of the spouse's birthday in the calendar year of the spouse's death, reduced by one for each subsequent calendar year.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If the member's surviving spouse is not the member's sole designated beneficiary, the designated beneficiary's remaining life expectancy is calculated using the age of</text>
+            <text>the beneficiary in the year following the year of the member's death, reduced by one for each subsequent year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>No designated beneficiary.</heading>
+          <text>If a member dies on or after the date distributions begin and there is no designated beneficiary as of September 30 of the year after the year of the member's death, the minimum amount that must be distributed for each distribution calendar year after the year of the member's death is the quotient obtained by dividing the member's account balance by the member's remaining life expectancy, calculated by using the age of the member in the year of death, reduced by one for each subsequent year.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>9-9</num>
+      <heading>Distribution of small account balances.</heading>
+      <text>If a member experiences a distributable event under § 9-2 {"Distributable events –  Retirement"}, § 9-3 {"Distributable events – Disability"}, § 9-4 {"Distributable events – Death"} or § 9-5 {"Distributable events – Other termination of employment"}, and if the member's total vested account balance on the date of the event is less than $1,000, then the total vested account balance will automatically be distributed to the member (or the member's beneficiary) without the member (or beneficiary) applying as soon as administratively practicable after 90 days following the distributable event.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>10</num>
+    <heading>Anti-Alienation Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>10-1</num>
+      <heading>Prohibited assignments, attachments, etc.</heading>
+      <text>Except as otherwise expressly provided in §§ 10-3 {"Exceptions – General applicability"} through 10-10 {"Exceptions – Funeral expenses"} of this subtitle:</text>
+      <para>
+        <num>(1)</num>
+        <text>all current and future benefits provided under the Retirement Savings Plan and all amounts that have been credited to a member's account are unassignable; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>no person may attach, execute, garnish, or otherwise seize any current or future benefit provided under the Retirement Savings Plan or any amount that has been credited to a member's account.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>10-2</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-3</num>
+      <heading>Exceptions – General applicability.</heading>
+      <text>Subject to the requirements of <cite path="|22A|§10-12">§ 10-12 {"Notice to Board"} of this subtitle</cite>, the exceptions provided in §§ 10-4 {"Exceptions - Court orders"} through 10-10 {"Exceptions – Funeral expenses"} apply notwithstanding <cite path="|22A|§10-1">§ 10-1 {"Prohibited assignments, attachments, etc."} of this subtitle</cite>.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-4</num>
+      <heading>Exceptions – Court orders.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>All or any portion of a member's vested account may be assigned pursuant to:</text>
+        <para>
+          <num>(1)</num>
+          <text>a decree or order of alimony or child support issued by a court of competent jurisdiction;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a court order issued by a court of competent jurisdiction appointing the assignee as guardian over the property of the member; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>a domestic relations order, as defined in subsection (b) of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Domestic relations orders.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>"Domestic relations order" defined.</heading>
+          <text>In this section, "domestic relations order" means either of the following that satisfies the conditions of paragraph (2) of this subsection:</text>
+          <para>
+            <num>(i)</num>
+            <text>a member's court-approved property settlement agreement incident to a divorce decree; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a division of marital property pursuant to a court order that:</text>
+            <para>
+              <num>(A)</num>
+              <text>creates the right or recognizes the existence of the right of an alternate payee (as defined in IRC § 414(p)(8)) to receive all or a portion of a member's benefit under the Retirement Savings Plan; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>assigns to an alternate payee the right to receive all or a portion of a member's benefit under the Plan.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Conditions of agreement or order.</heading>
+          <text>The property settlement agreement or court order:</text>
+          <para>
+            <num>(i)</num>
+            <text>may not require the Plan to make any distribution to the alternate payee in a form of payment other than as required by <cite path="|22A|§9-1">§ 9-1 {"Form of payment"} of this article</cite>;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>may not require the Plan to provide to the alternate payee an amount greater than the value of the member's vested account;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>may not require the payment of benefits to an alternate payee if the benefits are required to be paid to another alternate payee under another order previously accepted as a domestic relations order;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>must clearly specify the percentage or amount of the member's vested account to be distributed to the alternate payee or the manner in which the percentage or amount is to be determined; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>must clearly specify (or, to protect the parties' privacy, require submission by separate writing of) the name, Social Security number, birth date, and last known mailing address of the member and the alternate payee.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Implementation of agreement or order.</heading>
+          <text>Following a determination by the Board of Trustees that a property settlement agreement or court order is a domestic relations order:</text>
+          <para>
+            <num>(i)</num>
+            <text>a separate account must be established and maintained on behalf of the alternate payee;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the alternate payee must be afforded the same rights with respect to the account as a member has under <cite path="|22A">this article</cite>, including the right to make an investment election under <cite path="|22A|§6-2">§ 6-2 {"Investments"} of this article</cite>; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>distributions to the alternate payee must be made at the time specified in the domestic relations order, which may be before the member (to whom the domestic relations order relates) has a distributable event under Subtitle 9 {"Distributions"} of <cite path="|22A">this article</cite>.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-5</num>
+      <heading>Exceptions – Tax liens.</heading>
+      <text>All or any portion of a member's vested account may be paid in satisfaction of a federal or state tax lien.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-6</num>
+      <heading>Exceptions – Powers of attorney.</heading>
+      <text>The amount otherwise due a member or beneficiary may be paid to the member's or beneficiary's attorney-in-fact, as agent of the member or beneficiary, if the member or beneficiary has properly designated the attorney-in-fact to act as agent under a duly-executed durable power of attorney.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-7</num>
+      <heading>Exceptions – Custodian under Uniform Transfers to Minors Act.</heading>
+      <text>The amount otherwise due a minor beneficiary may be paid to a custodian validly appointed for the minor under the Maryland Uniform Transfers to Minors Act (State Estates and Trusts Article, Title 13, Subtitle 3) or similar provisions of another jurisdiction.  A "minor beneficiary" is a beneficiary who has not attained age 22.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation doc="City of Balt., Md., Ord. 20-459" type="History">Ord. 20-459</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-8</num>
+      <heading>Exceptions – Trustee.</heading>
+      <text>The amount otherwise due a member or beneficiary may be paid to the member's or beneficiary's trustee, if the trustee was designated trustee of the member or beneficiary under an enforceable <em>inter vivos</em> or testamentary trust agreement.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-9</num>
+      <heading>Exceptions – Representative payee.</heading>
+      <text>The amount otherwise due a member or beneficiary may be paid to the member's or beneficiary's Social Security "representative payee" pursuant to the Social Security Act, 42 U.S.C. § 405(j).</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-10</num>
+      <heading>Exceptions – Funeral expenses.</heading>
+      <text>All or any portion of a member's vested account that is payable on account of a member's death may be paid to a funeral establishment providing funeral services to the deceased member, if the member's beneficiary files with the Board of Trustees, in the form required by the Board, the beneficiary's consent to that payment.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>10-11</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-12</num>
+      <heading>Notice to Board.</heading>
+      <text>An assignment under §§ 10-4 {"Exceptions – Court orders"} through 10-10 {"Exceptions – Funeral expenses"} of this subtitle may be made only after the Board of Trustees receives:</text>
+      <para>
+        <num>(1)</num>
+        <text>a copy, as appropriate, of the court order or decree, notice of tax lien, power of attorney, custodial designation, trust document, certification of representative payee, or consent to assignment to funeral establishment; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>any additional documents or information that the Board requires.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>10-13</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-14</num>
+      <heading>Fraud or misuse.</heading>
+      <text>If the Board, the Social Security Administration, or a court of competent jurisdiction determines that any amount paid under §§ 10-4 {"Exceptions – Court orders"} through 10-10 {"Exceptions – Funeral expenses"} of this subtitle was obtained by fraud or misused, the Board must take all necessary steps to recover that amount.</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>11</num>
+    <heading>Plan Modifications</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>11-1</num>
+      <heading>Plan amendment.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Subject to the limitations of subsection (b) of this section, the Mayor and City Council of Baltimore reserves the right, at any time by ordinance, to amend any provision of <cite path="|22A">this article</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Limitations.</heading>
+        <text>Notwithstanding subsection (a) of this section, no amendment may cause any vested contributions made before the amendment's effective date to become forfeitable.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-2</num>
+      <heading>Discontinuance of payments; Plan termination.</heading>
+      <para>
+        <num>(a)</num>
+        <text>In general.</text>
+        <text>The Mayor and City Council reserves the right, at any time by ordinance, to permanently discontinue contributions to the Plan or to terminate the Plan.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Effect of discontinuance or termination.</heading>
+        <text>On the effective date of a permanent discontinuance of contributions or a Plan termination, and notwithstanding any other provision of <cite path="|22A">this article</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>no person who is not already a member may become a member;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>no further contributions may be made to the Plan; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the Employer Contribution Sub-Account of any member that is not already 100% vested and non-forfeitable becomes 100% vested and non-forfeitable.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Distribution of accounts.</heading>
+        <text>As soon as administratively practicable after the effective date of a permanent discontinuance of contributions or a Plan termination, the value of each member's account must be paid to the member in a lump-sum cash payment.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>11-3</num>
+      <heading>Plan merger, consolidation, or transfer.</heading>
+      <text>In the case of a merger or consolidation of the Retirement Savings Plan with, or a transfer of Plan assets or liabilities to, any other plan, each member of the Retirement Savings Plan is entitled to receive, immediately after the merger, consolidation, or transfer (as if the other plan had then terminated), a benefit that is equal to or greater than the benefit the member would have been entitled to receive immediately before the merger, consolidation, or transfer (as if the Retirement Savings Plan had then terminated).</text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

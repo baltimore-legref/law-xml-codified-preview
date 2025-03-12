@@ -1,0 +1,1194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Article</prefix>
+  <num>9</num>
+  <heading>Fire Suppression and Prevention</heading>
+  <annotations>
+    <annotation type="Editor's Notes">The <cite path="|building-codes|VIII">International Fire Code</cite>, as adopted, supplemented, amended, or otherwise modified by Baltimore City, is codified in the <cite path="|building-codes">Building, Fire, and Related Codes Article</cite> at <cite path="|building-codes|VIII">Part VIII</cite>.</annotation>
+  </annotations>
+  <container>
+    <prefix>Division</prefix>
+    <num>I</num>
+    <heading>Fire Operations</heading>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>1</num>
+      <heading>Fire Department</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>1-1</num>
+        <heading>Fire Chief in general command.</heading>
+        <text>The Chief of the Fire Department:</text>
+        <para>
+          <num>(1)</num>
+          <text>shall have command at fires over all other officers and all other persons who may be present at fires; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>shall take all proper measures:</text>
+          <para>
+            <num>(i)</num>
+            <text>for the extinguishment of fires; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>for the protection of property, preservation of order, and observance of the laws of the State, ordinances of the City, and regulations respecting fires.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1893, art. 20, §20(1st cl.)</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §21(1st cl.)</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §8(1st cl.)</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §8(1st cl.)</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §8(1st cl.)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1879-029" type="History">Ord. 1879-029</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-2</num>
+        <heading>Control of persons and property at fires.</heading>
+        <text>The Chief of the Fire Department shall, during the occurrence of fires or alarm of fires, have authority for himself, and the power to delegate to his assistants, the authority to control all persons and property in the vicinity of a fire, during the continuance thereof; provided, that the exercise of such authority does not conflict with any law of the United States, or of the State of Maryland.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §4</annotation>
+          <annotation type="Prior Codifications">1893, art. 20, §5</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §6</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, § 2</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, § 2</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §2</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1877-024" type="History">Ord. 1877-024</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-3</num>
+        <heading>Facilities.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Chief to examine.</heading>
+          <text>It shall be the duty of said Chief to examine all fire apparatus and stations and equipment used for the purposes of the Fire Department and the companies attached, as often as circumstances may render expedient.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Alterations, repairs, or additions.</heading>
+          <text>Whenever the facilities of the Fire Department require alteration, additions, or repairs, the Chief of the Fire Department shall cause to be made, as he deems expedient, such alterations, additions, and repairs, the whole to be done under the jurisdiction and control of the Chief.</text>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1893, art. 20, §20(2nd, 3rd cls.)</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §21(2nd, 3rd cls.)</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §8(2nd, 3rd cls.)</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §8(2nd, 3rd cls.)</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §8(2nd, 3rd cls.)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1879-029" type="History">Ord. 1879-029</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-4</num>
+        <heading>Control of fire hydrants.</heading>
+        <text>On the occurrence of fires, the Chief of the Fire Department, or his assistants, shall have the use and control of any and all fire hydrants belonging to the City of Baltimore.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §22</annotation>
+          <annotation type="Prior Codifications">1893, art. 20, §27</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §28</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §10</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §10</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §10</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1859-048" type="History">Ord. 1859-048</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-5</num>
+        <heading>Regulations for fire companies.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Chief of the Fire Department shall prepare rules and regulations for the government of the Fire Department and members thereof, and furnish each member of the Fire Department a copy of the rules, and have same posted in Fire Department Headquarters and in all stations.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §19</annotation>
+          <annotation type="Prior Codifications">1893, art. 20, §24</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §25</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §9</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §9</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §9</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1858-005" type="History">Ord. 1858-005</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+          <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-6</num>
+        <heading>Regulations for relief from duty.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Chief of the Fire Department shall have the authority and power to adopt reasonable rules and regulations to permit members of the Fire Department to be relieved from duty when their respective relief reports for duty.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1950, art. 9, §1</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §1</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §1</annotation>
+          <annotation doc="City of Balt., Md., Ord. 44-080" type="History">Ord. 44-080</annotation>
+          <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">See Editor’s Note to § 1-5.</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>1-7</num>
+        <reason>Reserved</reason>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-8</num>
+        <heading>Board of Fire Commissioners.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Board established.</heading>
+          <text>There is a Board of Fire Commissioners, as established in <cite doc="City of Baltimore, Md., Charter" path="VII|§49">City Charter Article VII, § 49</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Composition.</heading>
+          <text>The Board of Fire Commissioners comprises 5 members appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>President.</heading>
+          <text>The Mayor shall designate one member of the Board as its President in accordance with <cite doc="City of Baltimore, Md., Charter" path="VII|§50|(b)">City Charter Article VII, § 50(b)</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Tenure.</heading>
+          <text>The term of each member is 4 years, concurrent with the Mayor's term of office, and until a successor is appointed and qualifies.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Powers and duties.</heading>
+          <text>The Board of Fire Commissioners has the powers and duties specified in <cite doc="City of Baltimore, Md., Charter" path="VII">City Charter Article VII</cite>, §§ <cite doc="City of Baltimore, Md., Charter" path="VII|§49">49</cite> to <cite doc="City of Baltimore, Md., Charter" path="VII|§52">52</cite>.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 08-067" type="History">Ord. 08-067</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-9</num>
+        <heading>Reporting requirements.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>On or before January 31 of each year, the Baltimore City Fire Chief shall report the following information, disaggregated by race and gender (excluding names), from the previous calendar year regarding the Baltimore City Fire Department to the Mayor and City Council of Baltimore:</text>
+          <para>
+            <num>(1)</num>
+            <text>the number of uniformed personnel working in fire suppression and the emergency medical services division;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the number of supervisors by rank assigned to fire suppression and the emergency medical services division;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the number of uniformed personnel assigned to fire suppression and the emergency medical services division who were promoted to a supervisory rank in the previous calendar year;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the number of high school students who were in the Department's high school program;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>the number of high schools students who received EMT certification from the Department's high school program;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>the number of high school students who were hired by the Department after completion of the Department's high school program and graduation from the Department's Training Academy;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>excluding those counted in paragraph (6), the number of individuals who graduated from the Department's Training Academy and were hired by the Department; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>the number of uniformed personnel who participated in the fire suppression or emergency medical services divisions' promotional process for a supervisory position in the previous calendar year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Other reporting requirements.</heading>
+          <text>On or before January 31 of each year, the Baltimore City Fire Department shall also report the following information from the previous calendar year to the Mayor and City Council of Baltimore:</text>
+          <para>
+            <num>(1)</num>
+            <text>the number of uniformed personnel who are residents of Baltimore City;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the number of uniformed personnel who were suspended with pay;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the number of uniformed personnel who were suspended without pay;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the number of discipline charges filed against uniformed personnel, as well as the number of charges that were sustained and the number of charges that were dismissed;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>the number of recruiting events in Baltimore City that the Department sponsored or participated in;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>the number of citizens who have added their names to the citizen contact recruitment list; and</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>the number of community-based town hall meetings attended by the Department.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Public availability.</heading>
+          <text>The reports required by subsections (a) and (b) of this section shall be made available to the public on the Department's website.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Required public hearings.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Baltimore City Fire Department shall notify the Baltimore City Council that the Fire Department has began the pre-employment screening process for entry-level fire suppression positions or has moved into a new phase of the pre-employment screening process for those positions.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>On receipt of notice that the Baltimore City Fire Department has began the pre-employment screening process for entry-level fire suppression positions or has moved into a new phase of the pre-employment screening process for those positions, an appropriate committee of the Baltimore City Council shall promptly hold a public hearing during which the Fire Chief or the Fire Chief's designee must present information regarding:</text>
+            <para>
+              <num>(i)</num>
+              <text>the overall pre-employment screening process;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the recruitment strategy for entry-level fire suppression applicants;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the race, gender, and City residency data of the applicants at the current phase of the pre-employment screening process; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>any steps taken to improve equity in the pre-employment screening process and to reduce barriers to entry.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Each year, during the third week of July, an appropriate committee of the Baltimore City Council shall hold a public hearing during which the Fire Chief or the Fire Chief's designee must present information regarding:</text>
+            <para>
+              <num>(i)</num>
+              <text>the overall pre-employment screening process for entry-level emergency medical services positions;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the recruitment strategy for entry-level emergency medical services positions;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the race, gender, and City residency data of the emergency medical services applicants; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>any steps taken to improve equity in the pre-employment screening process and to reduce barriers to entry for entry-level emergency medical services positions.</text>
+            </para>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord.  21-006" type="History">Ord.  21-006</annotation>
+          <annotation type="Editor's Notes">
+            <text>Ordinance 21-006 enacted this section, effective March 10, 2021. Section 2 of that Ordinance provides</text>
+            <text>[T]he first reports under [§ 1-9] shall be due within 90 calendar days after the effective date of this Ordinance, and shall include information from each of the previous 5 calendar years; thereafter, each report need only include information from the previous calendar year.</text>
+          </annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>2</num>
+      <heading>Comprehensive Fire Protection Plan</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>2-1</num>
+        <heading>Plan required.</heading>
+        <text>On or before May 1 of 2013, and every year following, the Chief of the Fire Department shall present to the Mayor and City Council a written, comprehensive Baltimore City Fire Protection Plan for the City as 1 territorial unit.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §8A(a)(1st sen.)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 89-261" type="History">Ord. 89-261</annotation>
+          <annotation doc="City of Balt., Md., Ord. 12-063" type="History">Ord. 12-063</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>2-2</num>
+        <heading>Required elements and factors.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Elements of plan.</heading>
+          <text>The plan must include, but need not be limited to:</text>
+          <para>
+            <num>(1)</num>
+            <text>specific recommendations for equipment, personnel, and locations for the Department's fire suppression companies and units, emergency medical care companies and units, and truck companies and units for the next fiscal year;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>proposed future consolidations, relocations, or reductions of fire suppression companies and units, emergency medical care companies and units, and truck companies and units; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the criteria used used to determine whether a fire suppression company or unit, emergency medical care company or unit, or truck company or unit should be consolidated, relocated, or closed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Factors on which plan to be based.</heading>
+          <text>The plan must be based on the following factors:</text>
+          <para>
+            <num>(1)</num>
+            <text>population density;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>street and traffic patterns;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>geological and topographic considerations;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>modernization of equipment;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>types and uses of structures;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>financial considerations;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>the presence of any hazardous materials; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>any other factors the Chief determines to be connected with fire protection and emergency medical service.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §8A(a)(2nd sen.), (b)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 89-261" type="History">Ord. 89-261</annotation>
+          <annotation doc="City of Balt., Md., Ord. 12-063" type="History">Ord. 12-063</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>2-3</num>
+        <heading>Adoption procedures.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Public hearing.</heading>
+          <text>Before the Chief adopts the plan, the Chief must hold a public hearing to offer concerned citizens an opportunity to present testimony on the proposed plan.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Review by Mayor and City Council.</heading>
+          <para>
+            <num>(1)</num>
+            <text>After the fire protection plan has been adopted by the Chief, the Chief shall present it to the Mayor for review and recommendation.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>After the Mayor reviews the plan, the Mayor shall forward it to the City Council for hearing and review.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §8A(c), (d)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 89-261" type="History">Ord. 89-261</annotation>
+          <annotation doc="City of Balt., Md., Ord. 12-063" type="History">Ord. 12-063</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>2-4</num>
+        <heading>Adherence to adopted plan.</heading>
+        <text>Following review of the plan by the Mayor and City Council:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Chief must act in conformance with the plan; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>no permanent, substantive change may be made to the plan without that change first being adopted and reviewed in the same way as that required for the plan's initial approval. This provision does not apply to changes to any fire suppression company or unit, emergency medical care company or unit, or truck company or unit that are made on a daily basis or those scheduled to last less than 3 months and that are designed to allow the Chief to efficiently and effectively meet temporary and urgent needs for emergency response personnel.</text>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §8A(e)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 89-261" type="History">Ord. 89-261</annotation>
+          <annotation doc="City of Balt., Md., Ord. 12-063" type="History">Ord. 12-063</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>2-5</num>
+        <heading>Consolidations, closings, or relocations.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Hearing required.</heading>
+          <text>Before a final decision is made to consolidate, close, or relocate for longer than 3 months any fire suppression company or unit, emergency medical care company or unit, or truck company or unit, the Chief must hold a public hearing in the community that will be impacted, to provide citizens with an opportunity to submit oral or written testimony or other information on the proposed closing.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Notice of hearing.</heading>
+          <para>
+            <num>(1)</num>
+            <text>At least 2 weeks before the hearing, notice of the hearing must be:</text>
+            <para>
+              <num>(i)</num>
+              <text>published in at least 2 newspapers of general circulation in the geographic area of the company or unit proposed for consolidation, relocation, or closing;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>posted on the websites of the City of Baltimore and the Baltimore City Fire Department; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>posted prominently outside that unit or company.  The sign is to be not less than 4 feet long and 3 feet wide with black lettering 2 inches high on a white background.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The notice must include:</text>
+            <para>
+              <num>(i)</num>
+              <text>a statement of the procedures that will be followed in making the final decision; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any time limits imposed on the submission of testimony or other information.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Final decision.</heading>
+          <text>Any  final decision to consolidate, relocate, or close a company or unit must be:</text>
+          <para>
+            <num>(1)</num>
+            <text>in writing; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>accompanied by a statement of the factors considered in making the decision.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 12-063" type="History">Ord. 12-063</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>2A</num>
+      <heading>Decennial Fire and Emergency Medical Services Redistricting Plan</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>2A-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Battalion.</heading>
+          <text>"Battalion" means a unit of fire suppression personnel that is assigned to a geographical location.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Department.</heading>
+          <text>"Department" means the Baltimore City Fire Department.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>District.</heading>
+          <text>"District" means a unit of Emergency Medical Services ("EMS") personnel that is assigned to a geographical location.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Plan.</heading>
+          <text>"Plan" means the Decennial Fire and EMS Redistricting Plan established under this subtitle.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord.  22-123" type="History">Ord.  22-123</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>2A-2</num>
+        <heading>Plan requirements.</heading>
+        <text>Following each decennial census of the United States, the Fire Chief shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>review:</text>
+          <para>
+            <num>(i)</num>
+            <text>decennial census population and housing data from the United States Census Bureau;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>fire suppression call volume trends;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>EMS call volume trends;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>fire suppression response times;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>EMS response times; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>any other information deemed necessary by the Fire Chief;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>based upon the data specified in paragraph (1) of this section, include in the Plan strategies to:</text>
+          <para>
+            <num>(i)</num>
+            <text>adjust the geographic boundaries and composition of each fire battalion and EMS district; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>reallocate the resources and personnel of the Department among the battalions and districts; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>present the Plan to the Mayor and City Council within 1 year from the issuance of the decennial census population and housing data by the United States Census Bureau.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord.  22-123" type="History">Ord.  22-123</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>2A-3</num>
+        <heading>Approval process.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Approval of the Plan.</heading>
+          <text>Except as provided in subsection (c) of this section, the Mayor and City Council may approve the Plan by ordinance within 180 days from the presentation of the Plan.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Amendments to the Plan.</heading>
+          <text>The Mayor and City Council Members may amend the Plan by enumerating any amendments in the Ordinance adopting the Plan.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Effective date.</heading>
+          <para>
+            <num>(1)</num>
+            <text>A Plan approved under this section is effective immediately.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the Plan is not approved within 180 days after presentation of the Plan, the Plan, as originally presented by the Fire Chief to the Mayor and City Council, will go into effect.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord.  22-123" type="History">Ord.  22-123</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>3</num>
+      <heading>Ambulance Service - Fees</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>3-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Basic life support transport.</heading>
+          <text>"Basic life support transport" means transportation provided to sustain and support the life processes and change the outcome of a life-threatening disease or injury for patients who must be transported for hospital care.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Advanced life support transport.</heading>
+          <text>"Advanced life support transport" means transportation provided to enhance the successful outcome of an unstable patient with a life-threatening disease or injury by use of invasive drug therapy and who needs immediate transportation to a hospital or specialty center.</text>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §12A(a)(2)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 89-381" type="History">Ord. 89-381</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>3-2</num>
+        <heading>Authority to set fees.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Beginning July 1, 1989, the Chief of the Fire Department shall have the power and authority to charge fees to any member of the public who utilizes ambulance services provided by the Emergency Medical Services Division of the Fire Department within the City of Baltimore.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Condition of charging.</heading>
+          <text>No fee authorized by this section may be charged unless all employees of the Fire Department who may be called upon to provide emergency medical services or ambulance transport to members of the public either:</text>
+          <para>
+            <num>(1)</num>
+            <text>enjoy statutory immunity from claims for damages for tortious acts or omissions committed by them while providing such services; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>are indemnified against claims for damages through a program of insurance purchased by the City from a private carrier, the City's Self-Insurance Fund, or other appropriations authorized by the Mayor and City Council.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Initial fees.</heading>
+          <text>The initial fee charged shall not exceed:</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td>For basic life support transport</td>
+                  <td>$75</td>
+                </tr>
+                <tr>
+                  <td>For an advanced life support transport</td>
+                  <td>$100</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Change of fees.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Chief shall review the fee schedule annually, and with the approval of the Board of Estimates may change the fees from time to time.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>At no time shall the fee charged exceed the cost to the City of providing ambulance services.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §12A(a)(intro), (a)(1), (b), (d)(3) and (4)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 89-381" type="History">Ord. 89-381</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>3-3</num>
+        <heading>Access to services not to be affected.</heading>
+        <text>The Chief of the Fire Department shall not deny any individual access to emergency medical services as a result of the provisions of this subtitle.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §12A(d)(2)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 89-381" type="History">Ord. 89-381</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>3-4</num>
+        <heading>Use of fee revenues.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Deposit to Emergency Medical Services Fund.</heading>
+          <text>All fees submitted to the City under this subtitle shall be accounted for in a special fund entitled "Emergency Medical Services Fund".</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Use of Fund.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Revenues credited to the Fund shall be available for the sole purpose of supporting emergency medical services of the City, or for any other purpose which may be authorized by the annual Ordinance of Estimates.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>At the end of each fiscal year, revenues received in excess of the revenue estimates, and appropriations in excess of expenditures, shall carry forward to the succeeding fiscal year and form the beginning Fund balance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Appropriations.</heading>
+          <text>All appropriations made from the Emergency Medical Services Fund shall be appropriated in the Ordinance of Estimates under the title of the Fund and shall not be included as "special" fund or "other special" fund categories.</text>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §12A(c)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 89-381" type="History">Ord. 89-381</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>3-5</num>
+        <heading>Rules and regulations.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Chief of the Fire Department shall adopt rules and regulations necessary to implement the provisions of this subtitle.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §12A(d)(1)</annotation>
+          <annotation doc="City of Balt., Md., Ord. 89-381" type="History">Ord. 89-381</annotation>
+          <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>4</num>
+      <heading>Ambulance Service - Out-of-City Transportation</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>4-1</num>
+        <heading>Rules and regulations to govern.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Chief of the Fire Department shall have power and authority to adopt reasonable rules and regulations to permit the Fire Department Ambulance Service to send its vehicles to hospitals outside the boundaries of Baltimore City, in order to deliver sick, indigent, and emergency persons from Baltimore City to those hospitals; and to proceed outside the boundaries of Baltimore City to any hospital in order to return any indigent persons residing in Baltimore City.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1966, art. 9, §12</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §12</annotation>
+          <annotation doc="City of Balt., Md., Ord. 65-560" type="History">Ord. 65-560</annotation>
+          <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>5</num>
+      <heading>Fire and Police Alarms</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>5-1</num>
+        <heading>Fire alarm boxes in buildings.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Installation on application.</heading>
+          <text>The Chief of the Fire Department is authorized to place a fire alarm box in any theatre, public hall, hotel, hospital, charitable institution, or other building whose occupancy presents special problems in case of fire, within the corporate limits of the City of Baltimore, where the proprietor or owner shall file application with the Chief for same.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Expenses.</heading>
+          <text>All expenses connected with the installation, operation, and maintenance of any fire alarm box so installed will be borne by the person making application for same, provided, however, that he shall not be required to pay more for said box than the Fire Department pays for same.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Placement.</heading>
+          <text>Said fire alarm box to be placed in the most accessible part of said building.</text>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1893, art. 20, §46</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §53</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §17</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §18</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §17</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1882-020" type="History">Ord. 1882-020</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>5-2</num>
+        <heading>Police and fire wires in conduits.</heading>
+        <text>The subways and conduits of the Chesapeake and Potomac Telephone Company shall be used, as far as practicable, under provisions of Ordinance 1889-041, Section 4, passed by the Mayor and City Council of Baltimore and approved May 9, 1889, being <cite path="|26">Article 26</cite>, Subtitle 24 of the City Code; which ordinance reserves the right to place the wires of the Police and Fire Alarm Telegraph and Police Patrol Telegraph in the conduits and subways of said telephone company.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1893, art. 20, §§45(1st cl.), 47</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §57</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §19</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §20</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §18</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1893-106" type="History">Ord. 1893-106</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>6</num>
+      <heading>Care of Members of Department</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>6-1</num>
+        <heading>Sickness of certain employees.</heading>
+        <text>For all employees hired into the fire service prior to July 1, 1979, no deduction shall be made in the salaries of employees on account of non-line-of-duty illness or injury, provided such sickness does not last longer than 6 months; and provided further, that if an employee shall absent himself from duty on account of non-line-of-duty illness or injury he shall, before receiving his salary, present or have presented to the unit officer of the company of which he is a member, a certificate from the physician employed by the Fire Department, stating that the employee on account of illness or injury, is unable to perform his or her duties.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1893, art. 20, §11</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §11</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §3</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §3</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §3</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1884-031" type="History">Ord. 1884-031</annotation>
+          <annotation doc="City of Balt., Md., Ord. 80-095" type="History">Ord. 80-095</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>6-2</num>
+        <heading>Injury or disability.</heading>
+        <text>Any member of the Fire Department of the City of Baltimore, receiving injury or becoming disabled while in the discharge of his duties, so as to prevent him from following his daily occupation or attending to his duties as a member of said Department, such member shall, for the space of 12 months, provided his disability shall last that time, receive his usual salary.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §25</annotation>
+          <annotation type="Prior Codifications">1893, art. 20 §30</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §32</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §12</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §13</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §13</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1871-035" type="History">Ord. 1871-035</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>6-3</num>
+        <heading>Loss of life.</heading>
+        <text>If any member of said Fire Department shall lose his life while in the discharge of his duties, it shall be the duty of the Chief of the Fire Department (as soon as may be convenient after such death) to cause to be paid to the wife or family, including father and mother, depending on the deceased member, the sum of $500; and if said member shall leave neither wife or children, father or mother, surviving him, then said Chief shall and he is hereby authorized to, defray the proper funeral expenses of said member, the same to be taken out of the appropriation for the Fire Department for the current year.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §26</annotation>
+          <annotation type="Prior Codifications">1893, art. 20, §31</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §33</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §13</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §14</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §14</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1871-035" type="History">Ord. 1871-035</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>6-4</num>
+        <heading>Widows' benefits.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Amounts.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Effective with the 1<sup>st</sup> day of the 1<sup>st</sup> full pay period after July 1, 1985, any surviving widow or eligible children of an employee of the Fire Department who died prior to June 7, 1963 and who was not a member of either the Employees' Retirement system or the Fire and Police Retirement System, shall receive a revised total benefit allowance calculated at the rate of not less than 15% of the current annual salary of those employees of the Fire Department in active service occupying the same position occupied by the deceased member or employee at the time of his retirement.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Effective with the 1<sup>st</sup> day of the 1<sup>st</sup> full pay period after July 1, 1986, any widow or eligible children, as provided in this section, shall receive a total benefit allowance calculated at the rate of not less than 20% of current annual salaries.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Effective with the 1<sup>st</sup> day of the 1<sup>st</sup> full pay period after July 1, 1987, and every year thereafter, these widows and eligible children shall receive a total benefit allowance calculated at the rate of not less than 25% of the current annual salaries of members and employees in active service.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Benefits not to be reduced.</heading>
+          <text>In no event shall any widow or eligible child receive a reduction in total benefit allowance on July 1, 1985, on July 1, 1986 or on July 1, 1987.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Benefits subject to appropriations.</heading>
+          <text>The payment and continued payment of such increases in total benefit allowances as may result from the workings of this paragraph shall be subject to the annual appropriation and payment of the necessary funds by the Mayor and City Council of Baltimore.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Widow's eligibility.</heading>
+          <text>The above provisions for benefits shall apply only to a widow who was married to such fire fighter at the time of his death, if he died during his service in the Department, or was married to him before he retired from such service.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Widow's death or remarriage.</heading>
+          <text>In the event of the death or remarriage of such widow, the benefits here provided shall continue for the further benefit of any child or children of such fireman under the age of 18.  In the case of such children, the City may make the payments to the widow if she remarries or in case of her death to a suitable guardian of said child or children, whether legally appointed or otherwise.  The benefits shall cease entirely when the youngest of said children attains the age of 18.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Benefits in lieu of any other.</heading>
+          <text>Any benefit granted under the provisions of this section shall be in lieu of any other benefits provided by the City arising out of the service or death of the former member of the Fire Department.</text>
+        </para>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §15</annotation>
+          <annotation doc="City of Balt., Md., Ord. 74-662" type="History">Ord. 74-662</annotation>
+          <annotation doc="City of Balt., Md., Ord. 75-976" type="History">Ord. 75-976</annotation>
+          <annotation doc="City of Balt., Md., Ord. 79-1055" type="History">Ord. 79-1055</annotation>
+          <annotation doc="City of Balt., Md., Ord. 85-345" type="History">Ord. 85-345</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>7</num>
+      <reason>Reserved</reason>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>8</num>
+      <reason>Reserved</reason>
+      <annotations>
+        <annotation type="Editor's Notes">Former Subtitle 8, which dealt with the permitting and regulation of explosives, was repealed by Ord. 15-435.  The provisions of that subtitle (virtually unchanged since their enactment in 1876) have been effectively superseded by the more extensive provisions of the <cite path="|building-codes|VIII">International Fire Code</cite> <cite path="|building-codes|VIII|105.6.14" proof="needed">§ 105.6.14</cite> {“Required operational permits”} and Chapter 56 {“Explosives and Fireworks”}, as adopted by Part VIII of the City’s <cite path="|building-codes">Building, Fire, and Related Codes Article</cite>.</annotation>
+      </annotations>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>9</num>
+      <heading>Hazardous Materials</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>9-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>"Facility".</heading>
+          <text>"Facility" means a location in which hazardous materials are stored, dispensed, used, or handled.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>"Hazardous material".</heading>
+          <text>"Hazardous material" means a regulated substance, as defined in 40 CFR 68.130, in excess of the threshold quantities specified in that regulation.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>"Operator".</heading>
+          <text>"Operator" means the person responsible for the overall operation of a facility.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>"Owner".</heading>
+          <text>"Owner" means a person who owns a facility or part of a facility.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 02-443" type="History">Ord. 02-443</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>9-2</num>
+        <heading>Security and safeguarding required.</heading>
+        <text>All facilities on or in which any hazardous material is stored, dispensed, used, or handled must be secured against unauthorized entry and safeguarded with protective measures and facilities in accordance with the rules, regulations, and standards adopted under this subtitle.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 02-443" type="History">Ord. 02-443</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+          <annotation type="Editor's Notes">See § 9-3 and accompanying Editor’s Note.</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>9-3</num>
+        <heading>Rules, regulations, and standards.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Fire Chief, in consultation with the Police Commissioner and affected industries, shall adopt rules, regulations, and standards, including a schedule for compliance, for the security and safeguarding of hazardous materials.</text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 02-443" type="History">Ord. 02-443</annotation>
+          <annotation type="History">Text Conformed 04/07/22</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, generally governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>9-4</num>
+        <heading>Confidentiality.</heading>
+        <text>To the extent permissible by State law, information obtained from an owner or operator under this subtitle:</text>
+        <para>
+          <num>(1)</num>
+          <text>may not be made available to any member of the public, without the written consent of the owner or operator;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>is exempt from public disclosure under any other applicable law;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>except in furtherance of a criminal investigation, may not be used or disclosed, without the written consent of the owner or operator, by any government officer or employee for purposes other than the purposes of this subtitle; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>does not constitute a waiver of any applicable privilege or protection provided by law.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 02-443" type="History">Ord. 02-443</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>9-5</num>
+        <heading>Administration and enforcement.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>This subtitle and the rules, regulations, and standards adopted under it are incorporated into the <cite path="|building-codes|VIII">International Fire Code</cite>, as adopted and modified in <cite path="|building-codes|VIII">Part VIII</cite> of the City Building, Fire and Related Codes Article, and shall be administered and enforced in accordance with that Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Permits.</heading>
+          <text>In addition to any other remedy or proceeding to enforce this subtitle, if the Fire Chief finds any premises or property to be in violation of this subtitle or of a rule, regulation, or standard adopted under it, the Fire Chief may:</text>
+          <para>
+            <num>(1)</num>
+            <text>withhold or suspend, until the violation has been corrected, any permit issued under the Baltimore City <cite path="|building-codes|VIII">Fire Code</cite> for that premises or property; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>order the Building Official to withhold or suspend, until the violation has been corrected, any permit issued under the <cite path="|building-codes">City Building, Fire, or Related Codes Article</cite> for that premises or property.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Alternative compliance.</heading>
+          <text>An owner or operator subject to this subtitle is deemed to be in compliance with this subtitle and the rules, regulations, and standards adopted under it if the owner implements a national industry security code or set of standards that requires:</text>
+          <para>
+            <num>(1)</num>
+            <text>prioritization and periodic analysis, using accepted methodologies, of potential security threats, vulnerabilities, and consequences;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>development and implementation of security measures commensurate with risks;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>documentation of security management programs, processes, and procedures;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>training, drills, and guidance for employees, contractors, service providers, and others, as appropriate, to enhance awareness and capability;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>communications, dialogue, and exchange of information with employees, communities, and government agencies and officials;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>internal audits to assess security programs and processes and the implementation of corrective measures; and</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>third-party verification that owners and operators have implemented the physical security measures that have been identified under the required periodic analysis of potential security threats, vulnerabilities, and consequences.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 02-443" type="History">Ord. 02-443</annotation>
+          <annotation doc="City of Balt., Md., Ord. 07-552" type="History">Ord. 07-552</annotation>
+          <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>9-6</num>
+        <heading>Penalties.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Any owner or operator who violates any provision of this subtitle or of a rule, regulation, or standard adopted under this subtitle is subject to a fine of up to $1,000.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Each day a separate offense.</heading>
+          <text>Each day that a violation continues is a separate offense.</text>
+        </para>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 02-443" type="History">Ord. 02-443</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>10</num>
+      <heading>Prohibited Conduct</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>10-1</num>
+        <heading>Property damage; interference at fire.</heading>
+        <text>Should any person damage or destroy any property of the Fire Department, or should any person interfere with any unit or member of the Fire Department in the execution of assigned duty or duties, he shall be fined not less than $50 nor more than $500, to be recovered as other City fines are recovered, or 6 months imprisonment, or both.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §9</annotation>
+          <annotation type="Prior Codifications">1893, art. 20, §14</annotation>
+          <annotation type="Prior Codifications">1927 art. 13, §14</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §4</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §4</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §4</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1868-007" type="History">Ord. 1868-007</annotation>
+          <annotation doc="City of Balt., Md., Ord. 68-274" type="History">Ord. 68-274</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>10-2</num>
+        <heading>False fire alarms.</heading>
+        <text>Should any person knowingly give or cause to be given any false alarm of fire by means of a fire alarm box connected with the fire alarm system of the Baltimore City Fire Department, or by means of a telephone connected directly or indirectly with the Fire Department of the City of Baltimore or by any other means, he shall be subject to a fine of not less than $500 or of not more than 1 year imprisonment, or both.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §10</annotation>
+          <annotation type="Prior Codifications">1893, art. 20, §16</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §16</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §6</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §6</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §5</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1868-034" type="History">Ord. 1868-034</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1899-156, 1897-98" type="History">Ord. 1899-156, 1897-98</annotation>
+          <annotation doc="City of Balt., Md., Ord. 05-209" type="History">Ord. 05-209</annotation>
+          <annotation doc="City of Balt., Md., Ord. 08-187" type="History">Ord. 08-187</annotation>
+          <annotation doc="City of Balt., Md., Ord. 67-1147" type="History">Ord. 67-1147</annotation>
+          <annotation doc="City of Balt., Md., Ord. 70-956" type="History">Ord. 70-956</annotation>
+          <annotation doc="City of Balt., Md., Ord. 71-1088" type="History">Ord. 71-1088</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>10-3</num>
+        <heading>Unauthorized use of keys.</heading>
+        <text>Should any unauthorized person have in his possession, make, or cause to be made, any key or keys to any Fire Department facility, or use, or cause to be used, the same, except the Mayor, Fire Commissioners, Chief of the Fire Department, or other duly authorized member of the Fire Department, without the consent of the proper authority, he shall be subject to a fine of not less than $100, nor more than $200; to be recovered as other fines are recoverable.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §12</annotation>
+          <annotation type="Prior Codifications">1893, art. 20, §17</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §18</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §6</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §6</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §6</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1868-007" type="History">Ord. 1868-007</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>10-4</num>
+        <heading>Unauthorized use of uniforms.</heading>
+        <text>Should any person or persons not a member of the City Fire Department use the uniform determined upon by the Chief of the Fire Department, or any part thereof, or otherwise represent themselves as members of the Baltimore City Fire Department, without permission, such person or persons shall each be fined not less than $50, nor more than $500, for each and every offense, to be recovered as other fines are recoverable.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §13</annotation>
+          <annotation type="Prior Codifications">1893, art. 20, §18</annotation>
+          <annotation type="Prior Codifications">1927, art. 13, §19</annotation>
+          <annotation type="Prior Codifications">1950, art. 9 §7</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §7</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §7</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1868-007" type="History">Ord. 1868-007</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>10-5</num>
+        <heading>Obstructing fire hydrants.</heading>
+        <text>Any person or persons who shall place or cause to be placed, around or near any of the fire hydrants of the City, any goods, structure, or other things, in such a manner as to obstruct the free access to any of said hydrants, shall be subject to a fine of $20, and a further fine of $10 for each and every day that such obstruction may continue, to be recovered as other fines and penalties are recovered.</text>
+        <annotations>
+          <annotation type="Prior Codifications">City Code, 1879, art. 20, §23</annotation>
+          <annotation type="Prior Codifications">1893, art. 20, §28</annotation>
+          <annotation type="Prior Codifications">1927, art. 27, §29</annotation>
+          <annotation type="Prior Codifications">1950, art. 9, §11</annotation>
+          <annotation type="Prior Codifications">1966, art. 9, §11</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 9, §11</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1869-067" type="History">Ord. 1869-067</annotation>
+          <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Division</prefix>
+    <num>II</num>
+    <reason>Repealed</reason>
+  </container>
+</container>

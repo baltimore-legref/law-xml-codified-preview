@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-360">
+  <num type="law">24-360</num>
+  <num type="bill">23-0447</num>
+  <heading type="short">Landmark List: Exteriors - 3110 Elm Avenue The Bookbindery</heading>
+  <heading type="long">An Ordinance Concerning Landmark List: Exteriors - 3110 Elm Avenue The Bookbindery</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-10-30</introduced>
+    <effective>2024-09-28</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/5d8546fa-d82f-4137-9cd6-201814e76955.pdf">Ord. 24-360</citation>
+    </citations>
+    <history>
+      <vote date="2023-10-30" reading="first"/>
+      <vote date="2024-07-22" reading="second"/>
+      <enacted>2024-08-29</enacted>
+      <committee>Favorable, as amended</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="6|18A" codified:doc="City of Baltimore, Md., Code" codified:path="6|§18A-9">
+      <section>
+        <prefix>§</prefix>
+        <num>18A-9</num>
+        <heading>The Bookbindery.</heading>
+        <text>The Bookbindery, 3110 Elm Avenue (Block 3504B, Lot 006).</text>
+        <annotations>
+          <annotation type="Editor's Notes">Ordinance 24-360 (effective October 16, 2024) designated this new section to be “Section 18A-8”. That number, however, was already spoken for. Hence the placement here, with a different number.</annotation>
+        </annotations>
+      </section>
+    </codify:insert>
+  </section>
+</document>

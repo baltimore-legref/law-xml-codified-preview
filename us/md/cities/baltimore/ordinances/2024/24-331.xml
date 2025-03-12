@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-331" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-331</num>
+  <num type="bill">23-0465</num>
+  <heading type="short">Tree Removal on City Property - Permits and Procedure</heading>
+  <heading type="long">An Ordinance Concerning Tree Removal on City Property - Permits and Procedure</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-12-04</introduced>
+    <effective>2024-05-24</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/db3aa519-eb75-4985-aea7-2d8ad68fd549.pdf">Ord. 24-331</citation>
+    </citations>
+    <history>
+      <vote date="2023-12-04" reading="first"/>
+      <vote date="2024-04-08" reading="second"/>
+      <enacted>2024-04-24</enacted>
+      <committee>Favorable, as amended</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="7|§53-1" codified:doc="City of Baltimore, Md., Code" codified:path="7|§53-1">
+      <section>
+        <prefix>§</prefix>
+        <num>53-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Breast height.</em>
+          </text>
+          <text>"Breast height" means 4.5 feet off of the ground.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Caliper inch.</em>
+          </text>
+          <text>"Caliper inch" means 6 inches off of the ground.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Inch-for-inch replacement.</em>
+          </text>
+          <text>"Inch-for-inch replacement" means the tree removal and replacement standard used by the Department of Recreation and Parks that requires a person to plant a tree or trees with an equal or greater sum diameter, as measured in inches, to the sum diameter of all trees removed by that person, as measured in inches.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>
+            <em>Permit holder.</em>
+          </text>
+          <text>"Permit holder" means a person to whom the Department of Recreation and Parks has issued a written permit to remove a tree under subsection (c) of <cite doc="City of Baltimore, Md., Code" path="7|§53-15">§ 53-15 {"Tree Removal - Street"}</cite> or <cite doc="City of Baltimore, Md., Code" path="7|§53-16">§ 53-16 {"Tree Removal - Parks"}</cite> of this subtitle.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>
+            <em>Root zone.</em>
+          </text>
+          <text>"Root zone" means a circular region, measured outward from a tree's trunk, that represents the essential area of the tree's roots that must be maintained or protected for the tree's survival.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>
+            <em>Tree.</em>
+          </text>
+          <text>The word "trees", as used in this subtitle, shall not be construed to include shrubs that do not grow higher than 15 feet.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="7|§53-2" codified:doc="City of Baltimore, Md., Code" codified:path="7|§53-2">
+      <section>
+        <prefix>§</prefix>
+        <num>53-2</num>
+        <heading>Jurisdiction of Department of Recreation and Parks.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Regulating planting, etc.</em>
+          </text>
+          <text>The Department of Recreation and Parks, in consultation with the Department of Transportation, is authorized and directed to regulate the planting, protection, removal, and controlling of all trees planted and to be planted in the parks or streets of Baltimore.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Enforcing protective laws.</em>
+          </text>
+          <text>The statutes and ordinances for the protection of trees in the streets, lanes, or alleys shall be strictly observed by the Departments of Public Works, Transportation, General Services, and Recreation and Parks, as well as all other agencies of the City, within their respective authority.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="7|§53-3" codified:doc="City of Baltimore, Md., Code" codified:path="7|§53-3">
+      <section>
+        <prefix>§</prefix>
+        <num>53-3</num>
+        <heading>Additional duties of Department of Recreation and Parks.</heading>
+        <text>It is the duty of the Department of Recreation and Parks:</text>
+        <para>
+          <num>(1)</num>
+          <text>to encourage the preservation, culture, and planting of shade and ornamental trees in the City's parks and streets;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to prune, spray, cultivate, and otherwise maintain these trees;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to trim or direct the time and method of trimming these trees; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>to take all other measures that it considers necessary and reasonable for the control and extermination of insects and other pests and plant diseases that may injuriously affect trees in the City's parks and streets.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="7|§53-5" codified:doc="City of Baltimore, Md., Code" codified:path="7|§53-5">
+      <section>
+        <prefix>§</prefix>
+        <num>53-5</num>
+        <heading>Public notice of tree removal.</heading>
+        <para>
+          <num>(a)</num>
+          <text><em>Notice required</em>.</text>
+          <text>Unless notice is given as required by this section, the City may not:</text>
+          <para>
+            <num>(1)</num>
+            <text>remove or destroy a tree along one of the streets in this City; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>permit any person to remove or destroy a  tree  along one of the streets in this City.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Form and content.</em>
+          </text>
+          <text>The notice required by <cite doc="City of Baltimore, Md., Code" path="7|§53-5|(a)">§ 53-5(a)</cite>:</text>
+          <para>
+            <num>(1)</num>
+            <text>must consist of a durable and legible statement of the intent, affixed to and easily visible on the tree for not less than 5 days immediately preceding the contemplated removal or destruction; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>must state:</text>
+            <para>
+              <num>(i)</num>
+              <text>the reason for the intended removal or destruction of the tree; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the person or persons to whom inquiries or protests thereon may be directed.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Exception for emergency.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>In the event of an emergency situation, such as a fallen tree or some other condition or occurrence requiring an immediate removal or destruction of a tree along one of these public ways, the City or any person it permits may remove or destroy the tree without complying with the foregoing provisions of this section.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>But in this event, the City or the person it permitted promptly shall notify the City Council of the circumstances, conditions, and justification under which the tree was thus removed or destroyed.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="7|§53-13" codified:doc="City of Baltimore, Md., Code" codified:path="7|§53-13">
+      <section>
+        <prefix>§</prefix>
+        <num>53-13</num>
+        <heading>Permit requirements - Impeding roots.</heading>
+        <text>No person may, without first having received a written permit issued by the Department of Transportation, in consultation with the Department of Recreation and Parks, place or maintain upon the ground in any street, lane, or alley, any stone, cement, or other substance or structure that will impede the free entrance of water and air to the roots of any tree without leaving an open space of ground outside the trunk of the tree, in area not less than  32 square feet.</text>
+      </section>
+    </codify:replace>
+    <codify:insert path="7|V|53" after="§53-14" codified:doc="City of Baltimore, Md., Code" codified:path="7|§53-15">
+      <section>
+        <prefix>§</prefix>
+        <num>53-15</num>
+        <heading>Tree removal - Street.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Permit required.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>Unless otherwise authorized in writing by the Director of the Department of Recreation and parks or the Director's designee, a person may not remove a tree in or along a public street without first having been issued a written permit to do so by the Department of Recreation and Parks.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Determination.</em>
+            </text>
+            <text>Within 20 business days of receiving a request for a permit under this section, the Department of Recreation and Parks shall:</text>
+            <para>
+              <num>(i)</num>
+              <text>approve, deny, or request additional information regarding  the permit;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>determine whether mitigation under subsection (d) is required; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>notify the applicant of the Department of Recreation and Parks' determination.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Removal by licensed experts.</em>
+          </text>
+          <text>Any tree removal permitted under this section must be completed by a licensed tree expert in accordance with Title 5, Subtitle 4, Part III {"Tree Experts"} of the State Natural Resources Article.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Notice.</em>
+          </text>
+          <text>Prior to removing a tree or trees pursuant to a permit issued under this section, the Department of Recreation and Parks must give public notice in the manner described in <cite doc="City of Baltimore, Md., Code" path="7|§53-5">§ 53-5 {"Public notice of tree removal"}</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Mitigation.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>A tree greater than 1 inch diameter at breast height that has been approved by the Department of Recreation and Parks for removal under this section shall be mitigated as provided in this subsection.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Procedures.</em>
+            </text>
+            <text>If the Department of Recreation and Parks requires that a tree be mitigated under this section, the mitigation shall be an inch-for-inch replacement, to be measured as follows:</text>
+            <para>
+              <num>(i)</num>
+              <text>for the removed tree, at the diameter at breast  height; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>for the replacement tree, at the caliper  inch.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>
+              <em>Methods of mitigation.</em>
+            </text>
+            <text>If the Department of Recreation and Parks requires mitigation under this subsection, the permit holder may accomplish the mitigation by:</text>
+            <para>
+              <num>(i)</num>
+              <text>planting replacement trees at the site or sites of the removal, as approved by the Department of Recreation and Parks; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>if mitigation inches required under this subsection cannot be replanted at the site or sites of removal, planting trees at another site or sites only as approved by the Department of Recreation and Parks.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>
+              <em>Fee-in-lieu of mitigation.</em>
+            </text>
+            <text>If a permit holder cannot accomplish mitigation using a method described in paragraph (2) of this subsection, the permit holder shall pay a fee-in-lieu of mitigation to the Director of Finance in an amount approved by the Board of Estimates.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>
+              <em>Exemptions from mitigation requirements.</em>
+            </text>
+            <text>The Department of Recreation and Parks may exempt a tree from the mitigation requirements of this subsection if the Department of Recreation and Parks determines that the tree is:</text>
+            <para>
+              <num>(i)</num>
+              <text>dead;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>dying;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>diseased or otherwise infected and contagious; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>at high risk of death, disease, or failure, as determined by the Baltimore City Forestry Division of the Department of Recreation and Parks.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="7|V|53" after="§53-15" codified:doc="City of Baltimore, Md., Code" codified:path="7|§53-16">
+      <section>
+        <prefix>§</prefix>
+        <num>53-16</num>
+        <heading>Tree removal - Parks.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Permit required.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>Unless otherwise authorized in writing by the Director of the Department of Recreation and parks or the Director's designee, a person may not remove a tree in a public park without first having been issued a written permit to do so by the Department of Recreation and Parks.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Determination.</em>
+            </text>
+            <text>Within 20 business days of receiving a request for a permit under this section, the Department of Recreation and Parks shall:</text>
+            <para>
+              <num>(i)</num>
+              <text>approve, deny, or request more information regarding the permit;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>determine whether mitigation under subsection (c) is required; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>notify the applicant of the Department of Recreation and Parks' determination.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Removal by licensed experts.</em>
+          </text>
+          <text>Any tree removal permitted under this section must be completed by a licensed tree expert in accordance with Title 5, Subtitle 4, Part III {"Tree Experts"} of the State Natural Resources Article.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><em>Mitigation</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>In general.</em>
+            </text>
+            <text>A tree approved by the Department of Recreation and Parks for removal under this section shall be mitigated as provided in this subsection if:</text>
+            <para>
+              <num>(i)</num>
+              <text>the tree measures 8 inches or greater in diameter at breast  height; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the tree was deliberately planted and measures 1 inch or greater in diameter.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Procedures.</em>
+            </text>
+            <text>If the Department of Recreation and Parks requires that a tree be mitigated under this section, the mitigation shall be an inch-for-inch replacement, to be measured as follows:</text>
+            <para>
+              <num>(i)</num>
+              <text>for the removed tree, at the diameter at breast  height; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>for the replacement tree, at the caliper  inch.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>
+              <em>Methods of mitigation.</em>
+            </text>
+            <text>If the Department of Recreation and Parks requires mitigation under this subsection, the permit holder may accomplish the mitigation by:</text>
+            <para>
+              <num>(i)</num>
+              <text>planting replacement trees at the site or sites of the removal, as approved by the Department of Recreation and Parks; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>if mitigation inches required under this subsection cannot be replanted at the site or sites of removal, planting trees at another site or sites only as approved by the Department of Recreation and Parks.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>
+              <em>Fee-in-lieu of mitigation.</em>
+            </text>
+            <para>
+              <num>(i)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>If a permit holder cannot accomplish mitigation using a method described in paragraph (3) of this subsection, the permit holder shall pay a fee-in-lieu of mitigation to the Director of Finance.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>
+                <em>Amount.</em>
+              </text>
+              <text>The fee-in-lieu of mitigation shall be a standard amount or unit, as approved by the Board of Estimates and updated as necessary.</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>
+              <em>Exemptions from mitigation requirements.</em>
+            </text>
+            <text>The Department of Recreation and Parks may exempt a tree from the mitigation requirements of this subsection if the Department of Recreation and Parks determines that the tree is:</text>
+            <para>
+              <num>(i)</num>
+              <text>dead;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>dying;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>diseased or otherwise infected and contagious; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>at high risk of death, disease, or failure, as determined by the Baltimore City Forestry Division of the Department of Recreation and Parks.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:replace path="7|§53-21" codified:doc="City of Baltimore, Md., Code" codified:path="7|§53-21">
+      <section>
+        <prefix>§</prefix>
+        <num>53-21</num>
+        <heading>Injuring or defacing trees, etc.</heading>
+        <para>
+          <num>(a)</num>
+          <text>
+            <em>Horses or other animals.</em>
+          </text>
+          <text>No person shall fasten any horse or other animal to any tree or shrub in any street, lane, or alley, nor shall any person cause or permit any horse or other animal to stand or be near enough to any tree, plant, or shrub to bite or rub against it or in any manner injure or deface the same.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>
+            <em>Attaching items.</em>
+          </text>
+          <text>Nor shall any person attach or place any rope, wire, sign, poster, handbill, or other thing or substance on any tree or shrub in any street, lane, or alley or on any guard or protection of the same.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Injuring, etc., protective devices.</em>
+          </text>
+          <text>Nor shall any person remove, injure, or misuse any guard or device placed or intended to protect any tree, plant, or shrub  in any park or street.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>
+            <em>Injuring, etc., tree and root zone.</em>
+          </text>
+          <text>Nor shall any person remove, damage, injure, or otherwise harm any tree or the root zone of a tree beneath the ground.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>
