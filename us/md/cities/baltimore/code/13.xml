@@ -3341,37 +3341,39 @@
       <annotations>
         <annotation type="Editor's Notes">
           <text>Ordinance 18-130 added the following uncodified, short-term transitional provisions for (i) preexisting, currently licensed multiple-family dwellings and rooming houses (Ord. 18-130, at Section 3) and (ii) non-owner-occupied dwelling units in 1- or 2-family dwellings (Ord. 18-130, at Section 4)</text>
-          <text>Section 3 --</text>
-          <para>
-            <num>(a)</num>
-            <text>On and after the effective date of this Ordinance <em>{August 1, 2018}</em>, a preexisting multiple-family dwelling or rooming house operating under an unexpired license that was issued under former City Code <cite path="|13">Article 13</cite>, Subtitle 5, may continue to operate under that license:</text>
+          <include>
+            <text>Section 3 --</text>
             <para>
-              <num>(i)</num>
-              <text>until the license expires at the end of its stated term or</text>
+              <num>(a)</num>
+              <text>On and after the effective date of this Ordinance <em>{August 1, 2018}</em>, a preexisting multiple-family dwelling or rooming house operating under an unexpired license that was issued under former City Code <cite path="|13">Article 13</cite>, Subtitle 5, may continue to operate under that license:</text>
+              <para>
+                <num>(i)</num>
+                <text>until the license expires at the end of its stated term or</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>if the end of its stated term is fewer than 90 days after the effective date of this Ordinance, for an extended term that expires on the 90<sup>th</sup> day after the effective date of this Ordinance.</text>
+              </para>
             </para>
             <para>
-              <num>(ii)</num>
-              <text>if the end of its stated term is fewer than 90 days after the effective date of this Ordinance, for an extended term that expires on the 90<sup>th</sup> day after the effective date of this Ordinance.</text>
+              <num>(b)</num>
+              <text>The multiple-family dwelling or rooming house may not continue to operate after the preexisting license expires under subsection (a)(i) or (ii) of this Section until the licensee has applied for and obtained an new, initial rental dwelling license under City Code <cite path="|13">Article 13</cite>, Subtitle 5, as amended by this Ordinance.</text>
             </para>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>The multiple-family dwelling or rooming house may not continue to operate after the preexisting license expires under subsection (a)(i) or (ii) of this Section until the licensee has applied for and obtained an new, initial rental dwelling license under City Code <cite path="|13">Article 13</cite>, Subtitle 5, as amended by this Ordinance.</text>
-          </para>
-          <text>Section 4 --</text>
-          <text>[O]n and after the effective date of this Ordinance {August 1, 2018}, a rental dwelling described in <cite path="|13|§5-1|(g)|(3)">Article 13, § 5-1(g)(3)</cite>, as added by this Ordinance, may preliminarily operate without an initial rental dwelling license, but only as long as:</text>
-          <para>
-            <num>(1)</num>
-            <text>all non-owner-occupied dwelling units are duly registered under <cite path="|13">Article 13</cite>, Subtitle 4, as amended by this Ordinance, and all registration fees and related interest and late fees required by that Subtitle 4 have been paid;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>within 120 days of the effective date of this Ordinance, the owner submits a completed application under <cite path="|13">Article 13</cite>, Subtitle 5, as amended by this subtitle, for a new, initial rental dwelling license; and</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>the Housing Commissioner has not yet issued an approval or denial of that application.</text>
-          </para>
+            <text>Section 4 --</text>
+            <text>[O]n and after the effective date of this Ordinance {August 1, 2018}, a rental dwelling described in <cite path="|13|§5-1|(g)|(3)">Article 13, § 5-1(g)(3)</cite>, as added by this Ordinance, may preliminarily operate without an initial rental dwelling license, but only as long as:</text>
+            <para>
+              <num>(1)</num>
+              <text>all non-owner-occupied dwelling units are duly registered under <cite path="|13">Article 13</cite>, Subtitle 4, as amended by this Ordinance, and all registration fees and related interest and late fees required by that Subtitle 4 have been paid;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>within 120 days of the effective date of this Ordinance, the owner submits a completed application under <cite path="|13">Article 13</cite>, Subtitle 5, as amended by this subtitle, for a new, initial rental dwelling license; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the Housing Commissioner has not yet issued an approval or denial of that application.</text>
+            </para>
+          </include>
         </annotation>
         <annotation type="Editor's Notes">The following text incorporates the many amendments made to this subtitle by Ordinance 18-130, subject to a general effective of August 1, 2018.</annotation>
       </annotations>
@@ -5013,7 +5015,7 @@
           </para>
           <para>
             <num>(11)</num>
-            <heading>A tranfer of title by the housing authority of Baltimore City.</heading>
+            <text>A tranfer of title by the housing authority of Baltimore City.</text>
           </para>
           <annotations>
             <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>

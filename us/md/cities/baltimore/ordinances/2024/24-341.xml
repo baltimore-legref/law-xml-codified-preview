@@ -6989,14 +6989,14 @@
         <para>
           <num>801.4.1</num>
           <heading>Day lighting.</heading>
-        </para>
-        <para>
-          <num>801.4.1.1</num>
-          <heading>Daylighting in large spaces directly under a roof and having high ceilings.</heading>
-          <reason>As in IgCC</reason>
-          <para name="801.4.1.1.1through801.4.1.1.3">
-            <num>801.4.1.1.1 through 801.4.1.1.3</num>
-            <reason>Not Adopted</reason>
+          <para>
+            <num>801.4.1.1</num>
+            <heading>Daylighting in large spaces directly under a roof and having high ceilings.</heading>
+            <reason>As in IgCC</reason>
+            <para name="801.4.1.1.1through801.4.1.1.3">
+              <num>801.4.1.1.1 through 801.4.1.1.3</num>
+              <reason>Not Adopted</reason>
+            </para>
           </para>
         </para>
         <para>
@@ -7101,7 +7101,7 @@
             </para>
             <para>
               <num>f.</num>
-              <heading>Building envelop systems.</heading>
+              <text>Building envelop systems.</text>
             </para>
           </para>
           <para>
@@ -7929,77 +7929,113 @@
         <para>
           <num>(1)</num>
           <text>For purposes of this section, citations issued for violations of the following provisions of the City Code are presumed to be issued for reasons related to public health or to the prevention of disease, epidemics, or nuisances affecting public health:</text>
+          <text>
+            <text>
+              <ul>
+                <li><cite path="|13" doc="City of Balt., Md., Ord. 24-341">Article 13</cite>.  Housing and Urban Renewal</li>
+                <ul>
+                  <li>Subtitle 5 {"Licensing of Rental Dwellings"}.</li>
+                </ul>
+                <li><cite path="|15" doc="City of Balt., Md., Ord. 24-341">Article 15</cite>.  Licensing and Regulation</li>
+                <ul>
+                  <li>Subtitle 17.  Street Vendors</li>
+                  <li>Subtitle 18.  Itinerant Wholesale Produce Dealers</li>
+                </ul>
+                <li><cite path="|19" doc="City of Balt., Md., Ord. 24-341">Article 19</cite>.  Police Ordinances</li>
+                <ul>
+                  <li>§ 1-2.  Placement <em>{of advertising circulars} </em>without permission</li>
+                  <li>§ 7-2.  Vehicle alarms: Prohibited devices</li>
+                  <li>§ 8-18.  Burglar alarms: Penalties</li>
+                  <li>§ 13-1 or § 13-2.  Disorderly drinking</li>
+                  <li>§ 14-2 or § 14-3.  Drinking in public places</li>
+                </ul>
+                <li>Subtitle 25.  Loitering – General</li>
+                <ul>
+                  <li>§ 26-6.  Loitering – Drug-Free Zone</li>
+                  <li>§ 27-3.  Loitering – For assignation, etc.</li>
+                  <li>§ 27-15.  Loitering – Prostitution-Free Zone</li>
+                </ul>
+                <li>Subtitle 32.  Minors – Sales in Proximity to Liquor Store</li>
+                <ul>
+                  <li>§ 34-5.  Curfews: Prohibited conduct of parents, guardians, etc.</li>
+                  <li>§ 34-6.  Curfews: Prohibited conduct of establishments</li>
+                  <li>§ 40-9.  Dirt Bikes, etc. – Motor fuel sales</li>
+                  <li>§ 41-2.  Outdoor telephones:  Prohibited placement</li>
+                  <li>§ 45-2.  Signs on public property:  Posting prohibited</li>
+                  <li>§ 47-5.  Nighttime soliciting</li>
+                  <li>§ 50-2.  Obstructing street, etc., or gutter</li>
+                  <li>§ 50-3.  Merchandise projecting from building</li>
+                  <li>§ 50-26.  Fires in street, lane, or alley</li>
+                  <li>§ 50-41.  Playing, etc., in street, etc.</li>
+                  <li>§ 50-56.  Soliciting customers</li>
+                  <li>§ 59-18.  Reporting <em>{theft or loss of firearm} </em>required</li>
+                </ul>
+                <li><cite path="|23" doc="City of Balt., Md., Ord. 24-341">Article 23</cite>.  Sanitation</li>
+                <ul>
+                  <li>§ 2-1.  Mixed refuse: Receptacles</li>
+                  <li>§ 2-2.  Mixed refuse: Handling</li>
+                  <li>§ 4-1 or § 4-2.  Receptacles on collection days</li>
+                </ul>
+                <li><cite path="|24" doc="City of Balt., Md., Ord. 24-341">Article 24</cite>.  Water</li>
+                <ul>
+                  <li>§ 21-1.  Rules and regulations <em>{to protect supply and facilities}</em></li>
+                  <li>§ 21-2.  Suspension, etc., of certain uses</li>
+                  <li>§ 21-3.  Injuring fire hydrants</li>
+                  <li>§ 21-4.  Wrongful use after cut-off</li>
+                  <li>§ 21-5.  Refusal of entry</li>
+                  <li>§ 21-6.  Interference with equipment; illegal use of water</li>
+                </ul>
+                <li><cite path="|26" doc="City of Balt., Md., Ord. 24-341">Article 26</cite>.  Surveys, Streets, and Highways</li>
+                <ul>
+                  <li>Subtitle 6.  Building Address Numbers</li>
+                </ul>
+                <li><cite path="|31" doc="City of Balt., Md., Ord. 24-341">Article 31</cite>.  Transit and Traffic</li>
+                <ul>
+                  <li>§ 16-12.  Vehicles on sidewalks</li>
+                  <li>§ 18-8.  Riding <em>{bicycles}</em> on sidewalk</li>
+                </ul>
+                <li><cite path="|32" doc="City of Balt., Md., Ord. 24-341">Article 32</cite>.  Zoning</li>
+                <ul>
+                  <li>§ 5-704.  {Use permit –}When required</li>
+                  <li>§ 16-803.  Storage, etc., of abandoned, etc., vehicles</li>
+                </ul>
+                <li><cite doc="City of Baltimore, Md., Code" path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|II">Building Code</cite></li>
+                <ul>
+                  <li>§ 114.14.  Work without permit</li>
+                  <li>§ 115.3.  Stop-work order: Unlawful continuance</li>
+                  <li>§ 116.  Unsafe structures</li>
+                  <li>§ 120.  Condemnation proceedings</li>
+                  <li>§ 123.8.  Failure to comply with notice or citation</li>
+                  <li>§ 3302.2  Construction Safeguards: Waste and debris</li>
+                </ul>
+                <li><cite doc="City of Baltimore, Md., Code" path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VIII">Fire Code</cite></li>
+                <ul>
+                  <li>§ 109.9.  Maintenance: Overcrowding</li>
+                  <li>§ 111.1.  Unsafe buildings: General</li>
+                  <li>§ 1001.2. Means of Egress: Minimum requirements</li>
+                </ul>
+                <li><cite doc="City of Baltimore, Md., Code" path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VII">Property Maintenance Code</cite></li>
+                <ul>
+                  <li>Chapter 3.  General Requirements</li>
+                </ul>
+                <li>
+                  <cite path="|health" doc="City of Balt., Md., Ord. 24-341">Health Code</cite>
+                </li>
+                <ul>
+                  <li>Title 5.  Nuisance Control</li>
+                  <li>Title 6:  Food Service Facilities</li>
+                  <li>Title 7:  Waste Control</li>
+                  <li>Title 8:  Air Pollution</li>
+                  <li>Title 9:  Noise Regulation</li>
+                  <li>Title 10:  Animal Control and Protection</li>
+                  <li>Title 11:  Swimming Pools</li>
+                  <li>Title 12:  Tobacco Products and Smoking Devices</li>
+                  <li>Title 15:  Ephedrine Products</li>
+                </ul>
+              </ul>
+            </text>
+          </text>
         </para>
-        <text> <cite path="|13" doc="City of Balt., Md., Ord. 24-341">Article 13</cite>.  Housing and Urban Renewal</text>
-        <text>o Subtitle 5 {"Licensing of Rental Dwellings"}.</text>
-        <text> <cite path="|15" doc="City of Balt., Md., Ord. 24-341">Article 15</cite>.  Licensing and Regulation</text>
-        <text>o Subtitle 17.  Street Vendors</text>
-        <text>o Subtitle 18.  Itinerant Wholesale Produce Dealers</text>
-        <text> <cite path="|19" doc="City of Balt., Md., Ord. 24-341">Article 19</cite>.  Police Ordinances</text>
-        <text>o § 1-2.  Placement <em>{of advertising circulars} </em>without permission</text>
-        <text>o § 7-2.  Vehicle alarms: Prohibited devices</text>
-        <text>o § 8-18.  Burglar alarms: Penalties</text>
-        <text>o § 13-1 or § 13-2.  Disorderly drinking</text>
-        <text>o § 14-2 or § 14-3.  Drinking in public places</text>
-        <text> Subtitle 25.  Loitering – General</text>
-        <text>o § 26-6.  Loitering – Drug-Free Zone</text>
-        <text>o § 27-3.  Loitering – For assignation, etc.</text>
-        <text>o § 27-15.  Loitering – Prostitution-Free Zone</text>
-        <text> Subtitle 32.  Minors – Sales in Proximity to Liquor Store</text>
-        <text>o § 34-5.  Curfews: Prohibited conduct of parents, guardians, etc.</text>
-        <text>o § 34-6.  Curfews: Prohibited conduct of establishments</text>
-        <text>o § 40-9.  Dirt Bikes, etc. – Motor fuel sales</text>
-        <text>o § 41-2.  Outdoor telephones:  Prohibited placement</text>
-        <text>o § 45-2.  Signs on public property:  Posting prohibited</text>
-        <text>o § 47-5.  Nighttime soliciting</text>
-        <text>o § 50-2.  Obstructing street, etc., or gutter</text>
-        <text>o § 50-3.  Merchandise projecting from building</text>
-        <text>o § 50-26.  Fires in street, lane, or alley</text>
-        <text>o § 50-41.  Playing, etc., in street, etc.</text>
-        <text>o § 50-56.  Soliciting customers</text>
-        <text>o § 59-18.  Reporting <em>{theft or loss of firearm} </em>required</text>
-        <text> <cite path="|23" doc="City of Balt., Md., Ord. 24-341">Article 23</cite>.  Sanitation</text>
-        <text>o § 2-1.  Mixed refuse: Receptacles</text>
-        <text>o § 2-2.  Mixed refuse: Handling</text>
-        <text>o § 4-1 or § 4-2.  Receptacles on collection days</text>
-        <text> <cite path="|24" doc="City of Balt., Md., Ord. 24-341">Article 24</cite>.  Water</text>
-        <text>o § 21-1.  Rules and regulations <em>{to protect supply and facilities}</em></text>
-        <text>o § 21-2.  Suspension, etc., of certain uses</text>
-        <text>o § 21-3.  Injuring fire hydrants</text>
-        <text>o § 21-4.  Wrongful use after cut-off</text>
-        <text>o § 21-5.  Refusal of entry</text>
-        <text>o § 21-6.  Interference with equipment; illegal use of water</text>
-        <text> <cite path="|26" doc="City of Balt., Md., Ord. 24-341">Article 26</cite>.  Surveys, Streets, and Highways</text>
-        <text>o Subtitle 6.  Building Address Numbers</text>
-        <text> <cite path="|31" doc="City of Balt., Md., Ord. 24-341">Article 31</cite>.  Transit and Traffic</text>
-        <text>o § 16-12.  Vehicles on sidewalks</text>
-        <text>o § 18-8.  Riding <em>{bicycles}</em> on sidewalk</text>
-        <text> <cite path="|32" doc="City of Balt., Md., Ord. 24-341">Article 32</cite>.  Zoning</text>
-        <text>o § 5-704.  {Use permit –}When required</text>
-        <text>o § 16-803.  Storage, etc., of abandoned, etc., vehicles</text>
-        <text> <cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|II" proof="needed">Building Code</cite></text>
-        <text>o § 114.14.  Work without permit</text>
-        <text>o § 115.3.  Stop-work order: Unlawful continuance</text>
-        <text>o § 116.  Unsafe structures</text>
-        <text>o § 120.  Condemnation proceedings</text>
-        <text>o § 123.8.  Failure to comply with notice or citation</text>
-        <text>o § 3302.2  Construction Safeguards: Waste and debris</text>
-        <text> <cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VIII" proof="needed">Fire Code</cite></text>
-        <text>o § 109.9.  Maintenance: Overcrowding</text>
-        <text>o § 111.1.  Unsafe buildings: General</text>
-        <text>o § 1001.2. Means of Egress: Minimum requirements</text>
-        <text> <cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VII" proof="needed">Property Maintenance Code</cite></text>
-        <text>o Chapter 3.  General Requirements</text>
-        <text> <cite path="|health" doc="City of Balt., Md., Ord. 24-341">Health Code</cite></text>
-        <text>o Title 5.  Nuisance Control</text>
-        <text>o Title 6:  Food Service Facilities</text>
-        <text>o Title 7:  Waste Control</text>
-        <text>o Title 8:  Air Pollution</text>
-        <text>o Title 9:  Noise Regulation</text>
-        <text>o Title 10:  Animal Control and Protection</text>
-        <text>o Title 11:  Swimming Pools</text>
-        <text>o Title 12:  Tobacco Products and Smoking Devices</text>
-        <text>o Title 15:  Ephedrine Products</text>
         <para>
           <num>(2)</num>
           <text>Nothing in this subsection precludes the Health Commissioner from determining, in his or her discretion, that a citation for an offense was issued for reasons related to public health or to the prevention of disease, epidemics, or nuisances affecting public health.</text>
