@@ -2176,9 +2176,7 @@
               <heading>New buildings and additions.</heading>
               <para>
                 <num>1.</num>
-                <text>
-                  <strong>1- and 2-family dwellings</strong>
-                </text>
+                <heading>1- and 2-family dwellings</heading>
                 <text>$10 for each 1,000 cubic feet (28.31 cu. m.) or fraction of 1,000 cubic feet (28.31 cu. m.) of gross volume, including all basements and cellars.</text>
                 <text>
                   <table>
@@ -2200,9 +2198,7 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>
-                  <strong>All others</strong>
-                </text>
+                <heading>All others</heading>
               </para>
               <text>$20 for each 1,000 cubic feet (28.31 cu. m.) or fraction of 1,000 cubic feet (28.31 cu. m.) of adjusted gross volume, including all basements and cellars. For this calculation, the gross volume of the building is adjusted to exclude, for each story of the building, the volume attributable to any area of that story that is more than 20 feet (6.10 m) above the floor.</text>
               <text>
@@ -2246,9 +2242,7 @@
               <heading>Alterations and repairs.</heading>
               <para>
                 <num>1.</num>
-                <text>
-                  <strong>1- and 2-family dwellings</strong>
-                </text>
+                <heading>1- and 2-family dwellings</heading>
                 <text>$0.30 per square foot  or fraction of a square foot of affected gross floor area</text>
                 <text>
                   <table>
@@ -2266,9 +2260,7 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>
-                  <strong>All others</strong>
-                </text>
+                <heading>All others</heading>
                 <text>$0.35 per square foot  or fraction of a square foot of affected gross floor area</text>
                 <text>
                   <table>
@@ -2504,9 +2496,7 @@
             </para>
             <para>
               <num>p.</num>
-              <text>
-                <strong>Occupancy permit (including any accompanying use permit issued under  Zoning Code).</strong>
-              </text>
+              <heading>Occupancy permit (including any accompanying use permit issued under  Zoning Code).</heading>
               <text>
                 <table>
                   <tbody>
@@ -2537,9 +2527,7 @@
               <heading>Electrical service wiring and equipment to be installed, replaced, or relocated, including provision for connection of meter.</heading>
               <para>
                 <num>1.</num>
-                <text>
-                  <strong>Rating in Amperes</strong>
-                </text>
+                <heading>Rating in Amperes</heading>
                 <text>
                   <table>
                     <tbody>
@@ -2578,9 +2566,7 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>
-                  <strong>Installing conduits and duct banks only</strong>
-                </text>
+                <heading>Installing conduits and duct banks only</heading>
                 <text>
                   <table>
                     <tbody>
@@ -2602,9 +2588,7 @@
               </para>
               <para>
                 <num>3.</num>
-                <text>
-                  <strong>Sub feeders for additional meters only</strong>
-                </text>
+                <heading>Sub feeders for additional meters only</heading>
                 <text>
                   <table>
                     <tbody>
@@ -2638,9 +2622,7 @@
               </para>
               <para>
                 <num>4.</num>
-                <text>
-                  <strong>Photovoltaic system</strong>
-                </text>
+                <heading>Photovoltaic system</heading>
                 <text>
                   <table>
                     <tbody>
@@ -5668,11 +5650,7 @@
           </para>
           <para>
             <num>202.2.35</num>
-            <text>
-              <strong>
-                <em>{Vacant}</em>
-              </strong>
-            </text>
+            <reason>{Vacant}</reason>
           </para>
           <para>
             <num>202.2.36</num>
@@ -22307,9 +22285,7 @@
           </para>
           <para>
             <num>311.7</num>
-            <text>
-              <strong>Stairways</strong>
-            </text>
+            <heading>Stairways</heading>
             <para name="311.7.1to311.7.4">
               <num from="311.7.1" to="311.7.4">311.7.1 to 311.7.4</num>
               <reason>As in IRC</reason>

@@ -1578,11 +1578,7 @@
         </para>
         <para>
           <num>202.2.35</num>
-          <text>
-            <strong>
-              <em>{Vacant}</em>
-            </strong>
-          </text>
+          <reason>{Vacant}</reason>
         </para>
         <para>
           <num>202.2.36</num>
@@ -8051,11 +8047,7 @@
     <codify:replace path="1|§40-14|(e)|(5c)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)">
       <para>
         <num>(5c)</num>
-        <text>
-          <strong>
-            <em>Building, Fire, and Related Codes Article – Building Code</em>
-          </strong>
-        </text>
+        <heading>Building, Fire, and Related Codes Article – Building Code</heading>
         <text>
           <table>
             <tbody>
@@ -8127,11 +8119,7 @@
     <codify:replace path="1|§40-14|(e)|(6)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)">
       <para>
         <num>(6)</num>
-        <text>
-          <strong>
-            <em><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VIII" proof="needed">Fire Code</cite></em>
-          </strong>
-        </text>
+        <heading><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VIII" proof="needed">Fire Code</cite></heading>
         <text>
           <table>
             <tbody>
@@ -8179,11 +8167,7 @@
     <codify:replace path="1|§41-14|(5)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14">
       <para>
         <num>(5)</num>
-        <text>
-          <strong>
-            <em><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VIII" proof="needed">Fire Code</cite></em>
-          </strong>
-        </text>
+        <heading><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VIII" proof="needed">Fire Code</cite></heading>
         <text>
           <table>
             <tbody>
@@ -8223,11 +8207,7 @@
     <codify:replace path="1|§41-14|(5a)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14">
       <para>
         <num>(5a)</num>
-        <text>
-          <strong>
-            <em><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VII" proof="needed">Property Maintenance Code</cite></em>
-          </strong>
-        </text>
+        <heading><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VII" proof="needed">Property Maintenance Code</cite></heading>
         <text>
           <table>
             <tbody>
