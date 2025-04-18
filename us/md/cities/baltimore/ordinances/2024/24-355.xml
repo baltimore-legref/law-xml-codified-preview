@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-355" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-355</num>
+  <num type="bill">24-0545</num>
+  <heading type="short">Tax Credits - Historic Properties - Application Extension</heading>
+  <heading type="long">An Ordinance Concerning Tax Credits - Historic Properties - Application Extension</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-06-10</introduced>
+    <effective>2024-08-24</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/a401b152-6280-4abc-a443-e08d6a77a31d.pdf">Ord. 24-355</citation>
+    </citations>
+    <history>
+      <vote date="2024-06-10" reading="first"/>
+      <vote date="2024-07-22" reading="second"/>
+      <enacted>2024-08-24</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="28|§10-8|(m)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-8|(m)">
+      <para>
+        <num>(m)</num>
+        <heading>Termination of program.</heading>
+        <text>Applications for a credit under this section may not be accepted after December 31, 2027.</text>
+      </para>
+    </codify:replace>
+  </section>
+</document>

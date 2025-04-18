@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-298" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-298</num>
+  <num type="bill">23-0425</num>
+  <heading type="short">Improving Safety and Habitability in Supportive and Other Residential Housing</heading>
+  <heading type="long">An Ordinance Concerning Improving Safety and Habitability in Supportive and Other Residential Housing</heading>
+  <meta>
+    <stub/>
+    <introduced>2023-09-18</introduced>
+    <effective>2024-02-16</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/4979df93-69d6-4b2e-a157-b2ee9b846cf3.pdf">Ord. 24-298</citation>
+    </citations>
+    <history>
+      <vote date="2023-09-18" reading="first"/>
+      <vote date="2023-12-07" reading="second"/>
+      <enacted>2024-01-17</enacted>
+      <committee>Favorable, with amendment</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="building-codes|II|1|105|105.1|7." codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|105|105.1">
+      <para>
+        <num>7.</num>
+        <text>on transfer of ownership or operation of property, continue any of the following uses:</text>
+        <para>
+          <num>a.</num>
+          <text>banquet hall (as defined in Baltimore City Zoning Code § 1-303(c) {"Banquet hall."}),</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>body art establishment (as defined in Baltimore City Zoning Code § 1-303(j) {"Body art establishment."}),</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>carry-out food shop (as defined in Baltimore City Zoning Code § 1-303(t) {"Carry-out food shop."}),</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>congregate living facilities (as defined in § 202.1 of the Baltimore City Building Code),</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>day-care center: adult or child (as defined in Baltimore City Zoning Code §§ 1-304(z) and 1-305(a) {"Day-care center: Child," and "Day-care center: Adult"}),</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>drive-through facility (as defined in Baltimore City Zoning Code § 1-305(h) {"Drive-through facility."}),</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>entertainment: indoor or live (as defined in Baltimore City Zoning Code §§ 1-306(b) and 1-306(c) {"Entertainment: Indoor." and "Entertainment: Live"}),</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>fuel station (as defined in Baltimore City Zoning Code § 1-306(t) {"Fuel station."}),</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>health-care clinic (as defined in Baltimore City Zoning Code § 1-307(f) {"Health-care clinic."}),</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>lodge or social club (as defined in Baltimore City Zoning Code § 1-308(q) {"Lodge or social club."}),</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>lounge (as defined in Baltimore City Zoning Code § 1-309(h-1) {"Lounge."}),</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>pawn shop (as defined in Baltimore City Zoning Code § 1-311(l) {"Pawn shop."}),</text>
+        </para>
+        <para>
+          <num>m.</num>
+          <text>personal services establishment (as defined in Baltimore City Zoning Code § 1-311(o) {"Personal services establishment."}),</text>
+        </para>
+        <para>
+          <num>n.</num>
+          <text>residential care facility (as defined in Baltimore City Zoning Code § 1-312(p) {"Residential care facility"}),</text>
+        </para>
+        <para>
+          <num>o.</num>
+          <text>restaurant (as defined in Baltimore City Zoning Code § 1-312(s) {"Restaurant."}),</text>
+        </para>
+        <para>
+          <num>p.</num>
+          <text>retail goods establishment – with or without alcoholic beverage sales (as defined in Baltimore City Zoning Code § 1-312(u) {"Retail goods establishment."}),</text>
+        </para>
+        <para>
+          <num>q.</num>
+          <text>rooming house (as defined in Baltimore City Zoning Code § 1-313(b) {"Rooming house."}),</text>
+        </para>
+        <para>
+          <num>r.</num>
+          <text>supportive housing facility (as defined in § 202.2.56 of this Code), or</text>
+        </para>
+        <para>
+          <num>s.</num>
+          <text>tavern (as defined in Baltimore City Zoning Code § 1-314(a) {"Tavern."}).</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="building-codes|II|2|202|202.2" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|2|202|202.2">
+      <para>
+        <num>202.2</num>
+        <heading>Supplemental definitions.</heading>
+        <text>Notwithstanding any different definition in the <cite path="|building-codes|II" doc="City of Balt., Md., Ord. 24-298">International Building Code</cite>, the following terms have the meanings given in this § 202.2.</text>
+        <para>
+          <num>202.2.1.</num>
+          <heading>Accessory structure.</heading>
+          <text>"Accessory structure" means a structure:</text>
+          <para>
+            <num>1.</num>
+            <text>located on the same lot as the main structure, and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the use of which is incidental to that of the main structure.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.2</num>
+          <heading>Agent.</heading>
+          <text>"Agent" means, as the context indicates, any person who:</text>
+          <para>
+            <num>1.</num>
+            <text>in any particular case involving any property:</text>
+            <para>
+              <num>a.</num>
+              <text>is responsible for the management, maintenance, operation, rental, leasing, or sale of the property,</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>applies for or seeks a permit or certificate from a City authority on behalf of the owner of the property, or</text>
+            </para>
+            <para>
+              <num>c.</num>
+              <text>in any way represents the owner of the property,</text>
+            </para>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>represents the Building Official, or</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>in general, represents another.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.3</num>
+          <heading>Authorized use.</heading>
+          <text>"Authorized use" means a use of land or structure approved in accordance with the Baltimore City Zoning Code.</text>
+        </para>
+        <para>
+          <num>202.2.4</num>
+          <heading>Base flood.</heading>
+          <text>"Base flood" has the meaning stated in City Code <cite path="|7|§1-2" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-2 {"Definitions – "Accessory structure" to "Floodplain District"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.5</num>
+          <heading>Base-flood elevation.</heading>
+          <text>"Base-flood elevation" has the meaning stated in City Code <cite path="|7|§1-2" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-2 {"Definitions – "Accessory structure" to "Floodplain District"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.6</num>
+          <heading>Basement (for flood loads)</heading>
+          <reason>Not Adopted</reason>
+        </para>
+        <para>
+          <num>202.2.7</num>
+          <heading>Blight.</heading>
+          <text>"Blight" includes exterior surfaces defaced by carvings, markings, or graffiti.</text>
+        </para>
+        <para>
+          <num>202.2.8</num>
+          <heading>Building.</heading>
+          <text>"Building" has the meaning stated in IBC § 202 and, unless the context indicates otherwise, includes premises and lands.</text>
+        </para>
+        <para>
+          <num>202.2.9</num>
+          <heading>Building Official.</heading>
+          <text>"Building Official" has the meaning stated in § 103.1 {"Enforcement agency"}.</text>
+        </para>
+        <para>
+          <num>202.2.10</num>
+          <heading>Building permit.</heading>
+          <text>"Building permit" means any permit issued under this Code.</text>
+        </para>
+        <para>
+          <num>202.2.11</num>
+          <heading>Certificate of occupancy.</heading>
+          <text>"Certificate of occupancy" means an occupancy permit.</text>
+        </para>
+        <para>
+          <num>202.2.12</num>
+          <heading>Change in occupancy.</heading>
+          <text>"Change in occupancy" means a change in the purpose or level of activity on land or within a structure.</text>
+        </para>
+        <para>
+          <num>202.2.13</num>
+          <heading>Change of use.</heading>
+          <text>"Change of use" means change in occupancy.</text>
+        </para>
+        <para>
+          <num>202.2.14</num>
+          <heading>City.</heading>
+          <text>"City" means the Mayor and City Council of Baltimore.</text>
+        </para>
+        <para>
+          <num>202.2.15</num>
+          <heading>Code.</heading>
+          <text>"Code" means, unless otherwise specified, the Building, Fire, and Related Codes of Baltimore City, as further defined in § 101.1 {"Title"}.</text>
+        </para>
+        <para>
+          <num>202.2.15a</num>
+          <heading>Cool Roof Rating Council.</heading>
+          <text>"Cool Roof Rating Council" or "CRRC" means the Cool Roof Rating Council, Inc., an American National Standards Institute-Accredited Standards Developer Organization, that created, maintains, and updates the American National Standard: ANSI/CRRC S100 - "Standard Test Methods for Determining Radiative Properties of Materials".</text>
+        </para>
+        <para>
+          <num>202.2.16</num>
+          <heading>Demolition.</heading>
+          <text>"Demolition":</text>
+          <para>
+            <num>1.</num>
+            <text>means razing or demolition, and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>includes removal of the debris resulting from any razing or demolition.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.17</num>
+          <heading>Department.</heading>
+          <text>"Department" means, unless the context clearly indicates otherwise, the Department of Building Safety, as further defined in § 103.1 {"Enforcement agency"}.</text>
+        </para>
+        <para>
+          <num>202.2.18</num>
+          <heading>Department of Building Safety.</heading>
+          <text>"Department of Building Safety" has the meaning stated in § 103.1{"Enforcement agency"}.</text>
+        </para>
+        <para>
+          <num>202.2.19</num>
+          <heading>Design flood.</heading>
+          <text>"Design flood" has the meaning stated in City Code <cite path="|7|§1-2" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-2 {"Definitions – "Accessory structure" to "Floodplain District"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.20</num>
+          <heading>Design-flood elevation.</heading>
+          <text>"Design-flood elevation" has the meaning stated in City Code <cite path="|7|§1-2" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-2 {"Definitions – "Accessory structure" to "Floodplain District"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.21</num>
+          <heading>Dry floodproofing.</heading>
+          <text>"Dry floodproofing" has the meaning stated in City Code <cite path="|7|§1-2" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-2 {"Definitions – "Accessory structure" to "Floodplain District"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.22</num>
+          <heading>Dwelling.</heading>
+          <text>"Dwelling" includes, but is not limited to, any one or more of the following:</text>
+          <para>
+            <num>202.2.22.1</num>
+            <heading>Boarding house.</heading>
+            <reason>As in IBC</reason>
+          </para>
+          <para>
+            <num>202.2.22.2</num>
+            <heading>Dormitory.</heading>
+            <text>"Dormitory" means a space in a building that provides group sleeping accommodations in 1 room or in a series of closely associated rooms for persons not members of the same family group.</text>
+          </para>
+          <para>
+            <num>202.2.22.3</num>
+            <heading>Multiple-family dwelling.</heading>
+            <text>"Multiple-family dwelling" means a building or part of a building that contains more than 2 dwelling units.</text>
+          </para>
+          <para>
+            <num>202.2.22.4</num>
+            <heading>1-family dwelling; single-family dwelling unit.</heading>
+            <text>"1-family dwelling" or "single-family dwelling unit" means a building that contains only 1 dwelling unit and is used only for that purpose.</text>
+          </para>
+          <para>
+            <num>202.2.22.5</num>
+            <heading>2-family dwelling.</heading>
+            <text>"2-family dwelling" means a building that contains 2 dwelling units and is used only for that purpose.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.23</num>
+          <heading>Dwelling unit.</heading>
+          <text>"Dwelling unit" means a single unit that provides or that is designed or intended to provide complete, independent living facilities for 1 or more persons, including permanent provisions for living, sleeping, eating, cooking, and sanitation.</text>
+        </para>
+        <para>
+          <num>202.2.24</num>
+          <heading>Existing construction.</heading>
+          <reason>Not Adopted</reason>
+        </para>
+        <para>
+          <num>202.2.25</num>
+          <heading>Existing structure (in Regulated Flood Hazard Areas).</heading>
+          <text>"Existing structure" means any structure for which the building permit was issued before March 15, 1978, and the actual start of construction was within 180 days of the permit date, as defined in the Floodplain Management Code.</text>
+          <para>
+            <num>202.2.25.1</num>
+            <heading>"Actual start of construction".</heading>
+            <text>For purposes of this definition, "actual start of construction" has the meaning stated in City Code <cite path="|7|§1-2" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-2 {"Definitions – "Accessory structure" to "Floodplain District"}</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.26</num>
+          <heading>Existing structure (for § 1612.2).</heading>
+          <reason>Not Adopted</reason>
+        </para>
+        <para>
+          <num>202.2.27</num>
+          <heading>Existing structure (for Chapter 34).</heading>
+          <reason>Not Adopted</reason>
+        </para>
+        <para>
+          <num>202.2.28</num>
+          <heading>Flood; Flooding.</heading>
+          <text>"Flood" or "flooding" has the meaning stated in City Code <cite path="|7|§1-2" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-2 {"Definitions – "Accessory structure" to "Floodplain District"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.29</num>
+          <heading>Flood hazard area.</heading>
+          <text>"Flood Hazard Area" means a Regulated Flood Hazard Area established under and regulated by the Floodplain Management Code.</text>
+        </para>
+        <para>
+          <num>202.2.30</num>
+          <heading>Flood Insurance Rate Map; FIRM.</heading>
+          <text>"Flood Insurance Rate Map" or "FIRM" has the meaning stated in City Code <cite path="|7|§1-2" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-2 {"Definitions – "Accessory structure" to "Floodplain District"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.31</num>
+          <heading>Flood Insurance Study.</heading>
+          <text>"Flood Insurance Study" has the meaning stated in City Code <cite path="|7|§1-2" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-2 {"Definitions – "Accessory structure" to "Floodplain District"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.32</num>
+          <heading>Floodplain Management Code.</heading>
+          <text>"Floodplain Management Code" means the Baltimore City Floodplain Management Code, City Code <cite path="|7" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}</cite>, Division I {"Floodplain Management"}.</text>
+        </para>
+        <para>
+          <num>202.2.33</num>
+          <heading>Floodway.</heading>
+          <text>"Floodway" has the meaning stated in City Code <cite path="|7|§1-3" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-3 {"Definitions – "Floodproofing" to "Wet floodproofing"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.34</num>
+          <heading>Foster care facility.</heading>
+          <text>"Foster care facility" means a facility that provides care to more than 8 children who are 2½ years of age or less.</text>
+        </para>
+        <para>
+          <num>202.2.35</num>
+          <reason>Vacant</reason>
+        </para>
+        <para>
+          <num>202.2.36</num>
+          <heading>Historic structure.</heading>
+          <text>"Historic structure" has the meaning stated in City Code <cite path="|7|§1-3" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-3 {"Definitions – "Floodproofing" to "Wet floodproofing"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.37</num>
+          <heading>International Codes.</heading>
+          <para>
+            <num>202.2.37.1</num>
+            <heading>Energy Conservation Code.</heading>
+            <text>"Energy Conservation Code", "Baltimore City Energy Conservation Code", "International Energy Conservation Code", or "IECC" means the International Energy Conservation Code (2018 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+          <para>
+            <num>202.2.37.2</num>
+            <heading>Fire Code.</heading>
+            <text>"<cite path="|building-codes|VIII" doc="City of Balt., Md., Ord. 24-298">Fire Code</cite>", "Baltimore City <cite path="|building-codes|VIII" doc="City of Balt., Md., Ord. 24-298">Fire Code</cite>", "<cite path="|building-codes|VIII" doc="City of Balt., Md., Ord. 24-298">International Fire Code</cite>", or "IFC" means the <cite path="|building-codes|VIII" doc="City of Balt., Md., Ord. 24-298">International Fire Code</cite> (2018 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+          <para>
+            <num>202.2.37.3</num>
+            <heading>Fuel Gas Code.</heading>
+            <text>"<cite path="|building-codes|IV" doc="City of Balt., Md., Ord. 24-298">Fuel Gas Code</cite>", "Baltimore City <cite path="|building-codes|IV" doc="City of Balt., Md., Ord. 24-298">Fuel Gas Code</cite>", "<cite path="|building-codes|IV" doc="City of Balt., Md., Ord. 24-298">International Fuel Gas Code</cite>", or "IFGC" means the <cite path="|building-codes|IV" doc="City of Balt., Md., Ord. 24-298">International Fuel Gas Code</cite> (2018 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+          <para>
+            <num>202.2.37.4</num>
+            <heading>Green Construction Code.</heading>
+            <text>"<cite path="|building-codes|XI" doc="City of Balt., Md., Ord. 24-298">Green Construction Code</cite>", "Baltimore City <cite path="|building-codes|XI" doc="City of Balt., Md., Ord. 24-298">Green Construction Code</cite>",  "<cite path="|building-codes|XI" doc="City of Balt., Md., Ord. 24-298">International Green Construction Code</cite>", or "IgCC" means the <cite path="|building-codes|XI" doc="City of Balt., Md., Ord. 24-298">International Green Construction Code</cite> (2018 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+          <para>
+            <num>202.2.37.5</num>
+            <heading>Mechanical Code.</heading>
+            <text>"<cite path="|building-codes|V" doc="City of Balt., Md., Ord. 24-298">Mechanical Code</cite>", "Baltimore City <cite path="|building-codes|V" doc="City of Balt., Md., Ord. 24-298">Mechanical Code</cite>", "<cite path="|building-codes|V" doc="City of Balt., Md., Ord. 24-298">International Mechanical Code</cite>", or "IMC" means the <cite path="|building-codes|V" doc="City of Balt., Md., Ord. 24-298">International Mechanical Code</cite> (2015 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+          <para>
+            <num>202.2.37.6</num>
+            <heading>Plumbing Code.</heading>
+            <text>"<cite path="|building-codes|VI" doc="City of Balt., Md., Ord. 24-298">Plumbing Code</cite>", "Baltimore City <cite path="|building-codes|VI" doc="City of Balt., Md., Ord. 24-298">Plumbing Code</cite>", "<cite path="|building-codes|VI" doc="City of Balt., Md., Ord. 24-298">International Plumbing Code</cite>", or "IPC" means the <cite path="|building-codes|VI" doc="City of Balt., Md., Ord. 24-298">International Plumbing Code</cite> (2018 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+          <para>
+            <num>202.2.37.7</num>
+            <heading>Property Maintenance Code.</heading>
+            <text>"<cite path="|building-codes|VII" doc="City of Balt., Md., Ord. 24-298">Property Maintenance Code</cite>", "Baltimore City <cite path="|building-codes|VII" doc="City of Balt., Md., Ord. 24-298">Property Maintenance Code</cite>", "<cite path="|building-codes|VII" doc="City of Balt., Md., Ord. 24-298">International Property Maintenance Code</cite>",or "IPMC" means the <cite path="|building-codes|VII" doc="City of Balt., Md., Ord. 24-298">International Property Maintenance Code</cite> (2018 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+          <para>
+            <num>202.2.37.8</num>
+            <heading>Residential Code.</heading>
+            <text>"<cite path="|building-codes|X" doc="City of Balt., Md., Ord. 24-298">Residential Code</cite>", "Baltimore City <cite path="|building-codes|X" doc="City of Balt., Md., Ord. 24-298">Residential Code</cite>", "<cite path="|building-codes|X" doc="City of Balt., Md., Ord. 24-298">International Residential Code</cite>", or "IRC" means the <cite path="|building-codes|X" doc="City of Balt., Md., Ord. 24-298">International Residential Code</cite> for One- and Two-Family Dwellings (2018 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+          <para>
+            <num>202.2.37.9</num>
+            <heading>Swimming Pool and Spa Code.</heading>
+            <text>"<cite path="|building-codes|XII" doc="City of Balt., Md., Ord. 24-298">Swimming Pool and Spa Code</cite>", "Baltimore City <cite path="|building-codes|XII" doc="City of Balt., Md., Ord. 24-298">Swimming Pool and Spa Code</cite>", "<cite path="|building-codes|XII" doc="City of Balt., Md., Ord. 24-298">International Swimming Pool and Spa Code</cite>", or "ISPSC" means the <cite path="|building-codes|XII" doc="City of Balt., Md., Ord. 24-298">International Swimming Pool and Spa Code</cite> (2018 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.38</num>
+          <heading>Lowest floor.</heading>
+          <text>"Lowest floor" has the meaning stated in City Code <cite path="|7|§1-3" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-3 {"Definitions – "Floodproofing" to "Wet floodproofing"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.39</num>
+          <heading>May not, etc.</heading>
+          <text>"May not", "must not", and "no ... may" are each mandatory negative terms used to establish a prohibition.</text>
+        </para>
+        <para>
+          <num>202.2.40</num>
+          <heading>Mortgage.</heading>
+          <text>"Mortgage" includes a deed of trust or other deed in the nature of a mortgage.</text>
+        </para>
+        <para>
+          <num>202.2.41</num>
+          <heading>Mortgagee.</heading>
+          <text>"Mortgagee" includes a beneficiary under a deed of trust or other deed in the nature of a mortgage.</text>
+        </para>
+        <para>
+          <num>202.2.42</num>
+          <heading>Must/shall.</heading>
+          <text>"Must" and "shall" are each mandatory terms used to express a requirement or to impose a duty.</text>
+        </para>
+        <para>
+          <num>202.2.43</num>
+          <heading>National Codes.</heading>
+          <para>
+            <num>202.2.43.1</num>
+            <heading>Electrical Code.</heading>
+            <text>"<cite path="|building-codes|III" doc="City of Balt., Md., Ord. 24-298">Electrical Code</cite>", "Baltimore City <cite path="|building-codes|III" doc="City of Balt., Md., Ord. 24-298">Electrical Code</cite>", "<cite path="|building-codes|III" doc="City of Balt., Md., Ord. 24-298">National Electrical Code</cite>", or "NEC" means the <cite path="|building-codes|III" doc="City of Balt., Md., Ord. 24-298">National Electrical Code</cite> (2017 Edition), as supplemented, amended, or otherwise modified by Baltimore City.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.44</num>
+          <heading>Occupancy.</heading>
+          <text>"Occupancy" means:</text>
+          <para>
+            <num>1.</num>
+            <text>the state of occupying or using any land or structure, or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the act of taking, holding possession of, or using any land or structure, or</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>the purpose for which any land or structure is used or occupied.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.45</num>
+          <heading>Occupancy permit.</heading>
+          <text>"Occupancy permit" means a permit that:</text>
+          <para>
+            <num>1.</num>
+            <text>signifies compliance with this Code and related laws, and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>indicates the Building Official's approval to occupy a structure for the authorized use.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.46</num>
+          <heading>Occupant.</heading>
+          <text>"Occupant" means any person who uses or who has the right of possession of all or any part of a structure or premises.</text>
+        </para>
+        <para>
+          <num>202.2.47</num>
+          <heading>Operator.</heading>
+          <text>"Operator" means any person who has charge, care, or control of all or any part of a structure or premises.</text>
+        </para>
+        <para>
+          <num>202.2.48</num>
+          <heading>Person.</heading>
+          <text>"Person":</text>
+          <para>
+            <num>1.</num>
+            <text>means any individual, sole proprietorship, corporation, limited liability company, firm, partnership, association, organization, joint venture, or other entity or group acting as a unit, executor, administrator, trustee, receiver, guardian, or other representative appointed by law, and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>whenever used in this Code with reference to liability or to the imposition of a penalty or fine, includes:</text>
+            <para>
+              <num>a.</num>
+              <text>as to an unincorporated firm, partnership, association, organization, or joint venture, the partners or members of the firm, partnership, association, organization, or joint venture,</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>as to a corporation, the officers, trustees, agents, or members of the corporation who are responsible for the violation of any relevant code provision, and</text>
+            </para>
+            <para>
+              <num>c.</num>
+              <text>in addition, the responsible officer, trustee, partner, or member designated on a registration statement filed under City Code <cite path="|13" doc="City of Balt., Md., Ord. 24-298">Article 13</cite>, Subtitle 4 {"Registration of Non-Owner-Occupied Dwellings, etc."}.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>202.2.49</num>
+          <heading>Premises.</heading>
+          <text>"Premises" means a lot or group of lots, together with all or any part of any buildings or structures on the lot or group of lots, considered as a unit devoted to a particular use, including accessory structures and open spaces required or used in connection with that particular use.</text>
+        </para>
+        <para>
+          <num>202.2.50</num>
+          <heading>Rehabilitation.</heading>
+          <text>"Rehabilitation" means all repairs and other work, of any kind, needed to make a dwelling or other structure fit to be occupied for its authorized use in conformity with all applicable standards and requirements of this Code.</text>
+        </para>
+        <para>
+          <num>202.2.51</num>
+          <heading>Related laws.</heading>
+          <text>"Related laws" has the meaning stated in § 104.6.2 {"Authority to seek warrant"}.</text>
+        </para>
+        <para>
+          <num>202.2.52</num>
+          <heading>Structure.</heading>
+          <text>"Structure" has the meaning stated in IBC § 202 and, unless the context indicates otherwise, includes premises and lands.</text>
+        </para>
+        <para>
+          <num>202.2.53</num>
+          <heading>Stabilization.</heading>
+          <text>"Stabilization", with reference to a structure that has been declared unsafe or unfit for occupancy, means all work of any kind, not amounting to rehabilitation, that is needed, or that is performed or required by the Building Official, to make the structure safe and secure, to prevent its further deterioration, and to eliminate its blighting influence.</text>
+        </para>
+        <para>
+          <num>202.2.54</num>
+          <heading>Substantial damage.</heading>
+          <text>"Substantial damage" has the meaning stated in City Code <cite path="|7|§1-3" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-3 {"Definitions – "Floodproofing" to "Wet floodproofing"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.55</num>
+          <heading>Substantial improvement.</heading>
+          <text>"Substantial improvement" has the meaning stated in City Code <cite path="|7|§1-3" doc="City of Balt., Md., Ord. 24-298">Article 7 {"Natural Resources"}, § 1-3 {"Definitions – "Floodproofing" to "Wet floodproofing"}</cite>.</text>
+        </para>
+        <para>
+          <num>202.2.56</num>
+          <heading>Supportive housing facility.</heading>
+          <text>"Supportive housing facility" means a non-institutional, shared living environment which integrates shelter, service, and support needs of socially isolated persons who are otherwise in good health, can maintain a semi-independent lifestyle, and do not require constant supervision or intensive health care as provided by an institution.</text>
+        </para>
+        <para>
+          <num>202.2.57</num>
+          <heading>Transfer.</heading>
+          <text>"Transfer", when used with respect to property subject to this Code, has the meaning stated in § 114.23 {"Responsibility of transferee"}.</text>
+        </para>
+        <para>
+          <num>202.2.58</num>
+          <heading>Use.</heading>
+          <text>"Use" means, unless the context indicates otherwise:</text>
+          <para>
+            <num>1.</num>
+            <text>the purpose for which a building, structure, or land is used, occupied, or intended to be used or occupied, and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>any activity, occupation, business, or operation carried out on land or in a building or structure.</text>
+          </para>
+        </para>
+        <para>
+          <num>202.2.59</num>
+          <heading>Zoning Code.</heading>
+          <text>"Zoning Code" means the Baltimore City Zoning Code, including the accompanying Zoning District Maps.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="building-codes|II|3|310|310.5" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|3|310|310.5">
+      <para>
+        <num>310.5</num>
+        <heading>Residential Group R-4.</heading>
+        <text>Residential Group R-4 occupancy shall include buildings, structures, or portions thereof for more than 5 but not more than 16 persons, excluding staff, who reside on a 24-hour basis in a supervised residential environment and receive custodial care. Residential Group R-4 shall also include all supportive housing facilities.  Buildings of Residential Group R-4 shall be classified as one of the occupancy conditions specified in § 310.5.1 or § 310.5.2 of this subsection.  This group shall include, but not be limited to, the following:</text>
+        <para>
+          <num>1.</num>
+          <text>alcohol and drug centers,</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>assisted living facilities,</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>congregate care facilities,</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>group homes,</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>halfway houses,</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>residential board and care facilities,</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>social rehabilitation facilities, and</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>supportive housing facilities.</text>
+        </para>
+        <para>
+          <num>310.5.1</num>
+          <heading>Condition 1.</heading>
+          <text>This occupancy condition shall include buildings in which all persons receiving custodial care, without any assistance, are capable of completing building evacuation in response to an emergency situation.</text>
+        </para>
+        <para>
+          <num>310.5.2</num>
+          <heading>Condition 2.</heading>
+          <text>This occupancy condition shall include buildings in which there are any persons receiving custodial care who require limited verbal or physical assistance to complete building evacuation in response to an emergency situation.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="13|§5-1" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-1">
+      <section>
+        <prefix>§</prefix>
+        <num>5-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Dwelling unit.</heading>
+          <text>"Dwelling unit" has the meaning stated in § 202.2 of the <cite path="|building-codes|VII" doc="City of Balt., Md., Ord. 24-298">Property Maintenance Code</cite> of Baltimore City.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Housing Commissioner; Commissioner.</heading>
+          <text>"Housing Commissioner" or "Commissioner" means the Commissioner of Housing and Community Development or the Commissioner's designee.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Multiple-family dwelling.</heading>
+          <text>"Multiple-family dwelling" has the meaning stated in § 202.2 of the <cite path="|building-codes|VII" doc="City of Balt., Md., Ord. 24-298">Property Maintenance Code</cite> of Baltimore City.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Non-owner-occupied dwelling unit.</heading>
+          <text>"Non-owner-occupied dwelling unit" has the meaning stated in <cite path="|13|§4-1" doc="City of Balt., Md., Ord. 24-298">§ 4-1 of this article</cite>.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Person.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)" doc="City of Balt., Md., Ord. 24-298">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general" doc="City of Balt., Md., Ord. 24-298">General Provisions Article</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Qualified inclusion of governmental entities.</heading>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)" doc="City of Balt., Md., Ord. 24-298">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general" doc="City of Balt., Md., Ord. 24-298">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|13|§5-21" doc="City of Balt., Md., Ord. 24-298">§ 5-21 {"Penalties"} of this subtitle</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Rental dwelling.</heading>
+          <text>"Rental dwelling" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>any multiple-family dwelling;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any rooming house;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>any supportive housing facility; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>any non-owner-occupied dwelling unit in a 1- or 2-family dwelling that is leased or rented or offered or available for lease or rental in exchange for any form of consideration.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Rooming house.</heading>
+          <text>"Rooming house" has the meaning stated in § 202.2 of the <cite path="|building-codes|VII" doc="City of Balt., Md., Ord. 24-298">Property Maintenance Code</cite> of Baltimore City.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Rooming unit.</heading>
+          <text>"Rooming unit" has the meaning stated in § 202.2 of the <cite path="|building-codes|VII" doc="City of Balt., Md., Ord. 24-298">Property Maintenance Code</cite> of Baltimore City.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Supportive housing facility.</heading>
+          <text>"Supportive housing facility" has the meaning stated in § 202.2.56 of the Baltimore City Building Code.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

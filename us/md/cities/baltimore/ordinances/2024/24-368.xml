@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-368" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-368</num>
+  <num type="bill">22-0275</num>
+  <heading type="short">Ethics - Conforming Changes</heading>
+  <heading type="long">An Ordinance Concerning Ethics - Conforming Changes</heading>
+  <meta>
+    <stub/>
+    <introduced>2022-09-12</introduced>
+    <effective>2024-11-01</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/688e1a2a-685b-4282-ab56-c7def2d6c6ef.pdf">Ord. 24-368</citation>
+    </citations>
+    <history>
+      <vote date="2022-09-12" reading="first"/>
+      <vote date="2024-08-26" reading="second"/>
+      <enacted>2024-10-02</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert path="8|2|I" after="§2-23" codified:doc="City of Baltimore, Md., Code" codified:path="8|§2-24">
+      <section>
+        <prefix>§</prefix>
+        <num>2-24</num>
+        <heading>"Quasi-governmental entity".</heading>
+        <text>"Quasi-governmental entity" means an entity that:</text>
+        <para>
+          <num>(1)</num>
+          <text>is created by a state statute;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>performs a public function; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>is supported in whole or in part by the state, but is managed privately.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:replace path="8|2|I|2-24to2-30" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="8|§2-25to2-30">
+      <section name="2-25to2-30">
+        <num>2-25 to 2-30</num>
+        <reason>Reserved</reason>
+        <annotations/>
+      </section>
+    </codify:replace>
+    <codify:replace path="8|§6-26|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§6-26|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Except as permitted under subsection (b) of this section, a public servant may not solicit or facilitate the solicitation of a gift, whether on the public servant's own behalf or on behalf of another person.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="8|§6-27" codified:doc="City of Baltimore, Md., Code" codified:path="8|§6-27">
+      <section>
+        <prefix>§</prefix>
+        <num>6-27</num>
+        <heading>Acceptance prohibited.</heading>
+        <text>Except as otherwise provided in this Part IV, a public servant may not knowingly accept any gift, directly or indirectly, from any person that the public servant knows or has reason to know:</text>
+        <para>
+          <num>(1)</num>
+          <text>does or seeks to do business of any kind, regardless of amount:</text>
+          <para>
+            <num>(i)</num>
+            <text>with the public servant's agency; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>with another person in connection with or in furtherance of a contract that is being negotiated or has been entered into by the other person with the public servant's agency;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>engages or seeks to engage in an activity that is regulated or controlled by the public servant's agency;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>is or, within the preceding 12 months, has been a lobbyist with respect to matters within the jurisdiction of the public servant;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>has a financial interest that might be substantially and materially affected, in a manner distinguishable from the public generally, by the performance or nonperformance of the public servant's official duties;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>is an association, or any entity acting on behalf of an association, that is engaged only in representing counties or municipal corporations; or</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>is an owner, partner, officer, director, trustee, employee, or agent of any person described in items (1) through (4) of this section.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="8|§6-37" codified:doc="City of Baltimore, Md., Code" codified:path="8|§6-37">
+      <section>
+        <prefix>§</prefix>
+        <num>6-37</num>
+        <heading>Disclosing confidential information.</heading>
+        <text>Except in the discharge of an official duty, a public servant or former public servant may not disclose or use, for his or her own economic benefit or that of another, confidential information that the public servant or former public servant acquired by reason of his or her public position and that is not available to the public.</text>
+      </section>
+    </codify:replace>
+    <codify:insert path="8|6|V" codified:doc="City of Baltimore, Md., Code" codified:path="8|§6-40">
+      <section>
+        <prefix>§</prefix>
+        <num>6-40</num>
+        <heading>Prohibited retaliation.</heading>
+        <text>A public servant may not retaliate against an individual for participating in an investigation of or reporting a potential violation of this article.</text>
+      </section>
+    </codify:insert>
+    <codify:replace path="8|§7-4|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-4|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Except as provided in paragraphs (2) and (3) of this subsection, the Ethics Board shall allow a person to inspect a financial disclosure filed by a public servant under this subtitle.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Ethics Board may not provide public access to a portion of a statement that is filed on or after January 1, 2019, and that expressly identifies an individual's home address.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Ethics Board may not provide public access to information related to consideration received from:</text>
+          <para>
+            <num>(i)</num>
+            <text>the University of Maryland Medical System;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a governmental entity of the state or a local government in the state; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a quasi-governmental entity of the state or a local government in the state.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="8|§7-17|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-17|(c)">
+      <para>
+        <num>(c)</num>
+        <heading>Interests held by certain business entities.</heading>
+        <para>
+          <num>(1)</num>
+          <text>An interest is attributable to the public servant if, at any time during the reporting period, it was held by:</text>
+          <para>
+            <num>(i)</num>
+            <text>a business entity in which an equity interest of 10% or more was held by or otherwise attributable under this section to the public servant;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a business entity in which a business entity described in subparagraph (i) of this paragraph held a 25% or greater interest;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a business entity in which a business entity described in subparagraph (ii) of this paragraph held a 50% or greater interest; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>a business entity in which a public servant directly or indirectly, through an interest in 1 or a combination of other business entities, holds a 10% or greater interest.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This subsection does not limit:</text>
+          <para>
+            <num>(i)</num>
+            <text>the requirements of <cite path="|8|§7-21" doc="City of Balt., Md., Ord. 24-368">§ 7-21 {"Real property"} of this subtitle</cite> to disclose real property interests held by entities in which the public servant holds an interest; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the requirements of <cite path="|8|§7-22" doc="City of Balt., Md., Ord. 24-368">§ 7-22 {"Business entities"} of this subtitle</cite> to disclose certain entities in which the public servant holds an interest.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:insert path="8|7|III" after="§7-18" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-19">
+      <section>
+        <prefix>§</prefix>
+        <num>7-19</num>
+        <heading>Business Entity Names.</heading>
+        <text>An individual who is required to disclose the name of a business entity under this section shall disclose any other names that the business entity is using for trading or doing business.</text>
+      </section>
+    </codify:insert>
+    <codify:replace path="8|7|III|7-19to7-20" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-20">
+      <section>
+        <num>7-20</num>
+        <reason>Reserved</reason>
+        <annotations/>
+      </section>
+    </codify:replace>
+    <codify:replace path="8|§7-23|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-23|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>In general.</heading>
+        <text>The statement must include a schedule of each significant gift that was, at any time during the reporting period:</text>
+        <para>
+          <num>(1)</num>
+          <text>accepted by the public servant or by any other person at the direction of the public servant; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>given by or on behalf of, directly or indirectly, any person that the public servant knows or has reason to know was:</text>
+          <para>
+            <num>(i)</num>
+            <text>a lobbyist;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a person regulated by the City;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a person doing business with the City; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>an association or an entity acting on behalf of an association that is engaged only in representing counties or municipal corporations.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="8|§7-27|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-27|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Required specifics.</heading>
+        <para>
+          <num>(1)</num>
+          <text>For each source of income subject to this section, the schedule must include:</text>
+          <para>
+            <num>(i)</num>
+            <text>the name and address of the place of salaried employment or business entity;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>for each family member, that individual's name and relationship to the public servant; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>if the individual's spouse is a lobbyist, any entity that has engaged the spouse for lobbying purposes.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The statement may not include a listing of a minor child's employment or a listing of 1 or more business entities of which the child is a sole or partial owner, unless the place of employment or business entity:</text>
+          <para>
+            <num>(i)</num>
+            <text>is subject to the regulation or authority of the agency that employs the individual; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>has contracts in excess of $10,000 with the agency that employs the individual.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="8|§7-29" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-29">
+      <section>
+        <prefix>§</prefix>
+        <num>7-29</num>
+        <heading>Relationships with University of Maryland Medical System, state or local government, or quasi-governmental entity.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The statement shall include a schedule of any financial or contractual relationship with:</text>
+          <para>
+            <num>(1)</num>
+            <text>the University of Maryland Medical System;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a governmental entity of the state or a local government in the state; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a quasi-governmental entity of the state or a local government in the state; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For each financial or contractual relationship reported, the schedule shall include:</text>
+          <para>
+            <num>(1)</num>
+            <text>a description of the relationship;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the subject matter of the relationship; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the consideration.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:insert path="8|7|III" after="§7-29" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-30">
+      <section>
+        <prefix>§</prefix>
+        <num>7-30</num>
+        <heading>Additional information.</heading>
+        <text>The statement may include a schedule of additional interests or information that the public servant chooses to disclose.</text>
+      </section>
+    </codify:insert>
+  </section>
+</document>

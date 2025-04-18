@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-322" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">24-322</num>
+  <num type="bill">24-0494</num>
+  <heading type="short">Chesapeake Bay Critical Area Overlay Zoning District – Prohibited Uses</heading>
+  <heading type="long">An Ordinance Concerning Chesapeake Bay Critical Area Overlay Zoning District – Prohibited Uses</heading>
+  <meta>
+    <stub/>
+    <introduced>2024-02-26</introduced>
+    <effective>2024-04-16</effective>
+    <citations>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/c6f6154c-9547-483c-b757-829b8b8a8577.pdf">Ord. 24-322</citation>
+    </citations>
+    <history>
+      <vote date="2024-02-26" reading="first"/>
+      <vote date="2024-04-08" reading="second"/>
+      <enacted>2024-04-16</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="32|§7-402" codified:doc="City of Baltimore, Md., Code" codified:path="32|§7-402">
+      <section>
+        <prefix>§</prefix>
+        <num>7-402</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Buffer.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Buffer" means area that:</text>
+            <para>
+              <num>(i)</num>
+              <text>based on conditions at the time of development, is immediately landward from mean high water of tidal waterways, the edge of a bank of a tributary stream, or the edge of a tidal wetland; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>exists, or may be established in, natural vegetation to protect a stream, tidal wetland, tidal waters or terrestrial environments from human disturbance.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Buffer"  includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>an area of at least 100-feet, even if that area was previously disturbed by human activity; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any expansion for contiguous areas, including a steep slope, hydric soil, highly erodible soil, nontidal wetland, or a Nontidal Wetland of Special State Concern as defined in COMAR 26.23.01.01.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Critical area.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Critical Area"  means all lands and waters defined in §8-1807 of the State Natural Resources Article.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Critical Area" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>all waters of and lands under the Chesapeake Bay and Atlantic Coastal Bays and their tributaries to the head of tide;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>all State and private wetlands designated under Title 16 of the State Environment Article;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>all land and water areas within 1,000 feet beyond the landward boundaries of State or private wetlands and the heads of tides designated under Title 16 of the State Environment Article; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>modification to these areas through inclusions or exclusions proposed by local jurisdictions and approved by the Critical Area Commission, as specified in § 8-1807 of the State Natural Resources Article.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Critical Area Management Program.</heading>
+          <text>"Critical Area Management Program" or "CAMP" means the Baltimore City Critical Area Management Program, as adopted by Resolution or Ordinance of the Mayor and City Council of Baltimore and approved by the Chesapeake Bay Critical Area Commission.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Development.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Development" has the meaning stated in COMAR 27.01.01.01B(21).</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Development" includes any one or a combination of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>construction, reconstruction, modification, expansion, or demolition of structures;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>placement of fill;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>dredging;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>drilling;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>mining;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>grading;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>paving;</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>land excavation;</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>land clearing;</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>land improvement; or</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>storage of materials.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Disturb.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Disturb" means to alter or change land in any way.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Disturb" includes any amount of clearing, grading, or construction activity.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Disturb" does not include gardening or maintenance of an existing grass lawn.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Non-water dependent project</heading>
+          <text>"Non-water dependent project" has the meaning stated in COMAR 27.01.13.01.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Non-water dependent structure</heading>
+          <text>"Non-water dependent structure" means a temporary or permanent structure or activity which, by reason of its intrinsic nature or operation, is not required to be located in or over State or private tidal wetlands.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Significant development.</heading>
+          <text>"Significant development" means any development that would:</text>
+          <para>
+            <num>(1)</num>
+            <text>disturb any land in the Buffer;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>disturb 10,000 or more square feet of land in the Critical Area;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>result in any disturbance, caused by use, development, or destruction of vegetation, to land in an area designated under the Critical Area Management Program as a "Designated Habitat Protection Area"; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>involve an expenditure for improvements to the property equal to or greater than 50% of the assessed value of the property, as recorded in the State Department of Assessment and Taxation's database.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Water-dependent facilities.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Water-dependent facilities" means land uses or structures that:</text>
+            <para>
+              <num>(i)</num>
+              <text>are associated with industrial, maritime, recreational, educational, or fisheries activities;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>require a location within the Buffer near the shoreline; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>are dependent on the water by reason of the intrinsic nature of their operation.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Water-dependent facilities" include:</text>
+            <para>
+              <num>(i)</num>
+              <text>ports;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>intake and outfall structures of power plants;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>industries that withdraw water from surface waters regulated by this State, requiring a Water Appropriation and Use Permit from the Maryland Department of the Environment;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>marinas and other boat-docking structures;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>public beaches and water-oriented recreation areas; and</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>fisheries.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Water-dependent facilities" does not include private piers that are installed and maintained by riparian landowners and are not part of a subdivision that provides community piers.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§7-404" codified:doc="City of Baltimore, Md., Code" codified:path="32|§7-404">
+      <section>
+        <prefix>§</prefix>
+        <num>7-404</num>
+        <heading>Development areas.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>State law requires the City to designate "Development Areas" within the Chesapeake Bay Critical Area, based generally on existing development patterns and densities.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Types Designated.</heading>
+          <text>The 2 types of Development Areas specified in the Critical Area Management Program are:</text>
+          <para>
+            <num>(1)</num>
+            <text>"Resource Conservation Areas, which include the subarea designated as "Shoreline Conservation Area"; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>"Intensely Developed Areas", which comprise 2 subareas designated as:</text>
+            <para>
+              <num>(i)</num>
+              <text>"Waterfront Industrial Areas"; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>"Waterfront Revitalization Areas."</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Area Boundaries</heading>
+          <text>Development area boundaries exist as established on the Baltimore City CAMP Map as provided for under § 7-405(a) of this subtitle {“Boundaries delineated on Map”}.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§7-406" codified:doc="City of Baltimore, Md., Code" codified:path="32|§7-406">
+      <section>
+        <prefix>§</prefix>
+        <num>7-406</num>
+        <heading>Prohibited uses.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Scope.</heading>
+          <text>The uses prohibited by this section are in addition to those prohibited by§ 1-218 {"Uses prohibited citywide"} of this Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Within Critical Area.</heading>
+          <text>Except as specified in subsection (d) of this section, the following uses are prohibited within the Critical Area:</text>
+          <para>
+            <num>(1)</num>
+            <text>a non-water dependent structure, except as authorized under State Natural Resources Article § 8-1808.4 {"Critical Area Protection Program: Nonwater-dependent projects"};</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>collection, storage, handling, or disposal of hazardous or toxic materials, as defined in COMAR 11.07.01.01;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>industrial landfills;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>liquefied natural gas and petroleum gas terminals;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>maintenance, dismantling, or storage of abandoned, unlicensed, junked, or derelict vehicles or vehicle parts;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>non-water dependent uses on barges in tidal waters, except maritime museums;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>non-water dependent uses on permanently moored vessels in the Inner Harbor Basin, except maritime museums;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>recycling collection stations;</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>solid waste acceptance facilities, as defined in City Code <cite path="|23" doc="City of Balt., Md., Ord. 24-322">Article 23</cite>, except for facilities approved as a conditional use under this subtitle; and</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>storage and handling of radioactive waste.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Within Buffer.</heading>
+          <text>Except as specified in subsection (d) of this section, the following additional uses are prohibited within the Buffer:</text>
+          <para>
+            <num>(1)</num>
+            <text>cement plants;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>chemical plants;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>sand or gravel extraction operations; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>storage facilities for nutrients – that is, elements or compounds essential as raw material for organic growth and development (for example, carbon, nitrogen, and phosphorus).</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Exceptions - In general.</heading>
+          <text>The prohibitions in subsections (b) and (c) of this section do not apply if the following standards are met:</text>
+          <para>
+            <num>(1)</num>
+            <text>on recommendation of the Department of Planning, the Board of Municipal and Zoning Appeals finds both that:</text>
+            <para>
+              <num>(i)</num>
+              <text>there is no environmentally acceptable alternative outside the Critical Area; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the use is needed to correct an existing water quality or wastewater management problem; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>for any new use that constitutes a significant development or for any expansion of a nonconforming use, a best management practices plan that will achieve a net improvement in water quality and habitat is submitted and implemented as a requirement of the Critical Area review process.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

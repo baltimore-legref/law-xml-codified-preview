@@ -930,70 +930,86 @@
           </para>
           <para>
             <num>7.</num>
-            <text>on transfer of ownership or operation of property, continue any of the following uses, as defined in City Code <cite path="|32">Article 32 {"Zoning"}</cite>:</text>
+            <text>on transfer of ownership or operation of property, continue any of the following uses:</text>
             <para>
               <num>a.</num>
-              <text>banquet hall,</text>
+              <text>banquet hall (as defined in Baltimore City Zoning Code § 1-303(c) {"Banquet hall."}),</text>
             </para>
             <para>
               <num>b.</num>
-              <text>body art establishment,</text>
+              <text>body art establishment (as defined in Baltimore City Zoning Code § 1-303(j) {"Body art establishment."}),</text>
             </para>
             <para>
               <num>c.</num>
-              <text>carry-out food shop,</text>
+              <text>carry-out food shop (as defined in Baltimore City Zoning Code § 1-303(t) {"Carry-out food shop."}),</text>
             </para>
             <para>
               <num>d.</num>
-              <text>day-care center: adult or child,</text>
+              <text>congregate living facilities (as defined in § 202.1 of the Baltimore City Building Code),</text>
             </para>
             <para>
               <num>e.</num>
-              <text>drive-through facility,</text>
+              <text>day-care center: adult or child (as defined in Baltimore City Zoning Code §§ 1-304(z) and 1-305(a) {"Day-care center: Child," and "Day-care center: Adult"}),</text>
             </para>
             <para>
               <num>f.</num>
-              <text>entertainment: live or indoor,</text>
+              <text>drive-through facility (as defined in Baltimore City Zoning Code § 1-305(h) {"Drive-through facility."}),</text>
             </para>
             <para>
               <num>g.</num>
-              <text>fuel station,</text>
+              <text>entertainment: indoor or live (as defined in Baltimore City Zoning Code §§ 1-306(b) and 1-306(c) {"Entertainment: Indoor." and "Entertainment: Live"}),</text>
             </para>
             <para>
               <num>h.</num>
-              <text>health-care clinic,</text>
+              <text>fuel station (as defined in Baltimore City Zoning Code § 1-306(t) {"Fuel station."}),</text>
             </para>
             <para>
               <num>i.</num>
-              <text>lodge or social club,</text>
+              <text>health-care clinic (as defined in Baltimore City Zoning Code § 1-307(f) {"Health-care clinic."}),</text>
             </para>
             <para>
               <num>j.</num>
-              <text>lounge,</text>
+              <text>lodge or social club (as defined in Baltimore City Zoning Code § 1-308(q) {"Lodge or social club."}),</text>
             </para>
             <para>
               <num>k.</num>
-              <text>pawn shop,</text>
+              <text>lounge (as defined in Baltimore City Zoning Code § 1-309(h-1) {"Lounge."}),</text>
             </para>
             <para>
               <num>l.</num>
-              <text>personal services establishment,</text>
+              <text>pawn shop (as defined in Baltimore City Zoning Code § 1-311(l) {"Pawn shop."}),</text>
             </para>
             <para>
               <num>m.</num>
-              <text>restaurant,</text>
+              <text>personal services establishment (as defined in Baltimore City Zoning Code § 1-311(o) {"Personal services establishment."}),</text>
             </para>
             <para>
               <num>n.</num>
-              <text>retail: big box establishment,</text>
+              <text>residential care facility (as defined in Baltimore City Zoning Code § 1-312(p) {"Residential care facility"}),</text>
             </para>
             <para>
               <num>o.</num>
-              <text>retail goods establishment – with our without alcoholic beverage sales, or</text>
+              <text>restaurant (as defined in Baltimore City Zoning Code § 1-312(s) {"Restaurant."}),</text>
             </para>
             <para>
               <num>p.</num>
-              <text>tavern.</text>
+              <text>retail: big box establishment,</text>
+            </para>
+            <para>
+              <num>q.</num>
+              <text>retail goods establishment – with or without alcoholic beverage sales (as defined in Baltimore City Zoning Code § 1-312(u) {"Retail goods establishment."}),</text>
+            </para>
+            <para>
+              <num>r.</num>
+              <text>rooming house (as defined in Baltimore City Zoning Code § 1-313(b) {"Rooming house."}),</text>
+            </para>
+            <para>
+              <num>s.</num>
+              <text>supportive housing facility (as defined in § 202.2.56 of this Code), or</text>
+            </para>
+            <para>
+              <num>t.</num>
+              <text>tavern (as defined in Baltimore City Zoning Code § 1-314(a) {"Tavern."}).</text>
             </para>
           </para>
           <para>
@@ -1625,6 +1641,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-054" type="History">Ord. 21-054</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-133" type="History">Ord. 22-133</annotation>
+          <annotation app="2024-02-16" doc="City of Balt., Md., Ord. 24-298" eff="2024-02-16" path="§1" type="History"/>
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History" display="false"/>
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
         </annotations>
@@ -5513,7 +5530,11 @@
             <num>202.2.15</num>
             <heading>Code.</heading>
             <text>"Code" means, unless otherwise specified, the Building, Fire, and Related Codes of Baltimore City, as further defined in § 101.1 {"Title"}.</text>
-            <text><strong>202.2.15a Cool Roof Rating Council.</strong>  "Cool Roof Rating Council" or "CRRC" means the Cool Roof Rating Council, Inc., an American National Standards Institute-Accredited Standards Developer Organization, that created, maintains, and updates the American National Standard: ANSI/CRRC S100 - "Standard Test Methods for Determining Radiative Properties of Materials".</text>
+          </para>
+          <para>
+            <num>202.2.15a</num>
+            <heading>Cool Roof Rating Council.</heading>
+            <text>"Cool Roof Rating Council" or "CRRC" means the Cool Roof Rating Council, Inc., an American National Standards Institute-Accredited Standards Developer Organization, that created, maintains, and updates the American National Standard: ANSI/CRRC S100 - "Standard Test Methods for Determining Radiative Properties of Materials".</text>
           </para>
           <para>
             <num>202.2.16</num>
@@ -5832,21 +5853,26 @@
           </para>
           <para>
             <num>202.2.54</num>
-            <heading>Transfer.</heading>
-            <text>"Transfer", when used with respect to property subject to this Code, has the meaning stated in § 114.23 {"Responsibility of transferee"}.</text>
-          </para>
-          <para>
-            <num>202.2.55</num>
             <heading>Substantial damage.</heading>
             <text>"Substantial damage" has the meaning stated in City Code <cite path="|7|§1-3" doc="City of Balt., Md., Ord. 24-341">Article 7 {"Natural Resources"}, § 1-3 {"Definitions – "Floodproofing" to "Wet floodproofing"}</cite>.</text>
           </para>
           <para>
-            <num>202.2.56</num>
+            <num>202.2.55</num>
             <heading>Substantial improvement.</heading>
             <text>"Substantial improvement" has the meaning stated in City Code <cite path="|7|§1-3" doc="City of Balt., Md., Ord. 24-341">Article 7 {"Natural Resources"}, § 1-3 {"Definitions – "Floodproofing" to "Wet floodproofing"}</cite>.</text>
           </para>
           <para>
+            <num>202.2.56</num>
+            <heading>Supportive housing facility.</heading>
+            <text>"Supportive housing facility" means a non-institutional, shared living environment which integrates shelter, service, and support needs of socially isolated persons who are otherwise in good health, can maintain a semi-independent lifestyle, and do not require constant supervision or intensive health care as provided by an institution.</text>
+          </para>
+          <para>
             <num>202.2.57</num>
+            <heading>Transfer.</heading>
+            <text>"Transfer", when used with respect to property subject to this Code, has the meaning stated in § 114.23 {"Responsibility of transferee"}.</text>
+          </para>
+          <para>
+            <num>202.2.58</num>
             <heading>Unsafe structure.</heading>
             <text>"Unsafe structure” means a structure:</text>
             <para>
@@ -5871,7 +5897,7 @@
             </para>
           </para>
           <para>
-            <num>202.2.58</num>
+            <num>202.2.59</num>
             <heading>Use.</heading>
             <text>"Use" means, unless the context indicates otherwise:</text>
             <para>
@@ -5884,7 +5910,7 @@
             </para>
           </para>
           <para>
-            <num>202.2.59</num>
+            <num>202.2.60</num>
             <heading>Zoning Code.</heading>
             <text>"Zoning Code" means the Baltimore City Zoning Code, including the accompanying Zoning District Maps.</text>
           </para>
@@ -5892,6 +5918,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-467" type="History">Ord. 20-467</annotation>
           <annotation doc="City of Balt., Md., Ord. 23-252" type="History">Ord. 23-252</annotation>
+          <annotation app="2024-02-16" doc="City of Balt., Md., Ord. 24-298" eff="2024-02-16" path="§1" type="History"/>
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History" display="false"/>
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
         </annotations>
@@ -5970,9 +5997,52 @@
         <para>
           <num>310.5</num>
           <heading>Residential Group R-4.</heading>
-          <reason>As in IBC</reason>
+          <text>Residential Group R-4 occupancy shall include buildings, structures, or portions thereof for more than 5 but not more than 16 persons, excluding staff, who reside on a 24-hour basis in a supervised residential environment and receive custodial care. Residential Group R-4 shall also include all supportive housing facilities.  Buildings of Residential Group R-4 shall be classified as one of the occupancy conditions specified in § 310.5.1 or § 310.5.2 of this subsection.  This group shall include, but not be limited to, the following:</text>
+          <para>
+            <num>1.</num>
+            <text>alcohol and drug centers,</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>assisted living facilities,</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>congregate care facilities,</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>group homes,</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>halfway houses,</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>residential board and care facilities,</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>social rehabilitation facilities, and</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>supportive housing facilities.</text>
+          </para>
+          <para>
+            <num>310.5.1</num>
+            <heading>Condition 1.</heading>
+            <text>This occupancy condition shall include buildings in which all persons receiving custodial care, without any assistance, are capable of completing building evacuation in response to an emergency situation.</text>
+          </para>
+          <para>
+            <num>310.5.2</num>
+            <heading>Condition 2.</heading>
+            <text>This occupancy condition shall include buildings in which there are any persons receiving custodial care who require limited verbal or physical assistance to complete building evacuation in response to an emergency situation.</text>
+          </para>
         </para>
         <annotations>
+          <annotation app="2024-02-16" doc="City of Balt., Md., Ord. 24-298" eff="2024-02-16" path="§1" type="History"/>
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History" display="false"/>
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
         </annotations>

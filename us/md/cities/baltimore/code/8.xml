@@ -539,10 +539,33 @@
           <annotation type="Defined Terms">Official	§2-21</annotation>
         </annotations>
       </section>
-      <section name="2-24to2-30">
-        <num>2-24 to 2-30</num>
+      <section>
+        <prefix>§</prefix>
+        <num>2-24</num>
+        <heading>"Quasi-governmental entity".</heading>
+        <text>"Quasi-governmental entity" means an entity that:</text>
+        <para>
+          <num>(1)</num>
+          <text>is created by a state statute;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>performs a public function; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>is supported in whole or in part by the state, but is managed privately.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section name="2-25to2-30">
+        <num>2-25 to 2-30</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2258,35 +2281,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as permitted under subsection (b) of this section, a public servant may not solicit or facilitate the solicitation of a gift, whether on the public servant's own behalf or on behalf of another person, from any person that the public servant knows or has reason to know:</text>
-          <para>
-            <num>(1)</num>
-            <text>does or seeks to do business of any kind, regardless of amount:</text>
-            <para>
-              <num>(i)</num>
-              <text>with the public servant's agency; or</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>with another person in connection with or in furtherance of a contract that is being negotiated or has been entered into by the other person with the public servant's agency;</text>
-            </para>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>engages or seeks to engage  in an activity that is regulated or controlled by the public servant's agency;</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>is or, within the preceding 12 months, has been a lobbyist with respect to matters within the jurisdiction of the public servant;</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>has a financial interest that might be substantially and materially affected, in a manner distinguishable from the public generally, by the performance or nonperformance of the public servant's official duties; or</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>is an owner, partner, officer, director, trustee, employee, or agent of any person described in items (1) through (4) of this subsection.</text>
-          </para>
+          <text>Except as permitted under subsection (b) of this section, a public servant may not solicit or facilitate the solicitation of a gift, whether on the public servant's own behalf or on behalf of another person.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2321,6 +2316,7 @@
           <annotation type="Defined Terms">Person	§2-22</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
           <annotation type="Editor's Notes">Board Regulations R 06.26.1 and R 06.26.2 sets out criteria for obtaining approval under § 6-26(b) for “official governmental” or “City-endorsed charitable” solicitations.</annotation>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2350,10 +2346,14 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>has a financial interest that might be substantially and materially affected, in a manner distinguishable from the public generally, by the performance or nonperformance of the public servant's official duties; or</text>
+          <text>has a financial interest that might be substantially and materially affected, in a manner distinguishable from the public generally, by the performance or nonperformance of the public servant's official duties;</text>
         </para>
         <para>
           <num>(5)</num>
+          <text>is an association, or any entity acting on behalf of an association, that is engaged only in representing counties or municipal corporations; or</text>
+        </para>
+        <para>
+          <num>(6)</num>
           <text>is an owner, partner, officer, director, trustee, employee, or agent of any person described in items (1) through (4) of this section.</text>
         </para>
         <annotations>
@@ -2368,6 +2368,7 @@
           <annotation type="Defined Terms">Lobbyist	§2-20</annotation>
           <annotation type="Defined Terms">Person	§2-22</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2498,10 +2499,11 @@
         <prefix>§</prefix>
         <num>6-37</num>
         <heading>Disclosing confidential information.</heading>
-        <text>Except in the discharge of an official duty, a public servant may not disclose or use, for his or her own economic benefit or that of another, confidential information that the public servant acquired by reason of his or her public position and that is not available to the public.</text>
+        <text>Except in the discharge of an official duty, a public servant or former public servant may not disclose or use, for his or her own economic benefit or that of another, confidential information that the public servant or former public servant acquired by reason of his or her public position and that is not available to the public.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2620,6 +2622,15 @@
             </para>
             <text>The Ordinance was enacted on July 8, 2004.</text>
           </annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>6-40</num>
+        <heading>Prohibited retaliation.</heading>
+        <text>A public servant may not retaliate against an individual for participating in an investigation of or reporting a potential violation of this article.</text>
+        <annotations>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2831,11 +2842,27 @@
           <heading>In general.</heading>
           <para>
             <num>(1)</num>
-            <text>Except as provided in paragraph (2) of this subsection, the Ethics Board shall allow a person to inspect a financial disclosure filed by a public servant under this subtitle.</text>
+            <text>Except as provided in paragraphs (2) and (3) of this subsection, the Ethics Board shall allow a person to inspect a financial disclosure filed by a public servant under this subtitle.</text>
           </para>
           <para>
             <num>(2)</num>
             <text>The Ethics Board may not provide public access to a portion of a statement that is filed on or after January 1, 2019, and that expressly identifies an individual's home address.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Ethics Board may not provide public access to information related to consideration received from:</text>
+            <para>
+              <num>(i)</num>
+              <text>the University of Maryland Medical System;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a governmental entity of the state or a local government in the state; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a quasi-governmental entity of the state or a local government in the state.</text>
+            </para>
           </para>
         </para>
         <para>
@@ -2868,6 +2895,7 @@
           <annotation type="Defined Terms">Executive Director	§2-11</annotation>
           <annotation type="Defined Terms">Person	§2-22</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4305,18 +4333,34 @@
           <heading>Interests held by certain business entities.</heading>
           <para>
             <num>(1)</num>
-            <text>An interest is attributable to the public servant if, at any time during the reporting period, it was held by a business entity in which an equity interest of 30% or more was held by or otherwise attributable under this section to the public servant.</text>
+            <text>An interest is attributable to the public servant if, at any time during the reporting period, it was held by:</text>
+            <para>
+              <num>(i)</num>
+              <text>a business entity in which an equity interest of 10% or more was held by or otherwise attributable under this section to the public servant;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a business entity in which a business entity described in subparagraph (i) of this paragraph held a 25% or greater interest;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a business entity in which a business entity described in subparagraph (ii) of this paragraph held a 50% or greater interest; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>a business entity in which a public servant directly or indirectly, through an interest in 1 or a combination of other business entities, holds a 10% or greater interest.</text>
+            </para>
           </para>
           <para>
             <num>(2)</num>
             <text>This subsection does not limit:</text>
             <para>
               <num>(i)</num>
-              <text>the requirements of <cite path="|8|§7-21">§ 7-21 {"Real property"} of this subtitle</cite> to disclose real property interests held by entities in which the public servant holds an interest; or</text>
+              <text>the requirements of <cite path="|8|§7-21" doc="City of Balt., Md., Ord. 24-368">§ 7-21 {"Real property"} of this subtitle</cite> to disclose real property interests held by entities in which the public servant holds an interest; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>the requirements of <cite path="|8|§7-22">§ 7-22 {"Business entities"} of this subtitle</cite> to disclose certain entities in which the public servant holds an interest.</text>
+              <text>the requirements of <cite path="|8|§7-22" doc="City of Balt., Md., Ord. 24-368">§ 7-22 {"Business entities"} of this subtitle</cite> to disclose certain entities in which the public servant holds an interest.</text>
             </para>
           </para>
         </para>
@@ -4345,6 +4389,7 @@
           <annotation type="Defined Terms">Interest	§2-19</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
           <annotation type="Editor's Notes">Ordinance 19-287 amended paragraph (c)(1), effective February 25, 2020, to expand the reference to an equity interest “held” by the public servant to encompass an equity interest “held by or otherwise attributable under this section to” the public servant.</annotation>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4367,10 +4412,21 @@
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
         </annotations>
       </section>
-      <section name="7-19to7-20">
-        <num>7-19 to 7-20</num>
+      <section>
+        <prefix>§</prefix>
+        <num>7-19</num>
+        <heading>Business Entity Names.</heading>
+        <text>An individual who is required to disclose the name of a business entity under this section shall disclose any other names that the business entity is using for trading or doing business.</text>
+        <annotations>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>7-20</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -4594,11 +4650,15 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>a person regulated by the City; or</text>
+              <text>a person regulated by the City;</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>a person doing business with the City.</text>
+              <text>a person doing business with the City; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>an association or an entity acting on behalf of an association that is engaged only in representing counties or municipal corporations.</text>
             </para>
           </para>
         </para>
@@ -4631,6 +4691,7 @@
           <annotation type="Defined Terms">Lobbyist	§2-20</annotation>
           <annotation type="Defined Terms">Person	§2-22</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4853,18 +4914,33 @@
         <para>
           <num>(b)</num>
           <heading>Required specifics.</heading>
-          <text>For each source of income subject to this section, the schedule must include:</text>
           <para>
             <num>(1)</num>
-            <text>the name and address of the place of salaried employment or business entity;</text>
+            <text>For each source of income subject to this section, the schedule must include:</text>
+            <para>
+              <num>(i)</num>
+              <text>the name and address of the place of salaried employment or business entity;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>for each family member, that individual's name and relationship to the public servant; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>if the individual's spouse is a lobbyist, any entity that has engaged the spouse for lobbying purposes.</text>
+            </para>
           </para>
           <para>
             <num>(2)</num>
-            <text>for each family member, that individual's name and relationship to the public servant; and</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>if the individual's spouse is a lobbyist, any entity that has engaged the spouse for lobbying purposes.</text>
+            <text>The statement may not include a listing of a minor child's employment or a listing of 1 or more business entities of which the child is a sole or partial owner, unless the place of employment or business entity:</text>
+            <para>
+              <num>(i)</num>
+              <text>is subject to the regulation or authority of the agency that employs the individual; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>has contracts in excess of $10,000 with the agency that employs the individual.</text>
+            </para>
           </para>
         </para>
         <annotations>
@@ -4875,6 +4951,7 @@
           <annotation type="Defined Terms">Child	§2-6</annotation>
           <annotation type="Defined Terms">Lobbyist	§2-20</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4950,13 +5027,54 @@
       <section>
         <prefix>§</prefix>
         <num>7-29</num>
-        <heading>Additional information.</heading>
-        <text>The statement may include a schedule of additional interests or information that the public servant chooses to disclose.</text>
+        <heading>Relationships with University of Maryland Medical System, state or local government, or quasi-governmental entity.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The statement shall include a schedule of any financial or contractual relationship with:</text>
+          <para>
+            <num>(1)</num>
+            <text>the University of Maryland Medical System;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a governmental entity of the state or a local government in the state; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a quasi-governmental entity of the state or a local government in the state; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For each financial or contractual relationship reported, the schedule shall include:</text>
+          <para>
+            <num>(1)</num>
+            <text>a description of the relationship;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the subject matter of the relationship; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the consideration.</text>
+          </para>
+        </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-328" type="History">Ord. 19-328</annotation>
           <annotation type="Defined Terms">Interest	§2-19</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>7-30</num>
+        <heading>Additional information.</heading>
+        <text>The statement may include a schedule of additional interests or information that the public servant chooses to disclose.</text>
+        <annotations>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
         </annotations>
       </section>
     </container>
