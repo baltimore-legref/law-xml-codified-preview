@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 20-367">
+  <num type="law">20-367</num>
+  <num type="bill">21-0050</num>
+  <heading type="short">Burglar Alarms Registration and Regulation - False Alarms</heading>
+  <heading type="long">An Ordinance Concerning Burglar Alarms Registration and Regulation - False Alarms</heading>
+  <meta>
+    <stub/>
+    <introduced>2020-01-13</introduced>
+    <effective>2020-06-17</effective>
+    <citations>
+      <citation type="ord" url="./enacted/20-367.pdf">Ord. 20-367</citation>
+    </citations>
+    <history>
+      <vote date="2020-01-13" reading="first"/>
+      <vote date="2020-06-15" reading="second"/>
+      <enacted>2020-06-17</enacted>
+      <committee>Favorable with floor amendments</committee>
+    </history>
+  </meta>
+</document>
