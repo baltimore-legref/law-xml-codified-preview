@@ -1,0 +1,5278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-015" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-015</num>
+  <num type="bill">25-0006</num>
+  <heading type="short">Zoning Code - Modifications</heading>
+  <heading type="long">An Ordinance Concerning Zoning Code - Modifications</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-01-13</introduced>
+    <effective>2025-05-31</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-015.pdf">Ord. 25-015</citation>
+    </citations>
+    <history>
+      <vote date="2025-01-13" reading="first"/>
+      <vote date="2025-04-28" reading="second"/>
+      <enacted>2025-05-01</enacted>
+      <committee>Favorable, with amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="32|§1-205" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-205">
+      <section>
+        <prefix>§</prefix>
+        <num>1-205</num>
+        <heading>Use symbology.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Use symbology.</heading>
+          <text>In Tables of Uses:</text>
+          <para>
+            <num>(1)</num>
+            <text>a "P" indicates that a use is permitted within that zoning district;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a  "CB" indicates that a use is a conditional use within that zoning district requiring approval by the Board of Municipal and Zoning Appeals;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a "CO" indicates that a use is a conditional use within that zoning district requiring approval by Ordinance of the Mayor and City Council;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>no letter (that is, a blank space) or the absence of the use from the table indicates that the use is not allowed within that zoning district; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>each Table of Uses organizes its lists of uses under the following "Use Categories":  "Residential", "Institutional", "Open-Space",  "Commercial", "Industrial", and "Other".</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Signage symbology</heading>
+          <text>In Signage Tables</text>
+          <para>
+            <num>(1)</num>
+            <text>an "A" indicates that a sign type is allowed in that Zoning District;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>an "ASSC Only" indicates that a sign type is only allowed in an approved Area of Special Signage Control; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a "CB" indicates that a sign type requires conditional approval by the Board of Municipal and Zoning Appeals.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§1-307|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-307|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>Government facility.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Government facility" means a structure or land that is operated by a government agency.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Inclusions.</heading>
+          <text>"Government facility" includes agency offices, storage yards, public works facilities, recreation: indoor, and utility facilities that are operated by a government agency.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§1-313" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-313">
+      <section>
+        <prefix>§</prefix>
+        <num>1-313</num>
+        <heading>"Roofline" to "Substantial construction".</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Roofline.</heading>
+          <text>"Roofline" means the top edge of a roof or building parapet, whichever is higher, excluding any cupolas, pylons, chimneys, or minor projections.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Rooming house.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>"Rooming unit" defined.</heading>
+            <text>In this section, "rooming unit" means any room or group of rooms that forms a single habitable unit occupied or designed or intended to be occupied for sleeping or living purposes, but not for cooking purposes.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>In general.</heading>
+            <text>"Rooming house" means a building that:</text>
+            <para>
+              <num>(i)</num>
+              <text>is not a dwelling;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>contains 3 or more rooming units occupied or designed or intended to be occupied as a primary residence by individuals who, even though they do share common areas and facilities, do not form a single housekeeping unit and do not provide compensation under a single lease for occupancy of the facility; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>provides shared facilities such as a kitchen and bath.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Rowhouse.</heading>
+          <text><em>See </em>"Dwelling: Rowhouse".</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Satellite dish antenna.</heading>
+          <text>"Satellite dish antenna" means a dish antenna for transmitting signals to a receiver or receiving station or for receiving television, radio, data, communication, or other signals from satellites or from other antennas or services.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Seasonal or holiday sales lot.</heading>
+          <text>"Seasonal or holiday sales lot" means a temporary retail sales operation, generally conducted outdoors, that offers for sale seasonal or holiday related items, such as Christmas trees and pumpkins.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Semi-detached dwelling.</heading>
+          <text><em>See </em>"Dwelling: Semi-detached".</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Shared-use path.</heading>
+          <text>"Shared-use path" means a dedicated way that:</text>
+          <para>
+            <num>(i)</num>
+            <text>has a paved or hard surface;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>is designed for individual travel or recreational use;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>accommodates walking, running, biking, use of a mobility device, scooter, or other recreational vehicle; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>is not for vehicular traffic</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Shielded lighting.</heading>
+          <text><em>See</em> "Lighting: Shielded".</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Shipyard.</heading>
+          <text>"Shipyard" means any facility or area that is designed or used for the manufacture, assembly, or repair of ships, barges, or boats.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Side lot line.</heading>
+          <text><em>See</em> "Lot line: Side".</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Sign.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Sign" means any writing (including letter, word, or numeral), pictorial representation (including illustration or graphic), emblem (including logo, symbol, or trademark), device, or any other figure of similar character that:</text>
+            <para>
+              <num>(i)</num>
+              <text>is attached to, painted on, projected on, or in any other way represented on a structure, in or on a window (including anything affixed to the interior and displayed within 12 inches of a window), or on the ground;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is used to announce, direct attention, or advertise; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>is visible from outside a structure.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Types of signs.</heading>
+            <text>Specific types of signs are as described in § 17-102 {"Signs: Definitions"} of this Code.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Significant development.</heading>
+          <text>"Significant development", as it applies to the Chesapeake Bay Critical Area, has the meaning stated in § 7-402 {"CBCA Overlay: Definitions"} of this Code.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Social club.</heading>
+          <text><em>See </em>"Lodge or social club"<strong>.</strong></text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Solid waste sanitary landfill.</heading>
+          <text><em>See </em>"Landfill: Solid waste sanitary".</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Special exception.</heading>
+          <text><em>See </em>"Use: Conditional".</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Stadium.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Stadium" means a structure with tiers of seats rising around a field or court, intended to be used:</text>
+            <para>
+              <num>(i)</num>
+              <text>primarily for the viewing of athletic events; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>secondarily, for entertainment and other public gathering purposes, such as conventions, circuses, or concerts.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Stadium" includes the following accessory uses designed and intended primarily for patrons of the facility:</text>
+            <para>
+              <num>(i)</num>
+              <text>a gift or souvenir shop; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a restaurant or refreshment stands.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>Stacking space.</heading>
+          <text>"Stacking space" means a space specifically designated as a waiting area for vehicles patronizing a drive-through establishment.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <heading>Stormwater.</heading>
+          <text>"Stormwater" means the water running off the surface of a drainage area during and immediately following rain or as a result of other precipitation.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <heading>Story.</heading>
+          <text>"Story" means that portion of a building, other than a basement, that is:</text>
+          <para>
+            <num>(1)</num>
+            <text>included between the surface of any floor and the surface of the floor next above it; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>if there is no floor above it, then the space between the floor and the ceiling next above it.</text>
+          </para>
+        </para>
+        <para>
+          <num>(t)</num>
+          <heading>Structural alteration.</heading>
+          <text>"Structural alteration" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>a change in the permanent physical members of a structure, such as bearing walls, columns, beams, or girders; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any substantial change in the roof or in the exterior walls.</text>
+          </para>
+        </para>
+        <para>
+          <num>(u)</num>
+          <heading>Structure.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Structure" means all or any part of anything erected that:</text>
+            <para>
+              <num>(i)</num>
+              <text>has a fixed location on the ground; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is attached to something having a fixed location on the ground.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Structure" includes any building, fence, wall, sign, or tower.</text>
+          </para>
+        </para>
+        <para>
+          <num>(v)</num>
+          <heading>Structure: Accessory.</heading>
+          <text><em>See </em>"Accessory structure".</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <heading>Substantial construction.</heading>
+          <text>"Substantial construction" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>for new construction, that construction materials have been placed in permanent positions or fastened in a permanent manner; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>in preparation for rebuilding, that excavation, demolition, or removal of an existing structure has been substantially begun and is carried on diligently.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§3-203|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§3-203|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Powers and duties.</heading>
+        <text>In addition to the powers and duties specified in <cite doc="City of Baltimore, Md., Charter" path="VII|§72">City Charter Article VII, § 72</cite>, the Planning Commission has the following powers and duties under this Code:</text>
+        <para>
+          <num>(1)</num>
+          <text>to make recommendations on amendments to the zoning text and maps (Title 5, Subtitle 5);</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to make recommendations on planned unit developments (Title 13);</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to develop and revise from time to time a Design Manual (Title 4, Subtitle 4);</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>to develop and revise from time to time a Landscape Manual (Title 4, Subtitle 5);</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>unless specifically provided for otherwise, to hear appeals from the decisions of the Director of Planning on:</text>
+          <para>
+            <num>(i)</num>
+            <text>site plan review (Title 4, Subtitle 2);</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>environmentally sensitive areas review (Title 4, Subtitle 3);</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>design review (Title 4, Subtitle 4); and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>landscape review (Title 4, Subtitle 5; Landscape Manual); and</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>with the approval of the Board of Estimates, to set fees for filing and hearing appeals and for the various other functions required or authorized by this Code;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>to conduct from time to time a comprehensive rezoning process in conformance with the Comprehensive Master Plan for the City of Baltimore, which includes the Land Use Map;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>to review and propose updates to the Land Use Map, no less than quadrennially; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>to perform all other functions assigned to the Commission by this Code.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§4-405" codified:doc="City of Baltimore, Md., Code" codified:path="32|§4-405">
+      <section>
+        <prefix>§</prefix>
+        <num>4-405</num>
+        <heading>Applicability.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Except as provided in subsection (b) of this section, design review is required for the following types of development:</text>
+          <para>
+            <num>(1)</num>
+            <text>new construction of dwellings;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>upper floor additions and roof decks on existing rowhouses;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>additions on street-front facades, to include deck, porch, and balcony additions;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>when exterior modifications are proposed for residential conversions in the R-7, R-8, R-9, and R-10 Districts;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>the establishment of a non-residential use within the R-MU Overlay District;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>all new construction and additions in the C-5 District;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>all substantial modifications of the facade of a structure in the C-5 District;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>planned unit development;</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>any sign that is conditional on Board of Municipal and Zoning Appeals approval, but without regard to its copy or message;</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>any painted/mural sign, but without regard to its copy or message;</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>any sign over 100 square feet in area;</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>any electronic sign, freestanding sign, or roof sign, but without regard to its copy or message;</text>
+          </para>
+          <para>
+            <num>(13)</num>
+            <text>any freestanding sign in the C-5 or PC District, and any banner sign,   projecting sign, or wall sign above the ground floor in the C-5 or PC District, but without regard to its copy or message;</text>
+          </para>
+          <para>
+            <num>(14)</num>
+            <text>any Signage Plan and any sign, but without regard to its copy or message, within an Area of Special Sign Control; and</text>
+          </para>
+          <para>
+            <num>(15)</num>
+            <text>multiple principal structures on a residential lot per § 15-203;</text>
+          </para>
+          <para>
+            <num>(16)</num>
+            <text>any new construction that involves:</text>
+            <para>
+              <num>(i)</num>
+              <text>a proposed development over 15,000 square feet;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a multi-tenant commercial development, including mixed-use development;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>alteration to a street-front facade in a C-1 District; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>construction in a TOD District or in the W Overlay District; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(17)</num>
+            <text>new construction or substantive modifications that include a shared-use path.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Exception.</heading>
+          <text>Design review is not required for development projects that are subject to review by the Commission for Historical and Architectural Preservation.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§5-201|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-201|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Introduction by application.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Notwithstanding subsection (a) of this section, a person must file an application under this subsection to request:</text>
+          <para>
+            <num>(i)</num>
+            <text>a minor variance;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a major variance that, at the time of filing, is not the subject of legislation before the City Council;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a conditional use that, at the time of filing, is not the subject of legislation before the City Council;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>a use permit;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>a zoning appeal; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>a zoning consultation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An application for a variance, conditional use, use permit, or zoning appeal must be filed in writing by:</text>
+          <para>
+            <num>(i)</num>
+            <text>the owner of property to which the application applies; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a person expressly authorized by the owner.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>An application for a zoning interpretation must be filed by:</text>
+          <para>
+            <num>(i)</num>
+            <text>an owner of any property in the City;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a person expressly authorized by a property owner in writing; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any City Councilmember or other official of City government.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§5-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-301">
+      <section>
+        <prefix>§</prefix>
+        <num>5-301</num>
+        <heading>Purpose.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The purpose of the variance procedure is to afford a property owner relief from certain regulations of this Code when practical difficulty exists.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Application.</heading>
+          <text>The Zoning Administrator, the Board of Municipal and Zoning Appeals, or the City Council may grant variances from the provisions of this Code pursuant to the standards set forth in this subtitle.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Exceptions to variance procedure provisions: Signs.</heading>
+          <text>The variance procedure provisions in this title do not apply to applications requesting an exemption from:</text>
+          <para>
+            <num>(1)</num>
+            <text>the maximum quantity of signs;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the location requirements of signs; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the types of signs allowed within a zoning district.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Use may not change by variance.</heading>
+          <text>The variance procedure provisions may not be used to authorize a use not otherwise permitted in the zoning district.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Authority not exclusive.</heading>
+          <text>The authority granted in this Subtitle 3 to the Zoning Administrator or the Board of Municipal and Zoning Appeals to grant a variance from provisions of this Code is not intended to limit any other authority that may exist elsewhere within this Code to provide relief or modification from the Code's requirements.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§5-302|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-302|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Minor variances.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Minor variances comprise the following specified variances:</text>
+          <para>
+            <num>(i)</num>
+            <text>a reduction in lot width by no more than 10% of the applicable minimum lot width requirements;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a reduction in required yards and setbacks by no more than 10% or 2 feet, whichever is less;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>a reduction in the number of off-street parking spaces by no more than 10% of the applicable minimum requirements;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>a reduction in the required alley width for access to off-street parking; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>a variance to bulk or yard regulations if:</text>
+            <para>
+              <num>(A)</num>
+              <text>the parcel of land is improved with a nonconforming structure that has been in existence for at least 50 years;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the variance would not permit more than a 10% cumulative increase in the bulk and density of a structure that has been in existence for 50 or more years; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>in the opinion of the Zoning Administrator, the application complies with all applicable approval criteria for variances.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Zoning Administrator or the Board of Municipal and Zoning Appeals may grant minor variances from the regulations of this Code.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§5-308" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-308">
+      <section>
+        <prefix>§</prefix>
+        <num>5-308</num>
+        <heading>Approval standards.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Required finding of practical difficulty.</heading>
+          <text>To grant a variance, the Zoning Administrator, the Board of Municipal and Zoning Appeals, or the City Council, as the case may be, shall find that:</text>
+          <para>
+            <num>(1)</num>
+            <text>because of the conditions peculiar to the property, including particular physical surroundings, shape, or topographical conditions of the specific structure or land involved, a practical difficulty, as distinguished from a mere inconvenience, would result if the strict letter of the applicable requirement were carried out; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>because of exceptional circumstances related to the specific structure or land involved, a practical difficulty, as distinguished from a mere inconvenience, would result if the strict letter of the applicable requirement were carried out.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Other required findings.</heading>
+          <text>The Zoning Administrator, the Board of Municipal and Zoning Appeals, or the City Council, as the case may be, must also find that:</text>
+          <para>
+            <num>(1)</num>
+            <text>the practical difficulty is caused by this Code and has not been created by the intentional action or inaction of any person who has a present interest in the property;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the purpose of the variance is not based exclusively on a desire to increase the value or income potential of the property;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the variance will not:</text>
+            <para>
+              <num>(i)</num>
+              <text>be injurious to the use and enjoyment of other property in the immediate vicinity; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>substantially diminish and impair property values in the neighborhood;</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the variance is in harmony with the purpose and intent of this Code;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>the variance is not precluded by and will not adversely affect:</text>
+            <para>
+              <num>(i)</num>
+              <text>any Urban Renewal Plan;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the City's Comprehensive Master Plan; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>any Historical and Architectural Preservation District; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>the variance will not otherwise:</text>
+            <para>
+              <num>(i)</num>
+              <text>be detrimental to or endanger the public health, safety, or welfare; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>be in any way contrary to the public interest.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§5-309" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-309">
+      <section>
+        <prefix>§</prefix>
+        <num>5-309</num>
+        <heading>Time limit for utilization of variance; Extensions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Exercise of approval required.</heading>
+          <text>A variance lapses and becomes void 2 years from the date of its final order granting unless substantial construction has occurred within that same 2-year period.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Extension by BMZA.</heading>
+          <text>The Board of Municipal and Zoning Appeals may grant an extension of this period, for both minor and major variances, on written application and for good cause shown, without notice or hearing.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§5-310" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-310">
+      <section>
+        <prefix>§</prefix>
+        <num>5-310</num>
+        <heading>Code compliance denial.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Neither the Zoning Administrator nor the Executive Director of the Board of Municipal and Zoning Appeals may approve any application for a variance or a conditional use if the subject property has any outstanding notices of violation, fines, or fees that are either unresolved or unpaid.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Exception.</heading>
+          <text>The Zoning Administrator or the Executive Director of the Board of Municipal and Zoning Appeals may approve:</text>
+          <para>
+            <num>(1)</num>
+            <text>the application for variance or conditional use if that application is required to resolve an outstanding notice of violation, fine, or fee that is either unresolved or unpaid; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the application for a variance or conditional use if an outstanding violation or fine is the subject of a still pending administrative appeal or judicial review.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§5-406|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-406|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>Evaluation criteria.</heading>
+        <text>As a guide to its decision on the facts of each case, the Board of Municipal and Zoning Appeals or the City Council must consider the following, where appropriate:</text>
+        <para>
+          <num>(1)</num>
+          <text>the nature of the proposed site, including its size and shape and the proposed size, shape, and arrangement of structures;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the resulting traffic patterns and adequacy of proposed off-street parking and loading;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the nature of the surrounding area and the extent to which the proposed use might impair its present and future development;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the proximity of dwellings, churches, schools, public structures, and other places of public gathering;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>accessibility of the premises for emergency vehicles;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>accessibility of light and air to the premises and to the property in the vicinity;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>the type and location of adequate utilities, access roads, drainage, and other necessary facilities that have been or will be provided;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>the preservation of cultural and historic landmarks and structures;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>the character of the neighborhood;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>the provisions of the City's Comprehensive Master Plan;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>the provisions of any applicable Urban Renewal Plan;</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>all applicable standards and requirements of this Code;</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>the intent and purpose of this Code; and</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>any other matters considered to be in the interest of the general welfare.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§5-407" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-407">
+      <section>
+        <prefix>§</prefix>
+        <num>5-407</num>
+        <heading>Time limit for utilization of conditional use; Extensions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Exercise of approval required.</heading>
+          <text>A conditional use and a conditional sign approval lapses and becomes void in 2 years from the date of its final order granting same unless, within that period:</text>
+          <para>
+            <num>(1)</num>
+            <text>a use permit under this Code and an occupancy permit under the Baltimore City <cite path="|building-codes|II" doc="City of Balt., Md., Ord. 25-015">Building Code</cite> have been obtained for that use;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the erection or alteration of a structure for that use has lawfully begun;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the use has lawfully begun; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>a building permit under this Code and any other applicable Codes has been obtained for the use or the sign, as the case may be.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Extension by BMZA.</heading>
+          <text>The Board of Municipal and Zoning Appeals may grant an extension of this period on written application and for good cause shown, without notice or hearing.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§5-503" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-503">
+      <section>
+        <prefix>§</prefix>
+        <num>5-503</num>
+        <heading>Introductory statement of intent.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Statement required.</heading>
+          <text>On introduction of a bill proposing a legislative authorization under <cite doc="City of Baltimore, Md., Code" path="32|§5-501|(2)">§ 5-501(2)</cite> {"'Legislative authorization' defined"} of this subtitle, the applicant shall submit a written statement in the form provided by the Department of Legislative Reference that informs the City Council, the agencies to which the proposed bill is referred, and the public of the changes sought and intended uses.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Contents.</heading>
+          <text>The statement shall contain, at a minimum:</text>
+          <para>
+            <num>(1)</num>
+            <text>a description of all proposed changes to the subject property;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>property information, including the name of the owner and deed reference as recorded among the Land Records of Baltimore City;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a description of any contract that is contingent on the proposed legislative authorization, including the names and contact information of all parties;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the names and contact information of all individuals for whom the application benefits, including the names and contact information of individuals holding a majority stake in a corporate entity;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>an affidavit executed by the applicant stating the following:</text>
+            <text>"I, [applicant name], solemnly affirm under the penalties of perjury that the information given in this Statement of Intent is true and complete to the best of my knowledge, information, and belief."; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>any other information required to verify compliance with the standards for conditional uses, variances, and other provisions of this Code.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§5-601|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-601|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Notice of hearing required.</heading>
+        <text>Notice of the hearing must be given by each of the following methods, as applicable:</text>
+        <para>
+          <num>(1)</num>
+          <text>by publication in a newspaper of general circulation in the City;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>for the creation or modification of a planned unit development and for a zoning map amendment, other than a comprehensive rezoning:</text>
+          <para>
+            <num>(i)</num>
+            <text>by posting in a conspicuous place on the subject property; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>by first-class mailing of a written notice, on forms provided by the Zoning Administrator, to each person who appears on the tax records of the City as an owner of the property to be rezoned and each person that appears on the tax records of the City as an owner of property that is within the planned unit development to be amended; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>for a comprehensive rezoning:</text>
+          <para>
+            <num>(i)</num>
+            <text>by posting in conspicuous places within and around the perimeter of the subject area or district, as the Department of Planning designates; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>by first-class mailing of a written notice, on forms provided by the Zoning Administrator, to each person who appears on the tax records of the City as an owner of property within the subject area or district.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§5-603|(d)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-603|(d)">
+      <para>
+        <num>(d)</num>
+        <heading>Timing of notice.</heading>
+        <text>The posted notice must be:</text>
+        <para>
+          <num>(1)</num>
+          <text>posted at least 21 days before the Zoning Administrator makes a decision on the application; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>removed within 48 hours after a written decision is issued.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§5-604|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-604|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Notice of hearing.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general</heading>
+          <text>In addition to any other form of notice required by law or regulation, notice of the hearing must be given by posting in conspicuous places within and around the perimeter of the subject property or area.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <heading>Exceptions</heading>
+          <text>Where a property is added to a proposal by amendment, the requirements of paragraph (1) of this subsection (b) do not apply if:</text>
+          <para>
+            <num>(i)</num>
+            <text>a notice was previously mailed to the owner of record of the property about the proposed inclusion; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the property owner of record has agreed to the proposed inclusion by amendment either in person at a public meeting or in writing.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§5-901" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-901">
+      <section>
+        <prefix>§</prefix>
+        <num>5-901</num>
+        <heading>Purpose.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general</heading>
+          <text>A zoning verification is a document issued by the Zoning Administrator, at an applicant's request and for the applicant's own use, that:</text>
+          <para>
+            <num>(1)</num>
+            <text>states whether a property complies with the use regulations of the district in which it is located;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>states whether a property complies with the bulk and yard regulations of the district in which it is located; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>states whether a requested variance qualifies as a minor variance or as a major variance in the district in which the property is located.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Not required by Code</heading>
+          <text>A zoning verification is not required by this Code.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§9-703" codified:doc="City of Baltimore, Md., Code" codified:path="32|§9-703">
+      <section>
+        <prefix>§</prefix>
+        <num>9-703</num>
+        <heading>Conversion standards.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>All conversions must meet the standards set forth in this section.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Bulk and yard regulations.</heading>
+          <text>The dwelling must continue to conform to the applicable bulk and yard regulations, including lot area per dwelling unit, for the district in which the building is located.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Occupancy regulations.</heading>
+          <text>No residential conversion may violate any dwelling unit occupancy regulations or restrictions of the City Code.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Residential character.</heading>
+          <text>Following the conversion, the exterior of the dwelling must retain its existing residential character.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§12-303|(i)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-303|(i)">
+      <para>
+        <num>(i)</num>
+        <heading>Residential conversions.</heading>
+        <text>The conversion of a single-family dwelling to a multi-family dwelling is allowed in an OR Zoning District, subject to the requirements of § 9-702 {"Residential Conversions: Design review"} of this Code.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§12-405|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-405|(e)">
+      <para>
+        <num>(e)</num>
+        <heading>Ingress and egress.</heading>
+        <text>Ingress to and egress from parking must be from side streets or alleys.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§14-328|(j)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-328|(j)">
+      <para>
+        <num>(j)</num>
+        <heading>Outdoor dining.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>Where the right-of-way is 10 feet or greater, outdoor dining may:</text>
+          <para>
+            <num>(i)</num>
+            <text>be on the street side of the property;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>be on the interior of the property; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>be in the rear yard of the property.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Deck dining - prohibition.</heading>
+          <text>No deck used for outdoor dining shall be constructed in the 10 foot right-of-way described under this section.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§14-329|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-329|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>Nature of use.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Outdoor dining</heading>
+          <para>
+            <num>(i)</num>
+            <text>Outdoor dining is considered an accessory use to a principal use and may be located on either the property for which the permit is approved or extend into the public rights of way immediately adjoining the building frontage or street corner side of the property.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Outdoor dining on the property for which the permit is approved in a C-1, C-1-E, C-1-VC, or C-2 zoning district requires approval as a conditional use by the Board of Municipal and Zoning Appeals:</text>
+            <para>
+              <num>(A)</num>
+              <text>where it adjoins a residential zoning district on the side in which the outdoor dining is proposed; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>where it is separated from the residential district by an alley or street of less than 20 feet in width on the side in which the outdoor dining is proposed, or if no alley or street is present.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Rooftop dining.</heading>
+          <para>
+            <num>(i)</num>
+            <text>Rooftop dining is allowed in all non-residential zoning districts.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Rooftop dining is a permitted use in all non residential zoning districts, except in the C-1, C-1-E, C-1-VC, or C-2 zoning districts.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Rooftop dining in a C-1, C-1-E, C-1-VC, or C-2 zoning district requires approval as a conditional use by the Board of Municipal and Zoning Appeals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Paragraphs (1) and (2) of this subsection are subject to the requirements set forth in this section, as applicable.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:insert path="32|15|2" after="§15-202" codified:doc="City of Baltimore, Md., Code" codified:path="32|§15-203">
+      <section>
+        <prefix>§</prefix>
+        <num>15-203</num>
+        <heading>Number of structures on a lot.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Except in a planned unit development or as authorized in subsection (b) of this section:</text>
+          <para>
+            <num>(1)</num>
+            <text>no more than 1 principal detached structure may be located on:</text>
+            <para>
+              <num>(i)</num>
+              <text>any residential lot; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any lot adjacent to a residential lot; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>no principal detached structure or any other free-standing structure may be located with any other principal structure on the same:</text>
+            <para>
+              <num>(i)</num>
+              <text>residential lot, except as specified in <cite doc="City of Baltimore, Md., Code" path="32|§1-210">§ 1-210</cite> {"Use and site development standards"} or <cite doc="City of Baltimore, Md., Code" path="32-§15-601">§ 15-601</cite> {"Permitted projections and obstructions into required yards"}; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any lot adjacent to a residential lot.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Exceptions.</heading>
+          <text>Notwithstanding subsection (a) of this section, the Zoning Administrator shall approve the construction of more than 1 principal detached structure or other free-standing structure on a residential lot or any lot adjacent to a residential lot, if:</text>
+          <para>
+            <num>(1)</num>
+            <text>the development otherwise would conform to the requirements of this Article; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the requirements of site plan review and design review are met.</text>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:replace path="32|§16-207" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-207">
+      <section>
+        <prefix>§</prefix>
+        <num>16-207</num>
+        <heading>Computation of off-street parking requirements.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The total number of required parking, loading, and bicycle spaces is based on the requirements for the use of the lot.  However, if a lot contains more than 1 use, the number of required spaces is the sum of the separate requirements for each use.  All off-street parking facilities must be completed before occupancy of the structure.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Computation standards.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>In computing the number of off-street parking, loading, or bicycle spaces required by this title, the following standards of computation apply.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Fractions - How to compute.</heading>
+            <text>A fraction of less than one-half may be disregarded, and a fraction of one-half or more is counted as 1 parking or loading space.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Places of assembly.</heading>
+            <text>In places of assembly in which patrons or spectators occupy benches, pews or similar seating facilities, each 24 inches of the seating facility is counted as 1 seat for the purpose of determining the requirement for off-street parking facilities.  Floor area of a prayer hall is counted as one 1 seat per marked prayer mat space or, if prayer mat spaces are not marked, 1 seat for every 5 square feet in the prayer hall.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Employee basis.</heading>
+            <text>Except as otherwise specified, parking or loading spaces required on an employee basis is based on the maximum number of employees normally present on the premises at any one time.  If the determination of the number of parking spaces is based on the number of employees, the owner and the manager are counted as employee.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Self-zoned property.</heading>
+            <text>The number of required off-street parking, loading, or bicycle spaces required by this Title shall be calculated for a property that is split between 2 zoning districts on a ratio basis where the percent of the property within a zoning district that requires parking is multiplied against the applicable parking requirement to yield a proportional number of required parking spaces.</text>
+            <text>Example: If a property is 40% C-1 and 60% R-8, then 60% of the total parking required by land use shall be provided.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-601|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Exemptions within certain districts.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Residential uses.</heading>
+          <text>All residential uses in any zoning district with up to and including 3 dwelling units are exempt from off-street parking requirements.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Commercial districts.</heading>
+          <text>The commercial districts included in this paragraph are exempt from off-street parking requirements:</text>
+          <para>
+            <num>(i)</num>
+            <text>C-1;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>C-1-E;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>C-1-VC;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>C-5;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>C-5-IH;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>C-5-DE;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>C-5-HT;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>C-5-TO;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>C-5-HS; and</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>C-5-G.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Overlay districts</heading>
+          <text>The overlay districts included in this paragraph are exempt from off-street parking requirements:</text>
+          <para>
+            <num>(i)</num>
+            <text>Harford Road Overlay District;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>R-MU Overlay District (non-residential uses); and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>D-MU Overlay District (non-residential uses).</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>PC Subdistricts.</heading>
+          <text>In the PC Subdistricts, the following uses are exempt from the off-street parking requirements of Table 16-406: Required Off-Street Parking:</text>
+          <para>
+            <num>(i)</num>
+            <text>open-space uses (except for recreational marinas); and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>commercial uses with a gross floor area of less than 25,000 square feet, even if there are other commercial uses located on the same lot.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§18-206|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-206|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>By Administrator.</heading>
+        <text>The Zoning Administrator may issue a use permit, without referring the matter to the Board of Municipal and Zoning Appeals, if:</text>
+        <para>
+          <num>(1)</num>
+          <text>permits, ordinances, the Police Survey of 1931, or other records on file with the Zoning Administrator:</text>
+          <para>
+            <num>(i)</num>
+            <text>document the existence of a continuing and uninterrupted lawful nonconforming use; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>document the existence of a lawful nonconforming density, or other nonconformance; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a field inspection of the construction, design, and arrangement of the structure or use in question confirms these records.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§18-403" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-403">
+      <section>
+        <prefix>§</prefix>
+        <num>18-403</num>
+        <heading>Expansion of structure.</heading>
+        <text>A nonconforming structure may be expanded under:</text>
+        <para>
+          <num>(1)</num>
+          <text>Title 5, Subtitle 3 {"Variances"} of this Code; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>§ 18-411 {"Exceptions - Administrative bulk adjustments"} of this Code.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§18-412" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-412">
+      <section>
+        <prefix>§</prefix>
+        <num>18-412</num>
+        <heading>Exceptions – Multi-family structures.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Scope.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Except as provided in paragraph (2) of this subsection, this section applies to any structure that:</text>
+            <para>
+              <num>(i)</num>
+              <text>at any time, with or without authorization of the Board of Municipal and Zoning Appeals, has been converted for 4 or more dwelling units or, if originally built for 4 or more dwelling units, has been converted to increase the number of dwelling units; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>now fails to comply with the minimum lot area requirements of the district in which it is located.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>This section does not apply to any nonconforming structure that:</text>
+            <para>
+              <num>(i)</num>
+              <text>in compliance with this Code or before June 5, 2017, was originally designed and built as a multi-family dwelling for 4 or more dwelling units, as evidenced by permits or records of the City; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>has not been altered, added to, or subdivided in any way that increases the number of dwelling units to more than the maximum now allowed under this Code.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Abandonment of dwelling unit.</heading>
+          <text>If, at any time, actual abandonment is evidenced by the issuance of a use permit for fewer dwelling units:</text>
+          <para>
+            <num>(1)</num>
+            <text>that action constitutes an abandonment of the dwelling unit;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>all rights to continue or reestablish the previous number of dwelling units immediately terminate; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the number of dwelling units allowed to continue in the structure is reduced by 1.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Exceptions.</heading>
+          <text>This section does not apply to § 18-306(c) {"Change of use . . . Reversion prohibited."} of this Code.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|zoning-tables|10-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-301">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>10-301</num>
+        <heading>Commercial Districts – Permitted and Conditional Uses</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Uses</th>
+                <th colspan="7">Districts</th>
+                <th>Use Standards</th>
+              </tr>
+              <tr>
+                <th/>
+                <th>C-1</th>
+                <th>C-1-VC</th>
+                <th>C-1-E</th>
+                <th>C-2</th>
+                <th>C-3</th>
+                <th>C-4</th>
+                <th>C-5</th>
+                <th/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th colspan="9">Residential</th>
+              </tr>
+              <tr>
+                <td>Day-Care Home: Adult or Child</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>Per § 14-310</td>
+              </tr>
+              <tr>
+                <td>Dwelling (Above Non-Residential Ground Floor)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Live-Work</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dormitory</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Fraternity or Sorority House</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>Per § 14-313</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (16 or Fewer Residents)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>Per § 14-334</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (17 or More Residents)</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CB</td>
+                <td/>
+                <td>CB</td>
+                <td>Per § 14-334</td>
+              </tr>
+              <tr>
+                <td>Rooming House</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Institutional</th>
+              </tr>
+              <tr>
+                <td>Community Center</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Cultural Facility</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>Per § 14-308</td>
+              </tr>
+              <tr>
+                <td>Educational Facility: Commercial-Vocational</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Educational Facility: Post-Secondary</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Educational Facility: Primary and Secondary</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Government Facility</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Homeless Shelter</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Hospital</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Place of Worship</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-332</td>
+              </tr>
+              <tr>
+                <th colspan="9">Open-Space</th>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Farm</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Garden</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Park or Playground</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Marina: Dry Storage</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-323</td>
+              </tr>
+              <tr>
+                <td>Marina: Recreational</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-323</td>
+              </tr>
+              <tr>
+                <td>Urban Agriculture</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <th colspan="9">Commercial</th>
+              </tr>
+              <tr>
+                <td>After-Hours Establishments</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-301.1</td>
+              </tr>
+              <tr>
+                <td>Animal Clinic</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Art Gallery</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio: Industrial</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Bail Bond Establishment</td>
+                <td/>
+                <td/>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Banquet Hall</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CO</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>Per § 14-302</td>
+              </tr>
+              <tr>
+                <td>Body Art Establishment</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Broadcasting Station (TV or Radio)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Car Wash (Fully Enclosed Structure)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>Per § 14-304</td>
+              </tr>
+              <tr>
+                <td>Car Wash (Outdoor)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-304</td>
+              </tr>
+              <tr>
+                <td>Carry-Out Food Shop</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Check-Cashing Establishment</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Convention Center</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Day-Care Center: Adult or Child</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-309</td>
+              </tr>
+              <tr>
+                <td>Drive-Through Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>Per § 14-311</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Indoor</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>CO</td>
+                <td>P</td>
+                <td>Per § 14-319</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live (Accessory to Restaurant, Tavern, Art Studio, or Art Gallery)</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-319</td>
+              </tr>
+              <tr>
+                <td>Farmers Market</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312.1</td>
+              </tr>
+              <tr>
+                <td>Financial Institution</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Fuel Station</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-314</td>
+              </tr>
+              <tr>
+                <td>Funeral Home</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Greenhouse or Nursery</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <td>Health-Care Clinic</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Health and Fitness Center</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Heavy Sales, Rental, or Service</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Hotel or Motel</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Kennel</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Lodge or Social Club</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-320</td>
+              </tr>
+              <tr>
+                <td>Lounge</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-321</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Dealership (Fully Enclosed Structure)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-325</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Dealership (Outdoor Vehicle Display)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-325</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Rental Establishment (Fully Enclosed Structure)</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-325</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Rental Establishment (Outdoor Vehicle Display)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-325</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Service and Repair: Major</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-326</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Service and Repair: Minor (Fully Enclosed Structure)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-326</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Service and Repair: Minor (Outdoor Vehicle Storage)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-326</td>
+              </tr>
+              <tr>
+                <td>Nursery (<em>See</em> "Greenhouse or Nursery")</td>
+                <td>–</td>
+                <td>–</td>
+                <td>–</td>
+                <td>–</td>
+                <td>–</td>
+                <td>–</td>
+                <td>–</td>
+                <td>–</td>
+              </tr>
+              <tr>
+                <td>Office</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Outdoor Dining</td>
+                <td>P, CB<sup><strong>5</strong></sup></td>
+                <td>P, CB<sup><strong>5</strong></sup></td>
+                <td>P, CB<sup><strong>5</strong></sup></td>
+                <td>P, CB<sup><strong>5</strong></sup></td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-329</td>
+              </tr>
+              <tr>
+                <td>Pawn Shop</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Personal Services Establishment</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Racetrack</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Recreation: Indoor</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Recreation: Outdoor</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Recreational Vehicle Dealership</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail: Big Box Establishment</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-335.1</td>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>CO</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-336</td>
+              </tr>
+              <tr>
+                <td>Stadium</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Tavern</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-337</td>
+              </tr>
+              <tr>
+                <td>Video Lottery Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Industrial</th>
+              </tr>
+              <tr>
+                <td>Food Processing: Light</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Heliport</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Helistop</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Industrial: Light</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Mini-Warehouse</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>CB <sup><strong>1</strong></sup></td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Operations Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Movie Studio</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Printing Establishment</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Recycling Collection Station</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td>Per § 15-514</td>
+              </tr>
+              <tr>
+                <td>Research and Development Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Truck Stop</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Other</th>
+              </tr>
+              <tr>
+                <td>Alternative Energy System: Community-Based</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-306</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Enclosed</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Indoor</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Outdoor</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Parking Garage (Principal Use)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB <sup><strong>2</strong></sup></td>
+                <td>Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Parking Lot (Principal Use)</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CO</td>
+                <td>Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Telecommunications Facility <sup><strong>3</strong></sup></td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+              <tr>
+                <td>Utilities</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Wireless Communications Services <sup><strong>4</strong></sup></td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="9">
+                  <p><sup><strong>1</strong></sup> Allowed only in a structure lawfully existing as of June 5, 2017.</p>
+                  <p><sup><strong>2</strong></sup> However, along Pratt Street in the C-5 District, principal-use parking garages are prohibited.  <em>See</em> § 10-503(c)(1).</p>
+                  <p><sup><strong>3</strong></sup>  Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
+                  <p><sup><strong>4</strong></sup>  Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
+                  <p><sup><strong>5</strong></sup>  Under § 14-329(a)(1) and (a)(2), both outdoor dining and rooftop dining, respectively, require approval as a conditional use by the Board of Municipal and Zoning Appeals if located in a C-1, C-1-E, C-1-VC, or C-2 zoning district .</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+      </attachment>
+    </codify:replace>
+    <codify:replace path="32|zoning-tables|10-401" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-401">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>10-401</num>
+        <heading>Commercial Districts (C-1 to C-4) – Bulk and Yard Regulations</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Categories</th>
+                <th colspan="6">Specifications<br/> (Per District)</th>
+              </tr>
+              <tr>
+                <th/>
+                <th>C-1</th>
+                <th>C-1-VC  <sup>1</sup></th>
+                <th>C-1-E</th>
+                <th>C-2</th>
+                <th>C-3</th>
+                <th>C-4</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th colspan="7">Minimum Lot Area</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Live-Work, Multi-Family, or Rowhouse</td>
+                <td>300 sq.ft/du</td>
+                <td>5,000 sq.ft /du</td>
+                <td>550 sq.ft /du</td>
+                <td>225 sq.ft /du</td>
+                <td>300 sq.ft /du</td>
+                <td>300 sq.ft /du</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (Age-Restricted)</td>
+                <td>200 sq.ft/du</td>
+                <td>200 sq.ft/du</td>
+                <td>200 sq.ft/du</td>
+                <td>120 sq.ft/du</td>
+                <td>120 sq.ft/du</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>Rooming House</td>
+                <td>None</td>
+                <td>2,500 sq.ft/ru</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>N/A</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <th colspan="7">Maximum Lot Area</th>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td>None</td>
+                <td>4,000 sq. ft.</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (Food Store)</td>
+                <td>10,000 sq. ft.</td>
+                <td>15,000 sq. ft.</td>
+                <td>20,000 sq. ft.</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>10,000 sq. ft.</td>
+                <td>2,000 sq. ft.</td>
+                <td>10,000 sq. ft.</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <th colspan="7">Maximum Bldg Height</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>68 feet</td>
+                <td>40 feet</td>
+                <td>60 feet</td>
+                <td>68 or 100 feet <sup><strong>2</strong></sup></td>
+                <td>60 or 100 feet <sup><strong>2</strong></sup></td>
+                <td>60 feet</td>
+              </tr>
+              <tr>
+                <td>Mixed-Use w/ Dwelling Above the Ground Floor</td>
+                <td>68 feet</td>
+                <td>40 feet</td>
+                <td>60 feet</td>
+                <td>68 or 100 feet <sup><strong>2</strong></sup></td>
+                <td>60 or 100 feet <sup><strong>2</strong></sup></td>
+                <td>60 feet</td>
+              </tr>
+              <tr>
+                <td>Residential Care Facility (Elderly)</td>
+                <td>68 feet</td>
+                <td>40 feet</td>
+                <td>60 feet</td>
+                <td>68 or 100 feet <sup><strong>2</strong></sup></td>
+                <td>60 or 100 feet <sup><strong>2</strong></sup></td>
+                <td>60 feet</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>40 feet</td>
+                <td>40 feet</td>
+                <td>40 feet</td>
+                <td>60 feet</td>
+                <td>60 feet</td>
+                <td>60 feet</td>
+              </tr>
+              <tr>
+                <th colspan="7">Minimum Bldg Height</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>20 feet</td>
+                <td>None</td>
+                <td>20 feet</td>
+                <td>20 feet</td>
+                <td>20 feet</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <th colspan="7">Maximum Floor Area Ratio</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>None</td>
+                <td>0.8</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <th colspan="7">Minimum / Maximum Front Yard</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>No front yard required but, if one is provided, it may not exceed 5 feet</td>
+                <td>20 feet</td>
+                <td>No front yard required but, if one is provided, it may not exceed 5 feet</td>
+                <td>No front yard required but, if one is provided, it may not exceed 5 feet</td>
+                <td>None</td>
+                <td>None <sup><strong>3</strong></sup></td>
+              </tr>
+              <tr>
+                <th colspan="7">Minimum Interior-Side Yard</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>No interior-side yard required but, if one is provided, it must be a minimum of 10 feet</td>
+                <td>No interior-side yard required but, if one is provided, it must be a minimum of 10 feet</td>
+                <td>No interior-side yard required but, if one is provided, it must be a minimum of 10 feet</td>
+                <td>No interior-side yard required but, if one is provided, it must be a minimum of 10 feet</td>
+                <td>No interior-side yard required but, if one is provided, it must be a minimum of 10 feet</td>
+                <td>None <sup><strong>4</strong></sup></td>
+              </tr>
+              <tr>
+                <th colspan="7">Minimum Corner-Side Yard</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>
+                  <p>For 1<sup>st</sup> 25 ft. from front lot line: Where structure is to be located, must  build to corner-side lot line.</p>
+                  <p>After 1<sup>st</sup> 25 ft.: No yard requirement.</p>
+                </td>
+                <td>
+                  <p>For 1<sup>st</sup> 25 ft. from front lot line: Where structure is to be located, must  build to corner-side lot line.</p>
+                  <p>After 1<sup>st</sup> 25 ft.:</p>
+                  <p>Minimum corner-side yard of 25 ft.</p>
+                </td>
+                <td>
+                  <p>For 1<sup>st</sup> 25 ft. from front lot line: Where structure is to be located, must  build to corner-side lot line.</p>
+                  <p>After 1<sup>st</sup> 25 ft.: No yard requirement.</p>
+                </td>
+                <td>None</td>
+                <td>None</td>
+                <td>None <sup><strong>5</strong></sup></td>
+              </tr>
+              <tr>
+                <th colspan="7">Minimum Rear Yard</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>If rear yard abuts a street or an alley: None. Otherwise: 20 ft.</td>
+                <td>30 feet</td>
+                <td>If rear yard abuts a street or an alley: None. Otherwise: 20 ft.</td>
+                <td>If rear yard abuts a street or an alley: None. Otherwise: 20 ft.</td>
+                <td>20 feet</td>
+                <td>20 feet</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="7">
+                  <p><sup><strong>1</strong></sup>  In the C-1-VC District, no change to an existing setback or yard may be made unless approved by the Board as a variance.</p>
+                  <p><sup><strong>2</strong></sup>  For a structure that contains dwellings above a non-residential use, a height of up to 100 feet may be allowed by the Board as a conditional use.  Otherwise, the maximum height is 60 feet or 68 feet, depending on the zoning district in which the structure is located.</p>
+                  <p><sup><strong>3</strong></sup>  All outdoor storage areas and parking areas must be set back 10 feet from the front lot line.</p>
+                  <p><sup><strong>4</strong></sup>  However, if the interior-side lot line abuts a Residential Zoning District or an Office-Residential Zoning District, a minimum interior-side yard of 10 feet is required.</p>
+                  <p><sup><strong>5</strong></sup>  All outdoor storage areas must be set back 10 feet from the corner-side lot line and the front lot line.</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+      </attachment>
+    </codify:replace>
+    <codify:replace path="32|zoning-tables|11-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|11-301">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>11-301</num>
+        <heading>Industrial Districts – Permitted and Conditional Uses</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Uses</th>
+                <th colspan="7">Districts</th>
+                <th>Use Standards</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th/>
+                <th>OIC</th>
+                <th>BSC</th>
+                <th>IMU-1</th>
+                <th>IMU-2</th>
+                <th>I-1</th>
+                <th>I-2</th>
+                <th>MI</th>
+                <th/>
+              </tr>
+              <tr>
+                <th colspan="9">Residential</th>
+              </tr>
+              <tr>
+                <td>Dwelling (Above Non-Residential Ground Floor)</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Live-Work</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (16 or Fewer Residents)</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-334</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (17 or More Residents)</td>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-334</td>
+              </tr>
+              <tr>
+                <td>Rooming House</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Institutional</th>
+              </tr>
+              <tr>
+                <td>Cultural Facility</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-308</td>
+              </tr>
+              <tr>
+                <td>Educational Facility: Commercial-Vocational</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Educational Facility: Post-Secondary</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Educational Facility: Primary and Secondary</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Government Facility</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>p</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Homeless Shelter</td>
+                <td/>
+                <td/>
+                <td>CO</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Hospital</td>
+                <td/>
+                <td>P</td>
+                <td>CO</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Open-Space</th>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Farm</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Garden</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Park or Playground</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Urban Agriculture</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <th colspan="9">Commercial</th>
+              </tr>
+              <tr>
+                <td>Animal Clinic</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td>Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Art Gallery</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio: Industrial</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Banquet Hall</td>
+                <td>CB</td>
+                <td/>
+                <td>CO</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-302</td>
+              </tr>
+              <tr>
+                <td>Body Art Establishment</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Broadcasting Station (TV or Radio)</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Car Wash</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-304</td>
+              </tr>
+              <tr>
+                <td>Carry-Out Food Shop</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Day-Care Center: Adult or Child</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P <sup><strong>1</strong></sup></td>
+                <td>P <sup><strong>1</strong></sup></td>
+                <td>P <sup><strong>1</strong></sup></td>
+                <td>P <sup><strong>1</strong></sup></td>
+                <td>Per § 14-309</td>
+              </tr>
+              <tr>
+                <td>Drive-Through Facility</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-311</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Indoor</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-319</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live (Accessory to Restaurant, Tavern, Art Studio, or Art Gallery)</td>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-319</td>
+              </tr>
+              <tr>
+                <td>Farmers Market</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-312.1</td>
+              </tr>
+              <tr>
+                <td>Financial Institution</td>
+                <td>P <sup><strong>2</strong></sup></td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Fuel Station</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>Per § 14-314</td>
+              </tr>
+              <tr>
+                <td>Greenhouse</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <td>Health-Care Clinic</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Health and Fitness Center</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Heavy Sales, Rental, or Service</td>
+                <td/>
+                <td/>
+                <td>CO</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Hotel or Motel</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Kennel</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td>Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Lodge or Social Club</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-320</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Service and Repair: Major</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>Per § 14-326</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Service and Repair: Minor</td>
+                <td/>
+                <td/>
+                <td>CO</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>Per § 14-326</td>
+              </tr>
+              <tr>
+                <td>Nursery</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <td>Office</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB <sup><strong>2, 3</strong></sup></td>
+                <td>CB <sup><strong>2, 3</strong></sup></td>
+                <td>CB <sup><strong>2, 3</strong></sup></td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Outdoor Dining</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-329</td>
+              </tr>
+              <tr>
+                <td>Personal Services Establishment</td>
+                <td>P <sup><strong>2</strong></sup></td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Recreation: Indoor</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Recreation: Outdoor</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td>P <sup><strong>2</strong></sup></td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P <sup><strong>2</strong></sup></td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
+                <td/>
+                <td>P</td>
+                <td>CO</td>
+                <td>P <sup><strong>2</strong></sup></td>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td>Per § 14-336</td>
+              </tr>
+              <tr>
+                <td>Tavern</td>
+                <td/>
+                <td>P</td>
+                <td>CO</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>Per § 14-337</td>
+              </tr>
+              <tr>
+                <td>Truck Repair</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Industrial</th>
+              </tr>
+              <tr>
+                <td>Alternative Energy System: Commercial</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Boat Manufacturing, Repair, and Sales</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>Per § 14-303</td>
+              </tr>
+              <tr>
+                <td>Commercial Composting Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-305</td>
+              </tr>
+              <tr>
+                <td>Contractor Storage Yard</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-330</td>
+              </tr>
+              <tr>
+                <td>Food Processing: Light</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Freight Terminal</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Heliport</td>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Helistop</td>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Industrial Boat Repair Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-323</td>
+              </tr>
+              <tr>
+                <td>Industrial: General</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>CB</td>
+                <td>Per § 14-315</td>
+              </tr>
+              <tr>
+                <td>Industrial: Light</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Industrial: Maritime-Dependent</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Landfill: Industrial</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td>Per § 14-318</td>
+              </tr>
+              <tr>
+                <td>Marina: Dry Storage</td>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-323</td>
+              </tr>
+              <tr>
+                <td>Marine Terminal</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Materials Recovery Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-324</td>
+              </tr>
+              <tr>
+                <td>Mini-Warehouse</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Operations Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Movie Studio</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Outdoor Storage Yard</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-330</td>
+              </tr>
+              <tr>
+                <td>Passenger Terminal</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Recyclable Materials Recovery Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td>Per § 14-333</td>
+              </tr>
+              <tr>
+                <td>Recycling Collection Station</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td>Per § 15-514</td>
+              </tr>
+              <tr>
+                <td>Recycling and Refuse Collection Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Research and Development Facility</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Resource Recovery Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td>Per § 14-335</td>
+              </tr>
+              <tr>
+                <td>Shipyard</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Truck Stop</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Truck Terminal</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Warehouse</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Waterfreight Terminal</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Wholesale Goods Establishment</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Other</th>
+              </tr>
+              <tr>
+                <td>Alternative Energy System: Community-Based</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-306</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Enclosed or Indoor</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Outdoor</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Parking Garage (Principal Use)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CO</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Parking Lot (Principal Use)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CO</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Telecommunications Facility <sup><strong>4</strong></sup></td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+              <tr>
+                <td>Utilities</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Wireless Communications Services <sup><strong>5</strong></sup></td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="9">
+                  <p><sup><strong>1</strong></sup> Allowed only when (i) accessory to an office structure, research and development facility, or industrial use, and (ii) integrated into that structure, facility, or use to serve its employees.</p>
+                  <p><sup><strong>2 </strong></sup> Allowed only when secondary to a primary industrial use.</p>
+                  <p><sup><strong>3 </strong></sup> Office uses legally established as of the effective date of this Code are deemed conforming and are not required to be secondary to a primary industrial use.</p>
+                  <p><sup><strong>4</strong></sup>  Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
+                  <p><sup><strong>5 </strong></sup> Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+      </attachment>
+    </codify:replace>
+    <codify:replace path="32|zoning-tables|12-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-301">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>12-301</num>
+        <heading>Office-Residential Districts – Permitted and Conditional Uses</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Uses</th>
+                <th>Districts</th>
+                <th>Use Standards</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th/>
+                <th>OR</th>
+                <th/>
+              </tr>
+              <tr>
+                <th colspan="3">Residential</th>
+              </tr>
+              <tr>
+                <td>Bed and Breakfast</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Day-Care Home: Adult or Child</td>
+                <td>P</td>
+                <td>Per §14-310</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Semi-Detached</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>P</td>
+                <td>Per § 14-327</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Fraternity or Sorority House</td>
+                <td>CO</td>
+                <td>Per § 14-313</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (16 or Fewer Residents)</td>
+                <td>P</td>
+                <td>Per § 14-334</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (17 or More Residents)</td>
+                <td>CO</td>
+                <td>Per § 14-334</td>
+              </tr>
+              <tr>
+                <td>Rooming House</td>
+                <td>CO</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="3">Institutional</th>
+              </tr>
+              <tr>
+                <td>Cultural Facility</td>
+                <td>P</td>
+                <td>Per 14-308</td>
+              </tr>
+              <tr>
+                <td>Educational Facility: Primary and Secondary</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Government Facility</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Place of Worship</td>
+                <td>P</td>
+                <td>Per § 14-332</td>
+              </tr>
+              <tr>
+                <th colspan="3">Open-Space</th>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Farm</td>
+                <td>CB</td>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Garden</td>
+                <td>P</td>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Park or Playground</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Urban Agriculture</td>
+                <td>CB</td>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <th colspan="3">Commercial</th>
+              </tr>
+              <tr>
+                <td>Art Gallery</td>
+                <td>CB, P<sup><strong>1</strong></sup></td>
+                <td>Per § 14-328</td>
+              </tr>
+              <tr>
+                <td>Art Studio</td>
+                <td>CB, P<sup><strong>1</strong></sup></td>
+                <td>Per § 14-328</td>
+              </tr>
+              <tr>
+                <td>Broadcasting Station (TV or Radio)</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Day Care Centers: Adult or Child</td>
+                <td>CB, P<sup><strong>1</strong></sup></td>
+                <td>Per § 14-309</td>
+              </tr>
+              <tr>
+                <td>Farmers Market</td>
+                <td>CB</td>
+                <td>Per § 14-312.1</td>
+              </tr>
+              <tr>
+                <td>Health-Care Clinic</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Lodge or Social Club</td>
+                <td>CB</td>
+                <td>Per § 14-320</td>
+              </tr>
+              <tr>
+                <td>Office</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Personal Services Establishment</td>
+                <td>CB, P<sup><strong>1</strong></sup></td>
+                <td>Per § 14-328</td>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td>CB, P<sup><strong>1</strong></sup></td>
+                <td>Per § 14-328</td>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
+                <td>CB, P<sup><strong>1</strong></sup></td>
+                <td>Per § 14-328</td>
+              </tr>
+              <tr>
+                <th colspan="3">Other</th>
+              </tr>
+              <tr>
+                <td>Electric Substation: Enclosed, Indoor, or Outdoor</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Parking Garage (Principal Use)</td>
+                <td>CB</td>
+                <td>Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Parking Lot (Principal Use)</td>
+                <td>CB</td>
+                <td>Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Telecommunications Facility <sup><strong> 2</strong></sup></td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+              <tr>
+                <td>Utilities</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Wireless Communications Services  <sup><strong>3</strong></sup></td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="3">
+                  <p><sup><strong>1</strong></sup> Thes are permitted uses only if: (i) the structure has 50 or more dwelling units; and (ii) non-residential uses are limited to 10% of the structure's gross floor area.</p>
+                  <p><sup><strong>2</strong></sup> Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
+                  <p><sup><strong>3 </strong></sup>Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+      </attachment>
+    </codify:replace>
+    <codify:replace path="32|zoning-tables|12-402" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-402">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>12-402</num>
+        <heading>Transit-Oriented Development Districts – Permitted and Conditional Uses</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Uses</th>
+                <th colspan="4">Districts</th>
+                <th>Use Standards</th>
+              </tr>
+              <tr>
+                <th/>
+                <th>TOD-1</th>
+                <th>TOD-2</th>
+                <th>TOD-3</th>
+                <th>TOD-4</th>
+                <th/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th colspan="6">Residential</th>
+              </tr>
+              <tr>
+                <td>Dwelling (Above Non-Residential Ground Floor)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-327</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (16 or Fewer Residents)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-334</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (17 or More Residents)</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-334</td>
+              </tr>
+              <tr>
+                <th colspan="6">Institutional</th>
+              </tr>
+              <tr>
+                <td>Community Center</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Cultural Facility</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>Per § 14-308</td>
+              </tr>
+              <tr>
+                <td>Educational Facility: Commercial-Vocational</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Educational Facility: Post-Secondary</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Educational Facility: Primary and Secondary</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Government Facility</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Homeless Shelter</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Place of Worship</td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>Per § 14-332</td>
+              </tr>
+              <tr>
+                <th colspan="6">Open-Space</th>
+              </tr>
+              <tr>
+                <td>Community ... Open-Space Garden or Farm</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Park or Playground (Passive Recreation Only) <sup><strong>1</strong></sup></td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="6">Commercial</th>
+              </tr>
+              <tr>
+                <td>Animal Clinic</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Art Gallery</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio</td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio: Industrial</td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Banquet Hall</td>
+                <td/>
+                <td>CO</td>
+                <td/>
+                <td>CO</td>
+                <td>Per § 14-302</td>
+              </tr>
+              <tr>
+                <td>Day-Care Center: Adult or Child</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-309</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Indoor</td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live</td>
+                <td/>
+                <td>CB</td>
+                <td/>
+                <td>CB</td>
+                <td>Per § 14-319</td>
+              </tr>
+              <tr>
+                <td>Farmers Market</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312.1</td>
+              </tr>
+              <tr>
+                <td>Financial Institution</td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Health-Care Clinic</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Health and Fitness Center</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Hotel or Motel</td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Kennel</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Lodge or Social Club</td>
+                <td/>
+                <td>CO</td>
+                <td/>
+                <td>CO</td>
+                <td>Per § 14-320</td>
+              </tr>
+              <tr>
+                <td>Office</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Outdoor Dining</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Personal Services Establishment</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-329</td>
+              </tr>
+              <tr>
+                <td>Recreation: Indoor</td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td>P <sup><strong>2</strong></sup></td>
+                <td>P</td>
+                <td>P <sup><strong>2</strong></sup></td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
+                <td>P <sup><strong>2</strong></sup></td>
+                <td>P</td>
+                <td>P <sup><strong>2</strong></sup></td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
+                <td/>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>Per § 14-336</td>
+              </tr>
+              <tr>
+                <td>Tavern</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>Per § 14-337</td>
+              </tr>
+              <tr>
+                <th colspan="6">Other</th>
+              </tr>
+              <tr>
+                <td>Electric Substation: Enclosed, Indoor, or Outdoor</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Parking Garage (Principal Use)</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Parking Lot (Principal Use)</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Telecommunications Facility <sup><strong>3</strong></sup></td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+              <tr>
+                <td>Utilities</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Wireless Communications Services <sup><strong>4</strong></sup></td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="6">
+                  <p><sup><strong>1</strong></sup> No recreation facilities are allowed, except for standard playground equipment and outdoor furniture.</p>
+                  <p><sup><strong>2</strong></sup> Not to exceed 5,000 sq. ft. of the structure's gross floor area.</p>
+                  <p><sup><strong>3</strong></sup>  Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
+                  <p><sup><strong>4</strong></sup>  Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+        <annotations>
+          <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+          <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+          <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+        </annotations>
+      </attachment>
+    </codify:replace>
+    <codify:replace path="32|zoning-tables|12-1403" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1403">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>12-1403</num>
+        <heading>Harford Road Overlay District – Office, Commercial, and Industrial Districts  – Permitted and Conditional Uses</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Uses</th>
+                <th colspan="5">Subdistricts</th>
+                <th>Use Standards</th>
+              </tr>
+              <tr>
+                <th/>
+                <th>OR-1</th>
+                <th>C-1</th>
+                <th>C-2</th>
+                <th>C-3</th>
+                <th>IMU-1</th>
+                <th/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th colspan="7">Residential</th>
+              </tr>
+              <tr>
+                <td>Dwelling (Above Non-Residential Ground Floor)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 12-1404</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>P</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Live-Work</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="7">Institutional</th>
+              </tr>
+              <tr>
+                <td>Community Center</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Cultural Facility</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>Per § 14-308</td>
+              </tr>
+              <tr>
+                <td>Place of Worship</td>
+                <td>P</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-332</td>
+              </tr>
+              <tr>
+                <th colspan="7">Open-Space</th>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Farm</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Garden</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Park or Playground</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Urban Agriculture</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <th colspan="7">Commercial</th>
+              </tr>
+              <tr>
+                <td>Art Gallery</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+              </tr>
+              <tr>
+                <td>Arts Studio: Industrial</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Body Art Establishment</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Carry-Out Food Shop</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Day-Care Center: Adult or Child</td>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-309</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Indoor</td>
+                <td/>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>CB</td>
+                <td>Per § 14-319</td>
+              </tr>
+              <tr>
+                <td>Financial Institution</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Greenhouse or Nursery</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-339</td>
+              </tr>
+              <tr>
+                <td>Health-Care Clinic</td>
+                <td>P</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Health and Fitness Center</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Hotel or Motel</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Kennel</td>
+                <td/>
+                <td/>
+                <td/>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Office</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Outdoor Dining</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-329</td>
+              </tr>
+              <tr>
+                <td>Personal Services Establishment</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Recreation: Indoor</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Recreation: Outdoor</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-336</td>
+              </tr>
+              <tr>
+                <td>Tavern</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-337</td>
+              </tr>
+              <tr>
+                <th colspan="7">Industrial</th>
+              </tr>
+              <tr>
+                <td>Alternative Energy System: Commercial</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Food Processing: Light</td>
+                <td>CB</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Industrial: Light</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Movie Studio</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Printing Establishment</td>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Research and Development Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td>P</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="7">Other</th>
+              </tr>
+              <tr>
+                <td>Alternative Energy System: Community-Based</td>
+                <td/>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>Per § 14-306</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Enclosed, Indoor, or Outdoor</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Telecommunications Facility<sup><strong>1</strong></sup>
+              </td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+              <tr>
+                <td>Utilities</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>CB</td>
+                <td>Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Wireless Communications Services<sup><strong>2</strong></sup>
+            </td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>CB, P</td>
+                <td>Per § 14-338</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="7">
+                  <p><sup>1</sup> Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
+                  <p><sup>2</sup> Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+        <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-436" eff="2025-01-01" path="§1" type="History"/>
+      </attachment>
+    </codify:replace>
+    <codify:replace path="32|zoning-tables|15-601" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|15-601">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>15-601</num>
+        <heading>Permitted Encroachments into Required Yards</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Permitted Encroachments</th>
+                <th>Front Yard/Corner-Side Yard</th>
+                <th>Interior-Side Yard</th>
+                <th>Rear Yard</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Accessability ramp</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Alternative energy system, solar, ground-mounted – As in § 15-517</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Alternative energy system, wind – As in § 15-518</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Amateur (ham) radio equipment (§ 15-202) – Not incl. tower</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Amateur (ham) radio equipment (§ 15-202) – Tower</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Arbor or trellis – Attached to principal structure</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Arbor or trellis – Freestanding</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Awning, sun shade, or canopy extending from a window, porch, or door – No more than 3' into a required yard</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Balcony – At least 5' from front lot line or corner-side lot line</td>
+                <td>x</td>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Bicycle parking space</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Chimney – No more than 2' into a required yard</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Compost pile – Must be (i) within a bin (no open air composting); and (ii) at least 3' from any lot line</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Cornice, eave, belt course, sill, 1-story bay window, or similar architectural feature – No more than 2' into a required yard</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Exterior stairwell – No more than 4' into a required yard</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Fence or wall (Front or corner-side yard) – No more than 4' high</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Fence or wall (Rear or interior-side yard) – No more than 6' high</td>
+                <td/>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Fire escape</td>
+                <td>
+                  <p>x</p>
+                  <p>Corner-side yard only</p>
+                </td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Fireplace</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Flagpole</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Garage (Residential, detached) (§ 15-511)</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Gazebo</td>
+                <td/>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Greenhouse or hoop-house (§ 15-506)</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Laundry-drying equipment</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Lawn furniture (benches, bird baths, sundials, etc.)</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Lighting, exterior</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Mechanical equipment (§ 15-508)</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Off-street loading spaces, open</td>
+                <td/>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Off-street parking spaces, open</td>
+                <td/>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Patio or terrace, open</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Playground equipment and playhouses</td>
+                <td>
+                  <p>x</p>
+                  <p>Corner-side yard only</p>
+                </td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Porch (§ 15-512), unenclosed, with or without roof – No more than 1 story high; No more than 8' into a required yard.</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Porch (§ 15-512), unenclosed, with or without roof – More than 1 story high; No more than 8' into a required yard.</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Rain barrel or above-ground cistern</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Recycling collection station (§ 15-514)</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Refuse disposal container or storage area (§ 15-515)</td>
+                <td/>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Satellite dish antenna (§ 15-516) – 1 meter or less in diameter</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Satellite dish antenna (§ 15-516) – More than 1 meter in diameter</td>
+                <td/>
+                <td>
+                  <p>x</p>
+                  <p>Non-res'l districts only</p>
+                </td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Shed, tool house, or similar storage structure – No more than  180 sq. ft. in a residential zoning district.</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Steps, open</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Stormwater management facilities</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Swimming pool</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Tennis court</td>
+                <td/>
+                <td/>
+                <td>x</td>
+              </tr>
+              <tr>
+                <td>Terrace (<em>See</em> "Patio or terrace")</td>
+                <td>–</td>
+                <td>–</td>
+                <td>–</td>
+              </tr>
+              <tr>
+                <td>Tool house (<em>See </em>"Shed...")</td>
+                <td>–</td>
+                <td>–</td>
+                <td>–</td>
+              </tr>
+              <tr>
+                <td>Walls (<em>See</em> "Fence or wall")</td>
+                <td>–</td>
+                <td>–</td>
+                <td>–</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </attachment>
+    </codify:replace>
+  </section>
+</document>
