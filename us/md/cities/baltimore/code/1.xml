@@ -12673,6 +12673,21 @@
                 <td>§ 38-13.  Counterfeit and fraudulent Baltimore City ID Cards</td>
                 <td>$100</td>
               </tr>
+              <tr>
+                <td colspan="2">§ 42-30.  Licensing violations - Penalties</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Operating without a valid business license</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Operating with improper business licensure</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Operating in violation of the terms of a business license</td>
+                <td>$1,000</td>
+              </tr>
             </tbody>
           </table>
         </text>
@@ -12683,6 +12698,10 @@
         <text>
           <table>
             <tbody>
+              <tr>
+                <td>Subtitle 4.  Unfair, Abusive, or Deceptive Trade Practices</td>
+                <td>$1,000</td>
+              </tr>
               <tr>
                 <td colspan="2">Subtitle 10.  Motor Fuel Sales</td>
               </tr>
@@ -13624,6 +13643,7 @@
         <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
         <annotation app="2024-05-24" doc="City of Balt., Md., Ord. 24-335" eff="2024-05-24" path="§1" type="History"/>
         <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+        <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
         <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
       </annotations>
     </section>
@@ -17529,5 +17549,942 @@
       </annotations>
     </section>
     <annotation app="2024-07-15" doc="City of Balt., Md., Ord. 24-291" eff="2024-07-15" path="§1" type="History"/>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>42</num>
+    <heading>Department of Consumer Protection and Business Licensing</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>I</num>
+      <heading>Department Established</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>42-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Board.</heading>
+          <text>"Board" means the Baltimore City Board of Consumer Protection and Business Licensing.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Business.</heading>
+          <text>"Business" means any person engaged in an enterprise for profit that operates in Baltimore City.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Complainant.</heading>
+          <text>"Complainant" means the person who initiated a complaint to the Department of Consumer Protection and Business Licensing under this subtitle.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Department.</heading>
+          <text>"Department" means the Baltimore City Department of Consumer Protection and Business Licensing.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Director.</heading>
+          <text>"Director" means the Director of the Baltimore City Department of Consumer Protection and Business Licensing or the Director's designee.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Respondent.</heading>
+          <text>"Respondent" means a business that is the subject of a complaint under this subtitle.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Unfair, abusive, or deceptive trade practices.</heading>
+          <text>"Unfair, abusive, or deceptive trade practices" has the meaning stated in Title 13 of the State Commercial Law Article.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-2</num>
+        <heading>Department established.</heading>
+        <text>There is a Baltimore City Department of Consumer Protection and Business Licensing.</text>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-3</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of the Department is:</text>
+        <para>
+          <num>(1)</num>
+          <text>to centralize the administration of City business licenses, permits, and practices specified in subsection § 42-9 {"Business practices under oversight of the Department – Listing"} of this subtitle;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to ensure compliance with City licensing requirements;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to ensure City businesses are properly licensed and operating in accordance with City law;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>to investigate claims of unfair, abusive, or deceptive trade practices; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>to enforce business licensing and consumer protection provisions of the</text>
+          <text>City Code.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-4</num>
+        <heading>Powers.</heading>
+        <text>The Department may:</text>
+        <para>
+          <num>(1)</num>
+          <text>administer, oversee, and enforce City business licenses, permits, and practices, including business processes and related licenses created by the subtitles specified in § 42-9 {"Business practices under oversight of the Department – Listing"} of this subtitle;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>receive complaints and take action to investigate complaints of:</text>
+          <para>
+            <num>(i)</num>
+            <text>businesses operating without a license;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>businesses operating with improper licensing;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>businesses violating the terms of a business license; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>unfair, abusive, or deceptive trade practices against consumers under City Code Article 2, Subtitle 4 {"Unfair, abusive, or deceptive trade practices"};</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>set licensing fees, with the approval of the Board of Estimates;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>bring enforcement actions against a business for violating City law, including initiating a hearing before the Board of Consumer Protection and Business Licensing;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>issue summonses and subpoenas during an investigation under this subtitle;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>issue environmental citations, as described under subtitle 40 of this article;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>issue civil citations, as described under subtitle 41 of this article;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>report to any appropriate government agency with jurisdiction any information concerning violation of any consumer protection law; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>advise the Mayor and City Council on issues relevant to City business licensing and consumer protection.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-5</num>
+        <heading>Director of the Department.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The Director is responsible for the administration and oversight of the Department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Appointment.</heading>
+          <text>The Director is appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Salary.</heading>
+          <text>The Director shall receive such salary as may be provided for in the Ordinance of Estimates.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-6</num>
+        <heading>Staff and budget.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Staff.</heading>
+          <text>The Department may employ staff in accordance with the Ordinance of Estimates.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Budget.</heading>
+          <text>The Department may expend funds authorized in the Ordinance of Estimates or any supplemental appropriations.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-7</num>
+        <heading>Rules and regulations.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-8</num>
+        <heading>Annual report.</heading>
+        <text>On or before June 30 of each year, the Department must submit an annual report for the previous calendar year to the Mayor and City Council that details:</text>
+        <para>
+          <num>(1)</num>
+          <text>the activities of the Department; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>complaints received by the Department, including the following information:</text>
+          <para>
+            <num>(i)</num>
+            <text>number of complaints filed and investigated by the Department;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>number of investigations initiated by the Department;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>nature of complaints filed with the Department; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the disposition or resolution of each complaint or investigation; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>recommendations for additional legislation and policy to regulate business licensing and protect consumers.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-9</num>
+        <heading>Business practices under oversight of the Department – Listing.</heading>
+        <text>The Department is responsible for the administration, oversight, and enforcement of the business processes, related licenses, and prohibitions created by the subtitles listed below:</text>
+        <para>
+          <num>(1)</num>
+          <heading>Article 2. Consumer Protection</heading>
+          <text>Subtitle 1.  Auctions</text>
+          <text>Subtitle 4.  Unfair, Abusive, or Deceptive Trade Practices</text>
+          <text>Subtitle 6.  "Going Out of Business" Sales</text>
+          <text>Subtitle 7.  Scrap Collectors and Scavengers</text>
+          <text>Subtitle 8.  Scrap Metal Dealers</text>
+          <text>Subtitle 10.  Motor Fuel Sales</text>
+          <text>Subtitle 11.  Pawnbrokers</text>
+          <text>Subtitle 12.  Second-Hand Property, Antiques, and Consignment Goods</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Article 13. Housing and Urban Renewal</heading>
+          <text>Subtitle 13.  Licensing of Peep Show Establishments</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Article 15.</heading>
+          <text>Subtitle 2.  Amusements</text>
+          <text>Subtitle 3.  Amusement Device Location Permits</text>
+          <text>Subtitle 6.  Carriages, Wagons, Boats, and Scows</text>
+          <text>Subtitle 7.  Employment Agencies</text>
+          <text>Subtitle 9.  Late-Night Commercial Operations</text>
+          <text>Subtitle 11.  Massage Establishments</text>
+          <text>Subtitle 12.  Commercial Parking Facilities</text>
+          <text>Subtitle 13.  Special-Event Parking Lots</text>
+          <text>Subtitle 15.  Street Entertainers</text>
+          <text>Subtitle 17.  Street Vendors</text>
+          <text>Subtitle 18.  Itinerant Wholesale Produce Dealers</text>
+          <text>Subtitle 20.  Transient Merchants</text>
+          <text>Subtitle 22.  Towing Services – Trespass Towing</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section name="42-10to42-15">
+        <prefix>§§</prefix>
+        <num>42-10 to 42-15</num>
+        <reason>Reserved</reason>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>II</num>
+      <heading>Board of Consumer Protection and Business Licensing</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>42-16</num>
+        <heading>Established.</heading>
+        <text>There is a Board of Consumer Protection and Business Licensing.</text>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-17</num>
+        <heading>Composition.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The Board comprises the following 5 members, appointed by the Mayor in accordance with Article IV, § 6 {"Appointments of municipal officers."} of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>:</text>
+          <para>
+            <num>(1)</num>
+            <text>1 member nominated in consultation with the President of the City Council;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>1 member nominated in consultation with the City Comptroller; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>3 members named by the Mayor, at least 2 of whom must be members of the Maryland Bar; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>1 member of the City Council</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Qualifications.</heading>
+          <text>A Board member must:</text>
+          <para>
+            <num>(i)</num>
+            <text>be an individual of known personal integrity;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>possess a recognized knowledge in business licensing or consumer protection; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>be a resident of the City of Baltimore.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Staff.</heading>
+          <text>The Director shall designate Department staff to assist the Board in carrying out its functions.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-18</num>
+        <heading>Terms of office and organization.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Terms.</heading>
+          <text>A Board member shall serve a term of 4 years, concurrent with the terms of the Mayor and the City Council and, at the end of a term, a Board member continues to serve until a successor is appointed and qualified.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Chair.</heading>
+          <text>The members of the Board shall annually elect a chair from among the members of the Board.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Vacancies.</heading>
+          <text>If there is a vacancy in the membership of the Board, the new member shall be appointed in the same manner as the previous member.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Compensation.</heading>
+          <text>The members of the Board shall receive no compensation for their services on the Board, but shall be reimbursed for the reasonable and necessary expenses incurred in the performance of their duties.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Meetings; Quorum.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Board shall meet at least monthly.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A majority of the members of the Board constitutes a quorum for the transaction of business.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Attendance at meetings.</heading>
+          <text>Any appointed member of the Board who fails to attend 4 consecutive meetings without good cause, as determined by the Mayor, shall be deemed to have resigned.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-19</num>
+        <heading>Powers and duties.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The Board shall adjudicate all hearings of the Department, unless otherwise provided by law.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Other duties.</heading>
+          <text>In coordination and consultation with the Department, the Board shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>review and propose improvements to existing City rules, regulations, and laws with respect to business licensing and consumer protection;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>research and recommend new programs and training that could be delivered to consumers and businesses; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>evaluate current programs and proposed legislation to determine their impact on consumers and businesses.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Informational hearings and studies.</heading>
+          <text>As appropriate, the Board may hold informational hearings and undertake surveys and studies to:</text>
+          <para>
+            <num>(1)</num>
+            <text>evaluate existing City policies and procedures in regard to business licensing and consumer protection; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>make recommendations for the improvement of existing policies and procedures to the Director.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Annual report.</heading>
+          <text>The Board shall submit an annual report on its activities to the Department to be included in the Department's annual report to the Mayor and City Council, as described in § 42-8 {"Annual report"} of this subtitle.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section name="42-20to42-25">
+        <prefix>§§</prefix>
+        <num>42-20 to 42-25</num>
+        <reason>Reserved</reason>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>III</num>
+      <heading>Departmental Procedures</heading>
+      <text class="center">
+        <strong>Upon Receipt or Issuance of Complaint</strong>
+      </text>
+      <section>
+        <prefix>§</prefix>
+        <num>42-26</num>
+        <heading>Commencement of action.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>On complaint of other.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Any person may file a written complaint with the Department alleging that a business is:</text>
+            <para>
+              <num>(i)</num>
+              <text>operating without a license;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>operating with improper licensure;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>violating the terms of a business license; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>engaging in unfair, abusive, or deceptive trade practices against consumers.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A complaint filed under this subsection must be in the form required by the Director.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>On Director's motion.</heading>
+          <text>The Director may issue a written complaint alleging that a business is  committing or has committed 1 or more of the acts described under § 42-28(a) {"Investigation procedures: Initiation of investigation"}.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-27</num>
+        <heading>Copy to respondent.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Upon receipt or issuance of a complaint, the Department must, via regular mail, send a copy of the complaint to the business named in the complaint.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The business named in the complaint shall be the respondent.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Confidentiality.</heading>
+          <text>For a complaint filed under § 42-26(a) {"Commencement of action: On complaint of other"} of this subtitle, the Director must redact from the copy sent to the respondent:</text>
+          <para>
+            <num>(1)</num>
+            <text>the complainant's name; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>to the fullest extent possible, any other information that might identify the complainant.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-28</num>
+        <heading>Investigation procedures.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Initiation of investigation.</heading>
+          <text>The Department shall investigate a complaint alleging that a business is:</text>
+          <para>
+            <num>(1)</num>
+            <text>operating without a license;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>operating with improper licensure; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>violating the terms of a business license; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>engaging in unfair, abusive, or deceptive trade practices.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Complaint not within jurisdiction of Department.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Dismissal and referral.</heading>
+            <text>If a complaint is not within the jurisdiction of the Department under subsection (a) of this section, the Department shall dismiss the complaint and, if appropriate, refer the complaint to another entity with jurisdiction over the matter.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Notification.</heading>
+            <text>If a complaint is dismissed under this subsection, the Department shall promptly notify the complainant and respondent.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Investigation.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>Upon receipt or issuance of a complaint, the Department shall promptly investigate the complaint.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Subpoenas.</heading>
+            <text>In the course of an investigation, the Department may issue a subpoena to require any person to:</text>
+            <para>
+              <num>(i)</num>
+              <text>produce information, documents, reports, records, accounts, or any other evidence related to the allegations in the complaint; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>appear under oath to give testimony related to the allegations in the complaint.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Oaths.</heading>
+            <text>The Director may administer oaths as permitted under this section.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Report of findings.</heading>
+            <text>The Department shall prepare a written report of findings as soon as practicable after the conclusion of the investigation.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-29</num>
+        <heading>Director's action upon completed report of findings.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Actions.</heading>
+          <text>If the Director determines that the report of findings contains information tending to substantiate an allegation in the complaint, the Director may, as appropriate for the nature of the offense and subject to other applicable law, take 1 or more of the following actions:</text>
+          <para>
+            <num>(1)</num>
+            <text>refer the complaint for a hearing before the Board;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>issue a civil citation;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>issue an environmental citation;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>provide the respondent with the opportunity to remedy the behavior at issue in the complaint; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>pursue any other legal or equitable relief or enforcement available under the law.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Dismissal.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>If the Director determines that the report of findings does not contain information that tends to substantiate an allegation in the complaint, the Director shall dismiss the complaint and, if appropriate, refer the complaint to another entity with jurisdiction over the matter.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Notification.</heading>
+            <text>If the Department dismisses a complaint under this subsection, the Director shall promptly notify the complainant and respondent of the dismissal.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Action on licenses.</heading>
+          <text>Before revoking or suspending a license, the Department must provide notice and opportunity for a hearing before the Board, unless otherwise provided by law.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-30</num>
+        <heading>Licensing violations – Penalties.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In lieu of any other civil or criminal remedy or enforcement procedure, a person operating a business that is required to be licensed by one of the subtitles listed under § 42-9 of this subtitle may be issued a civil citation for:</text>
+          <para>
+            <num>(1)</num>
+            <text>operating a business without a license;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>operating a business with an improper license; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>operating a business in violation of the terms of a license.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Process not exclusive.</heading>
+          <text>The issuance of a citation to enforce the provisions of a business license created in the subtitles listed under § 42-9 of this subtitle does not preclude the City from pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section name="42-31to42-35">
+        <prefix>§§</prefix>
+        <num>42-31 to 42-35</num>
+        <reason>Reserved</reason>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>IV</num>
+      <heading>Hearing Procedures</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>42-36</num>
+        <heading>Hearing procedures.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>If the Director refers a complaint for a hearing before the Board under § 42-29 {"Director's action upon completed report of findings"} of this subtitle, the Board must provide the respondent with notice and an opportunity for a hearing before the Board.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Representation by counsel.</heading>
+          <text>In any hearing conducted by the Board, the respondent is entitled to be represented by counsel.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Subpoenas.</heading>
+          <text>The Board may issue a subpoena to require any person to:</text>
+          <para>
+            <num>(1)</num>
+            <text>produce information, documents, reports, records, accounts, or any other evidence; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>appear under oath to testify.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Oaths.</heading>
+          <text>The Chair may administer oaths as permitted under this subtitle.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-37</num>
+        <heading>Board disposition and remedies.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>If, upon consideration of the entire record produced at the hearing, the Board finds by a preponderance of the evidence  that the respondent has violated the City Code, the Board may, as appropriate for the nature of the offense and subject to other applicable law, take 1 or more of the following actions:</text>
+          <para>
+            <num>(1)</num>
+            <text>issue an order directing the respondent to cease and desist from the violation;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>issue a reprimand;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>revoke or suspend the respondent's license;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>report to any appropriate government agency with jurisdiction any information concerning a violation of any law;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>order the respondent to restore money or property to the person who made the complaint;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>order the respondent to pay any costs of investigation or related activities of the Department;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>impose and order the respondent to pay any relevant civil penalty authorized by law; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>take any other action that would:</text>
+            <para>
+              <num>(i)</num>
+              <text>assist the person who made the complaint in obtaining relief; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>prevent future violations of law.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Considerations.</heading>
+          <text>In ordering any remedy, the Board shall consider:</text>
+          <para>
+            <num>(1)</num>
+            <text>the severity of the violation;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the severity of any harm to consumers;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the motives of the respondent;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>any previous violations by the same business or business owner;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>whether the remedy will deter future misconduct; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>whether a stop order or restitution would sufficiently protect consumers or the person who made the complaint.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-38</num>
+        <heading>Enforcement by Director.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Subpoenas.</heading>
+          <text>If any person does not comply with any subpoena issued under this subtitle, the Director may enforce the subpoena by seeking injunctive or other appropriate relief in a court of competent jurisdiction.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Civil penalties.</heading>
+          <text>The Director may bring an action in any court of competent jurisdiction to recover any civil penalty imposed by the Director or the Board.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Board orders.</heading>
+          <text>The Director may bring an action in any court of competent jurisdiction to enforce any order, decision, or other enforcement action of the Board.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Injunctive relief.</heading>
+          <text>The Director may seek injunctive or other appropriate relief in a court of competent jurisdiction to enforce any provision of law under the Department's jurisdiction.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-39</num>
+        <heading>Assistance of City Solicitor and other departments.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>City Solicitor.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>The Office of the City Solicitor shall reasonably assist the Department and Board in carrying out the Department's and Board's respective duties under this subtitle, including in any judicial enforcement action.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Authority to bring action.</heading>
+            <text>Nothing in this subtitle shall limit the authority of the Office of the City Solicitor to bring an enforcement action under City Code Article 2, Subtitle 4 {"Unfair, abusive, or deceptive trade practices"}.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Assistance of other City departments.</heading>
+          <text>The Department and Board may request the assistance of other City departments as necessary to carry out the Department and Board's respective duties under this subtitle.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-40</num>
+        <heading>Judicial review.</heading>
+        <text>A respondent or other person aggrieved by a final decision of the Board or Director under this subtitle may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>42-41</num>
+        <heading>Confidentiality.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>To the extent permitted by the Maryland Public Information Act, after a complaint is filed:</text>
+          <para>
+            <num>(1)</num>
+            <text>the proceedings, meetings, and activities of the Department, the Board, and the Department's staff relating to the complaint are confidential; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>neither the Department, the Board, nor the Department's staff may disclose any information relating to the complaint, including the identity of the complainant or the respondent.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Permitted disclosures.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Identity of respondent.</heading>
+            <text>The Department may release any information other than the complainant's identity if the respondent has agreed in writing to the release.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Identity of complainant.</heading>
+            <text>The Department may disclose the complainant's identity to the respondent if the complainant has agreed in writing to the release.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Duration.</heading>
+          <text>To the extent permitted by the Maryland Public Information Act, the confidentiality protections imposed by this section terminate when the Director or Board determines that the respondent or another person has violated any provision of the City Code under the Department's jurisdiction.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
   </container>
 </container>

@@ -358,10 +358,10 @@
         </section>
       </container>
     </codify:insert>
-    <codify:replace path="8|§7-8|(38a)|num" after="(38b)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8|(38b)">
+    <codify:replace path="8|§7-8|(38a)|num" after="(38b)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8">
       <num>(38b)</num>
     </codify:replace>
-    <codify:insert path="8|§7-8" after="(38)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8|(38a)">
+    <codify:insert path="8|§7-8" after="(38)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8">
       <para>
         <num>(38a)</num>
         <text>

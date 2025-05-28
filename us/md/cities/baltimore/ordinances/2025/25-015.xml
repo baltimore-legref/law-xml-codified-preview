@@ -391,6 +391,66 @@
         </para>
       </para>
     </codify:replace>
+    <codify:replace path="32|§4-203" codified:doc="City of Baltimore, Md., Code" codified:path="32|§4-203">
+      <section>
+        <prefix>§</prefix>
+        <num>4-203</num>
+        <heading>Applicability.</heading>
+        <text>Site plan review is required for the following types of development applications:</text>
+        <para>
+          <num>(1)</num>
+          <text>new construction that involves any of the following:</text>
+          <para>
+            <num>(i)</num>
+            <text>any proposed development over 15,000 square feet of gross floor area;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>developments with multiple structures on a single lot, excluding accessory structures; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>all multi-tenant commercial development, including mixed-use development;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>subdivision of land;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>additions or structural alterations to an existing structure, other than a single-family detached or semi-detached dwelling, that results in a 50% increase in gross floor area over the gross floor area of the existing structure prior to the addition or alteration;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>planned unit development;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>conditional use, unless the conditional use can and will be fully contained within an existing structure;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>parking lot or structures containing 5 or more motor vehicle parking spaces;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>any development within an environmentally sensitive area, including projects in a Floodplain District and projects within the Buffer of the Critical Area (<em>see</em> Subtitle 3 {"Environmentally Sensitive Areas Review"} of this title);</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>urban agriculture or community-managed open-space farm;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>any development within the C-5-IH Subdistrict; and</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>multiple principal structures on a residential lot per <cite doc="City of Baltimore, Md., Code" path="32|§15-203">§ 15-203</cite>.</text>
+        </para>
+      </section>
+    </codify:replace>
     <codify:replace path="32|§4-405" codified:doc="City of Baltimore, Md., Code" codified:path="32|§4-405">
       <section>
         <prefix>§</prefix>
@@ -458,7 +518,7 @@
           </para>
           <para>
             <num>(15)</num>
-            <text>multiple principal structures on a residential lot per § 15-203;</text>
+            <text>multiple principal structures on a residential lot per <cite doc="City of Baltimore, Md., Code" path="32|§15-203">§ 15-203</cite>;</text>
           </para>
           <para>
             <num>(16)</num>
@@ -707,7 +767,7 @@
             </para>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(6)</num>
             <text>the variance will not otherwise:</text>
             <para>
               <num>(i)</num>
@@ -1073,6 +1133,9 @@
           <text>No deck used for outdoor dining shall be constructed in the 10 foot right-of-way described under this section.</text>
         </para>
       </para>
+    </codify:replace>
+    <codify:replace path="32|§14-329|heading" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-329">
+      <heading>Outdoor dining and rooftop dining.</heading>
     </codify:replace>
     <codify:replace path="32|§14-329|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-329|(a)">
       <para>
@@ -2605,7 +2668,7 @@
                 <td>None</td>
               </tr>
               <tr>
-                <th colspan="7">Maximum Lot Area</th>
+                <th colspan="7">Maximum Gross Floor Area by Use</th>
               </tr>
               <tr>
                 <td>Restaurant</td>
