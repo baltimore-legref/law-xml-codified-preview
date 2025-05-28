@@ -938,7 +938,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:insert path="1" codified:doc="City of Baltimore, Md., Code" codified:path="1|§42-1|annos">
+    <codify:insert path="1" after="41" codified:doc="City of Baltimore, Md., Code" codified:path="1|§42-1|annos">
       <container>
         <prefix>Subtitle</prefix>
         <num>42</num>
@@ -1021,8 +1021,7 @@
             </para>
             <para>
               <num>(5)</num>
-              <text>to enforce business licensing and consumer protection provisions of the</text>
-              <text>City Code.</text>
+              <text>to enforce business licensing and consumer protection provisions of the City Code.</text>
             </para>
           </section>
           <section>
@@ -1795,6 +1794,8 @@
         </container>
       </container>
     </codify:insert>
+    <codify:replace path="1|42to48" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|43to48"><container name="43to48"><prefix>Subtitles</prefix><num>43 to 48</num><reason>Reserved</reason></container>"
+    </codify:replace>
     <codify:replace path="2|§1-1" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-1">
       <section>
         <prefix>§</prefix>
@@ -2428,7 +2429,7 @@
     <codify:replace path="2|§12-3|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-3|(b)">
       <para>
         <num>(b)</num>
-        <heading>Director of the Department of Consumer Protection and Business Licensing to issue.</heading>
+        <heading>Director of Consumer Protection and Business Licensing to issue.</heading>
         <text>The license shall be issued by the Director of the Department of Consumer Protection and Business Licensing.</text>
       </para>
     </codify:replace>
@@ -2479,7 +2480,7 @@
         <heading>In general.</heading>
         <para>
           <num>(1)</num>
-          <text>Each dealer shall submit to the Police Commissioner and the Director of the Department of Consumer Protection and Business Licensing a daily report of each transaction in which a person transfers items to the dealer on that day.</text>
+          <text>Each dealer shall submit to the Police Commissioner and the Director of Consumer Protection and Business Licensing a daily report of each transaction in which a person transfers items to the dealer on that day.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2538,7 +2539,7 @@
         <prefix>§</prefix>
         <num>12-15</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Police Commissioner, in consultation with the Director of the Department of Consumer Protection and Business Licensing may adopt rules and regulations to implement this subtitle and shall make these rules and regulations available to dealers and the general public.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Police Commissioner, in consultation with the Director of Consumer Protection and Business Licensing may adopt rules and regulations to implement this subtitle and shall make these rules and regulations available to dealers and the general public.</text>
       </section>
     </codify:replace>
     <codify:replace path="8|§7-8" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8">
@@ -4486,7 +4487,7 @@
         <para>
           <num>(a)</num>
           <heading>Grounds.</heading>
-          <text>Whenever the Director believes that any licensed massage establishment or registered massagist has violated any of the provisions of this subtitle, the rules and regulations promulgated by the Departmen, or is not qualified to hold a license, the Director may order a hearing before the Board.</text>
+          <text>Whenever the Director believes that any licensed massage establishment or registered massagist has violated any of the provisions of this subtitle, the rules and regulations promulgated by the Department, or is not qualified to hold a license, the Director may order a hearing before the Board.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4960,7 +4961,7 @@
         <para>
           <num>(a)</num>
           <heading>Department may adopt.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing with the Department of Transportation may adopt rules and regulations to carry out this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing, in consultation with the Department of Transportation may adopt rules and regulations to carry out this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5285,7 +5286,7 @@
         <prefix>§</prefix>
         <num>18-8</num>
         <heading>Revocation of license.</heading>
-        <text>The Director of Consumer Protection and Business Licensing may revoke such license at any time by notice in writing whenever it shall appear to his satisfaction that the licensee has violated the provisions of this subtitle and has failed to correct same upon due notice from the Director of Consumer Protection and Business Licensing.</text>
+        <text>The Director of Consumer Protection and Business Licensing may revoke such license at any time by notice in writing whenever it shall appear to his satisfaction that the licensee has violated the provisions of this subtitle and has failed to correct same upon due notice from the Director.</text>
       </section>
     </codify:replace>
     <codify:replace path="15|§20-2" codified:doc="City of Baltimore, Md., Code" codified:path="15|§20-2">
@@ -5738,7 +5739,7 @@
           </para>
           <para>
             <num>(13)</num>
-            <text>Subtitle 22. Towing Services B Trespass Towing.</text>
+            <text>Subtitle 22. Towing Services - Trespass Towing.</text>
           </para>
         </para>
       </section>
