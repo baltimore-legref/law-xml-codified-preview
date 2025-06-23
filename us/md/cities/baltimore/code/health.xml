@@ -1221,6 +1221,265 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>6</num>
+      <heading>City Schools</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>3-601</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Abnormal EPSDT screening.</heading>
+          <text>"Abnormal EPSDT screening" means a medical screening done as part of an EPSDT regimen that produces:</text>
+          <para>
+            <num>(1)</num>
+            <text>inconclusive results;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>ambiguous results; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>results that require further testing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Baltimore City Public School System.</heading>
+          <text>"Baltimore City Public School System" or "BCPSS" means the public school district of the City of Baltimore.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Early and Periodic Screening, Diagnosis, and Treatment.</heading>
+          <text>"Early and Periodic Screening, Diagnosis, and Treatment" or "EPSDT" means the provision of preventive health care under 42 CFR Subpart B {"Early and Periodic Screening, Diagnosis, and Treatment (EPSDT) of Individuals Under Age 21"}, including medical and dental services to assess growth and development and to detect and treat health problems in Medicaid beneficiaries under 21 years old.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Family Planning.</heading>
+          <text>"Family planing" means providing individuals with the information and means to prevent an unwanted pregnancy and to maintain reproductive health.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Follow-up care.</heading>
+          <text>"Follow-up care" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>any treatment or practice recommended as medically necessary to address abnormal or positive results of an EPSDT screening by a licensed healthcare professional; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the process of attempting to ascertain if the recommended services have been obtained.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Maryland Healthy Kids Preventive Health Schedule.</heading>
+          <text>"Maryland Healthy Kids Preventive Health Schedule" means the schedule set by the State Department of Health's Healthy Kids Program as a minimum EPSDT practice for all Maryland Medicaid recipients under 21 years of age, consisting of:</text>
+          <para>
+            <num>(1)</num>
+            <text>standard health screenings;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>physical exams;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>laboratory tests;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>immunizations; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>health education.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Medically necessary</heading>
+          <text>"Medically necessary" means that a health service is:</text>
+          <para>
+            <num>(1)</num>
+            <text>directly related to diagnostic, preventive, curative, palliative, rehabilitative, or ameliorative treatment of an illness, injury, disability, or health condition;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>consistent with currently accepted standards of good medical practice;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the most cost efficient service that can be provided without sacrificing effectiveness or access to care; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>not primarily for the convenience of the consumer, family, or provider.</text>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Positive EPSDT screening.</heading>
+          <text>"Positive EPSDT screening" means a medical screening conducted by a licensed health professional as part of an EPSDT regimen that produces positive results indicating the presence of the tested-for condition.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Preventive Health Services.</heading>
+          <text>"Preventive Health Services" means proactive care to detect potential health problems and protect and maintain a patient=s current health, including:</text>
+          <para>
+            <num>(1)</num>
+            <text>screenings for health conditions;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>counseling for chronic conditions;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>regular health checkups; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>immunizations.</text>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Primary health services.</heading>
+          <text>"Primary health services" means a basic level of health care, including diagnostic, treatment, consultative, referral, and preventive health services, generally rendered by 1 or more:</text>
+          <para>
+            <num>(1)</num>
+            <text>general practitioners;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>family practitioners;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>internists;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>gynecologists;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>pediatricians;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>physician assistants; and</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>nurse practitioners.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>School-based health center.</heading>
+          <text>"School-based health center" means a facility providing medical care that:</text>
+          <para>
+            <num>(1)</num>
+            <text>is located on the grounds of a BCPSS facility;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>provides on site primary and preventive health care, referrals, and follow-up services;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>may provide on site dental care or behavioral health care, referrals, and follow-up services; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>has been approved by the Maryland Department of Health.</text>
+          </para>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>School health services professional.</heading>
+          <text>"School health services professional" or "school health professional" means a physician, certified nurse practitioner, or registered nurse with experience, special training, or both in working with children and families in community or school health programs and practices in accordance with the current State medical and nursing standards of care.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>3-602</num>
+        <heading>Child health equity services.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The following health services may be provided at any school-based health center:</text>
+          <para>
+            <num>(1)</num>
+            <text>comprehensive preventive and primary health services, including administration of vaccines according to the Maryland Healthy Kids Preventative Health Schedule;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>access to family planning, dental, and mental health services; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>access to vision care at the written request of a child's guardian.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>3-603</num>
+        <heading>Follow-up care.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>For any positive or abnormal EPSDT screening of a student, the school health professional that performed the screening shall communicate the need for follow-up care, as appropriate and in accordance with all laws related to minor consent, to either or both of:</text>
+          <para>
+            <num>(1)</num>
+            <text>the student; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the student's parent or guardian.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Additional screening.</heading>
+          <text>If a school health services professional determines that an additional screening or health check-up is necessary for a student, the professional shall make a recommendation for an additional screening or health check-up to the student or the student's parent or guardian, as appropriate.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>3-604</num>
+        <heading>Rules and regulations.</heading>
+        <text>Subject to Title 4 {"Administrative Procedure Act B Regulations"} of the City General Provisions Article, the Commissioner of the Baltimore City Health Department may adopt rules and regulations to carry out this subtitle.</text>
+        <annotations>
+          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+      <annotations>
+        <annotation type="Editor's Notes">Ordinance 25-016 (effective August 25, 2025) numbered sections in this subtitle with the structure "[subtitle_number]-[section_number]" (e.g. "§  6-101"). This structure does not follow the numbering conventions for sections in the Health Code. The proper structure is "[title number]-[subtitle number][section number]" (e.g. "§ 3-601"). The section numbers have been updated to follow the correct numbering convention.</annotation>
+        <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+      </annotations>
+    </container>
   </container>
   <container>
     <prefix>Title</prefix>
@@ -8402,12 +8661,41 @@
         <prefix>§</prefix>
         <num>8-302</num>
         <heading>Prohibition of gas-powered debris removal equipment.</heading>
-        <text>A person, individual, contractor, or subcontractor may not use gas-powered debris removal equipment in Baltimore City.</text>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>A person, individual, contractor, or subcontractor may not use gas-powered debris removal equipment in Baltimore City.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Use on property.</heading>
+          <text>An owner of real property in Baltimore City may not permit any person, individual, contractor, or subcontractor to use gas-powered debris removal equipment on that property.</text>
+        </para>
         <annotations>
           <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+          <annotation app="2025-06-09" doc="City of Balt., Md., Ord. 25-020" eff="2025-06-09" path="§1" type="History"/>
         </annotations>
       </section>
       <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+      <section>
+        <prefix>§</prefix>
+        <num>8-303</num>
+        <heading>Rules and regulations.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Subject to Title 4 {AAdministrative Procedure Act B Regulations@} of the City General Provisions Article, the Baltimore City Health Department or another City entity tasked with enforcement of this subtitle, may shall adopt rules and regulations to carry out the provisions of this subtitle and <cite path="health|§8-402">§ 8-402</cite> of this title.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Required content.</heading>
+          <text>The rules and regulations adopted by the Baltimore City Health Department under this section shall include an affidavit form a witness shall use to submit a complaint under <cite path="health|§8-402">§ 8-402</cite> of this title.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+          <annotation app="2025-06-09" doc="City of Balt., Md., Ord. 25-020" eff="2025-06-09" path="§1" type="History"/>
+        </annotations>
+      </section>
     </container>
     <container>
       <prefix>Subtitle</prefix>
@@ -8450,20 +8738,37 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as otherwise specified in this subtitle, an enforcement officer may issue a civil citation for the use of gas-powered debris removal equipment if the enforcement officer:</text>
+          <text>Except as otherwise specified in this subtitle, an enforcement officer may issue a civil or an environmental citation for violating the provisions of <cite path="health|§8-302">§ 8-302</cite> {"Prohibition of gas powered debris removal equipment"} of this title if the enforcement officer:</text>
           <para>
             <num>(1)</num>
             <text>witnesses the violation; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>receives from at least 1 witness a written complaint accompanied by photographic evidence.</text>
+            <text>receives from at least 1 witness a written complaint accompanied by photographic evidence and a signed affidavit in the form required by the rules and regulations promulgated pursuant to <cite path="health|§8-303">§ 8-303</cite> of this title {"Rules and regulations"}</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
           <heading>Warning to cease and desist.</heading>
-          <text>An enforcement officer who finds any  person person, individual, contractor, or subcontractor violating this subtitle shall order, on a first offense, that the person cease and desist the use of gas-powered debris removal equipment.</text>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>An enforcement officer who finds that any person person, individual, contractor, or subcontractor violated the provisions of <cite path="health|§8-302">§ 8-302</cite> {"Prohibition of gas-powered debris removal equipment"} of this title shall order, on a first offense, that the person, individual, contractor, or subcontractor cease and desist the use of gas-powered debris removal equipment.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Requirements</heading>
+            <text>A special enforcement officer may find that a person, individual, contractor, or subcontractor has violated the provisions of <cite path="health|§8-302">§ 8-302</cite> {"Prohibition of gas-powered debris removal equipment"} of this title if the special enforcement officer:</text>
+            <para>
+              <num>(i)</num>
+              <text>witnesses the violation; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>receives from at least 1 witness a written complaint accompanied by photographic evidence and a signed affidavit in the form required by the rules and regulations promulgated pursuant to <cite path="health|§8-303">§ 8-303</cite> of this title{"Rules and regulations"}.</text>
+            </para>
+          </para>
         </para>
         <para>
           <num>(c)</num>
@@ -8476,6 +8781,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§10(2nd sen.), 16, 21</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-232" type="History">Ord. 19-232</annotation>
           <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+          <annotation app="2025-06-09" doc="City of Balt., Md., Ord. 25-020" eff="2025-06-09" path="§1" type="History"/>
         </annotations>
       </section>
       <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
