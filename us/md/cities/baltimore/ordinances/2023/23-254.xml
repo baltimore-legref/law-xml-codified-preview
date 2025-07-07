@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 23-254" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">23-254</num>
+  <num type="bill">22-0255</num>
+  <heading type="short">Arson Offender Registration</heading>
+  <heading type="long">An Ordinance Concerning Arson Offender Registration</heading>
+  <meta>
+    <stub/>
+    <introduced>2022-07-25</introduced>
+    <effective>2024-02-21</effective>
+    <citations>
+      <citation type="ord" url="./enacted/23-254.pdf">Ord. 23-254</citation>
+    </citations>
+    <history>
+      <vote date="2022-07-25" reading="first"/>
+      <vote date="2023-05-15" reading="second"/>
+      <enacted>2023-08-21</enacted>
+      <committee>Favorable, with amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert path="19" after="60" codified:doc="City of Baltimore, Md., Code" codified:path="19|61">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>61</num>
+        <heading>Arson Offender Registration.</heading>
+      </container>
+    </codify:insert>
+    <codify:insert path="|19|61" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-1">
+      <section>
+        <prefix>§</prefix>
+        <num>61-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Arson or malicious burning offender.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Arson or malicious burning offender" or "offender" means any individual who is convicted of an arson or malicious burning offense in any degree.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Arson or malicious burning offender" does not include an individual:</text>
+            <para>
+              <num>(i)</num>
+              <text>whose conviction for an arson or malicious burning offense has been reversed on appeal or otherwise set aside pursuant to law; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>who has been pardoned by the Governor.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Arson or malicious burning offense.</heading>
+          <text>"Arson or malicious burning offense" means a violation of any of the following sections of the State Criminal Law Article:</text>
+          <para>
+            <num>(1)</num>
+            <text>§ 6-102 {"Arson in the first degree"};</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>§ 6-103 {"Arson in the second degree"};</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>§ 6-104 {"Malicious burning of personal property in the first degree"};</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>§ 6-105 {"Malicious burning of personal property in the second degree"};</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>§ 6-106 {"Burning with intent to defraud"};</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>§ 6-107 {"Threat of arson"}; or</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>§ 5-622 {"Burning trash container"}.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Commissioner</heading>
+          <text>"Commissioner" means the Police Commissioner of Baltimore City or the Commissioner's designee.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Convicted.</heading>
+          <text>"Convicted" means an individual has:</text>
+          <para>
+            <num>(1)</num>
+            <text>been found guilty of an arson or malicious burning offense by a jury or judicial officer;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>accepted a plea of guilty or nolo contendere for an arson or malicious burning offense; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>been granted probation before judgment after a finding of guilt for an arson or malicious burning offense, if the court orders compliance with this subtitle as a condition of probation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Correctional facility.</heading>
+          <text>"Correctional facility" means a facility that is operated for the purpose of detaining or confining adults who are charged with or found guilty of a crime.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="|19|61" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-2">
+      <section>
+        <prefix>§</prefix>
+        <num>61-2</num>
+        <heading>Rules and regulations.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Commissioner may adopt.</heading>
+          <text>The Commissioner may adopt rules and regulations to carry out this subtitle.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Scope.</heading>
+          <text>These rules and regulations may govern:</text>
+          <para>
+            <num>(1)</num>
+            <text>the form, content, and processing of the acknowledgment required by this subtitle;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the form and content of the registration required under this subtitle;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the documentation required to verify the content of the registration required under this subtitle; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the maintenance, use, and availability of the information that is collected by the Commissioner under this subtitle.</text>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="|19|61" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-3">
+      <section>
+        <prefix>§</prefix>
+        <num>61-3</num>
+        <heading>Registration – In general.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Registration required.</heading>
+          <text>An arson or malicious burning offender must register with the Commissioner if the offender is charged with a subsequent arson or malicious burning offense.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Acknowledgment of duty to register.</heading>
+          <text>When requested to do so by a judicial officer or law enforcement officer, an offender must acknowledge, in writing, the offender's duty to register under this subtitle.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="|19|61" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-4">
+      <section>
+        <prefix>§</prefix>
+        <num>61-4</num>
+        <heading>Registration – Timing and location.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Timing.</heading>
+          <text>An offender must register with the Commission within 48 hours of:</text>
+          <para>
+            <num>(1)</num>
+            <text>the date the offender's sentence is imposed, if the offender receives a sentence that does not include imprisonment; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the date of the offender's release from a correctional facility, if the offender receives a sentence that includes imprisonment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Location.</heading>
+          <text>To register with the Commissioner, an offender must personally appear at an office designated by the Commissioner.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="|19|61" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-5">
+      <section>
+        <prefix>§</prefix>
+        <num>61-5</num>
+        <heading>Registration - Content and form.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The registration must be in the form and contain the information that the Commissioner requires and that is required in subsection (b) of this section.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Required information.</heading>
+          <text>The registration must include the following information:</text>
+          <para>
+            <num>(1)</num>
+            <text>the offender's name;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the crime for which the offender was convicted;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the date on which the offender was convicted;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>any other name by which the offender has been legally known;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>a list of all aliases that the offender has used;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>identifying factors of the offender, including a physical description;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>the offender's residence; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>any other information required by the rules and regulations adopted by the Commissioner under this subtitle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Signature and date.</heading>
+          <text>The registration must be signed and dated by the offender and the Commissioner or the Commissioner's designee.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Photograph.</heading>
+          <text>At the time that the offender appears at the office to register, the Commissioner may photograph the offender.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Documentation required.</heading>
+          <text>The Commissioner may require the offender to provide documentation that verifies the contents of the registration.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="|19|61" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-6">
+      <section>
+        <prefix>§</prefix>
+        <num>61-6</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Scope.</heading>
+          <text>This section applies only to offenders who are residents of Baltimore City.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Periodic verification.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Except as provided in paragraph (2) of this subsection, every 6 months and 20 days following the initial registration, an offender must personally appear at the designated office to verify and update the information on the registration.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If an offender is confined to any correctional facility, hospital, or similar institution throughout the final 20 days of the period described in paragraph (1) of this subsection, within 48 hours of release from the facility, hospital, or similar institution, the offender must personally appear at the designated office to verify and update the information on the registration.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Updating registered residence.</heading>
+          <text>An offender must personally appear at the designated office to update the offender's residence address and other contents of the registration:</text>
+          <para>
+            <num>(1)</num>
+            <text>within 10 calendar days of establishing a residence in Baltimore City;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>within 10 calendar days after moving from 1 residence in Baltimore City to another residence in Baltimore City; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>before moving from a residence in Baltimore City and assuming a new residence outside of Baltimore City.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Photograph permitted.</heading>
+          <text>At the time the offender appears at the designated office to verify the registration information, the Commissioner may photograph the offender.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Documentation required.</heading>
+          <text>The Commissioner may require the offender to provide documentation that verifies the contents of the registration.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="|19|61" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-7">
+      <section>
+        <prefix>§</prefix>
+        <num>61-7</num>
+        <heading>Term of verification requirement.</heading>
+        <text>The offender must verify the contents of the registration required by this subtitle for a period of 3 years from the date of the offender's initial registration.</text>
+      </section>
+    </codify:insert>
+    <codify:insert path="|19|61" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-8">
+      <section>
+        <prefix>§</prefix>
+        <num>61-8</num>
+        <heading>Prohibited conduct.</heading>
+        <text>No offender may:</text>
+        <para>
+          <num>(1)</num>
+          <text>knowingly fail to acknowledge in writing the offender's duty to register under this subtitle;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>fail to register as required by this subtitle or the rules and regulations adopted under it;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>fail to verify information as required by this subtitle or the rules and regulations adopted under it; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>provide false information in the registration or verification required by this subtitle or the rules and regulations adopted under it.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="|19|61" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-9">
+      <section>
+        <prefix>§</prefix>
+        <num>61-9</num>
+        <heading>Penalties.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Any offender who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, for each offense, is subject to a fine of not more than $500.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Each day a separate offense.</heading>
+          <text>Each day that a violation continues is a separate offense.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:replace path="19|61 to 70" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§62to70">
+      <section name="62to70">
+        <prefix>Subtitles</prefix>
+        <num>62 to 70</num>
+        <reason>Reserved</reason>
+      </section>
+    </codify:replace>
+  </section>
+</document>

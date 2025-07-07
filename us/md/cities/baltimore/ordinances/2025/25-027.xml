@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-027" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-027</num>
+  <num type="bill">25-0005</num>
+  <heading type="short">Arson Offender Registry - Registration Requirement</heading>
+  <heading type="long">An Ordinance Concerning Arson Offender Registry - Registration Requirement</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-01-13</introduced>
+    <effective>2025-06-24</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-027.pdf">Ord. 25-027</citation>
+    </citations>
+    <history>
+      <vote date="2025-01-13" reading="first"/>
+      <vote date="2025-05-12" reading="second"/>
+      <enacted>2025-06-24</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="19|§61-3|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="19|§61-3|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>Registration required.</heading>
+        <text>An arson or malicious burning offender must register with the Commissioner.</text>
+      </para>
+    </codify:replace>
+  </section>
+</document>
