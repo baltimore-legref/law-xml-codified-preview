@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 21-038">
+  <num type="law">21-038</num>
+  <num type="bill">21-0001</num>
+  <heading type="short">Surveillance Technology in Baltimore</heading>
+  <heading type="long">An Ordinance Concerning Surveillance Technology in Baltimore</heading>
+  <meta>
+    <stub/>
+    <introduced>2021-01-11</introduced>
+    <effective>2021-09-08</effective>
+    <citations>
+      <citation type="ord" url="./enacted/21-038.pdf">Ord. 21-038</citation>
+    </citations>
+    <history>
+      <vote date="2021-01-11" reading="first"/>
+      <vote date="2021-06-08" reading="second"/>
+      <enacted>2021-08-09</enacted>
+      <committee>Favorable with amendments</committee>
+    </history>
+  </meta>
+</document>
