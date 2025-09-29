@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-037" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-037</num>
+  <num type="bill">25-0044</num>
+  <heading type="short">Employees' Retirement System - Board of Trustees - Membership and Qualifications</heading>
+  <heading type="long">An Ordinance Concerning Employees' Retirement System - Board of Trustees - Membership and Qualifications</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-03-24</introduced>
+    <effective>2025-08-05</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-037.pdf">Ord. 25-037</citation>
+    </citations>
+    <history>
+      <vote date="2025-03-24" reading="first"/>
+      <vote date="2025-06-16" reading="second"/>
+      <enacted>2025-08-05</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="22|§5|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="22|§5|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Members.</heading>
+        <text>The Board shall consist of 10 trustees as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>The City Comptroller.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the Director of Finance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the Chief Executive Officer (CEO) of the Baltimore City Public School System, or the Chief Financial Officer of the Baltimore City Public School System, if designated by the CEO.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <para>
+            <num>(i)</num>
+            <text>2 members of this System to be elected by the membership of this System under rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-037">City General Provisions Article</cite>, the Board of Trustees adopts to govern the election. These members shall serve for terms of 4 years each, staggered as provided for the trustees first elected under this paragraph (2). These members shall possess experience in relevant institutional investment management or a related field.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A member elected to serve as trustee under this paragraph (4), who retires during his or her term of office after having served more than 2 years in office and who begins receiving a retirement benefit, will continue to serve for the balance of his or her term of office.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <para>
+            <num>(i)</num>
+            <text>2 residents of the City of Baltimore, to be appointed by the Mayor, subject to confirmation by the City Council, as provided in <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>, each to serve for terms of 4 years concurrent with the Mayor's term of office.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>1 of these trustees shall possess commercial banking experience or similar financial experience.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>As of his or her appointment and during his or her entire term of office, a trustee appointed under this paragraph (5) may not be an employee.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <para>
+            <num>(i)</num>
+            <text>2 residents of the City of Baltimore or a surrounding county, to be appointed by the Mayor, subject to confirmation by the City Council, as  provided for in <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>, from recommendations made by the President of the City Council, to serve for a term of 4 years concurrent with the Mayor's term of office.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>As of his or her appointment and during his or her entire term of office, a trustee appointed under this paragraph (6) may not be an employee.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A trustee appointed under this paragraph (6) shall possess at least 5 years of institutional investment, insurance, taxation, accounting, or finance experience.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>1 retiree of this System to be elected by the retirees under rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-037">City General Provisions Article</cite>, the Board of Trustees adopts to govern the election. This member shall serve for a term of 4 years, staggered as provided for the trustee first elected under this paragraph (7). These members shall possess experience in relevant institutional investment management or a related field.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Notwithstanding <cite doc="City of Baltimore, Md., Charter" path="IV|§8">City Charter Article IV, § 8</cite>, which ordinarily requires minority party representation, the election or appointment of Trustees under this subsection shall be made without regard to political affiliation, including those Trustees holding their positions ex officio.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <para>
+            <num>(i)</num>
+            <text>The Board of Trustees is an "agency" and a "board" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law (City Code <cite path="|8" doc="City of Balt., Md., Ord. 25-037">Article 8</cite>).  Each Trustee is a "public servant" and an "official" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.  And each employee of the Board is a "public servant" and an "employee" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>In addition to the standards and requirements contained in the Baltimore City Public Ethics Law, Trustees and Board employees may not engage in any of the following activities or hold any of the following interests, as these activities or interests are defined in the Baltimore City Public Ethics Law.</text>
+            <para>
+              <num>1.</num>
+              <text>No Trustee or Board employee may do business with any system, plan, or trust administered by any of the following (collectively, the "City Benefit Plans"):</text>
+              <para>
+                <num>A.</num>
+                <text>the Board of Trustees of the Employees' Retirement System of the City of Baltimore;</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>the Board of Trustees of the Fire and Police Employees' Retirement System of the City of Baltimore;</text>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>the Board of Trustees of the Elected Officials' Retirement System of the City of Baltimore;</text>
+              </para>
+              <para>
+                <num>D.</num>
+                <text>the Board of Trustees of the Retirement Savings Plan of the City of Baltimore; and</text>
+              </para>
+              <para>
+                <num>E.</num>
+                <text>the Committee of the City of Baltimore Deferred Compensation Plan.</text>
+              </para>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>No Trustee or Board employee may be employed by or have a financial interest in any person or entity doing business or seeking to do business with any City Benefit Plan.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <heading>Trustees and Board employees; Gifts.</heading>
+              <para>
+                <num>A.</num>
+                <text>Notwithstanding City Code <cite path="|8|§6-28|(3)" doc="City of Balt., Md., Ord. 25-037">Article 8 {"Ethics"}, § 6-28(3) {"Gifts: Qualified exemptions; travel, etc., expenses"}</cite>, no Trustee or Board employee may accept any gift or any payment, free admission, or expense reimbursement for attendance at a conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, if the gift or the payment, free admission, or reimbursement is, directly or indirectly, from:</text>
+                <para>
+                  <num>i.</num>
+                  <text>any person or entity engaged in an activity or providing a product or service that the Trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the Trustee reasonably would expect to be marketed to a City Benefit Plan; or</text>
+                </para>
+                <para>
+                  <num>ii.</num>
+                  <text>any trade, professional, or other association that has members engaged in an activity or providing a product or service that the Trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the Trustee reasonably would expect to be marketed to a City Benefit Plan.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Subparagraph 3.A does not preclude application of the qualified exemptions contained in City Code <cite path="|8|§6-28|(1)" doc="City of Balt., Md., Ord. 25-037">Article 8, § 6-28(1) {"food or beverages .. consumed ... in ... presence of ... donor"}</cite>, § 6-28(2) {"gift ... [of] insignificant value"}, § 6-28(5) {"gift ... [exempted by] Ethics Board"}, or § 6-28(6) {"gift from a spouse, parent, child, or sibling"}, subject to the qualifications of § 6-29 {"Exemption limitations"}.</text>
+              </para>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>No funds of this System or of any system, plan, or trust administered by the Board of Trustees may be used to pay for the attendance of a Trustee or Board employee at any conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, unless that attendance has first been approved by the Board of Estimates in accordance with the Administrative Manual of Baltimore City, AM-240-3 {"Board of Estimates Approval"}.</text>
+            </para>
+            <para>
+              <num>5.</num>
+              <text>No Trustee or Board employee may engage in any activity that requires registration as a lobbyist with the City Ethics Board.</text>
+            </para>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The City Ethics Board shall administer and enforce this paragraph (5) in accordance with the administrative and enforcement provisions of the Baltimore City Public Ethics Law.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+</document>

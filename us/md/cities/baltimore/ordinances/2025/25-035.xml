@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-035" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-035</num>
+  <num type="bill">25-0042</num>
+  <heading type="short">Retirement Savings Plan B Clarifying Amendment</heading>
+  <heading type="long">An Ordinance Concerning Retirement Savings Plan B Clarifying Amendment</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-03-24</introduced>
+    <effective>2025-08-05</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-035.pdf">Ord. 25-035</citation>
+    </citations>
+    <history>
+      <vote date="2025-03-24" reading="first"/>
+      <vote date="2025-06-16" reading="second"/>
+      <enacted>2025-08-05</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="22A|§4-1" codified:doc="City of Baltimore, Md., Code" codified:path="22A|§4-1">
+      <section>
+        <prefix>§</prefix>
+        <num>4-1</num>
+        <heading>"Service" defined.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Except as otherwise provided in this section, "service" means the sum of each period of a member's employment with a participating employer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Exclusions.</heading>
+          <text>Except as provided in subsection (c) of this section, "service" does not include any period of employment:</text>
+          <para>
+            <num>(1)</num>
+            <text>that has been credited as service under any other City retirement plan for calculating the amount of a retirement benefit or a deferred vested retirement benefit; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>during which the member was not receiving earnable compensation for any portion of a pay period from the participating employer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Exceptions.</heading>
+          <text>The exclusions of subsection (b) of this section do not apply to any period of employment credited to a hybrid member for service as a Class D member of the Employees' Retirement System.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Transfers of service.</heading>
+          <text>If a member transfers service to any other City retirement plan, that transferred service may not be counted to determine whether the member is vested in his or her employer contribution sub-account.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

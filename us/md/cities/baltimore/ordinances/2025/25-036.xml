@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-036" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-036</num>
+  <num type="bill">25-0043</num>
+  <heading type="short">Employees' Retirement System - Class C and Class D - Filing Period - Amendment</heading>
+  <heading type="long">An Ordinance Concerning Employees' Retirement System - Class C and Class D - Filing Period - Amendment</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-03-24</introduced>
+    <effective>2025-08-05</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-036.pdf">Ord. 25-036</citation>
+    </citations>
+    <history>
+      <vote date="2025-03-24" reading="first"/>
+      <vote date="2025-07-21" reading="second"/>
+      <enacted>2025-08-05</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="22|§9|(d-2)|(2)" codified:doc="City of Baltimore, Md., Code" codified:path="22|§9|(d-2)|(2)">
+      <para>
+        <num>(2)</num>
+        <heading>Application and filing period.</heading>
+        <text>A Class C member in service may retire under subsection (e), (f), or (l) of this section if:</text>
+        <para>
+          <num>(i)</num>
+          <text>the member files the appropriate application with the Board of Trustees, in the form and containing the information that the Board requires;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>the member specifies on the form the date on which the member desires his or her benefits to commence;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>the date so specified is not less than 60 days nor more than 90 days after the date of filing the application; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>as of the date so specified, the member will have complied with the applicable conditions of the retirement benefit applied for.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="22|§9.2|(f)" codified:doc="City of Baltimore, Md., Code" codified:path="22|§9.2|(f)">
+      <para>
+        <num>(f)</num>
+        <heading>Service retirement benefits – Application and filing period.</heading>
+        <text>A Class D member in service may retire under subsection (g) of this section if:</text>
+        <para>
+          <num>(1)</num>
+          <text>the member files the appropriate application with the Board of Trustees, in the form and containing the information that the Board requires;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the member specifies on the form the date on which the member desires his or her benefits to commence;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the date so specified is not less than 60 days nor more than 90 days after the date of filing the application; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>as of the date so specified, the member will have complied with the applicable conditions of the retirement benefit applied for.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+</document>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-043" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-043</num>
+  <num type="bill">25-0054</num>
+  <heading type="short">Zoning - W-2 Overlay District - Amendment</heading>
+  <heading type="long">An Ordinance Concerning Zoning - W-2 Overlay District - Amendment</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-04-07</introduced>
+    <effective>2025-09-15</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-043.pdf">Ord. 25-043</citation>
+    </citations>
+    <history>
+      <vote date="2025-04-07" reading="first"/>
+      <vote date="2025-07-21" reading="second"/>
+      <enacted>2025-09-15</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="32|§12-904|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-904|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>W-2 Overlay Subdistrict.</heading>
+        <para>
+          <num>(1)</num>
+          <text>View corridors must:</text>
+          <para>
+            <num>(i)</num>
+            <text>connect existing parks, open-space areas, and new development centers to the waterfront;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>be located no more than 300 feet apart from one another and be at least 15 feet wide; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>be located no more than 600 feet apart from one another and be at least 60 feet wide.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Landscaping, exterior lighting, or other public amenities may be located within the view corridor to maximize public view of the water.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Parking is permitted within a view corridor, as long as public access areas are maintained and not encroached upon.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+</document>
