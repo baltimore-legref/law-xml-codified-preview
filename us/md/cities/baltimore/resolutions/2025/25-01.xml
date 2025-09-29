@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Res. 25-01" codify:doc="City of Baltimore, Md., Charter">
+  <num type="law">25-01</num>
+  <num type="bill">23-0380</num>
+  <heading type="short">Operating Budget for the Baltimore City Board of School Commissioners for the Fiscal Year Ending June 30, 2026</heading>
+  <heading type="long">A Resolution of the Mayor and City Council Concerning Operating Budget for the Baltimore City Board of School Commissioners for the Fiscal Year Ending June 30, 2026</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-05-15</introduced>
+    <effective>2025-07-01</effective>
+    <citations>
+      <citation type="res" url="./adopted/25-01.pdf">Res. 25-01</citation>
+    </citations>
+    <history>
+      <vote date="2025-05-15" reading="first"/>
+      <vote date="2025-06-16" reading="second"/>
+      <adopted>2025-06-23</adopted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+</document>
