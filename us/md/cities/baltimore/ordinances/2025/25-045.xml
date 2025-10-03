@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-045" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-045</num>
+  <num type="bill">25-0003</num>
+  <heading type="short">Historic Preservation - Conservation Districts - Establishment</heading>
+  <heading type="long">An Ordinance Concerning Historic Preservation - Conservation Districts - Establishment</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-01-13</introduced>
+    <effective>2026-09-15</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-045.pdf">Ord. 25-045</citation>
+    </citations>
+    <history>
+      <vote date="2025-01-13" reading="first"/>
+      <vote date="2025-05-12" reading="second"/>
+      <enacted>2025-09-15</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="6|§1-1" codified:doc="City of Baltimore, Md., Code" codified:path="6|§1-1">
+      <section>
+        <prefix>§</prefix>
+        <num>1-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Authorization to Proceed.</heading>
+          <text>"Authorization to Proceed" means approval from the Commission for Historical and Architectural Preservation that:</text>
+          <para>
+            <num>(1)</num>
+            <text>permits an applicant to complete alterations to a historic structure, as proposed in the application;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>is issued by the Director or the Director=s designee following the Commission=s approval;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>includes a description of the proposed work; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>may be approved by the Commission or issued by the Director with conditions.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Building Official.</heading>
+          <text>"Building Official" has the meaning stated in § 103.1 of the Baltimore City <cite doc="City of Baltimore, Md., Code" path="|building-codes|II">Building Code</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Commission; CHAP.</heading>
+          <text>"Commission" or "CHAP" means the Commission for Historical and Architectural Preservation established under <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Conservation District.</heading>
+          <text>"Conservation District" or "Historical Conservation District" means an area designated as a Conservation District under <cite doc="City of Baltimore, Md., Code" path="|6|3">subtitle 3 {"Designation of Preservation Districts and Conservation Districts"}</cite> of <cite doc="City of Baltimore, Md., Code" path="|6">this Article</cite>.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Demolition.</heading>
+          <text>"Demolition" includes "demolition by neglect", which means neglect in the maintenance or repair of a structure, resulting in any of the following conditions:</text>
+          <para>
+            <num>(1)</num>
+            <text>the deterioration of any architectural feature so as to create or permit the creation of a hazardous or unsafe condition;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the deterioration of walls or other vertical supports;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the deterioration of roofs or other horizontal members;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the deterioration of chimneys;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>the deterioration or crumbling of plaster or mortar; or</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>the ineffective waterproofing of walls, roofs, and foundations, including broken windows and doors.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>District.</heading>
+          <text>"District" means a Historical and Architectural Preservation District or a Historical Conservation District.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Executive Director; Director.</heading>
+          <text>"Executive Director" or "Director" means the Executive Director of the Commission for Historical and Architectural Preservation or the Director's designee.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Historical and Architectural Preservation District; Preservation District.</heading>
+          <text>"Historical and Architectural Preservation District" or "Preservation District" means an area designated as a Historical and Architectural Preservation District under <cite doc="City of Baltimore, Md., Code" path="|6|3">Subtitle 3 {"Designation of Historical Districts and Historical Conservation Districts"}</cite>, of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Landmark.</heading>
+          <text>"Landmark" means a property listed on a Landmark List.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Landmark List.</heading>
+          <text>"Landmark List" means either or both of the following, as established and maintained under Subtitle 4 {"Designation of Landmarks"}, of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>:</text>
+          <para>
+            <num>(1)</num>
+            <text>the Landmark List: Exteriors; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the Landmark List: Public Interiors.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Person.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Person" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Qualified inclusion of governmental entities.</heading>
+            <text>Notwithstanding <cite doc="City of Baltimore, Md., Code" path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article</cite>, in <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite> "person" also includes, except as used in <cite doc="City of Baltimore, Md., Code" path="|6|§9-4" proof="needed">§ 9-4 {"Criminal penalties"} of this article</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Potential Landmark.</heading>
+          <text>"Potential Landmark" means a property listed on a Potential-Landmark List.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Potential-Landmark List.</heading>
+          <text>"Potential-Landmark List" means either or both of the following, as established and maintained under Subtitle 5 {"Designation of Potential Landmarks"}, of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>:</text>
+          <para>
+            <num>(1)</num>
+            <text>the Potential-Landmark List: Exteriors; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the Potential-Landmark List: Public Interiors.</text>
+          </para>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Public interior.</heading>
+          <text>"Public interior" means any part of a structure's interior that is determined by the Commission to be:</text>
+          <para>
+            <num>(1)</num>
+            <text>customarily open or accessible to the public; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>of historical or architectural significance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Regulated alteration.</heading>
+          <text>"Regulated alteration" means any addition, alteration or other action described in § 8-2(a) {"Building permit required: Exterior structures"} or § 8-2(b) {"Building permit required: Public interiors"}, as the case may be, of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>Structure.</heading>
+          <text>"Structure" means any creation of humans or nature.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="6|§2-9|(a)|(2)|(ii)|(A)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§2-9|(a)|(2)|(ii)|(A)">
+      <para>
+        <num>(A)</num>
+        <text>preservation and conservation districts, as designated under Subtitle 3 {"Designation of Preservation Districts and Conservation Districts"} of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>; and</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="6|§2-10|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§2-10|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>Scope of program.</heading>
+        <text>Subject to appropriations by the Ordinance of Estimates, the Commission for Historical and Architectural Preservation may contract with the owner or lessee of a structure that is located within a Historical and Architectural Preservation District or a Historical Conservation District or included on the Landmark List to reimburse that owner or lessee of up to 20% of the cost incurred by her or him in the reconstruction, alteration, removal, repair, or painting of an architectural feature in a manner that furthers the purposes of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="6|3|heading" codified:doc="City of Baltimore, Md., Code" codified:path="6|3">
+      <heading>Designation of Preservation Districts and Conservation Districts</heading>
+    </codify:replace>
+    <codify:replace path="6|§3-1" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-1">
+      <section>
+        <prefix>§</prefix>
+        <num>3-1</num>
+        <heading>Ordinance and findings required.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Ordinance required.</heading>
+          <text>An ordinance of the Mayor and City Council is required to:</text>
+          <para>
+            <num>(1)</num>
+            <text>designate any area as a Historical and Architectural Preservation District;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>designate any area as a Historical Conservation District;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>modify the boundary lines of an existing Historical and Architectural Preservation District; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>modify the boundary lines of an existing Historical Conservation District.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Findings of fact.</heading>
+          <text>The ordinance must be supported by written findings of fact that the proposed Preservation District or Conservation District and its boundaries will comply with:</text>
+          <para>
+            <num>(1)</num>
+            <text>the requirements for Local Government Certification under the National Historic Preservation Act (16 U.S.C., Chapter 1A, Subchapter II);</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the Secretary of the Interior's Standards for Identification and Registration; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the Commission's own Historic Preservation Procedures and Guidelines.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="6|§3-2" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-2">
+      <section>
+        <prefix>§</prefix>
+        <num>3-2</num>
+        <heading>Initial study and proposal by CHAP.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>After undertaking a full and proper study, the Commission for Historical and Architectural Preservation may propose as a Historical and Architectural Preservation District or as a Historical Conservation District any area in Baltimore City within which are located structures that have historical or architectural value, the preservation of which is considered to be for the educational, cultural, economic, and general welfare of the public.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Historical Conservation District</heading>
+          <text>For a Historical Conservation District, the study shall include consideration of those alterations in which CHAP has design review authority pursuant to City Code <cite doc="City of Baltimore, Md., Code" path="|6|8">Article 6, Subtitle 8 {"Alterations, etc., to or Affecting Properties"}</cite>.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="6|§3-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-5|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>Required referrals.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The provisions of this subsection apply to an ordinance proposing any of the following:</text>
+          <para>
+            <num>(i)</num>
+            <text>designating a Historical and Architectural Preservation District or Historical Conservation District;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>modifying the boundaries of an existing Historical and Architectural Preservation District or Historical Conservation District.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An ordinance proposing one of the actions listed in paragraph (1) of this subsection shall be referred by the City Council to the following for a written report and recommendation:</text>
+          <para>
+            <num>(i)</num>
+            <text>the Commission for Historical and Architectural Preservation;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the Planning Commission; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any other agency that the Council President designates.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="6|§3-7" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-7">
+      <section>
+        <prefix>§</prefix>
+        <num>3-7</num>
+        <heading>Council action – Disposition.</heading>
+        <text>Subject to the requirements of <cite doc="City of Baltimore, Md., Code" path="|6|§3-8">§ 3-8 {"Council action – Amendments"}</cite> and <cite doc="City of Baltimore, Md., Code" path="|6|§3-9">§ 3-9 {"Council action – Limitations"} of this subtitle</cite>, the City Council may:</text>
+        <para>
+          <num>(1)</num>
+          <text>adopt, reject, or modify an ordinance proposed to designate:</text>
+          <para>
+            <num>(i)</num>
+            <text>a Historical and Architectural Preservation District; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a Historical Conservation District; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>as necessary or appropriate from time to time, adopt an ordinance to modify the boundary lines of an existing District.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="6|§3-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-8|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>Scope of section.</heading>
+        <text>This section applies to any bill that:</text>
+        <para>
+          <num>(1)</num>
+          <text>proposes to designate a new Preservation District or Conservation District or modify the boundaries of an existing Preservation District or Conservation District; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>that has a proposed amendment to add to or remove from a new or existing District any property that was not within the perimeter of the area described in the notice given under <cite doc="City of Baltimore, Md., Code" path="|6|§3-6">§ 3-6 {"Council action - Public notice and hearing"} of this subtitle</cite>.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="6|§3-9|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-9|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>Scope of section.</heading>
+        <text>This section applies to any of the following actions by the City Council:</text>
+        <para>
+          <num>(1)</num>
+          <text>any modification to the boundary lines set forth in an ordinance proposed by the Commission under <cite doc="City of Baltimore, Md., Code" path="|6|§3-3">§ 3-3 {"CHAP to prepare proposed ordinance and findings"} of this subtitle</cite>; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>unless by and in accordance with an ordinance initiated at the request of the Commission under this subtitle:</text>
+          <para>
+            <num>(i)</num>
+            <text>any initial designation of an area as:</text>
+            <para>
+              <num>(i)</num>
+              <text>a Historical and Architectural Preservation District; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a Historical Conservation District; or</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>any modification to the boundary lines of an existing:</text>
+            <para>
+              <num>(i)</num>
+              <text>Historical and Architectural Preservation District; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Historical Conservation District.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="6|§5-3" codified:doc="City of Baltimore, Md., Code" codified:path="6|§5-3">
+      <section>
+        <prefix>§</prefix>
+        <num>5-3</num>
+        <heading>Criteria for designation.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Potential-Landmark List: Exteriors.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Potential-Landmark List: Exteriors comprises those structures that, in accordance with the Commission's Historic Preservation Procedures and Guidelines, the Commission considers to be of such historical or architectural significance that, even if not located within a Historical and Architectural Preservation District or a Historical Conservation District, those structures and their exteriors (with or without, as the case may be, their appurtenant land and other property) should be extended temporary protection under <cite doc="City of Baltimore, Md., Code" path="|6|§5-5">§ 5-5 {"Protections pending decision"} of this subtitle</cite> and under <cite doc="City of Baltimore, Md., Code" path="|6|8">Subtitle 8 {"Alterations, etc, to or Affecting Properties"}</cite> of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The boundaries of a structure on the Potential-Landmark List: Exteriors are as indicated by the Commission, as follows:</text>
+            <para>
+              <num>(i)</num>
+              <text>by street address, which indicates that all appurtenant land or other property at that street address and on the same lot is included in and protected by the Potential-Landmark designation;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>by Section, Block, and Lot Number, which indicates that all land or other property on that lot is included in the Potential-Landmark designation; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>by a metes and bounds description or other clear delineation, which indicates that less than all land or other property at a street address or on a lot is included in the Potential-Landmark designation.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Potential-Landmark List: Public Interiors.</heading>
+          <text>The Potential-Landmark List: Public Interiors comprises those structures with public interiors that, in accordance with the Commission's Historic Preservation Procedures and Guidelines, the Commission considers to be of such historical or architectural significance that, whether or not within a Historical and Architectural Preservation District or a Historical Conservation District, those public interiors should be extended temporary protection under <cite doc="City of Baltimore, Md., Code" path="|6|§5-5">§ 5-5 {"Protections pending decision"} of this subtitle</cite> and under <cite doc="City of Baltimore, Md., Code" path="|6|8">Subtitle 8 {"Alterations, etc, to or Affecting Properties"}</cite> of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="6|§6-1" codified:doc="City of Baltimore, Md., Code" codified:path="6|§6-1">
+      <section>
+        <prefix>§</prefix>
+        <num>6-1</num>
+        <heading>CHAP to maintain Inventory.</heading>
+        <text>The Commission's Executive Director shall create and maintain an Inventory of Historic Places, to identify areas or structures that, while not designated as Preservation Districts, Conservation Districts, Landmarks, or Potential Landmarks, are nonetheless historically or architecturally noteworthy.</text>
+      </section>
+    </codify:replace>
+    <codify:replace path="6|§6-3|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§6-3|(b)">
+      <para>
+        <num>(b)</num>
+        <heading>No determination of eligibility for designation.</heading>
+        <text>Inclusion of an area or structure in the Inventory is not a determination of eligibility for designation as a Preservation District, Conservation District, Landmark, or Potential Landmark.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="6|§8-2|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-2|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>Exterior structures.</heading>
+        <text>No person may undertake, cause, or allow any of the following regulated alterations for or with respect to any structure located within a Historical and Architectural Preservation District or a Historical Conservation District or included on the Landmark List: Exteriors or the Potential-Landmark List: Exteriors without first obtaining a permit to do so from the Building Official:</text>
+        <para>
+          <num>(1)</num>
+          <text>any reconstruction, alteration, or removal of any exterior architectural feature;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>any change in an exterior color, whether by painting or other means;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>any exterior excavation;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the construction or erection of any exterior building, fence, wall, or other structure of any kind; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>any exterior demolition.</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="6|§8-4|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-4|(c)">
+      <para>
+        <num>(c)</num>
+        <heading>CHAP approval prerequisite for permit.</heading>
+        <text>The Building Official may not issue a permit for any regulated alteration unless:</text>
+        <para>
+          <num>(1)</num>
+          <text>for a Historical Preservation District, the Director first issues an Authorization to Proceed; or </text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>for a Historical Conservation District:</text>
+          <para>
+            <num>(i)</num>
+            <text>The Director first issues an Authorization to Proceed; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>CHAP makes the determination that the proposed exterior alteration does not require an Authorization to Proceed and notifies the applicant and building official of CHAP's determination.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="6|§8-9" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-9">
+      <section>
+        <prefix>§</prefix>
+        <num>8-9</num>
+        <heading>Denial of Authorization to Proceed – Districts and Landmarks.</heading>
+        <text>In the case of a structure located within a Preservation District or a Historical Conservation District or included on the Landmark List, if the Commission determines that an Authorization to Proceed should not be issued, the Commission shall promptly notify the applicant and the Building Official in writing of:</text>
+        <para>
+          <num>(1)</num>
+          <text>the reason for that determination; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>any recommendations that the Commission might have about the proposed alteration.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="6|§8-15|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-15|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>No change in design, etc.</heading>
+        <text>Nothing in <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite> prevents the ordinary maintenance or repair of an architectural feature within any Preservation District or any Conservation District or on any Landmark or Potential Landmark, if the maintenance or repair involves no change in design, material, color, or appearance of the structure.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="6|§9-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§9-1|(a)">
+      <para>
+        <num>(a)</num>
+        <heading>Judicial review.</heading>
+        <text>Within 30 days after CHAP has approved, disapproved, or delayed an application presented at a CHAP public hearing, a person aggrieved by any decision of the Commission under <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite> may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="28|§10-8|(a)|(4)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-8|(a)|(4)">
+      <para>
+        <num>(4)</num>
+        <heading>Historic property.</heading>
+        <text>"Historic property" means a property:</text>
+        <para>
+          <num>(i)</num>
+          <text>individually listed on the National Register of Historic Places;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>individually listed on the City Landmark List;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>located within a National Register Historic or Landmark District and certified by CHAP as contributing to the historic significance of that district;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>located within a City Historical and Architectural Preservation District or within a Historical Conservation District and certified by CHAP as contributing to the historic significance of that district; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>included within the boundaries of a certified heritage area.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+</document>
