@@ -1,0 +1,781 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>04</num>
+  <heading>CURBSIDE COMMERCIAL PERMITS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter establishes:</text>
+    <para>
+      <num>A.</num>
+      <text>A framework for the temporary private use of public space in order to promote an active, accessible, safe, and vibrant urban environment;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Restrictions on the location, construction, and use of a curbside facility;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Insurance requirements for curbside facility permit holders;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The application process for a curbside facility permit, including obtaining a minor privilege to construct the curbside facility;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Responsibilities for permit holders;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Enforcement of the Curbside Permit Guidelines; and</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Rules regarding revocation of a minor privilege.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"ADA" means the federal Americans with Disabilities Act.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Applicant" means the individual or entity pursuing a permit under this policy.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"BCDOT" means the Baltimore City Department of Transportation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Curbside Facility" means the commercial spaces permitted and regulated by this policy.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Dimension" means measurable width, length, depth, and height of a curbside facility using feet and inches.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Floodplain" means the same as City Code Article 7, § 1-2(w).</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Floodplain district" means the same as City Code Article 7, § 1-2(x).</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Forbidden road space" means portions of the public right-of-way including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Crosswalks,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pedestrian ramps,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Bike lanes,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Transit lanes or facilities,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Driving lanes,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Intersection space,</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>No-parking zones,</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Commercial truck bays,</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Handicapped parking spots,</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Fire lanes,</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Garages or driveways, and</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Restricted parking zones that BCDOT will not consider for a curbside facility.</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Indoor area" means the interior space of a structure with a ceiling and sides enclosed by:</text>
+        <para>
+          <num>(a)</num>
+          <text>A combination of permanent or temporary walls, windows, or doorways, whether open or closed, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Other physical barriers extending from floor to the ceiling.</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Local design standards" means neighborhood-specific aesthetic rules issued by Baltimore City.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Membrane structure" means an element erected utilizing fabrics, foils, and other textiles with the support of tension cables.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Minor privilege fee schedule" means a list of fees for minor privileges that is approved by the Board of Estimates and posted for public view on the BCDOT website.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Minor privilege permit" means an approval of a temporary minor privilege" as defined by Baltimore City Charter, Article VIII, § 9.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Modular" means a method of design and build with standardized units allowing for a streamlined process in the construction or dismantling of a curbside facility.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Parking lane" means a space abutting the curb that is</text>
+        <para>
+          <num>(a)</num>
+          <text>Designated for on-street public vehicle storage, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Contiguous to the property to which the curbside facility permit is issued.</text>
+        </para>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Partner agency" means the following Baltimore City agencies and entities:</text>
+        <para>
+          <num>(a)</num>
+          <text>Fire Department,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Police Department,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Health Department,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Parking Authority of Baltimore City,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Planning Department,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Department of Housing and Community Development,</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Baltimore Development Corporation,</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Liquor Board, and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Environmental Control Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"Permanently attached" means a curbside facility which is nailed or bolted to the rightof-way or an existing building.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>"Permit holder" means a person or entity who has been issued a permit to operate a curbside facility.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>"Protective vertical element" means a barrier designed to deflect a vehicular impact while protecting facility occupants, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Water-filled Jersey barriers;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Weighed barrels;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Concrete barriers; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Other portable barriers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>"Stop work order" means a formal demand issued by the City requiring the permit holder to remove their facility from the right-of-way.</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>"Temporary" means something that lasts for period of time and is not permanent.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Restrictions.</heading>
+    <para>
+      <num>A.</num>
+      <text>A Minor Privilege Permit for a curbside facility shall be restricted to a parking lane.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>BCDOT may consider installations within the following restricted parking zones:</text>
+      <para>
+        <num>(1)</num>
+        <text>Loading zones,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Metered parking,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Valet zones, and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Street sweeping corridors.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A curbside facility may not be permanently attached to sidewalks, roads or buildings, and doing so may result in automatic permit revocation.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A curbside facility may not use:</text>
+      <para>
+        <num>(1)</num>
+        <text>Amplified music,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Live entertainment, or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Open flames.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Applicant Responsibilities.</heading>
+    <para>
+      <num>A.</num>
+      <text>An applicant shall obtain all permits relevant to their curbside facility including:</text>
+      <para>
+        <num>(1)</num>
+        <text>A minor privilege permit,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Other permits as required by law.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An applicant shall obtain commercial general liability insurance which:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provides coverage of one million dollars per occurrence,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provides a minimum total aggregate of two million dollars, and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Designates the Mayor &amp; City Council of Baltimore as an additional named insured.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An applicant shall obtain the following insurance policies to cover a curbside facility:</text>
+      <para>
+        <num>(1)</num>
+        <text>Commercial general liability,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Umbrella insurance,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Worker's compensation, and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Liquor liability if applicable.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Design Standards.</heading>
+    <para>
+      <num>A.</num>
+      <text>A permit holder shall adhere to the following fire safety guidelines:</text>
+      <para>
+        <num>(1)</num>
+        <text>A curbside facility built primarily out of untreated wood or other flammable material shall be built a minimum distance of ten feet from a building; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A curbside facility built primarily out of fire-resistant material such as treated wood shall be built a minimum distance of five feet from a building.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>BCDOT may not approve a curbside facility that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Functions as an indoor area;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is within 15 feet of a fire hydrant;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is within 15 feet of a pull-in bus stop;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Is within 15 feet of dumpster;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Is on a street with a running slope of five percent or more;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Is on a street with a posted speed limit above 30 miles per hour;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Is located in or interferes with the functions of forbidden road space;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Intrudes on the sidewalk;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Is not ADA compliant;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Is more than one level;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Obstructs visibility of a traffic control sign or street sign;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Blocks stormwater drainage; or</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Permanently restricts access to utilities.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A curbside facility shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Fit within the width of the parking lane;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Use a protective railing or barrier which does not obstruct visibility above three feet, as determined by BCDOT;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide for a minimum seven feet of clearance between the ground plane and overhead elements;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Have an entrance which:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is accessible via the abutting sidewalk,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is at least 48 inches wide,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is flush with the curb, and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Meets ADA compliance standards;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Feature protective vertical elements within the parking lane which separate the curbside facility from forbidden road space;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Be free of any tripping or slipping hazards; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Incorporate lighting and reflective elements.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A permit holder may incorporate the following weather mitigating elements:</text>
+      <para>
+        <num>(1)</num>
+        <text>Canopies;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Umbrellas;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Transparent igloos or bubbles; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Other protective elements approved by BCDOT.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>An elevated curbside facility built flush with the curb shall be designed to support a minimum of 100 pounds per square foot.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A curbside facility may be constructed using modular design practices.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>A curbside facility shall adhere to local design standards and adherence shall be reviewed on an annual basis.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>A curbside facility located within a floodplain district may be required to implement additional safety measures.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Application Process.</heading>
+    <para>
+      <num>A.</num>
+      <text>An applicant is required to submit a site plan during the application submission process.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A site plan shall be drawn to scale, clearly labeled and include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Dimensions,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Property limits,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Existing objects,</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Location of a heating device to be used in the curbside facility, if applicable,</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Site features including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Posted speed limit,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Grade of the roadway,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pavement type,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Parking restrictions, and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Access to utilities.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A permit application shall be reviewed by BCDOT within 60 days.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>BCDOT shall submit the application to partner agencies for review and comment during the 60-day review period.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Following the review period, BCDOT may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Approve the permit application,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Request that the applicant revise the application, or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Reject the application.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Upon BCDOT approval, the applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Send a copy of the application via certified mail return receipt requested to abutting property owners to notify them of the proposed curbside facility; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide the return receipt to BCDOT as proof of notification.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>BCDOT shall submit the application to the Board of Estimates for final review and approval of the minor privilege permit application.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>An applicant shall pay a minor privilege fee assessed by the Board of Estimates upon the issuance of a minor privilege permit.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Payment of the minor privilege fee shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>By check or money order in the required amount, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Payable to the Director of Finance.</text>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>The minor privilege fee is calculated by the method in the curbside commercial section of the minor privilege fee schedule approved by the Board of Estimates.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>A final site plan and payment shall be submitted to BCDOT Special Events section by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Mail addressed to BCDOT Special Events at the Harry S. Cummings Building at 401 East Fayette Street, Baltimore, MD 21202; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In person at the lobby of the Harry S. Cummings Building on 401 East Fayette Street, Baltimore, MD 21202.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Permit Holder Responsibilities.</heading>
+    <para>
+      <num>A.</num>
+      <text>A permit holder is responsible for the following maintenance tasks required to keep the curbside facility safe for consumption of food and beverage:</text>
+      <para>
+        <num>(1)</num>
+        <text>Cleaning the curbside facility daily, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Removing all trash and food waste, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Implementing non-toxic preventative pest control measures;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Securing tables and chairs so that they may not be used outside business hours; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Repairing any structural failures or defects immediately upon discovery.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A permit holder may not serve patrons in a curbside facility with known structural or sanitation deficiencies.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A permit holder who desires to make a structural alteration to an existing curbside facility shall</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit a new application for the alteration, including a site plan, and,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be subject to review by BCDOT and its partner agencies.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Enforcement of Regulation Guidelines.</heading>
+    <para>
+      <num>A.</num>
+      <text>A curbside facility is a temporary installation and BCDOT may require removal of the curbside facility:</text>
+      <para>
+        <num>(1)</num>
+        <text>On a permanent basis if site conditions no longer permit the curbside facility to operate safely, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>On a temporary basis if removal of the curbside facility is necessary for reasons including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Maintenance or repairs within the public right-of-way,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Extreme weather event preparation,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Flooding, and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Other emergencies.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A permit holder who fails to remove a curbside facility upon request may be liable for costs incurred by BCDOT in removing the curbside facility.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A permit holder shall be subject to random inspections by BCDOT and partner agencies.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>BCDOT and partner agencies may enforce these regulations by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Investigating complaints,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Issuing warnings,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Issuing stop work orders,</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Confirming the validity of permits, and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Recommending the revocation of permits.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The City and its agencies shall not be liable for costs associated with the removal, restoration, or replacement of a curbside facility.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Revocation of Minor Privilege.</heading>
+    <para>
+      <num>A.</num>
+      <text>The City may revoke or refuse to renew a minor privilege.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>BCDOT may issue a stop work order for a curbside facility that is noncompliant with the rules in the curbside commercial regulations.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A permit holder whose curbside facility is noncompliant with these regulations may have their minor privilege permit revoked without a hearing.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Charter Art. 8, §§ 1 and 2</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>

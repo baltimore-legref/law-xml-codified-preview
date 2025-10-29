@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Subtitle</prefix>
+  <num>07</num>
+  <heading>CONSERVATION PROJECT PROPOSALS ON PARK LAND</heading>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <attachment name="conservation-project-proposals-on-park-land" url="/us/md/cities/baltimore/cobra/attachments/22.07-Conservation_Project_Proposals_on_Park_Land.pdf">
+      <heading>Conservation Project Proposals on Park Land</heading>
+    </attachment>
+  </attachments>
+</container>

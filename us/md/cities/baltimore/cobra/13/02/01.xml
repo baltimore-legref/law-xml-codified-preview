@@ -1,0 +1,780 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>LEAD HAZARD ABATEMENT</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter establishes:</text>
+    <para>
+      <num>A.</num>
+      <text>Rules governing an environmental investigation following a determination of an elevated blood lead level in a child or pregnant woman;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Methods and standards for determining a lead hazard exists;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Procedures for violation notices;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Requirements for abatement of a lead hazard;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Processes for requesting the use of an alternative abatement method;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Methods for abatement of a lead hazard existing in soil;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Rules regarding the presence of persons and animals during the abatement process;</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Rules regarding inspection by the Baltimore City Health Department during abatement and disposal of abatement waste;</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Rules regarding the issuance of a stop-work order;</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Rules regarding a clearance inspection and the issuance of a statement of completion of the lead hazard abatement;</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Rules regarding a request for an extension of time to complete a lead hazard abatement; and</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Appeal procedures.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Accessible surface" means a surface that a child can mouth or chew.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Commissioner" means the Commissioner of the Baltimore City Health Department or the Commissioner's designee.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Department" means the Baltimore City Health Department.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Deteriorated surface" means an interior or exterior surface with the presence of chipping, peeling, or flaking paint.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Elevated blood lead level (EBL)" has the meaning stated in MD Environment Art. §6-801(f).</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Encapsulant coating" means a liquid that forms a covering over lead-based paint.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Enclose" means the installation of a solid, durable material that is approved by the Department over a lead hazard.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Environmental investigation" has the meaning stated in COMAR 26.16.8.03(B)(12).</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Friction surface" has the meaning stated in COMAR 26.16.08.03(B)(15).</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Ground cover" means a substance used to cover bare soil, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Grass;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Mulch;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Plants; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Cement.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Impact surface" has the meaning stated in COMAR 26.16.08.03(B)(17).</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Lead dust clearance test" means a test conducted in accordance with this chapter intended to confirm that concentration of lead dust is within the limit prescribed by applicable law.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Lead free" has the meaning stated in MD Environment Art. §6-801(l).</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Lead hazard" has the meaning stated in COMAR 26.16.08.03(B)(19).</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Lead-safe housing" has the meaning stated in MD Environment Art. §6-801(m).</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Multi-family dwelling" means a building or part of a building that contains more than two dwelling units.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Occupant" means an individual:</text>
+        <para>
+          <num>(a)</num>
+          <text>Living or sleeping in a building; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>That has possession of a space within a building.</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Operator" means a person who has charge, care, or control of all or a portion of a property.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Owner" has the meaning stated in MD Environment Art., §6-801(o).</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Primary residence" means a residential property where a child or pregnant woman with an elevated blood lead level resides.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Reference level" has the meaning stated in MD Environment Art., § 6-801(q).</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"Relocation expenses" means the cost of moving a tenant to lead-safe housing, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Transportation expenses;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Rent or per diem cost of temporary lead-safe housing;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Meal expenses, if the temporary lead-safe housing does not contain meal preparation facilities; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Cost of moving, hauling, or storing furniture and other personal belongings.</text>
+        </para>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>"Retaliation" means to take an adverse action against an individual, including the initiation of eviction proceedings or alteration of the terms of an individual's tenancy, in response to a notice or order issued by the Commissioner pursuant to this chapter.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>"Secondary property" means a structure occupied for 10 or more hours a week by a child or pregnant woman that is the subject of an elevated blood level report in the 12 months preceding an elevated blood level report to the Department.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>"Secondary source" means a lead exposure risk that is not derived from a painted surface or structural component of a property, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Water;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Toys, jewelry, or ceramic food ware;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Cosmetics;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Traditional medicine or herbal remedies;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Food;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Art supplies;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Antique furniture or furnishings;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Candles or incense;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Burned material; or</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>A source of lead identified by the XRF analyzer or lab analysis.</text>
+        </para>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>"Tenant" means a person who has the lawful right of possession of all or part of a property.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>"Violation notice" means a document issued by the Commissioner that contains:</text>
+        <para>
+          <num>(a)</num>
+          <text>A statement noting the presence of a lead hazard; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The information required by these regulations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>"Window well" means the space that provides exterior access or light to a window that is below ground level.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>"XRF analyzer" means a portable instrument that determines lead concentration using the principles of x-ray fluorescence.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Environmental Investigations.</heading>
+    <para>
+      <num>A.</num>
+      <text>When the Maryland Department of the Environment identifies a child or pregnant woman with an elevated blood lead level, the Commissioner shall request the Department to conduct an environmental investigation of:</text>
+      <para>
+        <num>(1)</num>
+        <text>The child or pregnant woman's current residence; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A secondary property as defined by this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If the current residence or secondary property is part of a multi-family dwelling, the Department's inspection for lead hazards may include:</text>
+      <para>
+        <num>(1)</num>
+        <text>All units; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Common areas.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Determination of Lead Hazard.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall base their determination that a lead hazard exists on one or more of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Readings of an XRF analyzer which indicate a lead content greater than 0.7 mg/cm<sup>2</sup> on a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Friction surface;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Impact surface;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Accessible surface; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Deteriorated surface;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Analysis of paint samples which indicate more than 0.5 percent lead by weight on a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Friction surface;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Impact surface;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Accessible surface; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Deteriorated surface;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Analysis of dust which indicates lead levels that exceed the threshold provided by applicable law; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Analysis of a secondary source which indicates lead levels that exceed the threshold provided by applicable law.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department shall ensure most restrictive applicable law is applied to govern the threshold in §04(A)(3) and §04(A)(4) of this regulation as prescribed by the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maryland Department of the Environment;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>U.S. Environmental Protection Agency; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>U.S. Department of Housing and Urban Development.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Issuance of Violation Notice.</heading>
+    <para>
+      <num>A.</num>
+      <text>If a lead hazard is found, the Commissioner shall issue a violation notice to the owner or operator of the property.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commissioner shall ensure the violation notice:</text>
+      <para>
+        <num>(1)</num>
+        <text>Identifies the lead hazard; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Orders the recipient to abate the violation within 30 days of the issuance of the violation notice, unless otherwise provided by the Commissioner.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The owner or operator shall ensure abatement is completed within the time prescribed by the Commissioner.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Retaliation</heading>
+    <text>A person may not retaliate against a tenant in response to a notice or order issued by the Commissioner.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Abatement Standards.</heading>
+    <para>
+      <num>A.</num>
+      <text>The owner shall ensure a condition of the property which may cause a deteriorated surface is corrected prior to abatement, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Water damage; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A structural defect such as a hole in a wall or ceiling.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Except as otherwise provided by the Commissioner, a person performing abatement shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Do so in accordance with:</text>
+        <para>
+          <num>(a)</num>
+          <text>COMAR 26.16.01; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>COMAR 26.16.02;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Begin interior work in the area farthest from the entrance to the property; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Fully remove or enclose the lead hazard without the use of encapsulant coating.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Alternative Abatement Procedure.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commissioner may approve an alternative procedure to abate a lead hazard.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To obtain consideration of an alternative abatement procedure, the owner shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit a written description of the alternative procedure to the Commissioner via email or first class mail to the email or physical address included in the violation notice that conforms to requirements of applicable law;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Demonstrate that compliance with the requirements in regulation .07 of this chapter is impracticable; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Document that the alternative procedure provides equivalent or better abatement of a lead hazard.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Soil Abatement Procedure.</heading>
+    <para>
+      <num>A.</num>
+      <text>An owner shall ensure soil containing a lead hazard is abated by enclosing the soil with:</text>
+      <para>
+        <num>(1)</num>
+        <text>Cement;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Grass; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Sod.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person performing abatement of soil using an alternative method shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Remove 6 inches of topsoil from the contaminated area;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Place water–permeable textile fabric over the exposed subsurface; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Cover with 8 inches of lead-free soil and ground cover.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Presence of a Person or Animal During Abatement.</heading>
+    <para>
+      <num>A.</num>
+      <text>An owner or operator shall inform an occupant or tenant of health hazards to a person or animal associated with lead abatement.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If the property is a rental dwelling, an owner or operator shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Immediately secure a temporary lead-safe or lead-free residence for the tenant; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pay the tenants' reasonable relocation expenses until the Commissioner verifies that abatement is completed.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A tenant may not return to the property until abatement is completed in accordance with federal and state requirements and this regulation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Disposal of Abatement Waste.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person performing abatement work shall ensure abatement waste is:</text>
+      <para>
+        <num>(1)</num>
+        <text>Removed from the site within 24 hours of abatement completion; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Stored, transported, and disposed of in accordance with applicable law.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person may not dispose of abatement waste through regular residential or commercial trash collection.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Inspection during Abatement.</heading>
+    <text>The Department may:</text>
+    <para>
+      <num>A.</num>
+      <text>Inspect the exterior of a property where abatement is occurring at any time; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Inspect the interior of a property where abatement is occurring during regular business hours.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Stop Work Order.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commissioner may issue a stop work order if work is being performed:</text>
+      <para>
+        <num>(1)</num>
+        <text>In a dangerous manner; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>By an unaccredited contractor.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Upon issuance of the stop work order, a person performing abatement work shall cease work at the property until the Commissioner finds there is compliance with the order.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.14</num>
+    <heading>Clearance Inspection.</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon request from the owner or operator, the Department shall perform a clearance inspection to determine if abatement is complete based on:</text>
+      <para>
+        <num>(1)</num>
+        <text>Visual inspection;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A lead dust clearance test;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Documented compliance with applicable law; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Additional analysis by the Commissioner if required.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department shall ensure that a clearance inspection is performed:</text>
+      <para>
+        <num>(1)</num>
+        <text>By the Department; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>By a third party who is accredited and in good standing with the State of Maryland as defined in MD Environment Art., Title 6, Subtitle 10</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If the Department determines via visual inspection that abatement was done improperly, the Department may halt the clearance inspection pending further abatement.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If the Department approves the abatement work by visual inspection, the Department shall perform a lead dust clearance test in each room where abatement occurred.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.15</num>
+    <heading>Lead Dust Clearance Test.</heading>
+    <para>
+      <num>A.</num>
+      <text>In order to comply with the minimum requirement for a lead dust clearance test, the Department shall ensure a sample is taken from the following locations in each room:</text>
+      <para>
+        <num>(1)</num>
+        <text>Floor;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Windowsill; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Window well.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commissioner may require that additional samples be taken if a room has:</text>
+      <para>
+        <num>(1)</num>
+        <text>No windows; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>More than one window.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In addition to the requirements set forth in .14(B) of this chapter, the Department shall ensure the results of the lead dust clearance test comply with the most restrictive standard set by the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maryland Department of the Environment;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>U.S. Environmental Protection Agency; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>U.S. Department of Housing and Urban Development.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.16</num>
+    <heading>Statement of Completion.</heading>
+    <para>
+      <num>A.</num>
+      <text>If a property passes clearance inspection, the Department shall issue a statement to the owner or operator that the violation notice is abated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An owner or operator may not consider an abatement ordered by the commissioner complete until a statement of completion is issued.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Issuance of a statement of completion will not preclude the Commissioner from issuing future violation notices against the same property.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.17</num>
+    <heading>Request for Extension.</heading>
+    <para>
+      <num>A.</num>
+      <text>An owner or operator may submit a request for an extension to the Commissioner at the time of abatement.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An owner or operator shall ensure that a request for extension submitted in accordance with section §A of this regulation:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is submitted in writing;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is submitted prior to the date of abatement completion noted in the violation notice; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Demonstrates that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Compliance with the deadline is impracticable; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Delay will not cause undue harm.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commissioner may grant an extension.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An extension approved and granted by the Commissioner in accordance with §C of this regulation will not satisfy or modify an owner or operator's obligation to comply with applicable law.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.18</num>
+    <heading>Appeals.</heading>
+    <para>
+      <num>A.</num>
+      <text>Appeals pertaining to these regulations will follow procedures noted in Title 2, Subtitle 3 of the City Health Code.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department's Lead Program Director may act as the Commissioner's designee pursuant to City Health Code, § 2-303.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Charter" path="VII">Baltimore City Charter Article VII</cite>, §56 and Baltimore City Health Code, §§ 2-105 and 2-106</annotation>
+  </annotations>
+</container>

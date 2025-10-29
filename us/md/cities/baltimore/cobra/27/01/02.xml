@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>02</num>
+  <heading>ETHICS AND STANDARDS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Release of Information.</heading>
+    <para>
+      <num>A.</num>
+      <text>Solicitations, responses, and evaluations are subject to the Maryland Public Information Act ("MPIA").</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Responses to solicitations are available for public inspection as specified on the Comptroller's website after the bid has been received by the Board.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If a responder believes its response includes confidential commercial information not disclosable under the MPIA it shall</text>
+      <para>
+        <num>1.</num>
+        <text>clearly designate that information when it is submitted to the City, and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>identify any such item in their bid or proposal by marking it as "confidential".</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Information not marked "confidential" may be disclosed under the MPIA.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>

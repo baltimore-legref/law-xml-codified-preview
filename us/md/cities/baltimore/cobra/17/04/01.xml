@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>LOCAL HIRING RULES</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Adoption and Applicability.</heading>
+    <para>
+      <num>A.</num>
+      <text>These rules and regulations are promulgated by the Mayor's Office of Employment Development ("MOED") pursuant to City Code Article 5, Subtitle 27.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>These rules are</text>
+      <para>
+        <num>(1)</num>
+        <text>applicable to:</text>
+        <para>
+          <num>(a)</num>
+          <text>every contract for more than $300,000 made by the City, or on its behalf, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>every agreement authorizing assistance valued at more than $5,000,000 to a Citysubsidized project; but</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>not applicable to a contract or an agreement that is made by the City, or on its behalf</text>
+        <para>
+          <num>(a)</num>
+          <text>in the event of an emergency,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>pursuant to <cite doc="City of Baltimore, Md., Charter" path="VI">Baltimore City Charter Article VI</cite>, §11(e)(ii).</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Beneficiary" means any person who:</text>
+        <para>
+          <num>(a)</num>
+          <text>has a contract with the City for more than $300,000; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>will benefit from more than $5,000,000 in assistance for a City subsidized project.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"City-subsidized project" means any project for which the City or any of its agents or contractors provides funds, resources, or financial assistance, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>the sale or transfer of land substantially below its appraised value.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>payment in lieu of taxes,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>tax increment financing,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>grants or loans that equal or exceed 15% of total projected project costs; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>installation or repair of physical infrastructure directly related to the project and with value equal to or exceeding 5% of total projected project costs.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Good faith effort' as used in Article 5, §27-6(b)(1) means a set of activities conducted by the contractor, vendor or other person demonstrating multiple outreach efforts to City residents including:</text>
+        <para>
+          <num>(a)</num>
+          <text>ads in local papers,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>paid local job boards,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>information to local educational and workforce organizations, and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>an objective review and rating of resumes of City residents.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Local hiring law" means the provisions of Article 5, Subtitle 27 and these regulations.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"MOED" means the Mayor's Office of Employment Development.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Person" means:</text>
+        <para>
+          <num>(a)</num>
+          <text>an individual;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a partnership, firm, association, corporation, or other entity of any kind; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a receiver, trustee, guardian, personal representative, fiduciary, or representative of any kind.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Satisfactory special workforce development training or placement arrangement" as used in Article 5, §27-6(b)(3) means a written agreement</text>
+        <para>
+          <num>(a)</num>
+          <text>with MOED or a recognized workforce partner</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>for a customized training or on-the-job training opportunity leading to unsubsidized employment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Substantially below appraised value" as used in Article 5, §27-1(c)(1) means</text>
+        <para>
+          <num>(a)</num>
+          <text>the sale or transfer of land</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>applicable to property that has been approved and sold for an amount below 30% of the appraised value.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Hiring Rules.</heading>
+    <para>
+      <num>A.</num>
+      <text>The local hiring law requires compliance by</text>
+      <para>
+        <num>(1)</num>
+        <text>vendors, contractors and their subcontractors regardless of the subcontractor award amount, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>all persons benefitting from an agreement involving more than $ 5,000,000.00 in assistance for a City subsidized project.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The local hiring law applies to the original term of a contract award greater than $300,000.00, and to any contract modification including</text>
+      <para>
+        <num>(1)</num>
+        <text>an amendment,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>a renewal,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>extra work or change order, and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>a task order.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A determination of whether a City subsidized project is subject to the local hiring law shall be made when the City executes an agreement authorizing assistance valued at more than $5,000,000.00.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The local hiring law applies to on-call contracts when the cumulative task awards increase to over $300,000.00.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Upon the execution of a contract or approval of an agreement for subsidy that is subject to the local hiring law, the involved City agency shall complete a MOED vendor contact form providing contact information for</text>
+      <para>
+        <num>(1)</num>
+        <text>each vendor or contractor awarded, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>each beneficiary of a qualifying City subsidized project.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Upon receipt of the completed form from the City agency MOED will contact the vendor or beneficiary.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The section of the Board of Estimates summary form requesting local hiring law applicability shall</text>
+      <para>
+        <num>(1)</num>
+        <text>be completed for all contracts, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>include vendor contact information, if applicable.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The party awarded a contract or the beneficiary of an agreement for subsidy shall work with a representative of MOED to complete an Employment Analysis.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Employment Analysis shall begin within two weeks of</text>
+        <para>
+          <num>(a)</num>
+          <text>the contract award,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>approval of an agreement for a City subsidized project covered by the law, or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the receipt of a vendor contact form once a contract becomes subject to the local hiring law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Employment Analysis shall project total workforce and new hires in the Baltimore area needed to fulfill the contract or agreement.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Employment Analysis shall include</text>
+        <para>
+          <num>(a)</num>
+          <text>all information reasonably required by MOED</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>at a minimum general location, both in and out of the Baltimore area, of all workforce positions required to complete the contract or agreement.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Documentation shall be attached to a written waiver request of the 51 percent residency requirement of the local hiring law showing</text>
+      <para>
+        <num>(1)</num>
+        <text>a good faith effort to comply with the requirement, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>another exception provided under Article 5, § 27-6(b).</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Local Hiring Review Committee.</heading>
+    <para>
+      <num>A.</num>
+      <text>A Local Hiring Review Committee ("LHRC") shall be established.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The composition of the LHRC may include representatives or designees from:</text>
+      <para>
+        <num>(1)</num>
+        <text>Mayor's Office of Employment Development,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Baltimore City's Procurement Office, Bureau of Purchases,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Baltimore City Department of Transportation,</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Baltimore City Department of Public Works,</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Baltimore City Law Department,</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Baltimore City Department of General Services, and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>other attendees may be included at the recommendation of the committee.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The primary role of the LHRC is to</text>
+      <para>
+        <num>(1)</num>
+        <text>review the local hiring process, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>make recommendations to MOED regarding the approval or denial of waiver requests.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The LHRC shall recommend to the Board of Estimates potential penalties and debarment for noncompliance by those persons or entities subject to the local hiring law.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The LHRC shall meet as needed.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>MOED shall coordinate the materials to be presented to the LHRC and provide it with administrative staff support.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Required Reports.</heading>
+    <para>
+      <num>A.</num>
+      <text>Vendors and others subject to the local hiring law must submit monthly employment reports by the fifth business day of the month for the preceding month.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Subcontractors shall submit employment reports for the period of their activity in the contract</text>
+      <para>
+        <num>(1)</num>
+        <text>as specified by the start and end date on their signed employment analysis form, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>as confirmed by the prime contractor.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>City agency directors will be notified of persons or entities subject to the local hiring law that are not in compliance with the law's requirements.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Persons or entities subject to the law who remain noncompliant will be reported to the LHRC.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">City Code Article 5, Subtitle 27</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>

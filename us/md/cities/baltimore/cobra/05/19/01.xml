@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Authority.</heading>
+    <text>These rules and regulations are promulgated by the Department of Finance pursuant to City Code Article 28, Subtitle 32.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <text>In this chapter, the following terms have the meanings indicated.</text>
+    <para>
+      <num>1.</num>
+      <text>"Bag surcharge" means the $0.01 of the $0.05 collected by a Retailer and remitted to the City for each bag provided to customers pursuant to City Code Article 28, § 32-4.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>"Checkout bag" has the meaning stated in City Code Article 28, § 32-1.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>"Plastic checkout bag" has the meaning stated in City Code Article 7, §62-1.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>"Retailer" has the meaning stated for "Dealer" in City Code Article 7, §62-1.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Plastic Checkout Bags Prohibited.</heading>
+    <para>
+      <num>A.</num>
+      <text>Effective January 1, 2022, subject to exceptions defined in this regulation, retailers are prohibited from supplying customers with plastic checkout bags to carry or hold purchased items.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Only paper or compostable bags may be provided by a retailer to customers in the City of Baltimore.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Exceptions.</heading>
+    <text>This regulation does not apply to:</text>
+    <para>
+      <num>1.</num>
+      <text>checkout bags that meet the definition of "plastic checkout bag" in Baltimore City Code Article 7, §62-1; and</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>checkout bags provided to customers solely for the purpose of carrying purchases of:</text>
+      <para>
+        <num>(a)</num>
+        <text>fresh and derivative fish;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>meat and poultry products;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>unpackaged fruits, nuts, vegetables, confectionery, fresh cheese, and baked goods;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>ice;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>foods and goods obtained at a farmers' market;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>prescription drugs obtained from a pharmacy;</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>newspapers; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>dry-cleaned goods.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Registration.</heading>
+    <para>
+      <num>A.</num>
+      <text>To comply with the requirements of this regulation, a retailer must register online at cityservices.baltimorecity.gov/bagtax.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Only one user ID and password shall be allowed per account.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Frequently asked questions and answers are available at <u>www.baltimoresustainability.org</u>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Taxpayer Identification Number.</heading>
+    <para>
+      <num>A.</num>
+      <text>A retailer must apply to the Baltimore Finance Department for a taxpayer identification (ID) number.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The provided ID shall uniquely identify each eligible retailer location.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Chain retailers must request individual tax ID per location.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Monthly Report.</heading>
+    <para>
+      <num>A.</num>
+      <text>A retailer must provide the Baltimore City Director of Finance a monthly, detailed report of all bags provided to customers by location.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The report must be filed online at cityservices.baltimorecity.gov/bagtax.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>User Fee for Checkout Bag.</heading>
+    <text>For the use of a checkout bag, a retailer must charge a user fee of $0.05, pursuant to Baltimore City Code Article 28, Subtitle 32.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Payments.</heading>
+    <para>
+      <num>A.</num>
+      <text>A retailer must remit monthly the total amount yielded by the bag surcharge to the Baltimore City Director of Finance.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A retailer must remit the total amount yielded by the bag surcharge by location.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The bag surcharge is due on or before the 25th day of the month following the month of collection.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Payments must be made online at cityservices.baltimorecity.gov/bagtax.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Calculation of Monthly Payments and Reporting Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>If a retailer provides 300 or more checkout bags to customers, the bag surcharge is triggered.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No tax is due for any month in which fewer than 300 checkout bags are provided to customers.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A retailer shall report zero bags for any month in which the retailer provides fewer than 300 checkout bags to customers.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Notwithstanding subsection C of this section, if a retailer provides fewer than 300 checkout bags to customers in any given month, the retailer must aggregate the number of bags provided to customers over multiple consecutive months.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>When a retailer provides a total aggregate of at least 300 bags to customers pursuant to subsection D of this section, a retailer is required to file a report with the City for that month and remit the appropriate bag surcharge. F.  Partial payments will not be accepted.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>High bag sales.</text>
+      <para>
+        <num>(1)</num>
+        <text>If a retailer reports providing more than 300 bags to customers in a month, the bag surcharge would be for the total number of bags reported.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the retailer does not remit the appropriate bag surcharge, penalties will be assessed.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Receipt Itemization.</heading>
+    <text>Pursuant to Baltimore City Code Article 28, §32-4, each receipt a retailer gives a customer must itemize and show the bag surcharge, if any, on the customer's bill.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Record Keeping.</heading>
+    <para>
+      <num>A.</num>
+      <text>A retailer must keep complete and accurate records of all transactions involving exempt and non-exempt checkout bags.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A retailer must provide documentation that supports the retailer's general accounting system.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The retailer's records must be available for inspection and audit by the City during all business hours.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Penalties.</heading>
+    <text>A retailer who fails to comply with the provisions of the City Code Article 28, Subtitle 32 and this regulation will be penalized in accordance with City Code Article 28, § 32-6.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.14</num>
+    <heading>State Sales and Use Tax.</heading>
+    <text>The $0.01 bag surcharge collected by a retailer and remitted to the City for each bag provided to customers pursuant to City Code Article 28, § 32-4 cannot be included in the calculation of the Maryland Sales and Use Tax pursuant to the <cite doc="Md. Code" path="gtg|11102">Tax-General Article, § 11102, Annotated Code of Maryland</cite>.</text>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">City Code Article 28, Subtitle 32</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-10-01">Effective Date: October 1, 2021</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>

@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>05</num>
+  <heading>PARKING – PERSONS WITH DISABILITIES AND HELPERS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter establishes rules and regulations that govern reserved parking for persons with disabilities and their helpers, including:</text>
+    <para>
+      <num>A.</num>
+      <text>The application process for a reserved parking space; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The renewal process for a reserved parking space.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>Applicant.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Applicant" means a person applying for a disabled parking space.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Applicant" includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>A person with disabilities; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A helper.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Department" means the Baltimore City Department of Transportation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Director" means the Director of the Baltimore City Department of Transportation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Disability space" means a reserved parking space for a person with disabilities.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Helper" means a person who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Renders assistance to a person with disabilities; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Resides with the person with disabilities for whom a disability space is assigned.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"PABC" means the Parking Authority of Baltimore City.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Person with disabilities" means an individual that meets the criteria of City Code Article 31, §9-1(a)(1-3).</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Renewal application" means the form that is provided for a space-holder to complete annually to maintain a disability space.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Space-holder" means a person that has received a disability space through an approved application.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Initial Application Process.</heading>
+    <para>
+      <num>A.</num>
+      <text>An applicant applying for a disability space for the first time shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Complete an application in the form that the Director requires; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Acquire the application form by:</text>
+        <para>
+          <num>(a)</num>
+          <text>Obtaining a copy from the PABC office; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Downloading a copy from the PABC website.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An applicant shall ensure a submitted application contains:</text>
+      <para>
+        <num>(1)</num>
+        <text>The required medical documentation; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The noted requirements as specified in the application.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Renewal Applications.</heading>
+    <para>
+      <num>A.</num>
+      <text>To maintain an assigned disability space, a space-holder shall complete a renewal application  in accordance with these regulations.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Distribution of Renewal Application.</text>
+      <text>The PABC shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Ensure a renewal application is issued to a space-holder each year following the initial date that the disability space was awarded; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Issue the renewal application to the address listed in the space-holder's initial application.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A space-holder shall return a renewal application to the PABC within 90 calendar days of receipt.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Article 31, Subtitle 9, Baltimore City Code</annotation>
+  </annotations>
+</container>

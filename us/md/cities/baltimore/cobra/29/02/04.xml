@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>04</num>
+  <heading>AREA 18 – MIDDLE/EAST/SOUTH</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Restatement and Amendment of Area 18 – Middle/East/South.</heading>
+    <text>The PABC restates and amends RPP Area 18 – Middle/East/South on the following block faces or portions of block faces:</text>
+    <para>
+      <num>A.</num>
+      <text>400 block of North Castle Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>500 block of North Castle Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>600 block of North Castle Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>400 block of North Chapel Street (both sides);</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>400 block of North Chester Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>500 block of North Chester Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>200 North Chester Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>400 block of North Collington Avenue (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>500 block of North Collington Avenue (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>700 block of North Collington Avenue (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>800 block of North Collington Avenue (odd side, odd side posted);</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>1900 block of North Jefferson Street (odd side, odd side posted);</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>2000 block of Jefferson Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>2100 block of Jefferson Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>2200 block of Jefferson Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>2000 block of McElderry Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>2200 block of McElderry Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>R.</num>
+      <text>1900 block of Orleans Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>S.</num>
+      <text>2000 block of Orleans Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>T.</num>
+      <text>2100 block of Orleans Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>U.</num>
+      <text>500 block of North Patterson Park (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>V.</num>
+      <text>400 block of North Washington Street (both sides, both sides posted);</text>
+    </para>
+    <para>
+      <num>W.</num>
+      <text>500 block of North Washington Street (odd side, odd side posted);</text>
+    </para>
+    <para>
+      <num>X.</num>
+      <text>400 block of North Wolfe Street (odd side, odd side posted);</text>
+    </para>
+    <para>
+      <num>Y.</num>
+      <text>600 North Chester Street (no sign posted); and</text>
+    </para>
+    <para>
+      <num>Z.</num>
+      <text>2000 block of E. Fayette Street (even side, even side posted).</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Parking restrictions in Area 18 – Middle/East/South</heading>
+    <para>
+      <num>A.</num>
+      <text>The PABC shall post and enforce the following parking restrictions:</text>
+      <include>
+        <text>"Two-hour parking limit, Monday through Friday, from 7:00 a.m. to 7:00 p.m."</text>
+      </include>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Area 18 permit holders will not be subject to the restrictions in A. of this Regulation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Special Permit Eligibility.</heading>
+    <text>The PABC may not issue special permits in Area 18.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Permit Limits for Residents.</heading>
+    <text>A dwelling unit in Area 18 may apply for:</text>
+    <para>
+      <num>A.</num>
+      <text>Up to four vehicle permits; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>One visitor permit.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations/>
+</container>

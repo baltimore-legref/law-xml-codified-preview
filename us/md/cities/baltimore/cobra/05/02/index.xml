@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Subtitle</prefix>
+  <num>02</num>
+  <heading>PROPERTY TAX CREDIT REGULATIONS</heading>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <attachment name="911-specialists" url="/us/md/cities/baltimore/cobra/attachments/05.02-911_Specialists.pdf">
+      <heading>911 Specialists</heading>
+    </attachment>
+    <attachment name="brownfields" url="/us/md/cities/baltimore/cobra/attachments/05.02-Brownfields.pdf">
+      <heading>Brownfields</heading>
+    </attachment>
+    <attachment name="fallen-heroes" url="/us/md/cities/baltimore/cobra/attachments/05.02-Fallen_Heroes.pdf">
+      <heading>Fallen Heroes</heading>
+    </attachment>
+    <attachment name="food-desert-retail-incentive" url="/us/md/cities/baltimore/cobra/attachments/05.02-Food_Desert_Retail_Incentive.pdf">
+      <heading>Food Desert Retail Incentive</heading>
+    </attachment>
+    <attachment name="hp-market-rate-rental,-citywide" url="/us/md/cities/baltimore/cobra/attachments/05.02-HP_Market_Rate_Rental,_Citywide.pdf">
+      <heading>HP Market Rate Rental, Citywide</heading>
+    </attachment>
+    <attachment name="hp-market-rate-rental,-targeted-areas" url="/us/md/cities/baltimore/cobra/attachments/05.02-HP_Market_Rate_Rental,_Targeted_Areas.pdf">
+      <heading>HP Market Rate Rental, Targeted Areas</heading>
+    </attachment>
+    <attachment name="hp-newly-constructed-dwellings" url="/us/md/cities/baltimore/cobra/attachments/05.02-HP_Newly_Constructed_Dwellings.pdf">
+      <heading>HP Newly Constructed Dwellings</heading>
+    </attachment>
+    <attachment name="historic-tax-credit" url="/us/md/cities/baltimore/cobra/attachments/05.02-Historic_Tax_Credit.pdf">
+      <heading>Historic Tax Credit</heading>
+    </attachment>
+    <attachment name="low-income-employees" url="/us/md/cities/baltimore/cobra/attachments/05.02-Low_Income_Employees.pdf">
+      <heading>Low Income Employees</heading>
+    </attachment>
+    <attachment name="public-safety-officers" url="/us/md/cities/baltimore/cobra/attachments/05.02-Public_Safety_Officers.pdf">
+      <heading>Public Safety Officers</heading>
+    </attachment>
+    <attachment name="resident-retention-(portable-homestead)" url="/us/md/cities/baltimore/cobra/attachments/05.02-Resident_Retention_(Portable_Homestead).pdf">
+      <heading>Resident Retention (Portable Homestead)</heading>
+    </attachment>
+    <attachment name="urban-agriculture" url="/us/md/cities/baltimore/cobra/attachments/05.02-Urban_Agriculture.pdf">
+      <heading>Urban Agriculture</heading>
+    </attachment>
+  </attachments>
+</container>

@@ -1,0 +1,557 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>03</num>
+  <heading>FIXED PRICING PROGRAM</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter establishes regulations governing the Fixed Pricing Program including:</text>
+    <para>
+      <num>A.</num>
+      <text>Application requirements;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Review criteria;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Approval criteria;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Applicant responsibilities; and</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Departmental responsibilities.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Exclusions.</heading>
+    <text>The Department may not list a property for sale through the Fixed Pricing Program if the property:</text>
+    <para>
+      <num>A.</num>
+      <text>Is valued over $100,000;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Is identified for site assemblage;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Is part of an existing development project; or</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Is needed to implement a Departmental whole block strategy.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Property Types.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department may sell a property through the Fixed Pricing Program if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The property is listed as available on the City's BuyIntoBmore webpage;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The property is located within a housing market typology category approved for sale in the Fixed Pricing Policy; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The property will be redeveloped for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Residential use;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Residential mixed-use; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Green space.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Homeowner Side Yard.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may sell a property through the Fixed Pricing Program for use as a side yard if:</text>
+        <para>
+          <num>(a)</num>
+          <text>The property is a vacant lot;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The property is:</text>
+          <para>
+            <num>(i)</num>
+            <text>Adjacent to an occupied lot; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Being sold as for use as a side yard to the owner of the occupied lot; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The property is located in housing market typologies A-J.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall ensure a property sold as homeowner side yard remains subject to a 3-year use restriction that prohibits new construction during that period.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Price.</heading>
+    <para>
+      <num>A.</num>
+      <text>In General.</text>
+      <text>The Department shall sell a property through the Fixed Pricing Program at the price established in the approved Fixed Pricing Policy and required by these regulations.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Fixed Price Established for Vacant Buildings.</text>
+      <para>
+        <num>(1)</num>
+        <text>A developer shall pay $3000.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A large 501(c)(3) nonprofit shall pay $3000.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A small 501(c)(3) nonprofit shall pay $1000.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A community land trust shall pay $1.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A homeowner shall pay $1.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Fixed Price Established for Vacant Lots.</text>
+      <para>
+        <num>(1)</num>
+        <text>A developer shall pay $1000.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A large 501(c)(3) nonprofit shall pay $1000.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A small 501(c)(3) nonprofit shall pay $500.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A community land trust shall pay $1.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A homeowner shall pay $1.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If a property is assessed for less than the fixed price established in this regulation, then the Department shall sell the property at the value assessed.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Applicant Specific Requirements – Developers and Nonprofits.</heading>
+    <para>
+      <num>A.</num>
+      <text>The following applicant types will be subject to this regulation:</text>
+      <para>
+        <num>(1)</num>
+        <text>A developer; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A 501(c)(3) nonprofit, including a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Small 501(c)(3) nonprofit; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Large 501(c)(3) nonprofit.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An applicant type provided for in §A of this regulation shall ensure:</text>
+      <para>
+        <num>(1)</num>
+        <text>A vacant building acquired through the Fixed Pricing Program is developed for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Residential use;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Residential mixed-use; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Residential mixed-use that includes a green space; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An occupancy permit is obtained within 12 months from the date of settlement.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Applicant Specific Requirements – Affordable Housing Land Trusts.</heading>
+    <text>An affordable housing land trust applying to the Fixed Pricing Program shall ensure that the affordable housing land trusts are:</text>
+    <para>
+      <num>A.</num>
+      <text>Registered as an affordable housing land trust with the Maryland State Department of Assessments and Taxation; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In compliance with applicable State affordable housing land trust laws.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Applicant Specific Requirements – Homeowners.</heading>
+    <para>
+      <num>A.</num>
+      <text>Vacant Buildings.</text>
+      <para>
+        <num>(1)</num>
+        <text>A homeowner applying to purchase a vacant building through the Fixed Pricing Program shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Ensure an occupancy permit is obtained within 12 months from the date of settlement; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Maintain primary residency at the property for a minimum of 5 years from the date of issuance of the occupancy permit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a property purchased by a homeowner for primary residency is sold or leased within the 6-year period, the homeowner shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>Deemed to be a developer of the property; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Required to pay a pro-rated portion of $3,000 calculated based on the year that the property is sold.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Vacant Lots.</text>
+      <text>A homeowner applying to purchase a vacant lot through the Fixed Pricing Program shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Construct a new residential unit and satisfy the requirements in §A of this regulation; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ensure the lot is used as a side yard in accordance with §03(B)(2) of this chapter.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Property Eligibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department may consider a property eligible for the Fixed Pricing Program if the property is assessed at less than $100,000.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Properties Assessed Over $100,000</text>
+      <text>For a property assessed at over $100,000, the Department may perform an internal valuation to determine:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whether the property is eligible for the Fixed Pricing Program; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A sale price for a property through the Fixed Pricing Program.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If the valuation determined under §B(1) of this regulation finds the true value of the assessed property to be less than $100,000, the Department may consider the property eligible for sale under the Fixed Pricing Program.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If the valuation determined under §B(1) of this regulation finds the true value of the assessed property to be $100,000 or greater, the Department may not consider the property eligible under the Fixed Pricing Program.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Applicant Eligibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>In General.</text>
+      <text>To be eligible for the Fixed Pricing Program, an applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Possess financial documents indicating no less than the minimum amount required by the Department for application, per applicable property;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be in good standing with the State Department of Assessments and Taxation, if they are a business entity; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be free of:</text>
+        <para>
+          <num>(a)</num>
+          <text>An open federal lien;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An open state lien; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An applicable legal matter, in accordance with §C of this regulation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Vacant Building Notices.</text>
+      <para>
+        <num>(1)</num>
+        <text>In addition to the requirements specified in §A of this regulation, the Department shall consider whether an applicant owns a building with a vacant building notice in determining eligibility for the Fixed Pricing Program.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department may determine an applicant to be ineligible if:</text>
+        <para>
+          <num>(a)</num>
+          <text>The applicant possesses a vacant building notice older than 2 years; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The applicant possesses a vacant building notice that is less than 2 years old, but there are no open or active construction permits on the property.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Legal Matters.</text>
+      <para>
+        <num>(1)</num>
+        <text>Pending Civil Proceedings.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department shall assess whether an applicant has a pending civil proceeding during review of applicant eligibility, including a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Pending federal judgement; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Pending State judgement.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Department may reject an applicant based on a pending civil proceeding if the Department determines that the pending legal proceeding could inhibit the applicant from:</text>
+          <para>
+            <num>(i)</num>
+            <text>Adhering to the terms of a land disposition agreement; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Financing a purchase.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If an applicant rejected in accordance with §(2) of this section has a pending civil proceeding dropped or resolved in their favor, the applicant may re-apply for the Fixed Pricing Program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Criminal Cases.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department may reject an applicant based on a criminal case that could lead to imprisonment.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If an applicant rejected in accordance with §(2)(a) of this section is found not guilty, the applicant may re-apply for the Fixed Pricing Program.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Fixed Pricing Program - Applications.</heading>
+    <para>
+      <num>A.</num>
+      <text>In addition to the general application requirements for a disposition program listed in chapter 02 of this subtitle, an applicant applying for the Fixed Pricing Program shall adhere to the requirements of this regulation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An applicant applying for the Fixed Pricing Program may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Exceed 12 properties per application; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submit multiple applications under different applicant names for more than 12 properties at a time.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An applicant may apply for additional properties as use and occupancy permits on a previously purchased property are obtained in accordance with this chapter, not to exceed 12 properties at any given time.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Side Yard Application.</text>
+      <text>To apply to purchase a side yard through the Fixed Pricing Program, an applicant shall provide:</text>
+      <para>
+        <num>(1)</num>
+        <text>Documentation verifying that the applicant owns the property adjacent to the lot to be purchased for use as a side yard;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Documentation that the applicant's adjacent property has a confirmed use and occupancy permit; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Documentation of an approved Homestead Tax application through the State Department of Assessments and Taxation confirming use and primary residence of the applicant's adjacent property.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Approval.</heading>
+    <text>The Department shall approve an application to the Fixed Pricing Program in accordance with Chapter 02 of this subtitle.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Board of Estimates.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit a list of the following items through the BOE portal:</text>
+        <para>
+          <num>(a)</num>
+          <text>The address of a property awarded through the Fixed Pricing Program;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The purchase price of a property awarded through the Fixed Pricing Program;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The contact information of the prospective purchaser; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The type of purchaser; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Post the list required by §A(1) of this regulation on the Department's website the Monday prior to the next Board Meeting.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Board of Estimates shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain a recurring item on the Board meeting agenda titled "Fixed Pricing Policy Dispositions" to review the list provided by the Department in §A(1) of this regulation; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Consider a purchaser's inclusion on the agenda as an indication of the purchaser's approval of the terms of the land disposition agreement approved by the Board in accordance with chapter 02 of this subtitle.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Land Disposition Agreement – Fixed Pricing Program.</heading>
+    <text>In addition to the provisions of chapter 02 of this subtitle:</text>
+    <para>
+      <num>A.</num>
+      <text>The Department shall post an approved land disposition agreement executed for a Fixed Pricing Program disposition online for the purchaser to review.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department may not send a land disposition agreement executed for a Fixed Pricing Program disposition directly to the purchaser.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The purchaser shall be responsible for:</text>
+      <para>
+        <num>(1)</num>
+        <text>Reading the terms of a land disposition agreement executed for a Fixed Pricing Program disposition; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Signing the land disposition agreement posted online by the Department.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code, Article 13 §§ 2-7 (h), (w)</annotation>
+  </annotations>
+</container>

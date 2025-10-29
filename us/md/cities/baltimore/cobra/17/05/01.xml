@@ -1,0 +1,954 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>ADULT ENTERTAINMENT REGULATIONS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter establishes rules and regulations governing the adult entertainment industry in Baltimore City.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Adult entertainment" has the same meaning as City Code Article 15, § 1-1(b)(2), but does not include:</text>
+        <para>
+          <num>(a)</num>
+          <text>A theatre;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A concert hall;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An art center;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A museum; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>An establishment that is primarily devoted to arts or theatrical performances, when the performances presented express matters of serious literary, artistic, scientific, or political value.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Adult-entertainment business" means any cabaret, lounge, night club, modeling studio, or other establishment that offers its customers adult entertainment.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Agent" means someone authorized to speak on behalf of an owner or licensee who:</text>
+        <para>
+          <num>(a)</num>
+          <text>May receive official correspondence from and interact with the Board; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is an employee of the establishment or meets the definition of agent under Maryland Code, <cite doc="Md. Code" path="get|17-101">Estates and Trusts, § 17-101</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Applicant" means a person or persons who have applied to the Board to be approved to receive a license to operate an adult entertainment business.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Board" means the Board of Liquor License Commissioners for Baltimore City.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Dancer" means a person who appears nude or partially nude and is:</text>
+        <para>
+          <num>(a)</num>
+          <text>An employee, an independent contractor, or an invitee; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A hostess, entertainer, or bartender.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Director of Finance" means the Director of the Baltimore City Department of Finance.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Executive Secretary" means the Executive Secretary of the Board of Liquor License Commissioners for Baltimore City.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Financial interest" means ownership of a legal or equitable interest, however small, or a relationship as director, adviser, or other active participant in the affairs of the adult entertainment business.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Good moral character" means a determination made by the Board that is based on:</text>
+        <para>
+          <num>(a)</num>
+          <text>The applicant's past business practices; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A past criminal conviction of the applicant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Licensee" means the holder of an Adult Entertainment License issued under the provisions of City Code Article 15, Title 1.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Liquor License" means an alcoholic beverages license issued by the Board of Liquor License Commissioners for Baltimore City under Maryland Code, Alcoholic Beverages and Cannabis.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Liquor License Rules and Regulations" means the Liquor License Rules and</text>
+        <text>Regulations as issued by the Board of Liquor License Commissioners for Baltimore City.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Management Agreement" means an agreement made between the licensee and the person or business entity hired by the licensee to manage the operation and facility at the business premises.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Manager" means the individual who manages the day-to-day operation of the adult entertainment business but who is not listed on the adult entertainment license.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Mingle" means to interact with a patron at a distance that is closer than 6 feet.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"Nudity" means:</text>
+        <para>
+          <num>(a)</num>
+          <text>The showing of the human male or female genitals, pubic area, or buttocks with less than a fully opaque covering;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The showing of the female breast with less than a fully opaque covering over any part below the top of the nipple; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The depiction of covered male genitals in a discernibly turgid state.</text>
+        </para>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>"Operator" means a person or business entity who oversees the general operations of an adult entertainment business on behalf of the licensee.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>"Owner" is a person who has a financial interest in the adult entertainment business and who may or may not be listed on the adult entertainment license.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>"Partial nudity" means a state of dress in which opaque clothing covers no more than:</text>
+        <para>
+          <num>(a)</num>
+          <text>The human male or female genitals, pubic area, or buttocks;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The female breasts below the top of the nipples; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Portions of the body covered by supporting straps or devices.</text>
+        </para>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>"Party" means a person or entity who has an interest in the outcome of a case before the Board.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>"Patron" means a customer or client on the premises of an adult entertainment business.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>"Person" has the meaning stated in City Code <cite doc="Md. Code" path="ggp|1-107">General Provisions Article, §1-107</cite>.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>"Sodomy" means anal copulation with another person.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>"Valid written protest" means a written objection to a transfer or renewal of an adult entertainment license that is submitted:</text>
+        <para>
+          <num>(a)</num>
+          <text>By a property owner or resident within the same election precinct as the proposed premises; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>During the posting period for a license application.</text>
+        </para>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>"Vendor" means a person, business or agency that provides goods or services to the licensee.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>License Requirement.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person may not own or operate an adult entertainment business in Baltimore City without first obtaining an adult entertainment business license in accordance with City Code Article 15, Title 1.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A licensee shall display a framed copy of licensee's license in a conspicuous area that is visible to the public.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A licensee shall present the license to an authorized public official upon request.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>License Applications.</heading>
+    <para>
+      <num>A.</num>
+      <text>Applicant Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>An owner and an operator shall jointly apply to the Board for a license, and:</text>
+        <para>
+          <num>(a)</num>
+          <text>An application from a corporation shall be made by its chief executive officer;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An application from a partnership shall be made by its managing partner; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An application from a proprietorship shall be made by its owners.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board shall determine that the applicant meets the requirements in §C of this Regulation prior to issuing an adult entertainment license to an applicant.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If an applicant is disqualified by the Board, a new application will be required.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Applications Generally.</text>
+      <para>
+        <num>(1)</num>
+        <text>An applicant shall submit an application for a license transfer, change of officers, or change in resident agent on a form required by the Board.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An applicant shall access the application on the Liquor Board website under the heading entitled "Application Process".</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An applicant or a person acting under the applicant's personal supervision shall complete the application.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Board shall accept applications in both hard copy and in electronically submitted format.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Board shall accept an application that is complete and legible.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An applicant shall submit an application which meets the requirements stated in City Code Article 15, § 1-8.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Board shall post notice for 15 days on the proposed business premises that an application for an adult entertainment license has been filed.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The Board staff shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Create the notice for posting; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Affix the notice to the proposed premises.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Determination.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board shall consider in its determination of whether to grant a license whether the applicant:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is at least 18 years of age;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is of good moral character;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Has within the 3 years prior to submitting the application been convicted of or entered a plea of guilty or no contest to a felony charge involving:</text>
+          <para>
+            <num>(i)</num>
+            <text>Moral turpitude;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Controlled dangerous substances;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Prostitution;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Obscenity; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A crime that is sexual in nature.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>The Board may issue the adult entertainment business license if:</text>
+        <para>
+          <num>(a)</num>
+          <text>The applicant has met the standards listed in § C(1); and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Board receives less than 10 valid written protests to the application.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Board shall notify the applicant in writing of its decision to grant or deny</text>
+        <text>the license in accordance with City Code Article 15, §1-13.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the Board denies an adult entertainment business license, City Code Article 15, §1-16 requires that the applicant wait at least 9 months before reapplying.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>License Renewal.</text>
+      <para>
+        <num>(1)</num>
+        <text>An adult entertainment business license expires annually on June 30.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The fee for an adult entertainment annual license is $1,000, and:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is payable on or before May 31 of each year;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The initial fee for less than a full year shall be prorated quarterly;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A licensee who fails to file a renewal application before or on May 31 is subject to a $50 fine for each business day a renewal application fee is late; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A total late adult entertainment business license renewal fee may not exceed $1,500.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An applicant shall submit an application for a license renewal on the form required by the Board found on the Liquor Board website under the "Renewal" section.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Board shall accept an application that is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Complete and legible; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Completed by the applicant or under the applicant's personal supervision.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Board may approve the application upon completion of the renewal application and payment of the renewal fee except as provided in §E(2) of this regulation.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Protest and hearing.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board shall hold a public hearing on the transfer application if the Board receives 10 or more valid written protests within the 15-day posting period.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board shall hold a public hearing on the license renewal application if it receives 10 or more valid written protests between May 1 and May 31 of the license year.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Parties in interest and citizens shall be given an opportunity to be heard.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A party submitting a protest electronically shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Submit it to the email address provided at the Liquor Board website under "Hearing Schedules";</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>State clearly in the subject line that the submission is a "Protest of Application" or "Protest of Renewal"; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Include the address of the establishment that is the subject of the protest.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A party may also submit a protest via first class mail or hand delivery to the Board's office.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Standards of Operation.</heading>
+    <para>
+      <num>A.</num>
+      <text>Hours.</text>
+      <para>
+        <num>(1)</num>
+        <text>An adult entertainment venue may not conduct business between the hours of 2 a.m. and noon.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An adult entertainment business shall post its days and hours of operation on a door or window in a conspicuous area visible by the public.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Exterior Building Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee shall abide by the standards contained in City Code Art. 15, § 1-21 for maintenance of the front door and the exterior of the licensed premises.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee shall ensure that the exterior doors of the licensed premises are kept closed so that adult entertainment activities are not visible from exterior.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Sanitation, Health and Safety Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee shall operate their establishment in compliance with the sanitation, health and safety standards of:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department of Housing and Community Development;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Department of Health;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Baltimore City Police Department; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Other applicable City, state, and federal laws or regulations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Provide containers for the disposition of garbage that meet the requirements for a business in Baltimore City;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Keep garbage containers covered at all times; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Remove all trash regularly.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A licensee shall provide on the premises adequate, sanitary, and fully functioning restroom facilities for all patrons and employees.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A licensee shall post signs in conspicuous areas of a restroom or kitchen stating that employees must wash their hands after using the restroom.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A licensee may not alter the manner in which alcoholic beverages are dispensed at the premises under the terms of a liquor license issued to the licensee.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Nuisance.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee, owner, operator, or manager of an adult entertainment business shall exercise care to prevent the business or its operations from creating a public nuisance by:</text>
+        <para>
+          <num>(a)</num>
+          <text>Generating noise,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Blocking public ways, or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Engaging in an activity that would constitute a public nuisance as defined in Art. 19, § 43-1 of the City Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An adult entertainment business, its employees, managers, and agents must comply with the prohibition against "Barking" as defined in Art. 15, § 1-22 of the City Code.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A licensee that has also been issued a liquor license shall abide by all rules and regulations listed in Chapter 3 and Chapter 4 of Liquor License Rules and Regulations.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Ownership and Operation.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee shall be the actual owner of the business conducted on the licensed premises.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee shall file with the Board and retain at the licensed premises a copy of a management agreement which should include information regarding:</text>
+        <para>
+          <num>(a)</num>
+          <text>The management fees;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The terms and duration of the agreement; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A telephone number for the manager.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The licensee shall disclose to the Board in writing the identity of a person who is not the licensee but has a financial interest in the adult entertainment business.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Cooperation.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee and its employees shall cooperate with a state or local agency while conducting official business including:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Board;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Baltimore City Police Department; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Baltimore City Health Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Licensee shall provide the Board with a functional telephone number and email address.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A licensee shall provide the Board with updated contact information within 30 days of changing a phone number, email address, or fax number.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A licensee may not make a false statement:</text>
+        <para>
+          <num>(a)</num>
+          <text>In an original or renewal application for an adult entertainment business license;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In an original or renewal application for an alcoholic beverage license;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In a letter or written statement to the Board, a government agency, or their representatives;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In testimony before the Board; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>To a representative of the Board making an official investigation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Prohibited Activities.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee may not permit the premises to be used for sexual activity.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee may not permit an employee or patron to solicit a person for or engage in:</text>
+        <para>
+          <num>(a)</num>
+          <text>Prostitution;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Gambling;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Use or sale of controlled dangerous substances; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Other illegal activity as defined in Art. 19 of the City Code or an applicable state or federal law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A licensee shall ensure that a patron does not touch a dancer's:</text>
+        <para>
+          <num>(a)</num>
+          <text>Breast or chest;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Genitals or genital area; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Anus, anal area, or buttocks.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A licensee shall ensure that a dancer does not touch a patron's:</text>
+        <para>
+          <num>(a)</num>
+          <text>Breast or chest;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Genitals or genital area; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Anus, anal area, or buttocks.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A licensee shall ensure that a dancer does not touch another dancer's:</text>
+        <para>
+          <num>(a)</num>
+          <text>Breast or chest;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Genitals or genital area; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Anus, anal area, or buttocks.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A licensee shall ensure that a dancer whose breasts, genitalia or buttocks are exposed does not:</text>
+        <para>
+          <num>(a)</num>
+          <text>Perform closer than 6 feet from the nearest patron; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Mingle with a patron while not performing on the identified stage.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Age Requirement.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee shall prohibit individuals under the age of 21 from entering the licensed premises, unless the individual is:</text>
+        <para>
+          <num>(a)</num>
+          <text>An employee, agent or contractor of the establishment who is at least 18 years of age; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An active-duty member of the armed forces of the United States.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If this age requirement is changed in either State or City law, the licensee shall be required to abide by the new limit.</text>
+      </para>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>A licensee shall post the prices of all alcoholic beverages in a conspicuous area that is visible to the public.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Records.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee shall keep records containing an employee's:</text>
+        <para>
+          <num>(a)</num>
+          <text>Legal name;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Addresses;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Date of birth; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The last four digits of their Social Security number.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee shall have proof of application for:</text>
+        <para>
+          <num>(a)</num>
+          <text>A certificate issued by the Director of Finance of the City showing that there are no unpaid City or State taxes on the merchandise, fixtures, and stock of the       applicant; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A trader's license issued by the Circuit Court of Baltimore City.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A licensee shall keep the records on the licensed premises.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A licensee shall make the records available for inspection by:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Board and its employees; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Law enforcement officials.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Human Trafficking.</text>
+      <text>An adult entertainment business shall post on its premises a sign that complies with the requirements of Art. 15, Subtitle 42 of the City Code.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Denial, Suspension, Revocation.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board may deny, suspend, or revoke an adult entertainment business license or renewal for the reasons stated in Art. 15, § 1-28.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>For a violation that is cause for suspension or revocation of a license, the Board may impose a civil fine instead of or in addition the suspension or revocation in the amount of:</text>
+      <para>
+        <num>(a)</num>
+        <text>Not more than $500 for a first offense; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Not more than $1,000 for a subsequent offense.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Board may not deny, suspend, or revoke a license or renewal or impose a fine unless the Board provides notice and opportunity to be heard as stated in City Code Art. 15, § 1-31.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A person may seek judicial review of a decision by the Board by petition to the Circuit Court of Baltimore City.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Submission of Materials to the Board in Preparation for Public Hearings.</heading>
+    <para>
+      <num>A.</num>
+      <text>Evidentiary Documents.</text>
+      <para>
+        <num>(1)</num>
+        <text>A party shall submit a document, photo, video, or other evidentiary item for consideration by the Board not less than 48 hours before the public hearing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board shall consider evidence submitted to the email address provided at the Liquor Board website under "Hearing Schedules".</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Board may consider an item submitted after the deadline and will afford the item the evidentiary weight the Board determines is appropriate.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Evidence Submission Guidelines.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person shall clearly label evidence submitted to the Board with the name of licensed establishment, or proposed licensed establishment, and date of the related hearing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board may accept as a late submission one that is received less than 48 hours prior to the advertised start of the hearing docket on the day in which the case is to be heard.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Board shall make a late submission part of the case file and may deem the late submission to be a hearing exhibit.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A person may submit exhibits at the hearing in person and shall provide a minimum of five copies for the Board and its staff.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A person shall address correspondence to the Board of Liquor License Commissioners.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Board may consider correspondence submitted to the "Hearing Exhibits" email address as evidence; and it:</text>
+        <para>
+          <num>(a)</num>
+          <text>Shall become part of the public record; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May be viewed by members of the public, press, and those with business before the Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Board shall print and include in the file an image submitted through the Hearing Exhibits email.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A person who wants to submit a video to the Board shall do so in person at the hearing.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Postponement Requests.</text>
+        <para>
+          <num>(1)</num>
+          <text>A party shall request a postponement of a case to be heard before the Board:</text>
+          <para>
+            <num>(a)</num>
+            <text>In writing; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Not less than 48 hours prior to the advertised start of the hearing docket on the day in which the case is to be heard.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A party shall submit a request for postponement via email to the email address provided at the Liquor Board website under "Hearing Schedules"; and</text>
+          <para>
+            <num>(a)</num>
+            <text>Shall detail the reason for the postponement; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Clearly state the subject of the message as "Postponement Request."</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If a party fails to clearly mark the subject of the message, the Board may be unable to process the request in a timely manner.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If the Board grants a postponement request, the hearing shall be rescheduled as soon as possible.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Executive Secretary and Chairperson of the Board shall review an untimely postponement request to determine if there is good cause to allow for the postponement.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code Article 15, § 1-3</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2024-04-15">
+      <text>
+        <ul proof="needed">
+          <li>R&amp;R revised and effective 15 April 2024</li>
+        </ul>
+      </text>
+    </annotation>
+  </annotations>
+</container>

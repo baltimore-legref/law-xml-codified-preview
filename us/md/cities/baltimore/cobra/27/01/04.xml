@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>04</num>
+  <heading>FORMAL SOLICITATION</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Formal Solicitations – IFBs, Competitive Sealed Bids.</heading>
+    <para>
+      <num>A.</num>
+      <text>An IFB is a formal solicitation process</text>
+      <para>
+        <num>1.</num>
+        <text>in which competitive sealed bids are invited through a public notice procedure, and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>that results in an award to the lowest responsive and responsible bidder.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A prospective bidder who requests a change in or is uncertain as to the meaning of specifications or other contract documents shall submit</text>
+      <para>
+        <num>1.</num>
+        <text>to the person indicated in the solicitation</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>a written request for the change or interpretation.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The request shall be submitted to the procuring agency</text>
+      <para>
+        <num>1.</num>
+        <text>with supporting documents, drawings, etc.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>on or before five business days prior to the day on which the bid is due, or longer as specified by the document.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A duly issued addendum shall be used to make a substantive change or interpretation of the contract documents or specifications in the solicitation.</text>
+      <para>
+        <num>1.</num>
+        <text>A copy of the addendum will be provided or made available to each known person receiving the solicitation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Explanations, changes, or interpretations to the proposed solicitation documents prior to the award of the contract shall only be binding on the City if contained in an addendum.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The omission by the City of a specification or detail which is necessary to properly carry out the intent of the specifications shall not relieve the bidder from fulfilling those required specifications as determined by the procuring agency to provide:</text>
+      <para>
+        <num>1.</num>
+        <text>supplies,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>materials,</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>equipment,</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>services,</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>or public works.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The following procedure shall be followed for IFBs:</text>
+      <para>
+        <num>1.</num>
+        <text>a procuring agency shall issue an IFB and give public notice;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>bids are irrevocable once filed;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>except for a paper or hard copy document required by law or the terms or specifications of a solicitation, bids shall be submitted by electronic transmission;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>a bid that does not fully comply with all detailed specifications or other requests for information including execution of bid forms may be</text>
+        <para>
+          <num>(a)</num>
+          <text>declared "non-responsive" by the City, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>recommended for rejection;</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>the City shall not be responsible for any errors or omissions of the bidder;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>bidders shall submit bids by</text>
+        <para>
+          <num>(a)</num>
+          <text>the date and time indicated in the solicitation documents issued by the procuring agency, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>any other time or location determined by the Board;</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>the Board shall time stamp each bid when received and a valid time stamp for receipt of bids includes</text>
+        <para>
+          <num>(a)</num>
+          <text>the date and time generated by an automated system,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>any other type of receipt issued by the Board;</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>bids received after the deadline specified in the solicitation or by the Board shall not be accepted;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>bids are publicly opened at 12:00 p.m. on Wednesdays when a regular meeting of the Board is scheduled;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>the Board:</text>
+        <para>
+          <num>(a)</num>
+          <text>publicly opens and electronically records all timely bids,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>may read the bids aloud to the persons present,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>makes a copy of the IFB and the bids available for review by interested persons for a reasonable period of time after bids are opened and electronically recorded,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>may make a copy of an IFB and bids available by</text>
+          <para>
+            <num>(i)</num>
+            <text>providing a hard copy in the Board office, or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>posting an electronic copy on the Comptroller's website;</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>in the event of unusual circumstances, will determine the opening date, time, and location;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>shall post all bid results on the Comptroller's website by close of business on the day the bids are opened;</text>
+        </para>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>no statement or comment made while opening the bids</text>
+        <para>
+          <num>(a)</num>
+          <text>is binding on the City or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>has any effect with respect to interpretation of the solicitation documents or bids received;</text>
+        </para>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>the Board shall forward all bids received to</text>
+        <para>
+          <num>(a)</num>
+          <text>the procuring agency for evaluation, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the Law Department for review;</text>
+        </para>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>the procuring agency shall</text>
+        <para>
+          <num>(a)</num>
+          <text>evaluate the bids</text>
+          <para>
+            <num>(i)</num>
+            <text>in accordance with the method of award criteria set forth in the IFB and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>for responsiveness and responsibility, and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>forward recommendations to the Board;</text>
+        </para>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>in the case of tie bids, the using agency shall</text>
+        <para>
+          <num>(a)</num>
+          <text>provide written notice to the Department of Finance, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>make a written recommendation to the Board setting forth all pertinent considerations and reasons for its recommendation;</text>
+        </para>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>the Board, after considering the recommendation of the Department of Finance, may in its discretion award the contract as long as the total cost to the City does not exceed the amount of the tie bid;</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>if the Minority and Women's Business Opportunity Office (MWBOO) finds no bid is compliant with MBE/WBE goals, the procuring agency may</text>
+        <para>
+          <num>(a)</num>
+          <text>inform all bidders of their noncompliance and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>allow them up to ten days to come into compliance;</text>
+        </para>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>no award may be recommended to the Board unless the recommended awardee is compliant with the MBE/WBE goals;</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>the Board shall post the name of the proposed contract awardee or the proposed rejection of all bids on the Board's agenda;</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>the Board shall</text>
+        <para>
+          <num>(a)</num>
+          <text>award the contract as an entirety to the lowest responsive and responsible bidder,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>award the contract by items to the lowest responsive and responsible bidders, or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>reject all bids;</text>
+        </para>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>the decision to reject all bids is final and not subject to protest;</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>when alternative bids are invited for two or more items, after all bids are opened, the using agency shall recommend to the Board</text>
+        <para>
+          <num>(a)</num>
+          <text>selection of the particular items that will be procured, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>award of the contract to the lowest responsive and responsible bidder for that particular item in accordance with the solicitation document.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Formal Solicitations – RFPs, Competitive Sealed Proposals.</heading>
+    <para>
+      <num>A.</num>
+      <text>An RFP is a formal solicitation for competitive sealed proposals.</text>
+      <para>
+        <num>1.</num>
+        <text>Proposals are publicly opened.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If stated in the RFP, final costs and scope of work may be subject to negotiation after the proposals are received and before the contract is awarded.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>An RFP results in an award to the highest scoring responsive and responsible proposer.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The following procedure shall be followed for RFPs:</text>
+      <para>
+        <num>1.</num>
+        <text>RFPs are issued and public notice given by the procuring agency;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>technical responses to RFPs are</text>
+        <para>
+          <num>(a)</num>
+          <text>publicly opened and recorded electronically by the Board and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>forwarded to the procuring agency for review, consideration, and scoring;</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>at the request of the procuring agency, price proposals are</text>
+        <para>
+          <num>(a)</num>
+          <text>publicly opened and recorded electronically by the Board and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>forwarded to the procuring agency;</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>the Board shall forward paper or hard copy documents required by law or the terms or specifications of a solicitation to the procuring agency for processing and evaluation;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>once filed, a proposal is irrevocable;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>until a proposed award for an RFP is posted, all technical responses to RFPs may not be released to the public, except as required by Regulation .02.04;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>the procuring agency submits its recommendation for award or rejection of all proposals to the Board;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>in the case of tie bids, the procuring agency shall</text>
+        <para>
+          <num>(a)</num>
+          <text>provide written notice to the Department of Finance, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>make a written recommendation to the Board setting forth all pertinent considerations and reasons for its recommendation;</text>
+        </para>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>the Board, after considering the recommendation of the Department of Finance, may then award the contract as long as the total cost to the City does not exceed the amount of the tie bid;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>the Board shall post the name of the proposed contract awardee or the proposed rejection of all proposals on the Board's agenda;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>the Board shall</text>
+        <para>
+          <num>(a)</num>
+          <text>award the contract as an entirety to the highest scoring responsive and responsible proposer or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>reject all proposals;</text>
+        </para>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>the decision to reject all proposals is final;</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>the procuring agency may negotiate a contract with the proposed awardee if negotiation is provided for in the solicitation.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Responsiveness and Responsibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>The procuring agency shall recommend to the Board whether a responder is responsive and the Board shall make the final determination.</text>
+      <para>
+        <num>1.</num>
+        <text>In determining responsiveness, the procuring agency shall consider the responder's conformance with the terms and specifications of the solicitation, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>all required solicitation forms shall be fully and accurately completed;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>all required information shall be included;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>all signatures shall be in electronic format except as required by law;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>solicitation forms completed by a corporation or other legal entity shall be executed by a person with authority to bind the entity;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>notary certificates shall be completed in accordance with Maryland law; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>any other factors.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Board may permit a cure to any deficiency resulting from a minor irregularity in a response or may waive the deficiency.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A responder shall be responsible.</text>
+      <para>
+        <num>1.</num>
+        <text>The procuring agency shall recommend to the Board whether a responder is responsible and the Board shall make the final determination.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In determining responsibility, the procuring agency shall consider:</text>
+        <para>
+          <num>(a)</num>
+          <text>ability, capacity, organization, facilities, and skill of the responder to perform the contract;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>ability of the responder to perform the contract or provide the services within the time specified without delay, interruption or interference;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>integrity, reputation, and experience of the responder and its key personnel;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>quality of performance of previous contracts or services for the City or other entities;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>previous and existing compliance by the responder with laws and ordinances relating to the contract or services;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>sufficiency of financial resources of the responder to perform the contract or provide the services;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>whether a responder is in default of payment of any money due the City;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>debarment by the City or other entity;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>results of reference checks; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>any other factors.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Past unsatisfactory performance may be sufficient to justify a finding of nonresponsibility.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The procuring agency shall consult with the Law Department prior to issuing a</text>
+        <para>
+          <num>(a)</num>
+          <text>written notice to an affected responder or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a recommendation to the Board that a responder be found non-responsible.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A procuring agency may require a responder at any time to provide additional information relating to the determination of responsibility including</text>
+        <para>
+          <num>(a)</num>
+          <text>references and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>other documentation and information.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Failure to furnish requested information may constitute grounds for a finding of nonresponsibility of the prospective responder.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>All information received from references or other information about past performance may constitute grounds for a finding of non-responsibility.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>

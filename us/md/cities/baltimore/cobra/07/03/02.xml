@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>02</num>
+  <heading>APPLICATION PROCESSES</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter establishes regulations governing the application, review, and approval process for a disposition program.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Applications.</heading>
+    <para>
+      <num>A.</num>
+      <text>In General.</text>
+      <text>The Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Create an application document for the disposition programs described under this subtitle;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Make the application document available on the Department's website; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide technical assistance to applicants who require assistance completing the application.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Required Information.</text>
+      <text>The Department may require the following information on an application document:</text>
+      <para>
+        <num>(1)</num>
+        <text>Applicant information that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>Applicant type;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Contact information; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The applicant's current address;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Applicant history, as provided for under this title;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>OHAAT approval;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A project description;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Funding information; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Additional criteria as required by the Commissioner to complete the application.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In accordance with the guidance posted on the Department's website, an applicant for a disposition program shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit an application to the Department in the form required; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Remit an associated application fee to the Department at the time of submission.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Review Criteria.</heading>
+    <text>In addition to the general requirements of this chapter, the Department shall review an application for the Fixed Pricing Program using the criteria listed in chapter 03 of this subtitle.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Determination of Ineligibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department may determine that a property is ineligible for sale through a disposition program:</text>
+      <para>
+        <num>(1)</num>
+        <text>Prior to receiving an application for a property; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>During application review.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If the Department determines that a property is ineligible for sale during application review, the Department shall refund the associated application fee to the applicant within 15 business days.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Request for Documentation.</heading>
+    <para>
+      <num>A.</num>
+      <text>If an application does not include the items required in regulation .02 of this chapter, the Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Consider the application incomplete;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Deny the application; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Send an email to the applicant detailing the reasons for denial, including a list of documentation that may be submitted to reopen the application for review.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Documentation Request Period.</text>
+      <para>
+        <num>(1)</num>
+        <text>If an applicant wishes to re-open an incomplete application for review, the applicant shall submit requested documentation to the Department within 5 business days of receipt of the email required by §A(3) of this regulation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall acknowledge receipt of requested documentation submitted in accordance with §B(1) of this section within 5 business days of submission.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department may not review another offer until the original is rejected.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Award Letter.</heading>
+    <para>
+      <num>A.</num>
+      <text>If an application meets the criteria of the disposition program being applied for as provided under this subtitle, the Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Approve the application for progression to settlement; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except as provided in §D of this regulation, notify the applicant of approval through an electronic award letter that includes a time period for applicant response.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Upon receipt of the award letter provided for in §A(2) of this regulation, an applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Sign the award letter; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Electronically remit the signed letter to the Department within the time period specified.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Upon receipt of the signed award letter, the Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Change an applicant's designation from "applicant" to "purchaser;" and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Initiate the process of creating a land disposition agreement in accordance with regulation .07 of this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If an approved applicant does not have an email address, the Department may make an accommodation to reach the applicant via the contact information provided in the application.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Land Disposition Agreement.</heading>
+    <para>
+      <num>A.</num>
+      <text>In General.</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon receipt of a signed award letter, the Department shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Ensure the terms of a sale are subject to the land disposition agreement; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide a draft copy of a land disposition agreement to the purchaser.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon receipt of the draft land disposition agreement from the Department, the purchaser shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Review the terms of the land disposition agreement; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submit a requested modification to the Department via email, if a modification is necessary.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Signature.</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon agreement of contract terms, the Department shall submit the land disposition agreement for final signature from the required parties as described under this subtitle.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The purchaser shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Sign the land disposition agreement through the use of a RON; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Sign and return the land disposition agreement via postal mail in accordance with §B(3) of this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A purchaser submitting a signed land disposition agreement via postal mail shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Ensure the signed land disposition agreement is notarized;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Assume the cost of:</text>
+          <para>
+            <num>(i)</num>
+            <text>Notarization; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Postage;</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Address the mail to the purchaser's assigned real estate officer as specified in the award letter; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Send the signed and notarized land disposition agreement to:</text>
+          <include>
+            <text>[Name Of Assigned Real Estate Officer]</text>
+            <text>City of Baltimore, Department of Housing &amp; Community Development,</text>
+            <text>Development Division</text>
+            <text>417 E. Fayette Street.10th Floor, Benton Bldg.</text>
+            <text>Baltimore, MD 21202.</text>
+          </include>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Department may not accept a land disposition agreement that is not notarized.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Compliance.</text>
+      <text>The Department shall assign a compliance officer to ensure a purchaser remains compliant with the land disposition agreement until the Department receives a certificate of completion from the purchaser.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Submission to the Board and Settlement.</heading>
+    <para>
+      <num>A.</num>
+      <text>Board of Estimates.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department shall submit a disposition to the Board for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Review; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Approval.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board shall review the materials required by §A(1) of this regulation.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Settlement.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department shall ensure settlement occurs in accordance with the terms of the land disposition 	agreement.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The purchaser shall be responsible for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Selecting a title company; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Paying settlement expenses.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Extension Requests.</heading>
+    <para>
+      <num>A.</num>
+      <text>Exclusions.</text>
+      <text>The Department may not grant an extension to an applicant seeking to purchase green space.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A purchaser may submit an extension request to a term contained in a land disposition agreement in accordance with this regulation.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>To submit an extension request, a purchaser shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide a written copy of the extension request that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>The reason for the requested extension; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The amount of time requested for the extension; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Mail the extension request to the Department using the address noted in the land disposition 	agreement.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Department may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Grant an extension to a term contained in a land disposition agreement if the purchaser has:</text>
+        <para>
+          <num>(a)</num>
+          <text>Submitted a signed land disposition agreement in accordance with regulation .07 of this 			chapter;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submitted required application materials for the disposition program; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Submitted an extension request in accordance with §B of this regulation; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Require a purchaser to submit additional information related to the reason for a requested extension.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Acknowledge an extension request upon review via written response to the applicant; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submit the extension request to the Land Records Division of the Baltimore City Archives.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Department may not unreasonably deny an extension request.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code, Article 13 § 2-7(h), (w)</annotation>
+  </annotations>
+</container>

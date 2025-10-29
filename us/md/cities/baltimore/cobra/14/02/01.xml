@@ -1,0 +1,2920 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter establishes rules and regulations for the operation of dockless vehicles in Baltimore City.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>Adaptive Dockless Vehicle.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Adaptive dockless vehicle" means a dockless vehicle that is accessible to people with a physical disability.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Adaptive dockless vehicle" includes a motorized or non-motorized:</text>
+          <para>
+            <num>(a)</num>
+            <text>Recumbent bicycle;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Tricycle; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Hand cycle.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Alternative Deployment Location.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Alternative deployment location" means an area other than a public street.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Alternative deployment location" includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>A park;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A plaza;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A parking lot;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Private property; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A transit station.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Applicant.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Applicant" means a person applying for an initial dockless vehicle permit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Applicant" does not include a permit holder applying for the renewal of a dockless vehicle permit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Application Programming Interface endpoint (API)" means a protocol that enables a software application to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Communicate with another platform; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Exchange data.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Beta endpoint" means an API endpoint that has been officially released in a testing mode by its regulatory authority but not formally adopted.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Block face" means one side of a street between the intersection of two other streets, excluding an alleyway.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Community event" means an event held by:</text>
+        <para>
+          <num>(a)</num>
+          <text>A community organization as recognized by the City's Online Community Association Directory; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Another organization as deemed appropriate by the Director.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Compliance score" means a calculation of a permit holder's compliance with the provisions of this chapter.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"CPSC" means the U.S. Consumer Product Safety Commission.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Department" means the Baltimore City Department of Transportation.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Deployment" means the location where a dockless vehicle is placed by a permit holder when it is made available for rent.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Deployment district" means a geographic area designated in the Department's MDS Policy API for tracking the distribution of dockless vehicles.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Director" means the Director of the Department of Transportation.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Dockless corral" means a geographic location designated by the Department where a dockless vehicle may be parked.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Dockless vehicle" has the meaning stated in City Code Article 31, § 38-1(b).</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"E-bike" has the meaning stated in City Code Article 31, § 38-1(d).</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"E-scooter" has the meaning stated in City Code Article 31, § 38-1(e).</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>"Equitable access" means a process of making dockless vehicles available to the public by removing barriers to use including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Geography;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Income;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Banking status; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Inclusion in a federally protected class.</text>
+        </para>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>"Equity zone" means a geographic location where a dockless vehicle is deployed for equitable access as designated in the official document provided by the Department to a permit holder.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>"Fleet" means the total number of dockless vehicles operated by a permit holder in Baltimore City, regardless of whether they are available for rent.</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>"Genetic information" means genetic markers related to a person's medical history, including the manifestation of a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Disease; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Disorder.</text>
+        </para>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>"Geo-fencing" means a location-based service that uses GPS or cellular data to identify when a mobile device or dockless vehicle enters or exits a virtual geographic boundary.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>"GitHub" means a code hosting platform.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>"Low-income population" means a person whose family income is at or below 150 percent of the poverty line</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>"MDS" means Mobility Data Specification.</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>"MDS Policy API" means the Open Mobility Foundation standards and code available on GitHub for secure mobility data exchange.</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>"New permit holder" means a provider of dockless vehicles who has:</text>
+        <para>
+          <num>(a)</num>
+          <text>Not previously been issued a permit to operate on a public street by the Department; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Not held a permit in the previous year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>Non-deployment Request.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Non-deployment request" means a request from a member of the public to prevent the deployment of a dockless vehicle in front of their property.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Non-deployment request" includes a vehicle deployed by a dockless vehicle permit holder.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Non-deployment request" does not include a vehicle parked by a user.</text>
+        </para>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>"OMF" means Open Mobility Foundation.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>"Overconcentration" means the deployment of more than 25 percent of a permit holder's fleet in a single deployment district.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>"Payment Card Industry Data Security Standards" means the set of guidelines designed to ensure companies that process credit card information maintain a secure environment.</text>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text>"Parking corral" means an area designated by the Department where a dockless vehicle may be parked.</text>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text>"Permit" means a dockless vehicle permit as provided in City Code Article 31, § 38-8.</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>"Permit agreement" means a document that is entered into between the City and a permit holder that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Stipulates required insurance coverage for a permit holder to operate in Baltimore City;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Stipulates that the permit holder is obligated to adhere to applicable laws and regulations to operate in Baltimore City; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Outlines procedures for the cessation of operations prior to the end of a permit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(35)</num>
+        <text>"Permit holder" means a provider of dockless vehicles who has been issued a permit by the Department to operate on a public street.</text>
+      </para>
+      <para>
+        <num>(36)</num>
+        <text>"Permit year" means the period from July 1 to June 30 annually.</text>
+      </para>
+      <para>
+        <num>(37)</num>
+        <text>"Person" has the meaning stated in <cite doc="Md. Code" path="ggp|1-107">General Provisions Article § 1-107, </cite>City Code.</text>
+      </para>
+      <para>
+        <num>(38)</num>
+        <text>"Referral agency" means a government assistance program that provides services to individuals who qualify as low-income.</text>
+      </para>
+      <para>
+        <num>(39)</num>
+        <text><em>"</em>Remote shut down notice" means a written communication from the Department sent via e-mail to a permit holder instructing the permit holder to shut down the entirety or a portion of their fleet in Baltimore City.</text>
+      </para>
+      <para>
+        <num>(40)</num>
+        <text>Seizure.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Seizure" means the act of removing a dockless vehicle in violation of this chapter from:</text>
+          <para>
+            <num>(i)</num>
+            <text>City property; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>An area inaccessible to a permit holder.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Seizure" includes the act of:</text>
+          <para>
+            <num>(i)</num>
+            <text>Towing;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Impoundment; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Retrieval from a body of water.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(41)</num>
+        <text>"Speed governor" means a device that ensures the motor of a dockless vehicle is incapable of traveling at a speed in excess of a mandated speed limit on level ground.</text>
+      </para>
+      <para>
+        <num>(42)</num>
+        <text>"Street" has the meaning stated in <cite doc="Md. Code" path="ggp|1-109">General Provisions Article § 1-109, </cite>City Code.</text>
+      </para>
+      <para>
+        <num>(43)</num>
+        <text>"Third-party" means a person that is not the permit holder that may access data related to the operation of dockless vehicles.</text>
+      </para>
+      <para>
+        <num>(44)</num>
+        <text>"Third-party aggregator" means an organization that processes data from one or more sources for use by the City.</text>
+      </para>
+      <para>
+        <num>(45)</num>
+        <text>"Towing Division" means the Baltimore City Department of Transportation's Towing Division.</text>
+      </para>
+      <para>
+        <num>(46)</num>
+        <text>"Tree pit" means an area of the street where a tree is planted.</text>
+      </para>
+      <para>
+        <num>(47)</num>
+        <text>"Underserved population" means a group of people that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Has limited or no access to resources; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is otherwise disenfranchised.</text>
+        </para>
+      </para>
+      <para>
+        <num>(48)</num>
+        <text>"Vehicle model" means a vehicle of the certain type, but with different features or appearance.</text>
+      </para>
+      <para>
+        <num>(49)</num>
+        <text>"Vehicle type" means a vehicle that meets specifications in the City's vehicle code for that vehicle.</text>
+      </para>
+      <para>
+        <num>(50)</num>
+        <text>"Web Content Accessibility Guidelines (WCAG)" means guidelines published by the World Wide Web Consortium's Web Accessibility Initiative to make web content accessible.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Permits - Applications.</heading>
+    <para>
+      <num>A.</num>
+      <text>An applicant shall submit an application for a dockless vehicle permit in accordance with the information published on the Department's website regarding submission processes.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>At the time of submission, an applicant shall ensure their application contains:</text>
+      <para>
+        <num>(1)</num>
+        <text>An operations plan that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>Hours and days of operation, including relevant limitations;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Procedures for responding to extreme weather events;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Procedures for responding to special events;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Procedures for responding to complaints;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Procedures for ensuring availability of dockless vehicles in each deployment district; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Procedures and avoiding overconcentration of the applicant's fleet in a single deployment district; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A maintenance plan that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>Procedures for ensuring that the applicant's fleet is:</text>
+          <para>
+            <num>(i)</num>
+            <text>Safe for public use; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Well-maintained;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A schedule for inspection of the applicant's fleet;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A description of the training method used for the applicant's mechanics;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A description of the life expectancy for each component of a dockless vehicle; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A method of long-term monitoring to ensure the condition of vehicles in the applicant's fleet.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An applicant shall notify the Department of a change to the noted requirements in §B of this regulation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Permits - Fees.</heading>
+    <para>
+      <num>A.</num>
+      <text>A permit holder shall remit a fee for the issuance of a revocable dockless vehicle permit within 30 days of being awarded the permit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Board of Estimates shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Approve the cost of the fee, which will include the cost of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Issuing the permit;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Program administration;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Associated infrastructure;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Education;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Enforcement; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Program evaluation; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Disclose the cost of the fee to a permit applicant before the application deadline.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If a permit holder's permit is revoked, the Department may not refund a permitting fee paid by the permit holder for the current permit cycle.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Permits - Issuance.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department may issue up to three dockless vehicle permits annually through:</text>
+      <para>
+        <num>(1)</num>
+        <text>A renewal of an existing permit; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A competitive application process.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Except as provided in §C of this regulation, a permit holder shall maintain a daily fleet of two or more vehicle types.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If a permit holder administers an adaptive vehicle program, the permit holder may maintain a fleet of a single vehicle type.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If a permit holder fails to meet one or more of the standards in this chapter, the Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Review the performance of the permit holder under the permit issued; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Assess the violation for a citation in accordance with regulation .26 of this chapter.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Permits - Renewal.</heading>
+    <para>
+      <num>A.</num>
+      <text>Eligibility Requirements.</text>
+      <text>A permit holder shall be eligible to renew a permit if the permit holder:</text>
+      <para>
+        <num>(1)</num>
+        <text>Has not had a violation in the permit year prior; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is in good standing to conduct business in the State of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Renewal Process.</text>
+      <text>A permit holder may renew a permit by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Signing a renewal agreement that includes current rules and regulations; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Remitting an annual fee in accordance with regulation .04 of this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Department may renew a permit if a permit holder meets the eligibility requirements in §A of this regulation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Permits - Revocation.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department may revoke a permit in accordance with City Code Article 31, § 38-13.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Revocation Hearing Procedures.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder may request a hearing to determine whether sufficient facts exist to revoke a permit.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Designate a time and place for a revocation hearing;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide the permit holder with notice of the hearing at least ten business days before the scheduled date; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide an opportunity for the permit holder to be heard at the hearing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A permit holder may:</text>
+        <para>
+          <num>(a)</num>
+          <text>Waive the right to an in-person hearing for the revocation of a permit; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submit a written opposition to the revocation before the scheduled hearing date in accordance with §B(4) of this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A permit holder shall submit written opposition to:</text>
+        <include>
+          <text>Baltimore City Department of Transportation Transit Bureau</text>
+          <text>417 E. Fayette Street</text>
+          <text>Baltimore, Maryland 21202.</text>
+        </include>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Following the hearing or the review of a written opposition, the Department shall record its findings of fact in writing.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Director may revoke a permit if:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department finds that sufficient grounds exist to revoke a permit; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Department provides at least five days' written notice to the permit holder in advance of the revocation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A permit holder may appeal the revocation of a dockless vehicle permit to the Director.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Deployment.</heading>
+    <para>
+      <num>A.</num>
+      <text>In General.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall ensure that a dockless vehicle is deployed in compliance with City Code Article 31, § 38-19, Unlawful Parking.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder shall provide an account for its mobile application to the Department so that Department employees can access a dockless vehicle for free for the purposes of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Education;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A routine vehicle inspection; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Vehicle repositioning.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A permit holder shall apply speed geo-fencing to a dockless vehicle by using a speed governor to establish a City-wide speed limit of 15 mph except for:</text>
+        <para>
+          <num>(a)</num>
+          <text>In a reduced speed zone as defined in the Department's MDS Policy API where speeds are limited to eight mph; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In a no ride zone as defined in the Department's MDS Policy API where a dockless vehicle is limited to a speed of no more than three mph.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Deployment District Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>On each day of service, a permit holder shall deploy to each deployment district:</text>
+        <para>
+          <num>(a)</num>
+          <text>A minimum of 5 percent of their fleet; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A maximum of 25 percent of their fleet.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Compliance.</text>
+        <text>The Department shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Evaluate daily compliance with the requirements in §B(1) of this regulation based on at least one hour of compliance between 5:00 a.m. and 9:0 a.m.; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notify a permit holder in violation of the requirements in §B(1) of this regulation via a compliance score notification.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A permit holder shall redistribute their fleet within three hours of receipt of a compliance score notification from the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Equitable Deployment Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall deploy a minimum of three dockless vehicles per day to each equity zone.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Compliance.</text>
+        <text>The Department shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Evaluate daily compliance based on at least one hour of compliance between 5:00 a.m. and 9:00 a.m; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notify a permit holder of in violation of §C(1)-(2) of this regulation via a compliance score notification.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Prohibitions.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder may not deploy a dockless vehicle:</text>
+        <para>
+          <num>(a)</num>
+          <text>Outside of a parking corral on a block face that contains an official parking corral designated by the Department, except as provided in §D(2) of this regulation;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In a quantity greater than ten per block face, except as allowed by the Department to accommodate a special event;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On a block face which contains the front entrance to a K-8 school;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In a tree pit or otherwise landscaped area;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In front of a property with an approved non-deployment request in accordance with §E of this regulation; or</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In a location the Department has notified the permit holder that they may not deploy to, beginning 48 hours after the notification.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a parking corral is full, a permit holder may deploy a dockless vehicle on a block face outside of the parking corral.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Unless a permit holder receives approval from the Department, a permit holder may not designate a public street in Baltimore City as a:</text>
+        <para>
+          <num>(a)</num>
+          <text>No parking zone;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Reduced speed zone; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No ride zone.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Non-Deployment Requests.</text>
+      <para>
+        <num>(1)</num>
+        <text>A property owner or manager may submit a non-deployment request in writing to the Department for an area adjacent to their property.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall notify a permit holder:</text>
+        <para>
+          <num>(a)</num>
+          <text>Of an approved non-deployment request; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>That an approved non-deployment request will begin 48-hours after notification.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Severe Weather and Emergencies.</text>
+      <para>
+        <num>(1)</num>
+        <text>If 24-hour advanced notice is provided, the Department may:</text>
+        <para>
+          <num>(a)</num>
+          <text>Suspend the requirements of this regulation; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Require the removal of:</text>
+          <para>
+            <num>(i)</num>
+            <text>An entire fleet; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A portion of a fleet in a defined geographic location.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department may require a permit holder to remove a dockless vehicle from:</text>
+        <para>
+          <num>(a)</num>
+          <text>An evacuation route prior to an emergency snow event; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A low-lying area prior to an emergency flooding event.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Special Events.</text>
+      <text>The Department may suspend the requirements of this regulation during a special event.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Temporary Exemptions from Deployment Regulations.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder may apply for a temporary exemption from the deployment requirements in this chapter.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder shall include a plan for communicating operational changes to affected users and the public within the application for temporary exemption.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department shall review applications for temporary exemption:</text>
+        <para>
+          <num>(a)</num>
+          <text>Within 24 hours for an application based on an immediate safety concern; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Within five business days for other exemption requests.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Alternative Deployment Locations.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall obtain permission to deploy a dockless vehicle to an alternative deployment location from:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A private property owner; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Another City agency.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder shall communicate the permission to deploy a dockless vehicle in an alternative deployment location via:</text>
+        <para>
+          <num>(a)</num>
+          <text>Signage approved by the entity granting permission; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A mobile or web application.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Equitable Dockless Vehicle Access.</heading>
+    <para>
+      <num>A.</num>
+      <text>Cash Payment Plans.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Provide the option to rent a dockless vehicle using a cash payment;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Offer at least one cash payment location in each deployment district;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Identify the following on its website and mobile application:</text>
+          <para>
+            <num>(i)</num>
+            <text>The process for making a cash payment; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The locations where a cash payment option is available;</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Provide an instruction document to the Department that summarizes the process to sign up for a cash-payment plan; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Inform a user of the availability of cash payment option:</text>
+          <para>
+            <num>(i)</num>
+            <text>During initial sign-up; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Via email at least twice annually.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall post the instruction document provided for in §A(1)(d) of this regulation to the Department website.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Non-Smartphone Plans.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Offer the option to rent a dockless vehicle without the use of a smartphone;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Identify the process to rent a dockless vehicle without using a smartphone on its website and mobile application;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide an instruction document to the Department that summarizes the process to sign up for a cash-payment plan; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Inform a user of the availability of cash payment option:</text>
+          <para>
+            <num>(i)</num>
+            <text>During initial sign-up; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Via email at least twice annually.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall post the instruction document provided for in §B(1)(c) of this regulation to the Department website.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Low-Income Plans.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall offer a low-income plan to users with an income level at or below 200 percent of the federal poverty guideline.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder shall approve a low-income user by obtaining:</text>
+        <para>
+          <num>(a)</num>
+          <text>Preapproval from a referral agency; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Proof of assistance, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>Local assistance;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>State assistance; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Federal assistance.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A permit holder shall ensure a low-income plan:</text>
+        <para>
+          <num>(a)</num>
+          <text>Waives an unlock fee for at least four rides per day; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Offers a minimum 80 percent discount on rental fees for at least four rides per day.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A permit holder shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Describe the process to sign up for a low-income plan on the dockless vehicle:</text>
+          <para>
+            <num>(i)</num>
+            <text>Website; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Mobile application;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notify the Department of a change to verification methods for low-income customer plans;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide an instruction document to the Department that summarizes the process to sign up for a low-income plan;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Inform a user of the availability of cash payment option:</text>
+          <para>
+            <num>(i)</num>
+            <text>During initial sign-up; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Via email at least twice annually.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Department shall post the instruction document provided for in §C(4)(c) of this regulation to the Department website.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Customer Service Phone Lines.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall maintain a live, multilingual 24-hour customer service phone line.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a caller is required to leave a voicemail when calling the customer service phone line, a permit holder shall respond with a call back within two hours.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A permit holder shall provide a translation or call back within four hours when a message is left by a customer in:</text>
+        <para>
+          <num>(a)</num>
+          <text>Spanish;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>French;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Mandarin Chinese; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Korean.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Web Accessibility.</text>
+      <text>Within 120 days of receiving a permit, a permit holder shall ensure that its software application used for vehicle rental and website are accessible to visually impaired individuals consistent with the latest WCAG standards.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Compliance.</heading>
+    <para>
+      <num>A.</num>
+      <text>Compliance Scores – Calculation and Reporting.</text>
+      <text>The Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Calculate a compliance score to determine compliance for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Equitable distribution of a dockless vehicle fleet; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Parking of a dockless vehicle fleet; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Report compliance scores to a permit holder twice per calendar month.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Compliance Requirements – Distribution.</text>
+      <para>
+        <num>(1)</num>
+        <text>To remain compliant with the distribution requirements of this chapter, a permit holder shall ensure a minimum compliance score of 85 percent for each reporting period in:</text>
+        <para>
+          <num>(a)</num>
+          <text>A deployment district; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An equity zone.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Compliance Requirements – Fleet Parking.</text>
+      <text>To remain compliant with fleet parking requirements, a permit holder shall ensure:</text>
+      <para>
+        <num>(1)</num>
+        <text>No more than 5 percent of a dockless vehicle fleet remains parked for longer than 5 days for the period from April 1 through November 30; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No more than 10 percent of a dockless vehicle fleet remains parked for longer than 5 days for the period from December 1 through March 31.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Eligibility for Fleet Cap Increase.</text>
+      <text>To be eligible for a fleet cap increase, a permit holder shall score a minimum of 90 percent compliance for each reporting period in</text>
+      <para>
+        <num>(1)</num>
+        <text>A deployment district; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An equity zone.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Winter Weather Compliance Exemptions.</text>
+      <text>On days for which the Baltimore City Public School System implements a modified schedule due to inclement weather, the Department shall grant compliance exemptions for violations of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Distribution;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Equity; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Five-day parking.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Remote Shut Down Notice Exemptions.</text>
+      <text>When the Department has issued a remote shutdown notice to a permit holder, the Department shall grant compliance exemptions for violations of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Distribution;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Equity; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Five-day parking.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Vehicle Standards.</heading>
+    <para>
+      <num>A.</num>
+      <text>Vehicle Approval.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall ensure a dockless vehicle model intended for deployment on a public street has been approved by the Director prior to its deployment on the public street.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To deploy a new vehicle model or vehicle type, a permit holder shall submit the following to the Department at least two weeks prior to intended deployment:</text>
+        <para>
+          <num>(a)</num>
+          <text>Vehicle specifications;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A safety certificate;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A deployment plan;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A change to an operations plan, if any; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A change to a maintenance plan, if any.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A permit holder may not deploy a new vehicle model or type until receiving written approval from the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Required Features – In General.</text>
+      <text>A permit holder shall ensure a dockless vehicle deployed on a public street:</text>
+      <para>
+        <num>(1)</num>
+        <text>Weighs no more than 100 pounds;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is equipped with an operational structural feature that allows the vehicle to be stably parked upright without needing to lean on another object;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is equipped with built-in front and back lights that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Illuminate while the dockless vehicle is in use; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Are visible from a distance of at least 500 feet under normal atmospheric conditions at night;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Is equipped with a bell or noise emitting device;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Has tires with a diameter of at least nine inches;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Has tactile identification which:</text>
+        <para>
+          <num>(a)</num>
+          <text>Meets State requirements; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is located on the stem near the handlebars if handlebars are present; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Has legible decals listing:</text>
+        <para>
+          <num>(a)</num>
+          <text>The name of the permit holder displayed in a minimum of 16-point font;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The following contact information for a permit holder displayed in a minimum of 16-point font:</text>
+          <para>
+            <num>(i)</num>
+            <text>A toll-free telephone number;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>An e-mail address; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A website address; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A unique identification number displayed in:</text>
+          <para>
+            <num>(i)</num>
+            <text>A minimum of 48-point font; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Font that is at least 1 inch in height.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Required Features – E-scooters.</text>
+      <text>A permit holder shall ensure that an e-scooter deployed on a public street:</text>
+      <para>
+        <num>(1)</num>
+        <text>Has a speedometer that is legible; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is equipped with a speed governor capable of throttling speeds to specific speed limits in geographical areas designated in the MDS Policy API.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Data and Information.</text>
+      <text>A permit holder shall ensure a dockless vehicle and its associated apps do not provide false information, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>An inaccurate speedometer reading; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An alarm that announces that a vehicle can notify the police.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Additional Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall certify that its deployed vehicles meet:</text>
+        <para>
+          <num>(a)</num>
+          <text>Applicable federal laws;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Applicable State laws;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Applicable provisions of City Code;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>CPSC Safety Standards: ISO 43.150 for Pedal Bicycles; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>CPSC Public Law 107-319 for E-Scooters and E-Bicycles.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder shall certify that each dockless vehicle they deploy in the City are:</text>
+        <para>
+          <num>(a)</num>
+          <text>Free of defects in materials;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Free of defects in construction; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Safe for members of the public to use in the ordinary course of usage.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Vehicle Standards - Inspections and Notification.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Perform regular vehicle inspections to ensure that a rentable dockless vehicle deployed on a public street is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Functioning safely; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Properly equipped; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide advance notice to a permit holder about the details of an inspection to be performed.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>For vehicles found to be in violation of this chapter, the Department shall notify a permit holder within 24 hours of inspection.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Vehicle Standards – Timeline for Compliance.</heading>
+    <text>Upon notification of a violation in accordance with this chapter, the Department shall calculate a timeline for compliance that is:</text>
+    <para>
+      <num>A.</num>
+      <text>Based on the extent of changes required to a permit holder's fleet;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No fewer than 60 days; and</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No more than 6 months.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.14</num>
+    <heading>Remote Shutdown.</heading>
+    <para>
+      <num>A.</num>
+      <text>User Reported Safety Issue.</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon the first report of a safety issue by a user, a permit holder shall remotely shut down the dockless vehicle so that it cannot be operated until repaired.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a reported safety issue is due to an equipment malfunction which could be present in additional dockless vehicles, the permit holder shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Remove their entire fleet of vehicles from the street within 24 hours; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Ensure the fleet remains off the street until:</text>
+          <para>
+            <num>(i)</num>
+            <text>Further investigation is completed; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Relaunch is approved by the City.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Remote Shut Down Notice.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may issue a remote shutdown notice if it is deemed necessary to protect:</text>
+        <para>
+          <num>(a)</num>
+          <text>The safety of a dockless vehicle user; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Public safety.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall ensure a remote shutdown notice includes:</text>
+        <para>
+          <num>(1)</num>
+          <text>The duration of the shutdown period;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The reasoning behind the shutdown;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Which vehicle type the permit holder is instructed to shut down; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The geographic area within Baltimore City in which the vehicles should be shut down.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Within two hours of receipt of a remote shutdown notice from the Department, a permit holder shall remotely shut down:</text>
+        <para>
+          <num>(a)</num>
+          <text>Part of their fleet, as specified in the notice; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Their entire fleet, as specified in the notice.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.15</num>
+    <heading>Fleet Size.</heading>
+    <para>
+      <num>A.</num>
+      <text>Minimum and Maximum Fleet Sizes.</text>
+      <para>
+        <num>(1)</num>
+        <text>For each permitted vehicle type, a permit holder may initially operate a fleet consisting of:</text>
+        <para>
+          <num>(a)</num>
+          <text>A minimum of 150 dockless vehicles; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A maximum of 1500 dockless vehicles.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder's total fleet may include a combination of vehicle types allowed by their permit if there is a minimum of 150 vehicles of each type.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Adaptive Vehicle Exemptions.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may exempt a permit holder that includes adaptive dockless vehicles in their fleet from:</text>
+        <para>
+          <num>(a)</num>
+          <text>The requirement to maintain a minimum of 150 vehicles for adaptive dockless vehicles; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The requirement to maintain a minimum of 150 vehicles for other permitted dockless vehicle types.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder that includes an adaptive dockless vehicle in their fleet shall ensure the adaptive dockless vehicle:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is officially approved by the Director; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is not included in the count for the maximum number of vehicles allowed in a permit holder's fleet.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Timelines for Reaching Minimum Fleet Size.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder permitted in the previous year shall reach the minimum fleet size per vehicle type within 20 days of permit issuance.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A new permit holder shall reach the minimum fleet size within 60 days of permit issuance.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A permit holder who introduces a new vehicle type shall reach the minimum fleet size within 60 days of receiving approval of the new vehicle type from the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Fleet Increases.</text>
+      <para>
+        <num>(1)</num>
+        <text>Each quarter, a permit holder may request a fleet increase of up to 250 vehicles in excess of the limits established in §A of this Regulation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In reviewing a fleet increase request, the Department shall assess:</text>
+        <para>
+          <num>(a)</num>
+          <text>Performance during the period prior to the evaluation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Projections for the subsequent quarter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department may:</text>
+        <para>
+          <num>(a)</num>
+          <text>Set an overall fleet cap; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Revoke a fleet increase.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.16</num>
+    <heading>Parking and Operation.</heading>
+    <para>
+      <num>A.</num>
+      <text>In General.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall instruct users to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Park a dockless vehicle in compliance with City Code Article 31, § 38-19;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Operate a dockless vehicle in compliance with City Code Article 31, § 38-18; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide end of trip pictures that show:</text>
+          <para>
+            <num>(i)</num>
+            <text>The location a vehicle was parked; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The manner in which a vehicle was parked.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder shall use end of trip pictures:</text>
+        <para>
+          <num>(i)</num>
+          <text>When a parking violation is reported by the Department; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>To disable a user account when three or more end of trip pictures fail to provide the information required by §A(1)(c) of this regulation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notice and Response.</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon notification that a dockless vehicle is improperly parked, a permit holder shall reposition or remove the vehicle within:</text>
+        <para>
+          <num>(a)</num>
+          <text>Three hours of notification by the Department; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Six hours of notification by a member of the public.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department may perform a check of parking complaint response times, during which the Department may:</text>
+        <para>
+          <num>(a)</num>
+          <text>Report an illegally parked vehicle officially; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Anonymously report an illegally parked vehicle as a member of the public.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Abandoned Vehicles.</text>
+      <text>If a dockless vehicle has been parked at the same location and not ridden for five consecutive days, a permit holder shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Perform a mechanical check of the dockless vehicle; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Relocate the dockless vehicle to another block face.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Mobile Application Requirements.</text>
+      <text>A permit holder shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Ensure a dockless vehicle mobile application displays:</text>
+        <para>
+          <num>(a)</num>
+          <text>Applicable operating laws within four menu selections from the home screen; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The location of parking corrals installed by the Department; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide a discount through the mobile application to a user who ends their trip by parking a dockless vehicle in a parking corral installed by the Department.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upload the location of parking corrals installed by the Department to a dockless vehicle mobile application within 10 days of notification from the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>No Parking Zones.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may establish a no parking zone on the public street in accordance with §E(2) of this regulation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For a no parking zone established in accordance with this regulation, the Department shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Identify the no parking zone in the MDS Policy API; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notify a permit holder of the no parking zone through the MDS Policy API.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Within 72 hours of notification from the Department, a permit holder shall prohibit a user from ending a trip in a no parking zone.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>No Operation Zones.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may establish a no operation zone on the public street in accordance with §F(2) of this regulation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For a no operation zone established in accordance with this regulation, the Department shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Identify the no operation zone in the MDS Policy API; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notify a permit holder of the no operation zone through the MDS Policy API.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department shall ensure compliance with a no operation zone via testing of vehicles.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Within 72 hours of notification from the Department, a permit holder shall ensure their vehicles lose electric assistance or drive when a user rides into a no operation zone.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Reduced Speed Zones.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may establish a reduced speed zone on a public street in accordance with §G(2) of this regulation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For a reduced speed zone established in accordance with this regulation, the Department shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Identify the reduced speed zone in the MDS Policy API; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notify a permit holder of the reduced speed zone through the MDS Policy API.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department shall ensure compliance with a reduced speed zone via testing of vehicles.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Within 72 hours of notification from the Department, a permit holder shall ensure their vehicles are limited to eight miles per hour when a user rides into a reduced speed zone.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>A permit holder will be subject to the compliance inspection process in this chapter, including the issuance of a warning or citation, if a violation of the provisions of this regulation occurs.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.17</num>
+    <heading>Seizure and Recovery.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department may seize a dockless vehicle if:</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder fails to comply with a request to reposition or remove a vehicle in accordance with this chapter; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A dockless vehicle is in a location where it cannot be accessed by a permit holder.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>At the time of seizure, the Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Notify the permit holder in accordance with City Code Article 31, § 38-24;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Take pictures that indicate that the dockless vehicle is in violation of this chapter;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Record the identification number of the dockless vehicle; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Record the property number assigned to the dockless vehicle by the Towing Division.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If the Department seizes a dockless vehicle, the Department shall charge a permit holder the following fees from the refundable performance bond:</text>
+      <para>
+        <num>(1)</num>
+        <text>$220.00, for five or fewer e- scooters seized at the same time;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>$220.00, for more than five e-scooters seized at the same time, plus $44.00 per each e-scooter beyond the fifth;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>$220.00, for three or fewer bicycles or e-bicycles seized at the same time; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>$220.00, for more than three bicycles or e-bicycles seized at the same time, plus $73.33 per bicycle or e-bicycle beyond the third.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>After the first 48 hours from the initial seizure date, the Department may charge a permit holder $15.00 for each 24-hour period for each group of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Up to five e-scooters; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Up to three bicycles or e-bicycles.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Recovery of Seized Vehicles.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall retrieve a seized dockless vehicle from:</text>
+        <include>
+          <text>Baltimore City Department of Transportation</text>
+          <text>Towing Division</text>
+          <text>6700 Pulaski Hwy</text>
+          <text>Baltimore, Maryland, 21237</text>
+          <text>During the following hours:</text>
+          <text>Monday-Friday 8:30 am – 5:00 pm</text>
+          <text>Saturday 9:00 am – 4:30 pm</text>
+          <text>Closed Sundays and Holidays.</text>
+        </include>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder shall notify the Towing Division of the person who will retrieve a seized vehicle by calling 410-396-9958 or 410-545-3417.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.18</num>
+    <heading>User Education.</heading>
+    <para>
+      <num>A.</num>
+      <text>A permit holder shall provide in-app user education on proper operation of a dockless vehicle by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Developing an in-app quiz for new users that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Contains a minimum of five questions approved by the Department pertaining to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Parking;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Operations; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>General safety; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Requires a score of at least 80 percent before the third rental of a dockless vehicle by a user; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Displaying a banner on the app home screen for up to one week of each month that highlights relevant information determined by the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A permit holder shall provide in-person user education on proper operation of a dockless vehicle by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Hosting or participating in a minimum of one community event per deployment district annually to display safety information;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Attending a minimum of two community events annually between November and February; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Attending a minimum of four public meetings upon invitation by the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Access to Additional User Data.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder may request that users "opt in" to provide access to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Location services; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Files on a user's phone.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder may not prevent use of a dockless vehicle based on a user's decision to grant or deny the data noted in §C(1) of this regulation.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Departmental Survey.</text>
+      <text>Within 10 days of notification by the Department, a permit holder shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Include a clickable link to a yearly Department survey in the mobile application; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Send the survey link to active users via e-mail.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.19</num>
+    <heading>Special Events.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department may require a permit holder to provide staffing for special events expecting over 5,000 attendants in accordance with this regulation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Upon notification from the Department, a permit holder shall be required to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Designate an individual as a staff contact for event organizers;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For events expecting 5,000-9,999 people in attendance, provide up to two staffers for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Up to one hour before the event;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>During the event; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Up to one hour after the conclusion of the event;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For events expecting over 10,000 people in attendance, provide up to three staffers for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Up to one hour before the event;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>During the event; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Up to one hour after the conclusion of the event.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.20</num>
+    <heading>Pricing.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as provided in §B of this regulation, a permit holder may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Set a higher price for the use of a dockless vehicle in a certain part of the City; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Base pricing on a users':</text>
+        <para>
+          <num>(a)</num>
+          <text>Inclusion in a federally protected class;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Genetic information; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Citizenship.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A permit holder may use a pricing variation to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Incentivize proper operation of a dockless vehicle; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Increase usership among underserved or low-income populations.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.21</num>
+    <heading>Advertising and User Engagement.</heading>
+    <para>
+      <num>A.</num>
+      <text>A permit holder shall ensure that user engagement, including participation at required community events, is inclusive of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Underserved populations; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Low-income populations.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A permit holder may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Use the name of a City agency, including the Department, without prior written approval;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Use the logo of a City agency, including the Department, without prior written approval' and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Use the following to display third-party advertising:</text>
+        <para>
+          <num>(a)</num>
+          <text>A dockless vehicle;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A mobile application;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A kiosk;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Related physical infrastructure; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Related web-based infrastructure.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.22</num>
+    <heading>Data and Reporting.</heading>
+    <para>
+      <num>A.</num>
+      <text>GPS.</text>
+      <text>A permit holder shall ensure each dockless vehicle in their fleet is equipped with on-board GPS technology that does not rely on a user's mobile device to obtain spatial information.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Publicly Accessible Application Program Interface (API).</text>
+      <para>
+        <num>(1)</num>
+        <text>The permit holder shall provide a publicly accessible API.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The permit holder shall ensure that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The public API is in a gbfs.json file format;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>There are no "stations" in the parlance of GBFS, therefore both station_status.json and station_information.json should return an empty list;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>FreE-Bicycle-status.json is required;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The field "vehicle_type" is added to the public API to describe the vehicle type, which may be:</text>
+          <para>
+            <num>(i)</num>
+            <text>"Bicycle";</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>"E-Bicycle";</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>"Scooter"; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Another type of specified permitted vehicle;</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Department is instructed on how to request authentication, if the public API requires authentication;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The location of the public API is provided to the Department; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>A smart phone-based application used to rent dockless vehicles is not considered the public API program interface required by §B(1) of this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The permit holder shall provide access to at least 50 requests per hour.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Department shall post the location of the public API to the Department's website.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Mobility Data Specification (MDS) Policy API.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Provide an MDS Policy API to the Department for a dockless vehicle trip in Baltimore City, including trips which:</text>
+          <para>
+            <num>(i)</num>
+            <text>Start in Baltimore City;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>End in Baltimore City; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Pass through Baltimore City;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Adhere to an MDS of 1.0 or newer, as set by the OMF;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Post the MDS Policy API on GitHub under the OMF Mobility Data specification;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Provide API endpoints, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>A trip;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A status change;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A vehicle; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Real-time data;</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Update or add endpoints to the MDS Policy API within:</text>
+          <para>
+            <num>(i)</num>
+            <text>Sixty days of notification from the Department for required published endpoints; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Ninety days for beta endpoints;</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Change vehicle status to 'Unknown' if a vehicle is suspected to be:</text>
+          <para>
+            <num>(i)</num>
+            <text>Vandalized; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Missing for five or more days;</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Ensure GPS data are transmitted from a dockless vehicle on-trip at a minimum frequency of once per 30 seconds;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Develop and maintain a working Wi-Fi connection to ingest MDS Policy API endpoints provided by the Department; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Share current data through the MDS Policy API at least once per 24 hours.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department may require additional or updated endpoints published by OMF.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department may share the MDS Policy API with a third-party aggregator in accordance with §C(4) of this regulation for the purpose of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Secure data storage; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Analysis.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To share data with a third-party aggregator in accordance with §C(3) of this regulation, the Department shall enter into a memorandum of understanding with a third-party aggregator that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Includes a provision governing the public release of data by a third-party aggregator; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is made available for a permit holder to review prior to being finalized.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Reporting.</text>
+      <para>
+        <num>(1)</num>
+        <text>Time Sensitive Reports.</text>
+        <text>A permit holder shall report the following to the Department within 24 hours of notice:</text>
+        <para>
+          <num>(a)</num>
+          <text>Non-deployment request at a location by an adjacent property owner for verification by the Department;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A vehicle that is in a location where the permit holder cannot retrieve it, including a body of water; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An issue that could affect public safety, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>A report of criminal activity involving a dockless vehicle;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A report of a crash involving a dockless vehicle;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Contact with the Baltimore City Police Department;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Contact with the Baltimore City Fire Department; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A defect in equipment.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Monthly Reports.</text>
+        <text>A permit holder shall provide the Department with a monthly report by the tenth business day following the final day of the month which:</text>
+        <para>
+          <num>(a)</num>
+          <text>Uses the Department's reporting template;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is in Excel or CSV format;</text>
+          <para>
+            <num>(c)</num>
+            <text>Includes:</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>A report of each dockless vehicle lost due to theft or vandalism;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Aggregated repair information on a permit holder's dockless vehicle fleet by model of vehicle and type of repair;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Each illegal parking request from the public;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Each customer complaint received with response time noted;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A record of attendance at a City meeting;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>The number of people in attendance at a community event;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>A summary of marketing efforts;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>The number of users that took a trip on a dockless vehicle during the reporting period;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>The number of rides by low-income pass users during the reporting period;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>The number of rides by cash users during the reporting period;</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>The number of rides by non-smart phone users during the reporting period;</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>The number of users provided for in §(2)(c)(ix)-(xi) of this regulation disaggregated by the type of plan and user home zip code;</text>
+          </para>
+          <para>
+            <num>(xiii)</num>
+            <text>The number of users of the low-income pass; and</text>
+          </para>
+          <para>
+            <num>(xiv)</num>
+            <text>An update to maintenance or operational plan.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Software Issues and Hacking Events.</text>
+        <text>A permit holder shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Notify the Department of a change to a data portal, including a response to a notification from the Department regarding:</text>
+          <para>
+            <num>(i)</num>
+            <text>A software glitch;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>An issue with hacking; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A data portal;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Acknowledge a notification from the Department about data and reporting within 24 hours;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide the Department with a plan for addressing an identified problem;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Provide a progress update to the Department once per 48 hours while the problem persists; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Permanently fix an issues within 60 days of receiving notice of the problem.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>User Privacy.</text>
+        <text>A permit holder shall protect user privacy by:</text>
+        <para>
+          <num>(a)</num>
+          <text>Complying with Payment Card Industry Data Security Standards for an electronic payment;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notifying a user of a mobile device feature that the mobile application accesses; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Not releasing personal user data to an entity:</text>
+          <para>
+            <num>(i)</num>
+            <text>Unrelated to operations; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>That intends to use the data in a commercial sale to a third party.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.23</num>
+    <heading>Security Bond.</heading>
+    <para>
+      <num>A.</num>
+      <text>Security Bond.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall provide a security for performance in the amount of $10,000 to the Department.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder shall ensure the security is in the form of:</text>
+        <para>
+          <num>(a)</num>
+          <text>A performance bond;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A refundable bond; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Another security acceptable to the City.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Rental Taxes.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall remit a rental tax to the Department of Finance twice annually in accordance with this section.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>January – June.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department shall invoice a permit holder by July 15 for the tax provided for in §B(2)(b)(i) of this regulation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The permit holder shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>Pay a tax of $0.10 per rental for dockless vehicle rentals between January 1 and June 30 annually; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Remit the tax within one calendar month after receiving an invoice from the Department.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>July – December.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department shall invoice a permit holder by January 15 for the tax provided for in §B(3)(b)(i) of this regulation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The permit holder shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>Pay a tax of $0.10 per rental for dockless vehicle rentals between July 1 and December 31 annually; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Remit the tax within one calendar month after receiving an invoice from the Department.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A permit holder shall submit the following to the Department with each remitment of the annual tax:</text>
+        <para>
+          <num>(a)</num>
+          <text>A list of the total number of transactions during the reporting period; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A digital copy of:</text>
+          <para>
+            <num>(i)</num>
+            <text>Payments during the reporting period; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Transactions during the reporting period.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.24</num>
+    <heading>Procedures for Claims Against Security Bond.</heading>
+    <para>
+      <num>A.</num>
+      <text>Authorization to Draw Against Security.</text>
+      <text>The City may deduct from the security provided by a permit holder to recover incurred costs if:</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder fails to remove from the public street a dockless vehicle that is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Unsafe;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Unpermitted; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Abandoned;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department seizes a dockless vehicles due to a violation of these regulations; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A permit holder's dockless vehicle causes damage to public property.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notification.</text>
+      <text>If the City intends to deduct from a permit holder's security as provided in §A of this regulation the Department shall provide written notice to a permit holder prior to the deduction which states:</text>
+      <para>
+        <num>(1)</num>
+        <text>The reason for the deduction;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The amount of the deduction;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Information on submission of an objection to a deduction in accordance with §C of this regulation.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Objection Submission.</text>
+      <text>A permit holder may submit an objection to a planned deduction to their security bond:</text>
+      <para>
+        <num>(1)</num>
+        <text>In writing; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Within 7 days of the date of the written notice.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Notification of Outcome.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department shall provide a permit holder with written notification of a decision rendered regarding their objection which:</text>
+        <para>
+          <num>(a)</num>
+          <text>Provides the reason for denying the objection; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Confirms acceptance of the objection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall send the notification to the permit holder three days before a deduction is made.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.25</num>
+    <heading>Insurance.</heading>
+    <para>
+      <num>A.</num>
+      <text>Required Insurance.</text>
+      <text>A permit holder shall procure and maintain the coverage required in the permit agreement during:</text>
+      <para>
+        <num>(1)</num>
+        <text>The term of an initial dockless vehicle permit; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The renewal of a dockless vehicle permit:</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A permit holder shall name The Mayor and City Council of Baltimore as an additional insured on the permit holder's:</text>
+      <para>
+        <num>(1)</num>
+        <text>Commercial general liability insurance; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Commercial automobile liability policies.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A permit holder shall indemnify the Mayor and City Council of Baltimore from liability relating to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The issuance of a dockless vehicle; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The provision of services under a dockless vehicle permit.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The City shall notify a permit holder before resolution or settlement of claims for which the City will seek indemnification.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.26</num>
+    <heading>Citations.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Issue a citation under City Code Article 1, § 40-14 to a permit holder found to be in violation of:</text>
+        <para>
+          <num>(a)</num>
+          <text>This chapter; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>City Code Article 31, Subtitle 38; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Issue a citation under City Code Article 1, § 41-14 to a permit holder found to be in violation of:</text>
+        <para>
+          <num>(a)</num>
+          <text>This chapter; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>City Code Article 31, Subtitle 38.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notification of Violation.</text>
+      <text>If a permit holder is found to be in violation during a compliance inspection, the Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Issue a first warning to the permit holder noting the violation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Issue a second warning to a permit holder if the violation recurs within 60 days of the first warning; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Issue a citation if the violation recurs within 60 days of the second warning.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Abatement Period.</text>
+      <text>The Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Grant an abatement period to a permit holder to fix a violation; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Issue an additional citation to a permit holder who commits an additional violation within 60 days of a granted abatement period.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Appeals</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder may appeal:</text>
+        <para>
+          <num>(a)</num>
+          <text>A civil citation to the District Court of Baltimore City; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An environmental citation to Environmental Control Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For a citation issued in accordance with § D(1)(b) of this regulation, a permit holder may appeal a decision rendered by the Environmental Control Board to the Circuit Court.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code Article 31, § 38-3</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2019-08-01">
+      <text>
+        <ul proof="needed">
+          <li>R&amp;R establish and effective August 1, 2019</li>
+        </ul>
+      </text>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-07-01">
+      <text>
+        <ul proof="needed">
+          <li>R&amp;R revised and effective July 1, 2021</li>
+        </ul>
+      </text>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2022-07-01">
+      <text>
+        <ul proof="needed">
+          <li>R&amp;R revised to be effective July 1, 2022</li>
+        </ul>
+      </text>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2023-07-01">
+      <text>
+        <ul proof="needed">
+          <li>R&amp;R revised to be effective July 1, 2023</li>
+        </ul>
+      </text>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2024-06-18">
+      <text>
+        <ul proof="needed">
+          <li>R&amp;R revised, effective June 18, 2024</li>
+        </ul>
+      </text>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2025-06-18">
+      <text>
+        <ul proof="needed">
+          <li>R&amp;R revised, effective June 18, 2025</li>
+        </ul>
+      </text>
+    </annotation>
+  </annotations>
+</container>

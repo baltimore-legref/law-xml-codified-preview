@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>07</num>
+  <heading>HIGH-PERFORMANCE NEWLY CONSTRUCTED DWELLINGS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <para>
+      <num>A.</num>
+      <text>These regulations address the High-Performance Newly Constructed Dwellings Tax Credit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>These regulations describe:</text>
+      <para>
+        <num>(1)</num>
+        <text>The application process for obtaining the tax credit,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The criteria for qualifying for the tax credit,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The application process for obtaining a certification of the dwelling as a highperformance newly constructed dwelling,</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The criteria for maintaining eligibility for the tax credit,</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>How the tax credit is applied, whether it is transferable and when the tax credit program will terminate, and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The effect of other tax credits on how the High-Performance Newly Constructed Dwelling Tax Credit is applied to a dwelling.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Closing Documentation" means any form from the settlement of the sale of real estate that contains the address of the property transferred, the parties to the transfer, and the date of the transfer.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Credit" means the tax credit described in these regulations for highperformance newly constructed dwellings.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"DHCD" means the Baltimore City Department of Housing and Community Development.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Finance" means the Baltimore City Department of Finance.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"HERS" means the Home Energy Rating System.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"High performance" has the meaning stated in MD <cite doc="Md. Code" path="gtp|9242">Tax-Property Article, §9242(a)</cite>.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"LEED" means the U.S. Green Building Council's Leadership in Energy and Environmental Design.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Newly constructed dwelling" has the meaning stated in City Code Article 28, §10-18.1(a)(3).</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"NGBS" means the National Green Building Standard.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Owner" has the meaning stated in MD <cite doc="Md. Code" path="gtp|9-304">Tax-Property Article, §9-304(d)</cite>.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"System" means the Department of Finance's Online Tax Credit Application System.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Vacant dwelling" has the meaning stated in City Code Article 28, §10-18.1(a)(5).</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Description of the Credit.</heading>
+    <para>
+      <num>A.</num>
+      <text>The credit is against the property tax imposed on a high-performance newly constructed dwelling that is owned by a qualifying owner.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The credit</text>
+      <para>
+        <num>(1)</num>
+        <text>Begins at 50 percent of the tax imposed on the qualifying property in the first full tax year in which the property qualifies and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Decreases by 10 percent in each of the four following years.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The property no longer qualifies for the credit</text>
+      <para>
+        <num>(1)</num>
+        <text>Beginning in the sixth full tax year after the property initially qualifies; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If continuing eligibility requirements are not met.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Eligibility Criteria.</heading>
+    <para>
+      <num>A.</num>
+      <text>To be eligible for the credit a property owner shall meet the following criteria:</text>
+      <para>
+        <num>(1)</num>
+        <text>Purchase and occupy as the property owner's principal residence a highperformance newly constructed dwelling;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Receive a high-performance certification from DHCD;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>File a state income tax return as a resident of Baltimore City for each taxable year for which the credit is sought;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The property owner may not be receiving the credit previously authorized under City Code Article 28, § 10-5; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The property owner shall timely submit a completed application in accordance with the specifications in § .05.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To be eligible for the credit a property shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be one of the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>A newly constructed dwelling, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A vacant dwelling;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be located within the City of Baltimore;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be purchased by the owner-occupant following completion of the dwelling, or be constructed on land that was purchased by the owner-occupant prior to construction of the dwelling;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Receive an occupancy permit following the construction or conversion; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Meet the standards set forth in the Maryland <cite doc="Md. Code" path="gtp|9-242">Tax-Property Article, § 9-242(a)</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A property that meets the eligibility criteria and has an approved application becomes eligible for the credit with the first full-year tax bill issued after the latest of</text>
+      <para>
+        <num>(1)</num>
+        <text>The high-performance certification date,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date on which the use and occupancy permit was issued,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The first assessment notice of the newly constructed dwelling, or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The date of settlement.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The following items must be received by Finance prior to the approval of the property's application:</text>
+      <para>
+        <num>(1)</num>
+        <text>An application for the tax credit that is both:</text>
+        <para>
+          <num>(a)</num>
+          <text>Complete, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submitted in a timely manner;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A final occupancy permit for the completed dwelling; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A certification of the property as a high-performance newly constructed dwelling by the DHCD.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A credit may not be issued until the property is certified by DHCD as a highperformance newly constructed dwelling.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>DHCD shall issue a certification that, to the extent possible, provides a certification date that reflects the date on which the property became a HighPerformance building.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>In the event DHCD denies certification, DHCD will provide a letter identifying the reason for the denial.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Prior to the issuance of a credit, the property owner is liable for all taxes due.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Properties remain eligible for the credit for a period of five consecutive tax years.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Applications.</heading>
+    <para>
+      <num>A.</num>
+      <text>An applicant who has purchased a newly constructed dwelling shall submit a completed application within 90 days after settlement.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An applicant who has constructed a dwelling on land purchased prior to the construction of the dwelling, shall</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit a completed application within 90 days of the issuance of a final occupancy permit for the dwelling, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Include complete documentation of the construction cost of the new dwelling.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An application shall be submitted electronically via the system.</text>
+      <para>
+        <num>(1)</num>
+        <text>This system can be accessed via the internet at the following url:</text>
+        <text>
+          <u>https://propertytaxcredits.baltimorecity.gov</u>
+        </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An applicant shall create a user account to gain access to the application system.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The user account may be used to apply for this and other tax credits for the property.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An application or required documentation may not be submitted in paper form.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The City of Baltimore shall not be responsible for</text>
+      <para>
+        <num>(1)</num>
+        <text>Connectivity issues experienced by the applicant, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Issues beyond the control of the City of Baltimore's Department of Finance.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>For tax credit applications DHCD shall certify the property as a high-performance newly constructed dwelling.</text>
+      <para>
+        <num>(1)</num>
+        <text>For a timely submitted application, the Department of Finance shall provide the relevant details of the subject property to DHCD for certification of the property.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For a newly-constructed dwelling built on vacant land DHCD shall review the plans to determine whether the dwelling was constructed according to the high-performance elements of the Baltimore City Residential Building Code.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Dwellings constructed prior to 2015 or that were substantially renovated without obtaining a new construction plan number and plan approval from the DHCD permit center shall qualify for the credit by completing one of the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Obtain LEED rating for the property of Silver or higher.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Obtain a certification from NGBS (ICC 700) rating the property Silver or higher.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Obtain a rating from a certified energy rater for the HERS Index of 80 or lower and must achieve an increase in energy efficiency of at least 20 percent.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Failure to file certification documentation required under .05(F)(3) with Finance within 30 days of receipt shall result in rejection of the application and the applicant may not reapply.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>All final applications for the High-Performance Newly Constructed Dwellings Tax Credit shall be accompanied by:</text>
+      <para>
+        <num>(1)</num>
+        <text>A copy of the final occupancy permit issued for the property after construction or rehabilitation was completed,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A copy of any building permit issued during the construction or rehabilitation of the property,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A copy of the closing documentation issued to the purchaser at the time of settlement on the new dwelling or the land on which it was built, and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Other required documents available at the time of application.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>If an occupancy permit is not issued to the property prior to settlement, the property owner shall</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit a letter with the application stating that no occupancy permit was issued prior to settlement, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Email a copy of the occupancy permit to <u>tax.credits@baltimorecity.gov</u> when it is received.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Transferability.</heading>
+    <text>The High-Performance Newly Constructed Dwellings Tax Credit is not transferrable to subsequent owners of the property.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Continuing Eligibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>The property owner shall ensure that, during the credit period the property for which the credit was granted meets the following criteria:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is in full compliance with the building, fire, and related codes of Baltimore City;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Maintains its high-performance rating; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is the applicant's principal residence.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>For each taxable year for which the credit is sought, an applicant shall file a state income tax return as a resident of Baltimore City.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If a property no longer meets the continuing eligibility requirements, the credit will be removed from the property's account and may not be reinstated until the issue has been remedied.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The eligibility term of the credit is 5 consecutive tax years, beginning with the first full tax year in which the property qualifies for the tax credit.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Ineligibility for the credit during one or more of the five years in the eligibility term will not extend the five-year term of the tax credit.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Effect of Other Tax Credits.</heading>
+    <para>
+      <num>A.</num>
+      <text>A property receiving a tax credit under City Code Article 28, § 10-5 is not eligible for the High-Performance Newly Constructed Dwellings Tax Credit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The calculation of this credit shall be made prior to the application of any tax credit awarded under the Maryland <cite doc="Md. Code" path="gtp|9-229">State Tax-Property Article, § 9-229</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The calculation of this credit shall be made after</text>
+      <para>
+        <num>(1)</num>
+        <text>The application of any credit awarded to the property under Maryland Tax Property Article §§ 9-104 and 9-105; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any other real property tax credit other than the credit specified in .08(B).</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Termination of Program.</heading>
+    <text>An owner whose settlement on the purchase of a high-performance newly constructed dwelling occurs after June 30, 2027 may not apply for this credit.</text>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container"> City Code Article 28, §10-18.1 and Maryland <cite doc="Md. Code" path="gtp|9-242">Tax-Property Article, §9-242</cite></annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>

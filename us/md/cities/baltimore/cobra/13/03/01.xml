@@ -1,0 +1,1154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>WILD, EXOTIC, HYBRID, AND LIVESTOCK ANIMALS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter establishes:</text>
+    <para>
+      <num>A.</num>
+      <text>Allowed and prohibited wild, exotic, hybrid, and livestock animals;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Requirements to obtain a permit to keep allowed wild, exotic, hybrid, and livestock animals;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The permit application process to keep allowed wild, exotic, hybrid, and livestock animals, including the requirements for inspection prior to obtaining a permit and fees for permits as applicable;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Requirements for keeping animals for purposes of urban agriculture;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Application requirements for a 501(c)(3) non-profit community farm or garden to keep certain prohibited animals under certain restrictions; and</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Grounds for revoking or denying a permit.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Altered" means to surgically or chemically render an animal incapable of reproducing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Applicant" means a person or entity applying for a permit to keep an allowed wild, exotic, hybrid, or livestock animal.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Community farm or garden" means a plot of land used by individuals or groups for agricultural purposes.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Exotic" means a wild animal of a species that is not indigenous to the state of Maryland or an animal that the Health Commissioner specifies by rule or regulation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Health Commissioner" means the Health Commissioner of the Baltimore City Health Department.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Hybrid" means an animal that is crossbred between a domesticated, exotic, or wild animal.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Inhumane" means to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Cause pain or suffering to an animal; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Keep an animal in a manner that does not allow for adequate:</text>
+          <para>
+            <num>(i)</num>
+            <text>Ventilation;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Security; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Space to meet the specific needs of its species and development.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Keep" means:</text>
+        <para>
+          <num>(a)</num>
+          <text>To feed or shelter an animal on the premises of real property by an owner, custodian, or occupant of the property; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>To feed or shelter an animal on a plot of land being used for agricultural purposes.</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Livestock" means cattle, sheep, horses, goats, or other domesticated animals ordinarily raised or used in an agricultural setting.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Urban agriculture" means the cultivation, processing, and distribution of agricultural products in an urban setting.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Wild" means an animal that is not domesticated living in a natural environment.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Prohibited Wild, Exotic, Hybrid, and Livestock Animals.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person may not keep, or allow to be kept on that person's premises, a wild, exotic, hybrid, or livestock animal as specified in §B(1)—(27) of this regulation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The following wild, exotic, hybrid, and livestock animals are prohibited:</text>
+      <para>
+        <num>(1)</num>
+        <text>A wild, exotic, hybrid, or livestock animal whose possession or sale is prohibited by a federal, State, or City law, rule, or regulation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Dogs other than a domesticated dog (Canis familaris);</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Cats other than a domesticated cat (Felis catus);</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Bears;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Bats;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Squirrels;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Fur-bearing mammals of the family Mustelidae other than a domesticated ferret (Mustela fero);</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Venomous insects other than honey bees;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Spiders;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Scorpions;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Centipedes;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Large rodents (Rodentia);</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Even-toed ungulates (Artiodactyla) other than a domesticated goat of the Miniature, Dwarf, or Pygmy breed;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Odd-toed ungulates (Perissodactyla) other than a domesticated horse (Equus caballus) used in the Arabber or carriage trades or used by federal, State, or local law enforcement units;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Marsupialia;</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>Procyonidae;</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Carnivorous mammals of the family Viverridae;</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Non-human primates;</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Bovinae (cattle);</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>Pigs, boars, and swine other than a domesticated Vietnamese Pot-bellied pig;</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>Rabbits of the family Leporidae other than a domesticated rabbit that has been bred and supervised in a properly maintained rabbitry;</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>Crocodylia;</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>Venomous reptiles that are harmful to people, even if the reptile has had venom producing glands or structures removed;</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>Snakes capable of growing to more than 5 feet when fully grown;</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>Lizards capable of growing to more than 4 feet when fully grown;</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>Green iguanas (Iguana iguana) less than 30 inches long or more than 6 feet long when fully grown; and</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>Fowl other than domesticated hens and pigeons.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Conditions for Keeping Allowed Wild, Exotic, Hybrid, and Livestock Animals.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as provided in §J of this regulation, a person or entity shall meet the following conditions for keeping an allowed wild, exotic, hybrid, or livestock animal.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Vietnamese Pot-bellied Pigs.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep a Vietnamese Pot-bellied pig if:</text>
+        <para>
+          <num>(a)</num>
+          <text>A permit is obtained from the Office of Animal Control; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A veterinary record is presented to the Office of Animal control to show that the Vietnamese Pot-bellied pig is altered.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person may not keep a Vietnamese Pot-bellied pig if the animal:</text>
+        <para>
+          <num>(a)</num>
+          <text>Measures greater than 22 inches in height at the shoulder; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Weighs more than 150 pounds.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person permitted to keep a Vietnamese Pot-bellied pig shall ensure that the animal is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Kept in a clean and sanitary environment that will prevent:</text>
+          <para>
+            <num>(i)</num>
+            <text>Disease;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Odor; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Insect or rodent breeding;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provided with routine and emergency veterinary care as needed; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Neutered prior to 9 weeks, if it is a boar; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Spayed prior to 6 months, if it is a gilt.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A person permitted to keep a Vietnamese Pot-bellied pig shall ensure that the animal's tusks are properly filed by an experienced handler so tusks do not show outside of the mouth when the mouth is closed.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Except as provided in §6 of this Regulation, a person who is permitted to keep a Vietnamese Pot-bellied pig may not remove the animal's tusks unless removal of the tusks is deemed medically necessary for the health of the animal.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A person permitted to keep a Vietnamese Pot-bellied pig may keep a rescue Vietnamese Pot-bellied pig that has had its tusks removed by a previous owner.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Office of Animal Control may require paperwork from a person permitted to keep a Vietnamese Pot-bellied pig which demonstrates that:</text>
+        <para>
+          <num>(i)</num>
+          <text>Tusk removal was medically necessary; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Vietnamese Pot-bellied pig is a bona fide rescue animal.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Pigeons.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep a pigeon if:</text>
+        <para>
+          <num>(a)</num>
+          <text>A permit is obtained from the Office of Animal Control;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Applicable zoning and building permits or authorizations have been obtained; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The total number of pigeons kept is fewer than 125.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person permitted to keep a pigeon shall ensure that the pigeon coop or loft:</text>
+        <para>
+          <num>(a)</num>
+          <text>Contains a minimum of 1 square foot of floor space for each pigeon over the age of one month;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is constructed so that the interior is:</text>
+          <para>
+            <num>(i)</num>
+            <text>Dry;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Airy;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Bright; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Adequately ventilated; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is maintained and kept in a clean manner to prevent:</text>
+          <para>
+            <num>(i)</num>
+            <text>Disease;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Odor; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Insect or rodent breeding.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person permitted to keep a pigeon shall ensure that feed is stored and administered in a manner that prevents attracting rodents.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A person permitted to keep a pigeon may not allow the animal to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Be outside the coop or loft other than a maximum of three hours per day of supervised exercise; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Perch or linger on the property or buildings of others.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Miniature, Dwarf, or Pygmy Goats.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep a Miniature, Dwarf, or Pygmy goat if a permit is obtained from the Office of Animal Control.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person permitted to keep a Miniature, Dwarf, or Pygmy goat shall ensure that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The animal is dehorned; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Males over the age of 6 months are neutered.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person permitted to keep a Miniature, Dwarf, or Pygmy goat shall provide the animal with:</text>
+        <para>
+          <num>(a)</num>
+          <text>Potable water at all times;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Adequate amounts of feed; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Routine and emergency veterinary care as needed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A person permitted to keep a Miniature, Dwarf, or Pygmy goat shall ensure the yard in which the animal is kept:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is well-maintained and clean; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Contains:</text>
+          <para>
+            <num>(i)</num>
+            <text>A minimum of 150 square feet of permeable space available per goat;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Fencing to prevent roaming; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Proper grading and drainage.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A person permitted to keep a Miniature, Dwarf, or Pygmy goat may keep:</text>
+        <para>
+          <num>(a)</num>
+          <text>Two female or neutered goats, plus their offspring up to 6 months of age, on lots less than 20,000 square feet; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>One additional goat for every 5,000 square feet of lot area over 20,000 square feet, up to a maximum of 6 goats over the age of 6 months.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Ferrets.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep a ferret if:</text>
+        <para>
+          <num>(a)</num>
+          <text>A permit is obtained from the Office of Animal Control; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Evidence of a current rabies vaccination is provided to the Office of Animal Control.</text>
+        </para>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>A person permitted to keep a ferret shall provide the animal with:</text>
+        <para>
+          <num>(a)</num>
+          <text>Adequate food that is highly concentrated with fat as the main source of calories and highly digestible meat-based protein;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Potable water at all times;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Adequate exercise in an appropriate enclosed area; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Routine and emergency veterinary care as needed.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Snakes up to 5 Feet Long.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep a snake capable of growing to a length of no more than 5 feet when fully grown if a permit is obtained from the Office of Animal Control.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person permitted to keep a snake up to 5 feet long shall provide the animal with:</text>
+        <para>
+          <num>(a)</num>
+          <text>Potable water at all times;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Adequate food appropriate for the species;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An adequate enclosure with sufficient space so as not to be inhumane;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Adequate heating and lighting as required for the species; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Routine and emergency veterinary care as needed.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Lizards up to 4 Feet Long.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep a lizard capable of growing to a length of no more than 4 feet when fully grown if a permit is obtained from the Office of Animal Control.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person permitted to keep a lizard up to 4 feet long shall provide the animal with:</text>
+        <para>
+          <num>(a)</num>
+          <text>Potable water at all times;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Adequate food appropriate for the species;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An adequate enclosure with sufficient space so as not to be inhumane;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Adequate heating and lighting as required for the species; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Routine and emergency veterinary care as needed.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Green Iguanas between 30 inches and 6 feet Long.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep a green iguana that is a minimum of 30 inches in length but no more than 6 feet in length when fully grown if a permit is obtained from the Office of Animal Control.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person permitted to keep a green iguana between 30 inches and 6 feet long shall provide the animal with:</text>
+        <para>
+          <num>(a)</num>
+          <text>Potable water at all times;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Adequate food as appropriate for the species;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An adequate enclosure with sufficient space so as not to be inhumane;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Adequate heating and lighting as required for the species; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Routine and emergency veterinary care as needed.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Hens.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep a hen if:</text>
+        <para>
+          <num>(a)</num>
+          <text>A permit is obtained from the Office of Animal Control;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A Maryland Poultry Premises Registration is obtained through the Maryland Department of Agriculture; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All applicable zoning and building permits or authorizations are obtained prior to building or using a hen coop or loft.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a person permitted to keep a hen plans to sell or otherwise provide eggs, an egg producers license shall be obtained through the Maryland Department of Agriculture.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person permitted to keep a hen shall ensure that the animal:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is provided with:</text>
+          <para>
+            <num>(i)</num>
+            <text>Potable water;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Proper feed; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Veterinary care if the animal is known or suspected to be sick or injured.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Does not perch or roam on the property of others.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A person permitted to keep a hen shall provide a coop or loft to house the animal that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is well-constructed;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is sanitary and adequately sized;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provides shade during warm weather;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Provides suitable protection from inclement weather and predation;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Is not within 15 feet of a residence;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Is cleaned and managed to minimize odors and materials that may attract rodents;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Is moved frequently to minimize turf destruction and the build-up of manure borne pathogens such as coccidiosis and roundworms; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Allows a minimum of 2 square feet per hen.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A person permitted to keep a hen may keep:</text>
+        <para>
+          <num>(a)</num>
+          <text>Four hens over the age of 1 month on a lot less than 2,000 square feet; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>One additional hen over the age of 1 month for every additional 1,000 square feet of lot area over 2,000 square feet, not to exceed a total of 10 hens.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Hens – Community Farms or Gardens or Urban Agricultural Enterprises.</text>
+      <para>
+        <num>(1)</num>
+        <text>A community farm or garden or urban agricultural enterprise may keep hens in numbers greater than 10 if a permit is obtained from the Office of Animal Control.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A community farm or garden or urban agricultural enterprise shall include a written management plan with the permit application stating how:</text>
+        <para>
+          <num>(a)</num>
+          <text>The hens will be housed;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The hens and their feed will be protected from predators and other pests;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Waste will be managed; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Impacts to surrounding property owners and neighbors will be minimized.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Health Commissioner may deny a permit to keep hens in numbers greater than 10 to a community farm or garden or urban agricultural enterprise at their discretion.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In addition to adhering to the provisions noted in §I(1)—(4) of this regulation, a community farm or garden or urban agricultural enterprise permitted to keep hens may keep:</text>
+        <para>
+          <num>(a)</num>
+          <text>Up to 10 hens on lots greater than 5,000; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>One additional hen over the age of 1 month for every additional 1,000 square feet of lot area, not to exceed a total of 50 hens.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Honey Bees.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep honey bees if:</text>
+        <para>
+          <num>(a)</num>
+          <text>A permit is obtained from the Office of Animal Control; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The activity is registered with the Maryland Department of Agriculture.</text>
+        </para>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>A person permitted to keep honey bees may keep:</text>
+        <para>
+          <num>(a)</num>
+          <text>Two colonies and 1 nucleus colony for lots up to 2,500 square feet; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>One additional colony and 1 additional nucleus colony for every additional 2,500 square feet of lot area over 2,500 square feet.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Requirements for hives housing colonies.</text>
+        <para>
+          <num>(a)</num>
+          <text>Except where a solid wall or fence measuring at least 5 feet in height and at least 5 feet in width is located at a lot line to provide a barrier, a person permitted to keep honey bees shall ensure that:</text>
+          <para>
+            <num>(i)</num>
+            <text>The bees or hive are not located within 5 feet of a lot line; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The bees or hive are inaccessible to the public.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A person permitted to keep honey bees shall ensure that honey bee movement to and from the hive does not unreasonably interfere with:</text>
+          <para>
+            <num>(i)</num>
+            <text>The reasonable enjoyment of the property of others;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The comfort of the public or domestic animals; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The use of a public right-of-way.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Rabbits.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may keep a rabbit if a permit is obtained from the Office of Animal Control.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person applying for a permit to keep a rabbit shall include a written management plan with the permit application stating how:</text>
+        <para>
+          <num>(a)</num>
+          <text>The rabbit will be housed;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Waste will be managed;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The rabbit and their feed will be protected from predators and other pests;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The keeping of breeding pairs and young will be managed to avoid unwanted litters resulting in rabbits exceeding the number allowed; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Aggressive behavior in group housing will be monitored, specifically in male rabbits, to mitigate injuries caused by fighting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person permitted to keep a rabbit may keep:</text>
+        <para>
+          <num>(a)</num>
+          <text>Up to 12 total rabbits with no more than 1 breeding pair on lots less than 1,000 square feet; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Up to 24 total rabbits with no more than 2 breeding pairs on lots greater than 1,000 square feet.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A person permitted to keep a rabbit shall provide the animal with a shelter that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Allows a minimum of 3 square feet per rabbit;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provides suitable protection from inclement weather;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is adequately sized and not within 15 feet of a residence;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Is kept clean and free of odors or materials that may attract rodents; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Is moved frequently to minimize turf destruction and the buildup of manure borne pathogens.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A person permitted to keep a rabbit shall provide the animal with:</text>
+        <para>
+          <num>(a)</num>
+          <text>Shade during warm weather;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Adequate potable water at all times;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Adequate amounts of feed at all times; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Veterinary care if the animal is known or suspected to be sick or injured.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Permitting Process for Allowed Wild, Exotic, Hybrid, and Livestock Animals.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person intending to keep an allowed wild, exotic, hybrid, or livestock animal shall submit a permit application that has been completed in accordance with §B—H of this regulation to the Office of Animal Control within 10 days of acquiring the animal.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To obtain a permit, an applicant shall submit the following to the Office of Animal Control:</text>
+      <para>
+        <num>(1)</num>
+        <text>An affidavit certifying that neither the applicant nor an operator, employee, or agent of the applicant has ever been convicted of animal abuse, cruelty, or neglect;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The applicant's name and address;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The type, breed, age, and the gender of the animal; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Written permission from the property owner giving permission to have the animal on the premises, if the applicant is renting the property that will house the animal.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Except in the case of beekeeping, an applicant shall further provide:</text>
+      <para>
+        <num>(1)</num>
+        <text>A photo of the animal; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Proof of current vaccinations and health examination;</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Office of Animal Control may request vaccination and health records for inspection.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Except as provided in §F of this regulation, a permit will be valid only at the location where the animals are normally housed.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A beekeeping permit will be valid for each host site that is properly registered and approved under the permit with the Office of Animal Control.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Permit Fees.</text>
+      <para>
+        <num>(1)</num>
+        <text>With the exception of honey bees and as provided in §G(2) of this regulation, the applicant shall remit a permit application fee of $80.00 for an individual animal or group of animals of the same type.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An applicant may remit one permit application fee for a collection of snakes, lizards and green iguanas, which are considered the same type of animal for the purpose of permit fees.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An applicant shall remit the permit fee:</text>
+        <para>
+          <num>(a)</num>
+          <text>In cash or by certified check, bank check, or money order made payable to the Director of Finance for the total cost of the permit; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Along with the completed application to the Office of Animal Control</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>A permit will remain valid unless it is suspended or revoked by the Health Commissioner.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Keeping Animals for Purposes of Urban Agriculture.</heading>
+    <para>
+      <num>A.</num>
+      <text>In addition to the permit requirements in regulation .05 of this Chapter, a person who keeps an animal for purposes of urban agriculture shall adhere to applicable:</text>
+      <para>
+        <num>(1)</num>
+        <text>Zoning requirements; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Requirements of the Maryland Department of Agriculture.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Where contiguous lots are used cooperatively as part of a single farm or agricultural enterprise, a person who keeps an animal for purposes of urban agriculture may consider the contiguous lots as a single lot for the purposes of calculating:</text>
+      <para>
+        <num>(1)</num>
+        <text>Minimum space requirements; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contiguous open space.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If lots used cooperatively under §B(1)—(2) of this Regulation are titled under different owners, a person who keeps animals for purposes of urban agriculture shall obtain written permission from each property owner to have animals on the property.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A person who keeps animals for purposes of urban agriculture may not slaughter animals for food, fur or other products</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Non-Profit 501(c)(3) Community Farms or Gardens.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Office of Animal Control may waive certain restrictions on types or quantities of animals in this chapter for non-profit 501(c)(3) Community Farms or Gardens that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Serve the community; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide education to the public on proper animal care and husbandry.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To apply for a waiver, a community farm or garden shall submit an application outlining the following criteria:</text>
+      <para>
+        <num>(1)</num>
+        <text>Type of animal and breed;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Quantity of animals;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Gender of animals, including their status as altered or unaltered;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Breeding population, if applicable;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Habitat or shelter for the animals;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Containment or restraint plan;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Extreme and inclement weather protection plan;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Space requirements;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The animals' dietary needs;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Preventative healthcare plan including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Coat;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Hoof;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Horn;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Dental care; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Vaccines;</text>
+        </para>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Veterinary care plan including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Veterinarian identification and information; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Health certificates;</text>
+        </para>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Disease prevention plan; and</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Nuisance mitigation.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Office of Animal Control may not waive an application for an animal that has not been properly registered with the State of Maryland as required.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Denial, Amendment, Suspension, Revocation, or Refusal to Renew a Permit.</heading>
+    <para>
+      <num>A.</num>
+      <text>Subject to the provisions of Baltimore City Health Code § 10-219 and § 10-220, the Health Commissioner may deny, amend, suspend, revoke, or refuse to renew a permit issued under these regulations.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The provisions of Baltimore City Health Code §§ 10-222, 10-223, 10-224 apply to a permit issued under these regulations.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Health Code, § 2-106 and Title 10, Subtitle 6</annotation>
+  </annotations>
+</container>

@@ -16,11 +16,11 @@
     <history-start>2024-03-13</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="baltimore-legref/law-xml" commit="9612d74174ebc323635d872231608fe6756f8124"/>
+        <repository name="baltimore-legref/law-xml" commit="0a380e8806d99af90afa609e0e8c2dea1922c2b1"/>
       </repositories>
-      <platform version="2.17.14" reproducible="false"/>
-      <build-date>2025-10-06</build-date>
-      <codified-date>2026-09-15</codified-date>
+      <platform version="2.17.4" reproducible="false"/>
+      <build-date>2025-10-28</build-date>
+      <codified-date>2026-01-01</codified-date>
     </build>
   </meta>
   <xi:include href="./us/md/cities/baltimore/charter.xml"/>
@@ -33,12 +33,10 @@
     <xi:include href="./us/md/cities/baltimore/ordinances/2024/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/ordinances/2023/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/ordinances/2022/index.xml"/>
-    <xi:include href="./us/md/cities/baltimore/ordinances/2021/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/ordinances/2020/index.xml"/>
   </collection>
   <collection name="us/md/cities/baltimore/resolutions">
     <heading>Resolutions</heading>
-    <xi:include href="./us/md/cities/baltimore/resolutions/2025/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/resolutions/2024/index.xml"/>
   </collection>
   <collection name="us/md/legis/acts">
@@ -49,4 +47,5 @@
     <heading>Historic Council Rules</heading>
     <xi:include href="./us/md/cities/baltimore/council/sessions/2020/rules/index.xml"/>
   </collection>
+  <xi:include href="./us/md/cities/baltimore/cobra/index.xml"/>
 </library>

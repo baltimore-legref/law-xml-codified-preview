@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>DEFINITIONS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this subtitle, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Adjacent owner" means the owner of record for a property that is adjacent to a vacant lot that is a part of a proposed side yard disposition.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Affordable housing land trust.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Affordable housing land trust" has the meaning stated in <cite doc="Md. Code" path="grp|14-501">Real Property Article §14-501, Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Affordable housing land trust" includes a community housing land trust.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Applicant" means a person who has applied to purchase a property from the Department through a disposition program.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Application document" means the form created by the Department to apply for a disposition program.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Applicant type" means a category of applicant applying for a disposition program including a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Homeowner;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For-profit developer;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Large 501(c)(3) nonprofit;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Small 501(c)(3) nonprofit; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Community land trust.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"BOE portal" means the web-based system implemented by the Baltimore City Office of the Comptroller to submit required items to the Board of Estimates for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Review; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Approval.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Board" means the Baltimore City Board of Estimates.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"BuyIntoBmore" means the initiative developed by the Department that posts properties for sale through a disposition program.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Commissioner" means:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Commissioner of the Department of Housing and Community Development; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Commissioner's designee.</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Compliance officer" means a Department employee responsible for oversight of the terms of a land disposition agreement.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Department" means the Baltimore City Department of Housing and Community Development.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Disposition" means the sale of City-owned property.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Disposition program" means a program regulated under this subtitle intended to convey a City-owned property through:</text>
+        <para>
+          <num>(a)</num>
+          <text>Sale;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Lease;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Transfer;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Swap; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Another means of conveyance as approved by the Commissioner.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Financial document.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Financial document" means proof of monetary funds.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Financial document" includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>A bank statement;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A pre-approval letter from a lending institution;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A retirement account statement;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>An investment account statement; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Additional documentation as approved by the Commissioner.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Fixed Pricing Policy" means a policy approved by the Department and the Board for use in the Fixed Pricing Program that establishes sale prices for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Various applicant types, as provided for under this subtitle; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Various property types, as provided for under this subtitle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Fixed Pricing Program" means the disposition program operated by the Department to sell properties valued at less than $100,000 to allowed applicant types.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"For-profit developer" means a person focused on rehabilitation or new construction of a property with the primary goal of generating revenue.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>"Good standing" means the status conferred by the Maryland State Department of Assessments and Taxation through a Certificate of Status.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Green space.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Green space" means an unimproved parcel of land that does not include a habitable structure at the time of purchase.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Green space" includes a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Side yard, if the side yard does not include a livable space;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Community garden; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Park.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Green space" does not include a parcel of land used for:</text>
+          <para>
+            <num>(i)</num>
+            <text>Commercial use; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Urban agriculture.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>"Homeowner" means the owner of record of a property who has an approved homestead application through the Maryland State Department of Assessments and Taxation.</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>"Housing market typology" means a classification system developed by the Baltimore City Department of Planning that broadly categorizes and analyzes Baltimore City housing data.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>"Land disposition agreement" means a contract of sale between the City, the Department, and an approved applicant that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Outlines disposition terms; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Contains the sections required by this subtitle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>"Large 501(c)(3) nonprofit" means a 501(c)(3) nonprofit with 50 or more employees.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>"Lien" means a legal claim against a property for a debt.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>"Nuisance property" has the meaning stated in City Code Article 13, § 5-15(a).</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>"Owner-occupied" means a property that is the primary residence of the owner of record.</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>"OHAAT" means the One House at a Time Baltimore Program.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>"Person" has the meaning stated in City Code <cite doc="Md. Code" path="ggp|1-107">General Provisions Article § 1-107</cite>.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>"Purchaser" means an applicant for a disposition program that has received and returned an award letter from the Department in accordance with this subtitle.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>"Remote Online Notary (RON)" means a vendor whose technology is authorized for use during remote notarial acts in the State of Maryland.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>"SDAT" means the Maryland State Department of Assessment and Taxation.</text>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text>"Side yard" means vacant land for sale by the Department that is adjacent to an applicant's property.</text>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text>"Site assemblage" means the combination of multiple properties to create a larger development site.</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>"Six-year period" means the combination of the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Twelve-month period during which an applicant is required to obtain an occupancy permit in accordance with this subtitle; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Five-year period during which an applicant is required to maintain primary residency at a property in accordance with this subtitle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(35)</num>
+        <text>"Small 501(c)(3) nonprofit" means a 501(c)(3) nonprofit with fewer than 50 employees.</text>
+      </para>
+      <para>
+        <num>(36)</num>
+        <text>Occupancy Permit.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Occupancy permit" has the meaning stated in 202.2.45 Baltimore City Building Code, Building, Fire, and Related Codes of Baltimore City, 2024 Edition.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Occupancy permit" means a permit issued by the Department that confirms the:</text>
+          <para>
+            <num>(i)</num>
+            <text>Intended use of a property; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Maximum number of individuals who may occupy a property.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(37)</num>
+        <text>"Vacant building notice" means a designation conferred by the City to a property that is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Uninhabitable;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Unusable; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A nuisance property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(38)</num>
+        <text>"Vacant structure" has the meaning stated in City Code Article 13, § 4-1(i).</text>
+      </para>
+      <para>
+        <num>(39)</num>
+        <text>"Vacant lot" means a lot with no physical structures that has:</text>
+        <para>
+          <num>(a)</num>
+          <text>Failed to abate a code violation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Been issued a vacant building notice.</text>
+        </para>
+      </para>
+      <para>
+        <num>(40)</num>
+        <text>"Waiver valuation" means a process used by the Department to determine the value of a property rather than obtaining a third-party appraisal.</text>
+      </para>
+      <para>
+        <num>(41)</num>
+        <text>"Whole block strategy" means a redevelopment plan that focuses on revitalizing an entire block rather than individual properties.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code, Article 13 § 2-7(h), (w)</annotation>
+  </annotations>
+</container>

@@ -1,0 +1,1765 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>04</num>
+  <heading>WATERSHED REGULATIONS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <para>
+      <num>A.</num>
+      <text>This chapter establishes rules for:</text>
+      <para>
+        <num>(1)</num>
+        <text>Recreational uses of the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Loch Raven Reservoir, including its:</text>
+          <para>
+            <num>(i)</num>
+            <text>Tributaries; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Surrounding property.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Prettyboy Reservoir, including its:</text>
+          <para>
+            <num>(i)</num>
+            <text>Tributaries; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Surrounding property.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Liberty Reservoir, including its:</text>
+          <para>
+            <num>(i)</num>
+            <text>Tributaries; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Surrounding property.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Protection of:</text>
+        <para>
+          <num>(i)</num>
+          <text>The water supply;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Watershed property; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The public.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>These regulations govern City water quality management areas under control of the City and administered by the Department of Public Works, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Reservoirs; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Adjacent watersheds.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Baltimore County" means the County Council and municipal government of Baltimore County, Maryland.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Baltimore City reservoir.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Baltimore City reservoir" means a reservoir owned and operated by Baltimore City.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Baltimore City reservoir" includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>Prettyboy Reservoir;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Liberty Reservoir; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Loch Raven Reservoir.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Baltimore Environmental Police" means a sworn police officer appointed by the Director to protect persons and natural resources within a water quality management area.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"City" means the Mayor and City Council of Baltimore.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Deer trail" means a trail that has been worn down by the passage of deer and other wildlife.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Department" means the Baltimore City Department of Public Works.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Director" means the Director of the Baltimore City Department of Public Works.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Double bottom" means an additional layer of structure below the main bottom of a watercraft.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Environmentally sensitive area" means a location within a water quality management area with ecologically vulnerable features, including a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Wetland;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Stream; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Steep slope.</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Firearm" has the meaning stated in § 14-101 of the City Code Health Article.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Fish refuge area" means:</text>
+        <para>
+          <num>(a)</num>
+          <text>The area south of the Route 26 Bridge at Liberty Reservoir;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The area south of the Loch Raven Drive Bridge at Loch Raven Reservoir; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An area within 1500 feet of the dam at Prettyboy Reservoir.</text>
+        </para>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Flotation material" means a substance made of composite materials designed to increase buoyancy in a watercraft.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Geocaching" means to hide a small container or other item at discrete locations for the purpose of using GPS coordinates to locate the item.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Hunt.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Hunt" means to pursue or attempt to pursue a bird or mammal to personal possession.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Hunt" includes the pursuit or attempted pursuit of a bird or mammal through the act of:</text>
+          <para>
+            <num>(i)</num>
+            <text>Capturing;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Catching;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Killing;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Gigging;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Trapping; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Shooting.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Livestock" means a domesticated animal ordinarily raised in an agricultural setting including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Cattle;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Sheep;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Horses; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Goats.</text>
+        </para>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Magnet fishing" means to remove or attempt to remove a metal object from a body of water by use of a magnet attached to the end of a rope.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"DNR" means the Maryland Department of Natural Resources.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Motorized vehicle.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Motorized vehicle" means a mode of transportation powered by an internal engine by which a person or property may be transported on a roadway.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Motorized vehicle" includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>An electronic bicycle;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A dirt bike;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>An all-terrain vehicle;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A snowmobile; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A vehicle being towed by another motorized vehicle.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Nonlethal firearm.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Nonlethal firearm" means a device that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Fires nonlethal ammunition using compressed air; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Is intended to incapacitate, but not kill, a target.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Nonlethal firearm" includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>An air rifle; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A paintball gun.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>"Organized group activity" means an event that is:</text>
+        <para>
+          <num>(a)</num>
+          <text>coordinated by a verifiable person, company, or entity, as defined by these regulations; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>scheduled for a particular date and time.</text>
+        </para>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>"Paddle boat" means a watercraft that is propelled through the use of a paddle wheel.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>"Pedal kayak" means a watercraft with a closed deck that is propelled by foot pedals that drive a propeller or fins.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>"Permit holder" means a person who has obtained a permit to operate a watercraft at a water quality management area in accordance with this chapter from:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Baltimore County.</text>
+        </para>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>Person.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Person" has the meaning stated in City Code <cite doc="Md. Code" path="ggp|1-107">General Provisions Article, § 1-107</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Person" includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>Personal flotation device.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Personal flotation device" means a piece of equipment used to prevent drowning.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Personal flotation device" includes a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Life jacket;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Life vest;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Life belt;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Flotation aid;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Buoyant cushion; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Ring buoy.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>"Polluting" means:</text>
+        <para>
+          <num>(a)</num>
+          <text>Contaminating a Baltimore City reservoir or a tributary;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Storing hazardous materials in a manner that threatens the public water supply; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Altering the water in a Baltimore City reservoir or tributary in a manner that could harm:</text>
+          <para>
+            <num>(i)</num>
+            <text>Public health;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Public safety; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The welfare of local wildlife.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>"Reservoir watershed" means the source water area for the Baltimore Metropolitan Supply as defined by the Baltimore Metropolitan Council.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>"Right of entry agreement" means a contract between a person and the City of Baltimore which allows access during a prescribed period of time for a defined group of people to engage in specific activities within a WQMA.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>"Smoke" means to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Burn or carry a lit tobacco product;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Burn or carry a lit cannabis product; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Inhale vapors from or otherwise allow vapors to be emitted from an electronic smoking device.</text>
+        </para>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>"State" means the State of Maryland.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>"Verifiable" means possessing documentation which is recognized as valid by a state or local government as a means of establishing the identity of a person, organization, or other entity.</text>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text>"Watercraft" means a vessel licensed by the State:</text>
+        <para>
+          <num>(a)</num>
+          <text>Designed for travel across or through a body of water; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Powered by a means of propulsion in accordance with this chapter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text>"Watercraft launch area" means a designated ramp for watercraft launch and recovery.</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>Water Quality Management Area (WQMA).</text>
+        <para>
+          <num>(a)</num>
+          <text>"Water quality management area" means a reservoir or adjoining land controlled or owned by the City of Baltimore</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Water quality management area" includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>A leased property within a WQMA boundary;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Woods within a WQMA boundary;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A utility right-of-way within a WQMA boundary;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Infrastructure within a WQMA; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Infrastructure required to direct water from a reservoir to a water treatment facility.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(35)</num>
+        <text>"Watershed" has the meaning stated in City Code Article 7, § 21-1(aa).</text>
+      </para>
+      <para>
+        <num>(36)</num>
+        <text>"Woods road" means an unpaved road in a water quality management area built and maintained by the City.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Watercraft Specifications.</heading>
+    <para>
+      <num>A.</num>
+      <text>In addition to the vessel specifications in regulation .05 of this chapter, a permit holder operating a watercraft in a WQMA shall ensure that the watercraft:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is in compliance with applicable federal and State boating safety requirements;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is buoyant if submerged through use of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Permanently installed air chambers; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Flotation materials.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is constructed of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Marine plywood a minimum of ¼ inch thick;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Wood plank;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Metal;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Fiberglass; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Plastic.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Is propelled by:</text>
+        <para>
+          <num>(a)</num>
+          <text>Rowing;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Sculling;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pedaling; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A battery-powered electric motor in accordance with §B of this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Is equipped with:</text>
+        <para>
+          <num>(a)</num>
+          <text>One wearable personal flotation device for each person on board;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>One throwable personal flotation device for watercraft longer than 16 feet;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A means of producing a sound such as a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Whistle;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Bell; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Horn.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Closed compartments under seats or thwarts;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Double bottoms that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Are not sealed to the hull; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Are not completely filled with flotation materials.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Closed storage compartments; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Permanently installed fuel tanks that contain a fire extinguisher.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A permit holder operating a watercraft with a battery-powered electric motor in a WQMA shall ensure the battery powered electric motor does not exceed a maximum output of 18kW.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The City may remove a watercraft from a WQMA whose occupants are found in violation of this chapter.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Watercraft Specifications – Prohibitions.</heading>
+    <text>A permit holder may not operate the following types of watercraft in a WQMA:</text>
+    <para>
+      <num>A.</num>
+      <text>A watercraft with a gasoline-powered motor;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A watercraft propelled by sails;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A pontoon boat;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A paddle boat;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A stand-up paddle board;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A watercraft with an electric motor that does not conform to the manufacturer's specification; or</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>A watercraft that is:</text>
+      <para>
+        <num>(1)</num>
+        <text>Inflatable;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Foldable; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Collapsible.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Watercraft Specifications – Vessel Specific.</heading>
+    <para>
+      <num>A.</num>
+      <text>Boats.</text>
+      <text>A permit holder operating a boat in a WQMA shall ensure the boat has:</text>
+      <para>
+        <num>(1)</num>
+        <text>A minimum length of 12 feet;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A maximum length of 20 feet;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A beam width of no less than 48 inches; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A depth of no less than 18 inches.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Canoes.</text>
+      <text>A permit holder operating a canoe in a WQMA shall ensure the canoe has:</text>
+      <para>
+        <num>(1)</num>
+        <text>A minimum length of 12 feet;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A maximum length of 20 feet; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A beam width of at least 35 inches.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Kayaks.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder operating a kayak in a WQMA shall ensure the kayak has:</text>
+        <para>
+          <num>(a)</num>
+          <text>A minimum length of 12 feet; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A maximum length of 20 feet.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder may operate a pedal kayak in a WQMA.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Kayaks designed by the manufacturer to have insertable motors may be operated in a WQMA if:</text>
+        <para>
+          <num>(a)</num>
+          <text>no motor is used in the kayak; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>an electric motor complying with Regulation .03 of this chapter is used in the kayak.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Rowing Shell.</text>
+      <text>A permit holder operating a rowing shell in a WQMA shall ensure the rowing shell has:</text>
+      <para>
+        <num>(1)</num>
+        <text>A minimum length of 12 feet; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A maximum length of 20 feet.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Watercraft Permits – Baltimore City Reservoirs.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person shall apply for a watercraft permit to operate a vessel at:</text>
+      <para>
+        <num>(1)</num>
+        <text>Liberty Reservoir;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Prettyboy Reservoir; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Loch Raven Reservoir.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department shall only issue a watercraft permit for use at:</text>
+      <para>
+        <num>(1)</num>
+        <text>Liberty Reservoir; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Prettyboy Reservoir.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A person may apply for a watercraft permit for Loch Raven Reservoir through Baltimore County.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A person applying for a watercraft permit issued by the Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit to the Department:</text>
+        <para>
+          <num>(a)</num>
+          <text>A completed and signed permit application form; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An affidavit certifying that the watercraft for which the permit is sought will be used only at a WQMA; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Remit a permit application fee of $60.00, made payable to the Director of Finance via:</text>
+        <para>
+          <num>(a)</num>
+          <text>Certified check;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Bank check; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Money order.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The City may reinstate a moratorium on the issuance of a permit for the use of private watercraft at a WQMA.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The City may not issue a permit for watercraft:</text>
+      <para>
+        <num>(1)</num>
+        <text>Equipped with:</text>
+        <para>
+          <num>(a)</num>
+          <text>An internal combustion motor; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A gasoline motor.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Longer than 20 feet.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Permit Revocation.</text>
+      <text>The City may revoke a permit if the permit holder is found in violation of a:</text>
+      <para>
+        <num>(1)</num>
+        <text>Federal law;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>State law;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>City law; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>This chapter.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Watercraft Use in WQMAs.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person may operate a watercraft in a WQMA if that person:</text>
+      <para>
+        <num>(1)</num>
+        <text>Has obtained a permit in accordance with .06 of this chapter; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ensures the watercraft complies with the provisions of .06 of this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A permit holder operating a watercraft in a WQMA:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall ensure that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Launch and recovery of the watercraft occurs at designated ramps;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The watercraft is securely locked at a designated area when not in use; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The watercraft is kept between the chain or cable and the water.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May not:</text>
+        <para>
+          <num>(a)</num>
+          <text>Allow an unaccompanied person under the age of 18 to operate or occupy the watercraft unless accompanied by the permit holder;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Interfere with persons fishing; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Operate the watercraft:</text>
+          <para>
+            <num>(i)</num>
+            <text>Between January 1 and February 28 annually, inclusive of leap years;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Between sunset and sunrise;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Between Liberty Road and Liberty Dam;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Within 1500 feet of Prettyboy Dam;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>With a number of occupants greater than authorized by the watercraft manufacturer;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>When a body of water is frozen or partially frozen; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Within a fish refuge area.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Animals.</heading>
+    <para>
+      <num>A.</num>
+      <text>Pets.</text>
+      <text>A person may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Bring an unleased pet into a WQMA; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Allow a pet to swim in a reservoir.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Horses.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may ride a horse on an unpaved woods road in a WQMA.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person may not ride a horse:</text>
+        <para>
+          <num>(a)</num>
+          <text>Along a paved road, unless necessary to reach a woods road within a WQMA;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Through a wetland within a WQMA;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>On the property of the:</text>
+          <para>
+            <num>(i)</num>
+            <text>Pine Ridge Golf Course; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Loch Raven Skeet and Trap Center.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In general areas within a WQMA including:</text>
+          <para>
+            <num>(i)</num>
+            <text>A picnic area;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A parking lot;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A police pistol range;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A maintenance facility area;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A boat dock area;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>An area between woods roads;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>An environmentally sensitive area;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>A wetland;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>The area below a high-water line in a reservoir or tributary stream; and</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>The reservoir or tributary stream.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Grazing and Free Roaming.</text>
+      <text>A person may not allow the grazing or free roaming of livestock at a WQMA.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Fishing.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except in a posted area, a person in possession of a Maryland Freshwater Sportfishing License may fish within a WQMA if the person complies with the provisions of this regulation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In General.</text>
+      <para>
+        <num>(1)</num>
+        <text>Fishing at a WQMA is permitted:</text>
+        <para>
+          <num>(a)</num>
+          <text>Between the hours of sunrise and sunset; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>From watercrafts between March 1 and December 31 annually.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fishing is permitted from the banks year-round.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person fishing may not drill through the ice to fish.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Vessels.</text>
+      <text>A person fishing at a WQMA may do so from a:</text>
+      <para>
+        <num>(1)</num>
+        <text>Rowboat;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Runabout type boat;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Canoe; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Kayak.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Areas.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person fishing at a WQMA may fish from designated areas on the shore of a reservoir.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person fishing at a WQMA may not fish:</text>
+        <para>
+          <num>(a)</num>
+          <text>Between Liberty Road and Liberty Dam;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Within 1500 feet of Prettyboy Dam;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In an area designated as a fish refuge area; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In an area where:</text>
+          <para>
+            <num>(i)</num>
+            <text>The banks are steep;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>There are rock cliffs or promontories; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>There is danger of a person falling into the water with resultant risk of injury or drowning.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person may only fish from a bridge in a WQMA on a designated platform provided at the following places:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Dulaney Valley Road bridge at Loch Raven Reservoir, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Deer Park/Nicodemus Road bridge at Liberty Reservoir.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Equipment.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person fishing at a WQMA may use a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Rod;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Hook;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Line; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Single artificial lure.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person fishing at a WQMA may not use a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Net;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Bow;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Spear; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Device other than those provided for in §E(1) of this regulation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Prohibited Activities.</text>
+      <text>A person fishing at a WQMA may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Ice fish;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Magnet fish; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Fish from a rowing shell.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Hunting.</heading>
+    <para>
+      <num>A.</num>
+      <text>Bow Hunting.</text>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in A(2) of this regulation, a person in possession of a Maryland hunting license may hunt with bow and arrow at a WQMA:</text>
+        <para>
+          <num>(a)</num>
+          <text>With the applicable material required by DNR as set forth in:</text>
+          <para>
+            <num>(i)</num>
+            <text>The Hunting and Trapping in Maryland guide;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Liberty and Prettyboy Reservoirs Bow Hunting Permit; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The Loch Raven Reservoir Deer Bow Hunting Permit issued by DNR.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Within designated bow hunting areas between:</text>
+          <para>
+            <num>(i)</num>
+            <text>One half-hour before sunrise during the season specified by DNR; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>One half-hour after sunset during the season specified by DNR.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>With the use of a temporary or portable tree stand which the permit holder shall ensure is removed daily; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If gear intended to cover or obscure the face is removed:</text>
+          <para>
+            <num>(i)</num>
+            <text>Upon leaving a WQMA; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Within 100 yards of another person.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A permit holder may bow hunt only white-tailed deer at Loch Raven Reservoir.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Location Prohibitions.</text>
+      <text>A permit holder may not hunt:</text>
+      <para>
+        <num>(1)</num>
+        <text>South of Liberty Road on the Baltimore County side of Liberty WQMA;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Southeast of Prettyboy Dam Road in the Prettyboy WQMA; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Within 50 feet of the high water shoreline.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Sport Prohibitions.</text>
+      <text>A permit holder may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Trap;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Bait for deer or other wildlife;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Hunt waterfowl;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Build or occupy a hunting blind; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Use a permanent tree stand.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Other Recreational Activities.</heading>
+    <para>
+      <num>A.</num>
+      <text>Picnicking.</text>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in §A(3) of this regulation, picnicking is permitted within a WQMA between sunrise and sunset.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person picnicking within a WQMA shall ensure personal refuse is removed from the area upon departure.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person picnicking within a WQMA may not:</text>
+        <para>
+          <num>(a)</num>
+          <text>Picnic in:</text>
+          <para>
+            <num>(i)</num>
+            <text>The Loch Raven Skeet and Trap Center;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Pine Ridge Golf Course;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A Maryland State Police pistol range;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A Baltimore County Police pistol range;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A watercraft launch area;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>An area directly adjacent to storage or maintenance of City owned equipment or vehicles;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>An area with steep banks;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>An area with rocky promontories; or</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>An area where there is danger of a person falling into the water with resultant risk of injury or drowning.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Use a heating source, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>A fire;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A gasoline or alcohol stove;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A propane grill or stove; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A gasoline or charcoal grill;</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Nonmotorized biking.</text>
+      <para>
+        <num>(1)</num>
+        <text>A person may operate a nonmotorized bicycle in a WQMA on a designated bicycle route.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person operating a nonmotorized bicycle in a WQMA shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Ensure the nonmotorized bicycle is equipped with a bell to be sounded upon approaching a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Curve; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Crest of a hill.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Yield the trail in the presence of a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Hiker; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Horseback rider.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person may not operate a nonmotorized bicycle in a WQMA:</text>
+        <para>
+          <num>(a)</num>
+          <text>On a deer trail;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>On a designated bicycle route that is wet or muddy;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>At an excessive speed; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Through a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Wetland; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Environmentally sensitive area.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Organized group activities.</text>
+      <text>A person may participate in an organized group activity within a WQMA if a fully executed Right of Entry Agreement is obtained from the Department in accordance with Regulation .12 of this chapter.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Recreational Activities – Right of Entry Agreement.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person shall obtain a Right of Entry Agreement for an organized group activity in a WQMA.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person may execute a Right of Entry Agreement for a group activity in a WQMA by emailing the Office of Legal and Regulatory Affairs, using the contact information found on the Department website.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Recreational Activities - Additional Prohibitions.</heading>
+    <text>A person in a WQMA may not:</text>
+    <para>
+      <num>A.</num>
+      <text>Camp;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Erect a structure, whether permanent or temporary;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Climb a tree, except as provided in regulation .10 of this chapter;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Rock climb or rappel;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Swim in a reservoir;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Wade in a reservoir;</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Remove:</text>
+      <para>
+        <num>(1)</num>
+        <text>Geological material;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Biological material; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An archaeological artifact.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Use a metal detector;</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Skate or walk on frozen sections of the watershed;</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Engage in geocaching activities; or</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Bungee jump.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.14</num>
+    <heading>Wildlife.</heading>
+    <text>A person may not feed the wildlife at a WQMA.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.15</num>
+    <heading>Trespassing.</heading>
+    <text>A person may not enter:</text>
+    <para>
+      <num>A.</num>
+      <text>A WQMA from sunset to sunrise, except as provided in regulation .10 of this chapter;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An area of a WQMA posted as closed or otherwise restricted; or</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A building or structure closed to the public.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.16</num>
+    <heading>Weapons.</heading>
+    <text>A person may not possess a firearm in a WQMA, unless the person is:</text>
+    <para>
+      <num>A.</num>
+      <text>Making lawful use of the Loch Raven Skeet and Trap Center; or</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A sworn police officer, including a member of the Baltimore Environmental Police.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.17</num>
+    <heading>Disorderly Conduct.</heading>
+    <text>A person may not interfere with City personnel or a City contractor conducting operations in a WQMA.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.18</num>
+    <heading>Fires.</heading>
+    <text>A person may not light or maintain a fire in a WQMA, including:</text>
+    <para>
+      <num>A.</num>
+      <text>A charcoal grill;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A stove;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A lantern; or</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A cooking fire.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.19</num>
+    <heading>Refuse and Pollution.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person may not pollute a WQMA.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person shall remove refuse and personal effects brought into a WQMA, including, but not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Bottles and cans;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Signs, handbills and posters;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Unapproved trail markers and signs; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Human or animal waste.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.20</num>
+    <heading>Intoxicants.</heading>
+    <text>A person may not:</text>
+    <para>
+      <num>A.</num>
+      <text>Smoke in a WQMA, except:</text>
+      <para>
+        <num>(1)</num>
+        <text>On a paved road; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In a parking area.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Possess or consume an alcoholic beverage in a WQMA.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.21</num>
+    <heading>Vehicles and Parking.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person may not operate a motorized vehicle on an unpaved woods road, except:</text>
+      <para>
+        <num>(1)</num>
+        <text>A designated patrol vehicle;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A designated emergency vehicle; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A contractor working on behalf of the City of Baltimore.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Block:</text>
+        <para>
+          <num>(a)</num>
+          <text>A woods road entrance with a vehicle; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A gate or public access with a vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Park in violation of a posted sign or where otherwise prohibited.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.22</num>
+    <heading>Vending.</heading>
+    <text>A person may not engage in the following activities in a WQMA without the written permission of the City of Baltimore Board of Estimates after making a request to the Director:</text>
+    <para>
+      <num>A.</num>
+      <text>Selling goods or services;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Renting goods or services; or</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Advertising goods or services.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">City Code, Article 24 §§ 1-1, 21-1</annotation>
+  </annotations>
+</container>

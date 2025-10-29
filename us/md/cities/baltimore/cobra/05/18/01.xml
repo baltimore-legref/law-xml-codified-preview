@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Adoption, Applicability, and Scope of Regulations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Adoption.</text>
+      <text>The Baltimore City Department of Finance ("DOF") adopts these rules and regulations under City Code Article 28, §8-5.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Applicability.</text>
+      <text>These rules and regulations are in addition to all applicable laws found in the City Code Article 28, other applicable sections of the City Code, and the Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Scope of Regulations.</text>
+      <para>
+        <num>(1)</num>
+        <text>Effective July 1, 2021, certain homeowners are eligible to apply during a two-month period beginning February 15 of that fiscal year to have their properties withheld from the annual tax sale list.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>This section applies to the sale of a dwelling with an assessed value of $250,000 or less.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The aggregate tax and lien liability of all properties withheld from the annual tax sale list may not exceed $2 million in any tax year.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Dwelling" has the meaning stated in State Tax-Property-Article § 9-105(a)(5).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Finance" means the Baltimore City Department of Finance.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"HCD" means the Baltimore Department of Housing and Community Development.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Homeowner" has the meaning stated in State Tax-Property-Article §9-105(a)(7).</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Program" means the Tax Sale Exemption Program.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Tax" has the meaning stated in State Tax-Property-Article § 14-801(d).</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Withheld"</text>
+        <para>
+          <num>(a)</num>
+          <text>means that dwellings will be removed from the list of properties eligible for tax sale, but</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>does not mean that the outstanding tax and lien liabilities for the dwelling have been abated.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Eligibility Criteria.</heading>
+    <para>
+      <num>A.</num>
+      <text>Homeowners are eligible for participation in the Tax Sale Exemption Program if</text>
+      <para>
+        <num>(1)</num>
+        <text>they meet certain criteria and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>there are available funds to cover the tax and lien liability for the dwelling.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A homeowner is eligible for participation in the Tax Sale Exemption Program if</text>
+      <para>
+        <num>(1)</num>
+        <text>the homeowner has resided in the dwelling for at least 15 years; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>has either</text>
+        <para>
+          <num>(a)</num>
+          <text>a total annual household income of less than $36,000;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>is at least 65 years old and has annual earned income of $75,000 or less; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>is an adult who is</text>
+          <para>
+            <num>(i)</num>
+            <text>currently receiving disability benefits from the Federal Social Security Disability Insurance program or the Supplemental Security Income program, and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>has annual earned income of $75,000 or less.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Determination of eligibility.</text>
+      <para>
+        <num>(1)</num>
+        <text>The determination of whether a homeowner meets the eligibility requirements outlined in this section is based on</text>
+        <para>
+          <num>(a)</num>
+          <text>the application documentation provided, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a database verification process.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The tax and lien liability for the homeowner's dwelling shall not cause the aggregate tax and lien liability of all withheld dwellings to exceed $2 million.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Terms of exemption.</text>
+      <para>
+        <num>(1)</num>
+        <text>A homeowner shall apply on an annual basis to have their dwelling withheld from tax sale.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Participation in the program does not signify approval for future years.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Participation in the program does not result in the abatement of any outstanding tax and lien liability of exempted dwellings.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Program participants are responsible for making payments on any outstanding tax and lien liability.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Application Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>Application deadlines.</text>
+      <para>
+        <num>(1)</num>
+        <text>Application deadlines will be set annually and advertised on the Finance and HCD    websites.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Application deadlines are</text>
+        <para>
+          <num>(a)</num>
+          <text>binding upon all applicants, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>shall not be altered for an individual applicant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Failure to meet a deadline shall result in the application being rejected.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>By submitting an exemption application</text>
+        <para>
+          <num>(a)</num>
+          <text>an applicant acknowledges these requirements, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>agrees to be bound by the deadlines.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Application submission.</text>
+      <para>
+        <num>(1)</num>
+        <text>Applications shall be submitted to the Baltimore City Department of Housing and Community Development ("HCD") either:</text>
+        <para>
+          <num>(a)</num>
+          <text>electronically at <strong>https://portal.neighborlysoftware.com/baltimoremd/participant</strong>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>by mail to Baltimore City Department of Housing and Community Development, Tax Sale Exemption Program, 417 E Fayette Street, 11<sup>th</sup> Floor, Baltimore, MD 21201;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>in person at 417 E Fayette Street, 11<sup>th</sup> floor; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>by email to dhcd.taxsaleinfo@baltimorecity.gov, subject line: Tax Sale Exemption Application.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The City of Baltimore is not</text>
+        <para>
+          <num>(a)</num>
+          <text>responsible for any connectivity or application submission issues experienced by the applicant, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>will not grant an extension of any deadline due to issues beyond the control of the Department of Housing and Community Development.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Complete applications shall include copies of the following documentation:</text>
+        <para>
+          <num>(a)</num>
+          <text>a copy of a photo ID for the applicant issued by</text>
+          <para>
+            <num>(i)</num>
+            <text>the United States government;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the State of Maryland; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the City of Baltimore;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>any two of the following documents showing the current address of the applicant:</text>
+          <para>
+            <num>(i)</num>
+            <text>utility bills;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>photo ID issued by the United States government, State of Maryland, or City of Baltimore; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Social Security (SSA, SSDI, SSI) award letters.; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a complete Income Information form which includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>the total number of people in the household;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>number of adults, school-aged and non-school-aged children;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>total gross household income; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>proof of household income.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Proof of household income may include:</text>
+          <para>
+            <num>(i)</num>
+            <text>two pay stubs from current employer, within last two months of employment;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Social Security (SSA, SSDI, SSI) award letters;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>pension statements;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Unemployment or Workers' Compensation statements or award letters; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>other documentation that confirms the income provided in the Income Information form.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The online and paper form of the application shall list documents accepted to validate eligibility for this program.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Tax Sale Ombudsman shall provide information and answer applicant questions about</text>
+        <para>
+          <num>(a)</num>
+          <text>the application process, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>required supporting documentation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Application review.</text>
+      <para>
+        <num>(1)</num>
+        <text>Hard copy applications received by mail or personal delivery shall be date and time stamped upon receipt by the Department of Housing and Community Development.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Date and time stamped hard copy applications shall be entered in the Neighborly project management database by HCD personnel.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Applications received by HCD shall be reviewed for completeness and eligibility.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Applications shall be deemed complete if the application includes all required documentation and all required application fields are completed.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Applications shall be deemed eligible if</text>
+        <para>
+          <num>(a)</num>
+          <text>all eligibility criteria are met, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>all required documentation has been verified.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Department of Finance shall be notified of applications deemed eligible upon review.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Incomplete applications.</text>
+      <para>
+        <num>(1)</num>
+        <text>Applications shall be deemed incomplete when the homeowner</text>
+        <para>
+          <num>(a)</num>
+          <text>does not fully complete the application,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>does not provide required documentation, or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>completed fields in the application are not legible.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For incomplete applications, HCD shall contact the applicant</text>
+        <para>
+          <num>(a)</num>
+          <text>using the contact information provided on the application</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>to request additional information or clarification.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Eligibility review.</text>
+      <para>
+        <num>(1)</num>
+        <text>Applications shall be deemed ineligible if the homeowner does not meet the eligibility criteria based on</text>
+        <para>
+          <num>(a)</num>
+          <text>documentation provided, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the application and documentation verification process.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department of Housing and Community Development shall notify the applicant using the contact information provided on the application.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Fund availability.</text>
+      <para>
+        <num>(1)</num>
+        <text>For all eligible applications, the Department of Finance shall assess</text>
+        <para>
+          <num>(a)</num>
+          <text>the amount of tax and lien liability on the applicant dwelling, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the aggregate tax and lien liability for the Program at the time of receiving the application.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the amount of tax and lien liability on the applicant dwelling causes the aggregate tax and lien liability of the Program to exceed $2 million, the Department of Finance shall</text>
+        <para>
+          <num>(a)</num>
+          <text>reject the application, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>assess successive applications until it identifies an application with outstanding tax and lien liability that will not exceed the Program's aggregate tax and lien liability limit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>When the remaining Program funding available is below $750</text>
+        <para>
+          <num>(a)</num>
+          <text>the application process shall be closed and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>no additional applications shall be approved.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Department of Finance shall notify HCD of approved applications based on fund availability.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Department of Housing and Community Development shall notify the applicant using the contact information provided on the application.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Department of Finance shall deny an application if</text>
+        <para>
+          <num>(a)</num>
+          <text>the property is not on the tax sale list, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>if the lien amount is greater than the remaining available funds.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>If the Department of Finance denies an application,</text>
+        <para>
+          <num>(a)</num>
+          <text>it shall notify HCD as to why the application was denied, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the Department of Housing and Community Development shall notify the applicant using the contact information provided on the application.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Fraudulent Applications.</heading>
+    <para>
+      <num>A.</num>
+      <text>If an applicant is found to have provided false information the application shall be deemed to be fraudulent.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If an application is deemed fraudulent and the tax sale has not yet occurred</text>
+      <para>
+        <num>(1)</num>
+        <text>the exemption shall be revoked and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the property shall be placed back onto the tax sale list.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If an application is deemed fraudulent and the tax sale has occurred the City shall pursue available legal action.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Notice.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department of Housing and Community Development and the Department of Finance shall issue notice to the public about this Program.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Schedule of notice.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department of Finance's Bureau of Revenue Collection shall issue a notice as part of the Mayor's Message in the July 1 property tax bills.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The City's Tax Sale Ombudsman shall issue a notice to dwellings that are owneroccupied, have an assessed value of $250,000 or less, and have delinquent property tax accounts in January.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department of Finance's Bureau of Revenue Collection shall issue a notice to dwellings receiving a Final Bill and Legal Notice in February.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code Article 28, § 8-5</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>

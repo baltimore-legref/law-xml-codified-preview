@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>PUBLIC TRAFFIC CALMING REQUESTS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>These regulations:</text>
+    <para>
+      <num>(1)</num>
+      <text>Implement a plan for fulfilling public service requests for traffic calming through the 311-system in Baltimore City;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Create a prioritization system for traffic calming that accounts for equity; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Expand the toolkit of traffic calming options to promote safety and livability on City streets.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Arterial street" means freeways, multilane highways, and other important roadways that supplement the United States Interstate System.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"BCDOT" refers to the Baltimore City Department of Transportation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Collector street" means major and minor roads that connect local roads and streets with arterials.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Complete Streets" means a program in Baltimore City that enables access, mobility, economic development, attractive public spaces, health, and well-being for all people.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Corridor" means the roadway and adjacent affected roadways where traffic calming is requested.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Equity Priority Zones" means equity zones defined by the Complete Streets Manual.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Local or neighborhood street" means roads that service limited vehicular traffic and are the primary access to residential areas, neighborhoods, and other local areas.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Neighborhood" means community identified by the Baltimore City Planning Department's official "Neighborhood Statistical Area Map".</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Prioritization process" means procedure by which streets or corridors are selected and ranked for traffic calming projects.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Service Request (SR)" or "311 Service Request" means a request made via phone or online to the Baltimore City 311 System.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Stakeholder" means individuals or entities that are affected by this regulation.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Traffic Calming" means devices or methods used to slow the speed of traffic or reduce volume of traffic.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Initiation of the Traffic Calming Process.</heading>
+    <para>
+      <num>A.</num>
+      <text>Arterial streets are:</text>
+      <para>
+        <num>(1)</num>
+        <text>not subject to the requirements for local or collector streets; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>subject to a separate investigation process for alternative traffic calming measures.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A stakeholder requesting traffic calming in a neighborhood on a local or collector street shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>live within the neighborhood;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>own or operate a business within the neighborhood;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>represent a school or daycare facility within the neighborhood;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>represent a Community Organization within the neighborhood; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>be a public, elected official, or his or her designee, whose district's boundaries are within or include a portion of the City of Baltimore.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>To initiate the traffic calming process, the Stakeholder must complete a 311 Service Request by:</text>
+      <para>
+        <num>(1)</num>
+        <text>calling 311; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>filling out an online survey</text>
+        <para>
+          <num>(a)</num>
+          <text>through the mobile phone application for 311 Service Requests; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>on City of Baltimore's 311 website.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A Stakeholder shall provide the following information to be considered for a traffic calming request:</text>
+      <para>
+        <num>(1)</num>
+        <text>legal first and last name;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>email address or phone number;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>street address;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>start and end points of the roadway segments where the need for traffic calming should be investigated;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>a specific address or location where speed or cut-through traffic are of concern;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>any relevant and necessary information regarding the traffic calming service request.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>For BCDOT to consider a Service Request, the Stakeholder must provide the information found in Regulation .03D in full.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>After submission, the stakeholder will be given:</text>
+      <para>
+        <num>(1)</num>
+        <text>a time period for receiving an update for the service request;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the service request number; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>if using online or mobile application, a confirmation email with:</text>
+        <para>
+          <num>(a)</num>
+          <text>A copy of the completed service request form; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The information listed above in Regulation .03.D.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Investigation of Traffic Calming Request.</heading>
+    <para>
+      <num>A.</num>
+      <text>The BCDOT shall</text>
+      <para>
+        <num>(1)</num>
+        <text>evaluate the need and feasibility of traffic calming, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>simultaneously provide the Service Request to the Baltimore City Fire Department for notification and feedback.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Data collection and analysis shall proceed immediately following the BCDOT determination of a valid request for traffic calming.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Data Collection and Analysis.</heading>
+    <para>
+      <num>A.</num>
+      <text>BCDOT Traffic Division shall collect data within the study corridor.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The information collected will be analyzed by BCDOT to determine if traffic calming is</text>
+      <para>
+        <num>(1)</num>
+        <text>warranted, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>feasible.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Data collection units may be deployed on site to collect data related to speed.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Data collection units shall be deployed based on engineering judgement.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A site visit may be conducted to document conditions including:</text>
+      <para>
+        <num>(1)</num>
+        <text>roadway grade;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>roadway width and cross-section;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>roadway horizontal geometry;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>lane configurations;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>adjacent land-use;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>multimodal traffic operations; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>other related geometric and operational roadway features.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The following elements may be reviewed:</text>
+      <para>
+        <num>(1)</num>
+        <text>crash data over the previous 6 years;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>street type and target speed in accordance with the Baltimore Complete Streets Manual; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Equity Priority Zones.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Local and collector roadways with longitudinal grades of 8 percent or lower that meet the traffic calming criteria for need and feasibility can proceed to the prioritization process.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Local or collector roadways with longitudinal grades greater than 8 percent require further engineering review to determine the applicability and feasibility of</text>
+      <para>
+        <num>(1)</num>
+        <text>traffic calming, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>other mitigation measures:</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Prioritization Process.</heading>
+    <para>
+      <num>A.</num>
+      <text>Following data collection, and approval, BCDOT shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Move the traffic calming Service Request forward to the prioritization process; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submit the Service Request for further engineering or review by Baltimore City Fire Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If the application does not meet the criteria threshold of the data collection and analysis, BCDOT shall issue a statement to the Stakeholder denying the Service Request.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>BCDOT shall prioritize traffic calming requests based on:</text>
+      <para>
+        <num>(1)</num>
+        <text>Severity and prevalence of speeding based on initial data investigation and historical data;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Severity and prevalence of crashes based on historical data;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The presence of school zones; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Equity Zones as identified on BCDOT's Equity Map.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Prior to the beginning of construction season, the prioritization process will determine the construction program on an annual basis.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Community Involvement.</heading>
+    <para>
+      <num>A.</num>
+      <text>Prior to implementation of traffic calming measures, BCDOT shall notify stakeholders of the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>A summary of the traffic calming plan;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The timeframe of the project comment period; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Contact information pertaining to comments or an opt-out request.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>BCDOT shall notify stakeholders by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Postcard or letter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Electronic communication;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Social media; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Other community outreach methods.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>BCDOT may post signs on the street in question with the information above.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The following conditions apply to opt-out requests:</text>
+      <para>
+        <num>(1)</num>
+        <text>Only opt-out requests from stakeholders abutting the immediate project block(s) shall be considered;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Stakeholders may be required to provide proof of residency when opting out;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Comments must be submitted within the specified response period.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Construction Scheduling</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon conclusion of the public comment period and pending funding availability, BCDOT will schedule the traffic calming devices or measures for installation using the location's score from the prioritization process.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Local and collector streets that are approved for the installation of traffic calming measures will be scheduled for construction on an annual basis.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Arterial streets may be scheduled for construction separately from local and collector streets to allow for additional analysis, more comprehensive treatments, or other factors.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Review</heading>
+    <text>After installation of traffic calming devices, BCDOT may review traffic calming devices for effectiveness.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Traffic Calming Devices</heading>
+    <para>
+      <num>A.</num>
+      <text>Types and descriptions of traffic calming devices are available for review within the Design Guidance section of the Baltimore Complete Streets Manual.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Options for traffic calming devices include:</text>
+      <para>
+        <num>(1)</num>
+        <text>speed humps, speed tables, and speed cushions;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>curb extensions, also known as bump-outs or bulb-outs;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>rumble strips;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>hardened centerline treatments;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>raised crosswalks;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>raised intersections;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>chicanes;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>mini-roundabouts, also known as neighborhood traffic circles;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>traffic signal timing and operations;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>vehicle access restrictions, such as median diverters;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>traffic signal timing and operations;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>reduction in travelway width;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>reduction in number of through or travel lanes;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Slow Streets treatments;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>any combination of these devices;</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>other available treatments or devices.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code, Article 31, §§2-2 and 2-5.</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes. Published by Baltimore City Department of Legislative Reference Avery Aisenstark, Director 2022 Copyright © 2022 The Mayor and City Council of Baltimore Department of Legislative Reference All rights reserved For Information: Department of Legislative Reference City Hall 100 N. Holliday Street, Suite 626 Baltimore, Maryland 21202 Tel: (410) 396-4730 https://legislativereference.baltimorecity.gov/ </annotation>
+  </annotations>
+</container>

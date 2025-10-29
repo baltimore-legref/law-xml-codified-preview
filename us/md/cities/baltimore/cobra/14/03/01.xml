@@ -1,0 +1,2157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>STREET CUTS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Adoption, Applicability and Scope of Regulations.</heading>
+    <para>
+      <num>A.</num>
+      <text>These rules and regulations are promulgated by the Baltimore City Department of Transportation ("DOT") pursuant to City Code Article 26, Subtitle 15.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>These rules and regulations are in addition to all applicable laws found in Baltimore City Code Article 26, other applicable sections of Baltimore City Code, and Maryland State Code.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Scope of Regulations.</text>
+      <para>
+        <num>(1)</num>
+        <text>These rules and procedures are intended to ensure proper excavation of the public way;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>These rules and procedures are intended to ensure complete restoration of the public way to match preexisting conditions; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>These rules and procedures are intended to ensure the proper use of the public way while work is ongoing.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"ADA" means the federal Americans with Disabilities Act.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Bicycle Facility or bike facility" means infrastructure and provisions to accommodate or encourage bicycling including</text>
+        <para>
+          <num>(a)</num>
+          <text>bike lanes,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>parking and storage facilities, and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>shared roadways specifically designated for bicycle use.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Blanket permit" means an authorization that allows an applicant under certain conditions</text>
+        <para>
+          <num>(a)</num>
+          <text>to take certain actions at a specific location,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>without first applying for a Street-cuts permit for that specific location.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Decorative Surfaces" means any decorative surface including:</text>
+        <para>
+          <num>(a)</num>
+          <text>dedicated bus lane red pavement markings,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>bike lane green pavement markings,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>cobblestone or granite pavement,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>brick or concrete pavers,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>granite curbs,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>brick gutters,</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>stamped concrete and asphalt pavement, and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>graphics or other designated colored pavement surface.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Demarcation materials" means warning surface treatments for the affected roadway, including flex posts, monolithic curbs, vertical barriers.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Department" or "DOT" means The Department of Transportation.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Directional drilling" means a trenchless method of installing underground conduit and utilities with minimal impact</text>
+        <para>
+          <num>(a)</num>
+          <text>in a relatively shallow arc</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>along a prescribed underground path.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Director" means The Director of Transportation or the Director's designee.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Duration" means the time during which an activity required by the street cut work continues.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Emergency" means a situation where an excavation is needed, as a result of an unforeseen event, to prevent or abate an imminent potential danger to life, health, or property.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Excavation" means any work for or in connection with the installation, improvement, maintenance, or repair of any facilities that:</text>
+        <para>
+          <num>(a)</num>
+          <text>involves the displacement or removal of materials; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>is performed in or below the surface of a public way.</text>
+        </para>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Facilities" means any equipment or other property that is located or proposed to be in a public way including</text>
+        <para>
+          <num>(a)</num>
+          <text>access holes,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>cables,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>cabinets,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>ducts,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>conduits,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>converters,</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>drains,</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>handholds,</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>pipes,</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>splice boxes,</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>surface location markers,</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>tracks,</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>tunnels,</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>valves,</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>vaults,</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>wires, or</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>other appurtenances or property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Includes" or "including" means by way of illustration and not by way of limitation.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Landscaped Areas" mean any planted area, planter bed, median, or other space containing plant material, mulch, or synthetic turf.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Pavement Marking" means any kind of device or material that is used on a road surface to convey official information to the traveling public.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Pavement Type" means a reference to the materials from which the roadbed is constructed, including</text>
+        <para>
+          <num>(a)</num>
+          <text>flexible (asphalt),</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>ridged (concrete), and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>composite (concrete base with asphalt riding surface).</text>
+        </para>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"Performance Security" means any one or a combination of</text>
+        <para>
+          <num>(a)</num>
+          <text>a performance bond,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>an irrevocable letter of credit,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>or a cash deposit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>"Person" means:</text>
+        <para>
+          <num>(a)</num>
+          <text>an individual;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a receiver, trustee, guardian, personal representative, fiduciary, or representative of any kind; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a partnership, firm, association, corporation, or other entity of any kind.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>includes, except as otherwise specifically provided, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>"Primary Street" means a street identified as an arterial per the FHWA roadway classification system map found at BaltimoreCity.gov/Transportation.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>"Public Way" means</text>
+        <para>
+          <num>(a)</num>
+          <text>the entire area within the boundary lines of any public street, alley, sidewalk, footway, or other right-of-way, whether acquired by purchase, grant, dedication, or otherwise, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>is also known as Right-of-Way.</text>
+        </para>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>"Right-of-Way Permit" or "ROW Permit" means</text>
+        <para>
+          <num>(a)</num>
+          <text>any permit, including a Street-cuts permit, issued by the Department for the temporary use of the public way, but</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>does not include the grant of a minor privilege.</text>
+        </para>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>"ROW" means Right-of-Way, and has the same meaning as Public Way.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>"Separate offense" means each day that a violation continues.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>"Stop work order" means the issuance by the Department of an administrative order to cease work at an excavation site as a result of a violation of City code, a rule or regulation adopted under the City code, or a condition of the permit until the violation is abated.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>"Street-cuts permit" means any permit required by or issued under subtitle 15, of Article 26 of the Baltimore City Code.</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>"TCP" means Traffic Control Plan.</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>"TMC" means DOT Transportation Management Center.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>"Traffic Control Channelization Device" means a device used to</text>
+        <para>
+          <num>(a)</num>
+          <text>warn roadway users of conditions created by work activities in or near the roadway, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>to guide roadway users.</text>
+        </para>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>"Unsafe condition" means an unsatisfactory physical condition existing at a Street- cuts location in the public way that may result in injury, death, or property damage if not corrected.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>"Utility" means any person that owns or operates facilities used to provide electrical, gas, steam, water, sewer, telecommunications, information, video, or other services to customers.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Exceptions to Street-cuts Permits.</heading>
+    <para>
+      <num>A.</num>
+      <text>Unless the work qualifies as an emergency excavation under City Code Article 26, §15-13, no person, including a City agency, may excavate in a Public Way without first obtaining a Street-cuts permit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Directional Drilling is not permitted within the City Right-of-Way</text>
+      <para>
+        <num>(1)</num>
+        <text>for electrical utilities and facilities,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>for other utilities and facilities, including sanitary and gas lines, without prior written approval from the Director.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Applications for a Street-cuts Permit.</heading>
+    <para>
+      <num>A.</num>
+      <text>An application for a Street-cuts Permit</text>
+      <para>
+        <num>(1)</num>
+        <text>shall include the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>applicant name and contact information;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>contractor name and contact information;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>work location and address;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>description of proposed work;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>information for the Street-cut including:</text>
+          <para>
+            <num>(i)</num>
+            <text>requested start date and time;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>requested end date and time;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>street lane, bicycle facility or sidewalk closures;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>use of steel plates;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>length, depth and width of any trench;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>work which will occur on weekends;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>work which will occur at night;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>a Traffic Control Plan ("TCP"), if required;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>estimated number of Street-cuts; and</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>drawing showing the location, type, size, and TCP.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>shall provide evidence of Performance Security in an amount specified on the DOT website at transportation.baltimorecity.gov/</text>
+        <para>
+          <num>(a)</num>
+          <text>A single Performance Security may be used for multiple permits by the same contractor as allowed by the Department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Contractors who fail to maintain a minimum Performance Security, as determined by the Director, shall be prohibited from working in the Public Way, unless specifically authorized by the Director.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>shall provide a point of contact in case of emergency that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>a name, email address, and phone number;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>someone who is available on a 24-hour basis.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An applicant shall be required to submit the following for a permit:</text>
+      <para>
+        <num>(1)</num>
+        <text>Drawings or acceptable sketches which shall include or identify:</text>
+        <para>
+          <num>(a)</num>
+          <text>the size and location of each Street-Cut;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>pavement restoration details;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>pavement type; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>work that impacts any traffic on one of the following roadway classes, as defined by Roadway Functional Classification map located at https://transportation.baltimorecity.gov:</text>
+          <para>
+            <num>(i)</num>
+            <text>Collector,</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Minor Arterial,</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Other Principal Arterial,</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Freeway and Expressway, or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Interstate Principal Arterial.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>a final pavement marking plan consistent with the applicable requirements for pavement marking as set forth in the Book of Standards issued by the Department of Transportation and the Department of Public Works ("DPW") (the "Green Book"), including:</text>
+          <para>
+            <num>(i)</num>
+            <text>bicycle facilities;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>parking facilities;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>crosswalks; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>other pedestrian pavement marking.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Within 5 days of application submission, an applicant shall submit a color photograph including:</text>
+        <para>
+          <num>(a)</num>
+          <text>the current pavement condition of the right-of-way;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the date; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a time stamp.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An applicant is required to submit a Traffic Control Plan ("TCP").</text>
+      <para>
+        <num>(1)</num>
+        <text>Traffic Control Plans are required when any of the following conditions exist:</text>
+        <para>
+          <num>(a)</num>
+          <text>sidewalk closure or detour;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>bicycle facility closure or detour; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>roadway closure or detour on a roadway.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All lanes in the roadway shall be treated as travel lanes, unless clearly marked as a parking lane by a solid white line.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A TCP shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>a site plan covering 2 to 3 blocks in each direction from the construction site;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the installation and location of advanced warning signs which include:</text>
+          <para>
+            <num>(i)</num>
+            <text>for any roadway lane closure, a minimum of the following three advanced warning signs installed at least 300 feet apart, unless a request to change the spacing is submitted for prior approval:</text>
+            <para>
+              <num>(A)</num>
+              <text>Road Work Ahead,</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Right/Left/Center Lane Closed Ahead, and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>a transition sign for the lane being closed.</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>for a parking lane closure, no arrow board is required; however, the following three advanced warning signs shall be installed at least 300 feet apart:</text>
+            <para>
+              <num>(A)</num>
+              <text>Road Work Ahead,</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Curb Lane Closed Ahead, and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>a transition sign for the lane being closed.</text>
+            </para>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>for the closure of multiple roadway lanes</text>
+            <para>
+              <num>(A)</num>
+              <text>an arrow board is required for each lane being closed, and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the placement of advanced warning signs as required by the Manual on Uniform Traffic Control Devices ("MUTCD").</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a flagging operation and multiple lane closure for utility cuts and work areas that extend more than 10 feet from the curb lane;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>when a flagging operation is provided for by the applicant or required by the Department:</text>
+          <para>
+            <num>(i)</num>
+            <text>all directions of travel must be controlled by a flagger;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>it must be noted on your application when working at a signalized intersection; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>advanced warning signage must include Flagman Ahead signs;</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>road closure detours shall</text>
+          <para>
+            <num>(i)</num>
+            <text>be clearly signed to direct traffic around the road closure and reestablish travel back to the road after the closure;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>include the following advanced warning signs:</text>
+            <para>
+              <num>(A)</num>
+              <text>Road Closed Ahead,</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Detour ahead, and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Road Closed;</text>
+            </para>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>include a physical barrier at the actual road closure for all directions of travel;</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>roadway classification;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>a note to contact TMC each work morning prior to start of work and each afternoon at end of work;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>all affected bicycle and pedestrian facilities and the traffic control for each;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>traffic control channelization devices to be used;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>location of all steel plates in the area affected;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>information as to any pedestrian detours which shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>maintain a minimum 4 foot ADA accessible path for pedestrians when work is conducted on a sidewalk:</text>
+            <para>
+              <num>(A)</num>
+              <text>the ADA accessible pathway may be located in a parking lane, and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>shall have an appropriate physical barrier between vehicles and pedestrians;</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>if a sidewalk is to be closed, the closure must be at the nearest intersection crosswalk with signs directing pedestrians across the street, and</text>
+            <para>
+              <num>(A)</num>
+              <text>the sidewalk on the opposite side of the street must be ADA accessible, and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>must include a ramp and 4-foot pedestrian pathway;</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>information as to any bicycle facility detours which shall provide for or adhere to the following:</text>
+          <para>
+            <num>(i)</num>
+            <text>lane and road closures include lane transitions for bicyclists, and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>if the bicycle lane cannot be maintained, an explanation of why it cannot be maintained and an alternate route for the bicyclist; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>if a bicyclist must use the sidewalk as an alternate route, warning signage must include:</text>
+            <para>
+              <num>(A)</num>
+              <text>Bike Lane Closure, and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Dismount and Walk Bicycle on Sidewalk;</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>any other TCP control needed for unique locations or work;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>for Emergency work performed under a blanket permit, a trained and certified emergency traffic manager shall be on-site at all times until the contractor has provided the Department with a TCP which is approved.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The following conditions, if not immediately corrected, constitute a violation of the Street-cuts permit and may result in a fine or issuance of a Stop work order:</text>
+        <para>
+          <num>(a)</num>
+          <text>failure to obtain an approved TCP when required to do so,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>failure to maintain at the work site a copy of the approved TCP for inspection, or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>failure to adhere to the conditions of the TCP.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>No equipment, materials, or other construction matter is permitted to be staged or stored, in bicycle facilities, on sidewalks, or within other non-motorized travel facilities unless the contractor obtains</text>
+        <para>
+          <num>(a)</num>
+          <text>prior written approval, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>any additional required permits.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Applications for a Street-cuts permit are</text>
+      <para>
+        <num>(1)</num>
+        <text>processed through the DOT Right-of-Way Permits Section which is located at 401 East Fayette Street, Lower Level, Baltimore, Maryland 21202;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>on the DOT website under Quick Forms; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>submitted by email with all required information to <u>row.permit.documents@baltimorecity.gov</u>.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The applicant listed on a Temporary Use Right-of-Way Permit</text>
+      <para>
+        <num>(1)</num>
+        <text>is responsible for all work performed under the permit, including but not limited to any subcontractor; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>will receive any notice from the Department concerning the work.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Issuance of a Street-cuts Permit.</heading>
+    <para>
+      <num>A.</num>
+      <text>A Street-cuts permit shall be issued upon</text>
+      <para>
+        <num>(1)</num>
+        <text>the provision of the required information,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>receipt by DOT of the required permit fees,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>payment of the required Performance Security, and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>correction of outstanding or unresolved deficiencies with existing permits.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>It is the contractor's responsibility to</text>
+      <para>
+        <num>(1)</num>
+        <text>schedule the work, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>notify DOT of completion of the work</text>
+        <para>
+          <num>(a)</num>
+          <text>with sufficient time for the work to be inspected and approved prior to the expiration of the permit; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>sufficient time constitutes notice to DOT a minimum of 48 hours prior to the expiration date of the permit.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Notice to DOT of an Emergency Excavation shall be made by</text>
+      <para>
+        <num>(1)</num>
+        <text>calling the Street-cuts Section, at 410-396-2889, between the hours of 7 am and 4:30 pm Monday-Friday;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>calling the TMC, at 443-984-2189, 24 hours a day; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>email to <u>streetcuts@baltimorecity.gov</u>, 24 hours a day.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A Blanket Permit shall be issued to a utility provider or the Department of Public Works ("DPW") for Emergency Excavations only.</text>
+      <para>
+        <num>(1)</num>
+        <text>A Utility provider with a Blanket Permit shall complete a permit application within</text>
+        <para>
+          <num>(a)</num>
+          <text>18 hours of beginning the emergency excavation, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the next business day.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Emergency Excavations shall be inspected by DOT Street-cuts Section prior to backfilling of the excavation.</text>
+        <para>
+          <num>(a)</num>
+          <text>The utility provider shall notify DOT Street-cuts Section that the excavation is ready for inspection.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notice shall be made as set forth in Regulation .05.C.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A Street-cut permit fee shall be assessed in accordance with a fee schedule, established by the Director and approved by the Board of Estimates ("BOE").</text>
+      <para>
+        <num>(1)</num>
+        <text>Street-cut permit fees are in addition to the Temporary Use of the Right-of-Way Permit fee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Current Street-cut permit fees are posted on the DOT website at    transportation.baltimore.gov/quick-forms.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Additional fees may be assessed as provided in these regulations and allowed by law.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Performance Schedule and Standards.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any person doing excavation work shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>always maintain the Street-cut permit on site, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>exhibit the permit when requested to do so by the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If an excavation is interrupted by an agency of Baltimore City, the permittee shall</text>
+      <para>
+        <num>(1)</num>
+        <text>notify DOT Street-cuts Section immediately, and provide the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>permit number,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>location of excavation,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>City agency involved in the interruption,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>City agency contact person,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>City agency work order number,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>expected length of the interruption, and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>procedures taken to secure the site.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon verification of an interruption caused by an agency of Baltimore City, the Street-cuts Section shall notify the permittee of</text>
+        <para>
+          <num>(a)</num>
+          <text>additional time allowed under the permit to account for the interruption, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>any additional requirements pertaining to the permit.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Prior to being given permission to disturb existing bicycle facilities, an applicant for a Street-cut permit shall provide proof that no alternative to such action is available.       D.   When restoring an open Street-cut a permittee must:</text>
+      <para>
+        <num>(1)</num>
+        <text>comply with all conditions and requirements of the permit;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>conform with current rules, regulations, and standards of Baltimore City; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>ensure restoration matches preexisting conditions.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Prior to beginning work in any roadway, the permittee shall</text>
+      <para>
+        <num>(1)</num>
+        <text>meet with the Traffic Division to review and develop a pavement marking plan for the affected roadway; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>where the affected roadway has bicycle facilities, meet with the Traffic Division and the Bicycle Planning Section to review and develop</text>
+        <para>
+          <num>(a)</num>
+          <text>a pavement marking plan, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>demarcation materials.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>When an Order to Remove or Relocate a Pole is issued by the Department it shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>be in writing and signed by the Director or the Director's designee; and contain the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>name of the permit holder,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>facts that support issuing a pole removal or relocation order, and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the location of the pole.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Order shall be served by:</text>
+        <para>
+          <num>(a)</num>
+          <text>delivery to any employee, agent, contractor, or sub-contractor of the permit holder on site;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>mailing or emailing a copy of the order to the address on file for the permit holder; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>sending a facsimile to the permit holder to the fax number on file for the permit holder.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The location of the pole shall not create non-compliance with the ADA.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Pavement Repairs and Restoration.</heading>
+    <para>
+      <num>A.</num>
+      <text>Regardless of cut type, repairs will be done in accordance with Baltimore City DOT Standards.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Book of Standards is located on DOT's website at:</text>
+        <text><u>https://transportation.baltimorecity.gov/transportation/bookofstandards</u>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The DOT Street Cuts Section has the authority to increase the requirements of pavement restoration beyond minimum standards shown in the standard details based on</text>
+        <para>
+          <num>(a)</num>
+          <text>site conditions, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Street-cuts permit application information.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Applicants and contractors shall adhere to the Street-cuts policies contained in these regulations; however,</text>
+      <para>
+        <num>(1)</num>
+        <text>the Director has the discretion to permit exceptions to this policy under special circumstances; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>such exceptions shall be approved by the Director in writing.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The following are additional requirements for pavement repairs:</text>
+      <para>
+        <num>(1)</num>
+        <text>when a utility cut is within 5 feet of a new or preexisting cut, both cuts shall be encapsulated into a single patch</text>
+        <para>
+          <num>(a)</num>
+          <text>by milling away the intervening existing surface to allow for a single surface patch when one cut is preexisting and one cut is new; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>by combining the cuts into a single full-depth patch when both cuts are new; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>combined patches are subject to applicable Baltimore City DOT Standards.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>During resurfacing, the longitudinal pavement joints shall be constructed within 6 inches of the lane lines and not within the travel lanes.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If more than 50 percent of an asphalt or asphalt overlaid (composite) roadway is disturbed during longitudinal or transverse trenching, the entire block shall be milled and resurfaced</text>
+        <para>
+          <num>(a)</num>
+          <text>from curb to curb, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>to the median curb, if applicable.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The entire intersection must be milled and resurfaced if</text>
+        <para>
+          <num>(a)</num>
+          <text>an asphalt or asphalt overlaid (composite) intersection is trenched diagonally, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>more than 50 percent of the intersection is disturbed during longitudinal and/or transverse trenching.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All utility cuts must be backfilled and compacted in accordance with</text>
+        <para>
+          <num>(a)</num>
+          <text>Baltimore City Standards outlined in Article 32.01.10 of the City of Baltimore Department of Public Works Specifications for Materials, Highways, Bridges, Utilities, and Incidental Structures (the "Green Book');</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the standards are found at <u>https://generalservices.baltimorecity.gov/gs-majorprojects/greenbook</u>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Suitable fill material must be placed in 6-inch lifts and tamped with a mechanical tamper; and</text>
+        <para>
+          <num>(a)</num>
+          <text>material one foot below subgrade must be compacted to 92 percent,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>material in the top one foot must be compacted to 97percent; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>compaction of all material must be per the Modified Proctor ASTM D1557 ("AASHTO T180").</text>
+          <para>
+            <num>(i)</num>
+            <text>In lieu of borrow, CR-6 or excavation fills, #57 stone may be used; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>it must be placed in no greater than one-foot lifts and tamped with a mechanical tamper.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Crusher Run Aggregate ("CR-6") or Graded Aggregate Base ("GAB") must be used for the proposed roadway paving sub-base, and</text>
+        <para>
+          <num>(a)</num>
+          <text>must meet the requirements of Article 32 11 23.10 of the Green Book; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Recycled Concrete ("RC-6") may not be used for the sub-base material.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The Contractor must supply compaction testing results for</text>
+        <para>
+          <num>(a)</num>
+          <text>any paving patch greater than 1,000 square feet in area, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>any trench longer than 100 feet.</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>A permittee must submit to the Department, at streetcuts@baltimorecity.gov, within 24 hours of the compaction:</text>
+        <para>
+          <num>(a)</num>
+          <text>a copy of the compaction test results;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>relevant location;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>work date(s), and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>designated permit number</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Final pavement restorations must include:</text>
+      <para>
+        <num>(1)</num>
+        <text>removal of temporary backfill;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>properly squaring off all Street-cuts to the bottom of the sub-base;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>proper permanent backfills and compaction as specified in Regulation .07.C(5);</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>permanent street restoration as specified in</text>
+        <para>
+          <num>(a)</num>
+          <text>these Street-cuts regulations;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the City of Baltimore DOT Standards; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the DPW Green Book;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>the patch must be installed so that it will remain flush with the surrounding pavement for 1 year after the work has been completed, inspected, and approved.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>For utility upgrades and repairs that are performed in advance of a scheduled DOT contract, DOT may, at its sole discretion, allow the permit holder to provide temporary pavement repairs</text>
+      <para>
+        <num>(1)</num>
+        <text>based upon the timing of the work in relation to the DOT contract schedule and the extent of the proposed trench excavations necessary for the utility work;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the type of temporary repair to be allowed will be decided by the Department on a case-by-case basis; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the temporary pavement trench repair must conform to the current backfill procedures.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If the permittee uses steel plates to secure the public way during construction, they shall conform to:</text>
+      <para>
+        <num>(1)</num>
+        <text>the Green Book; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Baltimore City DOT Book of Standards.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Work by Utilities in Advance of a Scheduled DOT Contract.</heading>
+    <para>
+      <num>A.</num>
+      <text>If a public or private utility owns a facility, or is planning to perform work, in a right-of- way that is scheduled to be repaved by the Department of Transportation, the utility shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>notify the Department of any planned utility work scheduled for the current fiscal year or the next 2 fiscal years within the limits of the Department's scheduled repaving work;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>coordinate such utility work with the Department;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>investigate, test, repair and upgrade the utility's existing facilities so that future maintenance or replacement will not be required for a minimum of 5 years after the right-of-way is repaved; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>immediately notify the Department of any emergency work that takes place in a rightof-way scheduled by the Department to be repaved during the current calendar year.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>When DOT submits plans for its proposed work to all utilities several times during the design process, each utility shall consider and inform the Department of all the improvements it will need to make based on:</text>
+      <para>
+        <num>(1)</num>
+        <text>uploads from DOT which will include scheduled roadways and repaving limits to the utility coordination platforms/software;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>communication about scheduled roadways at the monthly utility coordination meetings held at DOT; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>any other communications between the Department and utility providers regarding scheduled roadway repaving locations.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>When properly advised by a utility pursuant to Regulation .08.B, DOT will consider delaying the advertisement, or altering the contract, to allow utility work to be completed first.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Violations and Fines.</heading>
+    <para>
+      <num>A.</num>
+      <text>The following fineable offenses are for work being performed in a Public Way:</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th>Violation</th>
+              <th>Occurrence</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Failure to obtain a Street Cuts permit prior to beginning work or, in an emergency where permit cannot be obtained ahead of work, within 18 hours of an emergency street-cut (Absence of a permit at jobsite)</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Unsafe job site, TCP setup, or other unsafe condition</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Not reporting intended work forty-eight (48) hours prior and/or steel plate placement as required on permit</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Compaction testing not performed</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Non-compliant installation of steel plates</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Not clearing away construction debris</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Not providing for temporary patching or plating until full restoration is completed</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Patch not flush with the surrounding pavement</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Absence of identification markings (if faded, they must be refreshed daily)</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Blocked travel lanes before 9:00 AM or after 3:00 PM on weekdays without prior written DOT authorization</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Incorrect traffic control (TCP) setup and/or absence of the approved TCP in site</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Use of unapproved materials</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Failure to construct to Baltimore City standards</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Final striping not completed within 15 calendar days of permanent restoration</td>
+              <td>Daily</td>
+            </tr>
+            <tr>
+              <td>Street Cuts not fully restored to be permanent within one hundred twenty (120) days from start of work in the public way</td>
+              <td proof="needed">
+                <p>Daily (beginning day 121 and each  day until permanent restoration is</p>
+                <p>complete)</p>
+              </td>
+            </tr>
+            <tr>
+              <td>Steel plates extending beyond thirty (30) days in the public right-of-way without an approved extension</td>
+              <td>Daily (beginning day 31 and each day until steel plating is removed and replaced with temporary patching or until full and permanent restoration is complete)</td>
+            </tr>
+            <tr>
+              <td>Permanent patch failure within the one-year warranty period if not corrected with thirty (30) days of notice</td>
+              <td proof="needed">
+                <p>Daily (beginning day 31 and each day</p>
+                <p>until permanent restoration is</p>
+                <p>complete)</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A schedule of fines as previously approved by the BOE for the violations set forth in Regulation .09.A are</text>
+      <para>
+        <num>(1)</num>
+        <text>posted on the DOT website at transportation.baltimorecity.gov; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>subject to amendment by the Director with the approval of the Board of Estimates.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Unless specifically provided, fines may be imposed by DOT without provision of a Pre-Fine Notice.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Street-cuts Section is not required to issue a Pre-Fine Notice for any violation observed during inspection operations; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>DOT will not issue a Pre-Fine Notice for failure to complete permanent restoration within 120 days.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>In the case of failure to complete full restoration of the Public Way within 120 days of the start of work;</text>
+      <para>
+        <num>(1)</num>
+        <text>the total fine amount imposed will be equal to:</text>
+        <para>
+          <num>(a)</num>
+          <text>the number of days past 120 days until the restoration is completed (b) times the daily fine amount per violation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The following time periods are not included in the calculation of the 120-day period within which full restoration must be completed:</text>
+        <para>
+          <num>(a)</num>
+          <text>the winter season, which is defined generally as the period from November 15 to March 15, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>when paving plants are closed as determined by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any permit holder that is not able to complete full restoration within the 120-day period must</text>
+        <para>
+          <num>(a)</num>
+          <text>make a written request for an extension to the Street-cuts Section prior to the expiration of the 120-day period, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>demonstrate good cause for the extension.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Street-cuts Section may then grant written extension for a reasonable time to the permit holder.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>When no request for an extension of the 120-day period has been granted:</text>
+        <para>
+          <num>(a)</num>
+          <text>Street-cuts not completed within the 120-day restoration period are required to apply for a new permit;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the new permit start date is the expiration date of the previous permit;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the new permit expiration date is the expected date that permanent restoration will be complete for the street cut; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>the permit fee owed to the City is for the entire timeframe.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>these requirements are in addition to any fines imposed.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Steel plates may not extend beyond 30 days in the public way unless</text>
+      <para>
+        <num>(1)</num>
+        <text>an extension has been granted by the Department; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the extension notification can be found at <u>https://transportation.baltimorecity.gov/quick-forms.</u></text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Permanent patch failure within the 1-year warranty period will be given a 30-day notice for repairs:</text>
+      <para>
+        <num>(1)</num>
+        <text>a new permit is required for the repair;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>beyond the 30-day notice period, a fine will be imposed until such time as the patch is repaired and approved; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>an additional 1-year warranty will take effect starting from the day of final approval of the repair.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The following unsafe conditions existing at a Street-cut may result in a fine:</text>
+      <para>
+        <num>(1)</num>
+        <text>utility trench, permanent patch within the warranty phase, or utility cut where paving restoration is left:</text>
+        <para>
+          <num>(a)</num>
+          <text>1 inch or more below existing grade, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>2 inches or more above existing grade;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Utility trench, permanent patch within the warranty phase, or utility cut on roadways with bicycle facilities where paving restoration is left:</text>
+        <para>
+          <num>(a)</num>
+          <text>¼ inch or more below existing grade, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>½ inch or more above existing grade;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>debris left onsite by a contractor for 24 hours or more;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>wooden boards placed over utility cut;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>fenced site where the fence has collapsed;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>an exposed excavation left unattended;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>blocking of a bicycle facility by equipment, debris, vehicles, signs or other obstruction;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>blocking a pedestrian walkway, crosswalk, curb ramp or other facility by equipment, debris, vehicles, signs or other obstruction; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>any circumstance where the contractor has left work in a state considered to be a substantial threat to public safety.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Stop Work Orders.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Director or the Director's designee may issue a stop work order for work conducted on public right-of-way when it is determined that a violation of any of the following has occurred:</text>
+      <para>
+        <num>(1)</num>
+        <text>State law or code;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>City Code</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>DOT regulation; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the requirements imposed by a permit issued for the project.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Director or the Director's designee may also issue a stop work order for any of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>a project that endangers public health or safety; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>failing to abate a violation in a timely manner for which a notice was issued.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A stop work order shall</text>
+      <para>
+        <num>(1)</num>
+        <text>be in writing;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>signed by the Director or the Director's designee; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>contain the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>name of the violator;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>facts that support issuing a stop work order;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the location at which the violation occurred;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>reference to the specific provision of law, regulation, or permit that has been violated; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>the remedial measures required for to abate the violation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Department must serve a stop work order by</text>
+      <para>
+        <num>(1)</num>
+        <text>delivering it to any employee, agent, contractor, or sub-contractor of the permit holder on site;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>mailing or emailing a copy of the order to the address on file for the permit holder; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>sending a facsimile to the permit holder to the fax number on file for the permit holder.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A stop work order becomes effective as soon as it is served via one of the methods in Regulation 10.D., regardless of whether delivery is accepted.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Upon the issuance of a stop work order the violator shall</text>
+      <para>
+        <num>(1)</num>
+        <text>immediately cease all work as specified in the order and comply with all directives contained in the order to abate the violation, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>contact the Street-cuts Section to request on on-site inspection for correction of the violation</text>
+        <para>
+          <num>(a)</num>
+          <text>by phone 410-396-5889 or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>email <u>streetcuts@baltimorecity.gov</u>.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>A stop work order remains in effect until the Department notifies the permit holder in writing of its termination or modification.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Termination of the stop work order does not preclude separate enforcement action by the Department relating to the present or a subsequent violation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Administrative Hearings.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any person aggrieved by a decision or action of the Department under City Code Article 26, subtitle 15, may appeal the decision or action to the Director.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person shall be notified in writing of an appealable decision or action taken by the Department, and the notice shall</text>
+      <para>
+        <num>(1)</num>
+        <text>be sent</text>
+        <para>
+          <num>(a)</num>
+          <text>via first class mail, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>by email or facsimile, to the email address or facsimile number on record for the aggrieved person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Email notification is effective as of the date of transmission by the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An appeal of a decision or action shall be filed by requesting a hearing</text>
+      <para>
+        <num>(1)</num>
+        <text>within 10 days of the date of notification, or the date of receipt of the notice, whichever occurs first,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>in writing and sent to the DOT Street-cuts Section by</text>
+        <para>
+          <num>(a)</num>
+          <text>first class mail to: Baltimore City Department of Transportation, Street Cuts Section, 520 Fallsway, Baltimore, MD  21202; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>by email to <u>streetcuts@baltimorecity.gov</u>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If no timely request for a hearing is filed, the aggrieved person shall be deemed to have waived the right to an administrative hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The hearing shall be scheduled within a reasonable time after a request for a hearing is received, and</text>
+      <para>
+        <num>(1)</num>
+        <text>DOT shall send a Hearing Notice to the aggrieved person by</text>
+        <para>
+          <num>(a)</num>
+          <text>first class mail and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>electronic mail requesting receipt confirmation;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the Hearing Notice shall</text>
+        <para>
+          <num>(a)</num>
+          <text>set the date, time and location of the hearing,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>designate the Hearing Officer; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>describe the purpose and nature of the hearing</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>set forth any rules or procedures that may be required by the Hearing Officer.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A Hearing Officer</text>
+      <para>
+        <num>(1)</num>
+        <text>may be any individual member of the DOT designated as such by the Director of the DOT; but</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>shall not be the DOT employee who made the decision or took the action being appealed; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>shall have discretion to set reasonable limits for</text>
+        <para>
+          <num>(a)</num>
+          <text>the time for the aggrieved party to present its case;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the time for the agency response;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the time for, and any limits on, cross examination; and (d) the time for closing arguments.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>may shorten or extend any time limits designated in these regulations</text>
+        <para>
+          <num>(a)</num>
+          <text>at his discretion, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>for good cause shown.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Not later than 5 days after the date of the Hearing Notice, the aggrieved party shall advise DOT in writing, via first class mail and electronic mail requesting receipt confirmation,</text>
+      <para>
+        <num>(1)</num>
+        <text>if it will be represented by counsel and identify its counsel; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>if the aggrieved party will not be represented by counsel, designate an individual to present the aggrieved party's case at the hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Formal evidence rules and trial procedures shall not apply, and the Hearing Officer</text>
+      <para>
+        <num>(1)</num>
+        <text>may admit and give effect to evidence which possesses probative value commonly accepted by reasonable and prudent persons in the conduct of their affairs;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>may exclude incompetent, irrelevant, immaterial, and unduly repetitious evidence;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>may take judicial notice of general, technical, and scientific facts; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>shall give effect to the rules of privilege recognized by law.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>All evidence, including records and documents, in the possession of DOT, the involved</text>
+      <text>City agency or the City of Baltimore which the Hearing Officer desires to utilize may</text>
+      <para>
+        <num>(1)</num>
+        <text>be made a part of the record in the case, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>be received in the form of copies, excerpts, or by incorporation by reference.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>The hearing shall</text>
+      <para>
+        <num>(1)</num>
+        <text>proceed as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>the Hearing Officer shall begin the hearing with a statement concerning the purpose of the hearing and the procedures that will be followed.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>each party may present its case by narrative or by witnesses.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>cross-examination of any witness shall be permitted; however, the parties will not be permitted to argue or engage in debate.  The Hearing Officer may reasonably limit or terminate cross examination at any time.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>the Hearing Officer may question any witness or party at any time.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>each party may present its final arguments and summarize its position.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>each party shall have the right to make any additional statements before the hearing it terminated.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>at the discretion of the Hearing officer, the hearing may be adjourned to another date, continued, and postponed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding the procedures in Regulation .11.I., the Hearing officer may, in his discretion,</text>
+        <para>
+          <num>(a)</num>
+          <text>decide the order and manner in which testimony and evidence is to be presented and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>make changes to the hearing procedure.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Following the hearing, the Hearing Officer shall</text>
+      <para>
+        <num>(1)</num>
+        <text>make every attempt to render a decision within 30 days from the conclusion of the hearing,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>base the decision on the facts and evidence introduced into the record,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>prepare a decision of each hearing which contains the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>date of the hearing,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>name of the Hearing Officer;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>name of the aggrieved party;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>names, titles and affiliations of persons in attendance;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>the purpose and nature of the hearing;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>brief description of documents, testimony and data presented;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>findings and conclusions of the Hearing Officer regarding the action or decision being appealed; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>the decision of the Hearing officer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>send a copy of the decision to the aggrieved party, or his attorney of record; by</text>
+        <para>
+          <num>(a)</num>
+          <text>first class mail, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>when provided, by email.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Upon the direction of the Hearing Officer or the aggrieved party, a record of the proceedings may be made.</text>
+      <para>
+        <num>(1)</num>
+        <text>The record is adequate if in the form of a tape recording.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The aggrieved party shall have access to the tape-recording during City business hours, and may have a transcript made at its expense.</text>
+        <para>
+          <num>(b)</num>
+          <text>The City shall designate the transcriber, and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the cost of the transcript preparation shall be paid before the transcript is prepared.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Within ten 10 days of DOT's service of the final decision of the Hearing Officer, the aggrieved party may submit a written request for a review of the decision of the Hearing Officer,</text>
+      <para>
+        <num>(1)</num>
+        <text>which shall be sent by</text>
+        <para>
+          <num>(a)</num>
+          <text>first class mail to: Baltimore City Department of Transportation, Street Cuts Section, 520 Fallsway, Baltimore, MD  21202,  and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>email to: streetcuts@baltimorecity.gov;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>if no written request for a review is filed within the time required by these rules, the aggrieved party will be deemed to have waived its rights to any further review of the decision of the Hearing Officer.</text>
+      </para>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>If a timely request for review is made, a Review Hearing Officer shall be appointed who</text>
+      <para>
+        <num>(1)</num>
+        <text>may be an individual member of the DOT designated by the Director to serve as the Review Hearing Officer, but</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>shall not be</text>
+        <para>
+          <num>(a)</num>
+          <text>the Hearing Officer or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the DOT employee who made the decision or took the action being appealed.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>The review shall proceed in the following order:</text>
+      <para>
+        <num>(1)</num>
+        <text>prior to the review proceeding, any party may submit to the Review Hearing Officer and the other party, a brief containing a statement of facts and arguments;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the Review Hearing Officer shall begin the review hearing with a statement concerning the purpose of the review;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>any party may present a brief articulation of its arguments and summarize its position;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>any party may answer any questions posed by the Review Hearing Officer;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>the Review Hearing Officer has the discretion to request additional testimony or evidence;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>at the discretion of the Review Hearing Officer, the review hearing may be adjourned to another date, continued, or postponed.</text>
+      </para>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>Following the review proceeding, the Review Hearing Officer</text>
+      <para>
+        <num>(1)</num>
+        <text>shall make every attempt to render a final decision of the review within 30 days;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>may affirm, reverse, or modify the Hearing Officer's decision;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>shall consider the entire record;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>shall make his decision in writing; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>shall send a copy of the decision to the aggrieved party.</text>
+      </para>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>The decision of the Review Hearing Officer shall constitute the final decision of the Director.</text>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>Under City Code Article 26, §15-36, a party aggrieved by a final decision of the Director may appeal that decision to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Civil Procedure.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">City Code Article 26, Subtitle 15</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>
