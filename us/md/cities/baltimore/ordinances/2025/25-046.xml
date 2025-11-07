@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-046" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-046</num>
+  <num type="bill">25-0018</num>
+  <heading type="short">Emergency Scene - Unauthorized Persons Prohibited</heading>
+  <heading type="long">An Ordinance Concerning Emergency Scene - Unauthorized Persons Prohibited</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-02-10</introduced>
+    <effective>2025-10-23</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-046.pdf">Ord. 25-046</citation>
+    </citations>
+    <history>
+      <vote date="2025-02-10" reading="first"/>
+      <vote date="2025-09-29" reading="second"/>
+      <enacted>2025-10-23</enacted>
+      <committee>Favorable with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="9|§1-2" codified:doc="City of Baltimore, Md., Code" codified:path="9|§1-2">
+      <section>
+        <prefix>§</prefix>
+        <num>1-2</num>
+        <heading>Control of persons and property at fires.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The Chief of the Fire Department shall, during the occurrence of fires or alarm of fires, have authority for himself, and the power to delegate to his assistants, the authority to control all persons and property in the vicinity of a fire, during the continuance thereof; provided, that the exercise of such authority does not conflict with any law of the United States, or of the State of Maryland.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Establishment of emergency scene.</heading>
+          <text>When responding to an emergency, the Chief or the Chief’s designee shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>identify the emergency scene, as defined in <cite doc="City of Baltimore, Md., Code" path="19|§25-5|(a)">City Code, Article 19, § 25-5(a)</cite>;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>establish the boundaries of the emergency scene using:</text>
+            <para>
+              <num>(i)</num>
+              <text>a barricade;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>posted personnel; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>another reasonable method; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>after the Fire Department completes the investigation of the emergency, remove any boundaries marking the emergency scene, unless the Chief makes a determination that a public safety hazard remains.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Persons present.</heading>
+          <text>Only an authorized person, as defined in <cite doc="City of Baltimore, Md., Code" path="19|§25-5|(a)">City Code, Article 19, § 25-5(a)</cite>, may be present within the boundaries of an emergency scene.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="19|§25-5" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§25-5">
+      <section>
+        <prefix>§</prefix>
+        <num>25-5</num>
+        <heading>Control of persons and property at fires.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>In this subsection, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Authorized person.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>“Authorized person” means an a person who is given permission to be present within the boundaries of an emergency scene by the Chief.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Inclusions.</heading>
+              <text>“Authorized person” may include:</text>
+              <para>
+                <num>(A)</num>
+                <text>personnel from the Baltimore City Fire Department;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>personnel from the Baltimore Police Department;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>a victim of the fire;</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>a family member of a victim of the fire;</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>a community- or volunteer-based nonprofit organization that supports and assists victims and survivors of disasters;</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>personnel from the Baltimore City Department of Housing and Community Development; or</text>
+              </para>
+              <para>
+                <num>(G)</num>
+                <text>an official, as defined in <cite doc="City of Baltimore, Md., Code" path="8|§2-21">City Code, Article 8, § 2-21</cite>, with identification issued by the City.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Chief.</heading>
+            <text>“Chief” means the Chief of the Baltimore City Fire Department or the Chief’s designee.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Department.</heading>
+            <text>“Department” means the Baltimore City Fire Department.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Emergency scene.</heading>
+            <text>“Emergency scene” means the immediate area necessary for the Department to investigate an emergency.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Prohibited conduct.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>A person may not loiter within the boundaries of an emergency scene.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exception.</heading>
+            <text>An authorized person, as defined under subsection (a)(2) of this section, may be present within the boundaries of an emergency scene.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Scope.</heading>
+          <text>No person may be charged with a violation of this section unless and until the arresting officer has first warned the person of the violation and the person has failed or refused to stop the violation.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Penalties.</heading>
+          <text>Any person who violates the provisions of this section is guilty of a misdemeanor and, on conviction is subject to a fine of not more than $500 or imprisonment for not more than 60 days, or both fine and imprisonment.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Each violation a separate offense.</heading>
+          <text>Each violation of the provisions of this section is a separate offense.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

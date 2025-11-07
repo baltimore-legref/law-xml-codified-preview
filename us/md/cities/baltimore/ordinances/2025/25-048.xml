@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-048" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-048</num>
+  <num type="bill">25-0059</num>
+  <heading type="short">Building, Fire, and Related Codes - Vacant Building Receivers - Failure to Sell</heading>
+  <heading type="long">An Ordinance Concerning Building, Fire, and Related Codes - Vacant Building Receivers - Failure to Sell</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-04-28</introduced>
+    <effective>2025-11-22</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-048.pdf">Ord. 25-048</citation>
+    </citations>
+    <history>
+      <vote date="2025-04-28" reading="first"/>
+      <vote date="2025-09-15" reading="second"/>
+      <enacted>2025-10-23</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert path="building-codes|II|1|121|121.10" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|121|121.10|121.10.5">
+      <para>
+        <num>121.10.5</num>
+        <heading>Failure to sell.</heading>
+        <text>A receiver appointed to sell a vacant building may offer the property for sale to the Mayor and City Council of Baltimore City, if the property fails to sell at public auction held in accordance with the provisions that apply to a receiver appointed under Rule 3-722 {“Receivers”} and Title 14, Chapter 300 {“Judicial Sales”} of the Maryland Rules.  The sale price shall not exceed the receiver’s expenses in preparing the property for auction, holding the auction, and transferring title.</text>
+      </para>
+    </codify:insert>
+  </section>
+</document>
