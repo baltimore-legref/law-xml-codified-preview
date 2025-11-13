@@ -3762,7 +3762,7 @@
         <reason>As in IMC</reason>
       </section>
     </codify:replace>
-    <codify:replace path="building-codes|V|attachments|A and B" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|V|attachments|A,B,andC|annos">
+    <codify:replace path="building-codes|V|attachments|A and B" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|V|attachments|A,B,andC">
       <attachment name="A,B,andC">
         <prefix>Appendices</prefix>
         <num>A, B, and C</num>
@@ -4123,7 +4123,7 @@
         <reason>As in IPC</reason>
       </section>
     </codify:replace>
-    <codify:insert path="building-codes|VI|attachments" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|VI|attachments|F|annos">
+    <codify:insert path="building-codes|VI|attachments" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|VI|attachments|F">
       <attachment>
         <prefix>Appendix</prefix>
         <num>F</num>
@@ -5814,7 +5814,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="building-codes|IX-A|attachments|A" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-A|attachments|B|annos">
+    <codify:replace path="building-codes|IX-A|attachments|A" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-A|attachments|B">
       <attachment>
         <prefix>Appendix</prefix>
         <num>B</num>
@@ -5822,7 +5822,7 @@
         <reason>As in IECC-C</reason>
       </attachment>
     </codify:replace>
-    <codify:insert path="building-codes|IX-A|attachments" before="B" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-A|attachments|A|annos">
+    <codify:insert path="building-codes|IX-A|attachments" before="B" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-A|attachments|A">
       <attachment>
         <prefix>Appendix</prefix>
         <num>A</num>
@@ -5830,7 +5830,7 @@
         <reason>Not Adopted; See § 113 of this Part IX-A</reason>
       </attachment>
     </codify:insert>
-    <codify:insert path="building-codes|IX-A|attachments" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-A|attachments|C|annos">
+    <codify:insert path="building-codes|IX-A|attachments" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-A|attachments|C">
       <attachment>
         <prefix>Appendix</prefix>
         <num>C</num>
@@ -5991,7 +5991,7 @@
         <reason>As in IECC-R</reason>
       </section>
     </codify:insert>
-    <codify:replace path="building-codes|IX-B|attachments|A" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-B|attachments|B|annos">
+    <codify:replace path="building-codes|IX-B|attachments|A" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-B|attachments|B">
       <attachment>
         <prefix>Appendix</prefix>
         <num>B</num>
@@ -5999,7 +5999,7 @@
         <reason>As in IECC-C</reason>
       </attachment>
     </codify:replace>
-    <codify:insert path="building-codes|IX-B|attachments" before="B" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-B|attachments|A|annos">
+    <codify:insert path="building-codes|IX-B|attachments" before="B" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-B|attachments|A">
       <attachment>
         <prefix>Appendix</prefix>
         <num>A</num>
@@ -6007,7 +6007,7 @@
         <reason>Not Adopted; See § 113 of this Part IX-B</reason>
       </attachment>
     </codify:insert>
-    <codify:insert path="building-codes|IX-B|attachments" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-B|attachments|C|annos">
+    <codify:insert path="building-codes|IX-B|attachments" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|IX-B|attachments|C">
       <attachment>
         <prefix>Appendix</prefix>
         <num>C</num>

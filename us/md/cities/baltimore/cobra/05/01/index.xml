@@ -2,15 +2,12 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Subtitle</prefix>
   <num>01</num>
-  <heading>LICENSE AND TAXATION REGULATIONS</heading>
+  <heading>LICENSE AND TAXATION REGULATIONS/</heading>
   <xi:include href="./07.xml"/>
   <attachments>
     <heading>Legacy Regulations</heading>
     <attachment name="cpace-loans" url="/us/md/cities/baltimore/cobra/attachments/05.01-CPACE_Loans.pdf">
       <heading>CPACE Loans</heading>
-    </attachment>
-    <attachment name="checkout-bag-surcharge" url="/us/md/cities/baltimore/cobra/attachments/05.01-Checkout_Bag_Surcharge.pdf">
-      <heading>Checkout Bag Surcharge</heading>
     </attachment>
     <attachment name="dockless-vehicles-tax" url="/us/md/cities/baltimore/cobra/attachments/05.01-Dockless_Vehicles_Tax.pdf">
       <heading>Dockless Vehicles Tax</heading>
@@ -42,6 +39,9 @@
     <attachment name="public-passenger-vehicle-tax" url="/us/md/cities/baltimore/cobra/attachments/05.01-Public_Passenger_Vehicle_Tax.pdf">
       <heading>Public Passenger Vehicle Tax</heading>
     </attachment>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled “Legacy Regulations”.</annotation>
+    </annotations>
     <attachment name="recordation-tax" url="/us/md/cities/baltimore/cobra/attachments/05.01-Recordation_Tax.pdf">
       <heading>Recordation Tax</heading>
     </attachment>

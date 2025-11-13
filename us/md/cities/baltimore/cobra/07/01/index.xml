@@ -2,12 +2,15 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Subtitle</prefix>
   <num>01</num>
-  <heading>APPLICATION OF PENALTY SURCHARGE FOR WORK WITHOUT A PERMIT</heading>
+  <heading>GENERAL PROVISIONS/</heading>
   <attachments>
     <heading>Legacy Regulations</heading>
     <attachment name="application-of-penalty-surcharge-for-work-without-a-permit" url="/us/md/cities/baltimore/cobra/attachments/07.01-Application_of_Penalty_Surcharge_for_Work_Without_a_Permit.pdf">
       <heading>Application of Penalty Surcharge for Work Without a Permit</heading>
     </attachment>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled “Legacy Regulations”.</annotation>
+    </annotations>
     <attachment name="burglar-alarms" url="/us/md/cities/baltimore/cobra/attachments/07.01-Burglar_Alarms.pdf">
       <heading>Burglar Alarms</heading>
     </attachment>
