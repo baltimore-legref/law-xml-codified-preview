@@ -59,14 +59,14 @@
         </para>
       </para>
     </codify:replace>
-    <codify:insert path="11|II" codified:doc="City of Baltimore, Md., Code" codified:path="11|§20-1.|annos">
+    <codify:insert path="11|II" codified:doc="City of Baltimore, Md., Code" codified:path="11|§20-1|annos">
       <container>
         <prefix>Subtitle</prefix>
         <num>20.</num>
         <heading>Pregnancy Accommodations</heading>
         <section>
           <prefix>§</prefix>
-          <num>20-1.</num>
+          <num>20-1</num>
           <heading>Definitions.</heading>
           <para>
             <num>(a)</num>
@@ -245,13 +245,13 @@
         </section>
         <section>
           <prefix>§</prefix>
-          <num>20-2.</num>
+          <num>20-2</num>
           <heading>Rules and regulations.</heading>
           <text>Subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"}</cite> of the City General Provisions Article, the Commission shall adopt rules and regulations to carry out this subtitle.</text>
         </section>
         <section>
           <prefix>§</prefix>
-          <num>20-3.</num>
+          <num>20-3</num>
           <heading>Provision of pregnancy accommodations.</heading>
           <para>
             <num>(a)</num>
@@ -266,7 +266,7 @@
         </section>
         <section>
           <prefix>§</prefix>
-          <num>20-4.</num>
+          <num>20-4</num>
           <heading>Forbidden actions by employer.</heading>
           <text>An employer may not:</text>
           <para>
@@ -296,7 +296,7 @@
         </section>
         <section>
           <prefix>§</prefix>
-          <num>20-5.</num>
+          <num>20-5</num>
           <heading>Notice of rights under subtitle.</heading>
           <para>
             <num>(a)</num>
@@ -388,7 +388,7 @@
         </section>
         <section>
           <prefix>§</prefix>
-          <num>20-6.</num>
+          <num>20-6</num>
           <heading>Employer records.</heading>
           <para>
             <num>(a)</num>
@@ -445,7 +445,7 @@
         </section>
         <section>
           <prefix>§</prefix>
-          <num>20-7.</num>
+          <num>20-7</num>
           <heading>Complaint to Commission.</heading>
           <para>
             <num>(a)</num>
@@ -460,7 +460,7 @@
         </section>
         <section>
           <prefix>§</prefix>
-          <num>20-8.</num>
+          <num>20-8</num>
           <heading>Judicial and appellate review.</heading>
           <para>
             <num>(a)</num>
@@ -475,13 +475,13 @@
         </section>
         <section>
           <prefix>§</prefix>
-          <num>20-9.</num>
+          <num>20-9</num>
           <heading>Civil penalty.</heading>
           <text>A person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is subject to a civil penalty of not more than $1,000 for each offense.</text>
         </section>
         <section>
           <prefix>§</prefix>
-          <num>20-10.</num>
+          <num>20-10</num>
           <heading>Applicability of other laws.</heading>
           <text>Nothing in this subtitle may be construed to affect the applicability or enforceability of any federal or State law, rule, or regulation regarding accommodations for individuals who are pregnant, recovering from pregnancy, or have a related condition.</text>
         </section>
