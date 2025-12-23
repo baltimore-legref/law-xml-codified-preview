@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-062" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-062</num>
+  <num type="bill">25-0063</num>
+  <heading type="short">Zoning Administrator - Transfer to Department of Planning</heading>
+  <heading type="long">An Ordinance Concerning Zoning Administrator - Transfer to Department of Planning</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-05-12</introduced>
+    <effective>2025-12-03</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-062.pdf">Ord. 25-062</citation>
+    </citations>
+    <history>
+      <vote date="2025-05-12" reading="first"/>
+      <vote date="2025-10-20" reading="second"/>
+      <enacted>2025-11-03</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="13|§2-3" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2-3">
+      <section>
+        <prefix>§</prefix>
+        <num>2-3</num>
+        <heading>General powers.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Enumerated.</heading>
+          <text>The Department of Housing and Community Development is authorized to:</text>
+          <para>
+            <num>(1)</num>
+            <text>recommend areas of operation to the Planning Commission;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>prepare Renewal Plans and to plan and to undertake Renewal Projects in Renewal Areas;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>prepare Conservation Plans and to plan and to undertake Conservation Projects in Conservation Areas;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>furnish technical and other services to community organizations concerned with housing or community development;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>prepare plans and to provide reasonable assistance for the relocation of persons, families, and businesses displaced by reason of the acquisition of property for public purposes;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>encourage and facilitate private investment in the City of Baltimore;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>engage in studies, experimentation, and research pertaining to housing, community development, and the existence of and the problems of correcting, eliminating, and preventing slums, blight, and urban deterioration; disseminate public information with respect thereto, and cooperate with other agencies of the City, the State, the Federal Government, or any agency thereof, in activities undertaken in connection therewith;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>encourage and facilitate the cooperation, interest, and participation of citizens and citizens' groups in the development and execution of Renewal Plans and Conservation Plans, in the urban renewal and conservation programs generally, and in other programs or undertakings of the Department concerning housing or community development;</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>administer and enforce the <cite path="|building-codes" doc="City of Balt., Md., Ord. 25-062">City's Building, Fire, and Related Codes Article</cite> and all other regulatory codes of Baltimore City that relate to buildings, housing, or sanitation, except where that administration and enforcement is required by <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> or by State law to be exercised exclusively by some other officer, department, bureau, or agency of the City;</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>assist the several City departments involved in activities related to housing and community development for the purpose of coordinating such activities and establishing consistent policies and procedures with respect thereto; and</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>exercise the powers and perform the duties and responsibilities conferred and imposed upon the Economic Development Commission, as transferred to the Department by operation of Ordinance No. 1022, approved November 24, 1975, thereby vesting in the Department certain powers and duties to be exercised in connection with aiding the industrial growth of the City.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Powers – Building and inspection.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Department: Duty and authority</heading>
+            <text>The Department of Housing and Community Development shall exercise the duty and authority, as originally transferred to the Department by operation of Ordinance No. 152, approved June 28, 1968, and as now or hereafter conferred by law or ordinance, to:</text>
+            <para>
+              <num>(i)</num>
+              <text>issue permits for and exercise supervision and inspection over:</text>
+              <para>
+                <num>(A)</num>
+                <text>building construction and installations;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the use of land and buildings; and</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>the alterations, relocation, repair, reconstruction, and change of occupancy of buildings and the number of families housed in buildings in the City; and </text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>inspect, repair, condemn, and remove private property in Baltimore City at the expense of the owner thereof.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Commissioner: Duty and authority.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>The Commissioner of the Department of Housing and Community Development is authorized and directed to exercise and perform all of those authorities, powers, responsibilities, rights and duties imposed or conferred, which were, prior to the effective date of Ordinance No. 1091, approved August 2, 1967, imposed or conferred by ordinance or otherwise upon the Building Inspection Engineer.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Enumerated.</heading>
+              <text>The Commissioner or the Commissioner’s designee shall have charge and be responsible for:</text>
+              <para>
+                <num>(A)</num>
+                <text>conducting research studies, preparing statistical data, and keeping informed on inspection activities in other jurisdictions;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>conducting research studies relating generally to the work of the Department as it relates to building inspection;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>public information with respect to enforcement and enforcement activities;</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>inspecting all new and existing buildings, structures, and appurtenant areas and equipment for conformance with applicable laws or regulations;</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>inspecting, repairing, condemning, and removing private property at the expense of the owner thereof pursuant to applicable laws and regulations;</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>such other duties and powers which hereafter may be imposed and conferred upon the Commissioner.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Scope of Renewal Project.</heading>
+          <text>As used in this subtitle, a Renewal Project:</text>
+          <para>
+            <num>(1)</num>
+            <text>may include undertakings and activities for the elimination, the correction, or the prevention of the development or the spread of slum, blighted, deteriorated, or deteriorating areas; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>may involve but shall not be limited to a program or programs of slum clearance, development, redevelopment, renovation, or rehabilitation, voluntary or compulsory rehabilitation or conservation by owners of property, or any combination or part thereof.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Scope of Conservation Project.</heading>
+          <text>As used in this subtitle, a Conservation Project:</text>
+          <para>
+            <num>(1)</num>
+            <text>may include undertakings and activities for the elimination, the correction or the prevention of the development or the spread of slum, blighted, deteriorated, or deteriorating areas; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>may involve but shall not be limited to a program or programs of renovation or rehabilitation, voluntary or compulsory rehabilitation or conservation by owners of property or any combination or part thereof; but</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>shall not include property acquisition by use of the power of eminent domain except where the Conservation Plan permits the acquisition of property for failure to meet minimum standards or authorizes the acquisition of vacant property or property on which structures have been razed for reasons of health or safety.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§3-201" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§3-201">
+      <section>
+        <prefix>§</prefix>
+        <num>3-201</num>
+        <heading>Zoning Administrator.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Office established.</heading>
+          <para>
+            <num>(1)</num>
+            <text>There is an Office of Zoning Administrator, constituted as an independent unit of the Department of Planning.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Zoning Administrator is the executive head of the Office.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Employees of the Office may be appointed as authorized by the Ordinance of Estimates.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Powers and duties – In general.</heading>
+          <text>The Zoning Administrator administers and enforces this Code.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Powers and duties – Specific.</heading>
+          <text>The Zoning Administrator has the following powers and duties under this Code:</text>
+          <para>
+            <num>(1)</num>
+            <text>to determine whether a variance is a major or minor variance (Title 5, Subtitle 3);</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>to grant minor variances (Title 5, Subtitle 3);</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>to authorize use permits (Title 5, Subtitle 7);</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>to provide zoning consultations (Title 5, Subtitle 8);</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>to issue zoning verifications (Title 5, Subtitle 9);</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>to inspect structures and uses of land to determine compliance with this Code and, where violations are found, initiate action to secure compliance;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>to preserve all records from the administration of the zoning law since its enactment by Ordinance No. 1247, approved March 30, 1931;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>to maintain permanent records of this Code and of all actions taken under it, including:</text>
+            <para>
+              <num>(i)</num>
+              <text>all maps adopted under this Code; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>all amendments to this Code and to the maps adopted under it;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the rules and regulations of the Board of Municipal and Zoning Appeals;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>applications for and approvals of conditional uses and variances; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>appeals taken under this Code;</text>
+            </para>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>to provide and maintain a public information service on matters arising out of this Code;</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Where reasonable, necessary, and not a fundamental alteration of this Code, to provide reasonable accommodation in the application of this Code for the siting, development, and use of housing or services for an individual protected under the Federal Americans with Disabilities Act or the Federal Fair Housing Amendments Act;</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>to receive, file, review, maintain copies of, and forward to the Board of Municipal and Zoning Appeals applications for conditional uses, variances, appeals, and other matters on which the Board is required to act;</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>to perform completeness review of applications (§ 5-202);</text>
+          </para>
+          <para>
+            <num>(13)</num>
+            <text>with the approval of the Board of Estimates, to set fees for processing applications, issuing permits and other authorizations, and performing the various other functions required or authorized by this Code; and</text>
+          </para>
+          <para>
+            <num>(14)</num>
+            <text>to perform all other functions assigned to the Zoning Administrator by this Code.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Reclassification.</heading>
+          <text>Before approving any reclassification of the position of Zoning Administrator outside the Civil Service, the Civil Service Commission shall provide reasonable advance notice to the City Council.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

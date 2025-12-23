@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-061" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-061</num>
+  <num type="bill">25-0062</num>
+  <heading type="short">Building Code - Single Exit from Residential Occupancy</heading>
+  <heading type="long">An Ordinance Concerning Building Code - Single Exit from Residential Occupancy</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-05-12</introduced>
+    <effective>2025-12-03</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-061.pdf">Ord. 25-061</citation>
+    </citations>
+    <history>
+      <vote date="2025-05-12" reading="first"/>
+      <vote date="2025-09-29" reading="second"/>
+      <enacted>2025-11-03</enacted>
+      <committee>Favorable with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="building-codes|II|10|1002to1010" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1002to1005">
+      <section name="1002to1005">
+        <prefix>Sections</prefix>
+        <num>1002 to 1005</num>
+        <reason>As in IBC</reason>
+      </section>
+    </codify:replace>
+    <codify:insert path="building-codes|II|10" after="1002to1005" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1006">
+      <section>
+        <prefix>Section</prefix>
+        <num>1006</num>
+        <heading>Number of Exits and Exit Access Doorways</heading>
+        <para name="1006.1to1006.2">
+          <num from="1006.1" to="1006.2">1006.1 to 1006.2</num>
+          <reason>As in IBC</reason>
+        </para>
+        <para>
+          <num>1006.3</num>
+          <reason>As in IBC</reason>
+          <para>
+            <num>1006.3.1</num>
+            <reason>As in IBC</reason>
+          </para>
+          <para>
+            <num>1006.3.2</num>
+            <reason>As in IBC</reason>
+          </para>
+          <para>
+            <num>1006.3.3</num>
+            <reason>As in IBC</reason>
+          </para>
+          <para>
+            <num>1006.3.4</num>
+            <heading>Single exits.</heading>
+            <text>A single exit or access to a single exit shall be permitted from any story or occupied roof where one of the following conditions exists:</text>
+            <para name="1.to5.">
+              <num from="1." to="5.">1. to 5.</num>
+              <reason>As in IBC</reason>
+            </para>
+            <para>
+              <num>6</num>
+              <text>A building may have a single exit or access to a single exit provided that all of the following conditions are met:</text>
+              <para>
+                <num>6.1</num>
+                <text>The building, if it is of Type I, Type II, or Type IV  construction, has no more than 6 stories of Group R-2 Occupancy and no more than 6 stories above grade plane.</text>
+              </para>
+              <para>
+                <num>6.2</num>
+                <text>The building, if it is of Type III-A construction, has no more than 5 stories of Group R-2 occupancy and no more than 5 stories above grade plane established by ground or podium.</text>
+              </para>
+              <para>
+                <num>6.3</num>
+                <text>The building, if it is of Type V construction, has no more than 4 stories of Group R-2 occupancy and no more than 4 stories above grade plane.</text>
+              </para>
+              <para>
+                <num>6.4</num>
+                <text>The building does not contain a boarding house.</text>
+              </para>
+              <para>
+                <num>6.5</num>
+                <text>There are no more than 4 dwelling units per floor.</text>
+              </para>
+              <para>
+                <num>6.6</num>
+                <text>The building is of not less than 1 hour fire-resistive construction.</text>
+              </para>
+              <para>
+                <num>6.7</num>
+                <text>The building is equipped with a sprinkler system throughout, in accordance with § 903.3.1.1 of the Baltimore City Building Code and § 903.3.1.1 of the Baltimore City Fire Code.  Additionally, sprinkler protection shall extend to the following spaces, with no exception for draftstopping:</text>
+                <para>
+                  <num>a.</num>
+                  <text>combustible attic spaces;</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>combustible concealed roof spaces;</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>combustible floor or ceiling assemblies; and</text>
+                </para>
+                <para>
+                  <num>d.</num>
+                  <text>any other area that is hidden or made of combustible materials.</text>
+                </para>
+              </para>
+              <para>
+                <num>6.8</num>
+                <text>There are no more than 2 single exit stairway conditions in the same building.</text>
+              </para>
+              <para>
+                <num>6.9</num>
+                <text>Stairways may be an exterior exit stairway or an interior exit stairway. Interior exit stairways shall:</text>
+                <para>
+                  <num>a.</num>
+                  <text>Be enclosed in a 2-hour fire protection rated wall with 1.5-hour fire protection rated doors;</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>Be pressurized in accordance with § 909.20 of this Code; and</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>Have doors that swing into the interior exit stairway regardless of the served occupant load, provided that doors from the interior exit stairway to the building exterior swing towards the exterior.</text>
+                </para>
+              </para>
+              <para>
+                <num>6.10</num>
+                <text>A corridor with 2-hour fire protection rated walls separates the entry and exit door of each dwelling unit from the door to an interior exit stairway, and no dwelling unit doors open directly into the interior exit stairway.</text>
+              </para>
+              <para>
+                <num>6.11</num>
+                <text>The distance between the exit stairway and the entry and exit door of any dwelling unit is no more than 20 feet.</text>
+              </para>
+              <para>
+                <num>6.12</num>
+                <text>Travel distance, measured in accordance with § 1017 of this Code, does not exceed 125 feet.</text>
+              </para>
+              <para>
+                <num>6.13</num>
+                <text>Elevators are pressurized in accordance with § 909.21 of this Code, or open into elevator lobbies in compliance with § 713.14 of this Code.</text>
+              </para>
+              <para>
+                <num>6.14</num>
+                <text>The stairway either:</text>
+                <para>
+                  <num>a.</num>
+                  <text>Extends to the roof surface through a stairway bulkhead in accordance with § 1511.7.2 of this Code, if the roof has a slope not steeper than 20 degrees (0.35 rad); or</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>Is constructed against the street wall, with 1 window facing the street at each landing, and access to the roof is provided via a scuttle with a stationary, noncombustible access ladder.</text>
+                </para>
+              </para>
+              <para>
+                <num>6.15</num>
+                <text>Other occupancies are permitted in the same building provided they comply with all the requirements of this Code. Other occupancies shall not communicate with the Group R occupancy portion of the building or with the single-exit stairway.</text>
+                <text>
+                  <strong>Exceptions</strong>
+                </text>
+                <text>Parking garages and occupied roofs accessory to the Group R occupancy are permitted to communicate with the exit stairway.</text>
+              </para>
+              <para>
+                <num>1006.3.4.1</num>
+                <reason>As in IBC</reason>
+              </para>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="building-codes|II|10" after="1006" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1007to1010">
+      <section name="1007to1010">
+        <prefix>Sections</prefix>
+        <num>1007 to 1010</num>
+        <reason>As in IBC</reason>
+      </section>
+    </codify:insert>
+    <codify:replace path="building-codes|II|10|1016to1031" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1016to1019">
+      <section name="1016to1019">
+        <prefix>Sections</prefix>
+        <num>1016 to 1019</num>
+        <reason>As in IBC</reason>
+      </section>
+    </codify:replace>
+    <codify:insert path="building-codes|II|10" after="1016to1019" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1020">
+      <section>
+        <prefix>Section</prefix>
+        <num>1020</num>
+        <heading>Corridors.</heading>
+        <para name="1020.1to1020.2">
+          <num from="1020.1" to="1020.2">1020.1 to 1020.2</num>
+          <text>{As in IBC}</text>
+          <text>
+            <table>
+              <caption>Table 1020.2<br/>Corridor Fire-Resistance Rating</caption>
+              <tbody>
+                <tr>
+                  <th>Occupancy</th>
+                  <th>Occupant Load Served by Corridor</th>
+                  <th colspan="2">Required Fire-Resistance Rating (hours)</th>
+                </tr>
+                <tr>
+                  <td/>
+                  <td/>
+                  <th>Without Sprinkler System</th>
+                  <th>With Sprinkler System</th>
+                </tr>
+                <tr>
+                  <td>H-1, H-2, H-3</td>
+                  <td>All</td>
+                  <td>Not Permitted</td>
+                  <td>1<sup>c</sup></td>
+                </tr>
+                <tr>
+                  <td>H-4, H-5</td>
+                  <td>Greater than 30</td>
+                  <td>Not Permitted</td>
+                  <td>1<sup>c</sup></td>
+                </tr>
+                <tr>
+                  <td>A, B, E, F, M, S, U</td>
+                  <td>Greater than 30</td>
+                  <td>1</td>
+                  <td>0</td>
+                </tr>
+                <tr>
+                  <td>R</td>
+                  <td>Greater than 10</td>
+                  <td>Not Permitted</td>
+                  <td>0.5<sup>c</sup>/1<sup>d</sup>/2<sup>e</sup></td>
+                </tr>
+                <tr>
+                  <td>I-2<sup>a</sup></td>
+                  <td>All</td>
+                  <td>Not Permitted</td>
+                  <td>0</td>
+                </tr>
+                <tr>
+                  <td>I-1, I-3</td>
+                  <td>All</td>
+                  <td>Not Permitted</td>
+                  <td>1</td>
+                </tr>
+                <tr>
+                  <td>I-4</td>
+                  <td>All</td>
+                  <td>1</td>
+                  <td>0</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          <text><sup>A</sup> For requirements for occupancies in Group I-2, <em>see </em>§§ 407.2 and 407.3.</text>
+          <text><sup>B</sup> For a reduction in the fire-resistance rating for occupancies in Group I-3, <em>see </em>§ 408.8.</text>
+          <text><sup>C</sup> Buildings equipped throughout with an automatic sprinkler system in accordance with §§ 903.3.1.1 or 903.3.1.2 where allowed.</text>
+          <text><sup>D</sup> Group R-3 and R-4 buildings equipped throughout with an automatic sprinkler system in accordance with § 903.3.1.3. <em>See </em>§ 903.2.8 for occupancies where automatic sprinkler systems are permitted in accordance with § 903.3.1.3.</text>
+          <text><sup>E</sup> R-occupancy buildings equipped with a single exit in accordance with § 1006.3.4.6.</text>
+        </para>
+        <para name="1020.3to1020.7">
+          <num from="1020.3" to="1020.7">1020.3 to 1020.7</num>
+          <reason>As in IBC</reason>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="building-codes|II|10" after="1020" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1021to1031">
+      <section name="1021to1031">
+        <prefix>Sections</prefix>
+        <num>1021 to 1031</num>
+        <reason>As in IBC</reason>
+      </section>
+    </codify:insert>
+    <codify:replace path="building-codes|VIII|10" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|VIII|10|1001to1005|annos">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>10</num>
+        <heading>Means of Egress</heading>
+        <section name="1001to1005">
+          <prefix>Sections</prefix>
+          <num>1001 to 1005</num>
+          <reason>As in IFC</reason>
+        </section>
+        <section>
+          <prefix>Section</prefix>
+          <num>1006</num>
+          <para name="1006.1to1006.2">
+            <num from="1006.1" to="1006.2">1006.1 to 1006.2</num>
+            <reason>As in IFC</reason>
+          </para>
+          <para>
+            <num>1006.3</num>
+            <reason>As in IFC</reason>
+            <para>
+              <num>1006.3.1</num>
+              <reason>As in IFC</reason>
+            </para>
+            <para>
+              <num>1006.3.2</num>
+              <reason>As in IFC</reason>
+            </para>
+            <para>
+              <num>1006.3.3</num>
+              <reason>As in IFC</reason>
+            </para>
+            <para>
+              <num>1006.3.4</num>
+              <heading>Single exits.</heading>
+              <text>A single exit or access to a single exit shall be permitted from any story or occupied roof where 1 of the following conditions exists:</text>
+              <para name="1.to5.">
+                <num from="1." to="5.">1. to 5.</num>
+                <reason>As in IFC</reason>
+              </para>
+              <para>
+                <num>6.</num>
+                <text>A building may have a single exit or access to a single exit provided that all of the following conditions are met:</text>
+                <para>
+                  <num>6.1.</num>
+                  <text>The building, if it is of Type I, Type II, or Type IV  construction, has no more than 6 stories of Group R-2 Occupancy and no more than 6 stories above grade plane.</text>
+                </para>
+                <para>
+                  <num>6.2.</num>
+                  <text>The building, if it is of Type III-A construction, has no more than 5 stories of Group R-2 occupancy and no more than 5 stories above grade plane established by ground or podium.</text>
+                </para>
+                <para>
+                  <num>6.3.</num>
+                  <text>The building, if it is of Type V construction, has no more than 4 stories of Group R-2 occupancy and no more than 4 stories above grade plane.</text>
+                </para>
+                <para>
+                  <num>6.4.</num>
+                  <text>The building does not contain a boarding house.</text>
+                </para>
+                <para>
+                  <num>6.5.</num>
+                  <text>There are no more than 4 dwelling units per floor.</text>
+                </para>
+                <para>
+                  <num>6.6.</num>
+                  <text>The building is of not less than 1 hour fire-resistive construction.</text>
+                </para>
+                <para>
+                  <num>6.7.</num>
+                  <text>The building is equipped with a sprinkler system throughout, in accordance with § 903.3.1.1 {“NFPA 13 sprinkler systems”} of the Baltimore City Building Code and § 903.3.1.1 {“NFPA 13 sprinkler systems”} of the Baltimore City Fire Code. Additionally, sprinkler protection shall extend to the following spaces, with no exception for draftstopping:</text>
+                  <para>
+                    <num>a.</num>
+                    <text>combustible attic spaces;</text>
+                  </para>
+                  <para>
+                    <num>b.</num>
+                    <text>combustible concealed roof spaces;</text>
+                  </para>
+                  <para>
+                    <num>c.</num>
+                    <text>combustible floor or ceiling assemblies; and</text>
+                  </para>
+                  <para>
+                    <num>d.</num>
+                    <text>any other area that is hidden or made of combustible materials.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>6.8.</num>
+                  <text>There are no more than 2 single exit stairway conditions in the same building.</text>
+                </para>
+                <para>
+                  <num>6.9.</num>
+                  <text>Stairways may be an exterior exit stairway or an interior exit stairway. Interior exit stairways shall:</text>
+                  <para>
+                    <num>a.</num>
+                    <text>Be enclosed in a 2-hour fire protection rated wall with 1.5-hour fire protection rated doors;</text>
+                  </para>
+                  <para>
+                    <num>b.</num>
+                    <text>Be pressurized in accordance with § 909.20 {“Smokeproof enclosures”} of the Baltimore City Building Code; and</text>
+                  </para>
+                  <para>
+                    <num>c.</num>
+                    <text>Have doors that swing into the interior exit stairway regardless of the served occupant load, provided that doors from the interior exit stairway to the building exterior swing towards the exterior.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>6.10.</num>
+                  <text>A corridor with 2-hour fire protection rated walls separates the entry and exit door of each dwelling unit from the door to an interior exit stairway, and no dwelling unit doors open directly into the interior exit stairway.</text>
+                </para>
+                <para>
+                  <num>6.11.</num>
+                  <text>The distance between the exit stairway and the entry and exit door of any dwelling unit is no more than 20 feet.</text>
+                </para>
+                <para>
+                  <num>6.12.</num>
+                  <text>Travel distance, measured in accordance with § 1017 {“Exit access travel distance”} of this Code, does not exceed 125 feet.</text>
+                </para>
+                <para>
+                  <num>6.13.</num>
+                  <text>Elevators are pressurized in accordance with § 909.21 {“Elevator hoistway pressurization alternative”} of this Code, or open into elevator lobbies in compliance with § 713.14 {“Elevator, dumbwaiter, and other hoistways”} of the Baltimore City Building Code.</text>
+                </para>
+                <para>
+                  <num>6.14.</num>
+                  <text>The stairway either:</text>
+                  <para>
+                    <num>a.</num>
+                    <text>Extends to the roof surface through a stairway bulkhead in accordance with § 1511.7.2 {“Bulkheads”} of the Baltimore City Building Code, if the roof has a slope not steeper than 20 degrees (0.35 rad); or</text>
+                  </para>
+                  <para>
+                    <num>b.</num>
+                    <text>Is constructed against the street wall, with 1 window facing the street at each landing, and access to the roof is provided via a scuttle with a stationary, noncombustible access ladder.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>6.15.</num>
+                  <text>Other occupancies are permitted in the same building provided they comply with all the requirements of this Code. Other occupancies shall not communicate with the Group R occupancy portion of the building or with the single-exit stairway.</text>
+                  <text>
+                    <strong>Exceptions</strong>
+                  </text>
+                  <text>Parking garages and occupied roofs accessory to the Group R occupancy are permitted to communicate with the exit stairway.</text>
+                </para>
+                <para>
+                  <num>1006.3.4.1</num>
+                  <reason>As in IFC</reason>
+                </para>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section name="1007to1019">
+          <prefix>Sections</prefix>
+          <num>1007 to 1019</num>
+          <reason>As in IFC</reason>
+        </section>
+        <section>
+          <prefix>Section</prefix>
+          <num>1020</num>
+          <heading>Corridors.</heading>
+          <para name="1020.1to1020.2">
+            <num from="1020.1" to="1020.2">1020.1 to 1020.2</num>
+            <text>{As in IFC}</text>
+            <text>
+              <table>
+                <caption>Table 1020.2<br/>Corridor Fire-Resistance Rating</caption>
+                <tbody>
+                  <tr>
+                    <th>Occupancy</th>
+                    <th>Occupant Load Served by Corridor</th>
+                    <th colspan="2">Required Fire-Resistance Rating (hours)</th>
+                  </tr>
+                  <tr>
+                    <td/>
+                    <td/>
+                    <th>Without Sprinkler System</th>
+                    <th>With Sprinkler System</th>
+                  </tr>
+                  <tr>
+                    <td>H-1, H-2, H-3</td>
+                    <td>All</td>
+                    <td>Not Permitted</td>
+                    <td>1<sup>c</sup></td>
+                  </tr>
+                  <tr>
+                    <td>H-4, H-5</td>
+                    <td>Greater than 30</td>
+                    <td>Not Permitted</td>
+                    <td>1<sup>c</sup></td>
+                  </tr>
+                  <tr>
+                    <td>A, B, E, F, M, S, U</td>
+                    <td>Greater than 30</td>
+                    <td>1</td>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <td>R</td>
+                    <td>Greater than 10</td>
+                    <td>Not Permitted</td>
+                    <td>0.5<sup>c</sup>/1<sup>d</sup>/2<sup>e</sup></td>
+                  </tr>
+                  <tr>
+                    <td>I-2<sup>a</sup></td>
+                    <td>All</td>
+                    <td>Not Permitted</td>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <td>I-1, I-3</td>
+                    <td>All</td>
+                    <td>Not Permitted</td>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <td>I-4</td>
+                    <td>All</td>
+                    <td>1</td>
+                    <td>0</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+            <text><sup>A</sup> For requirements for occupancies in Group I-2, <em>see </em>§§ 407.2 and 407.3.</text>
+            <text><sup>B</sup> For a reduction in the fire-resistance rating for occupancies in Group I-3, <em>see </em>§ 408.8.</text>
+            <text><sup>C</sup> Buildings equipped throughout with an automatic sprinkler system in accordance with §§ 903.3.1.1 or 903.3.1.2 where allowed.</text>
+            <text><sup>D</sup> Group R-3 and R-4 buildings equipped throughout with an automatic sprinkler system in accordance with § 903.3.1.3. <em>See </em>§ 903.2.8 for occupancies where automatic sprinkler systems are permitted in accordance with § 903.3.1.3.</text>
+            <text><sup>E</sup> R-occupancy buildings equipped with a single exit in accordance with § 1006.3.4.6.</text>
+          </para>
+          <para name="1020.3to1020.7">
+            <num from="1020.3" to="1020.7">1020.3 to 1020.7</num>
+            <reason>As in IFC</reason>
+          </para>
+        </section>
+        <section name="1021to1031">
+          <prefix>Sections</prefix>
+          <num>1021 to 1031</num>
+          <reason>As in IFC</reason>
+        </section>
+      </container>
+    </codify:replace>
+  </section>
+</document>

@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-078" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-078</num>
+  <num type="bill">25-0051</num>
+  <heading type="short">Labor and Employment – Pregnancy Accommodations</heading>
+  <heading type="long">An Ordinance Concerning Labor and Employment – Pregnancy Accommodations</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-04-07</introduced>
+    <effective>2026-01-10</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-078.pdf">Ord. 25-078</citation>
+    </citations>
+    <history>
+      <vote date="2025-04-07" reading="first"/>
+      <vote date="2025-10-27" reading="second"/>
+      <enacted>2025-12-11</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="4|§1-1|(f)|(3)" codified:doc="City of Baltimore, Md., Code" codified:path="4|§1-1|(f)|(3)">
+      <para>
+        <num>(3)</num>
+        <text>However, it is not discrimination for:</text>
+        <para>
+          <num>(i)</num>
+          <text>any religious or denominational institution to devote its facilities, exclusively or primarily, to or for members of its own religion or denomination or to give preference to those members or to make any selection as is calculated by the institution to promote the religious principles for which it is established or maintained;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>an employer to disqualify a person with a physical or mental disability when the nature or extent of the disability makes the person unfit or unsuited for the job;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>an educational institution to restrict its student body and student activities to one sex or the other;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>an educational institution to provide special educational or recreational programs for individuals with a physical or mental disability; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>any person to provide:</text>
+          <para>
+            <num>(A)</num>
+            <text>separate toilet facilities for males and females;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>lactation accommodations for females in accord with City Code <cite path="|11" doc="City of Balt., Md., Ord. 25-078">Article 11</cite>, Subtitle 16 {"Lactation Accommodation in the Workplace"}; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>pregnancy accommodations in accordance with City Code <cite path="|11" doc="City of Balt., Md., Ord. 25-078">Article 11</cite>, Subtitle 20 {“Pregnancy Accommodations”}.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:insert path="11|II" codified:doc="City of Baltimore, Md., Code" codified:path="11|§20-1.|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>20.</num>
+        <heading>Pregnancy Accommodations</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>20-1.</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>In this subtitle, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Adverse action.</heading>
+            <text>"Adverse action" means an action an employer takes or refuses to take in order to retaliate or discriminate against a person for exercising a right or alleging a violation under this subtitle.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Applicant.</heading>
+            <text>"Applicant" means an individual applying to work for an employer in Baltimore City.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Commission.</heading>
+            <text>"Commission" means the Baltimore Community Relations Commission.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Eligible individual.</heading>
+            <text>"Eligible individual" means an employee or applicant who is currently pregnant, is recovering from a pregnancy, including a pregnancy ending in stillbirth or miscarriage, or is recovering from a related condition.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>Employee.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>"Employee" means any individual who works for an employer in Baltimore City.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Exclusions.</heading>
+              <text>"Employee" does not include:</text>
+              <para>
+                <num>(i)</num>
+                <text>an individual engaged in the activities of an educational, charitable, religious, or other nonprofit organization where the services rendered to that organization are on a voluntary basis or in return for charitable aid conferred on the individual; or</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>an individual who is employed by the individual's parent, spouse, or child.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(g)</num>
+            <heading>Employer.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>"Employer" means any individual or organization engaged in any business in the City of Baltimore that employs 2 or more full-time employees.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Exclusions.</heading>
+              <text>"Employer" does not include:</text>
+              <para>
+                <num>(i)</num>
+                <text>the federal government or any unit thereof; or</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>the State government or any unit thereof.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(h)</num>
+            <heading>Reasonable accommodation.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>"Reasonable accommodation" means any practice or allowance meant to ease the work environment for an employee who is pregnant, recovering from pregnancy, or has a related condition.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Inclusions.</heading>
+              <text>"Reasonable Accommodation" includes:</text>
+              <para>
+                <num>(i)</num>
+                <text>offering an eligible individual more frequent or longer breaks;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>acquiring or modifying accessible equipment or seating;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>temporarily transferring an eligible individual to a less strenuous or hazardous position, if available, with return to the current position after pregnancy or recovery;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>restructuring of an eligible individual's job;</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>assigning an eligible individual light duty;</text>
+              </para>
+              <para>
+                <num>(vi)</num>
+                <text>providing an eligible individual with assistance with manual labor; or</text>
+              </para>
+              <para>
+                <num>(vii)</num>
+                <text>allowing an eligible individual to take a modified work schedule.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <heading>Exclusions.</heading>
+              <text>"Reasonable accommodation" does not include:</text>
+              <para>
+                <num>(i)</num>
+                <text>hiring a new employee that an employer would not otherwise have hired;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>discharging an employee;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>transferring an employee with more seniority than a pregnant or recovering employee;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>promoting an employee who is not qualified to perform a new job;</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>creating a new position for an eligible individual; or</text>
+              </para>
+              <para>
+                <num>(vi)</num>
+                <text>providing an eligible individual leave beyond the amount that is provided to similarly situated employees.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(i)</num>
+            <heading>Undue hardship.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>"Undue hardship" means an action required to provide a requested accommodation that creates a significant difficulty or expense for an employer.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Factors.</heading>
+              <text>When an employer or the Commission is determining undue hardship, the following factors may be considered:</text>
+              <para>
+                <num>(i)</num>
+                <text>the nature and cost of an accommodation;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>the overall financial resources of an employer;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>the overall size of an employer's organization, with respect to the number of employees and number, type, and location of an employer's available facilities;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>an accommodation's effect on an employer's expenses, resources, or operations; and</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>whether a provision of similar accommodations has been made to another employee.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>20-2.</num>
+          <heading>Rules and regulations.</heading>
+          <text>Subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"}</cite> of the City General Provisions Article, the Commission shall adopt rules and regulations to carry out this subtitle.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>20-3.</num>
+          <heading>Provision of pregnancy accommodations.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>An employer shall, upon request of an eligible individual, provide reasonable accommodations to perform th <u>the</u> essential functions of the eligible individual's job as long as the accommodations do not impose an undue hardship on the employer's business.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Good-faith determination.</heading>
+            <text>If an eligible individual requests an accommodation from an employer, the employer and eligible individual shall engage in a timely, good-faith, and interactive process to determine what reasonable accommodations the eligible individual will need.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>20-4.</num>
+          <heading>Forbidden actions by employer.</heading>
+          <text>An employer may not:</text>
+          <para>
+            <num>(1)</num>
+            <text>take adverse action against an eligible individual who requests or uses a reasonable accommodation;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>deny an employment opportunity to an eligible individual based on the need to provide a reasonable accommodation to the eligible individual;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>require an eligible individual to take leave if the employer can provide another reasonable accommodation; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>require an eligible individual to take a reasonable accommodation that:</text>
+            <para>
+              <num>(i)</num>
+              <text>the eligible individual did not request; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is not required for the eligible individual to perform the necessary functions of the eligible individual's job.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>20-5.</num>
+          <heading>Notice of rights under subtitle.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>Any employer subject to this subtitle shall develop and implement a written pregnancy accommodation policy.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Minimum contents.</heading>
+            <text>The written policy shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>contain a statement that an eligible individual has a legal right to request a reasonable accommodation for pregnancy, recovery from pregnancy, or related condition;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>include the employer's process for requesting a reasonable accommodation, which shall include:</text>
+              <para>
+                <num>(i)</num>
+                <text>the means by which an eligible individual may submit a request for reasonable accommodation to the employer;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>a requirement that the employer respond to a request for reasonable accommodation within 5 <u>10</u> business days; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>a requirement that the employer and an eligible individual engage in a timely, good-faith, and interactive process to determine what reasonable accommodations the eligible individual will need;</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>state that, whenever the employer does not provide a reasonable accommodation, including for undue hardship, the employer shall provide in writing the reason for denying the request;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>state that any employee aggrieved by an alleged violation of this subtitle may file a complaint with the Commission;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>provide the contact information for the Commission; and</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>state that adverse action against an employee for reporting a violation of or exercising the rights conferred by this subtitle is prohibited.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Employer to keep copies of all responses.</heading>
+            <text>In accordance with § 20-6 {"Employer records"} of this subtitle, an employer shall retain a copy of all of the employer's written responses required by subsection (b)(3) of this section.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Distribution of policy.</heading>
+            <para>
+              <num>(1)</num>
+              <text>An employer shall distribute a copy of the employer's pregnancy accommodation policy to an employee:</text>
+              <para>
+                <num>(i)</num>
+                <text>upon hiring of the employee; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>within 10 calendar days of any modification to the policy.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>An employer shall offer a copy of the pregnancy accommodation policy to any employee who requests or inquires about the employer's pregnancy or parental leave policy.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If an employer has an employee handbook or set of policies that is available to employees, the pregnancy accommodation policy shall be included in that handbook or set of policies.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>An employer may distribute to an employee the policy required by this section via electronic means, if:</text>
+              <para>
+                <num>(i)</num>
+                <text>the employer provides to the employee a paper copy of the policy upon request; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>the electronic means allows for the employee to confirm receipt of the policy.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>20-6.</num>
+          <heading>Employer records.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>Any employer subject to this subtitle shall maintain a record of all requests for a reasonable accommodation received by the employer.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Required contents.</heading>
+            <text>A record kept  pursuant to this section shall include the following documentation:</text>
+            <para>
+              <num>(1)</num>
+              <text>the name of the employee making the request;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the date of the initial request and of any update to the initial request;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>a copy of all written or digital correspondence by or on behalf of the employee and employer; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>a description of how and when the employer resolved the request.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Retention period; inspection.</heading>
+            <text>An employer shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>retain a record required by this section for a period of 3 years from the date of the request for reasonable accommodation; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>subject to reasonable notice, allow the Commission access to that record, upon request, to monitor compliance with the requirements of this subtitle.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Effect of failure to comply.</heading>
+            <text>In any matter involving an alleged violation of this subtitle, an employer creates a rebuttable presumption that the employer has violated this subtitle if the employer:</text>
+            <para>
+              <num>(1)</num>
+              <text>has failed to maintain or retain a record required by this section; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>does not allow the Commission reasonable access to the record required by this subsection.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>20-7.</num>
+          <heading>Complaint to Commission.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Complaint authorized.</heading>
+            <text>Any person aggrieved by an alleged violation of this subtitle may file a complaint with the Commission.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Process.</heading>
+            <text>A complaint of an alleged violation of this subtitle shall be filed, investigated, and heard in the same manner as that provided in City Code Article 4, Subtitle 4 {"Enforcement"} as an alleged unlawful discriminatory employment practice.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>20-8.</num>
+          <heading>Judicial and appellate review.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Judicial review.</heading>
+            <text>A party aggrieved by a final decision of the Commission under this subtitle may seek judicial review of the Commission's decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Appellate review.</heading>
+            <text>A party to the judicial review may appeal the Circuit Court's final judgment to the Appellate Court of Maryland in accordance with the Maryland Rules of Procedure.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>20-9.</num>
+          <heading>Civil penalty.</heading>
+          <text>A person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is subject to a civil penalty of not more than $1,000 for each offense.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>20-10.</num>
+          <heading>Applicability of other laws.</heading>
+          <text>Nothing in this subtitle may be construed to affect the applicability or enforceability of any federal or State law, rule, or regulation regarding accommodations for individuals who are pregnant, recovering from pregnancy, or have a related condition.</text>
+        </section>
+      </container>
+    </codify:insert>
+  </section>
+</document>

@@ -150,10 +150,11 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-3</num>
         <reason>Repealed by Ord. 22-125</reason>
         <annotations>
-          <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
+          <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
         </annotations>
       </section>
     </container>
@@ -286,7 +287,7 @@
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1966, art. 19, §55(1) - (3)</annotation>
-          <annotation type="Prior Codifications">1976/83, art. 19, § 63(1) - (3), (7)</annotation>
+          <annotation type="Prior Codifications">1976/83, art. 19, § 63(1) - (3), (7)</annotation>
           <annotation doc="City of Balt., Md., Ord. 64-370" type="History">Ord. 64-370</annotation>
           <annotation doc="City of Balt., Md., Ord. 66-739" type="History">Ord. 66-739</annotation>
           <annotation doc="City of Balt., Md., Ord. 67-1219" type="History">Ord. 67-1219</annotation>
@@ -301,7 +302,7 @@
         <para>
           <num>(a)</num>
           <heading>Commission may adopt.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission is authorized to and shall have the power to adopt such rules and regulations as it may deem necessary to:</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission is authorized to and shall have the power to adopt such rules and regulations as it may deem necessary to:</text>
           <para>
             <num>(1)</num>
             <text>effect compliance with this Division I;</text>
@@ -353,7 +354,7 @@
             <para>
               <num>(iii)</num>
               <text>defining handicapped persons,</text>
-              <text>for the purposes of <cite path="|11|§3-2">§ 3-2 of this Division I</cite>.</text>
+              <text>for the purposes of <cite path="|11|§3-2">§ 3-2 of this Division I</cite>.</text>
             </para>
           </para>
         </para>
@@ -366,7 +367,7 @@
           <annotation doc="City of Balt., Md., Ord. 70-798" type="History">Ord. 70-798</annotation>
           <annotation doc="City of Balt., Md., Ord. 78-778" type="History">Ord. 78-778</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
     </container>
@@ -485,7 +486,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Every employer shall pay each of its employees, for all hours worked in excess of 40 during any work week, at a rate which is 1½ times the employee's usual hourly wage rate, except that no employer will be liable for overtime pay to an employee under this section to a greater extent than it is liable to such employee under the Maryland Wage and Hour Law (Title 3, Subtitle 4 of the State Labor and Employment Article) or the Federal Fair Labor Standards Act  (29 U.S.C. §§ 201 - 219).</text>
+          <text>Every employer shall pay each of its employees, for all hours worked in excess of 40 during any work week, at a rate which is 1½ times the employee's usual hourly wage rate, except that no employer will be liable for overtime pay to an employee under this section to a greater extent than it is liable to such employee under the Maryland Wage and Hour Law (Title 3, Subtitle 4 of the State Labor and Employment Article) or the Federal Fair Labor Standards Act  (29 U.S.C. §§ 201 - 219).</text>
         </para>
         <para>
           <num>(b)</num>
@@ -740,7 +741,7 @@
         <prefix>§</prefix>
         <num>4-3</num>
         <heading>Investigation for probable cause.</heading>
-        <text>After the filing of any such complaint, either by a person claiming to be aggrieved as set forth in § 4-1 or by the Commission, the Commission shall:</text>
+        <text>After the filing of any such complaint, either by a person claiming to be aggrieved as set forth in § 4-1 or by the Commission, the Commission shall:</text>
         <para>
           <num>(1)</num>
           <text>investigate the facts alleged therein; and</text>
@@ -880,8 +881,8 @@
               <num>(ii)</num>
               <text>within such other time as may be specified therein,</text>
             </para>
-            <text>the Commission shall make such final order in the proceedings as it deems appropriate to:</text>
           </para>
+          <aftertext>the Commission shall make such final order in the proceedings as it deems appropriate to:</aftertext>
           <para>
             <num>(3)</num>
             <text>require the payment of all wages due the respondent's employees hereunder, and</text>
@@ -1007,7 +1008,7 @@
         <para>
           <num>(b)</num>
           <heading>Restitution or reinstatement with backpay.</heading>
-          <text>In such a case, the Wage Commission may, pursuant to the procedures provided in Subtitle 4 hereof, order appropriate restitution or the reinstatement of such employee with backpay to the date of violation.</text>
+          <text>In such a case, the Wage Commission may, pursuant to the procedures provided in Subtitle 4 hereof, order appropriate restitution or the reinstatement of such employee with backpay to the date of violation.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1966, art. 19, §56(d)</annotation>
@@ -1029,6 +1030,7 @@
         </annotations>
       </section>
       <section name="5-3to5-5">
+        <prefix>§§</prefix>
         <num>5-3 to 5-5</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1145,7 +1147,7 @@
     </container>
     <container name="7to10">
       <prefix>Subtitles</prefix>
-      <num>7 to 10</num>
+      <num>7 to 10</num>
       <reason>Reserved</reason>
     </container>
   </container>
@@ -1306,7 +1308,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-578" type="History">Ord. 07-578</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">For the standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation type="Editor's Notes">For the standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
         </annotations>
       </section>
       <section>
@@ -1422,6 +1424,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-5</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1462,7 +1465,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-578" type="History">Ord. 07-578</annotation>
-          <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 07-578, effective December 26, 2007.  Section 4 of Ord. 07-578 provides that the subtitle “does not apply to any economic participation granted by the City before the effective date of this Ordinance”.</annotation>
+          <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 07-578, effective December 26, 2007.  Section 4 of Ord. 07-578 provides that the subtitle “does not apply to any economic participation granted by the City before the effective date of this Ordinance”.</annotation>
         </annotations>
       </section>
       <section>
@@ -1472,7 +1475,7 @@
         <para>
           <num>(a)</num>
           <heading>"Economic participation" defined.</heading>
-          <text>In this section, "economic participation" means a lease, loan,  financing, underwriting, guarantee, or other financial benefit described in <cite path="|11|§13-6|(b)">§ 13-6(b) of this subtitle</cite>.</text>
+          <text>In this section, "economic participation" means a lease, loan,  financing, underwriting, guarantee, or other financial benefit described in <cite path="|11|§13-6|(b)">§ 13-6(b) of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1495,7 +1498,7 @@
         <para>
           <num>(a)</num>
           <heading>To be enforceable under LMRA.</heading>
-          <text>The labor peace agreement shall be a written agreement enforceable  between the employer and the labor organization under § 301(a) of the  Labor Management Relations Act of 1947,  29 U.S.C. § 185(a).</text>
+          <text>The labor peace agreement shall be a written agreement enforceable  between the employer and the labor organization under § 301(a) of the  Labor Management Relations Act of 1947,  29 U.S.C. § 185(a).</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1516,6 +1519,7 @@
         </annotations>
       </section>
       <section name="13-10to13-15">
+        <prefix>§§</prefix>
         <num>13-10 to 13-15</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1555,7 +1559,7 @@
         <para>
           <num>(b)</num>
           <heading>Bicycle.</heading>
-          <text>"Bicycle" has the meaning stated in § 11-104 {"Bicycle"} of the State Transportation Article.</text>
+          <text>"Bicycle" has the meaning stated in § 11-104 {"Bicycle"} of the State Transportation Article.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1574,21 +1578,22 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 10-383" type="History">Ord. 10-383</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">For the standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation type="Editor's Notes">For the standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
         </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>14-2</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Transportation may adopt rules and regulations to implement this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Transportation may adopt rules and regulations to implement this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 10-383" type="History">Ord. 10-383</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section name="14-3to14-5">
+        <prefix>§§</prefix>
         <num>14-3 to 14-5</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1600,12 +1605,12 @@
         <para>
           <num>(a)</num>
           <heading>Scope.</heading>
-          <text>Bicycle parking spaces required by this subtitle are in addition to any parking spaces otherwise required by Title 16 {"Off-Street Parking and Loading"} of the Baltimore City Zoning Code.</text>
+          <text>Bicycle parking spaces required by this subtitle are in addition to any parking spaces otherwise required by Title 16 {"Off-Street Parking and Loading"} of the Baltimore City Zoning Code.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>General requirements.</heading>
-          <text>Every employer must provide its employees with the number of long-term and short-term parking spaces required by Baltimore City Zoning Code § 16-705 {"Required  number of bicycle spaces""}.</text>
+          <text>Every employer must provide its employees with the number of long-term and short-term parking spaces required by Baltimore City Zoning Code § 16-705 {"Required  number of bicycle spaces""}.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1671,6 +1676,7 @@
         </annotations>
       </section>
       <section name="14-8to14-10">
+        <prefix>§§</prefix>
         <num>14-8 to 14-10</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1690,7 +1696,7 @@
       <num>15</num>
       <heading>Fair Criminal-Record Screening Practices</heading>
       <annotations>
-        <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 14-221, effective August 13, 2014.  The Ordinance proposed to designate the new subtitle as Subtitle 14, comprising § 14-1 et seq.  However, because <cite path="|11">this article</cite> already contains a Subtitle 14, with sections similarly numbered, the new subtitle is codified here as Subtitle 15, comprising §§ 15-1 through 15-16.</annotation>
+        <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 14-221, effective August 13, 2014.  The Ordinance proposed to designate the new subtitle as Subtitle 14, comprising § 14-1 et seq.  However, because <cite path="|11">this article</cite> already contains a Subtitle 14, with sections similarly numbered, the new subtitle is codified here as Subtitle 15, comprising §§ 15-1 through 15-16.</annotation>
       </annotations>
       <container>
         <prefix>Part</prefix>
@@ -1783,8 +1789,8 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 14-221" type="History">Ord. 14-221</annotation>
             <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-            <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>, .</annotation>
-            <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+            <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>, .</annotation>
+            <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
           </annotations>
         </section>
         <section>
@@ -1873,10 +1879,11 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 14-221" type="History">Ord. 14-221</annotation>
             <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-            <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
+            <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
           </annotations>
         </section>
         <section name="15-4to15-5">
+          <prefix>§§</prefix>
           <num>15-4 to 15-5</num>
           <reason>Reserved</reason>
           <annotations/>
@@ -1931,7 +1938,7 @@
           <para>
             <num>(a)</num>
             <heading>Actions expressly required or authorized by other law.</heading>
-            <text>This Part 2 does not apply to any inquiry or other action that is required or expressly authorized by an applicable Federal, State, or City law or regulation.</text>
+            <text>This Part 2 does not apply to any inquiry or other action that is required or expressly authorized by an applicable Federal, State, or City law or regulation.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1942,7 +1949,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>This Part 2 does not apply to any facility or employer that provides programs, services, or direct care to minors or to vulnerable adults.</text>
+              <text>This Part 2 does not apply to any facility or employer that provides programs, services, or direct care to minors or to vulnerable adults.</text>
             </para>
           </para>
           <annotations>
@@ -1950,6 +1957,7 @@
           </annotations>
         </section>
         <section name="15-8to15-10">
+          <prefix>§§</prefix>
           <num>15-8 to 15-10</num>
           <reason>Reserved</reason>
           <annotations/>
@@ -1972,7 +1980,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>The complaint shall be filed, investigated, and heard in the same manner as that provided in City Code <cite path="|4">Article 4 {"Community Relations"}</cite>, Subtitle 4 {"Enforcement"}, for alleged violations of that article's unlawful discriminatory employment practices.</text>
+              <text>The complaint shall be filed, investigated, and heard in the same manner as that provided in City Code <cite path="|4">Article 4 {"Community Relations"}</cite>, Subtitle 4 {"Enforcement"}, for alleged violations of that article's unlawful discriminatory employment practices.</text>
             </para>
           </para>
           <para>
@@ -2037,6 +2045,7 @@
           </annotations>
         </section>
         <section name="15-14to15-15">
+          <prefix>§§</prefix>
           <num>15-14 to 15-15</num>
           <reason>Reserved</reason>
           <annotations/>
@@ -2075,7 +2084,7 @@
           <para>
             <num>(b)</num>
             <heading>Community Relations Commission; Commission.</heading>
-            <text>"Community Relations Commission" or "Commission" means the Baltimore Community Relations Commission established by City Code <cite path="|4">Article 4 {"Community Relations"}</cite>, Subtitle 2 {"Community Relations Commission"}.</text>
+            <text>"Community Relations Commission" or "Commission" means the Baltimore Community Relations Commission established by City Code <cite path="|4">Article 4 {"Community Relations"}</cite>, Subtitle 2 {"Community Relations Commission"}.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -2138,12 +2147,12 @@
             <para>
               <num>(1)</num>
               <heading>In general.</heading>
-              <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
+              <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
             </para>
             <para>
               <num>(2)</num>
               <heading>Qualified inclusion of City governmental units.</heading>
-              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|11|§16-30">§ 16-30 {"Criminal penalties"} of this subtitle</cite>, any department, board, commission, council, authority, committee, office, or other unit of City government.</text>
+              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|11|§16-30">§ 16-30 {"Criminal penalties"} of this subtitle</cite>, any department, board, commission, council, authority, committee, office, or other unit of City government.</text>
             </para>
           </para>
           <annotations>
@@ -2152,16 +2161,18 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-2</num>
           <reason>Repealed by Ord. 22-125</reason>
           <annotations>
             <annotation type="Editor's Notes">
               <text>For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”),</text>
-              <text>see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</text>
+              <text>see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</text>
             </annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-3</num>
           <reason>Reserved</reason>
           <annotations/>
@@ -2170,17 +2181,18 @@
           <prefix>§</prefix>
           <num>16-4</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Community Relations Commission must adopt rules and regulations to carry out this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Community Relations Commission must adopt rules and regulations to carry out this subtitle.</text>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 18-213" type="History">Ord. 18-213</annotation>
             <annotation type="History">Text Conformed 02/18/21</annotation>
             <annotation type="Editor's Notes">
-              <text>By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in</text>
+              <text>By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in</text>
               <text>consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</text>
             </annotation>
           </annotations>
         </section>
         <section name="16-5to16-9">
+          <prefix>§§</prefix>
           <num>16-5 to 16-9</num>
           <reason>Reserved</reason>
           <annotations/>
@@ -2241,7 +2253,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>The lactation location may include the place where the employee normally works if it otherwise meets the requirements of this Part 2.</text>
+              <text>The lactation location may include the place where the employee normally works if it otherwise meets the requirements of this Part 2.</text>
             </para>
           </para>
           <para>
@@ -2322,14 +2334,14 @@
           <prefix>§</prefix>
           <num>16-13</num>
           <heading>Lactation location – Multi-tenant building.</heading>
-          <text>If an employer's workspace is inadequate to satisfy the requirements of this Part 2 and other employers are located in the same building, the employer may fulfill the requirements of this Part 2 by providing a lactation location that:</text>
+          <text>If an employer's workspace is inadequate to satisfy the requirements of this Part 2 and other employers are located in the same building, the employer may fulfill the requirements of this Part 2 by providing a lactation location that:</text>
           <para>
             <num>(1)</num>
             <text>is shared by 2 or more employers in the building;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>complies with § 16-11 {"Lactation location – In general"} and <cite path="|11|§16-12">§ 16-12 {"Lactation location – Multi-purpose locations"} of this Part 2</cite>; and</text>
+            <text>complies with § 16-11 {"Lactation location – In general"} and <cite path="|11|§16-12">§ 16-12 {"Lactation location – Multi-purpose locations"} of this Part 2</cite>; and</text>
           </para>
           <para>
             <num>(3)</num>
@@ -2346,7 +2358,7 @@
           <para>
             <num>(a)</num>
             <heading>In general.</heading>
-            <text>In accordance with the rules and regulations adopted under <cite path="|11|§16-4">§ 16-4 {"Rules and regulations"} of this subtitle</cite>, an employer may apply to the Community Relations Commission for a waiver or variance of any requirement of this Part 2 that the employer can demonstrate would impose an undue hardship by causing significant expense or operational difficulty when considered in relation to the size, financial resources, nature, or structure of the employer's business.</text>
+            <text>In accordance with the rules and regulations adopted under <cite path="|11|§16-4">§ 16-4 {"Rules and regulations"} of this subtitle</cite>, an employer may apply to the Community Relations Commission for a waiver or variance of any requirement of this Part 2 that the employer can demonstrate would impose an undue hardship by causing significant expense or operational difficulty when considered in relation to the size, financial resources, nature, or structure of the employer's business.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -2382,6 +2394,7 @@
           </annotations>
         </section>
         <section name="16-15to16-19">
+          <prefix>§§</prefix>
           <num>16-15 to 16-19</num>
           <reason>Reserved</reason>
           <annotations/>
@@ -2426,7 +2439,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>state that, whenever the employer does not provide lactation breaks or a lactation location, or provides a lactation location that does not fully comply with Part 2 of this subtitle, or asserts any waiver or variance granted under <cite path="|11|§16-14">§ 16-14 {"Waiver or variance for undue hardship"} of this subtitle</cite>, the employer will be required to describe, in a written response to the request, the specific bases on which the employer has done so;</text>
+              <text>state that, whenever the employer does not provide lactation breaks or a lactation location, or provides a lactation location that does not fully comply with Part 2 of this subtitle, or asserts any waiver or variance granted under <cite path="|11|§16-14">§ 16-14 {"Waiver or variance for undue hardship"} of this subtitle</cite>, the employer will be required to describe, in a written response to the request, the specific bases on which the employer has done so;</text>
             </para>
             <para>
               <num>(4)</num>
@@ -2440,7 +2453,7 @@
           <para>
             <num>(c)</num>
             <heading>Employer to keep copies of all responses.</heading>
-            <text>The employer must retain, in accordance with <cite path="|11|§16-21">§ 16-21 {"Employer records"} of this subtitle</cite>, a copy of all written responses made under the policy required by subsection (b)(3) of this section.</text>
+            <text>The employer must retain, in accordance with <cite path="|11|§16-21">§ 16-21 {"Employer records"} of this subtitle</cite>, a copy of all written responses made under the policy required by subsection (b)(3) of this section.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -2523,6 +2536,7 @@
           </annotations>
         </section>
         <section name="16-22to16-24">
+          <prefix>§§</prefix>
           <num>16-22 to 16-24</num>
           <reason>Reserved</reason>
           <annotations/>
@@ -2544,7 +2558,7 @@
           <para>
             <num>(b)</num>
             <heading>Process.</heading>
-            <text>The complaint shall be filed, investigated, and heard in the same manner as that provided in City Code <cite path="|4">Article 4 {"Community Relations"}</cite>, Subtitle 4 {"Enforcement"}, for alleged violations of that article's unlawful discriminatory employment practices.</text>
+            <text>The complaint shall be filed, investigated, and heard in the same manner as that provided in City Code <cite path="|4">Article 4 {"Community Relations"}</cite>, Subtitle 4 {"Enforcement"}, for alleged violations of that article's unlawful discriminatory employment practices.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 18-213" type="History">Ord. 18-213</annotation>
@@ -2570,6 +2584,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-27</num>
           <reason>Reserved</reason>
           <annotations/>
@@ -2589,6 +2604,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-29</num>
           <reason>Reserved</reason>
           <annotations/>
@@ -2647,6 +2663,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-2</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -2661,6 +2678,7 @@
         </annotations>
       </section>
       <section name="17-4to17-5">
+        <prefix>§§</prefix>
         <num>17-4 to 17-5</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -2723,7 +2741,7 @@
         <para>
           <num>(e)</num>
           <heading>Commission.</heading>
-          <text>"Commission" means the Wage Commission established by <cite path="|11|§2-1">§ 2-1 {"Commission established"} of this article</cite>, or the Commission's designee.</text>
+          <text>"Commission" means the Wage Commission established by <cite path="|11|§2-1">§ 2-1 {"Commission established"} of this article</cite>, or the Commission's designee.</text>
         </para>
         <para name="(f)">
           <num>(f)</num>
@@ -2810,18 +2828,18 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 17-028" type="History">Ord. 17-028</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
         </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>18-2</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission may adopt rules and regulations to implement this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission may adopt rules and regulations to implement this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 17-028" type="History">Ord. 17-028</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
@@ -2898,6 +2916,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-4</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -2931,7 +2950,7 @@
         <para>
           <num>(b)</num>
           <heading>Remedial action for violation.</heading>
-          <text>If the Commission finds that an employer has violated subsection (a) of this section it may, pursuant to the procedures provided in § 18-7 {"Enforcement procedures"}, order appropriate restitution or the reinstatement of the employee with backpay to the date of the violation.</text>
+          <text>If the Commission finds that an employer has violated subsection (a) of this section it may, pursuant to the procedures provided in § 18-7 {"Enforcement procedures"}, order appropriate restitution or the reinstatement of the employee with backpay to the date of the violation.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 17-028" type="History">Ord. 17-028</annotation>
@@ -3170,9 +3189,10 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-9</num>
         <reason>Repealed by Ord.  22-125</reason>
-        <text><strong>Note:</strong> For the new, Code-wide standard for severability,<em> see</em> <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</text>
+        <text><strong>Note:</strong> For the new, Code-wide standard for severability,<em> see</em> <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</text>
         <annotations/>
       </section>
     </container>
@@ -3182,7 +3202,7 @@
       <heading>COVID-19 Employee Retention</heading>
       <annotations>
         <annotation type="Editor's Notes">
-          <text>This subtitle was enacted by Ordinance 20-479, effective December 7, 2020.  Section 3</text>
+          <text>This subtitle was enacted by Ordinance 20-479, effective December 7, 2020.  Section 3</text>
           <text>of Ord. 20-479 further provides that</text>
           <text>“[The subtitle] will remain effective through December 31, 2022; and, immediately after that date, with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect.”</text>
         </annotation>
@@ -3225,7 +3245,7 @@
         <para>
           <num>(d)</num>
           <heading>Commission.</heading>
-          <text>"Commission" means the Wage Commission established by <cite path="|11|§2-1">§ 2-1 {"Commission established"} of this article</cite>, or the Commission's designee.</text>
+          <text>"Commission" means the Wage Commission established by <cite path="|11|§2-1">§ 2-1 {"Commission established"} of this article</cite>, or the Commission's designee.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -3292,7 +3312,7 @@
           <para>
             <num>(2)</num>
             <heading>Inclusions.</heading>
-            <text>A "hotel employer" includes the owner, operator, manager, or lessee of any food service facility, as defined in <cite path="|health|6|1|6-101|(d)">§ 6-101(d) {"Definitions: Food service facility"}</cite> of the <cite path="|health">City Health Code, that is physically located on the hotel premises.</cite></text>
+            <text>A "hotel employer" includes the owner, operator, manager, or lessee of any food service facility, as defined in <cite path="|health|6|1|6-101|(d)">§ 6-101(d) {"Definitions: Food service facility"}</cite> of the <cite path="|health">City Health Code, that is physically located on the hotel premises.</cite></text>
           </para>
         </para>
         <para>
@@ -3321,10 +3341,11 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-479" type="History">Ord. 20-479</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-2</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -3432,6 +3453,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-4</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -3484,6 +3506,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-6</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -3508,13 +3531,14 @@
         <para>
           <num>(b)</num>
           <heading>Remedial action for violation.</heading>
-          <text>If the Commission finds that an employer has violated subsection (a) of this section it may, pursuant to the procedures provided in § 19-9 {"Enforcement procedures"} of subtitle, order appropriate restitution or the reinstatement of the employee with backpay to the date of the violation.</text>
+          <text>If the Commission finds that an employer has violated subsection (a) of this section it may, pursuant to the procedures provided in § 19-9 {"Enforcement procedures"} of subtitle, order appropriate restitution or the reinstatement of the employee with backpay to the date of the violation.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-479" type="History">Ord. 20-479</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-8</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -3636,11 +3660,11 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>reinstate any employees to their former positions under the conditions required by <cite path="|11|§19-3">§ 19-3 {"Employer responsibilities"} of this subtitle</cite>; and</text>
+              <text>reinstate any employees to their former positions under the conditions required by <cite path="|11|§19-3">§ 19-3 {"Employer responsibilities"} of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>order payment to any employees of all wages and other compensation owed for the period of time that they were unlawfully terminated, as provided in <cite path="|11|§19-10">§ 19-10 {"Penalties"} of this subtitle</cite>.</text>
+              <text>order payment to any employees of all wages and other compensation owed for the period of time that they were unlawfully terminated, as provided in <cite path="|11|§19-10">§ 19-10 {"Penalties"} of this subtitle</cite>.</text>
             </para>
           </para>
           <para>
@@ -3668,11 +3692,11 @@
             <text>A final order issued under this subsection may:</text>
             <para>
               <num>(i)</num>
-              <text>require the reinstatement of an employee or employees wrongfully terminated in violation of <cite path="|11|§19-3">§ 19-3 {"Employer responsibilities"} of this subtitle</cite>;</text>
+              <text>require the reinstatement of an employee or employees wrongfully terminated in violation of <cite path="|11|§19-3">§ 19-3 {"Employer responsibilities"} of this subtitle</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>require the respondent to pay each employee wrongfully terminated in violation of <cite path="|11|§19-3">§ 19-3 {"Employer responsibilities"} of this subtitle</cite> his or her lost wages and other compensation to the date of the violation, as provided in § 19-10 {"Penalties"}  of this subtitle; and</text>
+              <text>require the respondent to pay each employee wrongfully terminated in violation of <cite path="|11|§19-3">§ 19-3 {"Employer responsibilities"} of this subtitle</cite> his or her lost wages and other compensation to the date of the violation, as provided in § 19-10 {"Penalties"}  of this subtitle; and</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -3715,11 +3739,11 @@
           <text>The Commission may order any successor business employer who commits a violation of this subtitle to:</text>
           <para>
             <num>(1)</num>
-            <text>pay to the aggrieved employee or employees impacted the wages and other compensation lost as a result of the successor business employer's violation of § 19-3 {"Employer responsibilities"}, with interest computed at 10% per annum on wages and other monetary compensation due; and</text>
+            <text>pay to the aggrieved employee or employees impacted the wages and other compensation lost as a result of the successor business employer's violation of § 19-3 {"Employer responsibilities"}, with interest computed at 10% per annum on wages and other monetary compensation due; and</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>reinstate any aggrieved employee or employees under the conditions required by <cite path="|11|§19-3">§ 19-3 {"Employer responsibilities"} of this subtitle</cite>.</text>
+            <text>reinstate any aggrieved employee or employees under the conditions required by <cite path="|11|§19-3">§ 19-3 {"Employer responsibilities"} of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -3766,7 +3790,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as provided in <cite path="|11|§19-11">§ 19-11 {"Collective bargaining agreements"} of this subtitle</cite>, an employee may not waive any provision of this subtitle.</text>
+          <text>Except as provided in <cite path="|11|§19-11">§ 19-11 {"Collective bargaining agreements"} of this subtitle</cite>, an employee may not waive any provision of this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3781,11 +3805,11 @@
         <prefix>§</prefix>
         <num>19-13</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission may adopt rules and regulations to implement this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission may adopt rules and regulations to implement this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-479" type="History">Ord. 20-479</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
@@ -3810,10 +3834,11 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-15</num>
         <reason>Repealed by Ord.  22-125</reason>
         <annotations>
-          <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
+          <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
         </annotations>
       </section>
     </container>
@@ -3823,7 +3848,7 @@
       <heading>COVID-19 Laid-Off Employees Right of Recall</heading>
       <annotations>
         <annotation type="Editor's Notes">
-          <text>This subtitle was enacted by Ordinance 20-480, effective December 7, 2020.  Section 3 of Ord. 20-480 further provides that</text>
+          <text>This subtitle was enacted by Ordinance 20-480, effective December 7, 2020.  Section 3 of Ord. 20-480 further provides that</text>
           <text>“[The subtitle] will remain effective through December 31, 2022; and, immediately after that date, with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect.”</text>
         </annotation>
       </annotations>
@@ -3844,7 +3869,7 @@
         <para>
           <num>(c)</num>
           <heading>Commission.</heading>
-          <text>"Commission" means the Wage Commission established by <cite path="|11|§2-1">§ 2-1 {"Commission established"} of this article</cite>, or the Commission's designee.</text>
+          <text>"Commission" means the Wage Commission established by <cite path="|11|§2-1">§ 2-1 {"Commission established"} of this article</cite>, or the Commission's designee.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -3874,7 +3899,7 @@
           <para>
             <num>(2)</num>
             <heading>Exclusion.</heading>
-            <text>"Employer" does not include a hospital as defined in State Health-General Article, § 19-301 {"Definitions: Hospital"}.</text>
+            <text>"Employer" does not include a hospital as defined in State Health-General Article, § 19-301 {"Definitions: Hospital"}.</text>
           </para>
         </para>
         <para>
@@ -3946,7 +3971,7 @@
           <para>
             <num>(2)</num>
             <heading>Inclusions.</heading>
-            <text>A "hotel employer" includes the owner, operator, manager, or lessee of any food service facility, as defined in <cite path="|health|6|1|6-101|(d)">§ 6-101(d) {"Definitions: Food service facility"}</cite> of the <cite path="|health">City Health Code, that is physically located on the hotel employer's premises.</cite></text>
+            <text>A "hotel employer" includes the owner, operator, manager, or lessee of any food service facility, as defined in <cite path="|health|6|1|6-101|(d)">§ 6-101(d) {"Definitions: Food service facility"}</cite> of the <cite path="|health">City Health Code, that is physically located on the hotel employer's premises.</cite></text>
           </para>
         </para>
         <para>
@@ -3997,10 +4022,11 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-480" type="History">Ord. 20-480</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19A-2</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -4059,6 +4085,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19A-4</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -4083,13 +4110,14 @@
         <para>
           <num>(b)</num>
           <heading>Remedial action for violation.</heading>
-          <text>If the Commission finds that an employer has violated subsection (a) of this section it may, pursuant to the procedures provided in § 19A-7 {"Enforcement procedures"} of subtitle, order appropriate restitution or the reinstatement of the employee with backpay to the date of the violation.</text>
+          <text>If the Commission finds that an employer has violated subsection (a) of this section it may, pursuant to the procedures provided in § 19A-7 {"Enforcement procedures"} of subtitle, order appropriate restitution or the reinstatement of the employee with backpay to the date of the violation.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-480" type="History">Ord. 20-480</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19A-6</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -4211,11 +4239,11 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>reinstate any laid-off employees to their former positions as required by <cite path="|11|§19A-3">§ 19A-3 {"Right of recall"} of this subtitle</cite>; and</text>
+              <text>reinstate any laid-off employees to their former positions as required by <cite path="|11|§19A-3">§ 19A-3 {"Right of recall"} of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>order payment to laid-off employees of all wages and other compensation owed for the period of time that the employer was in violation of this subtitle, as provided in <cite path="|11|§19A-8">§ 19A-8 {"Penalties"} of this subtitle</cite>.</text>
+              <text>order payment to laid-off employees of all wages and other compensation owed for the period of time that the employer was in violation of this subtitle, as provided in <cite path="|11|§19A-8">§ 19A-8 {"Penalties"} of this subtitle</cite>.</text>
             </para>
           </para>
           <para>
@@ -4243,11 +4271,11 @@
             <text>A final order issued under this subsection may:</text>
             <para>
               <num>(i)</num>
-              <text>require the reinstatement of a laid-off employee or employees wrongfully terminated in violation of <cite path="|11|§19A-3">§ 19A-3 {"Right of recall"} of this subtitle</cite>;</text>
+              <text>require the reinstatement of a laid-off employee or employees wrongfully terminated in violation of <cite path="|11|§19A-3">§ 19A-3 {"Right of recall"} of this subtitle</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>require the respondent to pay each employee aggrieved in violation of <cite path="|11|§19A-3">§ 19A-3 {"Right of recall"} of this subtitle</cite> his or her lost wages and other compensation to the date of the violation, as provided in <cite path="|11|§19A-8">§ 19A-8 {"Penalties"} of this subtitle</cite>; and</text>
+              <text>require the respondent to pay each employee aggrieved in violation of <cite path="|11|§19A-3">§ 19A-3 {"Right of recall"} of this subtitle</cite> his or her lost wages and other compensation to the date of the violation, as provided in <cite path="|11|§19A-8">§ 19A-8 {"Penalties"} of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -4290,11 +4318,11 @@
           <text>The Commission may order any employer who commits a violation of this subtitle to:</text>
           <para>
             <num>(1)</num>
-            <text>pay to any aggrieved laid-off employee or employees the wages and other compensation lost as a result of the employer's violation of § 19A-3 {"Right of recall"}, with interest computed at 10% per annum on wages and other monetary compensation due; and</text>
+            <text>pay to any aggrieved laid-off employee or employees the wages and other compensation lost as a result of the employer's violation of § 19A-3 {"Right of recall"}, with interest computed at 10% per annum on wages and other monetary compensation due; and</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>reinstate any laid-off employee or employees under the conditions required by <cite path="|11|§19A-3">§ 19A-3 {"Right of recall"} of this subtitle</cite>.</text>
+            <text>reinstate any laid-off employee or employees under the conditions required by <cite path="|11|§19A-3">§ 19A-3 {"Right of recall"} of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -4341,7 +4369,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as provided in <cite path="|11|§19A-9">§ 19A-9 {"Collective bargaining agreements"} of this subtitle</cite>, an employee may not waive any provision of this subtitle.</text>
+          <text>Except as provided in <cite path="|11|§19A-9">§ 19A-9 {"Collective bargaining agreements"} of this subtitle</cite>, an employee may not waive any provision of this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4356,11 +4384,11 @@
         <prefix>§</prefix>
         <num>19A-11</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission may adopt rules and regulations to implement this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission may adopt rules and regulations to implement this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-480" type="History">Ord. 20-480</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
@@ -4385,12 +4413,470 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19A-13</num>
         <reason>Repealed by Ord. 22-125</reason>
         <annotations>
-          <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
+          <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
         </annotations>
       </section>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>20.</num>
+      <heading>Pregnancy Accommodations</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>20-1.</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Adverse action.</heading>
+          <text>"Adverse action" means an action an employer takes or refuses to take in order to retaliate or discriminate against a person for exercising a right or alleging a violation under this subtitle.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Applicant.</heading>
+          <text>"Applicant" means an individual applying to work for an employer in Baltimore City.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Commission.</heading>
+          <text>"Commission" means the Baltimore Community Relations Commission.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Eligible individual.</heading>
+          <text>"Eligible individual" means an employee or applicant who is currently pregnant, is recovering from a pregnancy, including a pregnancy ending in stillbirth or miscarriage, or is recovering from a related condition.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Employee.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Employee" means any individual who works for an employer in Baltimore City.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Employee" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>an individual engaged in the activities of an educational, charitable, religious, or other nonprofit organization where the services rendered to that organization are on a voluntary basis or in return for charitable aid conferred on the individual; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>an individual who is employed by the individual's parent, spouse, or child.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Employer.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Employer" means any individual or organization engaged in any business in the City of Baltimore that employs 2 or more full-time employees.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Employer" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>the federal government or any unit thereof; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the State government or any unit thereof.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Reasonable accommodation.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Reasonable accommodation" means any practice or allowance meant to ease the work environment for an employee who is pregnant, recovering from pregnancy, or has a related condition.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Reasonable Accommodation" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>offering an eligible individual more frequent or longer breaks;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>acquiring or modifying accessible equipment or seating;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>temporarily transferring an eligible individual to a less strenuous or hazardous position, if available, with return to the current position after pregnancy or recovery;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>restructuring of an eligible individual's job;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>assigning an eligible individual light duty;</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>providing an eligible individual with assistance with manual labor; or</text>
+            </para>
+            <para>
+              <num>(vii)</num>
+              <text>allowing an eligible individual to take a modified work schedule.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Reasonable accommodation" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>hiring a new employee that an employer would not otherwise have hired;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>discharging an employee;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>transferring an employee with more seniority than a pregnant or recovering employee;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>promoting an employee who is not qualified to perform a new job;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>creating a new position for an eligible individual; or</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>providing an eligible individual leave beyond the amount that is provided to similarly situated employees.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Undue hardship.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Undue hardship" means an action required to provide a requested accommodation that creates a significant difficulty or expense for an employer.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Factors.</heading>
+            <text>When an employer or the Commission is determining undue hardship, the following factors may be considered:</text>
+            <para>
+              <num>(i)</num>
+              <text>the nature and cost of an accommodation;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the overall financial resources of an employer;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the overall size of an employer's organization, with respect to the number of employees and number, type, and location of an employer's available facilities;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>an accommodation's effect on an employer's expenses, resources, or operations; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>whether a provision of similar accommodations has been made to another employee.</text>
+            </para>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>20-2.</num>
+        <heading>Rules and regulations.</heading>
+        <text>Subject to <cite path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"}</cite> of the City General Provisions Article, the Commission shall adopt rules and regulations to carry out this subtitle.</text>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>20-3.</num>
+        <heading>Provision of pregnancy accommodations.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>An employer shall, upon request of an eligible individual, provide reasonable accommodations to perform th <u>the</u> essential functions of the eligible individual's job as long as the accommodations do not impose an undue hardship on the employer's business.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Good-faith determination.</heading>
+          <text>If an eligible individual requests an accommodation from an employer, the employer and eligible individual shall engage in a timely, good-faith, and interactive process to determine what reasonable accommodations the eligible individual will need.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>20-4.</num>
+        <heading>Forbidden actions by employer.</heading>
+        <text>An employer may not:</text>
+        <para>
+          <num>(1)</num>
+          <text>take adverse action against an eligible individual who requests or uses a reasonable accommodation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>deny an employment opportunity to an eligible individual based on the need to provide a reasonable accommodation to the eligible individual;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>require an eligible individual to take leave if the employer can provide another reasonable accommodation; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>require an eligible individual to take a reasonable accommodation that:</text>
+          <para>
+            <num>(i)</num>
+            <text>the eligible individual did not request; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>is not required for the eligible individual to perform the necessary functions of the eligible individual's job.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>20-5.</num>
+        <heading>Notice of rights under subtitle.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Any employer subject to this subtitle shall develop and implement a written pregnancy accommodation policy.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Minimum contents.</heading>
+          <text>The written policy shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>contain a statement that an eligible individual has a legal right to request a reasonable accommodation for pregnancy, recovery from pregnancy, or related condition;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>include the employer's process for requesting a reasonable accommodation, which shall include:</text>
+            <para>
+              <num>(i)</num>
+              <text>the means by which an eligible individual may submit a request for reasonable accommodation to the employer;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a requirement that the employer respond to a request for reasonable accommodation within 5 <u>10</u> business days; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a requirement that the employer and an eligible individual engage in a timely, good-faith, and interactive process to determine what reasonable accommodations the eligible individual will need;</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>state that, whenever the employer does not provide a reasonable accommodation, including for undue hardship, the employer shall provide in writing the reason for denying the request;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>state that any employee aggrieved by an alleged violation of this subtitle may file a complaint with the Commission;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>provide the contact information for the Commission; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>state that adverse action against an employee for reporting a violation of or exercising the rights conferred by this subtitle is prohibited.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Employer to keep copies of all responses.</heading>
+          <text>In accordance with § 20-6 {"Employer records"} of this subtitle, an employer shall retain a copy of all of the employer's written responses required by subsection (b)(3) of this section.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Distribution of policy.</heading>
+          <para>
+            <num>(1)</num>
+            <text>An employer shall distribute a copy of the employer's pregnancy accommodation policy to an employee:</text>
+            <para>
+              <num>(i)</num>
+              <text>upon hiring of the employee; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>within 10 calendar days of any modification to the policy.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An employer shall offer a copy of the pregnancy accommodation policy to any employee who requests or inquires about the employer's pregnancy or parental leave policy.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If an employer has an employee handbook or set of policies that is available to employees, the pregnancy accommodation policy shall be included in that handbook or set of policies.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>An employer may distribute to an employee the policy required by this section via electronic means, if:</text>
+            <para>
+              <num>(i)</num>
+              <text>the employer provides to the employee a paper copy of the policy upon request; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the electronic means allows for the employee to confirm receipt of the policy.</text>
+            </para>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>20-6.</num>
+        <heading>Employer records.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Any employer subject to this subtitle shall maintain a record of all requests for a reasonable accommodation received by the employer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Required contents.</heading>
+          <text>A record kept  pursuant to this section shall include the following documentation:</text>
+          <para>
+            <num>(1)</num>
+            <text>the name of the employee making the request;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the date of the initial request and of any update to the initial request;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a copy of all written or digital correspondence by or on behalf of the employee and employer; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>a description of how and when the employer resolved the request.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Retention period; inspection.</heading>
+          <text>An employer shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>retain a record required by this section for a period of 3 years from the date of the request for reasonable accommodation; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>subject to reasonable notice, allow the Commission access to that record, upon request, to monitor compliance with the requirements of this subtitle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Effect of failure to comply.</heading>
+          <text>In any matter involving an alleged violation of this subtitle, an employer creates a rebuttable presumption that the employer has violated this subtitle if the employer:</text>
+          <para>
+            <num>(1)</num>
+            <text>has failed to maintain or retain a record required by this section; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>does not allow the Commission reasonable access to the record required by this subsection.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>20-7.</num>
+        <heading>Complaint to Commission.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Complaint authorized.</heading>
+          <text>Any person aggrieved by an alleged violation of this subtitle may file a complaint with the Commission.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Process.</heading>
+          <text>A complaint of an alleged violation of this subtitle shall be filed, investigated, and heard in the same manner as that provided in City Code Article 4, Subtitle 4 {"Enforcement"} as an alleged unlawful discriminatory employment practice.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>20-8.</num>
+        <heading>Judicial and appellate review.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Judicial review.</heading>
+          <text>A party aggrieved by a final decision of the Commission under this subtitle may seek judicial review of the Commission's decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Appellate review.</heading>
+          <text>A party to the judicial review may appeal the Circuit Court's final judgment to the Appellate Court of Maryland in accordance with the Maryland Rules of Procedure.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>20-9.</num>
+        <heading>Civil penalty.</heading>
+        <text>A person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is subject to a civil penalty of not more than $1,000 for each offense.</text>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>20-10.</num>
+        <heading>Applicability of other laws.</heading>
+        <text>Nothing in this subtitle may be construed to affect the applicability or enforceability of any federal or State law, rule, or regulation regarding accommodations for individuals who are pregnant, recovering from pregnancy, or have a related condition.</text>
+        <annotations>
+          <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
     </container>
   </container>
 </container>

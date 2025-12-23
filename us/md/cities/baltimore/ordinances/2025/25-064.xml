@@ -1,0 +1,903 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-064" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-064</num>
+  <num type="bill">25-0065</num>
+  <heading type="short">Zoning - Eliminating Off-Street Parking Requirements</heading>
+  <heading type="long">An Ordinance Concerning Zoning - Eliminating Off-Street Parking Requirements</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-05-12</introduced>
+    <effective>2025-12-03</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-064.pdf">Ord. 25-064</citation>
+    </citations>
+    <history>
+      <vote date="2025-05-12" reading="first"/>
+      <vote date="2025-10-20" reading="second"/>
+      <enacted>2025-11-03</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="32|§16-201" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-201">
+      <section>
+        <prefix>§</prefix>
+        <num>16-201</num>
+        <heading>Prohibited uses of off-street parking and loading spaces.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Other than for motor vehicles, bicycles.</heading>
+          <text>All off-street parking spaces required by this title may only be used for the parking of motor vehicles and bicycles.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Storing vehicles for sales or hire.</heading>
+          <text>In no event may required parking spaces be used for the temporary or permanent storage of vehicles for sale or hire.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Vehicle repair or service.</heading>
+          <text>No motor vehicle repair work or service of any kind, except emergency repair service, is permitted in any off-street parking space.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Using space allocated to loading space to meet req't for parking space or vice-versa.</heading>
+          <text>No space allocated to an off-street loading space may be used to satisfy the requirement for an off-street parking space or access aisle, or portion of either.  Conversely, the area allocated to an off-street parking space may not be used to satisfy the requirement for an off-street loading space or portion of a space.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-203" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-203">
+      <section>
+        <prefix>§</prefix>
+        <num>16-203</num>
+        <heading>Accessible parking requirements.</heading>
+        <text>With the exception of single-family, detached and semi-detached, dwellings and rowhouse dwellings, in all off-street parking facilities where parking is provided for employees, visitors, or both, accessible parking spaces must be provided.  The number of accessible parking spaces must be included in the total number of required parking spaces and must be in accordance with the applicable requirements of the Maryland Accessibility Code, and all other governing codes and applicable laws.  These spaces must comply with the design standards in the Maryland Accessibility Code.  These spaces must be identified by a sign and pavement markings indicating parking for the disabled only.</text>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-501" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-501">
+      <section>
+        <prefix>§</prefix>
+        <num>16-501</num>
+        <heading>Cross-access easements.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Circulation between sites encouraged.</heading>
+          <text>Adjacent commercial uses that possess dedicated parking areas are encouraged to provide a cross-access drive to allow circulation between sites.  For new commercial and office uses, a system of joint-use driveways and cross-access easements is encouraged where feasible.  Commercial property owners are encouraged to pursue cross-access with neighboring property owners when site plan review is requested.  If cross-access will be provided, the Zoning Administrator may require that the property owner provide proof that adjacent property owners have been contacted in writing regarding the provision of cross-access.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Design requirements.</heading>
+          <text>Joint-use driveways and cross-access easements must incorporate the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>a minimum width of 24 feet to ensure 2-way travel aisles to accommodate automobiles, service vehicles and loading vehicles;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>bump-outs and other design features to make it visually obvious that the abutting properties are tied together; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a unified access and circulation plan for coordinated or shared-parking areas.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Easement requirements.</heading>
+          <text>Property owners who establish cross-access easements under this section must:</text>
+          <para>
+            <num>(1)</num>
+            <text>record an easement that allows cross-access to and from properties served by the joint-use driveways and cross-access easement;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>record an easement to the effect that remaining access rights along the roadway will be dedicated to the City, and that any pre-existing driveways will be closed and eliminated after construction of the joint-use driveway; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>record a joint maintenance agreement that defines the maintenance responsibilities of each property owner.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
+    <codify:replace path="32|§16-101" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-101">
+      <section>
+        <prefix>§</prefix>
+        <num>16-101</num>
+        <heading>Purpose.</heading>
+        <text>The off-street parking and loading regulations of this title are intended to:</text>
+        <para>
+          <num>(1)</num>
+          <text>provide accessible, attractive, secure, and well-maintained off-street parking and loading areas; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>increase public safety by reducing congestion of public streets;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>encourage the use of alternative modes of transportation where appropriate; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>ensure that parking requirements are tailored to maintain pedestrian environments and sensitive to the urban fabric of the City.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-201" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-201">
+      <section>
+        <prefix>§</prefix>
+        <num>16-201</num>
+        <heading>Prohibited uses of off-street parking and loading spaces.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Other than for motor vehicles, bicycles.</heading>
+          <text>All off-street parking spaces may only be used for the parking of motor vehicles and bicycles.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Vehicle repair or service.</heading>
+          <text>No motor vehicle repair work or service of any kind, except emergency repair service, is permitted in any off-street parking space.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-202" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-202">
+      <section>
+        <prefix>§</prefix>
+        <num>16-202</num>
+        <heading>Computation of bicycle parking and loading facilities.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The total number of required loading and bicycle spaces is based on the requirements for the use of the lot.  However, if a lot contains more than 1 use, the number of required spaces is the sum of the separate requirements for each use.  All required facilities must be completed before occupancy of the structure.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Computation standards.</heading>
+          <para>
+            <num>(1)</num>
+            <text>In computing the number of loading or bicycle spaces required by this title, the following standards of computation apply.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A fraction of less than one-half may be disregarded, and a fraction of one-half or more is counted as 1 loading space.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>In places of assembly in which patrons or spectators occupy benches, pews or similar seating facilities, each 24 inches of the seating facility is counted as 1 seat for the purpose of determining the requirement for off-street loading and bicycle spaces.  Floor area of a prayer hall is counted as one 1 seat per marked prayer mat space or, if prayer mat spaces are not marked, 1 seat for every 5 square feet in the prayer hall.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Except as otherwise specified, loading or bicycle spaces required on an employee basis is based on the maximum number of employees normally present on the premises at any one time.  If the determination of the number of parking spaces is based on the number of employees, the owner and the manager are each counted as an employee.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-203" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-203">
+      <section>
+        <prefix>§</prefix>
+        <num>16-203</num>
+        <heading>Accessible parking requirements.</heading>
+        <text>With the exception of single-family, detached and semi-detached, dwellings and rowhouse dwellings, in all off-street parking facilities where parking is provided for employees, visitors, or both, accessible parking spaces must be provided.  The accessible parking spaces shall be in accordance with the applicable requirements of the Maryland Accessibility Code, as set forth in COMAR 09.12.53, and all other governing codes and applicable laws.  These spaces must comply with the design standards in the Maryland Accessibility Code.  These spaces must be identified by a sign and pavement markings indicating parking for the disabled only.</text>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-204" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-204">
+      <section>
+        <prefix>§</prefix>
+        <num>16-204</num>
+        <heading>Parking maximums.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In no case may off-street parking be provided in excess of the limits set in Table 16-204 of this Code, except:</text>
+          <para>
+            <num>(1)</num>
+            <text>detached and semi-detached dwelling to which no maximum applies; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a structure or land that has changed to a new use, if:</text>
+            <para>
+              <num>(i)</num>
+              <text>prior to the change in use, the structure or land had existing off-street parking spaces that would exceed the maximum set for the property’s new use; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>no further off-street parking is added following the change in use.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Off-street facilities.</heading>
+          <text>Nothing in this Title prevents the voluntary establishment of additional off-street parking or loading facilities.  All regulations governing the location, design, and control of these facilities shall be in accordance with this title.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:remove path="32|§16-205" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-201|annos"/>
+    <codify:remove path="32|§16-206" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-201|annos"/>
+    <codify:remove path="32|§16-207" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-201|annos"/>
+    <codify:remove path="32|§16-208" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-201|annos"/>
+    <codify:replace path="32|§16-302" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-302">
+      <section>
+        <prefix>§</prefix>
+        <num>16-302</num>
+        <heading>Time of completion.</heading>
+        <text>Bicycle parking and loading facilities required by this title shall be completed before issuance of a use permit for the use these facilities serve.</text>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-401" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-401">
+      <section>
+        <prefix>§</prefix>
+        <num>16-401</num>
+        <heading>Location of off-street parking.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>On-site of use or structure served.</heading>
+          <text>Unless otherwise permitted by this title, all off-street parking facilities must be located on the same lot as the use or structure served.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Yard and building line restrictions.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Residential districts.</heading>
+            <text>In all detached and semi-detached zoning districts identified in <cite doc="City of Baltimore, Md., Code" path="32|§6-203">§ 6-203 {“Detached and Semi-detached Residential Districts”}</cite> and in the R-5, R-6, R-7, and R-8 zoning districts, off-street parking is prohibited in the required front or corner yard and forward of the front building line.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Commercial districts.</heading>
+            <text>In the C-1, C-1-E, C-1-VC, and C-2 Districts, off-street parking is prohibited in front of the front building line.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Off-site facilities.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Off-street parking facilities may be located off-site if:</text>
+            <para>
+              <num>(i)</num>
+              <text>the parking facilities are located in a zoning district where this parking is permitted or allowed as a conditional use;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the land on which the off-site parking facilities are located is within 600 feet of the lot line of the use or structure served; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the off-site parking facilities are on a lot possessed by the record titleholder of the lot occupied by the structure or use to be served by the parking facilities.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For the purposes of this subsection, possession of the facilities may be by either:</text>
+            <para>
+              <num>(i)</num>
+              <text>deed; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>20-year or longer recorded deed restriction.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The location of the off-site parking facilities and the term and contents of the deed or deed restriction permitting the owner of the use or structure served to use the off-site facilities are subject to the approval of the Zoning Administrator.  The deed or deed restriction must be recorded in the Land Records of Baltimore City, binding the owner of that lot and the owner's heirs and assigns to maintain the required number of parking spaces for the duration of the use served or the term of the deed or deed restriction, whichever first terminates<strong>.</strong></text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Valet service.</heading>
+          <text>Notwithstanding the restrictions of subsections (a), (b), and (c) of this section, a use may utilize a valet service in accordance with City Code <cite path="|31" doc="City of Balt., Md., Ord. 25-064">Article 31</cite>, Subtitle 14 {"Valet Parking"}.  However, the off-site parking facility must provide the required number of spaces.  The use must certify that valet service will be used and that the required number of spaces has been provided.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-403" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-403">
+      <section>
+        <prefix>§</prefix>
+        <num>16-403</num>
+        <heading>Access.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Parking space connection to aisle or driveway.</heading>
+            <text>Each off-street space must open directly onto an aisle or driveway wide enough to provide adequate means of vehicular access to the parking space.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Least interference with other vehicles.</heading>
+            <text>All off-street parking facilities must provide appropriate means of vehicular access in a manner that least interferes with traffic movement and in a way that permits vehicles to enter or leave the parking spaces without having to move any other vehicle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Access to be from street, alley, driveway, or easement.</heading>
+          <text>All off-street parking facilities must have vehicular access from a street, an alley at least 10 feet wide, a driveway, or cross-access easement connection.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>When access from alley required.</heading>
+          <text>In the residential and commercial districts, if off-street parking areas can be accessed from an alley at least 15 feet wide, access from the alley is required and new curb cuts along the public right-of-way are prohibited.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>One-way traffic aisles as in Table.</heading>
+          <text>Within off-street parking facilities, one-way traffic aisles must either be designed:</text>
+          <para>
+            <num>(1)</num>
+            <text>in accordance with <em>Table 16-402{: Off-Street Parking Dimensions}</em>; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>as reviewed by the Site Plan Review Committee and approved by the Director of Planning.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-404" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-404">
+      <section>
+        <prefix>§</prefix>
+        <num>16-404</num>
+        <heading>Driveways.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Conformance with DoT Book of Standards.</heading>
+          <text>The design of every driveway with access onto a City-owned roadway must conform to the City Department of Transportation's Book of Standards.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Distance from side lot line.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Driveways must be located at least 1 foot from the side lot line.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>However, a residential driveway may be located on the lot line if it physically abuts a driveway on the adjoining lot.  This location will only be allowed if agreed to by the owners of each lot and that agreement is recorded as a shared driveway easement on each survey plat.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-406" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-406">
+      <section>
+        <prefix>§</prefix>
+        <num>16-406</num>
+        <heading>Drive-through facility stacking spaces.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Number required.</heading>
+          <text>Every drive-through facility shall provide at least 4 stacking spaces per bay or lane, unless otherwise required by this Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Standards.</heading>
+          <text>Stacking spaces provided for drive-through uses must:</text>
+          <para>
+            <num>(1)</num>
+            <text>be at least 9 feet wide, as measured from the outermost point of any service window to the edge of the drive aisle, and at least 18 feet long;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>be placed in a single line behind the drive-through facility;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>be located so that, when in use, they do not obstruct ingress or egress to the site and do not obstruct access to required parking or loading spaces;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>begin behind the vehicle parked at a last point of service, such as a window or car wash bay; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>comply with any additional standards in <cite doc="City of Baltimore, Md., Code" path="32|§14-311">§ 14-311 {"Drive-through facilities"}</cite>.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§16-501" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-501">
+      <section>
+        <prefix>§</prefix>
+        <num>16-501</num>
+        <heading>Cross-access easements.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Circulation between sites encouraged.</heading>
+          <text>Adjacent commercial uses that possess dedicated parking areas are encouraged to provide a cross-access drive to allow circulation between sites.  For new commercial and office uses, a system of joint-use driveways and cross-access easements is encouraged where feasible.  Commercial property owners are encouraged to pursue cross-access with neighboring property owners when site plan review is requested.  If cross-access will be provided, the Zoning Administrator may require that the property owner provide proof that adjacent property owners have been contacted in writing regarding the provision of cross-access.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Design requirements.</heading>
+          <text>Joint-use driveways and cross-access easements shall incorporate the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>a minimum width of 24 feet to ensure 2-way travel aisles to accommodate automobiles, service vehicles and loading vehicles;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>bump-outs and other design features to make it visually obvious that the abutting properties are tied together; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a unified access and circulation plan for coordinated or shared-parking areas.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Easement requirements.</heading>
+          <text>Property owners who establish cross-access easements under this section shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>record an easement that allows cross-access to and from properties served by the joint-use driveways and cross-access easement;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>record an easement to the effect that remaining access rights along the roadway will be dedicated to the City, and that any pre-existing driveways will be closed and eliminated after construction of the joint-use driveway; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>record a joint maintenance agreement that defines the maintenance responsibilities of each property owner.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:remove path="32|§16-502" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-501|annos"/>
+    <codify:remove path="32|§16-503and16-504" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-501|annos"/>
+    <codify:remove path="32|§16-505" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-501|annos"/>
+    <codify:remove path="32|16|6" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-101|annos"/>
+    <codify:replace path="32|§16-705" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-705">
+      <section>
+        <prefix>§</prefix>
+        <num>16-705</num>
+        <heading>Required number of bicycle spaces.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Bicycle parking spaces must be provided as indicated in <em>Table 16-705: Required Bicycle Spaces</em>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>No bicycle parking is required for uses not listed in <em>Table 16-705</em>.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Structures under 2,500 square feet in gross floor area are exempt from bicycle parking requirements.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Minimum spaces.</heading>
+          <text>In all cases where only 1 of either or both a long-term or short-term bicycle parking space would be required by a<em> Table 16-705</em> calculation, a minimum of 2 long-term or short-term spaces, as the case may be, must be provided.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Reduction after 1st 50 spaces.</heading>
+          <text>After the first 50 bicycle parking spaces are provided, additional bicycle parking spaces required are at one-half of the space-per-unit listed.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Partial deferral of spaces.</heading>
+          <text>If the expected need for bicycle parking for a particular use is uncertain due to unknown or unusual operating characteristics of the use, the Director of Planning may authorize the deferral of up to 50% of the bicycle parking spaces.  Land area required for deferred bicycle parking spaces must be maintained in reserve.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:insert path="32|attachments" before="16-402" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|16-204|annos">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>16-204</num>
+        <heading>Off-Street Parking Maximums</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Uses</th>
+                <th>Maximum Parking Spaces Allowed</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Adult Use</td>
+                <td>6 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Alternative Energy System</td>
+                <td>4 per 1,000 sq. ft. of office area</td>
+              </tr>
+              <tr>
+                <td>Animal Clinic</td>
+                <td>2 per examination room</td>
+              </tr>
+              <tr>
+                <td>Art Gallery</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Arts Studio</td>
+                <td>2 per 2,000 sq. ft. of studio area</td>
+              </tr>
+              <tr>
+                <td>Arts Studio: Industrial</td>
+                <td>2 per 2,000 sq. ft. of studio area</td>
+              </tr>
+              <tr>
+                <td>Bail Bond Establishment</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Banquet Hall</td>
+                <td>2 per 10 persons of fire-rated capacity</td>
+              </tr>
+              <tr>
+                <td>Boat Manufacturing, Repair, and Sales</td>
+                <td>2 per 4 employees on peak shift +<br/>2 per company vehicle maintained on the premises</td>
+              </tr>
+              <tr>
+                <td>Body Art Establishment</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Broadcasting Station (Tv or Radio)</td>
+                <td>2 per 2 employees on peak shift +<br/>2 per company vehicle maintained on the premises</td>
+              </tr>
+              <tr>
+                <td>Carry-Out Food Shop</td>
+                <td>4 per 1,000 sq. ft. of GFA + 6 stacking spaces per drive-through lane</td>
+              </tr>
+              <tr>
+                <td>Car Wash</td>
+                <td>2 per service bay</td>
+              </tr>
+              <tr>
+                <td>Cemetery</td>
+                <td>4 per 1,000 sq. ft. of office area +<br/>2 per 4 persons of fire-rated capacity in chapel</td>
+              </tr>
+              <tr>
+                <td>Check-cashing Establishment</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Commercial composting facility</td>
+                <td>2 per employee on peak shift</td>
+              </tr>
+              <tr>
+                <td>Community Center</td>
+                <td>2 per 10 persons of fire-rated capacity</td>
+              </tr>
+              <tr>
+                <td>Contractor Storage Yard</td>
+                <td>4 per 1,000 sq. ft. of office and public-use areas</td>
+              </tr>
+              <tr>
+                <td>Convention Center</td>
+                <td>2 per 10 persons of fire-rated capacity</td>
+              </tr>
+              <tr>
+                <td>Country Club</td>
+                <td>Cumulative of various uses within the development (golf course, restaurant, etc.)</td>
+              </tr>
+              <tr>
+                <td>Cultural Facility</td>
+                <td>2 per 4,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Day-Care Center: Adult or Child</td>
+                <td>2 per 4 employees on peak shift</td>
+              </tr>
+              <tr>
+                <td>Driving Range</td>
+                <td>3 per tee stand</td>
+              </tr>
+              <tr>
+                <td>Dwelling: All unless otherwise specified</td>
+                <td>2 per dwelling unit</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Live-Work</td>
+                <td>2 per dwelling unit</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family – Age-Restricted Housing</td>
+                <td>2 per 2 dwelling units</td>
+              </tr>
+              <tr>
+                <td>Educational Facility: Commercial-Vocational</td>
+                <td>4 per 4 employees on peak shift +<br/>2 per 25 students, based on maximum student capacity +<br/>2 per facility vehicle if outdoor component (e.g., driving track) is present</td>
+              </tr>
+              <tr>
+                <td>Educational Facility: Post-Secondary</td>
+                <td>2 per 4 employees on peak shift +<br/>2 per 25 students based on the maximum student capacity</td>
+              </tr>
+              <tr>
+                <td>Educational Facility: Primary and Secondary</td>
+                <td>2 per 4 employees on peak shift +<br/>2 per 50 students, based on maximum student capacity</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Indoor – Generally</td>
+                <td>2 per 10 persons of fire-rated capacity</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Indoor – Movie Theater</td>
+                <td>2 per 4 seats for first 400 seats + 2 per 6 seats after first 400</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live (Principal Use)</td>
+                <td>2 per 10 persons of fire-rated capacity</td>
+              </tr>
+              <tr>
+                <td>Financial Institution</td>
+                <td>4 per 1,000 sq. ft. of GFA + 4 stacking spaces per drive-through lane</td>
+              </tr>
+              <tr>
+                <td>Food Processing: Light</td>
+                <td>Greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Fraternity or Sorority House</td>
+                <td>2 per 2 rooming units</td>
+              </tr>
+              <tr>
+                <td>Freight Terminal</td>
+                <td>6 per 20,000 sq. ft. of warehousing area +<br/>6 per 1,000 sq. ft. of office area</td>
+              </tr>
+              <tr>
+                <td>Fuel Station</td>
+                <td>4 per 1,000 sq. ft. of accessory retail area</td>
+              </tr>
+              <tr>
+                <td>Funeral Home</td>
+                <td>4 per 1,000 sq. ft. of office area +<br/>2 per 4 persons of fire-rated capacity in chapel +<br/>2 per company vehicle maintained on the premises</td>
+              </tr>
+              <tr>
+                <td>Golf Course</td>
+                <td>6 per hole</td>
+              </tr>
+              <tr>
+                <td>Government Facility</td>
+                <td>2 per 1,000 sq. ft. of office and public-use areas +<br/>2 per government vehicle maintained on the premises</td>
+              </tr>
+              <tr>
+                <td>Greenhouse or Nursery</td>
+                <td>4 per 1,000 sq. ft. of GFA (including outdoor sales or display area)</td>
+              </tr>
+              <tr>
+                <td>Health-Care Clinic</td>
+                <td>6 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Health and Fitness Center</td>
+                <td>4 per 1,000 sq. ft. of public use area</td>
+              </tr>
+              <tr>
+                <td>Heavy Sales, Rental, or Service</td>
+                <td>Greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Horse Stable</td>
+                <td>2 per 5 stalls</td>
+              </tr>
+              <tr>
+                <td>Hospital</td>
+                <td>2 per 10 hospital beds +<br/>2 per 4 employees (including staff doctors) on peak shift +<br/>2 per 2 examination rooms in medical offices</td>
+              </tr>
+              <tr>
+                <td>Hotel or Motel</td>
+                <td>2 per 4 room</td>
+              </tr>
+              <tr>
+                <td>Industrial Boat Repair Facility</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Industrial: General</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Industrial: Light</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Industrial: Maritime-Dependent</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Kennel</td>
+                <td>4 per 1,000 sq. ft. of public waiting area</td>
+              </tr>
+              <tr>
+                <td>Landfill: Industrial</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of office area</td>
+              </tr>
+              <tr>
+                <td>Lodge or social club</td>
+                <td>2 per 10 persons of fire-rated capacity</td>
+              </tr>
+              <tr>
+                <td>Marina: Dry Storage</td>
+                <td>2 per 4 slips (Note: During the off-season, September 15 to May 14, the parking area may be used for the storage of boats, trailers, or other related materials, as long as at least 10% of required parking remains)</td>
+              </tr>
+              <tr>
+                <td>Marina: Recreational</td>
+                <td>2 per 2 slips</td>
+              </tr>
+              <tr>
+                <td>Marine Terminal</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Materials Recovery Facility</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of office area</td>
+              </tr>
+              <tr>
+                <td>Mini-Warehouses</td>
+                <td>2 per 50 storage units</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Dealership</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Operations Facility</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of office area</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Rental Establishment</td>
+                <td>4 per 1,000 sq. ft. of office and public-use areas +<br/>2 per company vehicle maintained on the premises</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Service and Repair, Major or Minor</td>
+                <td>4 per service bay</td>
+              </tr>
+              <tr>
+                <td>Movie Studio</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of office area</td>
+              </tr>
+              <tr>
+                <td>Nursery (<em>See </em>"Greenhouse or Nursery")</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Office</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Outdoor Storage Yard</td>
+                <td>2 per 1,000 sq. ft. of office and public-use areas</td>
+              </tr>
+              <tr>
+                <td>Passenger Terminal</td>
+                <td>6 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Pawn Shop</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Personal Services Establishment</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Place of Worship</td>
+                <td>
+                  <p>2 per 4 persons of fire-rated capacity of the main sanctuary; </p>
+                  <p>or, for places of worship whose worshipers are required to walk to worship because of religious tenet, 2 per 8 persons of fire-rated capacity + 2 or more additional spaces as required by this Code for other uses on the site</p>
+                </td>
+              </tr>
+              <tr>
+                <td>Printing Establishment</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Racetrack</td>
+                <td>2 per 10 persons of fire-rated capacity</td>
+              </tr>
+              <tr>
+                <td>Recreation: Indoor</td>
+                <td>2 per 2,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Recreation: Outdoor</td>
+                <td>4 per 1,000 sq. ft. of public-use area (not including actual playing field or pool)</td>
+              </tr>
+              <tr>
+                <td>Recreational Vehicle Dealership</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Recyclable Materials Recovery Facility</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of office area</td>
+              </tr>
+              <tr>
+                <td>Recycling and Refuse Collection Facility</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of office area</td>
+              </tr>
+              <tr>
+                <td>Research and Development Facility</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility</td>
+                <td>2 per 4 employees on peak shift +<br/>2 per 6 residents; however, if the facility does not permit residents to have vehicles at the facility, the facility need not provide off-street parking spaces for residents</td>
+              </tr>
+              <tr>
+                <td>Resource Recovery Facility</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of office area]</td>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td>2 per 1,000 sq. ft. of indoor public seating area +<br/>6 stacking spaces per drive-through lane</td>
+              </tr>
+              <tr>
+                <td>Retail: Big Box Establishment</td>
+                <td>4 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment</td>
+                <td>2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+              <tr>
+                <td>Rooming House</td>
+                <td>2 per 2 rooming units</td>
+              </tr>
+              <tr>
+                <td>Shipyard</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA]</td>
+              </tr>
+              <tr>
+                <td>Stadium</td>
+                <td>2 per 10 persons of fire-rated capacity</td>
+              </tr>
+              <tr>
+                <td>Tavern</td>
+                <td>2 per 1,000 sq. ft. of indoor public seating area</td>
+              </tr>
+              <tr>
+                <td>Truck Repair</td>
+                <td>4 truck-sized parking spaces per service bay +<br/>2 per 4 employees on peak shift</td>
+              </tr>
+              <tr>
+                <td>Truck Stop</td>
+                <td>2 truck-sized space per 5,000 sq. ft. of site area +<br/>2 per 4 employees on peak shift</td>
+              </tr>
+              <tr>
+                <td>Truck Terminal</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 truck-sized spaces per 5,000 sq. ft. of site area</td>
+              </tr>
+              <tr>
+                <td>Urban Agriculture</td>
+                <td>2 per company vehicle maintained on the premises</td>
+              </tr>
+              <tr>
+                <td>Video Lottery Facility</td>
+                <td>2 per 10 persons of fire-rated capacity</td>
+              </tr>
+              <tr>
+                <td>Warehouse</td>
+                <td>2 per 20,000 sq. ft. of warehousing area +<br/>6 per 1,000 sq. ft. of office area</td>
+              </tr>
+              <tr>
+                <td>Waterfreight Terminal</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft.of GFA</td>
+              </tr>
+              <tr>
+                <td>Wholesale Goods Establishment</td>
+                <td>greater of (i) 2 per 4 employees on peak shift, or (ii) 2 per 1,000 sq. ft. of GFA</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </attachment>
+    </codify:insert>
+    <codify:remove path="32|attachments|16-406" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32"/>
+  </section>
+</document>

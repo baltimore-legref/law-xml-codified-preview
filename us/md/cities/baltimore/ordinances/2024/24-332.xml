@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="32|§16-601" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601">
+    <codify:replace path="32|§16-601">
       <section>
         <prefix>§</prefix>
         <num>16-601</num>
@@ -29,7 +29,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The following districts and uses are allowed the following exemptions from the off-street parking requirements of <em>Table 16-406: Required Off-Street Parking</em>.  These do not include exemptions from required bicycle parking.</text>
+          <text>The following districts and uses are allowed the following exemptions from the off-street parking requirements of <em>Table 16-406: Required Off-Street Parking</em>.  These do not include exemptions from required bicycle parking.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -42,7 +42,7 @@
             <num>(2)</num>
             <para>
               <num>(i)</num>
-              <text>In the PC Subdistricts, the following uses are exempt from the off-street parking requirements of <em>Table 16-406: Required Off-Street Parking</em>:</text>
+              <text>In the PC Subdistricts, the following uses are exempt from the off-street parking requirements of <em>Table 16-406: Required Off-Street Parking</em>:</text>
               <para>
                 <num>(A)</num>
                 <text>open-space uses (except for recreational marinas); and</text>
@@ -63,7 +63,7 @@
           <heading>Square footage exemption for C-2.</heading>
           <para>
             <num>(1)</num>
-            <text>The first 3,000 square feet of gross floor area for commercial uses in the C-2 District are exempt from the parking requirements of <em>Table 16-406</em>.</text>
+            <text>The first 3,000 square feet of gross floor area for commercial uses in the C-2 District are exempt from the parking requirements of <em>Table 16-406</em>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -130,7 +130,7 @@
           <text>
             <em>Residential projects subject to inclusionary housing.</em>
           </text>
-          <text>Off-street parking is not required for a residential project that is subject to the inclusionary requirements under <cite doc="City of Baltimore, Md., Code" path="|13|§2B-21">§ 2B-21 {"Inclusionary Requirements"} of Article 13</cite> of this Code.</text>
+          <text>Off-street parking is not required for a residential project that is subject to the inclusionary requirements under <cite doc="City of Baltimore, Md., Code" path="|13|§2B-21">§ 2B-21 {"Inclusionary Requirements"} of Article 13</cite> of this Code.</text>
         </para>
         <para>
           <num>(h)</num>

@@ -1,0 +1,719 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-063" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-063</num>
+  <num type="bill">25-0064</num>
+  <heading type="short">Zoning - Bulk and Yard Requirements - Amendments</heading>
+  <heading type="long">An Ordinance Concerning Zoning - Bulk and Yard Requirements - Amendments</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-05-12</introduced>
+    <effective>2025-12-03</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-063.pdf">Ord. 25-063</citation>
+    </citations>
+    <history>
+      <vote date="2025-05-12" reading="first"/>
+      <vote date="2025-10-20" reading="second"/>
+      <enacted>2025-11-03</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="32|attachments|8-401" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|8-401|annos">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>8-401</num>
+        <heading>Detached and Semi-Detached Residential Districts – Bulk and Yard Regulations</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Categories</th>
+                <th colspan="10">Specifications<br/> (Per District)</th>
+              </tr>
+              <tr>
+                <th/>
+                <th>R-1A</th>
+                <th>R-1B</th>
+                <th>R-1C</th>
+                <th>R-1D</th>
+                <th>R-1E</th>
+                <th>R-1</th>
+                <th>R-2</th>
+                <th>R-3</th>
+                <th>R-4</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th colspan="10">Minimum Lot Area</th>
+              </tr>
+              <tr>
+                <td>Community ... Open-Space Garden or Farm</td>
+                <td>2 acres</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached or Semi-Detached</td>
+                <td>2 acres</td>
+                <td>1 acre</td>
+                <td>21,780 sq.ft.</td>
+                <td>14,520 sq.ft.</td>
+                <td>9,000 sq.ft.</td>
+                <td>7,300 sq.ft.</td>
+                <td>5,000 sq.ft.</td>
+                <td>5,000 sq.ft.</td>
+                <td>3,000 sq.ft.</td>
+              </tr>
+              <tr>
+                <td>Park or Playground</td>
+                <td>2 acres</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>Urban Agriculture</td>
+                <td>2 acres</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>2 acres</td>
+                <td>1 acre</td>
+                <td>20,000 sq.ft.</td>
+                <td>20,000 sq.ft.</td>
+                <td>20,000 sq.ft.</td>
+                <td>20,000 sq.ft.</td>
+                <td>20,000 sq.ft.</td>
+                <td>5,000 sq.ft.</td>
+                <td>3,000 sq.ft.</td>
+              </tr>
+              <tr>
+                <th colspan="10">Minimum Lot Width</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Semi-Detached</td>
+                <td>100 feet</td>
+                <td>75 feet</td>
+                <td>75 feet</td>
+                <td>60 feet</td>
+                <td>60 feet</td>
+                <td>50 feet</td>
+                <td>30 feet</td>
+                <td>45 feet</td>
+                <td>30 feet</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>100 feet</td>
+                <td>75 feet</td>
+                <td>75 feet</td>
+                <td>60 feet</td>
+                <td>60 feet</td>
+                <td>50 feet</td>
+                <td>50 feet</td>
+                <td>45 feet</td>
+                <td>45 feet</td>
+              </tr>
+              <tr>
+                <th colspan="10">Maximum Building Height</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+              </tr>
+              <tr>
+                <th colspan="10">Maximum Lot Coverage</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>35%</td>
+                <td>35%</td>
+                <td>35%</td>
+                <td>35%</td>
+                <td>35%</td>
+                <td>40%</td>
+                <td>40%</td>
+                <td>45%</td>
+                <td>45%</td>
+              </tr>
+              <tr>
+                <th colspan="10">Maximum Impervious Surface</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>40%</td>
+                <td>40%</td>
+                <td>40%</td>
+                <td>40%</td>
+                <td>40%</td>
+                <td>50%</td>
+                <td>50%</td>
+                <td>50%</td>
+                <td>50%</td>
+              </tr>
+              <tr>
+                <th colspan="10">Minimum Front Yard</th>
+              </tr>
+              <tr>
+                <td>All Uses <sup><strong>1</strong></sup></td>
+                <td>40 feet</td>
+                <td>40 feet</td>
+                <td>40 feet</td>
+                <td>40 feet</td>
+                <td>30 feet</td>
+                <td>30 feet</td>
+                <td>30 feet</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+              </tr>
+              <tr>
+                <th colspan="11">Minimum Interior- Side Yard</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached</td>
+                <td>15 feet</td>
+                <td>15 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Semi-Detached <sup><strong>2</strong></sup></td>
+                <td>15 feet</td>
+                <td>15 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>10 feet</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>15 feet</td>
+                <td>15 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>10 feet</td>
+              </tr>
+              <tr>
+                <th colspan="10">Minimum Corner- Side Yard</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>15 feet</td>
+                <td>15 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+              </tr>
+              <tr>
+                <th colspan="10">Minimum Rear Yard</th>
+              </tr>
+              <tr>
+                <td>All Uses</td>
+                <td>40 feet</td>
+                <td>40 feet</td>
+                <td>40 feet</td>
+                <td>30 feet</td>
+                <td>30 feet</td>
+                <td>30 feet</td>
+                <td>30 feet</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="10">
+                  <p><sup><strong>1 </strong></sup>These minimums per district apply if less than 50% of the lots on the blockface have been developed.  If, however, 50% or more of the lots on the blockface have been developed, the applicable minimum, for all of these districts, is the lesser of (i) the average of the front-yard depths of the improved lots or (ii) 40 feet.</p>
+                  <p><sup><strong>2 </strong></sup>For semi-detached dwellings, interior-side yards are required only along the interior-side lot line where the party wall between dwellings is not located.</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+      </attachment>
+    </codify:replace>
+    <codify:replace path="32|attachments|9-401" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|9-401|annos">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>9-401</num>
+        <heading>Rowhouse and Multi-Family Residential Districts – Bulk and Yard Regulations</heading>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Categories</th>
+                <th colspan="6">Specifications<br/> (Per District)</th>
+              </tr>
+              <tr>
+                <th/>
+                <th>R-5</th>
+                <th>R-6</th>
+                <th>R-7</th>
+                <th>R-8</th>
+                <th>R-9</th>
+                <th>R-10</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th colspan="7">Minimum Lot Area</th>
+              </tr>
+              <tr>
+                <td>Community ... Open-Space Garden or Farm</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached</td>
+                <td>3,000 sq.ft.</td>
+                <td>3,000 sq.ft.</td>
+                <td>3,000 sq.ft.</td>
+                <td>3,000 sq.ft.</td>
+                <td>3,000 sq.ft.</td>
+                <td>3,000 sq.ft.</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Semi-Detached</td>
+                <td>2,500 sq.ft.</td>
+                <td>2,000 sq.ft.</td>
+                <td>2,000 sq.ft.</td>
+                <td>2,000 sq.ft.</td>
+                <td>2,500 sq.ft.</td>
+                <td>2,000 sq.ft.</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>2,500 sq.ft.</td>
+                <td>1,500 sq.ft.</td>
+                <td>1,100 sq.ft.</td>
+                <td>750 sq.ft.</td>
+                <td>750 sq.ft.</td>
+                <td>500 sq.ft.</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>2,500 sq.ft./du</td>
+                <td>1,500 sq.ft./du</td>
+                <td>1,100 sq.ft./du</td>
+                <td>750 sq.ft./du</td>
+                <td>550 sq.ft./du</td>
+                <td>200 sq.ft./du</td>
+              </tr>
+              <tr>
+                <td>
+                  <p>Dwelling: Multifamily</p>
+                  <p>(Age-Restricted)</p>
+                </td>
+                <td>1,500 sq.ft./du</td>
+                <td>1,000 sq.ft./du</td>
+                <td>750 sq.ft./du</td>
+                <td>500 sq.ft./du</td>
+                <td>550 sq.ft./du</td>
+                <td>200 sq.ft./du</td>
+              </tr>
+              <tr>
+                <td>Park or Playground</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility</td>
+                <td>Lot area to be comparable to that for a like-sized M-FD</td>
+                <td>Lot area to be comparable to that for a like-sized M-FD</td>
+                <td>Lot area to be comparable to that for a like-sized M-FD</td>
+                <td>Lot area to be comparable to that for a like-sized M-FD</td>
+                <td>Lot area to be comparable to that for a like-sized M-FD</td>
+                <td>Lot area to be comparable to that for a like-sized M-FD</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (Age-Restricted)</td>
+                <td>
+                  <p>Lot area to be comparable to that for a like-sized M-FD</p>
+                  <p>(Age-Restrctd)</p>
+                </td>
+                <td>
+                  <p>Lot area to be comparable to that for a like-sized M-FD</p>
+                  <p>(Age-Restrctd)</p>
+                </td>
+                <td>
+                  <p>Lot area to be comparable to that for a like-sized M-FD</p>
+                  <p>(Age-Restrctd)</p>
+                </td>
+                <td>
+                  <p>Lot area to be comparable to that for a like-sized M-FD</p>
+                  <p>(Age-Restrctd)</p>
+                </td>
+                <td>Lot area to be comparable to that for a like-sized M-FD (Age-Restrctd)</td>
+                <td>
+                  <p>Lot area to be comparable to that for a like-sized M-FD</p>
+                  <p>(Age-Restrctd)</p>
+                </td>
+              </tr>
+              <tr>
+                <td>Rooming House</td>
+                <td>N/A</td>
+                <td>N/A</td>
+                <td>N/A</td>
+                <td>375 sq.ft./ru</td>
+                <td>275 sq.ft./ru</td>
+                <td>100 sq.ft./ru</td>
+              </tr>
+              <tr>
+                <td>Urban Agriculture</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>3,000 sq. ft.</td>
+                <td>3,000 sq. ft.</td>
+                <td>3,000 sq. ft.</td>
+                <td>3,000 sq. ft.</td>
+                <td>3,000 sq. ft.</td>
+                <td>3,000 sq. ft.</td>
+              </tr>
+              <tr>
+                <th colspan="7">Maximum Bldg  Height</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached or Semi-Detached</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 feet</td>
+                <td>35 or 45 feet <sup><strong>1</strong></sup></td>
+                <td>35 or 45 feet <sup><strong>1</strong></sup></td>
+                <td>35 or 45 feet <sup><strong>1</strong></sup></td>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>35 or 45 feet <sup><strong>2</strong></sup></td>
+                <td>35 or 45 feet <sup><strong>2</strong></sup></td>
+                <td>35 or 45 feet <sup><strong>2</strong></sup></td>
+                <td>45 or 60 feet <sup><strong>3</strong></sup></td>
+                <td>3.0 FAR</td>
+                <td>6.0 FAR</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>35 or 45 feet <sup><strong>2</strong></sup></td>
+                <td>35 or 45 feet <sup><strong>2</strong></sup></td>
+                <td>35 or 45 feet <sup><strong>2</strong></sup></td>
+                <td>45 or 60 feet <sup><strong>3</strong></sup></td>
+                <td>45 feet</td>
+                <td>45 feet</td>
+              </tr>
+              <tr>
+                <th colspan="7">Maximum Lot Coverage</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached or Semi-Detached</td>
+                <td>35%</td>
+                <td>35%</td>
+                <td>35%</td>
+                <td>35%</td>
+                <td>35%</td>
+                <td>35%</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>50%</td>
+                <td>60%</td>
+                <td>70%</td>
+                <td>80% or 100% <sup><strong>4</strong></sup></td>
+                <td>40%</td>
+                <td>80%</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>50%</td>
+                <td>60%</td>
+                <td>70%</td>
+                <td>80% or 100% <sup><strong>4</strong></sup></td>
+                <td>40%</td>
+                <td>80%</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>40%</td>
+                <td>40%</td>
+                <td>70%</td>
+                <td>70%</td>
+                <td>40%</td>
+                <td>70%</td>
+              </tr>
+              <tr>
+                <th colspan="7">Maximum Impervious Surface</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached or Semi-Detached</td>
+                <td>60%</td>
+                <td>60%</td>
+                <td>60%</td>
+                <td>60%</td>
+                <td>60%</td>
+                <td>60%</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse (Rear Yard)</td>
+                <td>65%</td>
+                <td>65%</td>
+                <td>65%</td>
+                <td>65%</td>
+                <td>65%</td>
+                <td>65%</td>
+              </tr>
+              <tr>
+                <th colspan="7">Minimum Front Yard</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached or Semi-Detached</td>
+                <td>Lesser of 25ft. or blockface average <sup><strong>5</strong></sup></td>
+                <td>Lesser of 20ft. or blockface average <sup><strong>5</strong></sup></td>
+                <td>Lesser of 20ft. or blockface average <sup><strong>5</strong></sup></td>
+                <td>Lesser of 20ft. or blockface average <sup><strong>5</strong></sup></td>
+                <td>Lesser of 40ft. or blockface average <sup><strong>5</strong></sup></td>
+                <td>Lesser of 20ft. or blockface average <sup><strong>5</strong></sup></td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>25 feet</td>
+                <td>20 feet</td>
+                <td>10 feet</td>
+                <td>None</td>
+                <td>25 feet</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>25 feet</td>
+                <td>20 feet</td>
+                <td>10 feet</td>
+                <td>None</td>
+                <td>45 or 65 feet <sup><strong>6</strong></sup></td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>25 feet</td>
+                <td>20 feet</td>
+                <td>10 feet</td>
+                <td>None</td>
+                <td>25 feet</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <th colspan="7">Minimum Interior-Side Yard</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Semi-Detached <sup><strong>7</strong></sup></td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>10 feet or None<sup><strong>8</strong></sup></td>
+                <td>10 feet or None<sup><strong>8</strong></sup></td>
+                <td>5 feet or None<sup><strong>8</strong></sup></td>
+                <td>5 feet or None<sup><strong>8</strong></sup></td>
+                <td>5 feet or None<sup><strong>8</strong></sup></td>
+                <td>5 feet or None<sup><strong>8</strong></sup></td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+              </tr>
+              <tr>
+                <th colspan="7">Minimum Corner-Side Yard</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached or Semi-Detached</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+                <td>5 feet</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>None</td>
+                <td>15 feet</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+                <td>5 feet</td>
+                <td>None</td>
+                <td>5 feet</td>
+                <td>None</td>
+              </tr>
+              <tr>
+                <th colspan="7">Minimum Rear Yard</th>
+              </tr>
+              <tr>
+                <td>Dwelling: Detached or Semi-Detached</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>16 feet or None<sup><strong>9</strong></sup></td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>16 feet or None<sup><strong>9</strong></sup></td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+              </tr>
+              <tr>
+                <td>All Other Uses</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>25 feet</td>
+                <td>10 feet</td>
+                <td>10 feet</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="7">
+                  <p><sup><strong>1</strong></sup>  A height higher than 35 feet – up to a maximum of 45 feet – is allowed for: (i) a rowhouse located on an interior lot that adjoins a street right-of-way of at least 40 feet wide; or (ii) a rowhouse located on a corner lot at which each of the adjoining street rights-of-way are at least 40 feet wide.</p>
+                  <p><sup><strong>2 </strong></sup> For a structure located on an interior lot, the maximum height is 35 feet.  For a structure located on a corner lot at which each of the adjoining street rights-of-way are at least 30 feet wide, the maximum height is 45 feet.</p>
+                  <p><sup><strong>3 </strong></sup> For a structure located on an interior lot, the maximum height is 45 feet.  For a structure located on a corner lot at which each of the adjoining street rights-of-way are at least 30 feet wide, the Zoning Board may allow a height of up 60 feet as a conditional use.</p>
+                  <p><sup><strong>4 </strong></sup> For a lot with a depth of less than 80 feet, the maximum lot coverage is 100%. Otherwise, the maximum lot coverage is 80%.</p>
+                  <p><sup><strong>5 </strong></sup> In this listing, "blockface average" means the average of the front-yard setbacks of the improved lots on the blockface.</p>
+                  <p><sup><strong>6 </strong></sup> For a structure that comprises 6 or fewer stories, the minimum front-yard requirement is 45 feet.  For a structure that comprises 7 or more stories, the minimum front-yard requirement is 65 feet.  However, a structure designed with a courtyard is allowed a reduction of the minimum front-yard requirement, as provided in § 9-403 {"Setback reduction for courtyard design"}.</p>
+                  <p><sup><strong>7 </strong></sup> For semi-detached dwellings, interior-side yards are required only along the interior-side lot line where the party wall between dwellings is not located.</p>
+                  <p><sup><strong>8 </strong></sup> If a Dwelling: Multi-Family is attached or on the attached side of a semi-detached structure the required Minimum-Interior Side Yard is none.</p>
+                  <p><sup><strong>9 </strong></sup> Where 100% lot coverage is allowed, no rear yard setback is required.</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+      </attachment>
+    </codify:replace>
+  </section>
+</document>

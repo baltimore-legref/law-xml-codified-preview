@@ -120,15 +120,16 @@
           <annotation doc="City of Balt., Md., Ord. 94-443" type="History">Ord. 94-443</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-417" type="History">Ord. 99-417</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-2</num>
         <reason>Repealed by Ord. 22- 125</reason>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
         </annotations>
       </section>
       <section>
@@ -138,12 +139,12 @@
         <para>
           <num>(a)</num>
           <heading>Board may adopt.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board may adopt rules, regulations, and forms to carry out the provisions of this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board may adopt rules, regulations, and forms to carry out the provisions of this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Public hearing and comment.</heading>
-          <text>In accordance with <cite path="|general">General Provisions Article</cite> <cite path="|general|4|3|4-301">§ 4-301</cite>:</text>
+          <text>In accordance with <cite path="|general">General Provisions Article</cite> <cite path="|general|4|3|4-301">§ 4-301</cite>:</text>
           <para>
             <num>(1)</num>
             <text>the Board must publish, for public hearing and comment, notice of all rules, regulations, and forms proposed for adoption under this subtitle; and</text>
@@ -164,7 +165,7 @@
           <annotation doc="City of Balt., Md., Ord. 94-443" type="History">Ord. 94-443</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-417" type="History">Ord. 99-417</annotation>
           <annotation type="History">Text Conformed 03/01/21</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
@@ -177,6 +178,7 @@
         </annotations>
       </section>
       <section name="1-5to1-6">
+        <prefix>§§</prefix>
         <num>1-5 to 1-6</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -384,11 +386,11 @@
           <text>The Board must notify the applicant in writing of its decision to grant or deny the license as follows:</text>
           <para>
             <num>(1)</num>
-            <text>if no hearing is held under <cite path="|15|§1-12|(c)">§ 1-12(c) of this subtitle</cite>, within 15 days after the last day of the 15-day posting period; and</text>
+            <text>if no hearing is held under <cite path="|15|§1-12|(c)">§ 1-12(c) of this subtitle</cite>, within 15 days after the last day of the 15-day posting period; and</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>if a hearing is held under <cite path="|15|§1-12|(c)">§ 1-12(c) of this subtitle</cite>, within 15 days after conclusion of the hearing.</text>
+            <text>if a hearing is held under <cite path="|15|§1-12|(c)">§ 1-12(c) of this subtitle</cite>, within 15 days after conclusion of the hearing.</text>
           </para>
         </para>
         <para>
@@ -396,7 +398,7 @@
           <heading>Denial.</heading>
           <para>
             <num>(1)</num>
-            <text>Any denial of an adult-entertainment business license must be based solely on the qualifications set forth in <cite path="|15|§1-11">§ 1-11 of this subtitle</cite>.</text>
+            <text>Any denial of an adult-entertainment business license must be based solely on the qualifications set forth in <cite path="|15|§1-11">§ 1-11 of this subtitle</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -407,7 +409,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>notify the applicant of the opportunity to request a hearing under <cite path="|15|§1-30">§ 1-30 of this subtitle</cite>.</text>
+              <text>notify the applicant of the opportunity to request a hearing under <cite path="|15|§1-30">§ 1-30 of this subtitle</cite>.</text>
             </para>
           </para>
         </para>
@@ -457,7 +459,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Any denial of a renewal license must be based solely on the standards set forth in <cite path="|15|§1-28">§ 1-28 of this subtitle</cite>.</text>
+            <text>Any denial of a renewal license must be based solely on the standards set forth in <cite path="|15|§1-28">§ 1-28 of this subtitle</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -513,6 +515,7 @@
         </annotations>
       </section>
       <section name="1-18to1-19">
+        <prefix>§§</prefix>
         <num>1-18 to 1-19</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -607,6 +610,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-24</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -624,11 +628,13 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-26</num>
         <reason>Repealed by Ord. 19-218</reason>
         <annotations/>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-27</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -820,6 +826,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-32</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -896,7 +903,7 @@
           <heading>Terms.</heading>
           <para>
             <num>(1)</num>
-            <text>The terms of the members are as provided in <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
+            <text>The terms of the members are as provided in <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -916,6 +923,7 @@
         </annotations>
       </section>
       <section name="1-36to1-37">
+        <prefix>§§</prefix>
         <num>1-36 to 1-37</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1020,7 +1028,7 @@
         <prefix>§</prefix>
         <num>2-3</num>
         <heading>Hours.</heading>
-        <text>It is unlawful for any person having a license to erect or keep a pool or billiard saloon or pool or billiard table as mentioned in § 2-2:</text>
+        <text>It is unlawful for any person having a license to erect or keep a pool or billiard saloon or pool or billiard table as mentioned in § 2-2:</text>
         <para>
           <num>(1)</num>
           <text>to allow any person or persons to play on or use any pool or billiard table between the hours of 1 a.m. and 7 a.m.; or</text>
@@ -1044,6 +1052,7 @@
         </annotations>
       </section>
       <section name="2-4to2-5">
+        <prefix>§§</prefix>
         <num>2-4 to 2-5</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1113,6 +1122,7 @@
         </annotations>
       </section>
       <section name="2-8to2-10">
+        <prefix>§§</prefix>
         <num>2-8 to 2-10</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1123,7 +1133,7 @@
       <num>3</num>
       <heading>Amusement Devices</heading>
       <annotations>
-        <annotation type="Editor's Notes">This Part 3 was substantially amended by Ordinance 10-337.  Section 4 of Ord. 10-337, provides that the amendments “tak[e] effect on January 1, 2011, or, if later, on the 60th day after notice is given to the State Comptroller of the changes enacted by the Ordinance” to the City Admissions and Amusement Tax.</annotation>
+        <annotation type="Editor's Notes">This Part 3 was substantially amended by Ordinance 10-337.  Section 4 of Ord. 10-337, provides that the amendments “tak[e] effect on January 1, 2011, or, if later, on the 60th day after notice is given to the State Comptroller of the changes enacted by the Ordinance” to the City Admissions and Amusement Tax.</annotation>
       </annotations>
       <section>
         <prefix>§</prefix>
@@ -1132,7 +1142,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In this Part 3, the following terms have the meanings indicated.</text>
+          <text>In this Part 3, the following terms have the meanings indicated.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1209,7 +1219,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>a video lottery terminal licensed by the State under State Government Article, Title 9, Subtitle 1A.</text>
+              <text>a video lottery terminal licensed by the State under State Government Article, Title 9, Subtitle 1A.</text>
             </para>
           </para>
         </para>
@@ -1235,8 +1245,8 @@
           <annotation doc="City of Balt., Md., Ord. 04-706" type="History">Ord. 04-706</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-337" type="History">Ord. 10-337</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
           <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
         </annotations>
       </section>
@@ -1253,7 +1263,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>For a simulated slot machine, if the device has been registered by the owner under <cite path="|15|§2-13">§ 2-13 of this subtitle</cite>, the device is exempt from the license fee provided for in <cite path="|15|§2-15|(a)">§ 2-15(a) of this subtitle</cite>.</text>
+            <text>For a simulated slot machine, if the device has been registered by the owner under <cite path="|15|§2-13">§ 2-13 of this subtitle</cite>, the device is exempt from the license fee provided for in <cite path="|15|§2-15|(a)">§ 2-15(a) of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -1369,7 +1379,7 @@
         <para>
           <num>(a)</num>
           <heading>Term.</heading>
-          <text>Each license issued and each registration filed under this Part 3 expires annually on December 31, unless renewed.</text>
+          <text>Each license issued and each registration filed under this Part 3 expires annually on December 31, unless renewed.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1440,14 +1450,14 @@
         <para>
           <num>(d)</num>
           <heading>Payments not refundable.</heading>
-          <text>No refunds, in whole or in part, may be made of any of the fees or taxes paid under this Part 3.</text>
+          <text>No refunds, in whole or in part, may be made of any of the fees or taxes paid under this Part 3.</text>
         </para>
         <para>
           <num>(e)</num>
           <heading>Quarterly payments for simulated slot machines.</heading>
           <para>
             <num>(1)</num>
-            <text>Fees and taxes required to be paid under this Part 3 for simulated slot machines may be made in equal quarterly installments if:</text>
+            <text>Fees and taxes required to be paid under this Part 3 for simulated slot machines may be made in equal quarterly installments if:</text>
             <para>
               <num>(i)</num>
               <text>an additional service charge is paid with each quarterly payment;</text>
@@ -1490,7 +1500,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>The rules and regulations adopted under <cite path="|15|§2-17">§ 2-17 of this subtitle</cite> must establish:</text>
+            <text>The rules and regulations adopted under <cite path="|15|§2-17">§ 2-17 of this subtitle</cite> must establish:</text>
             <para>
               <num>(i)</num>
               <text>the amount of the service charge to be paid with each quarterly installment; and</text>
@@ -1531,12 +1541,12 @@
         <prefix>§</prefix>
         <num>2-17</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director shall adopt and enforce rules and regulations to carry out this Part 3.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director shall adopt and enforce rules and regulations to carry out this Part 3.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-706" type="History">Ord. 04-706</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-337" type="History">Ord. 10-337</annotation>
           <annotation type="History">Text Conformed 03/01/21</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
@@ -1546,7 +1556,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The rules and regulations adopted under <cite path="|15|§2-17">§ 2-17 of this subtitle</cite> shall establish, subject to the appropriation of funds as approved by the Board of Estimates, a bounty program to reward persons who report devices being operated without the license or registration required by this Part.</text>
+          <text>The rules and regulations adopted under <cite path="|15|§2-17">§ 2-17 of this subtitle</cite> shall establish, subject to the appropriation of funds as approved by the Board of Estimates, a bounty program to reward persons who report devices being operated without the license or registration required by this Part.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1655,7 +1665,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Any person who violates any provision of this Part 3 or of a rule or regulation adopted under this Part 3 is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
+          <text>Any person who violates any provision of this Part 3 or of a rule or regulation adopted under this Part 3 is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1667,6 +1677,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-20</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1715,6 +1726,7 @@
         </annotations>
       </section>
       <section name="2-24to2-30">
+        <prefix>§§</prefix>
         <num>2-24 to 2-30</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1789,7 +1801,8 @@
         </annotations>
       </section>
       <section name="2-34to2-35">
-        <num>2-34 to  2-35</num>
+        <prefix>§§</prefix>
+        <num>2-34 to 2-35</num>
         <reason>Reserved</reason>
         <annotations/>
       </section>
@@ -1866,6 +1879,7 @@
         </annotations>
       </section>
       <section name="2-38to2-40">
+        <prefix>§§</prefix>
         <num>2-38 to 2-40</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -1882,12 +1896,12 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In this Part 7, the following terms have the meanings indicated.</text>
+          <text>In this Part 7, the following terms have the meanings indicated.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Amusement device.</heading>
-          <text>"Amusement device" has the meaning stated in <cite path="|15|§2-11">§ 2-11 of this article</cite>.</text>
+          <text>"Amusement device" has the meaning stated in <cite path="|15|§2-11">§ 2-11 of this article</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1917,12 +1931,12 @@
         <para>
           <num>(a)</num>
           <heading>License required.</heading>
-          <text>No person, firm, corporation, or other entity may operate any animated riding device unless the device is licensed under Part 3 of this subtitle.</text>
+          <text>No person, firm, corporation, or other entity may operate any animated riding device unless the device is licensed under Part 3 of this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Fee.</heading>
-          <text>Notwithstanding the fees set in Part 3 of this subtitle, the annual fee for an animated riding device license is $25 per device.</text>
+          <text>Notwithstanding the fees set in Part 3 of this subtitle, the annual fee for an animated riding device license is $25 per device.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1966, art. 15, §25(a)</annotation>
@@ -2011,7 +2025,7 @@
         <prefix>§</prefix>
         <num>2-46</num>
         <heading>Building Code.</heading>
-        <text>The provisions of § 432.9 of the Baltimore City <cite path="|building-codes|II">Building Code</cite>, which relate to the electrical and mechanical requirements for certain circuses and carnivals, apply in all respects to the animated riding devices provided for in this Part 7.  However, no other provisions of § 432 of the <cite path="|building-codes|II">Building Code</cite> apply to animated riding devices.</text>
+        <text>The provisions of § 432.9 of the Baltimore City <cite path="|building-codes|II">Building Code</cite>, which relate to the electrical and mechanical requirements for certain circuses and carnivals, apply in all respects to the animated riding devices provided for in this Part 7.  However, no other provisions of § 432 of the <cite path="|building-codes|II">Building Code</cite> apply to animated riding devices.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1966, art. 15, §25(g)</annotation>
           <annotation type="Prior Codifications">1976/83, art. 15, §25(g)</annotation>
@@ -2023,6 +2037,7 @@
         </annotations>
       </section>
       <section name="2-47to2-50">
+        <prefix>§§</prefix>
         <num>2-47 to 2-50</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -2036,7 +2051,7 @@
         <prefix>§</prefix>
         <num>2-51</num>
         <heading>License required.</heading>
-        <text>No person, firm, corporation, or other entity may operate any type of ride or riding device mounted on mobile equipment unless the device is licensed under Part 3 of this subtitle.</text>
+        <text>No person, firm, corporation, or other entity may operate any type of ride or riding device mounted on mobile equipment unless the device is licensed under Part 3 of this subtitle.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1966, art. 15, §55(a)</annotation>
           <annotation type="Prior Codifications">1976/83, art. 15, §74(a)</annotation>
@@ -2128,7 +2143,7 @@
         <para>
           <num>(a)</num>
           <heading>Building Code.</heading>
-          <text>Subject to a licencee's compliance with subsection (b) of this section, the provisions of § 432 {"Circuses and Carnivals"} of the Baltimore City <cite path="|building-codes|II">Building Code</cite>, which regulates circuses and carnivals, do apply to applications and licenses to operate any type of ride or riding device mounted on mobile equipment.</text>
+          <text>Subject to a licencee's compliance with subsection (b) of this section, the provisions of § 432 {"Circuses and Carnivals"} of the Baltimore City <cite path="|building-codes|II">Building Code</cite>, which regulates circuses and carnivals, do apply to applications and licenses to operate any type of ride or riding device mounted on mobile equipment.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2163,7 +2178,7 @@
       <para>
         <num>(b)</num>
         <heading>Amusement device.</heading>
-        <text>"Amusement device" has the meaning stated in <cite path="|15|§2-11">§ 2-11 of this article</cite>.</text>
+        <text>"Amusement device" has the meaning stated in <cite path="|15|§2-11">§ 2-11 of this article</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2184,7 +2199,7 @@
         <annotation doc="City of Balt., Md., Ord. 99-547" type="History">Ord. 99-547</annotation>
         <annotation doc="City of Balt., Md., Ord. 04-706" type="History">Ord. 04-706</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
     </section>
@@ -2371,11 +2386,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>conviction of an owner, operator, or employee of the establishment of any violation of City Code <cite path="|19|§34-6">Article 19, § 34-6 {"Daytime and Nighttime Curfews: Prohibited conduct of establishments"}</cite>;</text>
+          <text>conviction of an owner, operator, or employee of the establishment of any violation of City Code <cite path="|19|§34-6">Article 19, § 34-6 {"Daytime and Nighttime Curfews: Prohibited conduct of establishments"}</cite>;</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>conviction of an owner, operator, or employee of the establishment of any violation of City Code <cite path="|19">Article 19</cite>, Subtitle 25 {"Loitering — General"};</text>
+          <text>conviction of an owner, operator, or employee of the establishment of any violation of City Code <cite path="|19">Article 19</cite>, Subtitle 25 {"Loitering — General"};</text>
         </para>
         <para>
           <num>(6)</num>
@@ -2412,7 +2427,7 @@
         <heading>Board to adopt procedural rules.</heading>
         <para>
           <num>(1)</num>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Zoning Board may adopt rules and regulations for procedural purposes to carry out this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Zoning Board may adopt rules and regulations for procedural purposes to carry out this subtitle.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2424,7 +2439,7 @@
         <heading>Director to adopt administrative regulations.</heading>
         <para>
           <num>(1)</num>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Director may adopt rules and regulations to carry out the administrative provisions of this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Director may adopt rules and regulations to carry out the administrative provisions of this subtitle.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2436,7 +2451,7 @@
         <annotation doc="City of Balt., Md., Ord. 83-1112" type="History">Ord. 83-1112</annotation>
         <annotation doc="City of Balt., Md., Ord. 99-547" type="History">Ord. 99-547</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a)(1) and (b)(1) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a)(1) and (b)(1) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Editor's Notes">Conformance TBA.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
@@ -2455,7 +2470,7 @@
   </container>
   <container name="4to5">
     <prefix>Subtitles</prefix>
-    <num>4 to 5</num>
+    <num>4 to 5</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -2464,8 +2479,8 @@
     <heading>Carriages, Wagons, Boats, and Scows</heading>
     <annotations>
       <annotation type="Editor's Notes">
-        <text>In the 1950 City Code, the then-provisions of this subtitle were codified as <cite path="|38" proof="needed">Article 38</cite>, §§47 through 58 {“Licenses and Numbers”}.  In the 1966 Code (legalized by Ord. 66-774, effective April 18, 1966), those provisions, as amended in the intervening years,  were recodified as <cite path="|31">Article 31</cite>, §§60 through 73 {“Licenses and Numbers”}.  In the same year, however, Ord. 66-887 was enacted, effective October 29, 1966, to  repeal all of <cite path="|38" proof="needed">Article 38</cite>, §§47 through 58  of the 1950 Code and to ordain a new §49 under the new subtitle “Licenses for Vehicles and Vessels”.  Neither of the 1966 enactments gave effect to the other.</text>
-        <text>Whether Ord. 66-887 was ever given effect is uncertain.  That it was soon forgotten, though, is quite evident:  In 1975, the Mayor and City Council enacted Ord. 75-881, which amended <cite path="|31">Article 31</cite>, §§ <cite path="|31|§60" proof="needed">60</cite> through <cite path="|31|§73" proof="needed">73</cite>  of the 1966 Code (the same provisions as those that had been repealed by Ord. 66-887) and recodified them  as <cite path="|15">Article 15</cite>, §§92 through 105 under the current subtitle designation “Carriages, Wagons, Boats and Scows”.</text>
+        <text>In the 1950 City Code, the then-provisions of this subtitle were codified as <cite path="|38" proof="needed">Article 38</cite>, §§47 through 58 {“Licenses and Numbers”}.  In the 1966 Code (legalized by Ord. 66-774, effective April 18, 1966), those provisions, as amended in the intervening years,  were recodified as <cite path="|31">Article 31</cite>, §§60 through 73 {“Licenses and Numbers”}.  In the same year, however, Ord. 66-887 was enacted, effective October 29, 1966, to  repeal all of <cite path="|38" proof="needed">Article 38</cite>, §§47 through 58  of the 1950 Code and to ordain a new §49 under the new subtitle “Licenses for Vehicles and Vessels”.  Neither of the 1966 enactments gave effect to the other.</text>
+        <text>Whether Ord. 66-887 was ever given effect is uncertain.  That it was soon forgotten, though, is quite evident:  In 1975, the Mayor and City Council enacted Ord. 75-881, which amended <cite path="|31">Article 31</cite>, §§ <cite path="|31|§60" proof="needed">60</cite> through <cite path="|31|§73" proof="needed">73</cite>  of the 1966 Code (the same provisions as those that had been repealed by Ord. 66-887) and recodified them  as <cite path="|15">Article 15</cite>, §§92 through 105 under the current subtitle designation “Carriages, Wagons, Boats and Scows”.</text>
         <text>This recodification conforms to the later enactment, Ord. 75-881 (and subsequent amendments), and does not purport to give effect to the long-lost Ord. 66-887.</text>
       </annotation>
     </annotations>
@@ -2473,7 +2488,7 @@
       <prefix>§</prefix>
       <num>6-1</num>
       <heading>Issuance of license.</heading>
-      <text>The Director of Consumer Protection and Business Licensing shall issue all licenses for and numbers of carriages, wagons, and other vehicles, boats, and scows as enumerated in § 6-2.</text>
+      <text>The Director of Consumer Protection and Business Licensing shall issue all licenses for and numbers of carriages, wagons, and other vehicles, boats, and scows as enumerated in § 6-2.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1879, art. 8, §27</annotation>
         <annotation type="Prior Codifications">1893, art. 8, §28</annotation>
@@ -2547,7 +2562,7 @@
       <prefix>§</prefix>
       <num>6-3</num>
       <heading>"Commonly used or employed" defined.</heading>
-      <text>Any vehicle mentioned in § 6-2 which is used upon the streets of Baltimore City upon more than 1 day per week, on an average, for a period of more than 3 months in any 1 year, shall be considered as "commonly used or employed", in the City, within the meaning of said § 6-2.</text>
+      <text>Any vehicle mentioned in § 6-2 which is used upon the streets of Baltimore City upon more than 1 day per week, on an average, for a period of more than 3 months in any 1 year, shall be considered as "commonly used or employed", in the City, within the meaning of said § 6-2.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1927, art. 4, §118</annotation>
         <annotation type="Prior Codifications">1950, art. 38, §50</annotation>
@@ -2628,7 +2643,7 @@
       <para>
         <num>(a)</num>
         <heading>Proof of identity, etc.</heading>
-        <text>No owner licensed as provided in <cite path="|15|§6-2">§ 6-2 of this subtitle</cite> shall rent a vehicle to any person without first requiring proof of the identity (which shall include a clear photograph and a record of fingerprints) and address of the person proposing to rent the vehicle.</text>
+        <text>No owner licensed as provided in <cite path="|15|§6-2">§ 6-2 of this subtitle</cite> shall rent a vehicle to any person without first requiring proof of the identity (which shall include a clear photograph and a record of fingerprints) and address of the person proposing to rent the vehicle.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2643,6 +2658,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-7</num>
       <reason>Repealed by Ord. 01-243</reason>
       <annotations/>
@@ -2767,7 +2783,7 @@
         <text>No owner of any carriage shall use the same in carrying or transporting any person or persons within the said City for hire or pay, unless such owner shall:</text>
         <para>
           <num>(1)</num>
-          <text>appear at the office of the Director of Consumer Protection and Business Licensing and make entry and take out license as aforesaid;</text>
+          <text>appear at the Department of Consumer Protection and Business Licensing and make entry and take out license as aforesaid;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2836,7 +2852,7 @@
       <prefix>§</prefix>
       <num>6-14</num>
       <heading>Subtitle to be advertised.</heading>
-      <text>It shall be the duty of the Director of Consumer Protection and Business Licensing to notify all persons annually of the necessity of attending to the provisions of this subtitle, by advertising the same at least 10 days previous to January 1 in a daily paper of general circulation in Baltimore City, and of the privilege accorded by § 6-9 by advertising the same at least 5 days previous to December 20 in a daily paper of the City.</text>
+      <text>It shall be the duty of the Director of Consumer Protection and Business Licensing to notify all persons annually of the necessity of attending to the provisions of this subtitle, by advertising the same at least 10 days previous to January 1 in a daily paper of general circulation in Baltimore City, and of the privilege accorded by § 6-9 by advertising the same at least 5 days previous to December 20 in a daily paper of the City.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1879, art. 8, §36</annotation>
         <annotation type="Prior Codifications">1893, art. 8, §37</annotation>
@@ -2949,7 +2965,7 @@
         <annotation doc="City of Balt., Md., Ord. 90-506" type="History">Ord. 90-506</annotation>
         <annotation doc="City of Balt., Md., Ord. 94-382" type="History">Ord. 94-382</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -2994,7 +3010,7 @@
       <prefix>§</prefix>
       <num>7-3</num>
       <heading>Exhibition of license.</heading>
-      <text>Every person, firm, or corporation, who shall take out a license under § 7-2, and who shall conduct an employment agency under such license:</text>
+      <text>Every person, firm, or corporation, who shall take out a license under § 7-2, and who shall conduct an employment agency under such license:</text>
       <para>
         <num>(1)</num>
         <text>shall register his, her, or its full name and address with the Director of Consumer Protection and Business Licensing during the 1<sup>st</sup> week of January in each year; and</text>
@@ -3147,27 +3163,28 @@
           <annotation doc="City of Balt., Md., Ord. 15-336" type="History">Ord. 15-336</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-496" type="History">Ord. 16-496</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-1215" type="History">Ord. 22-1215</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
           <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-2</num>
         <reason>Repealed by Ord. 22-125</reason>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
         </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>9-3</num>
         <heading>Rules, regulations, and forms.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department must adopt rules, regulations, and forms to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department must adopt rules, regulations, and forms to carry out this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  12-011" type="History">Ord.  12-011</annotation>
           <annotation type="History">Text Conformed 03/01/21</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
         </annotations>
       </section>
@@ -3225,6 +3242,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-5</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -3312,7 +3330,7 @@
             <text>A denial must be based solely on one or more of the following factors:</text>
             <para>
               <num>(i)</num>
-              <text>any cause for denial that is specified in <cite path="|15|§9-16" doc="City of Balt., Md., Ord. 25-013">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
+              <text>any cause for denial that is specified in <cite path="|15|§9-16" doc="City of Balt., Md., Ord. 25-013">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -3397,7 +3415,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>any cause for denial that is specified in <cite path="|15|§9-16" doc="City of Balt., Md., Ord. 25-013">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
+            <text>any cause for denial that is specified in <cite path="|15|§9-16" doc="City of Balt., Md., Ord. 25-013">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(3)</num>
@@ -3470,7 +3488,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>The considerations and decision of the Director shall be as provided in <cite path="|15|§9-9" doc="City of Balt., Md., Ord. 25-013">§ 9-9 of this subtitle</cite>.</text>
+            <text>The considerations and decision of the Director shall be as provided in <cite path="|15|§9-9" doc="City of Balt., Md., Ord. 25-013">§ 9-9 of this subtitle</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -3499,6 +3517,7 @@
         </annotations>
       </section>
       <section name="9-13to9-15">
+        <prefix>§§</prefix>
         <num>9-13 to 9-15</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -3572,7 +3591,7 @@
         <para>
           <num>(a)</num>
           <heading>Scope of section.</heading>
-          <text>This section does not apply to the denial of a license or a renewal license under § 9-8 or § 9-10(d).</text>
+          <text>This section does not apply to the denial of a license or a renewal license under § 9-8 or § 9-10(d).</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3632,6 +3651,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-20</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -3714,7 +3734,7 @@
         <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -3731,14 +3751,15 @@
       <prefix>§</prefix>
       <num>10-3</num>
       <heading>Rules, regulations, and forms.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Housing Department must adopt rules, regulations, and forms to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Housing Department must adopt rules, regulations, and forms to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 15-353" type="History">Ord. 15-353</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section name="10-4and10-5">
+      <prefix>§§</prefix>
       <num>10-4 and 10-5</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -3784,7 +3805,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>After the issuance to a hotel of a multiple-family dwelling license required by City Code <cite path="|13|§5-4">Article 13 {"Housing and Urban Renewal"}, § 5-4 {"License required"}</cite>, the hotel must prominently display a sign stating that the facility has provided training to all employees on how to identify human trafficking activities and human trafficking victims.</text>
+        <text>After the issuance to a hotel of a multiple-family dwelling license required by City Code <cite path="|13|§5-4">Article 13 {"Housing and Urban Renewal"}, § 5-4 {"License required"}</cite>, the hotel must prominently display a sign stating that the facility has provided training to all employees on how to identify human trafficking activities and human trafficking victims.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3796,6 +3817,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-8</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -3861,7 +3883,7 @@
         <annotation doc="City of Balt., Md., Ord. 76-159" type="History">Ord. 76-159</annotation>
         <annotation doc="City of Balt., Md., Ord. 94-286" type="History">Ord. 94-286</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
     </section>
@@ -3875,7 +3897,7 @@
         <text>In interpreting and applying this subtitle, the following rules of interpretation apply:</text>
         <para>
           <num>(1)</num>
-          <text>those contained in Subtitles 2 and 3 of the City Code's <cite path="|general">General Provisions Article</cite>; and</text>
+          <text>those contained in Subtitles 2 and 3 of the City Code's <cite path="|general">General Provisions Article</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3973,12 +3995,12 @@
       <prefix>§</prefix>
       <num>11-7</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing is authorized and empowered to promulgate and adopt rules and regulations to carry out the purpose and intent of this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing is authorized and empowered to promulgate and adopt rules and regulations to carry out the purpose and intent of this subtitle.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §62</annotation>
         <annotation doc="City of Balt., Md., Ord. 76-159" type="History">Ord. 76-159</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (e) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (e) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
     </section>
@@ -3989,7 +4011,7 @@
       <para>
         <num>(a)</num>
         <heading>Required information.</heading>
-        <text>Applicants for a license under § 11-5 shall file upon a form provided by the Director of Consumer Protection and Business Licensing a signed application, subject to the law relating to perjury, setting forth the following information:</text>
+        <text>Applicants for a license under § 11-5 shall file upon a form provided by the Director of Consumer Protection and Business Licensing a signed application, subject to the law relating to perjury, setting forth the following information:</text>
         <para>
           <num>(1)</num>
           <text>a definition of service to be provided;</text>
@@ -4166,7 +4188,7 @@
       <para>
         <num>(b)</num>
         <heading>Violation of State law.</heading>
-        <text>No person conducting a massage establishment shall tolerate on the premises any activity or behavior prohibited by the laws of the State, particularly, but not exclusively, those sections within <cite doc="Md. Code" path="27">Article 27 of the Annotated Code of Maryland</cite> proscribing prostitution, sodomy, perverted sexual practices, a bawdy place, adultery, fornication, any lewd and lascivious cohabitation, and all laws relating to obscene matter.</text>
+        <text>No person conducting a massage establishment shall tolerate on the premises any activity or behavior prohibited by the laws of the State, particularly, but not exclusively, those sections within <cite doc="Md. Code" path="27">Article 27 of the Annotated Code of Maryland</cite> proscribing prostitution, sodomy, perverted sexual practices, a bawdy place, adultery, fornication, any lewd and lascivious cohabitation, and all laws relating to obscene matter.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -4235,6 +4257,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-16</num>
       <reason>Repealed by Ord.  22-125</reason>
       <annotations>
@@ -4301,12 +4324,12 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
+          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
           <heading>Inclusion of governmental entities.</heading>
-          <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also  includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+          <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also  includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
         </para>
       </para>
       <annotations>
@@ -4332,6 +4355,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-3</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -4431,7 +4455,7 @@
       <prefix>§</prefix>
       <num>12-6</num>
       <heading>Tax arrearage bars renewal or transfer.</heading>
-      <text>A license may not be issued to, renewed by, or transferred from or to any person from whom taxes, interest, or penalties are due and unpaid under City Code <cite path="|28">Article 28</cite>, Subtitle 22.</text>
+      <text>A license may not be issued to, renewed by, or transferred from or to any person from whom taxes, interest, or penalties are due and unpaid under City Code <cite path="|28">Article 28</cite>, Subtitle 22.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 01-271" type="History">Ord. 01-271</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-264" type="History">Ord. 19-264</annotation>
@@ -4452,7 +4476,7 @@
       <prefix>§</prefix>
       <num>12-8</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Director of Consumer Protection and Business Licensing may adopt rules and regulations for the administration and enforcement of this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Director of Consumer Protection and Business Licensing may adopt rules and regulations for the administration and enforcement of this subtitle.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 15, §56(d)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 15, §75(d)</annotation>
@@ -4461,7 +4485,7 @@
         <annotation doc="City of Balt., Md., Ord. 01-271" type="History">Ord. 01-271</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-264" type="History">Ord. 19-264</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
     </section>
@@ -4518,12 +4542,13 @@
       <prefix>§</prefix>
       <num>12-11</num>
       <heading>Removal of vehicles.</heading>
-      <text>A commercial parking lot may not tow or contract with another person to tow a motor vehicle from a commercial parking lot without the motor vehicle's or authorized representative's authorization, unless the facility holds a valid license under § 12-4 {"License required; fee" of this subtitle.</text>
+      <text>A commercial parking lot may not tow or contract with another person to tow a motor vehicle from a commercial parking lot without the motor vehicle's or authorized representative's authorization, unless the facility holds a valid license under § 12-4 {"License required; fee" of this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 19-264" type="History">Ord. 19-264</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-12</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -4566,7 +4591,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4581,7 +4606,7 @@
       <para>
         <num>(d)</num>
         <heading>Each vehicle towed a separate offense.</heading>
-        <text>Each vehicle towed in violation of <cite path="|15|§12-11">§ 12-11 {"Removal of vehicles"} of this subtitle</cite> is a separate offense.</text>
+        <text>Each vehicle towed in violation of <cite path="|15|§12-11">§ 12-11 {"Removal of vehicles"} of this subtitle</cite> is a separate offense.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 09-169" type="History">Ord. 09-169</annotation>
@@ -4605,7 +4630,7 @@
       <para>
         <num>(c)</num>
         <heading>Each vehicle towed a separate offense.</heading>
-        <text>Each vehicle towed in violation of <cite path="|15|§12-11">§ 12-11 {"Removal of vehicles"} of this subtitle</cite> is a separate offense.</text>
+        <text>Each vehicle towed in violation of <cite path="|15|§12-11">§ 12-11 {"Removal of vehicles"} of this subtitle</cite> is a separate offense.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 09-169" type="History">Ord. 09-169</annotation>
@@ -4646,12 +4671,12 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
+          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
           <heading>Inclusion of governmental entities.</heading>
-          <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+          <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
         </para>
       </para>
       <para>
@@ -4666,7 +4691,7 @@
         <text>"Special-event parking lot" means a parking lot that:</text>
         <para>
           <num>(1)</num>
-          <text>is not otherwise licensed under Subtitle 12 {"Parking Facilities"} of <cite path="|15">this article</cite>;</text>
+          <text>is not otherwise licensed under Subtitle 12 {"Parking Facilities"} of <cite path="|15">this article</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4693,29 +4718,31 @@
         <annotation doc="City of Balt., Md., Ord. 11-575" type="History">Ord. 11-575</annotation>
         <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <reason>Repealed by Ord. 22-125</reason>
       <annotations>
-        <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
       </annotations>
     </section>
     <section>
       <prefix>§</prefix>
       <num>13-3</num>
       <heading>Rules, regulations, and forms.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may adopt rules, regulations, and forms to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may adopt rules, regulations, and forms to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 11-572" type="History">Ord. 11-572</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-4</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -4889,7 +4916,7 @@
       <prefix>§</prefix>
       <num>13-12</num>
       <heading>Tax arrearage bars issuance or renewal.</heading>
-      <text>A license may not be issued to or renewed by any person from whom taxes, interest, or penalties are due and unpaid under City Code <cite path="|28">Article 28</cite>, Subtitle 22 {"Parking Tax"}.</text>
+      <text>A license may not be issued to or renewed by any person from whom taxes, interest, or penalties are due and unpaid under City Code <cite path="|28">Article 28</cite>, Subtitle 22 {"Parking Tax"}.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 11-572" type="History">Ord. 11-572</annotation>
       </annotations>
@@ -4984,6 +5011,7 @@
       </annotations>
     </section>
     <section name="13-16to13-20">
+      <prefix>§§</prefix>
       <num>13-16 to 13-20</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -4995,7 +5023,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -5139,17 +5167,19 @@
         <annotation doc="City of Balt., Md., Ord. 04-801" type="History">Ord. 04-801</annotation>
         <annotation doc="City of Balt., Md., Ord. 06-191" type="History">Ord. 06-191</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-2</num>
       <reason>Repealed by Ord. 22-125</reason>
       <annotations/>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-3</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -5187,15 +5217,16 @@
       <prefix>§</prefix>
       <num>15-7</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department shall adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department shall adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 04-801" type="History">Ord. 04-801</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-8</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -5459,6 +5490,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-17</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -5540,6 +5572,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-20</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -5564,7 +5597,7 @@
     <num>17</num>
     <heading>Street Vendors</heading>
     <annotations>
-      <annotation type="Editor's Notes">Ordinance 14-237 substantially rewrote this subtitle, transferring the powers of the former “Board of Licenses for Street Vendors” to the Department of General Services and, among other things, establishing special regulatory provisions for mobile vendors.  Pursuant to Section 4 of Ord. 14-237, the new subtitle becomes effective on February 28, 2015, that being the 30th day after the Department of General Services filed its rules and regulations for this subtitle.</annotation>
+      <annotation type="Editor's Notes">Ordinance 14-237 substantially rewrote this subtitle, transferring the powers of the former “Board of Licenses for Street Vendors” to the Department of General Services and, among other things, establishing special regulatory provisions for mobile vendors.  Pursuant to Section 4 of Ord. 14-237, the new subtitle becomes effective on February 28, 2015, that being the 30th day after the Department of General Services filed its rules and regulations for this subtitle.</annotation>
     </annotations>
     <container>
       <prefix>Part</prefix>
@@ -5620,12 +5653,12 @@
         <para>
           <num>(f)</num>
           <heading>Mobile vending zone.</heading>
-          <text>"Mobile vending zone" means an area designated in accordance with <cite path="|15|§17-5">§ 17-5 {"Mobile vending zones"} of this subtitle</cite> for the use of mobile vendors.</text>
+          <text>"Mobile vending zone" means an area designated in accordance with <cite path="|15|§17-5">§ 17-5 {"Mobile vending zones"} of this subtitle</cite> for the use of mobile vendors.</text>
         </para>
         <para>
           <num>(g)</num>
           <heading>Motor vehicle.</heading>
-          <text>"Motor vehicle" has the meaning stated in <cite path="|31">Article 31</cite>, §1-2(c){"Motor vehicle"}.</text>
+          <text>"Motor vehicle" has the meaning stated in <cite path="|31">Article 31</cite>, §1-2(c){"Motor vehicle"}.</text>
         </para>
         <para name="(h)">
           <num>(h)</num>
@@ -5679,18 +5712,20 @@
           <annotation doc="City of Balt., Md., Ord. 14-237" type="History">Ord. 14-237</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
           <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-2</num>
         <reason>Repealed by Ord. 22-125</reason>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-3</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -5702,12 +5737,12 @@
         <para>
           <num>(a)</num>
           <heading>Department may adopt.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing, in consultation with the Department of Transportation may adopt rules and regulations to carry out this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing, in consultation with the Department of Transportation may adopt rules and regulations to carry out this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Public hearing and comment.</heading>
-          <text>In accordance with <cite path="|general" doc="City of Balt., Md., Ord. 25-013">General Provisions Article</cite> <cite path="|general|4|3|4-301" doc="City of Balt., Md., Ord. 25-013">§ 4-301</cite>, the Department of Consumer Protection and Business Licensing must publish, for public hearing and comment, notice of all rules and regulations proposed for adoption under this subtitle.</text>
+          <text>In accordance with <cite path="|general" doc="City of Balt., Md., Ord. 25-013">General Provisions Article</cite> <cite path="|general|4|3|4-301" doc="City of Balt., Md., Ord. 25-013">§ 4-301</cite>, the Department of Consumer Protection and Business Licensing must publish, for public hearing and comment, notice of all rules and regulations proposed for adoption under this subtitle.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -5722,7 +5757,7 @@
           <annotation doc="City of Balt., Md., Ord. 14-237" type="History">Ord. 14-237</annotation>
           <annotation type="History">Text Conformed 03/01/21</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a) and (b) of this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a) and (b) of this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
         </annotations>
       </section>
@@ -5810,6 +5845,7 @@
         </annotations>
       </section>
       <section name="17-7to17-14">
+        <prefix>§§</prefix>
         <num>17-7 to 17-14</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -5938,8 +5974,8 @@
           <annotation doc="City of Balt., Md., Ord. 14-237" type="History">Ord. 14-237</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
           <annotation type="Editor's Notes">
-            <text>Section 3 of Ordinance 14-237 qualifies this subsection as follows</text>
-            <text>[N]otwithstanding <cite path="|15">Article 15</cite>, § 17-17(b)(2), as enacted by this Ordinance, a mobile vendor who, on the effective date of this Ordinance, held a valid street vendor’s license for a vehicle longer than 25 feet is entitled, if otherwise qualified for a license and renewals under this Ordinance, to obtain a license and 1 or more consecutive renewals for the continued operation of that vehicle for up to, but not beyond, 5 years after the effective date of this Ordinance.</text>
+            <text>Section 3 of Ordinance 14-237 qualifies this subsection as follows</text>
+            <text>[N]otwithstanding <cite path="|15">Article 15</cite>, § 17-17(b)(2), as enacted by this Ordinance, a mobile vendor who, on the effective date of this Ordinance, held a valid street vendor’s license for a vehicle longer than 25 feet is entitled, if otherwise qualified for a license and renewals under this Ordinance, to obtain a license and 1 or more consecutive renewals for the continued operation of that vehicle for up to, but not beyond, 5 years after the effective date of this Ordinance.</text>
             <text>Ord. 14-237 became effective February 28, 2015.</text>
           </annotation>
           <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
@@ -6012,7 +6048,7 @@
         <para>
           <num>(a)</num>
           <heading>Term.</heading>
-          <text>Except as provided in <cite path="|15|§17-20">§ 17-20 {"Temporary Licenses"} of this subtitle</cite>, a license expires on the 1<sup>st</sup> anniversary of its effective date.</text>
+          <text>Except as provided in <cite path="|15|§17-20">§ 17-20 {"Temporary Licenses"} of this subtitle</cite>, a license expires on the 1<sup>st</sup> anniversary of its effective date.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -6110,6 +6146,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-23</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -6121,7 +6158,7 @@
         <para>
           <num>(a)</num>
           <heading>Scope of section.</heading>
-          <text>This section does not apply to a person who obtains a country grower's license under<cite path="|15|§17-25">§ 17-25 {"Vendor identification – Country growers"} of this subtitle</cite>.</text>
+          <text>This section does not apply to a person who obtains a country grower's license under<cite path="|15|§17-25">§ 17-25 {"Vendor identification – Country growers"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -6197,7 +6234,7 @@
         <para>
           <num>(b)</num>
           <heading>Application.</heading>
-          <text>The application for a country grower's license must contain, in addition to the information required by <cite path="|15|§17-18">§ 17-18 {"Applications"} of this subtitle</cite>:</text>
+          <text>The application for a country grower's license must contain, in addition to the information required by <cite path="|15|§17-18">§ 17-18 {"Applications"} of this subtitle</cite>:</text>
           <para>
             <num>(1)</num>
             <text>the location of the land from which the fruits, vegetables, and other perishable articles are produced or grown;</text>
@@ -6224,7 +6261,7 @@
           <heading>Sign.</heading>
           <para>
             <num>(1)</num>
-            <text>Instead of the badge provided for in <cite path="|15|§17-24" doc="City of Balt., Md., Ord. 25-013">§ 17-24 {"Vendor identification – In general"} of this subtitle</cite>, the Department of Consumer Protection and Business Licensing must provide the producer or grower with a sign to be displayed on his or her vehicle.</text>
+            <text>Instead of the badge provided for in <cite path="|15|§17-24" doc="City of Balt., Md., Ord. 25-013">§ 17-24 {"Vendor identification – In general"} of this subtitle</cite>, the Department of Consumer Protection and Business Licensing must provide the producer or grower with a sign to be displayed on his or her vehicle.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6266,6 +6303,7 @@
         </annotations>
       </section>
       <section name="17-26to17-29">
+        <prefix>§§</prefix>
         <num>17-26 to 17-29</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -6297,6 +6335,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-31</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -6408,7 +6447,7 @@
         <prefix>§</prefix>
         <num>17-37</num>
         <heading>All vendors – Near City market.</heading>
-        <text>No street vendor may operate within 2 blocks of a City market designated in City Code <cite path="|16|§1-2">Article 16, § 1-2 {"Scope of article"}</cite>.</text>
+        <text>No street vendor may operate within 2 blocks of a City market designated in City Code <cite path="|16|§1-2">Article 16, § 1-2 {"Scope of article"}</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 14-237" type="History">Ord. 14-237</annotation>
         </annotations>
@@ -6464,6 +6503,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-40</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -6483,11 +6523,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}</text>
+            <text>a civil citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}</text>
           </para>
         </para>
         <para>
@@ -6509,6 +6549,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-43</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -6559,9 +6600,10 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
+        <prefix>§</prefix>
         <num>17-45</num>
         <heading>Administrative appeals.</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §100(l)</annotation>
@@ -6805,6 +6847,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-9</num>
       <reason>Repealed by Ord. 22-124</reason>
       <annotations>
@@ -6818,7 +6861,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -7072,7 +7115,7 @@
           </para>
           <para>
             <num>(v)</num>
-            <text>within 75 feet of any other newspaper vending box on the same side of the street in the same block containing the same issue or edition of the same publication, unless the box be a double box or 2 boxes located together as provided for in § 19-3(b);</text>
+            <text>within 75 feet of any other newspaper vending box on the same side of the street in the same block containing the same issue or edition of the same publication, unless the box be a double box or 2 boxes located together as provided for in § 19-3(b);</text>
           </para>
           <para>
             <num>(vi)</num>
@@ -7239,7 +7282,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>advise the distributor of its right to appeal the order pursuant to § 19-7.</text>
+            <text>advise the distributor of its right to appeal the order pursuant to § 19-7.</text>
           </para>
         </para>
       </para>
@@ -7271,7 +7314,7 @@
       <para>
         <num>(a)</num>
         <heading>Right to appeal.</heading>
-        <text>Within 5 days (excluding Saturdays, Sundays, and legal holidays) of receipt of an order of the Commissioner pursuant to § 19-6, any party affected by the decision may file with the Clerk to the Board of Estimates of Baltimore City a written request for a public hearing before the Board of Estimates.</text>
+        <text>Within 5 days (excluding Saturdays, Sundays, and legal holidays) of receipt of an order of the Commissioner pursuant to § 19-6, any party affected by the decision may file with the Clerk to the Board of Estimates of Baltimore City a written request for a public hearing before the Board of Estimates.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -7308,7 +7351,7 @@
       <prefix>§</prefix>
       <num>19-9</num>
       <heading>Abandonment.</heading>
-      <text>In the event a newspaper vending box remains empty for a period of 30 continuous days, the same shall be deemed abandoned, and may be treated in the manner as provided in § 19-6 for newspaper vending boxes in violation of the provisions of this subtitle.</text>
+      <text>In the event a newspaper vending box remains empty for a period of 30 continuous days, the same shall be deemed abandoned, and may be treated in the manner as provided in § 19-6 for newspaper vending boxes in violation of the provisions of this subtitle.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §130</annotation>
         <annotation doc="City of Balt., Md., Ord. 86-859" type="History">Ord. 86-859</annotation>
@@ -7483,7 +7526,7 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>"Food service facility" has the meaning stated in City Code Health Article, § 6-101(d) {"Definitions: Food service facility"}.</text>
+          <text>"Food service facility" has the meaning stated in City Code Health Article, § 6-101(d) {"Definitions: Food service facility"}.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -7528,22 +7571,24 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-2</num>
       <reason>Repealed by Ord.  22-124</reason>
       <annotations>
-        <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
       </annotations>
     </section>
     <section>
       <prefix>§</prefix>
       <num>21-3</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act - Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may adopt rules and regulations to carry out the provisions of this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act - Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may adopt rules and regulations to carry out the provisions of this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 21-001" type="History">Ord. 21-001</annotation>
       </annotations>
     </section>
     <section name="21-4to21-5">
+      <prefix>§§</prefix>
       <num>21-4 to 21-5</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -7590,6 +7635,7 @@
       </annotations>
     </section>
     <section name="21-7to21-8">
+      <prefix>§§</prefix>
       <num>21-7 to 21-8</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -7601,7 +7647,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -7611,7 +7657,7 @@
       <para>
         <num>(c)</num>
         <heading>Each instance a separate offense.</heading>
-        <text>Each instance in violation of <cite path="|15|§21-6">§ 21-6 {"Prohibited conduct} of this subtitle</cite> is a separate offense.</text>
+        <text>Each instance in violation of <cite path="|15|§21-6">§ 21-6 {"Prohibited conduct} of this subtitle</cite> is a separate offense.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 21-001" type="History">Ord. 21-001</annotation>
@@ -7629,7 +7675,7 @@
       <para>
         <num>(b)</num>
         <heading>Each instance a separate offense.</heading>
-        <text>Each instance in violation of <cite path="|15|§21-6">§ 21-6 {"Prohibited conduct} of this subtitle</cite> is a separate offense.</text>
+        <text>Each instance in violation of <cite path="|15|§21-6">§ 21-6 {"Prohibited conduct} of this subtitle</cite> is a separate offense.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 21-001" type="History">Ord. 21-001</annotation>
@@ -7637,6 +7683,7 @@
       </annotations>
     </section>
     <section name="21-11to21-12">
+      <prefix>§§</prefix>
       <num>21-11 to 21-12</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -7651,6 +7698,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-14</num>
       <reason>Repealed by Ord.  22-125</reason>
       <annotations>
@@ -7672,7 +7720,7 @@
     <num>22</num>
     <heading>Towing Services – Trespass Towing</heading>
     <annotations>
-      <annotation type="Editor's Notes">Ordinance 08-077 {“Accident and Disabled-Vehicle Towing”} renamed this subtitle to better distinguish its scope from that of <cite path="|31">Article 31</cite>, Subtitle 22 {“Towing Services – Accident Towing”}.</annotation>
+      <annotation type="Editor's Notes">Ordinance 08-077 {“Accident and Disabled-Vehicle Towing”} renamed this subtitle to better distinguish its scope from that of <cite path="|31">Article 31</cite>, Subtitle 22 {“Towing Services – Accident Towing”}.</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -7699,7 +7747,7 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107">§ 1-107 </cite>of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
+          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107">§ 1-107 </cite>of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -7765,12 +7813,12 @@
       <para>
         <num>(a)</num>
         <heading>Department shall adopt.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department is required to promulgate and adopt rules and regulations to carry out the purpose and intent of this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department is required to promulgate and adopt rules and regulations to carry out the purpose and intent of this subtitle.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Public hearing and comment.</heading>
-        <text>In accordance with <cite path="|general" doc="City of Balt., Md., Ord. 25-013">General Provisions Article</cite> <cite path="|general|4|3|4-301" doc="City of Balt., Md., Ord. 25-013">§ 4-301</cite>, the Department must publish, for public hearing and comment, notice of all rules and regulations proposed for adoption under this subtitle.</text>
+        <text>In accordance with <cite path="|general" doc="City of Balt., Md., Ord. 25-013">General Provisions Article</cite> <cite path="|general|4|3|4-301" doc="City of Balt., Md., Ord. 25-013">§ 4-301</cite>, the Department must publish, for public hearing and comment, notice of all rules and regulations proposed for adoption under this subtitle.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -7780,7 +7828,7 @@
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §134(b)</annotation>
         <annotation doc="City of Balt., Md., Ord. 89-273" type="History">Ord. 89-273</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a) and (b) of this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a) and (b) of this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
     </section>
@@ -7888,7 +7936,7 @@
           </para>
           <para>
             <num>(v)</num>
-            <text>proof that the applicant has complied with any other rule or regulation provided in this subtitle or, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, adopted by the Department; and</text>
+            <text>proof that the applicant has complied with any other rule or regulation provided in this subtitle or, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, adopted by the Department; and</text>
           </para>
           <para>
             <num>(vi)</num>
@@ -7933,7 +7981,7 @@
         <annotation doc="City of Balt., Md., Ord. 89-273, Ord. 91-726" type="History">Ord. 89-273, Ord. 91-726</annotation>
         <annotation doc="City of Balt., Md., Ord. 06-357" type="History">Ord. 06-357</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b)((3)(v) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b)((3)(v) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
       </annotations>
     </section>
@@ -8034,7 +8082,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Evidence of the filing of such surety bond shall also be provided to the Police Commissioner of Baltimore City who is authorized to recognize such bond as fulfilling the requirements of <cite path="|31|§22-5">Article 31, § 22-5</cite> of the City Code.</text>
+          <text>Evidence of the filing of such surety bond shall also be provided to the Police Commissioner of Baltimore City who is authorized to recognize such bond as fulfilling the requirements of <cite path="|31|§22-5">Article 31, § 22-5</cite> of the City Code.</text>
         </para>
       </para>
       <para>
@@ -8337,7 +8385,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>the licensee has failed to make available for inspection by the Department or the Police Department the daily towing log required by <cite path="|15|§22-10|(d)" doc="City of Balt., Md., Ord. 25-013">§ 22-10(d) of this subtitle</cite>;</text>
+          <text>the licensee has failed to make available for inspection by the Department or the Police Department the daily towing log required by <cite path="|15|§22-10|(d)" doc="City of Balt., Md., Ord. 25-013">§ 22-10(d) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(7)</num>
@@ -8481,7 +8529,7 @@
   </container>
   <container name="23to25">
     <prefix>Subtitles</prefix>
-    <num>23 to 25</num>
+    <num>23 to 25</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -8507,7 +8555,7 @@
   </container>
   <container name="27to40">
     <prefix>Subtitles</prefix>
-    <num>27 to 40</num>
+    <num>27 to 40</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -8534,11 +8582,11 @@
         <text>"Controlled dangerous substance offense" means:</text>
         <para>
           <num>(1)</num>
-          <text>an offense under <cite doc="Md. Code" path="27">Article 27, Subtitle "Health — Controlled Dangerous Substances", of the Maryland Code</cite>; or</text>
+          <text>an offense under <cite doc="Md. Code" path="27">Article 27, Subtitle "Health — Controlled Dangerous Substances", of the Maryland Code</cite>; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>a violation of the law of any other jurisdiction if the prohibited conduct would be a violation of <cite doc="Md. Code" path="27">Article 27, Subtitle "Health — Controlled Dangerous Substances", of the Maryland Code</cite> if committed in this State.</text>
+          <text>a violation of the law of any other jurisdiction if the prohibited conduct would be a violation of <cite doc="Md. Code" path="27">Article 27, Subtitle "Health — Controlled Dangerous Substances", of the Maryland Code</cite> if committed in this State.</text>
         </para>
       </para>
       <para>
@@ -8624,7 +8672,7 @@
         <annotation doc="City of Balt., Md., Ord. 90-613" type="History">Ord. 90-613</annotation>
         <annotation doc="City of Balt., Md., Ord. 99-526" type="History">Ord. 99-526</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -8881,17 +8929,17 @@
       <para>
         <num>(b)</num>
         <heading>Adult-entertainment business.</heading>
-        <text>"Adult-entertainment business" has the meaning stated in <cite path="|15|§1-1|(c)">§ 1-1(c) {"Adult-entertainment business"} of this article</cite>.</text>
+        <text>"Adult-entertainment business" has the meaning stated in <cite path="|15|§1-1|(c)">§ 1-1(c) {"Adult-entertainment business"} of this article</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>Food service facility.</heading>
-        <text>"Food service facility" has the meaning stated in City Code Article - Health, § 6-101(d) {"Food service facility"}.</text>
+        <text>"Food service facility" has the meaning stated in City Code Article - Health, § 6-101(d) {"Food service facility"}.</text>
       </para>
       <para>
         <num>(d)</num>
         <heading>Hotel.</heading>
-        <text>"Hotel" has the meaning stated in <cite path="|15|§10-1|(b)">§ 10-1(b) {"Hotel"} of this article</cite>.</text>
+        <text>"Hotel" has the meaning stated in <cite path="|15|§10-1|(b)">§ 10-1(b) {"Hotel"} of this article</cite>.</text>
       </para>
       <para name="(e)">
         <num>(e)</num>
@@ -8910,8 +8958,8 @@
         <annotation doc="City of Balt., Md., Ord. 19-218" type="History">Ord. 19-218</annotation>
         <annotation doc="City of Balt., Md., Ord. 21-018" type="History">Ord. 21-018</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -9022,10 +9070,10 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Except as otherwise provided in this section, in each City-owned or -occupied building, at least 1 sign described in <cite path="|15|§42-2|(b)">§ 42-2(b) of this subtitle</cite> must be posted in each:</text>
+        <text>Except as otherwise provided in this section, in each City-owned or -occupied building, at least 1 sign described in <cite path="|15|§42-2|(b)">§ 42-2(b) of this subtitle</cite> must be posted in each:</text>
         <para>
           <num>(1)</num>
-          <text>location where the notice required by Subtitle 4 {"Wages and Hours"}, Part V {"Enforcement"} of the State Labor and Employment Article is posted;</text>
+          <text>location where the notice required by Subtitle 4 {"Wages and Hours"}, Part V {"Enforcement"} of the State Labor and Employment Article is posted;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -9054,6 +9102,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-3</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -9106,6 +9155,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-6</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -9120,11 +9170,11 @@
         <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
         <para>
           <num>(1)</num>
-          <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
+          <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
+          <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
       </para>
       <para>
@@ -9251,7 +9301,7 @@
       <para>
         <num>(a)</num>
         <heading>Placement.</heading>
-        <text>A copy of the human trafficking sign required by <cite path="|15|§42A-2">§ 42A-2 {"Requirements"} of this subtitle</cite> shall be posted by the person in charge at the homeless shelter or transitional housing program facility or living area in a clear and conspicuous place where it can be easily seen and read by individuals staying at the homeless shelter or transitional housing program facility or living area.</text>
+        <text>A copy of the human trafficking sign required by <cite path="|15|§42A-2">§ 42A-2 {"Requirements"} of this subtitle</cite> shall be posted by the person in charge at the homeless shelter or transitional housing program facility or living area in a clear and conspicuous place where it can be easily seen and read by individuals staying at the homeless shelter or transitional housing program facility or living area.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -9291,7 +9341,7 @@
         <para>
           <num>(2)</num>
           <heading>Authorization to issue.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
         </para>
       </para>
       <para>
@@ -9330,7 +9380,7 @@
       <para>
         <num>(c)</num>
         <heading>Place of public accommodation.</heading>
-        <text>"Place of public accommodation" has the meaning stated in State Government Article, § 20-301 {"'Place of public accommodation' defined"}.</text>
+        <text>"Place of public accommodation" has the meaning stated in <cite doc="Md. Code" path="gsg|20-301">State Government Article, § 20-301 </cite>{"'Place of public accommodation' defined"}.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -9359,6 +9409,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-2</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -9384,7 +9435,7 @@
       <prefix>§</prefix>
       <num>43-4</num>
       <heading>Agencies to enforce.</heading>
-      <text>Enforcement of this subtitle shall be conducted by "Code Enforcement Officers" and "Enforcement Officers" (as defined in City Code <cite path="|1|§40-1|(c)">Article 1, § 40-1(c)</cite> and § 41-1(c), respectively) who are employed by any of the following agencies:</text>
+      <text>Enforcement of this subtitle shall be conducted by "Code Enforcement Officers" and "Enforcement Officers" (as defined in City Code <cite path="|1|§40-1|(c)">Article 1, § 40-1(c)</cite> and § 41-1(c), respectively) who are employed by any of the following agencies:</text>
       <para>
         <num>(1)</num>
         <text>Department of Health;</text>
@@ -9415,7 +9466,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>any other agency with 1 or more employees who are in a "position of trust" and authorized to serve as a "Code Enforcement Officer" in accord with City Code <cite path="|1|§40-1|(c)|(3)">Article 1, § 40-1(c)(3)</cite>.</text>
+        <text>any other agency with 1 or more employees who are in a "position of trust" and authorized to serve as a "Code Enforcement Officer" in accord with City Code <cite path="|1|§40-1|(c)|(3)">Article 1, § 40-1(c)(3)</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 19-265" type="History">Ord. 19-265</annotation>
@@ -9439,11 +9490,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
       </para>
@@ -9482,7 +9533,7 @@
   </container>
   <container name="44to45">
     <prefix>Subtitles</prefix>
-    <num>44 to 45</num>
+    <num>44 to 45</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -9541,6 +9592,7 @@
       </annotations>
     </section>
     <section name="46-3to46-10">
+      <prefix>§§</prefix>
       <num>46-3 to 46-10</num>
       <reason>Reserved</reason>
       <annotations/>
@@ -9555,11 +9607,11 @@
         <text>Upon the approval of the Mayor, the Director of Finance shall have full power and authority to refuse to grant licenses under the provisions of <cite path="|15" doc="City of Balt., Md., Ord. 25-013">the following subtitles of this article</cite>, and also, when directed by the Mayor, shall have full power and authority to revoke any license granted by virtue of the following subtitles of <cite path="|15" doc="City of Balt., Md., Ord. 25-013">this article</cite>.</text>
         <para>
           <num>(1)</num>
-          <text>Subtitle 10. Hotels; and</text>
+          <text>Subtitle 10. Hotels; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Subtitle 48. Short-Term Residential Rentals.</text>
+          <text>Subtitle 48. Short-Term Residential Rentals.</text>
         </para>
       </para>
       <para>
@@ -9568,55 +9620,55 @@
         <text>Upon the approval of the Mayor, the Director of Consumer Protection and Business Licensing shall have full power and authority to refuse to grant licenses under the provisions of the following subtitles of this article, and also, when directed by the Mayor, shall have full power and authority to revoke any license granted by virtue of the following subtitles of this article:</text>
         <para>
           <num>(1)</num>
-          <text>Subtitle 2. Amusements;</text>
+          <text>Subtitle 2. Amusements;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Subtitle 3. Amusement Device Location Permits;</text>
+          <text>Subtitle 3. Amusement Device Location Permits;</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Subtitle 6. Carriages, Wagons, Boats, and Scows;</text>
+          <text>Subtitle 6. Carriages, Wagons, Boats, and Scows;</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Subtitle 7. Employment Agencies;</text>
+          <text>Subtitle 7. Employment Agencies;</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Subtitle 9. Late-Night Commercial Operations;</text>
+          <text>Subtitle 9. Late-Night Commercial Operations;</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>Subtitle 11. Massage Establishments;</text>
+          <text>Subtitle 11. Massage Establishments;</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>Subtitle 12. Commercial Parking Facilities;</text>
+          <text>Subtitle 12. Commercial Parking Facilities;</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Subtitle 13. Special-Event Parking Lots;</text>
+          <text>Subtitle 13. Special-Event Parking Lots;</text>
         </para>
         <para>
           <num>(9)</num>
-          <text>Subtitle 15. Street Entertainers;</text>
+          <text>Subtitle 15. Street Entertainers;</text>
         </para>
         <para>
           <num>(10)</num>
-          <text>Subtitle 17. Street Vendors;</text>
+          <text>Subtitle 17. Street Vendors;</text>
         </para>
         <para>
           <num>(11)</num>
-          <text>Subtitle 18. Itinerant Wholesale Produce Dealers;</text>
+          <text>Subtitle 18. Itinerant Wholesale Produce Dealers;</text>
         </para>
         <para>
           <num>(12)</num>
-          <text>Subtitle 20. Transient Merchants; and</text>
+          <text>Subtitle 20. Transient Merchants; and</text>
         </para>
         <para>
           <num>(13)</num>
-          <text>Subtitle 22. Towing Services - Trespass Towing.</text>
+          <text>Subtitle 22. Towing Services - Trespass Towing.</text>
         </para>
       </para>
       <annotations>
@@ -9705,7 +9757,7 @@
         <para>
           <num>(c)</num>
           <heading>Dwelling unit.</heading>
-          <text>"Dwelling unit" has the meaning stated in § 202.2 of the Baltimore City <cite path="|building-codes|II">Building Code</cite>.</text>
+          <text>"Dwelling unit" has the meaning stated in § 202.2 of the Baltimore City <cite path="|building-codes|II">Building Code</cite>.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -9790,24 +9842,26 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-2</num>
         <reason>Repealed by Ord. 22-125</reason>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>.</annotation>
         </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>48-3</num>
         <heading>Rules and Regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Housing Commissioner must adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Housing Commissioner must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 19-217" type="History">Ord. 19-217</annotation>
           <annotation type="History">Text Conformed 03/01/21</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section name="48-4to48-5">
+        <prefix>§§</prefix>
         <num>48-4 to 48-5</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -9890,18 +9944,18 @@
           <para>
             <num>(3)</num>
             <heading>Non-owner-occupied dwellings.</heading>
-            <text>For any dwelling unit that is a "non-owner-occupied dwelling unit" (as defined in City Code <cite path="|13">Article 13</cite>, Subtitle 4 {"Registration of Non-Owner-Occupied Dwellings ..."}):</text>
+            <text>For any dwelling unit that is a "non-owner-occupied dwelling unit" (as defined in City Code <cite path="|13">Article 13</cite>, Subtitle 4 {"Registration of Non-Owner-Occupied Dwellings ..."}):</text>
             <para>
               <num>(i)</num>
-              <text>the dwelling unit must be currently registered, as required by that Subtitle 4;</text>
+              <text>the dwelling unit must be currently registered, as required by that Subtitle 4;</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>all registration fees and all related interest required by that Subtitle 4 must have been paid; and</text>
+              <text>all registration fees and all related interest required by that Subtitle 4 must have been paid; and</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>all other requirements of <cite path="|13">Article 13</cite> applicable to non-owner-occupied dwelling units must be complied with.</text>
+              <text>all other requirements of <cite path="|13">Article 13</cite> applicable to non-owner-occupied dwelling units must be complied with.</text>
             </para>
           </para>
           <para>
@@ -9913,13 +9967,13 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 19-217" type="History">Ord. 19-217</annotation>
           <annotation type="Editor's Notes">
-            <text>Section 3 of Ordinance 19-217 provides for the following exception to the preceding section</text>
-            <text>“[N]otwithstanding <cite path="|15">Article 15</cite>, § 48-7(a)(1) and (2) and (b)(2), as added by this Ordinance:</text>
+            <text>Section 3 of Ordinance 19-217 provides for the following exception to the preceding section</text>
+            <text>“[N]otwithstanding <cite path="|15">Article 15</cite>, § 48-7(a)(1) and (2) and (b)(2), as added by this Ordinance:</text>
             <para>
               <num>(a)</num>
               <para>
                 <num>(1)</num>
-                <text>Any natural person who, as of December 31, 2018, owned and operated 1 or more short-term residential rental dwelling units in the City, none of which dwelling units qualify as his or her "permanent residence" (as defined in § 48-1(g) and otherwise a licensing prerequisite under § 48-7(a)(1) and (b)(2)), is nonetheless entitled to apply for and, if otherwise qualified, be issued a short-term residential rental license for 1, but not more than 1, of these preexisting short-term residential rental dwelling units, if:</text>
+                <text>Any natural person who, as of December 31, 2018, owned and operated 1 or more short-term residential rental dwelling units in the City, none of which dwelling units qualify as his or her "permanent residence" (as defined in § 48-1(g) and otherwise a licensing prerequisite under § 48-7(a)(1) and (b)(2)), is nonetheless entitled to apply for and, if otherwise qualified, be issued a short-term residential rental license for 1, but not more than 1, of these preexisting short-term residential rental dwelling units, if:</text>
                 <para>
                   <num>(i)</num>
                   <text>the dwelling unit to be licensed had a successfully executed booking transaction, as described in paragraph (2) of this subsection, between August 1, 2017, and December 31, 2018, inclusive;</text>
@@ -9930,7 +9984,7 @@
                 </para>
                 <para>
                   <num>(iii)</num>
-                  <text>the host applies for the short-term residential rental license for that dwelling unit no later than the 90<sup>th</sup> day after the date on which <cite path="|15">Article 15</cite>, Subtitle 48, as added by this Ordinance, takes effect.</text>
+                  <text>the host applies for the short-term residential rental license for that dwelling unit no later than the 90<sup>th</sup> day after the date on which <cite path="|15">Article 15</cite>, Subtitle 48, as added by this Ordinance, takes effect.</text>
                 </para>
               </para>
               <para>
@@ -9940,7 +9994,7 @@
             </para>
             <para>
               <num>(b)</num>
-              <text>Unless the dwelling unit licensed under this section subsequently becomes the host's "permanent residence", the host is not eligible for any additional license under <cite path="|15|§48-7|(a)|(2)">Article 15, § 48-7(a)(2)</cite>."</text>
+              <text>Unless the dwelling unit licensed under this section subsequently becomes the host's "permanent residence", the host is not eligible for any additional license under <cite path="|15|§48-7|(a)|(2)">Article 15, § 48-7(a)(2)</cite>."</text>
             </para>
           </annotation>
         </annotations>
@@ -9980,6 +10034,7 @@
         </annotations>
       </section>
       <section name="48-10to48-14">
+        <prefix>§§</prefix>
         <num>48-10 to 48-14</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -10155,6 +10210,7 @@
         </annotations>
       </section>
       <section name="48-17to48-20">
+        <prefix>§§</prefix>
         <num>48-17 to 48-20</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -10168,7 +10224,7 @@
         <prefix>§</prefix>
         <num>48-21</num>
         <heading>Denial, suspension, or revocation of license – In general.</heading>
-        <text>Subject to the hearing provisions of <cite path="|15|§48-22">§ 48-22 of this subtitle</cite>, the Housing Commissioner may deny, suspend, or revoke a short-term residential rental license or renewal license for any of the following causes:</text>
+        <text>Subject to the hearing provisions of <cite path="|15|§48-22">§ 48-22 of this subtitle</cite>, the Housing Commissioner may deny, suspend, or revoke a short-term residential rental license or renewal license for any of the following causes:</text>
         <para>
           <num>(1)</num>
           <text>making any material false statement in an application for an initial or renewal license;</text>
@@ -10250,6 +10306,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-24</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -10266,7 +10323,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -10284,7 +10341,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Any person who violates any provision of this subtitle (including any offense listed in <cite path="|15|§48-21">§ 48-21 of this subtitle</cite> as potential cause for a denial, suspension, or revocation of a license) or any provision of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
+          <text>Any person who violates any provision of this subtitle (including any offense listed in <cite path="|15|§48-21">§ 48-21 of this subtitle</cite> as potential cause for a denial, suspension, or revocation of a license) or any provision of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
         </para>
         <para>
           <num>(b)</num>

@@ -1,0 +1,1765 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-065" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-065</num>
+  <num type="bill">25-0040</num>
+  <heading type="short">Zoning - Uses - Retail: Small Box Establishment</heading>
+  <heading type="long">An Ordinance Concerning Zoning - Uses - Retail: Small Box Establishment</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-03-24</introduced>
+    <effective>2026-01-02</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-065.pdf">Ord. 25-065</citation>
+    </citations>
+    <history>
+      <vote date="2025-03-24" reading="first"/>
+      <vote date="2025-10-25" reading="second"/>
+      <enacted>2025-12-03</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
+    <codify:replace path="building-codes|II|1|105|105.1|7." warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|105|105.1|7.">
+      <para>
+        <num>7.</num>
+        <text>on transfer of ownership or operation of property, continue any of the following uses:</text>
+        <para>
+          <num>a.</num>
+          <text>banquet hall (as defined in Baltimore City Zoning Code § 1-303(c) {"Banquet hall."}),</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>body art establishment (as defined in Baltimore City Zoning Code § 1-303(j) {"Body art establishment."}),</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>carry-out food shop (as defined in Baltimore City Zoning Code § 1-303(t) {"Carry-out food shop."}),</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>congregate living facilities (as defined in § 202.1 of the Baltimore City Building Code),</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>day-care center: adult or child (as defined in Baltimore City Zoning Code §§ 1-304(y) and (z) {"Day-care center: Adult"} and {"Day-care center: Child"}, respectively),</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>drive-through facility (as defined in Baltimore City Zoning Code § 1-305(h) {"Drive-through facility."}),</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>entertainment: indoor or live (as defined in Baltimore City Zoning Code §§ 1-306(b) and 1-306(c) {"Entertainment: Indoor"} and {"Entertainment: Live"}, respectively),</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>fuel station (as defined in Baltimore City Zoning Code § 1-306(t) {"Fuel station."}),</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>health-care clinic (as defined in Baltimore City Zoning Code § 1-307(f) {"Health-care clinic."}),</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>lodge or social club (as defined in Baltimore City Zoning Code § 1-308(q) {"Lodge or social club."}),</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>lounge (as defined in Baltimore City Zoning Code § 1-309(h-1) {"Lounge."}),</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>pawn shop (as defined in Baltimore City Zoning Code § 1-311(l) {"Pawn shop."}),</text>
+        </para>
+        <para>
+          <num>m.</num>
+          <text>personal services establishment (as defined in Baltimore City Zoning Code § 1-311(o) {"Personal services establishment."}),</text>
+        </para>
+        <para>
+          <num>n.</num>
+          <text>residential care facility (as defined in Baltimore City Zoning Code § 1-312(p) {"Residential care facility"}),</text>
+        </para>
+        <para>
+          <num>o.</num>
+          <text>restaurant (as defined in Baltimore City Zoning Code § 1-312(s) {"Restaurant."}),</text>
+        </para>
+        <para>
+          <num>p.</num>
+          <text>retail: big box establishment (as defined in Baltimore City Zoning Code § 1-312(t) {“Retail: Big box Establishment”}),</text>
+        </para>
+        <para>
+          <num>q.</num>
+          <text>retail: small box establishment (as defined in Baltimore City Zoning Code § 1-312(v) {“Retail: Small Box Establishment”}),</text>
+        </para>
+        <para>
+          <num>r.</num>
+          <text>retail goods establishment – with or without alcoholic beverage sales (as defined in Baltimore City Zoning Code § 1-312(u) {"Retail goods establishment."}),</text>
+        </para>
+        <para>
+          <num>s.</num>
+          <text>rooming house (as defined in Baltimore City Zoning Code § 1-313(b) {"Rooming house."}),</text>
+        </para>
+        <para>
+          <num>t.</num>
+          <text>supportive housing facility (as defined in § 202.2.56 of this Code), or</text>
+        </para>
+        <para>
+          <num>u.</num>
+          <text>tavern (as defined in Baltimore City Zoning Code § 1-314(a) {"Tavern."}).</text>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="32|§1-312" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-312">
+      <section>
+        <prefix>§</prefix>
+        <num>1-312</num>
+        <heading>"Property line" to "Roof deck".</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Property line.</heading>
+          <text><em>See </em>"Lot line".</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Public use area (off-street parking requirements).</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Public use area", as it applies to the calculation of off-street parking requirements, means areas within a structure that are accessible to the public.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Illustrations.</heading>
+            <text>"Public use area" includes areas such as display areas, restrooms, dining rooms, and bar seating.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Racetrack.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Racetrack" means a measured course where animals or automobiles are entered in competition against one another or against time.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Racetrack" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>tracks used only for training purposes; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the following accessory uses designed and intended primarily for patrons of the facility:</text>
+              <para>
+                <num>(A)</num>
+                <text>a gift or souvenir shop; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>a restaurant or refreshment stands.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Rear lot line.</heading>
+          <text><em>See </em>"Lot line: Rear".</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Recreation: Indoor.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recreation: Indoor" means predominantly participant recreational activities or games of skill that are conducted within a wholly enclosed building.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recreation: Indoor" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>bowling alleys, pool halls, indoor miniature golf courses, indoor child's play facilities, amusement arcades, indoor tennis courts, indoor swimming pools, and other similar facilities; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the following accessory uses designed and intended primarily for patrons of the facility:</text>
+              <para>
+                <num>(A)</num>
+                <text>a gift or souvenir shop; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>a restaurant or refreshment stands.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Recreation: Indoor" does not include indoor entertainment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Recreation: Outdoor.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recreation: Outdoor" means predominantly participant recreational activities or games of skill that are not conducted within a wholly enclosed building.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recreation: Outdoor" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>miniature golf courses, swimming pools, tennis courts, ball fields, skateboard parks, and other similar facilities; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the following accessory uses designed and intended primarily for patrons of the facility:</text>
+              <para>
+                <num>(A)</num>
+                <text>a gift or souvenir shop; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>a restaurant or refreshment stands.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Recreation: Outdoor" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>parks or playgrounds;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>golf courses or driving ranges; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>outdoor entertainment.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Recreational boat launch.</heading>
+          <text>"Recreational boat launch" means a designated area at which:</text>
+          <para>
+            <num>(1)</num>
+            <text>recreational watercraft may be launched; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>transient watercraft may tie up, be launched, or have repairs made for less than 1 week at a time.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Recreational marina.</heading>
+          <text><em>See </em>"Marina: Recreational".</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Recreational vehicle.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recreational vehicle" means a vehicle that:</text>
+            <para>
+              <num>(i)</num>
+              <text>is designed or intended as a temporary dwelling for travel, recreational, or vacation use; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is self-propelled or mounted on or pulled by another vehicle.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recreational vehicle" includes a travel trailer, camping trailer, truck camper, motor home, fifth-wheel trailer, boat, or van.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Recreational vehicle dealership.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recreational vehicle dealership" means an establishment that sells or leases new or used recreational vehicles.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recreational vehicle dealership" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>the maintenance, either on-site or at a nearby location, of an inventory of vehicles held for sale or lease; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>on-site facilities for the repair and service of vehicles sold or leased by the dealership.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Recyclable materials.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recyclable materials" means materials that can be collected, separated, or processed and returned to the marketplace in the form of raw materials or products.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recyclable materials" includes paper, cans, aluminum, metal, glass, and plastics.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Recyclable materials recovery facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <para>
+              <num>(i)</num>
+              <text>"Recyclable materials recovery facility" means, except as provided in paragraph (2) of this subsection, a facility that collects, sorts, grades, or processes recyclable, source-separated material.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Processing at these facilities is limited to pressing, crushing, cutting, baling, and other preparations of materials for shipping.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Recyclable materials recovery facility" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>any facility that is licensed by the State or City as a junk dealer, scrap metal processor, or scrap metal dealer; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any junk or scrap storage and yard.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Recycling.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recycling" mean any process by which materials that would otherwise become solid waste are collected, separated, or processed and returned to the marketplace in the form of raw materials or products.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recycling" includes composting.</text>
+          </para>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Recycling and refuse collection facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recycling and refuse collection facility" means a facility the primary purpose of which is:</text>
+            <para>
+              <num>(i)</num>
+              <text>the collection, storage, and transference of solid waste and yard waste; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the collection, storage, processing, and transference of recyclables.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Recycling and refuse collection facility" does not include any:</text>
+            <para>
+              <num>(i)</num>
+              <text>incinerator;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>junk or scrap storage and yard;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>sewage treatment facility;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>solid waste sanitary landfill; or</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>vehicle dismantling facility.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Research and development facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Research and development facility" means an establishment where research and development activities are conducted in various disciplines, including biotechnology, pharmaceuticals, medical instrumentation or supplies, communication and information technology, electronics and instrumentation, and computer hardware and software.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Research and development facility" includes, as an accessory use, the manufacture, fabrication, processing, or sale of products developed on the same lot as the establishment.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Research and development facility" does not include the manufacture, fabrication, processing, or sale of products as a primary use.</text>
+          </para>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Residential-care facility.</heading>
+          <text>"Residential-care facility" means a group care or similar facility for the 24-hour medical or non-medical care of individuals in need of personal services, supervision, or assistance essential to sustain activities of daily living, or to protect the individual.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>Residential-care facility (Age-restricted).</heading>
+          <text><em>See </em>"Age-restricted residential-care facility".</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <heading>Resource recovery facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Resource recovery facility" means, except as provided in paragraph (2) of this subsection, a facility that:</text>
+            <para>
+              <num>(i)</num>
+              <text>processes solid waste to produce valuable resources, such as steam, electricity, or refuse-derived fuel; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>achieves a volume reduction of at least 50% of the waste that is being processed.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Resource recovery facility" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>any facility that processes hazardous materials;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any facility that is licensed by the State or City as a junk dealer, scrap metal processor, or scrap metal dealer; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>any junk or scrap storage and yard.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(s)</num>
+          <heading>Restaurant.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Restaurant" means an establishment at which:</text>
+            <para>
+              <num>(i)</num>
+              <text>food and drinks are provided to the public, primarily for on-premises consumption by seated patrons; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>if the establishment also serves alcoholic beverages:</text>
+              <para>
+                <num>(A)</num>
+                <text>a full menu of food and drinks is prepared primarily on premises; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>annually, the average daily receipts from the sale of food exceeds 50% of the establishment's total average daily receipts, not including sales of novelty items, income from vending machines, cover charges, or other receipts not derived from the sale of food or beverages.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Restaurant" does not include a carry-out food shop.</text>
+          </para>
+        </para>
+        <para>
+          <num>(t)</num>
+          <heading>Retail: Big Box Establishment.</heading>
+          <text>"Retail: Big Box Establishment" means any single-use commercial building, whether stand-alone or within a multi-building development, which single-use building occupies at least 75,000 square feet of gross floor area.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <heading>Retail goods establishment.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Retail goods establishment" means an establishment that sells goods, wares, or other merchandise directly to consumers.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Retail goods establishment", as applied to a delicatessen, bakery, grocery, or similar establishment that sells ready-to-eat food products, includes incidental seating areas for consumption of food on the premises.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Retail goods establishment" does not include any heavy sales, rental, or service establishment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(v)</num>
+          <heading>Retail: Small Box Establisment.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Retail: Small Box Establisment" means a retail store that:</text>
+            <para>
+              <num>(i)</num>
+              <text>has a floor area of more than 5,000 square feet and less than 12,000 square feet; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>offers for sale assorted convenience and consumer shopping goods, the majority of which do not exceed $5.00 per item or its equivalent, as adjusted for inflation since the year 2025.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Retail: Small Box Establisment" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>a grocery store, whose primary business is selling food at retail to the general public for off-premises consumption, of which at least 20% of the gross receipts must be derived from the retail sale of fresh produce, meats, and dairy products;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a store that contains a pharmacy where prescription drugs are compounded, dispensed, or distributed;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a fuel station, as otherwise permitted in this Code;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>a retail store where the majority of the products sold are personal hygiene products or cosmetics;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>a store that primarily engages in the resale of used consumer goods.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(w)</num>
+          <heading>Right-of-way.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Right-of-way" means land dedicated for use as a public way.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Right-of-way" includes the roadway and, generally, the curbs, parkways, sidewalks, lighting facilities, and drainage facilities.</text>
+          </para>
+        </para>
+        <para>
+          <num>(x)</num>
+          <heading>Roof deck.</heading>
+          <text>"Roof deck" means a roofless outdoor platform that is constructed on the roof of a structure and connected to the roof by structural supports.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:insert path="32|14|3" after="§14-335.1" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-335.2">
+      <section>
+        <prefix>§</prefix>
+        <num>14-335.2</num>
+        <heading>Retail: Small Box Establisment.</heading>
+        <text>Any new Retail: Small Box Establishment shall be at least 2,640 feet from any existing Retail: Small Box Establishment.</text>
+      </section>
+    </codify:insert>
+    <codify:replace path="32|attachments|10-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-301|annos">
+      <attachment>
+        <prefix>Table</prefix>
+        <num>10-301</num>
+        <heading>Commercial Districts – Permitted and Conditional Uses</heading>
+        <text>
+          <table high-density="true">
+            <thead>
+              <tr>
+                <th data-text-align="left">Uses</th>
+                <th colspan="7">Districts</th>
+                <th>Use Standards</th>
+              </tr>
+              <tr>
+                <th/>
+                <th>C-1</th>
+                <th>C-1-VC</th>
+                <th>C-1-E</th>
+                <th>C-2</th>
+                <th>C-3</th>
+                <th>C-4</th>
+                <th>C-5</th>
+                <th/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th colspan="9">Residential</th>
+              </tr>
+              <tr>
+                <td>Day-Care Home: Adult or Child</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-310</td>
+              </tr>
+              <tr>
+                <td>Dwelling (Above Non-Residential Ground Floor)</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Live-Work</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Multi-Family</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dwelling: Rowhouse</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Dormitory</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Fraternity or Sorority House</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">Per § 14-313</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (16 or Fewer Residents)</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-334</td>
+              </tr>
+              <tr>
+                <td>Residential-Care Facility (17 or More Residents)</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-334</td>
+              </tr>
+              <tr>
+                <td>Rooming House</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Institutional</th>
+              </tr>
+              <tr>
+                <td>Community Center</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Cultural Facility</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-308</td>
+              </tr>
+              <tr>
+                <td>Educational Facility: Commercial-Vocational</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Educational Facility: Post-Secondary</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Educational Facility: Primary and Secondary</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Government Facility</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Homeless Shelter</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Hospital</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Place of Worship</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-332</td>
+              </tr>
+              <tr>
+                <th colspan="9">Open-Space</th>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Farm</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Community-Managed Open-Space Garden</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-307</td>
+              </tr>
+              <tr>
+                <td>Park or Playground</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Marina: Dry Storage</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">Per § 14-323</td>
+              </tr>
+              <tr>
+                <td>Marina: Recreational</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-323</td>
+              </tr>
+              <tr>
+                <td>Urban Agriculture</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-339</td>
+              </tr>
+              <tr>
+                <th colspan="9">Commercial</th>
+              </tr>
+              <tr>
+                <td>After-Hours Establishments</td>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-301.1</td>
+              </tr>
+              <tr>
+                <td>Animal Clinic</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Art Gallery</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Arts Studio: Industrial</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Bail Bond Establishment</td>
+                <td/>
+                <td/>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Banquet Hall</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-302</td>
+              </tr>
+              <tr>
+                <td>Body Art Establishment</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Broadcasting Station (TV or Radio)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Car Wash (Fully Enclosed Structure)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-304</td>
+              </tr>
+              <tr>
+                <td>Car Wash (Outdoor)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">Per § 14-304</td>
+              </tr>
+              <tr>
+                <td>Carry-Out Food Shop</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Check-Cashing Establishment</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Convention Center</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Day-Care Center: Adult or Child</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-309</td>
+              </tr>
+              <tr>
+                <td>Drive-Through Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td data-text-align="center">Per § 14-311</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Indoor</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live</td>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-319</td>
+              </tr>
+              <tr>
+                <td>Entertainment: Live (Accessory to Restaurant, Tavern, Art Studio, or Art Gallery)</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">Per § 14-319</td>
+              </tr>
+              <tr>
+                <td>Farmers Market</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-312.1</td>
+              </tr>
+              <tr>
+                <td>Financial Institution</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Fuel Station</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">Per § 14-314</td>
+              </tr>
+              <tr>
+                <td>Funeral Home</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Greenhouse or Nursery</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-339</td>
+              </tr>
+              <tr>
+                <td>Health-Care Clinic</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Health and Fitness Center</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Heavy Sales, Rental, or Service</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Hotel or Motel</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Kennel</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-317</td>
+              </tr>
+              <tr>
+                <td>Lodge or Social Club</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-320</td>
+              </tr>
+              <tr>
+                <td>Lounge</td>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-321</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Dealership (Fully Enclosed Structure)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-325</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Dealership (Outdoor Vehicle Display)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">Per § 14-325</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Rental Establishment (Fully Enclosed Structure)</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-325</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Rental Establishment (Outdoor Vehicle Display)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">Per § 14-325</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Service and Repair: Major</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">Per § 14-326</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Service and Repair: Minor (Fully Enclosed Structure)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-326</td>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Service and Repair: Minor (Outdoor Vehicle Storage)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td data-text-align="center">Per § 14-326</td>
+              </tr>
+              <tr>
+                <td>Nursery (<em>See</em> "Greenhouse or Nursery")</td>
+                <td data-text-align="center">–</td>
+                <td data-text-align="center">–</td>
+                <td data-text-align="center">–</td>
+                <td data-text-align="center">–</td>
+                <td data-text-align="center">–</td>
+                <td data-text-align="center">–</td>
+                <td data-text-align="center">–</td>
+                <td data-text-align="center">–</td>
+              </tr>
+              <tr>
+                <td>Office</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Outdoor Dining</td>
+                <td data-text-align="center">P, CB<sup><strong>5</strong></sup></td>
+                <td data-text-align="center">P, CB<sup><strong>5</strong></sup></td>
+                <td data-text-align="center">P, CB<sup><strong>5</strong></sup></td>
+                <td data-text-align="center">P, CB<sup><strong>5</strong></sup></td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-329</td>
+              </tr>
+              <tr>
+                <td>Pawn Shop</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Personal Services Establishment</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Racetrack</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Recreation: Indoor</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Recreation: Outdoor</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-312</td>
+              </tr>
+              <tr>
+                <td>Recreational Vehicle Dealership</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Research and development facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-333.1</td>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail: Big Box Establishment</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-335.1</td>
+              </tr>
+              <tr>
+                <td>Retail: Small Box Establishment</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-335.2</td>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-336</td>
+              </tr>
+              <tr>
+                <td>Stadium</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Tavern</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-337</td>
+              </tr>
+              <tr>
+                <td>Video Lottery Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Industrial</th>
+              </tr>
+              <tr>
+                <td>Food Processing: Light</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Heliport</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Helistop</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Industrial: Light</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Mini-Warehouse</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB <sup><strong>1</strong></sup></td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Motor Vehicle Operations Facility</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Movie Studio</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Printing Establishment</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Recycling Collection Station</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td data-text-align="center">Per § 15-514</td>
+              </tr>
+              <tr>
+                <td>Truck Stop</td>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <th colspan="9">Other</th>
+              </tr>
+              <tr>
+                <td>Alternative Energy System: Community-Based</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-306</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Enclosed</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Indoor</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Electric Substation: Outdoor</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Parking Garage (Principal Use)</td>
+                <td/>
+                <td/>
+                <td/>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CB <sup><strong>2</strong></sup></td>
+                <td data-text-align="center">Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Parking Lot (Principal Use)</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">CO</td>
+                <td data-text-align="center">Per § 14-331</td>
+              </tr>
+              <tr>
+                <td>Telecommunications Facility <sup><strong>3</strong></sup></td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">Per § 14-338</td>
+              </tr>
+              <tr>
+                <td>Utilities</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-340</td>
+              </tr>
+              <tr>
+                <td>Wireless Communications Services <sup><strong>4</strong></sup></td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">Per § 14-338</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="9">
+                  <p><sup><strong>1</strong></sup> Allowed only in a structure lawfully existing as of June 5, 2017.</p>
+                  <p><sup><strong>2</strong></sup> However, along Pratt Street in the C-5 District, principal-use parking garages are prohibited.  <em>See</em> § 10-503(c)(1).</p>
+                  <p><sup><strong>3</strong></sup>  Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
+                  <p><sup><strong>4</strong></sup>  Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
+                  <p><sup><strong>5</strong></sup>  Under § 14-329(a)(1) and (a)(2), both outdoor dining and rooftop dining, respectively, require approval as a conditional use by the Board of Municipal and Zoning Appeals if located in a C-1, C-1-E, C-1-VC, or C-2 zoning district .</p>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </text>
+      </attachment>
+    </codify:replace>
+  </section>
+</document>

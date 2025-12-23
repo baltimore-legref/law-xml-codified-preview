@@ -43,6 +43,7 @@
     </codify:insert>
     <codify:replace path="8|2|I|2-24to2-30" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="8|§2-25to2-30">
       <section name="2-25to2-30">
+        <prefix>§§</prefix>
         <num>2-25 to 2-30</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -170,11 +171,11 @@
           <text>This subsection does not limit:</text>
           <para>
             <num>(i)</num>
-            <text>the requirements of <cite path="|8|§7-21" doc="City of Balt., Md., Ord. 24-368">§ 7-21 {"Real property"} of this subtitle</cite> to disclose real property interests held by entities in which the public servant holds an interest; or</text>
+            <text>the requirements of <cite path="|8|§7-21" doc="City of Balt., Md., Ord. 24-368">§ 7-21 {"Real property"} of this subtitle</cite> to disclose real property interests held by entities in which the public servant holds an interest; or</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>the requirements of <cite path="|8|§7-22" doc="City of Balt., Md., Ord. 24-368">§ 7-22 {"Business entities"} of this subtitle</cite> to disclose certain entities in which the public servant holds an interest.</text>
+            <text>the requirements of <cite path="|8|§7-22" doc="City of Balt., Md., Ord. 24-368">§ 7-22 {"Business entities"} of this subtitle</cite> to disclose certain entities in which the public servant holds an interest.</text>
           </para>
         </para>
       </para>
@@ -189,6 +190,7 @@
     </codify:insert>
     <codify:replace path="8|7|III|7-19to7-20" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-20">
       <section>
+        <prefix>§</prefix>
         <num>7-20</num>
         <reason>Reserved</reason>
         <annotations/>

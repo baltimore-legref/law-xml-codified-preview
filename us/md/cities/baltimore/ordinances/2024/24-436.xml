@@ -51,7 +51,7 @@
           <num>(6)</num>
           <text>increase housing opportunity and diversity.</text>
         </para>
-        <text>This overlay district is tied to the underlying zoning district to maintain the existing character of the development and neighborhood.</text>
+        <aftertext>This overlay district is tied to the underlying zoning district to maintain the existing character of the development and neighborhood.</aftertext>
       </section>
     </codify:insert>
     <codify:insert path="32|12" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-1401|annos">
@@ -78,7 +78,7 @@
           <para>
             <num>(a)</num>
             <heading>Non-residential zoning districts.</heading>
-            <text>For non-residential zoning districts, only those uses listed in <em>Table 12-1403: Harford Road Overlay District – Permitted and Conditional Uses </em>are allowed within the Harford Road Overlay District.</text>
+            <text>For non-residential zoning districts, only those uses listed in <em>Table 12-1403: Harford Road Overlay District – Permitted and Conditional Uses </em>are allowed within the Harford Road Overlay District.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -89,13 +89,11 @@
               <text>Only those uses of land listed in the tables listed below are allowed within each respective zoning district.</text>
               <para>
                 <num>(i)</num>
-                <text><em>Table 8-301: Detached and Semi-Detached Residential Districts – Permitted and Conditional Uses</em>.
-              </text>
+                <text><em>Table 8-301: Detached and Semi-Detached Residential Districts – Permitted and Conditional Uses</em>.</text>
               </para>
               <para>
                 <num>(ii)</num>
-                <text><em>Table 9-301: Rowhouse and Multi-Family Residential Districts – Permitted and Conditional Uses</em>.
-              </text>
+                <text><em>Table 9-301: Rowhouse and Multi-Family Residential Districts – Permitted and Conditional Uses</em>.</text>
               </para>
             </para>
             <para>
@@ -117,7 +115,7 @@
           <para>
             <num>(b)</num>
             <heading>Measurement methodologies.</heading>
-            <text>Measurement methodologies are as set forth in Title 15, Subtitle 3 {"Measurement Methodologies"} of this Code.</text>
+            <text>Measurement methodologies are as set forth in Title 15, Subtitle 3 {"Measurement Methodologies"} of this Code.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -125,12 +123,12 @@
             <para>
               <num>(1)</num>
               <heading>In general.</heading>
-              <text>Exceptions and requirements are as set forth in title 15, Subtitle 4 {"Exceptions and Requirements"} of this Code.</text>
+              <text>Exceptions and requirements are as set forth in title 15, Subtitle 4 {"Exceptions and Requirements"} of this Code.</text>
             </para>
             <para>
               <num>(2)</num>
               <heading>Dwelling: Multi-Family.</heading>
-              <text>Residentially zoned properties may be developed as a "Dwelling: Multi-Family" to the bulk and yard specifications for the R-10 zoning district established in Table 9-401 {"Rowhouse and Multi-Family Residential Districts – Bulk and Yard Regulations"}.</text>
+              <text>Residentially zoned properties may be developed as a "Dwelling: Multi-Family" to the bulk and yard specifications for the R-10 zoning district established in Table 9-401 {"Rowhouse and Multi-Family Residential Districts – Bulk and Yard Regulations"}.</text>
             </para>
           </para>
         </section>
@@ -146,17 +144,17 @@
           <para>
             <num>(b)</num>
             <heading>Accessory structures and uses.</heading>
-            <text>Standards governing accessory structures are set forth in Title 15, Subtitle 5 {"Accessory Structures and Uses"} of this Code.</text>
+            <text>Standards governing accessory structures are set forth in Title 15, Subtitle 5 {"Accessory Structures and Uses"} of this Code.</text>
           </para>
           <para>
             <num>(c)</num>
             <heading>Site development.</heading>
-            <text>On-site development standards are set forth in Title 15 {"Site Development Standards"} of this Code.</text>
+            <text>On-site development standards are set forth in Title 15 {"Site Development Standards"} of this Code.</text>
           </para>
           <para>
             <num>(d)</num>
             <heading>Off-street parking and loading.</heading>
-            <text>Under § 16-601(b) of this Code, the district is exempt from off-street parking requirements.</text>
+            <text>Under § 16-601(b) of this Code, the district is exempt from off-street parking requirements.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -164,7 +162,7 @@
             <para>
               <num>(1)</num>
               <heading>In general.</heading>
-              <text>All developments of the type described in § 4-405 {"Design Review: Applicability"} of this Code must comply with the applicable design standards required by the Baltimore City Design Manual.</text>
+              <text>All developments of the type described in § 4-405 {"Design Review: Applicability"} of this Code must comply with the applicable design standards required by the Baltimore City Design Manual.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -204,17 +202,17 @@
           <para>
             <num>(g)</num>
             <heading>Signs.</heading>
-            <text>Standards governing signs are set forth in Title 17 {"Signs"} of this Code.</text>
+            <text>Standards governing signs are set forth in Title 17 {"Signs"} of this Code.</text>
           </para>
           <para>
             <num>(h)</num>
             <heading>Temporary uses.</heading>
-            <text>Standards governing temporary uses are set forth in Title 14, Subtitle 4 {"Temporary-Use Standards"} of this Code.</text>
+            <text>Standards governing temporary uses are set forth in Title 14, Subtitle 4 {"Temporary-Use Standards"} of this Code.</text>
           </para>
         </section>
       </container>
     </codify:insert>
-    <codify:replace path="32|§16-601|(b)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601|(b)">
+    <codify:replace path="32|§16-601|(b)|(1)">
       <para>
         <num>(1)</num>
         <text>The districts included in this paragraph are exempt from parking requirements:</text>
@@ -272,7 +270,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:insert path="32|attachments" after="12-1303" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1403">
+    <codify:insert path="32|attachments" after="12-1303" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1403|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-1403</num>
@@ -281,17 +279,17 @@
           <table>
             <thead>
               <tr>
-                <th>Uses</th>
-                <th colspan="5">Subdistricts</th>
-                <th>Use Standards</th>
+                <th data-text-align="left">Uses</th>
+                <th colspan="5" data-text-align="center">Subdistricts</th>
+                <th data-text-align="center">Use Standards</th>
               </tr>
               <tr>
                 <th/>
-                <th>OR-1</th>
-                <th>C-1</th>
-                <th>C-2</th>
-                <th>C-3</th>
-                <th>IMU-1</th>
+                <th data-text-align="center">OR-1</th>
+                <th data-text-align="center">C-1</th>
+                <th data-text-align="center">C-2</th>
+                <th data-text-align="center">C-3</th>
+                <th data-text-align="center">IMU-1</th>
                 <th/>
               </tr>
             </thead>
@@ -301,38 +299,38 @@
               </tr>
               <tr>
                 <td>Dwelling (Above Non-Residential Ground Floor)</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Dwelling: Multi-Family</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 12-1404</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 12-1404</td>
               </tr>
               <tr>
                 <td>Dwelling: Rowhouse</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Dwelling: Live-Work</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
@@ -340,335 +338,335 @@
               </tr>
               <tr>
                 <td>Community Center</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Cultural Facility</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-308</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-308</td>
               </tr>
               <tr>
                 <td>Place of Worship</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>Per § 14-332</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-332</td>
               </tr>
               <tr>
                 <th colspan="7">Open-Space</th>
               </tr>
               <tr>
                 <td>Community-Managed Open-Space Farm</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-307</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-307</td>
               </tr>
               <tr>
                 <td>Community-Managed Open-Space Garden</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-307</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-307</td>
               </tr>
               <tr>
                 <td>Park or Playground</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Urban Agriculture</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-339</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-339</td>
               </tr>
               <tr>
                 <th colspan="7">Commercial</th>
               </tr>
               <tr>
                 <td>Art Gallery</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Arts Studio</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
               </tr>
               <tr>
                 <td>Arts Studio: Industrial</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Body Art Establishment</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Carry-Out Food Shop</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Day-Care Center: Adult or Child</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-309</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-309</td>
               </tr>
               <tr>
                 <td>Entertainment: Indoor</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-312</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-312</td>
               </tr>
               <tr>
                 <td>Entertainment: Live</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-319</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-319</td>
               </tr>
               <tr>
                 <td>Financial Institution</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Greenhouse or Nursery</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-339</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-339</td>
               </tr>
               <tr>
                 <td>Health-Care Clinic</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Health and Fitness Center</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Hotel or Motel</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Kennel</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-317</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-317</td>
               </tr>
               <tr>
                 <td>Office</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Outdoor Dining</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-329</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-329</td>
               </tr>
               <tr>
                 <td>Personal Services Establishment</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Recreation: Indoor</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-312</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-312</td>
               </tr>
               <tr>
                 <td>Recreation: Outdoor</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-312</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-312</td>
               </tr>
               <tr>
                 <td>Restaurant</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-336</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-336</td>
               </tr>
               <tr>
                 <td>Tavern</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-337</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-337</td>
               </tr>
               <tr>
                 <th colspan="7">Industrial</th>
               </tr>
               <tr>
                 <td>Alternative Energy System: Commercial</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
                 <td/>
               </tr>
               <tr>
                 <td>Food Processing: Light</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Industrial: Light</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Movie Studio</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Printing Establishment</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Research and Development Facility</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
@@ -676,56 +674,54 @@
               </tr>
               <tr>
                 <td>Alternative Energy System: Community-Based</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-306</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-306</td>
               </tr>
               <tr>
                 <td>Electric Substation: Enclosed, Indoor, or Outdoor</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>Per § 14-340</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-340</td>
               </tr>
               <tr>
-                <td>Telecommunications Facility<sup><strong>1</strong></sup>
-            </td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>Per § 14-338</td>
+                <td>Telecommunications Facility<sup><strong>1</strong></sup></td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">Per § 14-338</td>
               </tr>
               <tr>
                 <td>Utilities</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>Per § 14-340</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-340</td>
               </tr>
               <tr>
-                <td>Wireless Communications Services<sup><strong>2</strong></sup>
-          </td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>Per § 14-338</td>
+                <td>Wireless Communications Services<sup><strong>2</strong></sup></td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">Per § 14-338</td>
               </tr>
             </tbody>
             <tfoot>
               <tr>
                 <td colspan="7">
-                  <p><sup>1</sup> Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
+                  <p><sup>1</sup> Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
                   <p><sup>2</sup> Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
                 </td>
               </tr>

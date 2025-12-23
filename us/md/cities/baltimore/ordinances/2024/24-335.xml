@@ -26,17 +26,17 @@
         <num>(.5)</num>
         <text>
           <strong>
-            <em><cite doc="City of Baltimore, Md., Code" path="|2">Article 2</cite>  Consumer Protections</em>
+            <em><cite doc="City of Baltimore, Md., Code" path="|2">Article 2</cite>  Consumer Protections</em>
           </strong>
         </text>
         <text>
           <table>
             <tbody>
               <tr>
-                <td colspan="2">Subtitle 10.  Motor Fuel Sales</td>
+                <td colspan="2">Subtitle 10.  Motor Fuel Sales</td>
               </tr>
               <tr>
-                <td class="text-indent-1" colspan="2">§ 10-4(c). Failure to display highest credit price for motor fuel</td>
+                <td colspan="2" class="text-indent-1">§ 10-4(c). Failure to display highest credit price for motor fuel</td>
               </tr>
               <tr>
                 <td class="text-indent-2">1<sup>st</sup> offense</td>
@@ -55,11 +55,11 @@
                 <td>$1,000</td>
               </tr>
               <tr>
-                <td>Subtitle 16.  Ticket Sales – Charges by Operators and Agents</td>
+                <td>Subtitle 16.  Ticket Sales – Charges by Operators and Agents</td>
                 <td>$750</td>
               </tr>
               <tr>
-                <td>Subtitle 17.  Ticket Sales – Ticket Purchasing Software</td>
+                <td>Subtitle 17.  Ticket Sales – Ticket Purchasing Software</td>
                 <td>$750</td>
               </tr>
             </tbody>
@@ -147,7 +147,7 @@
           <text>
             <em>Credit price must be displayed.</em>
           </text>
-          <text>If a retail dealer in motor fuel posts a sign under § 10-315(e) of the State Business Regulation Article, the sign must include, clearly and visibly, the highest credit price.</text>
+          <text>If a retail dealer in motor fuel posts a sign under § 10-315(e) of the State Business Regulation Article, the sign must include, clearly and visibly, the highest credit price.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -184,7 +184,7 @@
         <para>
           <num>(b)</num>
           <text>
-            <em>Violations of <cite doc="City of Baltimore, Md., Code" path="2|§10-4|(c)">§ 10-4(c)</cite>.</em>
+            <em>Violations of <cite doc="City of Baltimore, Md., Code" path="2|§10-4|(c)">§ 10-4(c)</cite>.</em>
           </text>
           <text>Any retail dealer of motor fuel violating <cite doc="City of Baltimore, Md., Code" path="2|§10-4|(c)">§10-4(c)</cite> of this subtitle is subject to:</text>
           <para>
@@ -201,7 +201,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>for a fourth or subsequent offense, a fine of not more than $1,000 and the suspension of the retail dealer's license under <cite doc="City of Baltimore, Md., Code" path="2|§10-2">§ 10-2</cite> of this subtitle.</text>
+            <text>for a fourth or subsequent offense, a fine of not more than $1,000 and the suspension of the retail dealer's license under <cite doc="City of Baltimore, Md., Code" path="2|§10-2">§ 10-2</cite> of this subtitle.</text>
           </para>
         </para>
         <para>
@@ -209,7 +209,7 @@
           <text>
             <em>Violations of <cite doc="City of Baltimore, Md., Code" path="2|§10-6">§10-6</cite>.</em>
           </text>
-          <text>Any retail service station dealer who is convicted of a violation of any provision of <cite doc="City of Baltimore, Md., Code" path="2|§10-6">§ 10-6</cite> of this subtitle is subject to a fine of not more than $25.</text>
+          <text>Any retail service station dealer who is convicted of a violation of any provision of <cite doc="City of Baltimore, Md., Code" path="2|§10-6">§ 10-6</cite> of this subtitle is subject to a fine of not more than $25.</text>
         </para>
       </section>
     </codify:replace>
