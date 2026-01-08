@@ -3,6 +3,9 @@
   <prefix>Chapter</prefix>
   <num>03</num>
   <heading>FIXED PRICING PROGRAM</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code, Article 13 §§ 2-7 (h), (w)</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -551,7 +554,4 @@
     </para>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container">Baltimore City Code, Article 13 §§ 2-7 (h), (w)</annotation>
-  </annotations>
 </container>

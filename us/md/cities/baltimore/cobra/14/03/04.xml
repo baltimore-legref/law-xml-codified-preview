@@ -3,6 +3,10 @@
   <prefix>Chapter</prefix>
   <num>04</num>
   <heading>CURBSIDE COMMERCIAL PERMITS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Charter Art. 8, §§ 1 and 2</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -71,11 +75,11 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>"Floodplain" means the same as City Code Article 7, § 1-2(w).</text>
+        <text>"Floodplain" means the same as <cite doc="City of Baltimore, Md., Code" path="|7|§1-2|(w)">City Code Article 7, § 1-2(w)</cite>.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>"Floodplain district" means the same as City Code Article 7, § 1-2(x).</text>
+        <text>"Floodplain district" means the same as <cite doc="City of Baltimore, Md., Code" path="|7|§1-2|(x)">City Code Article 7, § 1-2(x)</cite>.</text>
       </para>
       <para>
         <num>(8)</num>
@@ -774,8 +778,4 @@
     </para>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container">Baltimore City Charter Art. 8, §§ 1 and 2</annotation>
-    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
-  </annotations>
 </container>

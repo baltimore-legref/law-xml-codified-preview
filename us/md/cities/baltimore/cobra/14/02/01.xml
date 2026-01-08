@@ -3,6 +3,17 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>GENERAL PROVISIONS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Code" path="|31|§38-3">Baltimore City Code Article 31, § 38-3</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2019-08-01">R&amp;R establish and effective August 1, 2019</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-07-01">R&amp;R revised and effective July 1, 2021</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2022-07-01">R&amp;R revised to be effective July 1, 2022</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2023-07-01">R&amp;R revised to be effective July 1, 2023</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2024-06-18">R&amp;R revised, effective June 18, 2024</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2025-06-18">R&amp;R revised, effective June 18, 2025</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -151,15 +162,15 @@
       </para>
       <para>
         <num>(15)</num>
-        <text>"Dockless vehicle" has the meaning stated in City Code Article 31, § 38-1(b).</text>
+        <text>"Dockless vehicle" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|31|§38-1|(b)">City Code Article 31, § 38-1(b)</cite>.</text>
       </para>
       <para>
         <num>(16)</num>
-        <text>"E-bike" has the meaning stated in City Code Article 31, § 38-1(d).</text>
+        <text>"E-bike" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|31|§38-1|(d)">City Code Article 31, § 38-1(d)</cite>.</text>
       </para>
       <para>
         <num>(17)</num>
-        <text>"E-scooter" has the meaning stated in City Code Article 31, § 38-1(e).</text>
+        <text>"E-scooter" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|31|§38-1|(e)">City Code Article 31, § 38-1(e)</cite>.</text>
       </para>
       <para>
         <num>(18)</num>
@@ -267,7 +278,7 @@
       </para>
       <para>
         <num>(33)</num>
-        <text>"Permit" means a dockless vehicle permit as provided in City Code Article 31, § 38-8.</text>
+        <text>"Permit" means a dockless vehicle permit as provided in <cite doc="City of Baltimore, Md., Code" path="|31|§38-8">City Code Article 31, § 38-8</cite>.</text>
       </para>
       <para>
         <num>(34)</num>
@@ -596,7 +607,7 @@
     <heading>Permits - Revocation.</heading>
     <para>
       <num>A.</num>
-      <text>The Department may revoke a permit in accordance with City Code Article 31, § 38-13.</text>
+      <text>The Department may revoke a permit in accordance with <cite doc="City of Baltimore, Md., Code" path="|31|§38-13">City Code Article 31, § 38-13</cite>.</text>
     </para>
     <para>
       <num>B.</num>
@@ -1414,7 +1425,7 @@
           <text>CPSC Safety Standards: ISO 43.150 for Pedal Bicycles; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(e)</num>
           <text>CPSC Public Law 107-319 for E-Scooters and E-Bicycles.</text>
         </para>
       </para>
@@ -1537,7 +1548,7 @@
         <num>(2)</num>
         <text>The Department shall ensure a remote shutdown notice includes:</text>
         <para>
-          <num>(1)</num>
+          <num>(a)</num>
           <text>The duration of the shutdown period;</text>
         </para>
         <para>
@@ -1682,11 +1693,11 @@
         <text>A permit holder shall instruct users to:</text>
         <para>
           <num>(a)</num>
-          <text>Park a dockless vehicle in compliance with City Code Article 31, § 38-19;</text>
+          <text>Park a dockless vehicle in compliance with <cite doc="City of Baltimore, Md., Code" path="|31|§38-19">City Code Article 31, § 38-19</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Operate a dockless vehicle in compliance with City Code Article 31, § 38-18; and</text>
+          <text>Operate a dockless vehicle in compliance with <cite doc="City of Baltimore, Md., Code" path="|31|§38-18">City Code Article 31, § 38-18</cite>; and</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1887,7 +1898,7 @@
       <text>At the time of seizure, the Department shall:</text>
       <para>
         <num>(1)</num>
-        <text>Notify the permit holder in accordance with City Code Article 31, § 38-24;</text>
+        <text>Notify the permit holder in accordance with <cite doc="City of Baltimore, Md., Code" path="|31|§38-24">City Code Article 31, § 38-24</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -2797,26 +2808,26 @@
       <text>The Department may:</text>
       <para>
         <num>(1)</num>
-        <text>Issue a citation under City Code Article 1, § 40-14 to a permit holder found to be in violation of:</text>
+        <text>Issue a citation under <cite doc="City of Baltimore, Md., Code" path="|1|§40-14">City Code Article 1, § 40-14</cite> to a permit holder found to be in violation of:</text>
         <para>
           <num>(a)</num>
           <text><cite path="14.02.01">This chapter</cite>; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>City Code Article 31, Subtitle 38; or</text>
+          <text><cite doc="City of Baltimore, Md., Code" path="|31">City Code Article 31</cite>, Subtitle 38; or</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Issue a citation under City Code Article 1, § 41-14 to a permit holder found to be in violation of:</text>
+        <text>Issue a citation under <cite doc="City of Baltimore, Md., Code" path="|1|§41-14">City Code Article 1, § 41-14</cite> to a permit holder found to be in violation of:</text>
         <para>
           <num>(a)</num>
           <text><cite path="14.02.01">This chapter</cite>; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>City Code Article 31, Subtitle 38.</text>
+          <text><cite doc="City of Baltimore, Md., Code" path="|31">City Code Article 31</cite>, Subtitle 38.</text>
         </para>
       </para>
     </para>
@@ -2872,49 +2883,4 @@
     </para>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container">Baltimore City Code Article 31, § 38-3</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2019-08-01">
-      <text>
-        <ul proof="needed">
-          <li>R&amp;R establish and effective August 1, 2019</li>
-        </ul>
-      </text>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-07-01">
-      <text>
-        <ul proof="needed">
-          <li>R&amp;R revised and effective July 1, 2021</li>
-        </ul>
-      </text>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2022-07-01">
-      <text>
-        <ul proof="needed">
-          <li>R&amp;R revised to be effective July 1, 2022</li>
-        </ul>
-      </text>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2023-07-01">
-      <text>
-        <ul proof="needed">
-          <li>R&amp;R revised to be effective July 1, 2023</li>
-        </ul>
-      </text>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2024-06-18">
-      <text>
-        <ul proof="needed">
-          <li>R&amp;R revised, effective June 18, 2024</li>
-        </ul>
-      </text>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2025-06-18">
-      <text>
-        <ul proof="needed">
-          <li>R&amp;R revised, effective June 18, 2025</li>
-        </ul>
-      </text>
-    </annotation>
-  </annotations>
 </container>

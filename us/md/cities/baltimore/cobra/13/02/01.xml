@@ -3,6 +3,9 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>LEAD HAZARD ABATEMENT</heading>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Charter" path="VII">Baltimore City Charter Article VII</cite>, §56 and Baltimore City Health Code, §§ 2-105 and 2-106</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -29,31 +32,31 @@
       <text>Processes for requesting the use of an alternative abatement method;</text>
     </para>
     <para>
-      <num>E.</num>
+      <num>F.</num>
       <text>Methods for abatement of a lead hazard existing in soil;</text>
     </para>
     <para>
-      <num>F.</num>
+      <num>G.</num>
       <text>Rules regarding the presence of persons and animals during the abatement process;</text>
     </para>
     <para>
-      <num>G.</num>
+      <num>H.</num>
       <text>Rules regarding inspection by the Baltimore City Health Department during abatement and disposal of abatement waste;</text>
     </para>
     <para>
-      <num>H.</num>
+      <num>I.</num>
       <text>Rules regarding the issuance of a stop-work order;</text>
     </para>
     <para>
-      <num>I.</num>
+      <num>J.</num>
       <text>Rules regarding a clearance inspection and the issuance of a statement of completion of the lead hazard abatement;</text>
     </para>
     <para>
-      <num>J.</num>
+      <num>K.</num>
       <text>Rules regarding a request for an extension of time to complete a lead hazard abatement; and</text>
     </para>
     <para>
-      <num>K.</num>
+      <num>L.</num>
       <text>Appeal procedures.</text>
     </para>
     <annotations/>
@@ -106,7 +109,7 @@
         <text>"Friction surface" has the meaning stated in COMAR 26.16.08.03(B)(15).</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(10)</num>
         <text>"Ground cover" means a substance used to cover bare soil, including:</text>
         <para>
           <num>(a)</num>
@@ -126,31 +129,31 @@
         </para>
       </para>
       <para>
-        <num>(6)</num>
-        <text>"Impact surface" has the meaning stated in COMAR 26.16.08.03(B)(17).</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>"Lead dust clearance test" means a test conducted in accordance with <cite path="13.02.01">this chapter</cite> intended to confirm that concentration of lead dust is within the limit prescribed by applicable law.</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>"Lead free" has the meaning stated in MD Environment Art. §6-801(l).</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>"Lead hazard" has the meaning stated in <cite doc="Code of Maryland Regulations" path="26.16.08.03">COMAR 26.16.08.03(B)(19)</cite>.</text>
-      </para>
-      <para>
-        <num>(10)</num>
-        <text>"Lead-safe housing" has the meaning stated in MD Environment Art. §6-801(m).</text>
-      </para>
-      <para>
         <num>(11)</num>
-        <text>"Multi-family dwelling" means a building or part of a building that contains more than two dwelling units.</text>
+        <text>"Impact surface" has the meaning stated in COMAR 	26.16.08.03(B)(17).</text>
       </para>
       <para>
         <num>(12)</num>
+        <text>"Lead dust clearance test" means a test conducted in accordance with <cite path="13.02.01">this chapter</cite> intended to confirm that concentration of lead dust is within the limit prescribed by applicable law.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Lead free" has the meaning stated in MD Environment Art. §6-801(l).</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Lead hazard" has the meaning stated in <cite doc="Code of Maryland Regulations" path="26.16.08.03">COMAR 26.16.08.03(B)(19)</cite>.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Lead-safe housing" has the meaning stated in MD Environment Art. §6-801(m).</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Multi-family dwelling" means a building or part of a building that contains more than two dwelling units.</text>
+      </para>
+      <para>
+        <num>(17)</num>
         <text>"Occupant" means an individual:</text>
         <para>
           <num>(a)</num>
@@ -162,23 +165,23 @@
         </para>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(18)</num>
         <text>"Operator" means a person who has charge, care, or control of all or a portion of a property.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(19)</num>
         <text>"Owner" has the meaning stated in MD Environment Art., §6-801(o).</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(20)</num>
         <text>"Primary residence" means a residential property where a child or pregnant woman with an elevated blood lead level resides.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(21)</num>
         <text>"Reference level" has the meaning stated in MD Environment Art., § 6-801(q).</text>
       </para>
       <para>
-        <num>(17)</num>
+        <num>(22)</num>
         <text>"Relocation expenses" means the cost of moving a tenant to lead-safe housing, including:</text>
         <para>
           <num>(a)</num>
@@ -198,15 +201,15 @@
         </para>
       </para>
       <para>
-        <num>(18)</num>
+        <num>(23)</num>
         <text>"Retaliation" means to take an adverse action against an individual, including the initiation of eviction proceedings or alteration of the terms of an individual's tenancy, in response to a notice or order issued by the Commissioner pursuant to <cite path="13.02.01">this chapter</cite>.</text>
       </para>
       <para>
-        <num>(19)</num>
-        <text>"Secondary property" means a structure occupied for 10 or more hours a week by a child or pregnant woman that is the subject of an elevated blood level report in the 12 months preceding an elevated blood level report to the Department.</text>
+        <num>(24)</num>
+        <text>"Secondary property" means a structure occupied for 10 or more 	hours a week by a child or pregnant woman that is the subject of an elevated blood level report in the 12 months preceding an elevated blood 	level report to the Department.</text>
       </para>
       <para>
-        <num>(20)</num>
+        <num>(25)</num>
         <text>"Secondary source" means a lead exposure risk that is not derived from a painted surface or structural component of a property, including:</text>
         <para>
           <num>(a)</num>
@@ -250,11 +253,11 @@
         </para>
       </para>
       <para>
-        <num>(21)</num>
+        <num>(26)</num>
         <text>"Tenant" means a person who has the lawful right of possession of all or part of a property.</text>
       </para>
       <para>
-        <num>(22)</num>
+        <num>(27)</num>
         <text>"Violation notice" means a document issued by the Commissioner that contains:</text>
         <para>
           <num>(a)</num>
@@ -266,11 +269,11 @@
         </para>
       </para>
       <para>
-        <num>(23)</num>
+        <num>(28)</num>
         <text>"Window well" means the space that provides exterior access or light to a window that is below ground level.</text>
       </para>
       <para>
-        <num>(24)</num>
+        <num>(29)</num>
         <text>"XRF analyzer" means a portable instrument that determines lead concentration using the principles of x-ray fluorescence.</text>
       </para>
     </para>
@@ -624,7 +627,7 @@
         <text>Documented compliance with applicable law; and</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(4)</num>
         <text>Additional analysis by the Commissioner if required.</text>
       </para>
     </para>
@@ -774,7 +777,4 @@
     </para>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Charter" path="VII">Baltimore City Charter Article VII</cite>, §56 and Baltimore City Health Code, §§ 2-105 and 2-106</annotation>
-  </annotations>
 </container>

@@ -16,15 +16,16 @@
     <history-start>2024-03-13</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="baltimore-legref/law-xml" commit="2b53f993b44126e832c1dd672c6a967f079645a2"/>
+        <repository name="baltimore-legref/law-xml" commit="de1ac55c4b90deb893d97dcf1f7bb6d3886f3c80"/>
       </repositories>
-      <platform version="2.18.2" reproducible="false"/>
-      <build-date>2025-12-24</build-date>
+      <platform version="2.19.0" reproducible="false"/>
+      <build-date>2026-01-07</build-date>
       <codified-date>2026-09-15</codified-date>
     </build>
   </meta>
   <xi:include href="./us/md/cities/baltimore/charter.xml"/>
   <xi:include href="./us/md/cities/baltimore/code/index.xml"/>
+  <xi:include href="./us/md/cities/baltimore/cobra/index.xml"/>
   <xi:include href="./us/md/cities/baltimore/pll/index.xml"/>
   <xi:include href="./us/md/cities/baltimore/council/sessions/2024/rules/index.xml"/>
   <collection name="us/md/cities/baltimore/ordinances">

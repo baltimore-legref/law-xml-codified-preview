@@ -3,6 +3,9 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>DEFINITIONS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code, Article 13 § 2-7(h), (w)</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -252,7 +255,7 @@
       </para>
       <para>
         <num>(25)</num>
-        <text>"Nuisance property" has the meaning stated in City Code Article 13, § 5-15(a).</text>
+        <text>"Nuisance property" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|13|§5-15|(a)">City Code Article 13, § 5-15(a)</cite>.</text>
       </para>
       <para>
         <num>(26)</num>
@@ -264,7 +267,7 @@
       </para>
       <para>
         <num>(28)</num>
-        <text>"Person" has the meaning stated in City Code <cite doc="Md. Code" path="ggp|1-107">General Provisions Article § 1-107</cite>.</text>
+        <text>"Person" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|general">City Code General Provisions Article</cite> <cite doc="City of Baltimore, Md., Code" path="|general|1|1|1-107">§ 1-107</cite>.</text>
       </para>
       <para>
         <num>(29)</num>
@@ -340,7 +343,7 @@
       </para>
       <para>
         <num>(38)</num>
-        <text>"Vacant structure" has the meaning stated in City Code Article 13, § 4-1(i).</text>
+        <text>"Vacant structure" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|13|§4-1|(i)">City Code Article 13, § 4-1(i)</cite>.</text>
       </para>
       <para>
         <num>(39)</num>
@@ -365,7 +368,4 @@
     </para>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container">Baltimore City Code, Article 13 § 2-7(h), (w)</annotation>
-  </annotations>
 </container>

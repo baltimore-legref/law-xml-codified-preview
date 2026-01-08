@@ -6,6 +6,9 @@
   <xi:include href="./07.xml"/>
   <attachments>
     <heading>Legacy Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled “Legacy Regulations”.</annotation>
+    </annotations>
     <attachment name="cpace-loans" url="/us/md/cities/baltimore/cobra/attachments/05.01-CPACE_Loans.pdf">
       <heading>CPACE Loans</heading>
     </attachment>
@@ -39,9 +42,6 @@
     <attachment name="public-passenger-vehicle-tax" url="/us/md/cities/baltimore/cobra/attachments/05.01-Public_Passenger_Vehicle_Tax.pdf">
       <heading>Public Passenger Vehicle Tax</heading>
     </attachment>
-    <annotations>
-      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled “Legacy Regulations”.</annotation>
-    </annotations>
     <attachment name="recordation-tax" url="/us/md/cities/baltimore/cobra/attachments/05.01-Recordation_Tax.pdf">
       <heading>Recordation Tax</heading>
     </attachment>

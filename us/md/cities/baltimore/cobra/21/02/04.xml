@@ -3,6 +3,9 @@
   <prefix>Chapter</prefix>
   <num>04</num>
   <heading>WATERSHED REGULATIONS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">City Code, Article 24 §§ 1-1, 21-1</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -349,7 +352,7 @@
         <text>Person.</text>
         <para>
           <num>(a)</num>
-          <text>"Person" has the meaning stated in City Code <cite doc="Md. Code" path="ggp|1-107">General Provisions Article, § 1-107</cite>.</text>
+          <text>"Person" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|general">City Code General Provisions Article</cite>, <cite doc="City of Baltimore, Md., Code" path="|general|1|1|1-107">§ 1-107</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -502,7 +505,7 @@
       </para>
       <para>
         <num>(35)</num>
-        <text>"Watershed" has the meaning stated in City Code Article 7, § 21-1(aa).</text>
+        <text>"Watershed" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|7|§21-1|(aa)">City Code Article 7, § 21-1(aa)</cite>.</text>
       </para>
       <para>
         <num>(36)</num>
@@ -1068,7 +1071,7 @@
       </para>
     </para>
     <para>
-      <num>B.</num>
+      <num>C.</num>
       <text>Grazing and Free Roaming.</text>
       <text>A person may not allow the grazing or free roaming of livestock at a WQMA.</text>
     </para>
@@ -1759,7 +1762,4 @@
     </para>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container">City Code, Article 24 §§ 1-1, 21-1</annotation>
-  </annotations>
 </container>

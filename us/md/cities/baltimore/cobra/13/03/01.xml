@@ -3,6 +3,9 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>WILD, EXOTIC, HYBRID, AND LIVESTOCK ANIMALS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Health Code, § 2-106 and Title 10, Subtitle 6</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -502,7 +505,7 @@
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(2)</num>
         <text>A person permitted to keep a ferret shall provide the animal with:</text>
         <para>
           <num>(a)</num>
@@ -774,7 +777,7 @@
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(2)</num>
         <text>A person permitted to keep honey bees may keep:</text>
         <para>
           <num>(a)</num>
@@ -786,7 +789,7 @@
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(3)</num>
         <text>Requirements for hives housing colonies.</text>
         <para>
           <num>(a)</num>
@@ -1148,7 +1151,4 @@
     </para>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container">Baltimore City Health Code, § 2-106 and Title 10, Subtitle 6</annotation>
-  </annotations>
 </container>

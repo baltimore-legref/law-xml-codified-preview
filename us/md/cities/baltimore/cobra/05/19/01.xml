@@ -3,11 +3,16 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>GENERAL PROVISIONS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, Subtitle 32</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-10-01">Effective Date: October 1, 2021</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Authority.</heading>
-    <text>These rules and regulations are promulgated by the Department of Finance pursuant to City Code Article 28, Subtitle 32.</text>
+    <text>These rules and regulations are promulgated by the Department of Finance pursuant to <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, Subtitle 32.</text>
     <annotations/>
   </section>
   <section>
@@ -17,19 +22,19 @@
     <text>In <cite path="05.19.01">this chapter</cite>, the following terms have the meanings indicated.</text>
     <para>
       <num>1.</num>
-      <text>"Bag surcharge" means the $0.01 of the $0.05 collected by a Retailer and remitted to the City for each bag provided to customers pursuant to City Code Article 28, § 32-4.</text>
+      <text>"Bag surcharge" means the $0.01 of the $0.05 collected by a Retailer and remitted to the City for each bag provided to customers pursuant to <cite doc="City of Baltimore, Md., Code" path="|28|§32-4">City Code Article 28, § 32-4</cite>.</text>
     </para>
     <para>
       <num>2.</num>
-      <text>"Checkout bag" has the meaning stated in City Code Article 28, § 32-1.</text>
+      <text>"Checkout bag" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28|§32-1">City Code Article 28, § 32-1</cite>.</text>
     </para>
     <para>
       <num>3.</num>
-      <text>"Plastic checkout bag" has the meaning stated in City Code Article 7, §62-1.</text>
+      <text>"Plastic checkout bag" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|7">City Code Article 7</cite>, §62-1.</text>
     </para>
     <para>
       <num>4.</num>
-      <text>"Retailer" has the meaning stated for "Dealer" in City Code Article 7, §62-1.</text>
+      <text>"Retailer" has the meaning stated for "Dealer" in <cite doc="City of Baltimore, Md., Code" path="|7">City Code Article 7</cite>, §62-1.</text>
     </para>
     <annotations/>
   </section>
@@ -54,7 +59,7 @@
     <text><cite path="05.19.01.04">This regulation</cite> does not apply to:</text>
     <para>
       <num>1.</num>
-      <text>checkout bags that meet the definition of "plastic checkout bag" in Baltimore City Code Article 7, §62-1; and</text>
+      <text>checkout bags that meet the definition of "plastic checkout bag" in <cite doc="City of Baltimore, Md., Code" path="|7">Baltimore City Code Article 7</cite>, §62-1; and</text>
     </para>
     <para>
       <num>2.</num>
@@ -148,7 +153,7 @@
     <prefix>Regulation</prefix>
     <num>.08</num>
     <heading>User Fee for Checkout Bag.</heading>
-    <text>For the use of a checkout bag, a retailer must charge a user fee of $0.05, pursuant to Baltimore City Code Article 28, Subtitle 32.</text>
+    <text>For the use of a checkout bag, a retailer must charge a user fee of $0.05, pursuant to <cite doc="City of Baltimore, Md., Code" path="|28">Baltimore City Code Article 28</cite>, Subtitle 32.</text>
     <annotations/>
   </section>
   <section>
@@ -198,7 +203,7 @@
       <text>When a retailer provides a total aggregate of at least 300 bags to customers pursuant to <cite path="05.19.01.10|D.">subsection D of this section</cite>, a retailer is required to file a report with the City for that month and remit the appropriate bag surcharge. F.  Partial payments will not be accepted.</text>
     </para>
     <para>
-      <num>G.</num>
+      <num>F.</num>
       <text>High bag sales.</text>
       <para>
         <num>(1)</num>
@@ -215,7 +220,7 @@
     <prefix>Regulation</prefix>
     <num>.11</num>
     <heading>Receipt Itemization.</heading>
-    <text>Pursuant to Baltimore City Code Article 28, §32-4, each receipt a retailer gives a customer must itemize and show the bag surcharge, if any, on the customer's bill.</text>
+    <text>Pursuant to <cite doc="City of Baltimore, Md., Code" path="|28">Baltimore City Code Article 28</cite>, §32-4, each receipt a retailer gives a customer must itemize and show the bag surcharge, if any, on the customer's bill.</text>
     <annotations/>
   </section>
   <section>
@@ -240,19 +245,14 @@
     <prefix>Regulation</prefix>
     <num>.13</num>
     <heading>Penalties.</heading>
-    <text>A retailer who fails to comply with the provisions of the City Code Article 28, Subtitle 32 and <cite path="05.19.01.13">this regulation</cite> will be penalized in accordance with City Code Article 28, § 32-6.</text>
+    <text>A retailer who fails to comply with the provisions of the <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, Subtitle 32 and <cite path="05.19.01.13">this regulation</cite> will be penalized in accordance with <cite doc="City of Baltimore, Md., Code" path="|28|§32-6">City Code Article 28, § 32-6</cite>.</text>
     <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.14</num>
     <heading>State Sales and Use Tax.</heading>
-    <text>The $0.01 bag surcharge collected by a retailer and remitted to the City for each bag provided to customers pursuant to City Code Article 28, § 32-4 cannot be included in the calculation of the Maryland Sales and Use Tax pursuant to the <cite doc="Md. Code" path="gtg|11102">Tax-General Article, § 11102, Annotated Code of Maryland</cite>.</text>
+    <text>The $0.01 bag surcharge collected by a retailer and remitted to the City for each bag provided to customers pursuant to <cite doc="City of Baltimore, Md., Code" path="|28|§32-4">City Code Article 28, § 32-4</cite> cannot be included in the calculation of the Maryland Sales and Use Tax pursuant to the <cite doc="Md. Code" path="gtg|11102">Tax-General Article, § 11102, Annotated Code of Maryland</cite>.</text>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container">City Code Article 28, Subtitle 32</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-10-01">Effective Date: October 1, 2021</annotation>
-    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
-  </annotations>
 </container>

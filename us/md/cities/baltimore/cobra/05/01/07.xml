@@ -3,6 +3,10 @@
   <prefix>Chapter</prefix>
   <num>07</num>
   <heading>HIGH-PERFORMANCE NEWLY CONSTRUCTED DWELLINGS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, §10-18.1 and Maryland <cite doc="Md. Code" path="gtp|9-242">Tax-Property Article, §9-242</cite></annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -82,7 +86,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>"Newly constructed dwelling" has the meaning stated in City Code Article 28, §10-18.1(a)(3).</text>
+        <text>"Newly constructed dwelling" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, §10-18.1(a)(3).</text>
       </para>
       <para>
         <num>(9)</num>
@@ -98,7 +102,7 @@
       </para>
       <para>
         <num>(12)</num>
-        <text>"Vacant dwelling" has the meaning stated in City Code Article 28, §10-18.1(a)(5).</text>
+        <text>"Vacant dwelling" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, §10-18.1(a)(5).</text>
       </para>
     </para>
     <annotations/>
@@ -158,7 +162,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>The property owner may not be receiving the credit previously authorized under City Code Article 28, § 10-5; and</text>
+        <text>The property owner may not be receiving the credit previously authorized under <cite doc="City of Baltimore, Md., Code" path="|28|§10-5">City Code Article 28, § 10-5</cite>; and</text>
       </para>
       <para>
         <num>(5)</num>
@@ -435,7 +439,7 @@
     <heading>Effect of Other Tax Credits.</heading>
     <para>
       <num>A.</num>
-      <text>A property receiving a tax credit under City Code Article 28, § 10-5 is not eligible for the High-Performance Newly Constructed Dwellings Tax Credit.</text>
+      <text>A property receiving a tax credit under <cite doc="City of Baltimore, Md., Code" path="|28|§10-5">City Code Article 28, § 10-5</cite> is not eligible for the High-Performance Newly Constructed Dwellings Tax Credit.</text>
     </para>
     <para>
       <num>B.</num>
@@ -462,8 +466,4 @@
     <text>An owner whose settlement on the purchase of a high-performance newly constructed dwelling occurs after June 30, 2027 may not apply for this credit.</text>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container"> City Code Article 28, §10-18.1 and Maryland <cite doc="Md. Code" path="gtp|9-242">Tax-Property Article, §9-242</cite></annotation>
-    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
-  </annotations>
 </container>

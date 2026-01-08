@@ -3,17 +3,21 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>STREET CUTS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|26">City Code Article 26</cite>, Subtitle 15</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Adoption, Applicability and Scope of Regulations.</heading>
     <para>
       <num>A.</num>
-      <text>These rules and regulations are promulgated by the Baltimore City Department of Transportation ("DOT") pursuant to City Code Article 26, Subtitle 15.</text>
+      <text>These rules and regulations are promulgated by the Baltimore City Department of Transportation ("DOT") pursuant to <cite doc="City of Baltimore, Md., Code" path="|26">City Code Article 26</cite>, Subtitle 15.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>These rules and regulations are in addition to all applicable laws found in Baltimore City Code Article 26, other applicable sections of Baltimore City Code, and Maryland State Code.</text>
+      <text>These rules and regulations are in addition to all applicable laws found in <cite doc="City of Baltimore, Md., Code" path="|26">Baltimore City Code Article 26</cite>, other applicable sections of Baltimore City Code, and Maryland State Code.</text>
     </para>
     <para>
       <num>C.</num>
@@ -334,7 +338,7 @@
       </para>
       <para>
         <num>(25)</num>
-        <text>"Street-cuts permit" means any permit required by or issued under subtitle 15, of Article 26 of the Baltimore City Code.</text>
+        <text>"Street-cuts permit" means any permit required by or issued under subtitle 15, of <cite doc="City of Baltimore, Md., Code" path="|26">Article 26 of the Baltimore City Code</cite>.</text>
       </para>
       <para>
         <num>(26)</num>
@@ -373,7 +377,7 @@
     <heading>Exceptions to Street-cuts Permits.</heading>
     <para>
       <num>A.</num>
-      <text>Unless the work qualifies as an emergency excavation under City Code Article 26, §15-13, no person, including a City agency, may excavate in a Public Way without first obtaining a Street-cuts permit.</text>
+      <text>Unless the work qualifies as an emergency excavation under <cite doc="City of Baltimore, Md., Code" path="|26">City Code Article 26</cite>, §15-13, no person, including a City agency, may excavate in a Public Way without first obtaining a Street-cuts permit.</text>
     </para>
     <para>
       <num>B.</num>
@@ -500,11 +504,11 @@
           <text>pavement restoration details;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(c)</num>
           <text>pavement type; and</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(d)</num>
           <text>work that impacts any traffic on one of the following roadway classes, as defined by Roadway Functional Classification map located at https://transportation.baltimorecity.gov:</text>
           <para>
             <num>(i)</num>
@@ -528,7 +532,7 @@
           </para>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(e)</num>
           <text>a final pavement marking plan consistent with the applicable requirements for pavement marking as set forth in the Book of Standards issued by the Department of Transportation and the Department of Public Works ("DPW") (the "Green Book"), including:</text>
           <para>
             <num>(i)</num>
@@ -1018,7 +1022,7 @@
       </para>
     </para>
     <para>
-      <num>E.</num>
+      <num>D.</num>
       <text>Prior to beginning work in any roadway, the permittee shall</text>
       <para>
         <num>(1)</num>
@@ -1038,7 +1042,7 @@
       </para>
     </para>
     <para>
-      <num>F.</num>
+      <num>E.</num>
       <text>When an Order to Remove or Relocate a Pole is issued by the Department it shall:</text>
       <para>
         <num>(1)</num>
@@ -1645,7 +1649,7 @@
         <text>DOT regulation; or</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(4)</num>
         <text>the requirements imposed by a permit issued for the project.</text>
       </para>
     </para>
@@ -1753,7 +1757,7 @@
     <heading>Administrative Hearings.</heading>
     <para>
       <num>A.</num>
-      <text>Any person aggrieved by a decision or action of the Department under City Code Article 26, subtitle 15, may appeal the decision or action to the Director.</text>
+      <text>Any person aggrieved by a decision or action of the Department under <cite doc="City of Baltimore, Md., Code" path="|26">City Code Article 26</cite>, subtitle 15, may appeal the decision or action to the Director.</text>
     </para>
     <para>
       <num>B.</num>
@@ -2039,11 +2043,11 @@
         <num>(2)</num>
         <text>The aggrieved party shall have access to the tape-recording during City business hours, and may have a transcript made at its expense.</text>
         <para>
-          <num>(b)</num>
+          <num>(a)</num>
           <text>The City shall designate the transcriber, and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(b)</num>
           <text>the cost of the transcript preparation shall be paid before the transcript is prepared.</text>
         </para>
       </para>
@@ -2146,12 +2150,8 @@
     </para>
     <para>
       <num>Q.</num>
-      <text>Under City Code Article 26, §15-36, a party aggrieved by a final decision of the Director may appeal that decision to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Civil Procedure.</text>
+      <text>Under <cite doc="City of Baltimore, Md., Code" path="|26">City Code Article 26</cite>, §15-36, a party aggrieved by a final decision of the Director may appeal that decision to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Civil Procedure.</text>
     </para>
     <annotations/>
   </section>
-  <annotations>
-    <annotation type="Authority" dest="container">City Code Article 26, Subtitle 15</annotation>
-    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with § 4-401, Title 4 { Administrative Procedure Act – Regulations } of the General Provisions Article of the Baltimore City Code. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
-  </annotations>
 </container>
