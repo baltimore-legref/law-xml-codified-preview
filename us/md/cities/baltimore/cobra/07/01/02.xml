@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>02</num>
+  <heading>APPLICATION OF A PENALTY SURCHARGE FOR WORK WITHOUT A PERMIT AND THE STANDARDS AND CRITERIA FOR A REDUCTION OF A PENALTY SURCHARGE</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">City Building Code, §§ 104.1.1(2) and 109.5.9.3(2)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-08-10">Effective Date: August 10, 2009</annotation>
+  </annotations>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Adoption and Scope of Regulations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Adoption.</text>
+      <text>The Baltimore City Department of Housing and Community Development adopts these rules and regulations under the City Building Code, §§ 104 {"Duties and Powers of Building Official"} and 109.5.9 {Penalty Surcharge"}.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Scope.</text>
+      <para>
+        <num>(1)</num>
+        <text>These rules and regulations require the Building Official to assess a penalty surcharge when work on a property is performed:</text>
+        <para>
+          <num>(a)</num>
+          <text>without a permit;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>outside the scope of a permit; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>after the suspension of a permit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>These rules and regulations provide standards and criteria for the reduction of surcharges assessed for work performed:</text>
+        <para>
+          <num>(a)</num>
+          <text>without a permit;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>outside the scope of a permit; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>after the suspension of a permit.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In <cite path="07.01.02">this chapter</cite>, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Department" means the Baltimore City Department of Housing and Community Development.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Major work" means all work determined by the Building Official to be major work, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>additions;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>decks;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>demolition (full or partial);</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>electrical work;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>excavation;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>framing;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>HVAC;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>mechanical work;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>new construction;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>plumbing;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>pouring concrete for a foundation, footing, or wall;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>structural work;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>under pinning;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>curbing;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>formstone removal; and</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>any work that requires a licensed professional.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Minor work" means all work that is not determined by the Building Official to be major work, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>fences;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>security door on a vacant building;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>hanging drywall; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>concrete work not related to foundation or structure.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Out of scope" means work that is:</text>
+        <para>
+          <num>(a)</num>
+          <text>done without a permit;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>not covered by an existing permit or plan; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>contrary to a permit or plan.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Assessing a Penalty Surcharge.</heading>
+    <text>A penalty surcharge will be assessed for:</text>
+    <para>
+      <num>(1)</num>
+      <text>major work performed without a permit, outside the scope of a permit, or after the suspension of a permit;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>work on a property that requires a Notice to Proceed from CHAP performed without a permit, outside the scope of a permit, or after the suspension of a permit; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>work that continues after the Department issues a Stop Work Order and:</text>
+      <para>
+        <num>(a)</num>
+        <text>a permit has not been obtained for the work; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>the work has not been removed.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Application for Reduction of Surcharge.</heading>
+    <text>All applications for reduction of surcharge must be:</text>
+    <para>
+      <num>(1)</num>
+      <text>completed on the form provided by the Department; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>submitted to the Department within 30 days of the assessment of the surcharge.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Criteria for Reduction of Surcharge.</heading>
+    <text>A penalty surcharge may be reduced up to 100% if:</text>
+    <para>
+      <num>(1)</num>
+      <text>the surcharge was issued in error because:</text>
+      <para>
+        <num>(a)</num>
+        <text>a permit was not necessary for the work performed;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>a permit was issued for the work performed;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>the work was completed by the prior owner; or</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>the assessment of a surcharge is inconsistent with these rules and regulations;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>the applicant can establish to the Building Official's satisfaction that the applicant reasonably believed a permit was not required;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>the owner hired a licensed professional to perform the work and the written contract with that professional required that the professional obtain all necessary permits and the owner can establish to the Building Official's satisfaction that the applicant reasonably believed the permits were obtained;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>the Building Official originally considered the work major work, but the applicant can establish to the satisfaction of the Building Official that the work should be reasonably considered minor work under the circumstances;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>the work was performed due to an emergency and permits were applied for within one business day of the start of the work; or</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>the work was initially performed under a permit that expired and the Department issued an extension of that permit.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Review of Request for Reduction of Surcharge.</heading>
+    <para>
+      <num>A.</num>
+      <text>All complete and timely applications for reduction of a surcharge will be reviewed by the Building Official or the Building Official's designee.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department will not accept incomplete applications for reduction of a surcharge.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Late applications for reduction of a surcharge will be denied unless the applicant can demonstrate good cause for missing the application deadline to the Building Official.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Final decision.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Building Official shall make the final decision regarding an application for reduction of a surcharge in writing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If an application for reduction of a surcharge contains an email address, the Building Official will email the final decision.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If an application for reduction of a surcharge does not contain an email address, the Building Official will mail the final decision by first class mail to the address provided on the application.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If the Building Official does not completely remove the full amount of surcharge, the remaining cost of the surcharge is due is due when the Building Official mails the final decision.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Severability.</heading>
+    <para>
+      <num>A.</num>
+      <text>The provisions of <cite path="07.01.02.07">this regulation</cite> are hereby severable.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If any word, phrase, clause, sentence, paragraph, section or part in or of <cite path="07.01.02.07">this regulation</cite> or the application thereof to any person, circumstance or thing is declared invalid for any reason whatsoever, the remaining provisions and the application of such provisions to other persons, circumstances or things shall not be affected thereby but shall remain in full force and effect, the Commissioner hereby declaring that he would have ordained the remaining provisions of <cite path="07.01.02.07">this regulation</cite> without the word, phrase, clause, sentence, paragraph, section or part, or the application thereof, so held invalid.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

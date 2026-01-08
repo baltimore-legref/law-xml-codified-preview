@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>03</num>
+  <heading>REGULATIONS GOVERNING REGISTRATION OF NON-OWNER-OCCUPIED DWELLINGS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Code" path="|13|§4-3">City Code Article 13, § 4-3</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-10-29">Effective Date: October 29, 2009</annotation>
+  </annotations>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Authority.</heading>
+    <text>The Baltimore City Department of Housing and Community Development adopts these rules and regulations under <cite doc="City of Baltimore, Md., Code" path="|13|§4-3">City Code Article 13, § 4-3</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>"Owner-occupied" dwellings.</heading>
+    <para>
+      <num>A.</num>
+      <text>"Owner-occupied" means a dwelling unit that is both:</text>
+      <para>
+        <num>(1)</num>
+        <text>owner-occupied in fact; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>designated by the Maryland State Department of Assessments and Taxation as the owner's principle residence.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An owner may have only one owner-occupied dwelling unit in Baltimore City.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A dwelling unit not owned by a natural person cannot be owner-occupied.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Severability.</heading>
+    <para>
+      <num>A.</num>
+      <text>The provisions of <cite path="07.01.03.03">this regulation</cite>s are hereby severable.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If any word, phrase, clause, sentence, paragraph, section or part in or of <cite path="07.01.03.03">this regulation</cite> or the application thereof to any person, circumstance or thing is declared invalid for any reason whatsoever, the remaining provisions and the application of such provisions to other persons, circumstances or things shall not be affected thereby but shall remain in full force and effect, the Commissioner hereby declaring that he would have ordained the remaining provisions of <cite path="07.01.03.03">this regulation</cite> without the word, phrase, clause, sentence, paragraph, section or part, or the application thereof, so held invalid.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>THE REMOVAL OF ILLEGAL SIGNS FROM CITY PROPERTY BY OTHERS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Code" path="|19|§45-4|(b)|(1)">City Code Article 19, § 45-4(b)(1)</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2008-09-25">Effective Date: September 25, 2008</annotation>
+  </annotations>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Adoption and Scope of Regulations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Adoption.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Baltimore City Department of Housing and Community Development adopts these rules and regulations under <cite doc="City of Baltimore, Md., Code" path="|19|§45">City Code Article 19, § 45 {"Signs-On or Affecting Public Property"}</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Scope.</text>
+      <para>
+        <num>(1)</num>
+        <text>These rules and procedures apply to the removal by parties (other than the City or its employees) of signs that are posted in violation of City Code <cite doc="City of Baltimore, Md., Code" path="|19">Article 19</cite>, §§ <cite doc="City of Baltimore, Md., Code" path="|19|§45-2|(1)">45-2(1)</cite> through <cite doc="City of Baltimore, Md., Code" path="|19|§45-2|(6)">45-2(6)</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>These rules and procedures do not apply to the removal of signs that are posted in violation of <cite doc="City of Baltimore, Md., Code" path="|19|§45-2|(7)">City Code Article 19, § 45-2(7)</cite>, which prohibits the placement of signs on any pole (electric pole), building or property that is owned, leased, or controlled by a public utility and located within or on any public street, alley, or other public property.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In <cite path="07.01.01">this chapter</cite>, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"City" means the Mayor and City Council of Baltimore.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Department" means the Department of Housing and Community Development.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Designated entity" means a non-profit community or neighborhood association that is a community-based organization whose:</text>
+        <para>
+          <num>(a)</num>
+          <text>membership is open to all residents of the community; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>objective is to support or engage in activities of public interest without any commercial or monetary profit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Director" means the Deputy Commissioner of Code Enforcement for the Department of Housing and Community Development.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Individual" means someone who is 18 years of age or older.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Person" means any individual, political candidate, political committee, firm, partnership, association, corporation, company, organization, or other entity of any kind.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Sign" means any bill, poster, placard, handbill, flyer, painting, notice, advertisement, or other similar object or matter that contains printed or written matter in words, symbols, pictures, or any combination of them.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Assessing a Penalty Surcharge.</heading>
+    <para>
+      <num>A.</num>
+      <text>If any sign is posted in violation of City Code <cite doc="City of Baltimore, Md., Code" path="|19">Article 19</cite>, §§ <cite doc="City of Baltimore, Md., Code" path="|19|§45-2|(1)">45-2(1)</cite> through <cite doc="City of Baltimore, Md., Code" path="|19|§45-2|(6)">45-2(6)</cite>, a person may remove the sign, except as provided in COBRA 07.01.01.03(B), and either:</text>
+      <para>
+        <num>(1)</num>
+        <text>discard the sign; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>submit the sign, together with an affidavit that meets the requirements of COBRA 07.01.04, to the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If the sign is posted at a height that is unreachable by an unassisted person or in a matter that creates a hazardous situation, rather than removing the sign, a person may report the sign to the City using 311 Services.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Requirements of the Affidavit.</heading>
+    <para>
+      <num>A.</num>
+      <text>The affidavit must describe a single alleged violation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A separate affidavit must be submitted with each sign posted in violation of City Code <cite doc="City of Baltimore, Md., Code" path="|19">Article 19</cite>, §§ <cite doc="City of Baltimore, Md., Code" path="|19|§45-2|(1)">45-2(1)</cite> through <cite doc="City of Baltimore, Md., Code" path="|19|§45-2|(6)">45-2(6)</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The affidavit must be created using a form approved by the Department.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The affidavit must be complete.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The affidavit must be accompanied by:</text>
+      <para>
+        <num>(1)</num>
+        <text>the sign that was removed from the location and is identified in the affidavit;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>one photograph of the sign, with the address or description of the location of the sign, the date and time the photograph was taken, and the printed name and signature of the individual signing the affidavit written on the front of the photograph, that shows how the posting of the sign is in violation of City Code <cite doc="City of Baltimore, Md., Code" path="|19">Article 19</cite>, §§ <cite doc="City of Baltimore, Md., Code" path="|19|§45-2|(1)">45-2(1)</cite> through <cite doc="City of Baltimore, Md., Code" path="|19|§452|(6)">452(6)</cite> and is a close-up picture of the sign that enables the viewer of the photograph to identify the sign as posted and the immediate background;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>one photograph of the sign, with the address or description of the location of the sign, the date and time the photograph was taken, and the printed name and signature of the individual signing the affidavit written on the front of the photograph, that is a widershot picture and includes a broader view of the background behind the sign; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>a print-out from the Maryland Department of Assessment and Taxation showing the property is owned by the City, if the sign was posted on City property that has a proper address or block and lot identification; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>a map that identifies the location where the sign was posted, if the sign was posted on City property that does not have a proper address or block and lot identifier, such as a median, light pole, or parking meter.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The affidavit must be signed, under the penalty of perjury, by the individual who removed the sign.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The affidavit must be notarized.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Completed affidavits and signs:</text>
+      <para>
+        <num>(1)</num>
+        <text>must be submitted to the Department within ten calendar days of removal; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>may be dropped off at 417 E. Fayette Street, Monday through Friday, 8:30 a.m. – 4:30 p.m.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Testimony of the Individual Who Removed the Sign.</heading>
+    <para>
+      <num>A.</num>
+      <text>For enforcement to proceed, the individual who supplied the affidavit must be willing and available to appear and testify at any administrative or court hearings concerning the violation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any individual who fails to appear or testify at an administrative hearing or court when requested to do so forfeits the designation of fines to the name non-profit community or neighborhood association.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Affidavits submitted by an individual who fails to appear or testify at an administrative hearing or court when requested to do so will not be considered for enforcement actions for a 12-month period following the failure to appear.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Designation of an Entity to Share in Any Collected Fines.</heading>
+    <para>
+      <num>A.</num>
+      <text>The affidavit may designate an entity to share in any collected fines.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The designated entity must be a non-profit community or neighborhood association:</text>
+      <para>
+        <num>(1)</num>
+        <text>organized under the laws of the State of Maryland; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>listed with the Baltimore City Department of Planning.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The designated entity must provide the City with a completed IRS Form W-9 ("Request for Taxpayer Identification Number and Certification") in order to obtain a vendor identification number, and only one W-9 form is required per designated entity per year.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The designated entity must have a completed W-9 on file with the City at the time of the submission of the affidavit.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The City may require that the designated entity provide:</text>
+      <para>
+        <num>(1)</num>
+        <text>proof of its non-profit status or its registration with the Department of Planning, as applicable; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>additional information necessary to process payment.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If the designated entity provides the information required by the City, the designated entity may receive 50% of any fine that is collected in the matter pursuant to <cite doc="City of Baltimore, Md., Code" path="|1|§40">City Code Article 1, § 40</cite> or <cite doc="City of Baltimore, Md., Code" path="|1|§41">City Code Article 1, § 41</cite>.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The designated entity may not share in any penalties or interest collected by the City as assessed by the Department of Finance, the Environmental Control Board, or their designated Administrative Judge.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Costs for Removal of Signs.</heading>
+    <text>The Department may charge the person responsible for posting the illegal sign on City property for:</text>
+    <para>
+      <num>(1)</num>
+      <text>the costs of removal of the illegal sign; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>the cost of repairing any damaged caused by the placement or removal of the sign.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Report of Director.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Director of the Department must maintain a data system capable of reporting on:</text>
+      <para>
+        <num>(1)</num>
+        <text>the name of the person represented on the material removed;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the number of advertisements, notices, or other signs removed;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the location of the material; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>the type of structure from which the material was removed.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Director of the Division must report on the data collected to the Commissioner of Housing when requested.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Issuing Citation.</heading>
+    <text>The determination to issue a citation is at the sole discretion of the Department.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Severability.</heading>
+    <para>
+      <num>A.</num>
+      <text>The provisions of <cite path="07.01.01.10">this regulation</cite> are hereby severable.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If any word, phrase, clause, sentence, paragraph, section or part in or of <cite path="07.01.01.10">this regulation</cite> or the application thereof to any person, circumstance or thing is declared invalid for any reason whatsoever, the remaining provisions and the application of such provisions to other persons, circumstances or things shall not be affected thereby but shall remain in full force and effect, the Commissioner hereby declaring that he would have ordained the remaining provisions of <cite path="07.01.01.10">this regulation</cite> without the word, phrase, clause, sentence, paragraph, section or part, or the application thereof, so held invalid.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

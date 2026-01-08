@@ -1,0 +1,884 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>04</num>
+  <heading>REGULATIONS GOVERNING BURGLAR ALARMS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|19">City Code Article 19</cite>, Subtitle 8</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2014-03-31">Effective Date: March 31, 2014</annotation>
+  </annotations>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Authority.</heading>
+    <text>The Baltimore City Department of Housing and Community Development adopts these rules and regulations under <cite doc="City of Baltimore, Md., Code" path="|19">City Code Article 19</cite>, Subtitle 8.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In <cite path="07.01.04">this chapter</cite>, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Alarm system" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-1">City Code Article 19, § 8-1</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Commissioner" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-1">City Code Article 19, § 8-1</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Contractor" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-1">City Code Article 19, § 8-1</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"False alarm" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-1">City Code Article 19, § 8-1</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Hold-up alarm" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-1">City Code Article 19, § 8-1</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Monitor" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-1">City Code Article 19, § 8-1</cite>.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"No-response status" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-9|(a)">City Code Article 19, § 8-9(a)</cite>.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Panic alarm" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-1">City Code Article 19, § 8-1</cite>.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Person" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-1">City Code Article 19, § 8-1</cite>.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"User" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|19|§8-1">City Code Article 19, § 8-1</cite>.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Alarm Contractor Registration Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any alarm contractor in Baltimore City must apply to the Department of Housing and Community Development or designee to register to operate as an alarm business.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Registration specifications.</text>
+      <para>
+        <num>(1)</num>
+        <text>An application to register as an alarm business must be signed by:</text>
+        <para>
+          <num>(a)</num>
+          <text>the owner of a sole proprietorship;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>at least one partner of a partnership; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a corporate officer of a corporation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The registration application must be completed on the electronic form provided by the Department of Housing and Community Development and include:</text>
+        <para>
+          <num>(a)</num>
+          <text>the name, address, fax number, telephone number, and email of the alarm business;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the type of business entity of the alarm business, such as whether the business is a sole proprietorship, partnership, or corporation</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the Employer Identification Number (EIN); and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>the name, address, fax number, telephone number, and email of the individual responsible for the operation of the alarm business in Baltimore City.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The registration application for alarm contractors must be accompanied by a registration fee of $50.00.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the registration has been revoked or suspended, a reinstatement fee of $50.00 must accompany a reinstatement application.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In the case of a change to the information submitted as part of the registration application, the alarm business must submit written notice to the Department of Housing and Community Development or designee within ten days of the change.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Registration shall be valid for a period of one year. Registration must be renewed prior to the end of each one-year period.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Initiation of business.</text>
+      <text>An applicant may not conduct business in Baltimore City until:</text>
+      <para>
+        <num>(1)</num>
+        <text>the registration requirements are completed; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the application has been approved by the Department of Housing and Community Development.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Posted notice.</text>
+      <para>
+        <num>(1)</num>
+        <text>An alarm contractor that sells or leases an alarm system or equipment to an alarm user in Baltimore City must post conspicuously at their place of business and on their website notice to alarm system purchasers of their obligation to register their alarm with the False Alarm Reduction Unit of the Baltimore Department of Housing and Community Development or its designee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Prior to completion of the sale of the alarm system, an alarm contractor must provide the purchaser with printed notice of the user's obligation to register the alarm system with the False Alarm Reduction Unit of the Baltimore Department of Housing and Community Development or its designee.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Requirement to report transaction.</text>
+      <para>
+        <num>(1)</num>
+        <text>If the alarm business that sells or leases an alarm system is not under contract to monitor the system, the business must report the transaction to the Baltimore City Department of Housing and Community Development or designee within ten days of the sale or lease.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The report must be completed on the electronic form provided by the Department of Housing and Community Development and contain:</text>
+        <para>
+          <num>(a)</num>
+          <text>the purchaser's name;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>address;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>telephone number;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>email address; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>make/model of the system.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Monitor Registration Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any person engaging in the business of alarm monitoring in Baltimore City must register with the Department of Housing and Community Development or its designee to operate as an alarm business.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Registration specifications.</text>
+      <para>
+        <num>(1)</num>
+        <text>The registration application must be signed by:</text>
+        <para>
+          <num>(a)</num>
+          <text>the owner of a sole proprietorship;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>at least one partner of a partnership; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a corporate officer of a corporation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The registration application must include both applicant information and a list of Baltimore City customers.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Applicant information must be completed on the electronic form provided by the Baltimore City Department and include the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>the name, address, fax number, telephone number, and email of the alarm business;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the type of business entity of the alarm business, such as whether the business is a sole proprietorship, partnership, or corporation</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the Employer Identification Number (EIN); and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>the name, address, fax number, telephone number, and email of the individual responsible for the operation of the alarm business in Baltimore City.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Baltimore City customer list must include a list of the following information for all Baltimore City customers receiving service at the time of the applicant's registration:</text>
+        <para>
+          <num>(a)</num>
+          <text>name of the customer;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>address of the customer, including apartment or suite number;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>telephone number of the customer;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>activation date of service for the customer;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>customer account number, meaning the unique identifier of the customer; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>registration number of the customer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Registration applications for alarm monitors must be accompanied by a registration fee of $50.00.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If the registration has been revoked or suspended, a reinstatement fee of $50.00 must accompany a reinstatement application.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>In the case of a change to the applicant information submitted as part of the registration application, the alarm monitor must submit written notice to the Department of Housing and Community Development or designee within ten days of the change.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The alarm monitor must provide notification of changes to their Baltimore City customer list to the Baltimore City Department of Housing and Community Development or its designee within ten days of the change.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Registration shall be valid for a period of one year.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Registrations must be renewed prior to the end of each one-year period.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Should an alarm monitor's registration be suspended, revoked, or refused, the alarm monitor must notify its Baltimore City customers by first class mail within five days of the suspension, revocation, or refusal of the registration that the monitoring company is unable to request Baltimore City Police Department dispatch for the duration of the period of suspension, revocation, or refusal.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Initiation of business.</text>
+      <text>An applicant may not conduct business in Baltimore City until:</text>
+      <para>
+        <num>(1)</num>
+        <text>the registration requirements are completed; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the application has been approved by the Department of Housing and Community Development.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Monthly update.</text>
+      <para>
+        <num>(1)</num>
+        <text>Alarm monitors must provide the Department of Housing and Community Development with a monthly update of all Baltimore City customers receiving service at that time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The monthly updated must include a listing of the following for each customer:</text>
+        <para>
+          <num>(a)</num>
+          <text>name of the customer;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>address of the customer, including apartment or suite number;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>telephone number of the customer;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>activation date of service for the customer;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>customer account number, meaning the unique identifier of the customer; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>registration number of the customer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Updates must be submitted by the fifth of each month in the method determined by the Baltimore City Department of Housing and Community Development or its designee.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Alarm Installation Standards.</heading>
+    <para>
+      <num>A.</num>
+      <text>An alarm technician, licensed by the State of Maryland, must be onsite to supervise the installation of any alarm system.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any alarm contractor that installs an alarm system must provide the alarm user with a City of Baltimore Security Alarm Installation Certificate, a copy of which shall be retained by the contractor.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The alarm business must certify that:</text>
+      <para>
+        <num>(1)</num>
+        <text>the alarm system has been installed in compliance with City law and regulations;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the person designated by the alarm user as responsible for alarm system operation has received enough training to prepare that alarm user to operate the system without false alarms caused by improper operation; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the alarm user has been informed of the requirement to register the system with the Baltimore City Department of Housing and Community Development or designee and has been provided with a printed notice of how to register the alarm with the City.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Alarm User Registration.</heading>
+    <para>
+      <num>A.</num>
+      <text>Within ten days of activating an alarm system, the user must register the system with the Baltimore City Department of Housing and Community Development or its designee.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any change in the information provided on the registration application or deactivation must be reported to the Department of Housing and Community Development within ten days using the method determined by the Baltimore City Department of Housing and Community Development or its designee.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>All outstanding registration and alarm fees must be paid in order to maintain valid registration.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Registration of an alarm system is not intended to, nor will it, create a contract, duty or obligation, either expressed or implied, of police response nor is it a waiver of government immunity by the Baltimore Police Department, Department of Housing and Community Development or the Mayor and City Council of Baltimore.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>By registering an alarm system, the alarm user acknowledges that police response shall be based on normal and reasonable police procedures, and be affected by such factors as:</text>
+      <para>
+        <num>(1)</num>
+        <text>the availability of police units;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>priority of calls;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>weather conditions; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>traffic conditions.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Residential User Registration.</text>
+      <text>If the alarm will be used at a residence, the registration form for the alarm must be completed on the electronic form provided by the Department of Housing and Community Development and the following information must be provided to the Department:</text>
+      <para>
+        <num>(1)</num>
+        <text>the registration number;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the street address at which the alarm system is located, including room or suite number;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the name, address, and telephone number of the alarm user for the alarmed location;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>the name, address, and telephone number of at least one person who can respond within an hour to an alarm site to deactivate the alarm;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>type of alarm system, such as:</text>
+        <para>
+          <num>(a)</num>
+          <text>a burglary alarm system;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a robbery alarm system;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a panic alarm system;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>a duress alarm system; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>a medical alert;</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>information regarding any dangerous or special conditions at the location;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>the name, address, telephone number, and business license numbers of the alarm business that installed and/or monitors the alarm system, if applicable; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>a statement regarding whether the alarm user has ever previously registered an alarm system in Baltimore City.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Commercial User Registration.</text>
+      <text>If the alarm will be used at a commercial establishment, the registration form for the alarm must be completed on the electronic form provided by the Department of Housing and Community Development and the following information must be provided to the Department:</text>
+      <para>
+        <num>(1)</num>
+        <text>the registration number;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the non-residential alarm user's name and trade name, if different;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the name, address, and telephone number of at least one person who can respond within an hour to an alarm site to deactivate the alarm;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Employer Identification Number (EIN);</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>the street address at which the alarm system is located, including room or suite number;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>the telephone number at the alarmed location;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>the type of business or activity conducted at an alarmed location;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>type of alarm system: burglary, robbery, a duress, panic, etc;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>information regarding any dangerous or special conditions at the location;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>the parent company name, address, and telephone number, and the resident agent's name;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>the name and telephone number of a person responsible at the parent company location for the alarm system at the alarmed location;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>the name, address, telephone number, and business license numbers of the alarm business that installed and/or monitors the alarm system, if applicable; and</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>a statement regarding whether the alarm user had ever previously registered an alarm system or been issued a permit in Baltimore City.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>In case of unavailable representative.</text>
+      <para>
+        <num>(1)</num>
+        <text>When a person or business listed on the registration or an amendment to the registration is unable or unwilling to perform required duties, the registrant must provide written notification to the Baltimore City Department of Housing and Community Development or designee within ten days.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The notification must include the name of an alternate person or company that is able and willing to perform those duties.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Registration is only valid for the premises registered and is not transferable to another alarm user or premises.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>When a new owner takes control of a property, the former owner's registration becomes void, and the new owner must apply for a new registration.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>All registered alarm users must keep a copy of the alarm registration form and installation certificate at the alarm site and must produce such registration for inspection upon reasonable request by any Baltimore City police officer or special enforcement officer.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Alarm registrations, amendments, and renewal forms that do not have complete or correct information are invalid and the alarm system will be deemed unregistered.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Procedures to Request Police Response.</heading>
+    <para>
+      <num>A.</num>
+      <text>Required alarm monitor response.</text>
+      <para>
+        <num>(1)</num>
+        <text>Before requesting a police response to an alarm signal, an alarm monitor must attempt to verify the need for a police response for every alarm signal, except a hold-up or panic alarm activation, by contacting the alarm system site.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of a hold-up or panic alarm activation, the alarm monitor must attempt to verify the alarm signal only after requesting police dispatch.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Telephone verification.</text>
+      <text>During telephone verification, if the first call fails to reach an alarm user who can properly identify themselves, then the alarm monitor must at least make a second call to a different number to determine whether an alarm signal is valid before requesting dispatch.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Required information to provide to police.</text>
+      <text>An alarm monitor must provide the following information when reporting an activated alarm signal to the Baltimore City Police Department and requesting a police response:</text>
+      <para>
+        <num>(1)</num>
+        <text>the registration number issued to alarm user;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the name and registration number of the alarm monitor reporting on the activated alarm;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the name or employee number of the alarm monitor employee making the report;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>a callback telephone number;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>the location of the activated alarm, including the complete business or homeowner's:</text>
+        <para>
+          <num>(a)</num>
+          <text>name;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>street address;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>apartment or suite number; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>telephone number;</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>the type of alarm, such as:</text>
+        <para>
+          <num>(a)</num>
+          <text>an audible alarm;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a silent alarm;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a robbery alarm;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>a hold-up alarm;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>a duress alarm;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>a panic alarm; or</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>a burglary alarm;</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>if the alarm system is zoned, the specific location of the alarm activation, such as:</text>
+        <para>
+          <num>(a)</num>
+          <text>the interior;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the perimeter;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a vault; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>motion detection;</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>if it is a non-residential site, any available information about the non-residential site, such as:</text>
+        <para>
+          <num>(a)</num>
+          <text>whether the business is open or closed;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>whether guards or guard dogs are on site, and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>what, if any, dangerous or special conditions are present at the site;</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>if it is a residential site, any available information about the residential site, such as:</text>
+        <para>
+          <num>(a)</num>
+          <text>the whereabouts of the homeowner;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>whether any pets are presence, and if so, what types of pets; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>whether handicapped individuals are at the residence; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>whether a representative of the alarm user or alarm company is responding and, if so, the representative's estimated time of arrival.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An alarm monitor detecting an alarm system activation from an unregistered user must report the activation of the alarm to the Baltimore City Police Department in the normal manner.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Written notification of request for police response.</text>
+      <para>
+        <num>(1)</num>
+        <text>An alarm monitor must provide written notification to the alarm user or designee within 72 hours after the alarm monitor's request for police response.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The monitor must maintain a record of these written notifications regarding requests for police responses.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The record of written notifications regarding requests for police responses must be made available for inspection upon request by any Baltimore City Police Officers, Special Enforcement Officers, or designees.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If an alarm monitor determines that an alarm signal is a false alarm, the alarm monitor must immediately cancel any request for police response.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>False Alarms.</heading>
+    <para>
+      <num>A.</num>
+      <text>Alarm users who are responsible for false alarms must either:</text>
+      <para>
+        <num>(1)</num>
+        <text>pay a false alarm fee as set forth in <cite doc="City of Baltimore, Md., Code" path="|19|§8-8|(b)">City Code Article 19, § 8-8(b)</cite>; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>appeal the false alarm fee in writing to the Board of Municipal and Zoning Appeals.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Late fees.</text>
+      <para>
+        <num>(1)</num>
+        <text>If a false alarm fee is not paid within 30 days of the billing date, a late fee of $25.00 will be assessed.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of appeals, a late fee will not be charged unless the false alarm fee remains unpaid 30 days after an unsuccessful appeal.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Failure to pay the late fee after the due date shall be grounds for revocation of the registration.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Baltimore City Department of Housing and Community Development or its designee may seek an injunction from the Circuit Court to prohibit the continued use of any revoked alarm system registration.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Conditions Under Which an Alarm Response Fee May be Waived.</heading>
+    <para>
+      <num>A.</num>
+      <text>A false alarm response fee may be waived if the alarm system was activated by an act of nature, such as:</text>
+      <para>
+        <num>(1)</num>
+        <text>a blizzard;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>an earthquake;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>high winds;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>heavy thunderstorms;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>lightning;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>electrical surge; or</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>other circumstances not reasonably subject to the control of the alarm business or alarm user.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>As a condition to waiving a fee, the Baltimore City Department of Housing and</text>
+      <text>Community Development or its designee may request a written statement from a licensed alarm company that details the reason for the false alarm.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Two or more false alarms that occur within the same 24-hour period and are the result of a single event will be considered one false alarm.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Waiver after inspection.</text>
+      <para>
+        <num>(1)</num>
+        <text>One false alarm fee may be waived if the alarm contractor or a monitor certifies that the alarm system has been inspected and is functioning properly.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the user is assessed for a subsequent false alarm fee, then the fee will be assessed as if the previous fee had not been waived.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>False Alarm Appeals Process.</heading>
+    <para>
+      <num>A.</num>
+      <text>An alarm user may appeal a false alarm determination to the Board of Municipal and Zoning Appeals or its designee within 30 days after the date of the false alarm notice.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An alarm user may also appeal;</text>
+      <para>
+        <num>(1)</num>
+        <text>if the alarm system was faulty when the false alarm sounded; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the alarm system has since been inspected and repaired by a certified alarm technician.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An alarm user may appeal the decision of the Board of Municipal and Zoning Appeals to the judicial system, per the Maryland Rules, Rule 7-201.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Severability.</heading>
+    <para>
+      <num>A.</num>
+      <text>The provisions of <cite path="07.01.04.11">this regulation</cite>s are hereby severable.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If any word, phrase, clause, sentence, paragraph, section or part in or of <cite path="07.01.04.11">this regulation</cite> or the application thereof to any person, circumstance or thing is declared invalid for any reason whatsoever, the remaining provisions and the application of such provisions to other persons, circumstances or things shall not be affected thereby but shall remain in full force and effect, the Commissioner hereby declaring that he would have ordained the remaining provisions of <cite path="07.01.04.11">this regulation</cite> without the word, phrase, clause, sentence, paragraph, section or part, or the application thereof, so held invalid.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

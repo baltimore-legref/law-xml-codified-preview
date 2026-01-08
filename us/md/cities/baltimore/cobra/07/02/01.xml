@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>RULES AND PROCEDURES FOR MULTI-FAMILY DWELLING LICENSE REVOCATION HEARINGS</heading>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Code" path="|13|§5-2">City Code Article 13, § 5-2</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2005-07-21">Effective Date: July 21, 2005</annotation>
+  </annotations>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Adoption and Scope of Regulations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Adoption.</text>
+      <text>The Baltimore City Department of Housing and Community Development adopts these rules and regulations under the <cite doc="City of Baltimore, Md., Code" path="|13|§5">City Code Article 13, § 5 {"Licensing of Rental Dwellings"}</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Scope.</text>
+      <text>These rules and regulations provide for the rules and procedures governing multi-family dwelling license revocation hearings.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>General Provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Hearing shall be presided over by the Director of the Baltimore City Department of Housing and Community Development ("the Commissioner") or the Commissioner's designee.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any person who is entitled to notice pursuant to City Code <cite doc="City of Baltimore, Md., Code" path="|13">Article 13</cite>, §§ <cite doc="City of Baltimore, Md., Code" path="|13|§5-15">5-15</cite> through <cite doc="City of Baltimore, Md., Code" path="|13|§5-18">5-18</cite> and chooses to exercise their right to be heard shall be known as the "Respondent" or "Respondents".</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Respondents may appear and be heard in person and may present, under oath, evidence relevant and material to the matter under consideration.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Respondents may be represented by an attorney who is a member in good standing of Maryland State Bar.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A corporation may be represented by an officer or agent of the corporation or an attorney who is a member in good standing of the Maryland State Bar.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Records of proceedings.</text>
+      <para>
+        <num>(1)</num>
+        <text>A record of all proceedings shall be made by electronic recording device.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Typewritten copies of the proceedings may be ordered by the Respondent(s) and/or the Baltimore City Department of Housing and Community Development for a fee.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The party requesting the transcription is responsible for payment of the fee.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The Housing Commissioner may designate an attorney from the Code Enforcement Legal Section of the Baltimore City Department of Housing and Community Development to present evidence and testimony to support revoking the Multi-Family Dwelling License.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Presentation of Evidence and Argument.</heading>
+    <para>
+      <num>A.</num>
+      <text>All parties shall have the right to:</text>
+      <para>
+        <num>(1)</num>
+        <text>call witnesses;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>conduct direct and cross-examination;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>present relevant evidence, and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>to make objections and argument.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commissioner or the Commissioner's designee may refuse to allow or may curtail the introduction of any evidence that is found to be:</text>
+      <para>
+        <num>(1)</num>
+        <text>irrelevant</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>cumulative;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>unduly prejudicial; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>outside the scope of the License Revocation Hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Parties to the License Revocation Hearing may by agreement stipulate to any facts involved in the proceedings provided that each stipulation is duly-noted for the record.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Oral argument may only be made before the Commissioner or the Commissioner's Designee.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Oral argument may be curtailed or limited at the Commissioner or the Commissioner's Designee's discretion.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Maryland Rules of Evidence shall apply to the proceedings but the Commissioner or Commissioner's Designee discretion they may allow them to be relaxed.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Burden of Proof and Order of Proof.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commissioner or the Commissioner's designee may revoke a license upon a finding by a preponderance of the evidence that:</text>
+      <para>
+        <num>(1)</num>
+        <text>the Owner or lessee of a multi-family dwelling or rooming house has failed to comply with a lawful notice to correct a violation that affects the health, safety, morals, or general welfare of the occupants or general welfare;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the Owner, lessee, or agent of a multi-family dwelling or rooming house has allowed the property to be used for:</text>
+        <para>
+          <num>(a)</num>
+          <text>prostitution;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>drug activity; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>any other activity that creates or constitutes a nuisance; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the owner or lessee should have known that the premises were being used for prostitution, drug activity or any other activity that creates or constitutes a nuisance and failed to prevent it.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The order of proof shall be as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>First, all parties present will be introduced and identified.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Second, the Commissioner's designated attorney will make a brief statement about the purpose of the hearing.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Third, the Commissioner's designated attorney will present testimony and evidence that shows:</text>
+        <para>
+          <num>(a)</num>
+          <text>the Owner or lessee of a multi-family dwelling or rooming house has failed to comply with a lawful notice to correct a violation that affects the health, safety, morals, or general welfare of the occupants or general welfare;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the Owner, lessee, or agent of a multi-family dwelling or rooming house has allowed the property to be used for:</text>
+          <para>
+            <num>(i)</num>
+            <text>prostitution;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>drug activity; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>any other activity that creates or constitutes a nuisance; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the owner or lessee should have known that these premises were being used for prostitution, drug activity, or any other activity that creates or constitutes a nuisance and failed to prevent it.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Fourth, cross-examination of the witnesses at the conclusion of each direct examination by the Respondent.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Fifth, re-direct by the Commissioner's designated attorney.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Sixth, testimony and presentation of evidence may be presented by the Respondent(s).</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Seventh, cross-examination of the Respondent(s) and their witness at the conclusion of each direct examination by the Commissioner's designated attorney.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Eighth, re-direct examination by the Respondent(s).</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Ninth, the presentation of closing statements, which shall not exceed ten minutes.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Revocation of the Multi-Family Dwelling License.</heading>
+    <para>
+      <num>A.</num>
+      <text>The written decision of the Housing Commissioner or the Commissioner's Designee to revoke a Multi-Family Dwelling License shall be known as a "License Revocation Order".</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A written License Revocation Order shall be issued within one business day of the conclusion of the License Revocation Hearing or as soon as practicable thereafter.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Upon agreement of the parties, the decision of the Housing Commissioner or the Commissioner's Designee may be postponed to any date certain.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The License Revocation Order shall state a brief summary of the facts and the specific section of <cite doc="City of Baltimore, Md., Code" path="|13|§5-15">City Code Article 13, § 5-15</cite> that the Respondent(s) violated.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The License Revocation Order shall be sent by First Class Mail to all Respondent(s) within one business day after the issuance of the License Revocation Order or as soon as practicable thereafter.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Postponements and Adjournments.</heading>
+    <para>
+      <num>A.</num>
+      <text>Postponement Request.</text>
+      <para>
+        <num>(1)</num>
+        <text>A request for a Postponement of a License Revocation Hearing must be received within five business days prior to the hearing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The request shall be sent via mail to the Code Enforcement Legal Section, 417 E. Fayette St., Baltimore, MD 21202 or via fax.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The postponement request shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>state the reason(s) for the postponement request; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>be signed by the party requesting the postponement.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The postponement request shall be granted or denied after review by the Commissioner or the Commissioner's Designee.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No application for adjournment, once a License Revocation Hearing has commenced, shall be granted except for good cause shown.</text>
+    </para>
+    <annotations/>
+  </section>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled “Legacy Regulations”.</annotation>
+    </annotations>
+    <attachment name="multi-family-dwelling-license-renewal" url="/us/md/cities/baltimore/cobra/attachments/07.02.01-Multi-Family_Dwelling_License_Renewal.pdf">
+      <heading>Multi-Family Dwelling License Renewal</heading>
+    </attachment>
+  </attachments>
+</container>
