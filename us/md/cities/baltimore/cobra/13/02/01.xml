@@ -3,9 +3,6 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>LEAD HAZARD ABATEMENT</heading>
-  <annotations>
-    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Charter" path="VII">Baltimore City Charter Article VII</cite>, §56 and Baltimore City Health Code, §§ 2-105 and 2-106</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -130,7 +127,7 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>"Impact surface" has the meaning stated in COMAR 	26.16.08.03(B)(17).</text>
+        <text>"Impact surface" has the meaning stated in COMAR 26.16.08.03(B)(17).</text>
       </para>
       <para>
         <num>(12)</num>
@@ -206,7 +203,7 @@
       </para>
       <para>
         <num>(24)</num>
-        <text>"Secondary property" means a structure occupied for 10 or more 	hours a week by a child or pregnant woman that is the subject of an elevated blood level report in the 12 months preceding an elevated blood 	level report to the Department.</text>
+        <text>"Secondary property" means a structure occupied for 10 or more hours a week by a child or pregnant woman that is the subject of an elevated blood level report in the 12 months preceding an elevated blood level report to the Department.</text>
       </para>
       <para>
         <num>(25)</num>
@@ -777,4 +774,7 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Charter" path="VII">Baltimore City Charter Article VII</cite>, §56 and Baltimore City Health Code, §§ 2-105 and 2-106</annotation>
+  </annotations>
 </container>

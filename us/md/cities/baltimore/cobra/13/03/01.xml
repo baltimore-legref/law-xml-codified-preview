@@ -3,9 +3,6 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>WILD, EXOTIC, HYBRID, AND LIVESTOCK ANIMALS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container">Baltimore City Health Code, § 2-106 and Title 10, Subtitle 6</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -1151,4 +1148,7 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Health Code, § 2-106 and Title 10, Subtitle 6</annotation>
+  </annotations>
 </container>

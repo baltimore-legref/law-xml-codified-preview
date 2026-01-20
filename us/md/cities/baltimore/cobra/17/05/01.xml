@@ -3,12 +3,6 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>ADULT ENTERTAINMENT REGULATIONS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container">
-      <cite doc="City of Baltimore, Md., Code" path="|15|§1-3">Baltimore City Code Article 15, § 1-3</cite>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2024-04-15">R&amp;R revised and effective 15 April 2024</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -947,4 +941,10 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Code" path="|15|§1-3">Baltimore City Code Article 15, § 1-3</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2024-04-15">R&amp;R revised and effective 15 April 2024</annotation>
+  </annotations>
 </container>

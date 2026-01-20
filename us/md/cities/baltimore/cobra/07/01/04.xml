@@ -3,10 +3,6 @@
   <prefix>Chapter</prefix>
   <num>04</num>
   <heading>REGULATIONS GOVERNING BURGLAR ALARMS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|19">City Code Article 19</cite>, Subtitle 8</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2014-03-31">Effective Date: March 31, 2014</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -881,4 +877,8 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|19">City Code Article 19</cite>, Subtitle 8</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2014-03-31">Effective Date: March 31, 2014</annotation>
+  </annotations>
 </container>

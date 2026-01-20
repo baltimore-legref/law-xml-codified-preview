@@ -3,10 +3,6 @@
   <prefix>Chapter</prefix>
   <num>02</num>
   <heading>APPLICATION OF A PENALTY SURCHARGE FOR WORK WITHOUT A PERMIT AND THE STANDARDS AND CRITERIA FOR A REDUCTION OF A PENALTY SURCHARGE</heading>
-  <annotations>
-    <annotation type="Authority" dest="container">City Building Code, §§ 104.1.1(2) and 109.5.9.3(2)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-08-10">Effective Date: August 10, 2009</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -317,4 +313,8 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container">City Building Code, §§ 104.1.1(2) and 109.5.9.3(2)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-08-10">Effective Date: August 10, 2009</annotation>
+  </annotations>
 </container>

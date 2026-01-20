@@ -3,12 +3,6 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>RULES AND PROCEDURES FOR MULTI-FAMILY DWELLING LICENSE REVOCATION HEARINGS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container">
-      <cite doc="City of Baltimore, Md., Code" path="|13|§5-2">City Code Article 13, § 5-2</cite>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2005-07-21">Effective Date: July 21, 2005</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -295,6 +289,12 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Code" path="|13|§5-2">City Code Article 13, § 5-2</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2005-07-21">Effective Date: July 21, 2005</annotation>
+  </annotations>
   <attachments>
     <heading>Legacy Regulations</heading>
     <annotations>

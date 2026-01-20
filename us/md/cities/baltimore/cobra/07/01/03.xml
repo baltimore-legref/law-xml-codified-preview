@@ -3,12 +3,6 @@
   <prefix>Chapter</prefix>
   <num>03</num>
   <heading>REGULATIONS GOVERNING REGISTRATION OF NON-OWNER-OCCUPIED DWELLINGS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container">
-      <cite doc="City of Baltimore, Md., Code" path="|13|§4-3">City Code Article 13, § 4-3</cite>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-10-29">Effective Date: October 29, 2009</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -56,4 +50,10 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Code" path="|13|§4-3">City Code Article 13, § 4-3</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-10-29">Effective Date: October 29, 2009</annotation>
+  </annotations>
 </container>

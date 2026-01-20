@@ -3,17 +3,6 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>GENERAL PROVISIONS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container">
-      <cite doc="City of Baltimore, Md., Code" path="|31|§38-3">Baltimore City Code Article 31, § 38-3</cite>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2019-08-01">R&amp;R establish and effective August 1, 2019</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-07-01">R&amp;R revised and effective July 1, 2021</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2022-07-01">R&amp;R revised to be effective July 1, 2022</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2023-07-01">R&amp;R revised to be effective July 1, 2023</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2024-06-18">R&amp;R revised, effective June 18, 2024</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2025-06-18">R&amp;R revised, effective June 18, 2025</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -2883,4 +2872,15 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Code" path="|31|§38-3">Baltimore City Code Article 31, § 38-3</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2019-08-01">R&amp;R establish and effective August 1, 2019</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-07-01">R&amp;R revised and effective July 1, 2021</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2022-07-01">R&amp;R revised to be effective July 1, 2022</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2023-07-01">R&amp;R revised to be effective July 1, 2023</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2024-06-18">R&amp;R revised, effective June 18, 2024</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2025-06-18">R&amp;R revised, effective June 18, 2025</annotation>
+  </annotations>
 </container>

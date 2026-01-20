@@ -3,12 +3,6 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>THE REMOVAL OF ILLEGAL SIGNS FROM CITY PROPERTY BY OTHERS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container">
-      <cite doc="City of Baltimore, Md., Code" path="|19|§45-4|(b)|(1)">City Code Article 19, § 45-4(b)(1)</cite>
-    </annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2008-09-25">Effective Date: September 25, 2008</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -307,4 +301,10 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Code" path="|19|§45-4|(b)|(1)">City Code Article 19, § 45-4(b)(1)</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2008-09-25">Effective Date: September 25, 2008</annotation>
+  </annotations>
 </container>

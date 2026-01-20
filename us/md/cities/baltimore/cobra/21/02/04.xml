@@ -3,9 +3,6 @@
   <prefix>Chapter</prefix>
   <num>04</num>
   <heading>WATERSHED REGULATIONS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container">City Code, Article 24 §§ 1-1, 21-1</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -1762,4 +1759,7 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container">City Code, Article 24 §§ 1-1, 21-1</annotation>
+  </annotations>
 </container>

@@ -3,10 +3,6 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>PUBLIC TRAFFIC CALMING REQUESTS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container">Baltimore City Code, Article 31, §§2-2 and 2-5.</annotation>
-    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes. Published by Baltimore City Department of Legislative Reference Avery Aisenstark, Director 2022 Copyright © 2022 The Mayor and City Council of Baltimore Department of Legislative Reference All rights reserved For Information: Department of Legislative Reference City Hall 100 N. Holliday Street, Suite 626 Baltimore, Maryland 21202 Tel: (410) 396-4730 https://legislativereference.baltimorecity.gov/ </annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -533,4 +529,8 @@
     </para>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container">Baltimore City Code, Article 31, §§2-2 and 2-5.</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
 </container>

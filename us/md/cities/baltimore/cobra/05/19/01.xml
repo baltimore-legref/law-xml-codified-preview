@@ -3,11 +3,6 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>GENERAL PROVISIONS</heading>
-  <annotations>
-    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, Subtitle 32</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-10-01">Effective Date: October 1, 2021</annotation>
-    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -255,4 +250,9 @@
     <text>The $0.01 bag surcharge collected by a retailer and remitted to the City for each bag provided to customers pursuant to <cite doc="City of Baltimore, Md., Code" path="|28|§32-4">City Code Article 28, § 32-4</cite> cannot be included in the calculation of the Maryland Sales and Use Tax pursuant to the <cite doc="Md. Code" path="gtg|11102">Tax-General Article, § 11102, Annotated Code of Maryland</cite>.</text>
     <annotations/>
   </section>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, Subtitle 32</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-10-01">Effective Date: October 1, 2021</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
 </container>
