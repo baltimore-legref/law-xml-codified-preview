@@ -195,7 +195,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="26|§10-8|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-8">
+    <codify:replace path="26|§10-8|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-9">
       <num>10-9</num>
     </codify:replace>
     <codify:recodify-section path="26|§10-9" num-value="10-8" after="|26|§10-7" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-8"/>
