@@ -6,6 +6,7 @@
   <xi:include href="./01.xml"/>
   <xi:include href="./04.xml"/>
   <xi:include href="./05.xml"/>
+  <xi:include href="./06.xml"/>
   <attachments>
     <heading>Legacy Regulations</heading>
     <annotations>
@@ -13,6 +14,9 @@
     </annotations>
     <attachment name="developers-agreement" url="/us/md/cities/baltimore/cobra/attachments/14.03-Developers_Agreement.pdf">
       <heading>Developers Agreement</heading>
+    </attachment>
+    <attachment name="traffic-mitigation" url="/us/md/cities/baltimore/cobra/attachments/14.03-Traffic_Mitigation.pdf">
+      <heading>Traffic Mitigation</heading>
     </attachment>
   </attachments>
 </container>

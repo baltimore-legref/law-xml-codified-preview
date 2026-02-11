@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>06</num>
+  <heading>CEREMONIAL STREET SIGNS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Limitations.</heading>
+    <para>
+      <num>A.</num>
+      <text>No more than one ceremonial street sign may be installed on a block, defined as a segment of road between two cross streets.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Ceremonial signs may be removed after a period of one year and can be obtained by the original applicant by request.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Ceremonial signs have no bearing on the official name of a street.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Criteria for Ceremonial Street Signs.</heading>
+    <para>
+      <num>A.</num>
+      <text>The following categories are eligible for consideration for being recognized with a ceremonial street sign:</text>
+      <para>
+        <num>(1)</num>
+        <text>an individual,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>non-profit organization,</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>religious group,</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>significant event, or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Baltimore City landmark.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Honorees must have made significant and clearly defined contributions to the country, State or City through cultural, humanitarian, historic, or military achievement.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Prospective honorees must have the following qualifications:</text>
+      <para>
+        <num>(1)</num>
+        <text>for a person</text>
+        <para>
+          <num>(a)</num>
+          <text>a minimum of 10 years of community involvement or service to the neighborhood; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>significant and clearly defined contributions to the country, State or City through cultural, humanitarian, historic or military achievement;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>an organization meeting the following criteria may be recognized on a 25 year, 50 year, 100 year, 150 year, 200 year, or 250 year anniversary if the organization has</text>
+        <para>
+          <num>(a)</num>
+          <text>demonstrated community involvement or service to the neighborhood; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>made significant and clearly defined contributions to the country, State or City through cultural, humanitarian, historic or military achievement.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Individuals and organizations must demonstrate a substantial connection to the proposed street and block where the sign is being requested.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Application Process.</heading>
+    <para>
+      <num>A.</num>
+      <text>The City will notify the applicant within 20 business days from submission of the application</text>
+      <para>
+        <num>(1)</num>
+        <text>by email, or by phone if the applicant doesn't have access to email.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>whether the application for a ceremonial street sign was approved or denied.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>For an application that is incomplete when submitted, the 20-day period will begin when all information has been received.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Applications are available on the Mayor's Office of Correspondence and Constituent Services ("MOCCS") website and a link to the application webpage will also be available on DOT's website.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The application must be submitted to the Mayor's Office of Neighborhoods ("MON") via to Neighborhood@BaltimoreCity.gov.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>MON will determine whether the proposed honoree meets the required criteria.</text>
+      <para>
+        <num>(1)</num>
+        <text>If approved, MON notifies the Baltimore City Police Department ("BPD") and the Baltimore City Fire Department ("BCFD") of the proposed sign.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Once the sign application is approved,</text>
+        <para>
+          <num>(a)</num>
+          <text>MON will inform the applicant and DOT, and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the applicant shall pay $150 to the Director of Finance, which shall be submitted with the application to DOT Special Events.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Installation of Ceremonial Street Sign.</heading>
+    <para>
+      <num>A.</num>
+      <text>The ceremonial street sign shall be installed within 15 business days from receipt of the payment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>DOT shall fabricate and install the ceremonial sign.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|31">Baltimore City Code Article 31</cite>, §2-9</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>
