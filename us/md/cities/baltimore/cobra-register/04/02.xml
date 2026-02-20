@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02" codify:doc="Code of Baltimore Regulations Annotated">
+  <prefix>Issue</prefix>
+  <num>02</num>
+  <meta>
+    <stub/>
+    <adopted>2026-02-15</adopted>
+    <effective>2026-02-15</effective>
+    <citations>
+      <citation type="issue" url="./02.pdf">Issue 02</citation>
+      <citation type="volume" url="./02.pdf">Volume 04, Issue 02</citation>
+    </citations>
+  </meta>
+  <codify:insert path="05.01" after="07" codified:doc="Code of Baltimore Regulations Annotated" codified:path="05|01|13|.01|annos">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>13</num>
+      <heading>ENERGY CONSERVATION DEVICES</heading>
+      <annotation type="Authority" dest="container">City Code, Article 28, §10-31</annotation>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.01</num>
+        <heading>Scope.</heading>
+        <text><cite path="05.01.13" doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">This chapter</cite> establishes rules and regulations related to the Energy Conservation Devices Tax Credit, including:</text>
+        <para>
+          <num>A.</num>
+          <text>Application processes for obtaining the tax credit;</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Criteria for qualifying for the tax credit;</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>How the tax credit may be applied to the City Real Property Tax on a dwelling;</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Transferability of the tax credit;</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>Criteria for maintaining eligibility for the tax credit; and</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>The effect of other tax credits on how the Energy Conservation Devices Tax Credit is applied to a dwelling.</text>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.02</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>A.</num>
+          <text>In <cite path="05.01.13" doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">this chapter</cite>, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Terms Defined.</text>
+          <para>
+            <num>(1)</num>
+            <text>"Application system" means the Department's online tax credit application system.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>"The Department" means the Baltimore City Department of Finance.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>"Dwelling" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28|§10-31|(a)|(2)">Baltimore City Code Article 28, § 10-31(a)(2)</cite>.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>"Eligible costs" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28|§10-31|(a)|(3)">Baltimore City Code Article 28, § 10-31(a)(3)</cite>.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>"Energy conservation device" means the following, as defined in these regulations:</text>
+            <para>
+              <num>(a)</num>
+              <text>A solar energy device; or</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>A geothermal energy device.</text>
+            </para>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>"Geothermal energy device" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28|§10-31|(a)|(4)">City Code Article 28, § 10-31(a)(4)</cite>.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>"Homeowner" has the meaning stated in Maryland <cite doc="Md. Code" path="gtp|9-105">Tax-Property Article,  § 9-105 </cite>(a)(7).</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>"Solar energy device" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>,  § 10-31(a)(7).</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>"Tax credit" means the Energy Conservation Devices tax credit described in <cite doc="City of Baltimore, Md., Code" path="|28|§10-31">City Code Article 28, § 10-31</cite>.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.03</num>
+        <heading>Description of the Tax Credit.</heading>
+        <para>
+          <num>A.</num>
+          <text>In General.</text>
+          <text>In accordance with <cite doc="City of Baltimore, Md., Code" path="|28|§10-31">City Code Article 28, § 10-31</cite>, the Department shall grant the tax credit against the City property tax imposed on a dwelling to which a solar energy device or geothermal energy device is:</text>
+          <para>
+            <num>(1)</num>
+            <text>Installed; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>In use.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Amount.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Department shall ensure the amount of the tax credit is the lesser of:</text>
+            <para>
+              <num>(a)</num>
+              <text>Fifty percent of an eligible cost up to a maximum of $5,000; or</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Fifty percent of an eligible cost up to a maximum of $1,500, if the energy conservation device is installed exclusively to provide hot water for use in the dwelling.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Department shall ensure the amount of the tax credit applied in a tax year does not exceed the property tax imposed on the dwelling in that tax year.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.04</num>
+        <heading>Application of the Tax Credit.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Department shall ensure the eligibility term of the tax credit is one tax year.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Department may not issue the tax credit until the tax credit application is approved.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A homeowner shall be liable for applicable taxes due prior to receiving the tax credit.</text>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.05</num>
+        <heading>Eligibility Criteria.</heading>
+        <para>
+          <num>A.</num>
+          <text>Homeowner Eligibility.</text>
+          <text>A homeowner shall be eligible for the tax credit if the homeowner:</text>
+          <para>
+            <num>(1)</num>
+            <text>Obtains an energy conservation device through:</text>
+            <para>
+              <num>(a)</num>
+              <text>Purchase; or</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Lease.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Files a Maryland state income tax return as a resident of Baltimore City for the taxable year for which the tax credit is sought; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Submits a timely and complete application in accordance with <cite path="05.01.13.07" doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">Regulation .07 of this chapter</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Dwelling Eligibility.</text>
+          <para>
+            <num>(1)</num>
+            <text>To be eligible for the tax credit, a homeowner shall ensure a dwelling is:</text>
+            <para>
+              <num>(a)</num>
+              <text>Located within the City of Baltimore; and</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The homeowner's principal residence.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Department may deem a dwelling for which an application has been approved eligible for the tax credit starting with the first full-year tax bill issued after the date of the submission of a complete application.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.06</num>
+        <heading>Qualification of Incurred Cost.</heading>
+        <para>
+          <num>A.</num>
+          <text>A cost associated with installing an energy conservation device is incurred on the date that the cost became due.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>An applicant shall present documents showing that the cost was associated with installation of the energy conservation device and the date of installation.</text>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.07</num>
+        <heading>Application.</heading>
+        <para>
+          <num>A.</num>
+          <text>To apply for the tax credit, a homeowner shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>Submit a complete application electronically via the application system located on the Department's website within 12 months of incurring the eligible cost; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Include copies of the following with their application:</text>
+            <para>
+              <num>(a)</num>
+              <text>Documentation showing the date of the acquisition and the date of the installation of the energy conservation device including a:</text>
+              <para>
+                <num>(i)</num>
+                <text>Receipt;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Paid invoice;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Canceled check; or</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>Lease agreement;</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>A notarized affidavit stating that:</text>
+              <para>
+                <num>(i)</num>
+                <text>The property is the homeowner's principal residence;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>The property is expected to be occupied by the homeowner for more than six months of a 12-month period beginning with the date of finality for the tax year for which the credit is sought; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>The costs submitted by the homeowner are related to the installation of the energy conservation device;</text>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>A picture of the installed energy conservation device, including device labels.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The homeowner shall be responsible for ensuring a working internet connection for the duration of application submission.</text>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.08</num>
+        <heading>Transferability.</heading>
+        <para>
+          <num>A.</num>
+          <text>If a property is sold, the Department shall automatically transfer the credit to a subsequent homeowner, if the transfer occurs within the one-year credit eligibility period.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The subsequent homeowner shall ensure that the requirements of <cite path="05.01.13.09" doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">Regulation .09</cite> are met for a transferred credit.</text>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.09</num>
+        <heading>Continuing Eligibility.</heading>
+        <para>
+          <num>A.</num>
+          <text>To remain eligible for the tax credit throughout the one-year period for which the credit is granted, the homeowner shall ensure:</text>
+          <para>
+            <num>(1)</num>
+            <text>The property continues to be the homeowner's principal residence; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The energy conservation device remains in use.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>If a property does not meet the continuing eligibility requirements, the Department shall remove the tax credit from the property's account.</text>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.10</num>
+        <heading>Effect of Other Tax Credits.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Department shall make the calculation of the tax credit prior to the application of another tax credit awarded to the property under the Maryland State Tax-Property Article, §§ <cite doc="Md. Code" path="gtp|9-221">9-221</cite> and <cite doc="Md. Code" path="gtp|9-229">9-229</cite>.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Department shall calculate this tax credit after:</text>
+          <para>
+            <num>(1)</num>
+            <text>The application of a tax credit awarded to the property under Maryland Tax-Property Article §§ <cite doc="Md. Code" path="gtp|9-104">9-104</cite> and <cite doc="Md. Code" path="gtp|9-105">9-105</cite>; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A real property tax credit other than the tax credits specified in <cite path="05.01.13.10|A." doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">Regulation .10(A)</cite>.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <prefix>Regulation</prefix>
+        <num>.11</num>
+        <heading>Limitations.</heading>
+        <para>
+          <num>A.</num>
+          <text>When combined with other tax credits, the Department shall ensure the tax credit does not exceed the amount of City real property tax liability on the dwelling in that tax year.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Department may not award more than one tax credit authorized under Art. 28, §10-31 to a single dwelling.</text>
+        </para>
+      </section>
+    </container>
+  </codify:insert>
+</document>
