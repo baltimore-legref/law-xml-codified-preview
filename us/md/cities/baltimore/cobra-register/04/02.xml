@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02" codify:doc="Code of Baltimore Regulations Annotated">
-  <prefix>Issue</prefix>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="COBRA Register Volume 04, Issue 02" codify:doc="Code of Baltimore Regulations Annotated">
   <num>02</num>
   <meta>
     <stub/>
-    <adopted>2026-02-15</adopted>
-    <effective>2026-02-15</effective>
+    <effective>2026-01-20</effective>
+    <history>
+      <published>2026-02-15</published>
+    </history>
     <citations>
-      <citation type="issue" url="./02.pdf">Issue 02</citation>
-      <citation type="volume" url="./02.pdf">Volume 04, Issue 02</citation>
+      <citation type="COBRAregister" url="./02.pdf">Volume 04, Issue 02</citation>
     </citations>
   </meta>
   <codify:insert path="05.01" after="07" codified:doc="Code of Baltimore Regulations Annotated" codified:path="05|01|13|.01|annos">
@@ -21,7 +21,7 @@
         <prefix>Regulation</prefix>
         <num>.01</num>
         <heading>Scope.</heading>
-        <text><cite path="05.01.13" doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">This chapter</cite> establishes rules and regulations related to the Energy Conservation Devices Tax Credit, including:</text>
+        <text><cite path="05.01.13" doc="COBRA Register Volume 04, Issue 02">This chapter</cite> establishes rules and regulations related to the Energy Conservation Devices Tax Credit, including:</text>
         <para>
           <num>A.</num>
           <text>Application processes for obtaining the tax credit;</text>
@@ -53,7 +53,7 @@
         <heading>Definitions.</heading>
         <para>
           <num>A.</num>
-          <text>In <cite path="05.01.13" doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">this chapter</cite>, the following terms have the meanings indicated.</text>
+          <text>In <cite path="05.01.13" doc="COBRA Register Volume 04, Issue 02">this chapter</cite>, the following terms have the meanings indicated.</text>
         </para>
         <para>
           <num>B.</num>
@@ -185,7 +185,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Submits a timely and complete application in accordance with <cite path="05.01.13.07" doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">Regulation .07 of this chapter</cite>.</text>
+            <text>Submits a timely and complete application in accordance with <cite path="05.01.13.07" doc="COBRA Register Volume 04, Issue 02">Regulation .07 of this chapter</cite>.</text>
           </para>
         </para>
         <para>
@@ -293,7 +293,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>The subsequent homeowner shall ensure that the requirements of <cite path="05.01.13.09" doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">Regulation .09</cite> are met for a transferred credit.</text>
+          <text>The subsequent homeowner shall ensure that the requirements of <cite path="05.01.13.09" doc="COBRA Register Volume 04, Issue 02">Regulation .09</cite> are met for a transferred credit.</text>
         </para>
       </section>
       <section>
@@ -334,7 +334,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>A real property tax credit other than the tax credits specified in <cite path="05.01.13.10|A." doc="Code of Baltimore Regulations Annotated Register Volume 04, Issue 02">Regulation .10(A)</cite>.</text>
+            <text>A real property tax credit other than the tax credits specified in <cite path="05.01.13.10|A." doc="COBRA Register Volume 04, Issue 02">Regulation .10(A)</cite>.</text>
           </para>
         </para>
       </section>

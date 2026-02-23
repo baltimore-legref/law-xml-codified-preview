@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Code of Baltimore Regulations Annotated Register Volume 03, Issue 05">
-  <prefix>Issue</prefix>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="COBRA Register Volume 03, Issue 05">
   <num>05</num>
   <meta>
     <stub/>
-    <adopted>2025-05-15</adopted>
-    <effective>2025-05-15</effective>
+    <history>
+      <published>2025-05-15</published>
+    </history>
     <citations>
-      <citation type="issue" url="./05.pdf">Issue 05</citation>
-      <citation type="volume" url="./05.pdf">Volume 03, Issue 05</citation>
+      <citation type="COBRAregister" url="./05.pdf">Volume 03, Issue 05</citation>
     </citations>
   </meta>
 </document>
