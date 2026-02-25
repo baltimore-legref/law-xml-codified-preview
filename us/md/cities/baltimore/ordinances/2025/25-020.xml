@@ -328,7 +328,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act B Regulations"} of the City General Provisions Article, the Baltimore City Health Department or another City entity tasked with enforcement of this subtitle, may shall adopt rules and regulations to carry out the provisions of this subtitle and <cite doc="City of Baltimore, Md., Code" path="health|§8-402">§ 8-402</cite> of this title.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act B Regulations"} of the City General Provisions Article, the Baltimore City Health Department or another City entity tasked with enforcement of this subtitle, shall adopt rules and regulations to carry out the provisions of this subtitle and <cite doc="City of Baltimore, Md., Code" path="health|§8-402">§ 8-402</cite> of this title.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -365,7 +365,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <heading>Requirements</heading>
+            <heading>Requirements.</heading>
             <text>A special enforcement officer may find that a person, individual, contractor, or subcontractor has violated the provisions of <cite doc="City of Baltimore, Md., Code" path="health|§8-302">§ 8-302</cite> {"Prohibition of gas-powered debris removal equipment"} of this title if the special enforcement officer:</text>
             <para>
               <num>(i)</num>
@@ -380,7 +380,14 @@
         <para>
           <num>(c)</num>
           <heading>Subsequent offense.</heading>
-          <text>A person, individual, contractor, or subcontractor who commits a subsequent offense is subject to a fine of $250 for each subsequent offense.</text>
+          <para>
+            <num>(1)</num>
+            <text>A person, individual, contractor, or subcontractor who commits a subsequent offense is subject to a fine of $250 for each subsequent offense.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Each day that a violation continues is a separate offense.</text>
+          </para>
         </para>
       </section>
     </codify:replace>

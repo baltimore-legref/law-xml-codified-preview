@@ -1311,7 +1311,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <heading>Medically necessary</heading>
+          <heading>Medically necessary.</heading>
           <text>"Medically necessary" means that a health service is:</text>
           <para>
             <num>(1)</num>
@@ -1481,7 +1481,7 @@
       </section>
       <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
       <annotations>
-        <annotation type="Editor's Notes">Ordinance 25-016 (effective August 25, 2025) numbered sections in this subtitle with the structure "[subtitle_number]-[section_number]" (e.g. "§  6-101"). This structure does not follow the numbering conventions for sections in the Health Code. The proper structure is "[title number]-[subtitle number][section number]" (e.g. "§ 3-601"). The section numbers have been updated to follow the correct numbering convention.</annotation>
+        <annotation type="Editor's Notes">Ordinance 25-016 (effective August 25, 2025) numbered sections in this subtitle with the structure "[subtitle_number]-[section_number]" (e.g. "§ 6-101"). This structure does not follow the numbering conventions for sections in the Health Code. The proper structure is "[title number]-[subtitle number][section number]" (e.g. "§ 3-601"). The section numbers have been updated to follow the correct numbering convention.</annotation>
         <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
       </annotations>
     </container>
@@ -8722,7 +8722,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act B Regulations"} of the City General Provisions Article, the Baltimore City Health Department or another City entity tasked with enforcement of this subtitle, may shall adopt rules and regulations to carry out the provisions of this subtitle and <cite path="health|§8-402">§ 8-402</cite> of this title.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act B Regulations"} of the City General Provisions Article, the Baltimore City Health Department or another City entity tasked with enforcement of this subtitle, shall adopt rules and regulations to carry out the provisions of this subtitle and <cite path="health|§8-402">§ 8-402</cite> of this title.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -8796,7 +8796,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <heading>Requirements</heading>
+            <heading>Requirements.</heading>
             <text>A special enforcement officer may find that a person, individual, contractor, or subcontractor has violated the provisions of <cite path="health|§8-302">§ 8-302</cite> {"Prohibition of gas-powered debris removal equipment"} of this title if the special enforcement officer:</text>
             <para>
               <num>(i)</num>
@@ -8811,7 +8811,14 @@
         <para>
           <num>(c)</num>
           <heading>Subsequent offense.</heading>
-          <text>A person, individual, contractor, or subcontractor who commits a subsequent offense is subject to a fine of $250 for each subsequent offense.</text>
+          <para>
+            <num>(1)</num>
+            <text>A person, individual, contractor, or subcontractor who commits a subsequent offense is subject to a fine of $250 for each subsequent offense.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Each day that a violation continues is a separate offense.</text>
+          </para>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
