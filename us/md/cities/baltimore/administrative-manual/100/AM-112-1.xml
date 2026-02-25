@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-112-1</num>
+  <heading>Public Use of City Hall</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Because Baltimore City Hall is listed on the National Register of Historic Places as one of the country's historic and architectural treasures, certain guidelines have been established for appropriate use of the building. Also, security measures are in place for safety reasons and must be adhered to by all visitors, employees, and elected officials.</text>
+  </para>
+  <para name="tours">
+    <heading>TOURS</heading>
+    <text>Because of security measures, all tours must be pre-arranged. The Curator for City Hall, Office of the Mayor, schedules all tours of City Hall and makes arrangements with security personnel. Any group or individual interested in touring City Hall may contact the Curator at 410-396- 4947.</text>
+  </para>
+  <para name="assembly-room">
+    <heading>ASSEMBLY ROOMS</heading>
+    <text>The assembly rooms in City Hall are restricted to use by City agencies. Assembly Rooms include the Rotunda, the City Hall Courtyard Galleries, the Curran Room and the Reeves Room.</text>
+    <text>The Rotunda and the City Hall Courtyard Galleries may be scheduled by contacting the Curator at 410-396- 4947. Use of these rooms by non-City government groups or individuals will not be considered. The Curran Room and the Reeves Room are scheduled by the City Council President's Office by contacting 410-396-4804.</text>
+    <text>City personnel sponsoring use of assembly room space in City Hall must notify the Mayor's Executive Protection Unit in adequate advance of the usage and provide pertinent information. For additional information on the requirements, contact the Executive Protection Unit at 410-396-4373.</text>
+    <text>All members of groups and/or city employees attending functions in City Hall assembly rooms must comply with the security measures posted at the entrance of City Hall, including presenting photo identification upon request.</text>
+  </para>
+  <para name="solicitation">
+    <heading>SOLICITATION</heading>
+    <text>No solicitation in City Hall is permitted except for programs specifically sanctioned by the City Administration, e.g., U.S. Savings Bonds, Combined Charities, etc.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
+    <annotation type="History" effective="2016-10-26" display="true">October 26, 2016</annotation>
+  </annotations>
+</section>

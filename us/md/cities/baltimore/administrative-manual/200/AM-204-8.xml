@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-8</num>
+  <heading>Leave of Absence: Bereavement</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy governs leave of absence with pay for a City employee who experiences a death in the immediate family and establishes leave of absence with pay for death of other relatives. Any subsequent change to the policy is dependent upon the negotiated agreement between the Mayor and City Council and the employee's designated bargaining unit.</text>
+  </para>
+  <para name="immediate-family">
+    <heading>IMMEDIATE FAMILY</heading>
+    <text>For purposes of this policy, the immediate family includes the employee's:</text>
+    <text class="text-indent-1">
+      <ul>
+        <li>Mother</li>
+        <li>Father</li>
+        <li>Sister</li>
+        <li>Brother</li>
+        <li>Spouse</li>
+        <li>Children</li>
+        <li>Mother-in-law</li>
+        <li>Father-in-law</li>
+        <li>Registered Domestic Partner</li>
+        <li>Step or half-blood relationships</li>
+      </ul>
+    </text>
+    <text>In certain instances, the leave of absence with pay benefit for death in the immediate family may include other specified individual(s), such as grandparent and/or grandchild, as part of the immediate family, depending upon the employee's bargaining unit.</text>
+  </para>
+  <para name="leave-entitlement">
+    <heading>LEAVE ENTITLEMENT</heading>
+    <text>Four (4) consecutive working days' leave with pay shall be granted upon request in the event of a death in an employee's immediate family, as cited in the section "Immediate Family." The four (4) days shall commence at the option of the employee on the date of death or the day following the day of death, or in conjunction with a memorial or funeral service.</text>
+    <text>Employees who require additional time off beyond these four (4) days may request and may be granted additional reasonable time off charged to vacation or personal leave, or compensatory time.</text>
+  </para>
+  <para name="other-relatives">
+    <heading>OTHER RELATIVES</heading>
+    <text>A city employee may be entitled to one (1) days' leave of absence with pay for the death of other relatives, e.g. aunt, uncle, grandparent, grandchildren, etc., depending upon the employee's bargaining unit. Other relatives for whom a City employee may be authorized bereavement leave are specified by the employee's designated bargaining unit.</text>
+    <text>In this instance, the one (1) days' leave must be taken at the option of the employee within four (4) calendar days of the date of death or the day following the day of death, or in conjunction with a memorial or funeral service.</text>
+  </para>
+  <para name="exceptions-to-this-policy">
+    <heading>EXCEPTIONS TO THIS POLICY</heading>
+    <text>An employee who divorces his or her spouse is no longer entitled to bereavement leave for the death of a former spouse or the parents of a former spouse. Great grandparents are not covered under this policy. The death of an aunt, uncle, brother or sister of an employee's spouse is not covered under this policy. Common law marriages are not valid in the State of Maryland. Therefore, this policy does not cover the death of a common law spouse.</text>
+  </para>
+  <para name="verification">
+    <heading>VERIFICATION</heading>
+    <text>A leave of absence with pay granted for death in the immediate family or other relatives is subject to reasonable verification upon request of the immediate supervisor.</text>
+  </para>
+  <para name="payroll-markings">
+    <heading>PAYROLL MARKINGS</heading>
+    <text>Appropriate payroll markings should be used in recording attendance and marking the PAYROLL ATTENDANCE REPORT (147-093) which is submitted to the Bureau of Accounting and Payroll Services. The designated code of "P", Permission, should be entered next to the appropriate date(s) with an explanation of the marking in the "REMARKS" column.</text>
+  </para>
+  <annotations>
+    <annotation type="Related Policies">AM-216-1 DEATH BENEFITS</annotation>
+    <annotation type="Related Policies">AM-204-29 DOMESTIC PARTNERS BENEFITS</annotation>
+    <annotation type="History" effective="1989-03-01">March 1, 1989</annotation>
+    <annotation type="History" effective="2000-09-14">September 14, 2000</annotation>
+  </annotations>
+</section>

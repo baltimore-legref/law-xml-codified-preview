@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-108-1</num>
+  <heading>New Employee Orientation</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Department of Human Resources administers a monthly orientation program for new employees, which provides information to assist them in selecting health insurance, retirement options and financial resources. The program also covers the City's personnel policies and procedures including attendance, leave and work performance.</text>
+  </para>
+  <para name="program-topics">
+    <heading>PROGRAM TOPICS</heading>
+    <text>Specific topics covered during the program's full-day session include:</text>
+    <text class="text-indent-1">
+      <ul>
+        <li>Employee Health Benefits</li>
+        <li>Employee Assistance Program</li>
+        <li>Occupational Safety</li>
+        <li>Attendance Standards Policy</li>
+        <li>Workplace Violence Policy</li>
+        <li>Substance Abuse Policy</li>
+        <li>Sexual Harassment Policy</li>
+        <li>Office of the Inspector General: Prevention of waste, fraud, abuse, and misconduct in City government</li>
+        <li>City of Baltimore Deferred Compensation Plan</li>
+        <li>Municipal Employees Credit Union</li>
+        <li>Pre-Retirement Education</li>
+        <li>Union Information</li>
+      </ul>
+    </text>
+  </para>
+  <para name="attendance">
+    <heading>ATTENDANCE</heading>
+    <text>All new permanent employees are scheduled to attend the orientation program within the first 60 days of their employment. Employees will be notified in writing of the date and location of their scheduled program. Agency Human Resource Representatives will also be notified of the date and location of the orientation programs scheduled for their employees. Employees must complete the registration form and submit it to their supervisor prior to attending orientation. The supervisor must then sign-off and fax it to DHR Training Division at 410-545-3289.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1997-08-19" display="true">August 19, 1997</annotation>
+    <annotation type="History" effective="2008-03-05" display="true">March 5, 2008</annotation>
+  </annotations>
+</section>

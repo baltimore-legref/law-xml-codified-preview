@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-4</num>
+  <heading>Vacation and Personal Leave</heading>
+  <text>The City of Baltimore offers a comprehensive benefits package to its employees, including vacation and personal leave.  Paid time off encourages and supports a healthy work-life balance, and helps the City attract and retain talented employees.  This policy explains the City's vacation and personal leave paid time off benefits.</text>
+  <para name="eligibility">
+    <num>I.</num>
+    <heading>ELIGIBILITY</heading>
+    <text>Regular full-time Civil Service and non-Civil Service employees are eligible for the City's vacation and personal leave benefits.  Temporary employees are not eligible to receive the City's vacation or personal leave benefits.  Part-time employees may be eligible for leave as detailed below.</text>
+    <text>Part-time employees who are members of City Union of Baltimore ("CUB") Local 800 Unit I and Unit II, and the American Federation of State, County, and Municipal Employees ("AFSCME") Local 44, 558, and 2202 are eligible for the City's vacation and personal leave benefits in accordance with the provisions of their respective Agreements.</text>
+    <text>Employees in the Managerial and Professional Society of Baltimore, Inc. ("MAPS") who are appointed to regular positions and are working less than full-time work hours as of June 30, 2015, will continue to receive vacation and personal leave benefits.  MAPS employees who begin working less than a full-time work week after June 30, 2015 or employees that become members of MAPS after June 30, 2015 who are working less than a full-time work week are not eligible for the City vacation and personal leave benefit and shall no longer receive vacation and personal leave.</text>
+  </para>
+  <para name="administration">
+    <num>II.</num>
+    <heading>ADMINISTRATION</heading>
+    <text>The City's vacation and personal leave benefits are administered on a July 1<sup>st</sup> to June 30<sup>th</sup> fiscal calendar.  Vacation and personal leave are accrued on a monthly basis for full-time employees and on a 160 work hour basis for eligible part-time employees.  Employees will receive payment for unused vacation and personal leave in accordance with Section VII of this policy.</text>
+  </para>
+  <para name="vacation-leave">
+    <num>III.</num>
+    <heading>VACATION LEAVE</heading>
+    <text>Eligible full-time and eligible part-time employees will accrue vacation leave according to the appropriate step on the Accrual Schedule.  The maximum amount of vacation leave an employee may accrue is 45 days.  Accrued leave is available for use in accordance with subsection V of this policy.</text>
+    <para>
+      <num>A.</num>
+      <heading>Leave Accrual</heading>
+      <text>The vacation leave accrual rate is determined by the employee's status (full-time or part-time), length of continuous service, and service anniversary date.  Employees will be placed in a step on the accrual schedule based on all three factors.</text>
+      <para>
+        <num>1.</num>
+        <heading>Accrual Schedule</heading>
+        <text>The accrual schedule is separated into five steps corresponding to an employee's length of continuous service.</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td rowspan="2"/>
+                <th rowspan="2">Length of Continuous Service</th>
+                <th colspan="2">Status</th>
+              </tr>
+              <tr>
+                <th>Eligible Full-time</th>
+                <th>Eligible Part-time</th>
+              </tr>
+              <tr>
+                <th>Step 1</th>
+                <td>0-5 years</td>
+                <td>1 day per month, maximum of 12 days per year</td>
+                <td>1 day per 160 hours worked, maximum of 10 days per year</td>
+              </tr>
+              <tr>
+                <th>Step 2</th>
+                <td>6-10 years</td>
+                <td>1.25 days per month, maximum of 15 days per year</td>
+                <td>1.25 days per 160 hours worked, maximum of 13 days per year</td>
+              </tr>
+              <tr>
+                <th>Step 3</th>
+                <td>11-13 years</td>
+                <td>1.5 days per month, maximum of 18 days per year</td>
+                <td>1.5 days per 160 hours worked, maximum of 15 days per year</td>
+              </tr>
+              <tr>
+                <th>Step 4</th>
+                <td>14-18 years</td>
+                <td>1.75 days per month, maximum of 21 days per year</td>
+                <td>1.75 days per 160 hours worked, maximum of 18 days per year</td>
+              </tr>
+              <tr>
+                <th>Step 5</th>
+                <td>19 +</td>
+                <td>2 days per month, maximum of 24 days per year</td>
+                <td>2 days per 160 hours worked, maximum of 20 days per year</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>2.</num>
+        <heading>Length of Continuous Service</heading>
+        <text>Length of continuous service is calculated from the first day of appointment to a regular Civil Service or Non-Civil Service position.</text>
+        <text>Prior City employment will qualify as continuous service if the employee was appointed to a regular Civil Service or Non-Civil Service position, but:</text>
+        <text class="text-indent-3">
+          <ul>
+            <li>Was laid off due to lack of work or funds and rehired into a regular position within one (1) year of separation;</li>
+            <li>Had a break in service of twenty-nine (29) working days or less; or</li>
+            <li>Was granted a leave of absence without pay and was reinstated within ten (10) days of the expiration of such leave.</li>
+          </ul>
+        </text>
+      </para>
+      <para>
+        <num>3.</num>
+        <heading>Service Anniversary Date</heading>
+        <text>An employee's Service Anniversary Date is the initial date of appointment to a regular Civil Service or non-Civil Service position.  An Employee's accrual rate is applied in accordance with the employee's Service Anniversary Date.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <heading>Change in Full-time or Part-time Status</heading>
+        <text>Eligible employees whose status changes during the fiscal year will accrue vacation leave according to the Accrual Schedule beginning on the date the change in status becomes effective.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Leave Maintenance</heading>
+      <text>Each employee's cumulative vacation leave shall be held in the Vacation Account and Legacy Vacation Account, if any, as described in subsections III(B)(1) and (2) below.  The Vacation Account and Legacy Vacation Account shall only be used by the employee for whom the account was created.</text>
+      <para>
+        <num>1.</num>
+        <heading>Vacation Account</heading>
+        <text>The Vacation Account is used to store an eligible employees' vacation leave accrued after July 1, 2015.  The maximum amount of vacation leave an employee may accrue and carry forward is 45 days.  Vacation leave held in the Vacation Account is available for use in accordance with subsection V of this policy.  When an employee has accrued 45 days of vacation leave in the Vacation Account the employee shall not accrue additional vacation leave until the Vacation Account balance is reduced below the 45 day maximum.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <heading>Legacy Vacation Account</heading>
+        <text>Individuals employed with the City as of June 30, 2015 who have unused vacation leave balances will have a Legacy Vacation Account to store eligible employees' unused vacation leave balance.  Eligible employees will have all previously accumulated vacation leave transferred into the Legacy Vacation Account on July 1, 2015.  Employees shall not transfer any vacation leave accrued after June 30, 2015 into the Legacy Vacation Account.  The Legacy Vacation Account is available for use upon exhaustion of the leave stored in the Vacation Account.  Legacy Vacation Accounts shall be permanently closed upon reaching a zero balance.</text>
+        <text>Individuals beginning employment with the City after June 30, 2015 shall not have a Legacy Vacation Account.</text>
+      </para>
+    </para>
+  </para>
+  <para name="personal-leave">
+    <num>IV.</num>
+    <heading>PERSONAL LEAVE</heading>
+    <text>Eligible full-time employees will receive credit for the maximum annual personal leave allowance on July 1<sup>st</sup> of each year.  Full-time employees appointed after July 1<sup>st</sup> of each fiscal year will receive credit for a prorated maximum personal leave allowance on the first day of employment.</text>
+    <text>Eligible part-time employees will accrue personal leave according to subsection IV(A) beginning on the first day of employment.</text>
+    <para>
+      <num>A.</num>
+      <heading>Personal Leave Accrual Rate</heading>
+      <text>The personal leave accrual rate is based on the employee's status.  Eligible full-time employees earn a quarter day of personal leave per month.  Eligible part-time employees earn a quarter day of personal leave for every 160 hours worked.  Both full-time and part-time employees have a maximum annual accrual of three (3) days per fiscal year, except in the limited circumstances where the City has entered into a separate agreement with a recognized employee bargaining unit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Leave Maintenance</heading>
+      <text>Employees' personal leave allowance shall be held in the Personal Account and the Legacy Personal Account, if applicable.  Personal leave accounts shall only be used by the employee for whom the account was created.</text>
+      <para>
+        <num>1.</num>
+        <heading>Personal Account</heading>
+        <text>The Personal Account is used to hold employees' current year leave allowance beginning after July 1, 2015.  Eligible full-time employees' maximum personal leave allowance for the fiscal year is deposited into the Personal Account on July 1<sup>st</sup> of each fiscal year.</text>
+        <text>Eligible part-time employees personal leave accrued during the current fiscal year will be held in the Personal Account.</text>
+        <text>The Personal Account shall not exceed the maximum personal leave allowance described in section IV(A) in any fiscal year.  Personal Leave Account balances may only be used in the year in which they are accrued.  Personal Account leave balances are non-transferable.  The balance of leave remaining in the Personal Account at the end of each fiscal year will be forfeited.</text>
+        <text>Personal leave stored in the Personal Account is available for immediate use in accordance with subsection V.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <heading>Legacy Personal Account</heading>
+        <text>A Legacy Personal Account shall be created for employees with unused personal leave balances as of June 30, 2015.  The employee's unused personal leave shall be transferred into the Legacy Personal Account on July 1, 2015, with no additional transfers permitted after July 1, 2015.  The account is available for use upon exhaustion of the leave held in the Personal Account.  Legacy Personal Accounts shall be permanently closed upon reaching a zero balance.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <heading>Change in Status</heading>
+        <text>Eligible employees that change status from full-time to part-time during the current fiscal year will have their Current Year Personal Account reduced to the total number of days the employee accrued based on the hours worked according to subsection IV(A).</text>
+        <text>Eligible employees that change status from part-time to full-time during the current fiscal year will be credited with the difference between the maximum personal leave allowance for the fiscal year corresponding to their step and the total days they accrued while in part-time status.</text>
+        <text>Adjustments to an employee's leave balance based on an employee's change in status will be made by the Bureau of Accounting and Payroll.</text>
+      </para>
+    </para>
+  </para>
+  <para name="LEAVE-USAGE">
+    <num>V.</num>
+    <heading>Leave Usage</heading>
+    <text>Employees must obtain approval prior to using personal or vacation leave.  Personal and vacation leave can be used for any absence.  A full day is equivalent to the number of paid hours in a single shift for each employee based on the employee's labor union or professional association affiliation.  A three work day notice is needed for all requests for personal leave.  A three work day notice is needed for all requests for vacation leave of less than one work week.  A one work week notice is needed for all requests for vacation leave of more than one work week.</text>
+    <text>All reasonable requests for leave shall be considered and approved, unless doing so would result in demonstrable operational hardship.</text>
+    <para>
+      <num>A.</num>
+      <heading>Prohibited Usage</heading>
+      <text>Employees serving their initial probationary period are prohibited from using vacation leave during the first 6 months (180 days) of employment.  Employees who transfer from a regular position to a temporary position will receive payment for vacation and personal leave in accordance with Section VIII of this policy.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Religious Accommodation</heading>
+      <text>Agencies must grant all requests for personal leave for religious activities, regardless of seniority, unless doing so would result in demonstrably severe operational hardship.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Executive Orders</heading>
+      <text>No employee shall be charged for pre-scheduled leave on days the City closes due to an Executive Order.  Employees shall be charged the full pre-scheduled leave on days the City works on a modified schedule due to an Executive Order.</text>
+    </para>
+  </para>
+  <para name="out-of-pay-status">
+    <num>VI.</num>
+    <heading>OUT OF PAY STATUS</heading>
+    <text>Employees shall not accrue vacation or personal leave while in an out of pay status.</text>
+    <text>Full-time employees shall have their Personal Account reduced according to the appropriate accrual rate for the period in which the employee is in an out of pay status.  Full-time employees that use more leave than they accrue during the fiscal year because of their out of pay status will owe the City for the amount of unearned leave used.  To collect the balance of any unearned leave used by an employee, the City will (1) deduct an equal period of time from the employees other accrued leave on June 30 of the fiscal year or (2) deduct an equal period of time from the employee's accounts when the employee returns to paid status.</text>
+  </para>
+  <para name="military-leave">
+    <num>VII.</num>
+    <heading>MILITARY LEAVE</heading>
+    <text>Employees who are granted a military leave of absence may elect: (1) to use accrued vacation and personal leave during their absence in accordance with AM 204-11 Military Leave, or (2) retain any vacation and personal leave accrued prior to their military leave of absence for credit to their leave account upon reinstatement to City service.</text>
+  </para>
+  <para name="separation-from-employment">
+    <num>VIII.</num>
+    <heading>SEPARATION FROM EMPLOYMENT</heading>
+    <text>Employees shall receive payment for vacation and personal leave upon separation of employment as set forth in VIII (A) and (B) below.  The rate of pay shall be based on the employee's regular rate of pay at the time of separation.  Any employee who uses unearned leave shall owe the City for the amount of unearned leave used.  The City will (1) withhold money from the employee's final leave payout, (2) deduct an equal period of time from the employee's other accrued leave, or (3) pursue legal action when necessary to recover the value of the used but unearned leave.</text>
+    <para>
+      <num>A.</num>
+      <heading>Vacation Leave</heading>
+      <text>Employees shall receive payment for the balance of unused vacation leave in their Legacy Vacation Account or a maximum of 45 days from the combination of the Legacy Vacation Account and Vacation Account, whichever is greater.</text>
+      <text>Employees that do not have a Legacy Vacation Account shall receive payment for the balance of unused leave in their Vacation Account.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Personal Leave</heading>
+      <text>Employees shall receive payment for the balance of unused leave in the Legacy Personal Account only.</text>
+    </para>
+  </para>
+  <para name="authority">
+    <num>IX.</num>
+    <heading>AUTHORITY</heading>
+    <text>The City of Baltimore Department of Human Resources issues this policy pursuant to the authority of <cite doc="City of Baltimore, Md., Charter">the Charter of Baltimore City</cite>, Article VI, Section 12.</text>
+  </para>
+  <annotations>
+    <annotation type="Related Policies">AM-204-1 Annual Holidays</annotation>
+    <annotation type="Related Policies">AM-204-12 Length of Service</annotation>
+    <annotation type="Related Policies">AM-204-13 Time Off by Executive Order</annotation>
+    <annotation type="Related Policies">AM-204-30 Determination of Benefits</annotation>
+    <annotation type="Related Policies">AM-205-7 Separation and Payment at Termination</annotation>
+    <annotation type="Related Policies">AM-208-1 Leave of Absence without Pay</annotation>
+    <annotation type="History" effective="2008-05-07" display="true">May 7, 2008</annotation>
+    <annotation type="History" effective="2015-07-01" display="true">July 1, 2015 - also replaced AM-204-2 [March 3, 2008]</annotation>
+  </annotations>
+</section>

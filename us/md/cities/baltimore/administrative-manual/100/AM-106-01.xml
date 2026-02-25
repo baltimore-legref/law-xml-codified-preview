@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-106-01</num>
+  <heading>Safety Program</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy applies to all City employees (Civil Service and non-Civil Service).  The purpose of this policy is to outline the major responsibilities of the Office of Risk Management/Division of Occupational Safety (Department of Finance), agency heads, agency safety personnel, and all City employees in accomplishing the objectives of the City of Baltimore Safety Program.</text>
+  </para>
+  <para name="office-of-risk-management/division-of-occupational-safety-responsibilities">
+    <heading>OFFICE OF RISK MANAGEMENT/DIVISION OF OCCUPATIONAL SAFETY RESPONSIBILITIES</heading>
+    <text>The Office of Risk Management/ Division of Occupational Safety (ORM/DOS) is responsible for developing and administering a Citywide Safety Program for the prevention of accidents, illnesses, and injuries.  This responsibility includes:</text>
+    <text class="text-indent-1">
+      <ul>
+        <li>Developing and monitoring safety programs in City agencies, boards, and commissions.</li>
+        <li>Working with agency safety personnel to assure the effectiveness of their safety programs.</li>
+        <li>Ensuring compliance with City safety policies, and state and federal occupational safety regulations by agencies, boards, and commissions.</li>
+        <li>Advising the Mayor, the Director of Finance and agencies on safety matters, laws, and regulations.</li>
+        <li>Investigating and reporting occupational injuries and illnesses, and maintaining a record system of such cases.</li>
+        <li>Maintaining relationships with appropriate regulatory agencies and organizations. For example, DOS Liaison maintains a relationship with the Maryland Occupational Safety and Health Administration (MOSH).</li>
+        <li>Developing and maintaining professional educational programs for all safety personnel and City supervisors (where applicable).</li>
+        <li>Issuing the City of Baltimore Driver Permits and monitoring driver status and compliance with regulations and City policy, AM-501-2, Training Courses, Driver Permits, Authorizations and Licenses for City-Owned Vehicles.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="agency-head-responsibilities">
+    <heading>AGENCY HEAD RESPONSIBILITIES</heading>
+    <text>Agency heads are responsible for the safety of their personnel and for ensuring that all personnel within their agencies comply with the City of Baltimore Safety Program.</text>
+  </para>
+  <para name="agency-safety-personnel-responsibilities">
+    <heading>AGENCY SAFETY PERSONNEL RESPONSIBILITIES</heading>
+    <text>Under the direction of their agency heads, safety personnel are responsible for implementing their agencies' safety programs.</text>
+  </para>
+  <para name="employee-responsibilities">
+    <heading>EMPLOYEE RESPONSIBILITIES</heading>
+    <text>All City employees must comply with the City of Baltimore Safety Program by following safe practices, obeying all safety rules, and taking an active role in promoting safety within their work areas. For additional information, contact the Office of Risk Management/Division of Occupational Safety, Department of Finance, at 410-396-4311 or 410-396-5115.</text>
+    <text><strong>Office of Risk Management<br/>Division of Occupational Safety</strong><br/>401 E. Fayette Street, Suite 700<br/>Baltimore, MD  21202<br/>Phone: 	410-396-4311 or 410-396-5115<br/>Fax: 410-396-7278 or 410-396-1071</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2003-05-28" display="true">May 28, 2003</annotation>
+    <annotation type="History" effective="2012-10-03" display="true">October 3, 2012</annotation>
+  </annotations>
+</section>
