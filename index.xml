@@ -16,10 +16,10 @@
     <history-start>2024-03-13</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="baltimore-legref/law-xml" commit="505db86fdd0eac0ebc06a28a5f141f2259d666e3"/>
+        <repository name="baltimore-legref/law-xml" commit="52672f9375f0e30c9e550c92448705362a9cf942"/>
       </repositories>
-      <platform version="2.18.16.dev592" reproducible="false"/>
-      <build-date>2026-02-26</build-date>
+      <platform version="2.18.16" reproducible="false"/>
+      <build-date>2026-02-27</build-date>
       <codified-date>2026-09-15</codified-date>
     </build>
   </meta>
@@ -55,5 +55,4 @@
     <heading>Historic Council Rules</heading>
     <xi:include href="./us/md/cities/baltimore/council/sessions/2020/rules/index.xml"/>
   </collection>
-  <xi:include href="./us/md/cities/baltimore/administrative-manual/index.xml"/>
 </library>
