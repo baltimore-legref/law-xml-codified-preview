@@ -8,4 +8,13 @@
   <xi:include href="./03/index.xml"/>
   <xi:include href="./07/index.xml"/>
   <xi:include href="./09/index.xml"/>
+  <attachments>
+    <heading>Incorporated By Reference Documents</heading>
+    <attachment name="book-of-standards-2025" url="/us/md/cities/baltimore/cobra/attachments/14-Book_of_Standards_2025.pdf">
+      <heading>Book of Standards 2025</heading>
+    </attachment>
+    <attachment name="complete-streets-2021" url="/us/md/cities/baltimore/cobra/attachments/14-Complete_Streets_2021.pdf">
+      <heading>Complete Streets 2021</heading>
+    </attachment>
+  </attachments>
 </container>

@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>02</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>General.</heading>
+    <para>
+      <num>A.</num>
+      <text>Authority and Rules.</text>
+      <text>These rules and regulations are promulgated by the Baltimore City Planning Commission pursuant to <a href="https://legislativereference.baltimorecity.gov/sites/default/files/01%20-%20Charter_0.pdf">City Charter</a> Article VII, §72(a).</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Amendments.</text>
+      <para>
+        <num>(1)</num>
+        <text>Webpage links, which have been inserted in these regulations for the convenience of readers, may be added, deleted, or updated as needed by Department of Planning staff without the need for Planning Commission approval, as they are not substantive changes.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>These rules may be amended by a majority vote of the entire Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Suspension of Rules.</text>
+      <text>These rules may be suspended by a majority vote of the entire Commission.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Meetings and Attendance.</heading>
+    <para>
+      <num>A.</num>
+      <text>Regular Meetings.</text>
+      <para>
+        <num>(1)</num>
+        <text>Regular meetings of the Planning Commission shall be held in accordance with a schedule:</text>
+        <para>
+          <num>(a)</num>
+          <text>presented by the Director of Planning to the Commission; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>duly adopted by the Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Meetings will normally begin:</text>
+        <para>
+          <num>(a)</num>
+          <text>at 1:00 p.m., in the Commission Board Room;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>or at such other time and location the Chairperson (the President) designates.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Special Meetings.</text>
+      <text>Special meetings of the Planning Commission will be called by the Chairperson at the written request of three Commissioners.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Cancellation of Meetings.</text>
+      <text>The Chairperson may cancel any meeting:</text>
+      <para>
+        <num>(1)</num>
+        <text>with the concurrence of most Commissioners; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>by posting cancellation notice on the <a href="https://planning.baltimorecity.gov/planning-resources">Department of Planning's webpage</a>at least 48 hours before the scheduled start of the meeting.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Notice of Meetings.</text>
+      <para>
+        <num>(1)</num>
+        <text>Publication of meetings.</text>
+        <text>Notice of regular and special meetings shall be published on the <a href="https://planning.baltimorecity.gov/">Department of</a>at least ten days before the scheduled start of the meeting.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Distribution to Commissioners.</text>
+        <para>
+          <num>(a)</num>
+          <text>In general.</text>
+          <text>A schedule of regular meetings shall be distributed:</text>
+          <para>
+            <num>(i)</num>
+            <text>following the adoption of the schedule; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>after changes to the schedule are made.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Distribution to new Commissioners.</text>
+          <text>A schedule of regular meetings shall be distributed to new Commissioners following their appointment to the Planning Commission.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Open Meetings.</text>
+      <text>All regular and special Commission meetings shall be open to the general public in accordance with the Maryland Open Meetings Act.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Working sessions.</text>
+      <text>The regular meetings or special meetings of the Commission may be preceded by a working session that shall be open to the general public in accordance with the Maryland Open Meetings Act at which the Commission may:</text>
+      <para>
+        <num>(1)</num>
+        <text>discuss matters of general interest;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>hear staff presentations on departmental activities; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>by invitation of the Chairperson on matters of general interest and concern to the Commission, hear presentations by citizens or representatives of other governmental agencies.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Rules of Order.</text>
+      <text>Meetings shall be conducted according to Robert's Rules of Order Revised, unless a different procedure is adopted by a majority vote of the Commissioners.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Public Comments.</text>
+      <text>Any party in attendance wishing to make statements regarding matters under consideration by the Commission may do so under procedures established by the Chairperson:</text>
+      <para>
+        <num>(1)</num>
+        <text>at the beginning of the meeting; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>at the beginning of a specific agenda item.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Agenda.</text>
+      <para>
+        <num>(1)</num>
+        <text>Regular meeting agenda.</text>
+        <text>The Director of Planning is responsible for establishing the Planning Commission agenda for each regular meeting.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Special meeting agenda.</text>
+        <text>For special meetings called at the request of three or more Commissioners, the Commissioners for whom the meeting was called will propose the agenda.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Consent Agenda.</text>
+        <para>
+          <num>(a)</num>
+          <text>Matters requiring action by the Commission may be placed on a consent agenda within either a regular meeting or special meeting agenda.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Items scheduled for the consent agenda may include:</text>
+          <para>
+            <num>(i)</num>
+            <text>items previously reviewed by the Commission; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>items that are consistent with:</text>
+            <para>
+              <num>(A)</num>
+              <text>previous actions by the Commission;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Minor Subdivision Final Plans; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>any other items designated by the Director of Planning.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Unless there is an objection from a Commissioner, consent agenda items shall be acted upon in accordance with the staff recommendation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Posted Notice Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>In general.</text>
+        <para>
+          <num>(a)</num>
+          <text>Site-specific actions.</text>
+          <text>Applicants must post public notice of Planning Commission meetings in a conspicuous location for regular agenda items in accordance with<a href="https://legislativereference.baltimorecity.gov/sites/default/files/Art%2032%20-%20Zoning.pdf"> Article 32, § 5-604 {"Planning Commission consideration of site-specific projects"}</a>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Non-site-specific actions.</text>
+          <text>Posting for non-site-specific items may be required:</text>
+          <para>
+            <num>(i)</num>
+            <text>if the relevant action has the potential to significantly impact surrounding property owners and residents; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>to comply with other regulations or statutes.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Consent agenda items.</text>
+          <text>Posting for a consent agenda item is only required when:</text>
+          <para>
+            <num>(i)</num>
+            <text>the consent agenda item might significantly impact surrounding property owners and residents; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>other regulations or statutes require the posting.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Duration of posting.</text>
+        <text>The property or location will be posted continuously for a minimum of ten calendar days preceding the meeting:</text>
+        <para>
+          <num>(a)</num>
+          <text>in accordance with<a href="https://legislativereference.baltimorecity.gov/sites/default/files/Art%2032%20-%20Zoning.pdf"> Article 32, § 5-604 {"Planning Commission consideration of site-specific projects"}</a>; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>as directed by Department of Planning staff.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Posting template.</text>
+        <text>The sign providing posted notice must follow the requirements specified in the <a href="https://pc.baltimorecity.gov/sites/default/files/Planning%20Commission%20Notice%20Sign%202018_Editable%20in%20Powerpoint.pptx">common style of template</a>the Department of Planning provides to applicants.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Evidence of posting.</text>
+        <text>Evidence of posting shall be submitted to Department of Planning:</text>
+        <para>
+          <num>(a)</num>
+          <text>as soon as practicable after posting; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>unless otherwise permitted, via digital photographs displaying the placement and context of the posting on the property.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Consideration for Postponement</text>
+      <text>The Commission reserves the right to postpone consideration of a matter if:</text>
+      <para>
+        <num>(1)</num>
+        <text>the applicant or a representative of the applicant is not present;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>additional individuals or information are required to reach a fair and equitable decision; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>both the applicant or a representative of the applicant is not present and additional individuals or information are required to reach a fair and equitable decision.</text>
+      </para>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Attendance.</text>
+      <para>
+        <num>(1)</num>
+        <text>Commissioners are expected to attend Commission meetings.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a Commissioner has three unexcused absences within one year, the Chairperson may recommend:</text>
+        <para>
+          <num>(a)</num>
+          <text>the Mayor replace a Commissioner, as permitted by the<a href="https://legislativereference.baltimorecity.gov/sites/default/files/Art%2001%20-%20MayorCouncil_0.pdf"> Article 1, § 62</a>; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>if the Commissioner is the City Council representative to the Commission, the President of the City Council replace the Commissioner by vote of the City Council, in accordance with<a href="https://legislativereference.baltimorecity.gov/sites/default/files/01%20-%20Charter_0.pdf"> Article VII, § 6-1</a>.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Committees and Duties of Officers.</heading>
+    <para>
+      <num>A.</num>
+      <text>Commission Committees.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Commission may establish committees to investigate and report on matters the Commission determines.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The composition and chairperson of Commission committees shall be designated by the Commission Chairperson.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Vice Chairperson.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Chairperson may designate a Vice Chairperson to act as temporary Chairperson:</text>
+        <para>
+          <num>(a)</num>
+          <text>at meetings where the appointed Chairperson will be absent; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>for individual agenda items for which the Chairperson must recuse themselves.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Chairperson may appoint a different Commissioner to act as temporary Chairperson if the designated Vice Chairperson:</text>
+        <para>
+          <num>(a)</num>
+          <text>is also absent; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>must recuse themselves from deliberations regarding an issue.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Executive Secretary.</text>
+      <para>
+        <num>(1)</num>
+        <text>Role.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Director of Planning shall be the Executive Secretary to the Commission.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the absence of the Director of Planning, an Assistant Director or other designee shall act as temporary Executive Secretary for the Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Maintenance of records.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Executive Secretary, or the Executive Secretary's designee, shall maintain the records and minutes of all Commission meetings in accordance with <a href="https://legislativereference.baltimorecity.gov/sites/default/files/01%20-%20Charter_0.pdf">City Charter</a>Article VII, Section 72(e).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The records and minutes of all Commission meetings must reflect:</text>
+          <para>
+            <num>(i)</num>
+            <text>the attendance of the Commissioners at Commission meetings; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the action taken on all matters before the Commission.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Executive Secretary must keep a copy of all meeting minutes within the Department of Planning.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Delivery of Commission reports.</text>
+        <text>The Executive Secretary must deliver Commission reports to the City Council and other necessary parties in a timely manner.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Preliminary staff recommendation.</text>
+        <text>If requested by the City Council, the Executive Secretary may make a preliminary staff recommendation to the City Council prior to a Commission review.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Quorum and Voting.</heading>
+    <para>
+      <num>A.</num>
+      <text>Quorum.</text>
+      <text>A majority of five members shall constitute a quorum of the Commission.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Voting Rules.</text>
+      <para>
+        <num>(1)</num>
+        <text>For matters concerning zoning changes, an affirmative 2/3 vote of the membership is required to carry the motion (<em>cf</em>. <a href="https://legislativereference.baltimorecity.gov/sites/default/files/01%20-%20Charter_0.pdf">City Charter</a>Art. VII, Sec. 72(l)).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For all other matters, a simple majority affirmative vote of the membership is required to carry the motion.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Motions.</text>
+      <para>
+        <num>(1)</num>
+        <text>Motions shall be restated by the Chairperson before a vote is taken.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The names of the Commissioners making the motion and seconding the motion shall also be restated and recorded in the minutes.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">
+      <cite doc="City of Baltimore, Md., Charter" path="VII|§72">City Charter Article VII, § 72</cite>
+    </annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2021-08-25">Effective Date: August 25, 2021</annotation>
+    <annotation type="Editor's Notes" dest="container">The attached regulations have been submitted to the Director of the Department of Legislative Reference for COBRA codification in accordance with <cite doc="City of Baltimore, Md., Code" path="|general|4|4|4-401">§ 4-401, Title 4 { Administrative Procedure Act – Regulations }</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article of the Baltimore City Code</cite>. The attached regulations have not been reviewed by the Department of Legislative Reference for adherence to COBRA formatting and are subject to non-substantive formatting changes.</annotation>
+  </annotations>
+</container>

@@ -5,4 +5,28 @@
   <heading>DEPARTMENT OF PLANNING</heading>
   <xi:include href="./01/index.xml"/>
   <xi:include href="./02/index.xml"/>
+  <attachments>
+    <heading>Incorporated By Reference Documents</heading>
+    <attachment name="baltimore-city-design-manual-2019" url="/us/md/cities/baltimore/cobra/attachments/28-Baltimore_City_Design_Manual_2019.pdf">
+      <heading>Baltimore City Design Manual 2019</heading>
+    </attachment>
+    <attachment name="baltimore-city-landscape-manual-2017" url="/us/md/cities/baltimore/cobra/attachments/28-Baltimore_City_Landscape_Manual_2017.pdf">
+      <heading>Baltimore City Landscape Manual 2017</heading>
+    </attachment>
+    <attachment name="camp-manual-2024" url="/us/md/cities/baltimore/cobra/attachments/28-CAMP_Manual_2024.pdf">
+      <heading>CAMP Manual 2024</heading>
+    </attachment>
+    <attachment name="chap-guidelines-2022" url="/us/md/cities/baltimore/cobra/attachments/28-CHAP_Guidelines_2022.pdf">
+      <heading>CHAP Guidelines 2022</heading>
+    </attachment>
+    <attachment name="city-supplement-to-state-forest-conservation-manual-2020" url="/us/md/cities/baltimore/cobra/attachments/28-City_Supplement_to_State_Forest_Conservation_Manual_2020.pdf">
+      <heading>City Supplement to State Forest Conservation Manual 2020</heading>
+    </attachment>
+    <attachment name="site-plan-review-manual-2017" url="/us/md/cities/baltimore/cobra/attachments/28-Site_Plan_Review_Manual_2017.pdf">
+      <heading>Site Plan Review Manual 2017</heading>
+    </attachment>
+    <attachment name="state-forest-conservation-manual-1997" url="/us/md/cities/baltimore/cobra/attachments/28-State_Forest_Conservation_Manual_1997.pdf">
+      <heading>State Forest Conservation Manual 1997</heading>
+    </attachment>
+  </attachments>
 </container>

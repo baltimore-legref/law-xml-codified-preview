@@ -11,12 +11,11 @@
       <citation type="COBRAregister" url="./02.pdf">Volume 04, Issue 02</citation>
     </citations>
   </meta>
-  <codify:insert path="05.01" after="07" codified:doc="Code of Baltimore Regulations Annotated" codified:path="05|01|13|.01|annos">
+  <codify:insert path="05.02" after="07" codified:doc="Code of Baltimore Regulations Annotated" codified:path="05|02|13|.01|annos">
     <container>
       <prefix>Chapter</prefix>
       <num>13</num>
       <heading>ENERGY CONSERVATION DEVICES</heading>
-      <annotation type="Authority" dest="container">City Code, Article 28, §10-31</annotation>
       <section>
         <prefix>Regulation</prefix>
         <num>.01</num>
@@ -351,6 +350,9 @@
           <text>The Department may not award more than one tax credit authorized under Art. 28, §10-31 to a single dwelling.</text>
         </para>
       </section>
+      <annotations>
+        <annotation type="Authority" dest="container">City Code, Article 28, §10-31</annotation>
+      </annotations>
     </container>
   </codify:insert>
 </document>

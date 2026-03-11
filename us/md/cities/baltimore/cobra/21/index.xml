@@ -16,4 +16,10 @@
   <xi:include href="./11/index.xml"/>
   <xi:include href="./12/index.xml"/>
   <xi:include href="./13/index.xml"/>
+  <attachments>
+    <heading>Incorporated By Reference Documents</heading>
+    <attachment name="green-book-2006" url="/us/md/cities/baltimore/cobra/attachments/21-Green_Book_2006.pdf">
+      <heading>Green Book 2006</heading>
+    </attachment>
+  </attachments>
 </container>
