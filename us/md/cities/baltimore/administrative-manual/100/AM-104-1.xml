@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-104-1</num>
+  <heading>Meetings of Boards and Commissions</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Two sets of laws govern the conduct of meetings by boards, commissions, and other public bodies of the City: <cite doc="City of Baltimore, Md., Code" path="|1">City Code Article 1</cite>, Subtitle 6; and State Government Article, Title 10, Subtitle 5. In case of any conflict, the State law applies except to the extent that the City law is "more stringent".</text>
+    <text>The City law applies to "all meetings, regular and special" of all "boards or commissions in control of any department, bureau or other agency" of the City.</text>
+    <text>The State law more broadly covers all "public bodies" (more fully defined in that law as any multi-member entity established by law, regulation, or executive order), whenever carrying out any "advisory function", "legislative function", "quasi-legislative function" (e.g., rulemaking), or other public business.</text>
+    <text>The State law does not apply to a public body when carrying out a "judicial function", a "quasi-judicial function", or an "executive function" (other than land use matters, which are covered). The City law, on the other hand, applies notwithstanding the function being carried out.</text>
+  </para>
+  <para name="compliance-with-the-policy">
+    <heading>COMPLIANCE WITH THE POLICY</heading>
+    <text>The Chairpersons of all boards, commissions, and other public bodies of the City are responsible for communicating and disseminating this policy to the members within 10 days of their appointments.</text>
+  </para>
+  <para name="open-meetings-required">
+    <heading>OPEN MEETINGS REQUIRED</heading>
+    <text>Both State and City law generally require that all meetings be open to the public at all times. The City law permits the holding of an "executive session", but prohibits any resolution, rule, or regulation from being "finally adopted" at that executive session.</text>
+    <text>State law, however, is far more restrictive for public bodies carrying out functions subject to the law's purview</text>
+    <text>
+      <ul>
+        <li>No meeting or part of a meeting may be closed except for a very limited number of statutorily authorized reasons. These include, for example, the discussion of individual personnel matters, matters involving the acquisition of real property, and consultations with legal counsel "to obtain legal advice".</li>
+        <li>A meeting may be closed for one of these authorized reasons only on the recorded vote of a majority of the members.</li>
+        <li>Before the meeting begins, the presiding officer must prepare a written statement of the reason and authority for closing the meeting and of the topics to be discussed and, later, must file the statement and a record of the vote in the minutes of the next open session, as a public record.</li>
+        <li>If any person objects to the closing of a meeting, a copy of the written statement must be sent to the State Compliance Board. During a closed meeting, the public body may not act on or even discuss any other matter.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="notice-of-meetings">
+    <heading>NOTICE OF MEETINGS</heading>
+    <text>Both laws require that public notice be given of all meetings, whether open or closed.</text>
+    <text>The State law requires that it be "reasonable advance notice" and that, "whenever reasonable", the notice must:</text>
+    <text>
+      <ul>
+        <li>be in writing,</li>
+        <li>include the date, time, and place of the meeting, <em>and</em></li>
+        <li>if appropriate, include a statement that a part or all of the meeting may be conducted in closed session.</li>
+      </ul>
+    </text>
+    <text>The State law specifically authorizes any one of the following methods for giving public notice:</text>
+    <text>
+      <ul>
+        <li>by delivery to the news media,</li>
+        <li>by posting or depositing at a "convenient public location" at or near the place of the meeting (subject to prior notice that this method will be used), <em>or</em></li>
+        <li>by "any other reasonable method".</li>
+      </ul>
+    </text>
+    <text>The City law similarly requires written notice of the date, time, and place of the meeting. It further specifies that the notice be given:</text>
+    <text>
+      <ul>
+        <li>at least seven (7) days before the meeting, <em>or</em></li>
+        <li>for an emergency meeting, as soon as possible before or after the meeting.</li>
+      </ul>
+    </text>
+    <text>City law requires the following method for giving notice:</text>
+    <text>
+      <ul>
+        <li>by delivery to the Department of Legislative Reference for posting. (Paper or facsimile is accepted).</li>
+      </ul>
+    </text>
+    <text>Under City law, if a board or commission fails to comply with the local notice requirements, "such meeting will be deemed to have no legal standing". If a meeting is canceled, notice of the cancellation should be given at least 48 hours before the scheduled time for the meeting.</text>
+  </para>
+  <para name="minutes">
+    <heading>MINUTES</heading>
+    <text>City law requires all boards and commissions to:</text>
+    <text>
+      <ul>
+        <li>prepare written minutes of all meetings, <em>and</em></li>
+        <li>file a copy of the minutes with the Department of Legislative Reference within 60 days of the meeting or, if earlier, within 7 days of the next regularly scheduled meeting. (Paper or facsimile is accepted).</li>
+      </ul>
+    </text>
+    <text>State law requires minutes to be prepared "as soon as practicable" after the meeting of a "public body", and requires that these minutes "reflect":</text>
+    <text>
+      <ul>
+        <li>each item considered,</li>
+        <li>the action taken on each item, <em>and</em></li>
+        <li>each vote that was recorded.</li>
+      </ul>
+    </text>
+    <text>For any closed meeting, the State law requires that the minutes for the next open meeting include:</text>
+    <text>
+      <ul>
+        <li>a statement of the time, place, and purpose of the closed meeting,</li>
+        <li>a record of each member's vote for closing the meeting,</li>
+        <li>a citation of the legal authority for closing the meeting, <em>and</em></li>
+        <li>a listing of the topics discussed, persons present, actions taken.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="additional-information">
+    <heading>ADDITIONAL INFORMATION</heading>
+    <text>The Department of Legislative Reference is located at 626 City Hall, Baltimore, MD 21202; telephone: 410-396-4730, fax: 410-396-8483.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1998-04-09" display="true">April 9, 1998</annotation>
+    <annotation type="History" effective="2003-10-16" display="true">October 16, 2003</annotation>
+  </annotations>
+</section>

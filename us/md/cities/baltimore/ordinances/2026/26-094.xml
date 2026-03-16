@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-094" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-094</num>
+  <num type="bill">25-0116</num>
+  <heading type="short">Security Guards - Compensation</heading>
+  <heading type="long">An Ordinance Concerning Security Guards - Compensation</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-11-10</introduced>
+    <effective>2026-03-09</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-094.pdf">Ord. 26-094</citation>
+    </citations>
+    <history>
+      <vote date="2025-11-10" reading="first"/>
+      <vote date="2025-02-09" reading="second"/>
+      <enacted>2026-03-09</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert path="11|I|3" codified:doc="City of Baltimore, Md., Code" codified:path="11|§3-9">
+      <section>
+        <prefix>§</prefix>
+        <num>3-9</num>
+        <heading>Security guards.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>In this section, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Compensation.</heading>
+            <text>“Compensation” means any combination of wages, benefits, and paid time off.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Covered security guard.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>“Covered security guard” means any individual employed in Baltimore City by a covered security employer who principally performs 1 or more of the following functions:</text>
+              <para>
+                <num>(A)</num>
+                <text>protects individuals or property from harm, theft, or other unlawful activity;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>deters, observes, detects, or reports incidents in order to prevent any unlawful or unauthorized activity, including unlawful or unauthorized intrusion or entry, larceny, vandalism, abuse, arson, or trespass on property; or</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>responds to a triggered security system alarm in order to prevent or detect unauthorized intrusion, robbery, burglary, theft, pilferage, and other losses or to maintain security of a protected premises.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>“Covered security guard” does not include:</text>
+              <para>
+                <num>(A)</num>
+                <text>a marine guard or ship watchman, regardless of whether the guard or watchman is stationed aboard a ship or on a pier; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>an unarmed employee of a bar, tavern, or restaurant.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Covered security employer.</heading>
+            <text>“Covered security employer” means any person, firm, limited liability company, corporation, public entity or subsidiary or department of such firm, limited liability company, corporation, or public entity employing 2 or more covered security guards or individuals being self-employed as a security guard on either a proprietary basis for its own use or on a contractual basis for use by another person, firm, limited liability company, corporation, public entity or subsidiary thereof within the City.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Minimum compensation.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>“Minimum compensation” means the compensation amount a covered security employer is required to pay to a covered security guard pursuant to this section.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>“Minimum compensation” does not include all otherwise legally-required benefits, with the exception of:</text>
+              <para>
+                <num>(A)</num>
+                <text>federal holidays; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the supplement benefit rate required by § 3-1604(a)(2)(ii) of the State Labor and Employment Article.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Minimum compensation determination.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>The minimum compensation amount for a covered security officer guard in the City may not be less than, for the Guard 1 classification established by the United States Secretary of Labor pursuant to Chapter 67 of 41 U.S.C. § 6701 et seq., as amended, the combined value of the minimum wage rate, health and welfare rate, and paid vacation and holidays rates set forth in the locality wage determination issued by the Administrator of the Wage and Hour Division of the Employment Standards Division of the U.S. Department of Labor for the area that includes the City.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Determination by Wage Commission.</heading>
+            <text>The Wage Commission, with the assistance of the Office of Equity and Civil Rights, shall annually determine the minimum compensation amount required under paragraph (1) of this subsection by July 1 of each year.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Effective date.</heading>
+            <text>The minimum compensation amount established under this subsection shall be effective the following year from January 1 through December 31.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Posting requirement.</heading>
+          <text>The Office of Equity and Civil Rights shall post the minimum compensation determination made under subsection (b) of this section on the City’s website no later than July 1 of each year.</text>
+        </para>
+      </section>
+    </codify:insert>
+  </section>
+  <section codify:applicability="2027-01-01">
+    <prefix>Section</prefix>
+    <num>2</num>
+    <codify:replace path="11|§3-9" codified:doc="City of Baltimore, Md., Code" codified:path="11|§3-9">
+      <section>
+        <prefix>§</prefix>
+        <num>3-9</num>
+        <heading>Security guards.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>In this section, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Average per-employee total benefit rate.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>“Average per-employee total benefit rate” means the average hourly cost of providing all bona fide fringe benefits for a covered security guard, including:</text>
+              <para>
+                <num>(A)</num>
+                <text>medical or hospital care;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>a pension upon retirement or death;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>compensation for injuries or illness resulting from occupational 	activity, or insurance to provide any of the foregoing;</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>unemployment benefits;</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>life insurance;</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>disability and sickness insurance;</text>
+              </para>
+              <para>
+                <num>(G)</num>
+                <text>accident insurance;</text>
+              </para>
+              <para>
+                <num>(H)</num>
+                <text>the cost of an apprenticeship or other similar educational program; and </text>
+              </para>
+              <para>
+                <num>(I)</num>
+                <text>vacation and holiday pay.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>“Average per-employee total benefit rate” does not include all otherwise legally-required benefits, with the exception of:</text>
+              <para>
+                <num>(A)</num>
+                <text>federal holidays; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the supplement benefit rate required by § 3-1604(a)(2)(ii) of the State Labor and Employment Article.</text>
+              </para>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <heading>Employees included in calculation.</heading>
+              <text>“Average per-employee total benefit rate” is calculated as an average among covered security guards who are employed in the City.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Average per-employee wage rate.</heading>
+            <text>“Average per-employee wage rate” means the average wage for a covered security guard who is employed in the City.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Compensation.</heading>
+            <text>“Compensation” means any combination of wages, benefits, and paid time off.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Covered security guard.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>“Covered security guard” means any individual employed in Baltimore City by a covered security employer who principally performs 1 or more of the following functions:</text>
+              <para>
+                <num>(A)</num>
+                <text>protects individuals or property from harm, theft, or other unlawful activity;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>deters, observes, detects, or reports incidents in order to prevent any unlawful or unauthorized activity, including unlawful or unauthorized intrusion or entry, larceny, vandalism, abuse, arson, or trespass on property; or</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>responds to a triggered security system alarm in order to prevent or detect unauthorized intrusion, robbery, burglary, theft, pilferage, and other losses or to maintain security of a protected premises.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>“Covered security guard” does not include:</text>
+              <para>
+                <num>(A)</num>
+                <text>a marine guard or ship watchman, regardless of whether the guard or watchman is stationed aboard a ship or on a pier; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>an unarmed employee of a bar, tavern, or restaurant.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(6)</num>
+            <heading>Covered security employer.</heading>
+            <text>“Covered security employer” means any person, firm, limited liability company, corporation, public entity or subsidiary or department of such firm, limited liability company, corporation, or public entity employing 2 or more covered security guards or individuals being self-employed as a security guard on either a proprietary basis for its own use or on a contractual basis for use by another person, firm, limited liability company, corporation, public entity or subsidiary thereof within the City.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <heading>Minimum compensation.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>“Minimum compensation” means the compensation amount a covered security employer is required to pay to a covered security guard pursuant to this section.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>“Minimum compensation” does not include all otherwise legally-required benefits, with the exception of:</text>
+              <para>
+                <num>(A)</num>
+                <text>federal holidays; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the supplement benefit rate required by § 3-1604(a)(2)(ii) of the State Labor and Employment Article.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Minimum compensation determination.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>The minimum compensation amount for a covered security officer guard in the City may not be less than the higher of:</text>
+            <para>
+              <num>(i)</num>
+              <text>for the Guard 1 classification established by the United States Secretary of Labor pursuant to Chapter 67 of 41 U.S.C. § 6701 et seq., as amended, the combined value of the minimum wage rate, health and welfare rate, and paid vacation and holidays rates set forth in the locality wage determination issued by the Administrator of the Wage and Hour Division of the Employment Standards Division of the U.S. Department of Labor for the area that includes the City; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the combined value of:</text>
+              <para>
+                <num>(A)</num>
+                <text>the average per-employee wage rate; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the average per-employee total benefit rate</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Determination by Wage Commission.</heading>
+            <text>The Wage Commission, with the assistance of the Office of Equity and Civil Rights, shall annually determine the minimum compensation amount required under paragraph (1) of this subsection by July 1 of each year.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Effective date.</heading>
+            <text>The minimum compensation amount established under this subsection shall be effective the following year from January 1 through December 31.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Posting requirement.</heading>
+          <text>The Office of Equity and Civil Rights shall post the minimum compensation determination made under subsection (b) of this section on the City’s website no later than July 1 of each year.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Covered security employer requirement.</heading>
+          <text>Subject to the other provisions of this Division I, a covered security employer shall, at a minimum, pay each covered security guard the minimum compensation amount determined by the Wage Commission under subsection (b) of this section.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Violation.</heading>
+          <text>It is a violation of this Division I for a covered security employer to pay a covered security guard less than the minimum compensation amount required by this section.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Employer to display.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>Upon the taking effect of the compensation determination under this section, a covered security employer shall post a sign, measuring at least 3 by 5 inches in size, that includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>the required compensation amount;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a citation of the applicable sections of City Code; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the contact information for the Wage Commission.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Location.</heading>
+            <text>The covered security employer shall post the sign required under this subsection:</text>
+            <para>
+              <num>(i)</num>
+              <text>in clear view of employees; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>where similar notices are customarily posted.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>OECR to post.</heading>
+            <text>The Office of Equity and Civil Rights shall compile and post on the City’s website a printable version of the sign required under this subsection.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Annual report.</heading>
+          <text>On or before July 1 of each year, the Office of Equity and Civil Rights shall submit a report to the Mayor and City Council that includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>the newly-determined average per-employee total benefit rate; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the newly-determined average per-employee wage rate.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+  <section codify:applicability="2032-01-01">
+    <prefix>Section</prefix>
+    <num>3</num>
+    <codify:replace path="11|§3-9" codified:doc="City of Baltimore, Md., Code" codified:path="11|§3-9">
+      <section>
+        <prefix>§</prefix>
+        <num>3-9</num>
+        <heading>Security guards.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>In this section, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Compensation.</heading>
+            <text>“Compensation” means any combination of wages, benefits, and paid time off.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Covered security guard.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>“Covered security guard” means any individual employed in Baltimore City by a covered security employer who principally performs 1 or more of the following functions:</text>
+              <para>
+                <num>(A)</num>
+                <text>protects individuals or property from harm, theft, or other unlawful activity;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>deters, observes, detects, or reports incidents in order to prevent any unlawful or unauthorized activity, including unlawful or unauthorized intrusion or entry, larceny, vandalism, abuse, arson, or trespass on property; or</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>responds to a triggered security system alarm in order to prevent or detect unauthorized intrusion, robbery, burglary, theft, pilferage, and other losses or to maintain security of a protected premises.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>“Covered security guard” does not include:</text>
+              <para>
+                <num>(A)</num>
+                <text>a marine guard or ship watchman, regardless of whether the guard or watchman is stationed aboard a ship or on a pier; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>an unarmed employee of a bar, tavern, or restaurant.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Covered security employer.</heading>
+            <text>“Covered security employer” means any person, firm, limited liability company, corporation, public entity or subsidiary or department of such firm, limited liability company, corporation, or public entity employing 2 or more covered security guards or individuals being self-employed as a security guard on either a proprietary basis for its own use or on a contractual basis for use by another person, firm, limited liability company, corporation, public entity or subsidiary thereof within the City.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Minimum compensation.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>“Minimum compensation” means the compensation amount a covered security employer is required to pay to a covered security guard pursuant to this section.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>“Minimum compensation” does not include all otherwise legally-required benefits, with the exception of:</text>
+              <para>
+                <num>(A)</num>
+                <text>federal holidays; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the supplement benefit rate required by § 3-1604(a)(2)(ii) of the State Labor and Employment Article.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Minimum compensation determination.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>The minimum compensation amount for a covered security guard in the City may not be less than, for the Guard 1 classification established by the United States Secretary of Labor pursuant to Chapter 67 of 41 U.S.C. § 6701 et seq., as amended, the combined value of the minimum wage rate, health and welfare rate, and paid vacation and holidays rates set forth in the locality wage determination issued by the Administrator of the Wage and Hour Division of the Employment Standards Division of the U.S. Department of Labor for the area that includes the City.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Determination by Wage Commission.</heading>
+            <text>The Wage Commission, with the assistance of the Office of Equity and Civil Rights, shall annually determine the minimum compensation amount required under paragraph (1) of this subsection by July 1 of each year.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Effective date.</heading>
+            <text>The minimum compensation amount established under this subsection shall be effective the following year from January 1 through December 31.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Posting requirement.</heading>
+          <text>The Office of Equity and Civil Rights shall post the minimum compensation determination made under subsection (b) of this section on the City’s website no later than July 1 of each year.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Covered security employer requirement.</heading>
+          <text>Subject to the other provisions of this Division I, a covered security employer shall, at a minimum, pay each covered security guard the minimum compensation amount determined by the Wage Commission under subsection (b) of this section.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Violation.</heading>
+          <text>It is a violation of this Division I for a covered security employer to pay a covered security guard less than the minimum compensation amount required by this section.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Employer to display.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>Upon the taking effect of the compensation determination under this section, a covered security employer shall post a sign, measuring at least 3 by 5 inches in size, that includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>the required compensation amount;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a citation of the applicable sections of City Code; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the contact information for the Wage Commission.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Location.</heading>
+            <text>The covered security employer shall post the sign required under this subsection:</text>
+            <para>
+              <num>(i)</num>
+              <text>in clear view of employees; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>where similar notices are customarily posted.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>OECR to post.</heading>
+            <text>The Office of Equity and Civil Rights shall compile and post on the City’s website a printable version of the sign required under this subsection.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

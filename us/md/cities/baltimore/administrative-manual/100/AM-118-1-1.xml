@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-118-1-1</num>
+  <heading>Acknowledgement of Electronic Communications Policy</heading>
+  <text>As a user of the Mayor and City Council of Baltimore's electronic communications systems, I understand that the sole purpose of the systems, including e-mail, voice mail, facsimile machines, Internet access, and computers, is to support the business of the government and that all electronic communications are the property of the City and not the author or the recipient. I agree not to access or to retrieve any electronic communication other than those that I have been granted prior authorization to access or to retrieve.</text>
+  <text>I am aware that the City reserves and will exercise the right to review, to audit, to intercept, to access, and to disclose all matters on the City's electronic communications systems at any time, with or without notice to its users, and that such rights may be exercised during or after normal working hours and even if the electronic communications appear to have been deleted from the systems. I acknowledge that I have no expectation as to the privacy or confidentiality of any electronic communication.</text>
+  <text>I acknowledge that I have read, understand, and agree to comply with the City's Electronic Communications Policy, which is in addition to and not in replacement of any other policy or code of conduct of the City or its agencies. I also understand that signing onto a City system indicates my agreement to comply with the policy. I am aware that any violation of the policy by me may subject me to disciplinary action, up to and including discharge from employment or contract. I also am aware that a copy of this Acknowledgment will become part of my personnel file.</text>
+  <text>
+    <table class="layout-table">
+      <tbody>
+        <tr>
+          <td>______________________________</td>
+          <td>__________________________</td>
+          <td>__________</td>
+        </tr>
+        <tr>
+          <td>Signature</td>
+          <td>Printed Name</td>
+          <td>Date Signed</td>
+        </tr>
+        <tr>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>______________________________</td>
+          <td>___________</td>
+          <td/>
+        </tr>
+        <tr>
+          <td>Supervisor or Witness Signature</td>
+          <td>Date Signed</td>
+          <td/>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <annotations>
+    <annotation type="History" effective="2000-05-30" display="true">May 30, 2000</annotation>
+  </annotations>
+</section>

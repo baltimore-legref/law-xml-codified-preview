@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-2, Part 2</num>
+  <heading>Overtime Work:		 Non-Exempt Classes</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>In addition to the general guidelines stated in Part I of this policy, compensation for overtime work performed by an employee serving in a position categorized as "non-exempt" as listed in CIVIL SERVICE CALSSES {<cite path="§AM-291-1">AM-291-1</cite>} and NON-CIVIL SERVICE CLASSES {<cite path="§AM-291-2">AM-291-2</cite>} must be in accordance with the provisions outlined in the following sections.   Overtime work results when an employee's immediate supervisor has approved work beyond the normal work day as determined by the representation status of the class; or, approved work performed by the employee on an unscheduled work day.</text>
+  </para>
+  <para name="overtime-management">
+    <heading>OVERTIME MANAGEMENT</heading>
+    <text>Central Payroll will routinely process all overtime as posted by the agency payroll clerk.</text>
+    <text>To keep agency expenditures within budgetary programming, each agency's monthly expenditures for overtime will be monitored to ascertain that the monthly expenditure does not exceed 1/12 of the agency's annual appropriation.</text>
+    <text>The Overtime Committee will review other reports gleaned From Payroll and Integrated Financial Systems (IFS) data to review overtime spending; particularly as it applies to program, Program activity, individual employee(s), budgeted positions, etc.</text>
+    <text>The Overtime Committee will advise the Mayor directly of those agencies which, in their opinion, are not positively responding to the Mayor's directives to reduce and otherwise control overtime spending.</text>
+  </para>
+  <para name="recording-overtime-work">
+    <heading>RECORDING OVERTIME WORK</heading>
+    <text>Overtime is recorded and compensation granted in 6 minute increments after an initial 12 minutes of overtime has been worked beyond the normal work shift and/or work week. All paid leave used within a pay period, i.e., vacation leave, compensatory leave, etc. is counted as time worked in determining eligibility for overtime compensation.</text>
+  </para>
+  <para name="work-shift-defined">
+    <heading>WORK SHIFT DEFINED</heading>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th class="text-indent-2">Representation Code*</th>
+            <th class="text-indent-2">Work Shift</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1 , U, M</td>
+            <td>The work shift consists of an 8 hour day which includes a 40 minute lunch period.</td>
+          </tr>
+          <tr>
+            <td>4 ,5 ,6 ,7 ,9</td>
+            <td>The work shift consists of a 7 1/3 hour work day plus an unpaid 40 minute lunch period.</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>*See Key on page 5.</text>
+  </para>
+  <para name="work-week-defined">
+    <heading>WORK WEEK DEFINED</heading>
+    <text>The normal full-time work week consist of 5 consecutive work days in a 7 day period excluding Saturday and Sunday. However, in operations where an employee is normally scheduled to work on Saturday and/or Sunday, the normal full-time work period will consist of 10 work days in a 14 day period.</text>
+  </para>
+  <para name="compensation">
+    <heading>COMPENSATION</heading>
+    <text>Overtime compensation for non-exempt classes is determined by the appropriate union code for the class as contained in CIVIL SERVICE CLASSES (<cite path="§AM-291-1">AM-291-1</cite>) and NON-CIVIL SERVICE CLASSES (<cite path="§AM-291-2">AM-291-2</cite>). The rate is calculated as follows:</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>Representation Code</th>
+            <th>FLSA Code</th>
+            <th>Conditions</th>
+            <th>Compensation</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>4, 6, 7, 9<br/>1, U, M<br/>1, 4, 6, 7, 9, U, M <br/>1, U, M<br/>1, U, M</td>
+            <td>F<br/>F<br/>F<br/>F<br/>F</td>
+            <td>"Time worked in excess of 36 2/3 but less than or equal to 40 hours during the normal full time work week"<br/>"Time worked in excess of 8 hours during a normal full-time work shift."<br/>"Time worked in excess of 40 hours during the normal full-time work week."<br/>"Time worked on the 6th consecutive work day in an operation where the normal work week is 5 days in a 7 day period."<br/>"Time worked in excess of 80 hours on the 11th and 12th consecutive work days in an operation where is 10 days in a 14 day period."</td>
+            <td>Monetary payment in an amount equal to the employee's normal hourly rate. Employees may elect to receive either Monetary payment or compensatory leave in an amount equal to 1 ½ time the  Overtime hours worked.</td>
+          </tr>
+          <tr>
+            <td>4, 6, 7, 9<br/>1, U, M<br/>4, 6, 7, 9</td>
+            <td>F<br/>F<br/>F</td>
+            <td>"Time worked in excess of 47 1/3 hours on the 7th consecutive work day in an operation where the work week is 5 days in a 7 day period."<br/>"Time worked in excess of 48 hours on the 7th consecutive work day in an operation where the work week is 5 days in a 7 day period."<br/>"Time worked in excess of 91 2/3  hours on the 13th  And 14th work days in an operation where the normal work week is 10 days in a 14 day period."<br/>"Time worked in excess of 96 hours on the 13th and 14th work days in an operation where the normal work week is 10 days in a 14 day operation."</td>
+            <td>Employees may elect to receive either monetary payment or compensatory leave in an amount equal To 2 times the over-time hours worked.</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </para>
+  <para name="maximum-accumulation-of-compensatory-leave">
+    <heading>MAXIMUM ACCUMULATION OF COMPENSATORY LEAVE</heading>
+    <text>The maximum amount of compensatory leave that a non-exempt employee may accumulate is 240 hours.  Non-exempt employees must receive monetary payment for overtime worked if their compensatory leave balance has reached the 240 hour limit.</text>
+  </para>
+  <para name="out-of-title-work">
+    <heading>OUT-OF-TITLE WORK</heading>
+    <text>A non-exempt employee who works in an approved out-of title status which may indicate a different FLSA category will retain a non-exempt status for purposes of overtime compensation.</text>
+  </para>
+  <para name="travel-status">
+    <heading>TRAVEL STATUS</heading>
+    <text>A non-exempt employee who works approved overtime while in a travel status must be compensated in accordance with FLSA provisions.</text>
+  </para>
+  <para name="movement-from-non-exempt-to-exempt">
+    <heading>MOVEMENT FROM NON-EXEMPT TO EXEMPT</heading>
+    <text>A non-exempt employee who permanently moves to an exempt position will be paid for all accumulated compensatory leave which is unused as of the date of movement.</text>
+  </para>
+  <para name="separation-from-city-service">
+    <heading>SEPARATION FROM CITY SERVICE</heading>
+    <text>A non-exempt employee will receive full payment for all accumulated compensatory leave which is unused as of the date of separation provided that the employee is not indebted to the City.</text>
+  </para>
+  <para name="key-to-presentation-codes">
+    <heading>KEY TO PRESENTATION CODES</heading>
+    <text>The following codes indicate which, if any, labor union represents employees in a particular job class.</text>
+    <text>
+      <ul>
+        <li>1 - AFSCME, Local 44.</li>
+        <li>2 - Elected Officials.</li>
+        <li>3 - Appointed Officials subject to the provisions of ARTICLE VI, Section 3 (a) of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>.</li>
+        <li>4 - CMEA.</li>
+        <li>5 - AFSCME, Local 558.</li>
+        <li>6 - Managerial and Professional Society.</li>
+        <li>7 - Unrepresented (designed benefits – Salary Schedule A).</li>
+        <li>8 - Sworn Fire and Police Personnel.</li>
+        <li>9 - Unrepresented (Managerial and Professional Society).</li>
+        <li>M - Unrepresented (designated benefits – Salary Schedule B).</li>
+        <li>N - No representative/no benefits.</li>
+        <li>U - City Union of Baltimore.</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-02-23" display="true">February 23, 1990</annotation>
+    <annotation type="Related Policies"><cite path="§AM-101-1">AM-101-1</cite> REQUEST FOR B/E APPROVAL</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2, Part I">AM-205-2 PART I</cite>		OVERTIME AND CALL-BACK WORK: OVERVIEW</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2, Part III">AM-205-2 PART III</cite>		OVERTIME: EXEMPT EMPLOYEES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2-1">AM-205-2-1</cite> OVERTIME CONVERSION CHART</annotation>
+    <annotation type="Related Policies"><cite path="§AM-214-1">AM-214-1</cite> OUT-OF-TITLE WORK</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-16">AM-205-16</cite> MEAL ALLOWANCE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-1">AM-291-1</cite> CIVIL SERVICE CLASSES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-2">AM-291-2</cite> NON-CIVIL SERVICE CLASSES</annotation>
+  </annotations>
+</section>

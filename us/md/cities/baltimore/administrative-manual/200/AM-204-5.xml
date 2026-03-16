@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-5</num>
+  <heading>Jury Service and Witness Duty</heading>
+  <text>The City of Baltimore ("City") recognizes that jury service and witness duty are an important civic responsibility, and all employees are encouraged to fulfill these obligations.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this policy is to establish the requirements for providing paid leave to an employee summoned to perform jury duty or appear as a witness (to testify on behalf of the federal, state, or local government).</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This policy applies to all employees and individuals involved in the City's operations, including, but not limited to, full-time and part-time employees, probationary employees, as well as elected officials and their appointed staffs.</text>
+  </para>
+  <para name="paid-leave">
+    <num>III.</num>
+    <heading>PAID LEAVE</heading>
+    <text>Employees required to perform jury duty or subpoenaed as a witness as described below, will be granted paid time off from their regular work schedule for the period of their service and will not be required to use their own accrued vacation, personal, sick, or compensatory leave.</text>
+    <para>
+      <num>A.</num>
+      <heading>Jury Duty</heading>
+      <text>An employee who is summoned to perform jury duty, including grand jury duty, shall be granted jury service leave with pay.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Witness Service</heading>
+      <text>An employee subpoenaed as a witness to testify on behalf of the federal, state, or local government, shall be granted jury service leave with pay.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Other</heading>
+      <text>Employees who are subpoenaed to appear in court for other reasons may use paid leave, as appropriate, or leave without pay.</text>
+    </para>
+  </para>
+  <para name="notice-and-verification">
+    <num>IV.</num>
+    <heading>NOTICE AND VERIFICATION</heading>
+    <para>
+      <num>A.</num>
+      <heading>Notice</heading>
+      <text>When an employee is summoned to serve as a juror or subpoenaed to appear in court, the employee must inform the immediate supervisor as soon as possible regarding the anticipated absence from work.  A copy of the summons or subpoena must be provided with the request for leave by the employee to the supervisor as soon as practical.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Verification</heading>
+      <text>Upon completion of jury duty or witness duty, but no later than two (2) business days after completion of service, an employee must provide their supervisor with official verification that the leave was due to jury service or witness duty.</text>
+    </para>
+  </para>
+  <para name="postponment-of-service">
+    <num>V.</num>
+    <heading>POSTPONMENT OF SERVICE</heading>
+    <text>On occasions where scheduled jury service is expected to cause operational hardship to an Agency, the employee may be asked to request a postponement. In such cases, the employee will be responsible for contacting the court and making the request. City Agencies will make every effort to manage operational challenges without having to resort to postponement.</text>
+  </para>
+  <para name="reporting-back-to-work">
+    <num>VI.</num>
+    <heading>REPORTING BACK TO WORK</heading>
+    <text>An employee who is dismissed from jury service or witness duty before the end of the workday will be expected to return to work. However, an employee who has performed four (4) or more hours of jury service or witness duty (inclusive of travel time) will not be required to report to an evening work shift that begins either:</text>
+    <para>
+      <num>1.</num>
+      <text>On or after 5:00 p.m. on the day of the employee's jury service or witness duty; or</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Before 3:00 a.m. on the following day. In these cases, the employee should report back on his or her next scheduled work shift.</text>
+    </para>
+  </para>
+  <para name="retaliation-prohibited">
+    <num>VII.</num>
+    <heading>RETALIATION PROHIBITED</heading>
+    <text>This policy strictly prohibits any form of retaliation (or threats of retaliation) for requesting or taking leave under this policy. Any retaliation by a supervisor will result in disciplinary action, up to including discharge from employment. Concerns about retaliation should be promptly reported to the Agency's Human Resources Practitioner.</text>
+  </para>
+  <para name="authority">
+    <num>VIII.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em>002-1-2 Administrative Manual</em> wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>IX.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2012-12-05" display="true">December 5, 2012</annotation>
+    <annotation type="History" effective="2017-12-13" display="true">December 13, 2017</annotation>
+    <annotation type="Related Policies"><cite path="§AM-202-1">AM-202-1</cite> Compensatory Leave</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-4">AM-204-4</cite> Vacation and Personal Leave</annotation>
+    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> Leave of Absence without Pay</annotation>
+  </annotations>
+</section>

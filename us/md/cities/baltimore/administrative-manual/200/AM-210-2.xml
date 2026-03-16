@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-210-2</num>
+  <heading>Whistleblower Retaliation</heading>
+  <text>The City of Baltimore ("<em>City</em>") is committed to developing a work culture and environment that supports transparency and accountability regarding City resources. To that end, the public interest is served when employees report fraud, gross misuse or waste of public resources, violations of law, and substantial and specific threats to public health, safety, or security, without fear of actual or threatened retaliation or reprisal. An essential resource toward that end is the protection of employees who make covered disclosures (i.e., "<em>whistleblowers</em>"). Unless a disclosure is specifically prohibited by law (e.g: information from state and federal tax returns, medical records, certain financial records, classified information, etc. <em>If you are not sure whether a disclosure is prohibited by law, please contact the OIG</em>.), a supervisor may not take retaliatory personnel action against any employee for making a covered disclosure. Nothing in this policy prohibits a supervisor from taking a personnel action against an employee if the supervisor would have taken such action regardless of the covered disclosure. See City Code, Art. I, §8 Whistleblower Rights and Responsibilities ("the Whistleblower Act").</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this policy is to establish procedures that implement the Whistleblower Act.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This policy applies to all complaints of whistleblower retaliation, except those raised by a non-probationary member of the Civil Service, where the alleged retaliation involves actions disallowed by statute (Baltimore City Code, Article 1, Subtitle 8, Whistleblower Rights and Responsibilities). In those instances, jurisdiction will reside with either the Civil Service Commission (CSC) or the Office of the Labor Commission (OLC). The CSC or OLC, at its discretion, may request assistance from the Office of the Inspector General (OIG).</text>
+  </para>
+  <para name="definitions">
+    <num>III.</num>
+    <heading>DEFINITIONS</heading>
+    <para>
+      <num>A.</num>
+      <text><strong>Abuse of Authority </strong>- the arbitrary or capricious exercise of power by a City official or employee that adversely affects the rights of any person or that results in personal gain or advantage to the City official or employee or to preferred other individuals.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><strong>Agency – </strong>any department, board, commission, council, authority, committee, office, or other unit of City government, including the Baltimore City Parking Authority, the Baltimore Development Corporation, or the South Baltimore Gateway Community Impact District Management Authority.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text><strong>Covered Disclosure – </strong>a disclosure:</text>
+      <para>
+        <num>1)</num>
+        <text>made by an employee;</text>
+      </para>
+      <para>
+        <num>2)</num>
+        <text>concerning actions arising within the Baltimore City government;</text>
+      </para>
+      <para>
+        <num>3)</num>
+        <text>initially made to a personnel officer or to the OIG; and</text>
+      </para>
+      <para>
+        <num>4)</num>
+        <text>that the employee reasonably believes to be evidence of:</text>
+        <para>
+          <num>a)</num>
+          <text>fraud;</text>
+        </para>
+        <para>
+          <num>b)</num>
+          <text>gross misuse or waste of public resources;</text>
+        </para>
+        <para>
+          <num>c)</num>
+          <text>abuse of authority;</text>
+        </para>
+        <para>
+          <num>d)</num>
+          <text>a violation of law; or</text>
+        </para>
+        <para>
+          <num>e)</num>
+          <text>a substantial and specific threat to health, safety, or security.</text>
+        </para>
+      </para>
+      <text>A covered disclosure does <u>not</u> include a disclosure that is prohibited by law.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text><strong>Claim or Complaint in Bad Faith</strong> – a claim or complaint made either (1) with knowledge that it is false in material part or as a whole; or (2) with reckless disregard for its truth.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text><strong>Complainant</strong> – a City employee who files a complaint of whistleblower retaliation to his or her Human Resources Practitioner (Personnel Officer) or to the OIG.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text><strong>Employee</strong> – <em>in accordance with the statute, ((Baltimore City Code, Article 1, Subtitle 8, Whistleblower Rights and Responsibilities) where referenced in this policy, employee is defined as:</em> an employee of a City agency, whether employed full-time, part-time, seasonal, contractual, or otherwise, including any member of a City board or commission, regardless of whether the member is compensated.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text><strong>Good Faith Claim or Complaint</strong> – a claim or complaint that the complainant reasonably believes to be evidence of wrongdoing.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text><strong>Notice of Declination</strong> - the notice sent by the Office of the Inspector General that informs the whistleblower their complaint is insufficient for the Office of the Inspector General to investigate.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text><strong>Notice of Investigation</strong> - the notice sent by the Office of the Inspector General that informs the whistleblower the Office of the Inspector General will be initiating a whistleblower investigation based on the complaint.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text><strong>Personnel Action</strong> - an act or omission by a supervisor that has a significant adverse impact on an employee, including dismissal, demotion, suspension, punitive transfer or assignment, disciplinary action, negative performance evaluation, failure to appoint, failure to promote, failure to transfer or failure to assign.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text><strong>Personnel Officer (aka "HR Practitioner")</strong> – means an employee of the agency associated with the complaint who is responsible for administering personnel functions.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text><strong>Supervisor</strong> - any individual who directly or indirectly oversees the work of an employee who files a whistleblower retaliation complaint.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text><strong>Whistleblower</strong> - an employee who makes a covered disclosure.</text>
+    </para>
+  </para>
+  <para name="whistleblower-retaliation-standard">
+    <num>IV.</num>
+    <heading>WHISTLEBLOWER RETALIATION STANDARD</heading>
+    <text>In order to sustain a finding of Whistleblower retaliation, the evidence must show by a <strong>preponderance of evidence </strong>that the covered disclosure was a factor for the imposition of the adverse personnel action.</text>
+    <para>
+      <num>A.</num>
+      <text><strong>Preponderance of Evidence </strong>– the evidence establishes that a fact is more likely true than not true.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><strong>Contributing Factor </strong>– an event that influences or contributes to a result.</text>
+    </para>
+  </para>
+  <para name="filing-a-complaint">
+    <num>V.</num>
+    <heading>FILING A COMPLAINT</heading>
+    <text>Employees who believe they have been retaliated against for making a covered disclosure must file a whistleblower retaliation complaint within thirty (<strong>30</strong>) <strong>calendar days, </strong>by close of business on the 30<sup>th</sup> day, from when they knew or reasonably should have known of the retaliation. <em>See the Whistleblower Act, §8-6</em>. Most often, this will require employees to file such complaints within thirty <strong>(30) calendar days</strong> from when they learned of the adverse personnel action. If the last day of the filing period falls on a weekend or holiday, or if City offices are closed for an emergency on that day, the next business day when City offices are open will count as the final day to file a complaint.</text>
+    <text>An employee who believes he or she has been retaliated against for making a covered disclosure must file a written complaint with the Agency's HR Practitioner. Alternatively, a whistleblower may choose to file a covered disclosure directly with the Office of the Inspector General if the whistleblower possesses a reasonable and articulable belief that any HR Practitioner cannot competently investigate the covered disclosure due to a conflict of interest or other specified reason.</text>
+  </para>
+  <para name="appeals">
+    <num>VI.</num>
+    <heading>APPEALS</heading>
+    <text>If a Whistleblower retaliation complaint was initially made to an Agency HR Practitioner, the complainant may file an appeal to the OIG if:</text>
+    <para>
+      <num>A.</num>
+      <text>An Agency HR Practitioner failed to provide the complainant with a final report within sixty <strong>(60) business days</strong> after receiving the complaint; or</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The complainant does not agree with the HR Practitioner's findings.</text>
+      <text>The appeal must be filed within thirty (<strong>30</strong>) <strong>calendar days</strong> of either: (1) the date the Agency HR Practitioner sent the final report to the complainant; or (2) the date by which the HR Practitioner should have issued a final report, but failed to do so.</text>
+      <text>Upon receipt of a Whistleblower appeal, the OIG will:</text>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Review the final report issued by the Agency's HR Practitioner, if any, and any documents created or collected during the Agency's HR Practitioner's investigation;</text>
+      <para>
+        <num>1.</num>
+        <text>Conduct additional independent investigation, if warranted; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Issue a written report to the complainant and the Agency head stating the OIG's findings.</text>
+      </para>
+    </para>
+  </para>
+  <para name="roles-and-responsibilities">
+    <num>VII.</num>
+    <heading>ROLES AND RESPONSIBILITIES</heading>
+    <para>
+      <num>A.</num>
+      <heading>Employee Responsibilities</heading>
+      <para>
+        <num>1.</num>
+        <text>Report instances of Whistleblower retaliation either to a a Human Resources Practitioner (Personnel Officer) within the agency, or to the OIG.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Reports to Agency HR Practitioners, or to the OIG should be based on the employee's good faith belief that a Whistleblower retaliation has occurred. Employees may not make reports in bad faith.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Report whistleblower retaliation in writing, using the Whistleblower Retaliation Complaint Form, within thirty <strong>(30) calendar days</strong> from when the employee knew or should have known of the violation.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Failure to file a Whistleblower retaliation complaint within thirty <strong>(30) calendar days</strong> may result in the complaint being dismissed.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Provide timely responses to HR Practitioner's or the OIG's requests for information relating to whistleblower retaliation investigations.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <strong>Agency's HR Practitioner or Designee's Responsibilities</strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Give the whistleblower written notice of the complaint's receipt within five (5) business days of receiving notice of the complaint.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Notify the Agency Head and the OIG that a Whistleblower retaliation complaint has been filed within ten (10) business days of receiving notice of the complaint.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Conduct a thorough investigation into allegations of Whistleblower retaliation as soon as practicable, upon receipt of such a complaint. Every effort will be made to interview all witnesses and all other involved parties.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Maintain confidentiality regarding Whistleblower retaliation investigations, except to the extent that disclosure is required by this policy or by law.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Conclude the Whistleblower retaliation investigation and issue a written report of findings to the Agency Head within sixty <strong>(60) business days</strong> after receiving notice of the complaint.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If an appeal is filed to the OIG, forward all documents created or collected during the Whistleblower retaliation investigation to the OIG upon request.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Failure to follow these procedures may result in disciplinary action against the responsible HR Practitioner or Designee.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>OIG's Responsibilities</heading>
+      <para>
+        <num>1.</num>
+        <text>Conduct a thorough investigation into allegations of Whistleblower retaliation as soon as practicable, upon receipt of such a complaint.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Maintain confidentiality regarding Whistleblower retaliation investigations, except to the extent that disclosure is required by this policy or by law.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Conclude the Whistleblower retaliation investigation and issue a written report of findings and/or recommendations to the Agency Head within one-hundred fifty (<strong>150) calendar days</strong> after receiving notice of the complaint.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Present written findings to: (i) the City Administrator; (ii)  the relevant agency head; and (iii) the whistleblower.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Maintain statistical data on the number of Whistleblower retaliation complaints filed in the City and the outcomes of related investigations, and report the same in the OIG's Annual Report.</text>
+      </para>
+      <text>Within 14 days of receipt of the Office of the Inspector General's written findings, the City Administrator must meet with the relevant agency head and the Inspector General to discuss the recommendations included in the written findings.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <heading>Agency's Responsibilities</heading>
+      <para>
+        <num>1.</num>
+        <text>Cooperate with all investigations into Whistleblower retaliation conducted either internally by the Agency's HR Practitioner or the OIG.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Comply with the OIG's requests for information involving Whistleblower retaliation if either: (1) a Whistleblower retaliation complaint is filed directly with the OIG; or (2) an appeal of the agency's Whistleblower retaliation findings is filed with the OIG.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Following the release of an OIG Whistleblower retaliation investigation report, advise the OIG what remedial action – if any – has been taken in light of the OIG's findings.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Maintain statistical data on the number of Whistleblower retaliation complaints filed within the agency and the outcomes of any internal Whistleblower retaliation investigations, and report the same to the OIG annually.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <heading>CSC/OLC Responsibilities</heading>
+      <para>
+        <num>1.</num>
+        <text>When Civil Service employees file a grievance with the OLC or an appeal with the CSC following termination, reduction in pay or position, or suspension of more than 30 days, notify the OIG of all complaints alleging Whistleblower retaliation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Provide information to the OIG upon request regarding the outcome of Civil Service appeals or grievances that allege Whistleblower retaliation.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <heading>Remedies</heading>
+      <text>To remedy any violation of this policy, an agency head may:</text>
+      <para>
+        <num>(1)</num>
+        <text>order the removal of detrimental information in the whistleblower's employment record put there due to retaliation related to the complaint;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>require the relevant supervisor to:</text>
+        <para>
+          <num>(i)</num>
+          <text>hire, promote, or reinstate the whistleblower;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>end the whistleblower's suspension from employment; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>award the whistleblower back pay to the date of the violation; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>provide any other remedy consistent with the agency's mission</text>
+      </para>
+    </para>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2022-07-20">July 20, 2022</annotation>
+    <annotation type="Related Documents">Whistleblower Complaint Form</annotation>
+    <annotation type="Related Documents">Request for Civil Service Appeal or Grievance Hearing</annotation>
+  </annotations>
+</section>

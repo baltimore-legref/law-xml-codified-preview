@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-115-1</num>
+  <heading>Hazardous or Toxic Materials: Spill or Leakage Incidents</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy directs actions to be taken by City agencies/employees in the event of spilled or leaked materials, which are hazardous or toxic in Baltimore City.</text>
+  </para>
+  <para name="city-employee-responsibilities">
+    <heading>CITY EMPLOYEE RESPONSIBILITIES</heading>
+    <text>A City employee involved with or witnessing spillage or leakage of hazardous materials (oil, fuel, chemicals, elemental mercury etc.) must immediately notify the Fire Department (Dial 911) and his/her supervisor. The following information should be reported to the Fire Department:</text>
+    <text>
+      <ul>
+        <li>the location of the incident.</li>
+        <li>the general conditions at the scene.</li>
+        <li>the type and quantity of materials spilled or leaked.</li>
+        <li>the number of person(s) affected.</li>
+      </ul>
+    </text>
+    <text>An employee reporting such an incident must comply with all instructions issued by the Fire Department in regard to the incident until the Fire Department responds.</text>
+  </para>
+  <para name="public-statement">
+    <heading>PUBLIC STATEMENT</heading>
+    <text><em>Before any statement is released for dissemination to the public, the Mayor's Office and appropriate </em>C<em>ity agenc</em>y <em>heads or designees must be notified</em>.</text>
+  </para>
+  <para name="control-measures">
+    <heading>CONTROL MEASURES</heading>
+    <text>The Baltimore City Fire Department will be the lead agency at any hazardous materials incident in Baltimore City. The control measures at any known or suspected hazardous materials incident shall include hazard identification, risk analysis, atmospheric and product monitoring, and mitigation of the incident in accordance with all local, state and federal regulations. Utilization of additional city, regional, state or federal resources will be determined by the incident commander.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2005-03-16" display="true">March 16, 2005</annotation>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
+  </annotations>
+</section>

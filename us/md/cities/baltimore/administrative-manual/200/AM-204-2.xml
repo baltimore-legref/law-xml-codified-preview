@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-2</num>
+  <heading>Vacation Leave</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>A vacation leave day may be earned only by a permanent full-time employee or a permanent part-time employee, who has been in pay status at any time during the payroll period containing the employee's monthly anniversary date. Temporary employees, including provisional employees, are not eligible for vacation leave. However, employees who are provisional appointees as the result of a promotion and therefore provisional while awaiting Civil Service action, i.e., test, list, etc., may earn vacation leave similar to other permanent full-time employees. The rate of accrual for all eligible employees is based upon the length of continuous service.</text>
+  </para>
+  <para name="rate-of-accrual-for-permanent-employees">
+    <heading>RATE OF ACCRUAL FOR PERMANENT EMPLOYEES</heading>
+    <text>The rate of accrual is based upon the eligible employee's length of continuous service.</text>
+    <text><strong>Permanent Full-Time Employees</strong>: Vacation leave is earned at a set rate for each completed month of service.</text>
+    <text><strong>Permanent Part-Time Employees</strong>: Vacation leave is earned at a set rate for each completed 160 hours of service.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COMPLETED YRS OF CONTINUOUS SERVICE</th>
+            <th>DAYS EARNED PER MONTH OR P/T -160 HRS</th>
+            <th>PER YEAR FULL-TIME EMPLOYEE</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>0 through 5</td>
+            <td>1</td>
+            <td>12</td>
+          </tr>
+          <tr>
+            <td>6 through 10</td>
+            <td>1 ¼</td>
+            <td>15</td>
+          </tr>
+          <tr>
+            <td>11 through 13</td>
+            <td>1 ½</td>
+            <td>18</td>
+          </tr>
+          <tr>
+            <td>14 through 18</td>
+            <td>1 ¾</td>
+            <td>21</td>
+          </tr>
+          <tr>
+            <td>19 or more</td>
+            <td>2</td>
+            <td>24</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </para>
+  <para name="leave-use">
+    <heading>LEAVE USE</heading>
+    <text>Employees may not use vacation leave before it is earned. Vacation leave may be used in 45-minute increments. Vacation leave earned by employees, who have not previously served a probationary period, may not be used until the probationary period, has been successfully completed.</text>
+    <text>The leave day is equal to 7.20 hours for employees designated by Representation Code 5 (AFSCME, Local 558), 6 (MAPS), 9 (Unrepresented, MAPS benefits), U (CUB) and M (CUB unrepresented). A leave day is equal to 8 hours for employees in classifications with Representation Codes 1 (AFSCME, Local 44 and 2202). The codes indicate which, if any, labor union or professional group represents employees in a particular job classification.</text>
+  </para>
+  <para name="leave-requests">
+    <heading>LEAVE REQUESTS</heading>
+    <text>An employee who wishes to use accumulated vacation leave must obtain prior approval from his/her immediate supervisor. Vacation leave requests for one week or longer must be made one week in advance in most situations. A request to use vacation leave for less than one week must be made one workday in advance. However, the employee's supervisor may waive these time requirements.</text>
+    <text>All reasonable requests to use vacation leave will be approved. However, requests, which would be detrimental to the proper operation of an agency, may be denied. Conflicting requests for vacation <strong>leave </strong>will be resolved on the basis of seniority.</text>
+    <text>Employees should also refer to the negotiated contract for their employee representation group.</text>
+  </para>
+  <para name="holidays">
+    <heading>HOLIDAYS</heading>
+    <text>Any official City holiday, which falls during an employee's scheduled time off<strong>, </strong>will not be</text>
+    <text>counted as vacation leave.</text>
+    <text>
+      <strong>CITY OFFICES CLOSED BY EXECUTIVE ORDER or EARLY CLOSINGS</strong>
+    </text>
+    <text>Under the Inclement Weather Policy, <cite path="§AM-204-22">AM-204-22</cite>, "when non-essential City facilities are closed by Mayoral Executive Order, essential employees are required to report as scheduled and appropriate compensation is authorized."</text>
+    <text>In the situation of pre-approved vacation leave, the essential employee will not be charged vacation leave for the day when an Executive Order is in effect. Non-essential employees on approved vacation leave are not charged leave for that day. However, in the event of an early closing on employee's vacation day, the essential and non-essential employee will be charged full vacation leave as if the early closing had not occurred.</text>
+  </para>
+  <para name="maximum-accumulation">
+    <heading>MAXIMUM ACCUMULATION</heading>
+    <text>The maximum number of unused vacation leave days that an employee may accumulate is equal to the number of days that an employee can earn in the period outlined in the following table<strong>.</strong> Computation must be based on the employee's current accrual rate as related to his/her years of continuous service and as determined in this policy.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>
+              <p>POSITION DESIGNATED</p>
+              <p>REPRESENTATION CODE</p>
+            </th>
+            <th>ACCUMULATION PERIOD</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <p>1 - AFSCME, Local 44</p>
+              <p>5 - AFSCME, Local 558</p>
+              <p>7 - Local 2202</p>
+              <p>F- Fire fighters (including Paramedics)</p>
+            </td>
+            <td>4 years</td>
+          </tr>
+          <tr>
+            <td>
+              <p>O - Fire Officers</p>
+              <p>U - City Union of Baltimore (CUB<strong>) </strong>*</p>
+              <p>M - Unrepresented (CUB benefits) *</p>
+            </td>
+            <td>5 years</td>
+          </tr>
+          <tr>
+            <td>
+              <p>8 - Police Non-Supervisory</p>
+              <p>S – Police Supervisory</p>
+            </td>
+            <td>192 days</td>
+          </tr>
+          <tr>
+            <td>
+              <p>6 - Managerial &amp; Professional Society (MAPS)</p>
+              <p>9 - Unrepresented (MAPS benefits)</p>
+            </td>
+            <td>8 years **</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>If an employee accumulates the maximum allowable number of vacation leave days, he/she will not be credited with any additional vacation days until his/her accumulation total drops below the maximum limit.</text>
+    <text>* Please note that if an employee's position is designated by Representation Code of U or M, the employee will paid at the time of separation for accumulated vacation up to a maximum number of days earnable for a four-year period.</text>
+    <text>** However, if that employee's position is designated by Representation Code 6 or 9 then the employee may bank excess vacation days and be paid for them at time of separation with at least 20 years of service or retirement on the basis of one (1) day for every three (3) days banked.</text>
+  </para>
+  <para name="continuous-service">
+    <heading>CONTINUOUS SERVICE</heading>
+    <text>Years of continuous service are calculated from the date of appointment as a permanent employee. An employee's service in a provisional status may be included in his/her years of continuous service, if the employee's status changed from provisional to permanent with no break in service and service was in the same classification as that of entry.</text>
+    <text>Prior City service is recognized as continuous service if the employee was a permanent employee who:</text>
+    <text>
+      <ul>
+        <li>Was laid-off due to lack of work or funds; or</li>
+        <li>Had a break in service of 29 or less working days; or</li>
+        <li>Was granted a leave of absence without pay and was reinstated within 10 days of the</li>
+      </ul>
+    </text>
+    <text>expiration of such leave.</text>
+  </para>
+  <para name="retention-of-accumulated-leave">
+    <heading>RETENTION OF ACCUMULATED LEAVE</heading>
+    <text>Accumulated vacation leave may be retained by permanent employees who:</text>
+    <text>
+      <ul>
+        <li>Transfer from one agency or position to another agency or position in the classified (?) service with no break in service.</li>
+        <li>Are granted a leave of absence without pay and are reinstated within 10 days of the expiration of such leave.</li>
+      </ul>
+    </text>
+    <text>Other questions regarding retention or transfer of leave benefits are governed by the specific AM policy and/or negotiated contracts by employee's representation group.</text>
+  </para>
+  <para name="payment-rule">
+    <heading>PAYMENT RULE</heading>
+    <text>Payment for accumulated vacation days is based on the employee's regular rate of pay at the time of separation or retirement. Employees will receive full payment for any accumulated vacation leave which is still unused as of the date of separation subject to the employee's rate of accrual and the employee's years of continuous service. However, if an employee is in debt to the City, payment will be deducted from the leave payment in an amount equal to the employee's indebtedness (i.e., non-business City cell phone calls reimbursement, travel funds reconciliation, tuition reimbursement). Payment for leave will also be denied to employees whose service is terminated before the completion of their probationary period with the City.</text>
+  </para>
+  <para name="military-service">
+    <heading>MILITARY SERVICE</heading>
+    <text>Employees who are granted leaves of absence without pay for the purpose of military service may elect: (1) to be paid for unused vacation leave upon beginning their leave of absence<strong><em>; </em></strong>or (2) to retain their vacation leave for credit to their leave account upon reinstatement in City service.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2007-12-05" display="true">December 5, 2007</annotation>
+    <annotation type="History" effective="2008-03-26" display="true">March 26, 2008</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-1">AM-204-1</cite> ANNUAL HOLIDAYS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> SEPARATION AND PAYMENT AT TERMINATION</annotation>
+    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> LEAVE OF ABSENCE WITHOUT PAY</annotation>
+  </annotations>
+</section>

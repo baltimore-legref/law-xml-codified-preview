@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-208-1, Part 1</num>
+  <heading>Leave of Absence Without Pay</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>A leave of absence without pay for a period not to exceed 30 calendar days or less may be granted by the employee's appointing officer.  No other approval is required.</text>
+  </para>
+  <para name="extension-of-leave">
+    <heading>EXTENSION OF LEAVE</heading>
+    <text>A leave of absence without pay approved originally for less than 30 calendar day period may be extended to the maximum limit of 30 days if approval is granted by the appointing officer.  No extension beyond the maximum allowable can be granted by the appointing officer.</text>
+  </para>
+  <para name="filling-the-position">
+    <heading>FILLING THE POSITION</heading>
+    <text>If an employee has been granted a leave of absence for 30 calendar days or less, the appointing officer may not fill the position with a permanent employee.  However, a temporary employee may be hired for the duration of the leave, if necessary.</text>
+  </para>
+  <para name="return-to-duty-guidelines">
+    <heading>RETURN TO DUTY GUIDELINES</heading>
+    <text>An employee who has been granted a leave of absence for 30 calendar days or less must return to duty on the date specified by his appointing officer.  An employee failing to return on the date specified will be considered absent without pay.  Failure to return within 3 consecutive working days of the date specified without goo cause and without notifying the appointing officer in writing will be deemed cause for dismissal</text>
+    <text>Failure to submit the required notification of return to duty within the specified time period will be considered a resignation, and a CUT-OFF NOTICE (28-1608-5144), citing "Resignation" as the reason, must be immediately submitted by the appointing officer.  A MEMORANDUM (28-1418-5007) should be attached to the CUT-OFF NOTICE by the appointing officer.  A MEMORANDUM (28-1418-5007) should be attached to the CUT-OFF NOTICE by the appointing officer citing the particulars of failure to comply with City policy or return to duty from a leave of absence for 30 calendar days or less.</text>
+  </para>
+  <para name="medical-evaluation">
+    <heading>MEDICAL EVALUATION</heading>
+    <text>Prior to reinstatement, a medical clearance to return to duty must be obtained from the Division of Occupational Medicine if the employee:</text>
+    <text>requested a leave of 30 calendar days or less because of personal illness, disability		prenatal or postnatal disability care.  Otherwise, the employee may be reinstated without a medical clearance from the Division of Medicine.</text>
+  </para>
+  <para name="leave-and-service-credit">
+    <heading>LEAVE AND SERVICE CREDIT</heading>
+    <text>An employee who is granted a leave of absence without pay for 30 calendar days or less will continue to accrue leave and service provided he is in pay status at some time during the payroll period containing his monthly anniversary date.</text>
+  </para>
+  <para name="payroll-markings">
+    <heading>PAYROLL MARKINGS</heading>
+    <text>An employee who is granted a leave of absence without pay for 30 calendar days or less should be marked appropriately on the PAYROLL ATTENDANCE REPORT (147-019), i.e., a mark of "XP".  In the remarks column next to the employee's name, the proper notation regarding appointing officer approval of a leave of absence for 30 calendar days or less should be entered.  When the employee returns to duty following the authorized leave, the payroll marking should be adjusted and recorded as "Present", "/"</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-02-14" display="true">February 14, 1989</annotation>
+  </annotations>
+</section>

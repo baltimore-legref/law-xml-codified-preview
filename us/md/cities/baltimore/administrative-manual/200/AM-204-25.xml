@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-25</num>
+  <heading>Health Incentive Reimbursement Program</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Permanent full-time and permanent part-time employees with representation codes 2, 3, 6, or 9 (elected officials, appointed officials, Managerial and Professional Society, and unrepresented with MAPS benefits, respectively) are eligible for certain reimbursement benefits up to $250 per fiscal year for costs related to the following:</text>
+    <text>
+      <ul>
+        <li>Employee's physical examination;</li>
+        <li>Employee's physical fitness/wellness programsmay include weight control, yoga, pilates, karate, tai chi, smoking cessation and stress management classes (as approved by the Employee Benefits Division, Department of Human Resources);</li>
+        <li>Employee's vision <u>not</u> covered by his/her optical plan;</li>
+        <li>Employee's dental care expenses<u> not</u> covered by his/her dental plan;<u> or</u></li>
+        <li>Employee's holistic/natural medical treatments.</li>
+      </ul>
+    </text>
+    <text><strong>Eligible employees will not receive reimbursement for combinations of the above. </strong>Employees are eligible for this reimbursement upon completion of six months of service.</text>
+  </para>
+  <para name="conditions-for-reimbursement">
+    <heading>CONDITIONS FOR REIMBURSEMENT</heading>
+    <text>Employees may be reimbursed up to $250 per fiscal year, which begins with the date of the last physical examination, fitness program enrollment, vision or dental care service, or holistic/natural medical treatment, if applicable. <em>(Employees' spouses and dependents and retirees are not eligible to participate in this program.)</em> <strong>Funds must be available in the budget of the agency in which the requesting employee is employed.</strong></text>
+    <text>
+      <strong>Note: Any reimbursement request received by the Department of Human Resources later than 60 days after the end of a fiscal year, for services obtained during the previous fiscal year, will not be honored.</strong>
+    </text>
+  </para>
+  <para name="receiving-reimbursement-for-a-physical-examination">
+    <heading>RECEIVING REIMBURSEMENT FOR A PHYSICAL EXAMINATION</heading>
+    <text>The employee must send a written request for reimbursement to the agency human resources officer or designee within 60 days of the date of the employee's physical examination. Reimbursement of up to $250 for physical examinations is subject to the following conditions:</text>
+    <text>
+      <ul>
+        <li>Requests for reimbursement must be made within 60 days of the date of the physical examination.</li>
+        <li>An original receipt for the physical examination must be furnished.</li>
+        <li>An explanation of benefits from the employee's health plan must be furnished.</li>
+        <li>Employees <u>may not </u>receive reimbursement from the City for expenses that are being paid by a health care provider.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="receiving-reimbursement-for-physical-fitness/wellness-programs">
+    <heading>RECEIVING REIMBURSEMENT FOR PHYSICAL FITNESS/WELLNESS PROGRAMS</heading>
+    <text>The employee must send a written request for reimbursement to the agency human resources officer or designee within 60 days of enrollment or renewal of membership, along with the following:</text>
+    <text>
+      <ul>
+        <li>An original receipt that verifies employee's enrollment and premium/dues paid for his/her membership; or</li>
+        <li>A statement on letterhead from the health club, spa or fitness center indicating the amount paid for the employee's membership.</li>
+      </ul>
+    </text>
+    <text>If the employee's program is payable on a monthly schedule only, the employee must inform the agency human resources officer in advance and submit in a timely manner an original receipt or record of the total monthly payments on the program's letterhead. The amount eligible for reimbursement may not exceed $250 during the fiscal year. The reimbursement is for only one of the five covered benefits and all reimbursable invoices must be for services obtained during the same fiscal year.</text>
+    <text>The Employee Benefits Division of the Department of Human Resources is responsible for determining which physical fitness programs qualify for reimbursement. Requests for reimbursement for non-aerobic dance classes will not be approved.</text>
+  </para>
+  <para name="receiving-reimbursement-for-vision-or-dental-care">
+    <heading>RECEIVING REIMBURSEMENT FOR VISION OR DENTAL CARE</heading>
+    <text>Employees must send a written request for reimbursement to the agency human resources officer within 60 days of the date of the employee's vision or dental services. Vision service may include eye examinations, frames, prescription lenses or contact lenses. For dental, expenses incurred but not covered by the dental plan may be submitted. Reimbursement of up to $250 for vision or dental care is subject to the following conditions:</text>
+    <text>
+      <ul>
+        <li>An original receipt(s) with payment of the vision or dental service.</li>
+        <li>An explanation of benefits from the employee's health plan or dental plan, or proof that the service claim was rejected by the employee's plan.</li>
+        <li>Employees may not receive reimbursement from the City for expenses that are being paid under the optical or dental plan.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="receiving-reimbursement-for-holistic/natural-medical-treatment">
+    <heading>RECEIVING REIMBURSEMENT FOR HOLISTIC/NATURAL MEDICAL TREATMENT</heading>
+    <text>The employee must send a written request for reimbursement to the agency human resources officer or designee within 60 days of the date of the employee's treatment. Reimbursement of up to $250 for holistic/natural medical treatment(s) is subject to the following conditions:</text>
+    <text>
+      <ul>
+        <li>Requests for reimbursement must be made within 60 days of the date of the treatment.</li>
+        <li>An original receipt for the treatment(s) must be furnished.</li>
+        <li>An explanation of benefits from the employee's health plan must be furnished.</li>
+        <li>Employees <u>may not </u>receive reimbursement from the City for expenses that are being paid by a health care provider.</li>
+      </ul>
+    </text>
+    <text>If the employee's treatments are payable on a monthly schedule only, the employee must inform the agency human resources officer in advance and submit in a timely manner an original receipt or record of the total monthly payments on the program's letterhead. The amount eligible for reimbursement may not exceed $250 during the fiscal year. The reimbursement is for only one of the five covered benefits and all reimbursable invoices must be for services obtained during the same fiscal year.</text>
+  </para>
+  <para name="inactive-employees">
+    <heading>INACTIVE EMPLOYEES</heading>
+    <text>Employees who are on a leave of absence without pay or who are in any other non-pay status are not eligible to receive any of these health incentive reimbursement benefits.</text>
+    <text>Employees will be eligible to receive the physical examination, physical fitness, vision or dental care(not covered by vision or dental plan), or holistic/natural medical treatment reimbursement benefits upon reinstatement to City service in accordance with the City's reinstatement and subsequent employment policies (<cite path="§AM-213-1, Part I">AM-213-1, Part I</cite> and Part II).</text>
+  </para>
+  <para name="reimbursement-process">
+    <heading>REIMBURSEMENT PROCESS</heading>
+    <text>The required information along with a copy of the ComPASS - Direct Payment Order (DPO) is sent to the Employee Benefits Division, Department of Human Resources, 201 E. Baltimore Street, by the assigned agency contact. Fiscal approval within the requesting agency and by the agency's assigned budget analyst is required for funding availability prior to submission to Human Resources. The Department of Human Resources will verify eligibility for reimbursement or request additional information from the employee. If the request is approved, the Employee Benefits Division will forward the DPO copy to the Department of Finance, Accounts Payable Division, 401 E. Fayette Street, for processing of the payment.</text>
+    <text>If the request for reimbursement is not approved, the Employee Benefits Division will indicate the reason and return the request and DPO copy to the agency contact who will notify the employee.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2007-07-01" display="true">July 1, 2007</annotation>
+    <annotation type="History" effective="2008-07-01" display="true">July 1, 2008</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-23">AM-204-23</cite> HEALTH CARE PROVISIONS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-26">AM-204-26</cite> OPTICAL/VISION CARE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-213-1, Part I">AM-213-1, Part I</cite> and II REINSTATEMENT AND SUBSEQUENT EMPLOYMENT</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-1">AM-291-1</cite> CIVIL SERVICE CLASS LISTINGS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-2">AM-291-2</cite> NON-CIVIL SERVICE CLASS LISTING</annotation>
+    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDER</annotation>
+  </annotations>
+</section>

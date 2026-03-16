@@ -9910,7 +9910,7 @@
         <prefix>§</prefix>
         <num>24-3</num>
         <heading>Amount of tax.</heading>
-        <text>The amount of the tax imposed is 25¢ for each trip:</text>
+        <text>The amount of the tax imposed is 38¢ for each trip:</text>
         <para>
           <num>(1)</num>
           <text>between points within Baltimore City; or</text>
@@ -9922,6 +9922,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 13-135" type="History">Ord. 13-135</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-342" type="History">Ord. 20-342</annotation>
+          <annotation app="2026-06-24" doc="City of Balt., Md., Ord. 26-092" eff="2026-06-24" path="§1" type="History"/>
         </annotations>
       </section>
       <section>

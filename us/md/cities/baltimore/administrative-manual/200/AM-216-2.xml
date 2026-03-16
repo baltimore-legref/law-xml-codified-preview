@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-216-2</num>
+  <heading>Death Benefits Chart</heading>
+  <text>Death benefits are subject to the current negotiated agreement</text>
+  <text>affecting the employee's position classification</text>
+  <para name="maps">
+    <heading>MAPS</heading>
+    <text>The basic death benefit for an employee entitled to "MAPS" benefits shall be either an amount equal to two and one half times the employee's annual salary or $90,00 whichever is less. In the event of accidental death, the benefit payable shall be double the amount stipulated, i.e., $90,000 or an amount equal to two and a half times the employee's annual salary, whichever is less.</text>
+    <text>The death benefit shall be converted upon retirement to an $8,500 death benefit, with double that amount in the event of accidental death, payable to the designated beneficiary or estate.</text>
+  </para>
+  <para name="afscme-–-local-44">
+    <heading>AFSCME – LOCAL 44</heading>
+    <text>In the event of ordinary death, the City shall supplement the lump sum death benefit provided by the respective Employee's' Retirement System in order that the total benefit received shall equal the greater of $15,000 or the employee's annual salary.</text>
+    <text>In the event of accidental death, the employee shall receive the greater of $15,000 or the employee's annual salary, in addition to any pension authorized by the respective Employee's Retirement System.</text>
+  </para>
+  <para name="cmea-/local-#558">
+    <heading>CMEA /LOCAL #558</heading>
+    <text>The represented eligible employee shall receive in death benefits either $15,000 or the employee's annual salary whichever is greater.</text>
+    <text>In the event of accidental death, the benefit payable shall be double the amount stipulated, i.e., greater of $15,000 or the employee's annual salary.</text>
+  </para>
+  <para name="local-#2202">
+    <heading>LOCAL #2202</heading>
+    <text>In the event of ordinary death, the employer shall supplement the lump sum death benefit provided by the Employees' Retirement System in order that the total benefit received shall equal the greater of $15,000 or the employees' annual salary.</text>
+    <text>In the event of accidental death the employee shall receive the greater of $15,000 or the employee's annual salary, in addition to any pension received under the Employees' Retirement Systems. An employee's coverage under this provision shall terminate upon separation except that employees represented by AFSCME shall be covered by a reduced death benefit of $1,500 if they retire from City employment.</text>
+  </para>
+  <para name="cub">
+    <heading>CUB</heading>
+    <text>Death benefits in the amount of $16,175 or the employee's annual salary, whichever is greater providing the employee is permanent full-time status. The death and dismemberment benefits for permanent part-time employees who work an average of 50% of the regularly scheduled work week shall be the greater amount of their annual salary or that percentage of $16,175 which corresponds to the percentage of the work year of a full-time employee which is represented by that part-time employee's regularly scheduled annual hours.</text>
+    <text>In the event of accidental death, the benefit payable shall be doubled the amount specified, i.e., $16,175 or the employee's annual salary whichever is greater,</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-01-01" display="true">January 1, 1990</annotation>
+  </annotations>
+</section>

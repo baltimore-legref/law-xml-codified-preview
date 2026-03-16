@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-14</num>
+  <heading>Sick Leave</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy concerns the eligibility, use and accrual rate for City sick leave benefits. A sick leave day can be earned and accrued by a permanent full-time or permanent part-time employee who has been in pay status at any time during the payroll period containing the employee's monthly anniversary date. Temporary employees to include provisional employees are not eligible to earn sick leave. Use of sick leave will be denied if it is found to be abused by the employee. Employees who abuse sick leave are subject to appropriate disciplinary action.</text>
+  </para>
+  <para name="accrual-rate">
+    <heading>ACCRUAL RATE</heading>
+    <text>Different accrual rates exist for eligible City employees.</text>
+    <text>
+      <ul>
+        <li>Full-Time Permanent Employees: 1 day of sick leave is accrued for each completed full month of active service.</li>
+        <li>Part-Time Permanent Employees: 1 day of sick leave is accrued upon completion of 160 hours of active service.</li>
+      </ul>
+    </text>
+    <text>There is no limit on the number of sick leave days that an eligible employee may accumulate.</text>
+  </para>
+  <para name="leave-retention">
+    <heading>LEAVE RETENTION</heading>
+    <text>Accumulated sick leave may be retained by permanent full-time and permanent part-time employees who:</text>
+    <text>
+      <ul>
+        <li>Transfer from one agency or position to another agency or position in the classified service with no break in service;</li>
+        <li>Are laid-off due to lack of work or funds and are subsequently rehired; or</li>
+        <li>Are granted a leave of absence without pay in accordance with <cite path="§AM-208-1">AM-208-1</cite> and are subsequently reinstated within 10 days of the expiration of such leave.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="use">
+    <heading>USE</heading>
+    <text>Accumulated sick leave days may be used by employees who are required to be absent from duty because of personal sickness whether physical or mental, injury, or prenatal or postnatal disability. An employee who is conscientiously seeking treatment for alcoholism or drug abuse shall receive the same consideration for the use of sick leave as an employee with another type of illness.</text>
+    <text>In accordance with the City's FAMILY AND MEDICAL LEAVE Policy (<cite path="§AM-203-2">AM-203-2</cite>), the use of sick leave is appropriate for child care purposes only when the Division of Occupational Medicine,</text>
+    <text>Department of Personnel can certify that the employee's child has a highly contagious disease requiring quarantine, isolation, and restrictions.</text>
+    <text>Also in accordance with the Family and Medical Leave Policy (<cite path="§AM-203-2">AM-203-2</cite>, dated 1/22/97), paid leave, including no more than five (5) accrued sick leave days may be used within a 12 month period for adoption and/or foster care placement.</text>
+    <text>Sick leave may be taken in increments of 45 minutes by eligible employees. However, the payroll markings for eligible employees will vary according to the designated representation code of the employee's position.</text>
+    <text>Employees must notify their supervisor as early as possible on the first day of illness preferably prior to the start of the work shift and at such intervals as specified by the supervisor until the employee is able to return to work. All use of sick leave is subject to verification, including periodic examination by Division of Occupational Medicine, Department of Personnel.</text>
+  </para>
+  <para name="payroll-markings">
+    <heading>PAYROLL MARKINGS</heading>
+    <text>Employees scheduled to work on a holiday and who call in sick will be charged sick leave on that day. Failure of the employee to call in sick will result in full loss of pay for the day. However, if an employee is already on sick leave when the holiday occurs, the employee will not be charged sick leave for the holiday.</text>
+    <text>A payroll marking of sick on a day of inclement weather, as defined in <cite path="§AM-204-22">AM-204-22</cite>, will not be honored unless: (1) a medical certificate is presented; or (2) the illness is verified by the appropriate supervisor; or (3) the illness is continued for several days before and/or after the day of inclement weather.</text>
+  </para>
+  <para name="payment/conversion">
+    <heading>PAYMENT/CONVERSION</heading>
+    <text>Pay for sick days is based on the employee's regular rate of pay. Upon termination of employment, employees will, under certain conditions, be paid for a portion of unused accumulated sick leave in accordance with the City's policy on SEPARATION AND PAYMENT AT TERMINATION (<cite path="§AM-205-7">AM-205-7</cite>).</text>
+  </para>
+  <para name="related-leave-accumulation">
+    <heading>RELATED LEAVE ACCUMULATION</heading>
+    <text>While in sick leave status, an employee is considered to be in active pay status provided the individual has accumulated time to cover the period of incapacitation. The employee, therefore, continues to accumulate sick leave and other types of leave for which he/she is eligible.</text>
+  </para>
+  <para name="extended-sick-leave">
+    <heading>EXTENDED SICK LEAVE</heading>
+    <text>An employee who remains incapacitated for work after using all accumulated sick, vacation, compensatory, and personal leave may request extended sick leave with pay. The agency-designated officer/supervisor must be consulted to initiate such a request of the Department of Personnel.</text>
+  </para>
+  <para name="return-to-work">
+    <heading>RETURN TO WORK</heading>
+    <text>Agency heads shall notify the Division of Occupational Medicine, Department of Personnel of any employee who has been on sick leave for more than 60 calendar days. The Division shall monitor the case and provide advice on the Americans with Disabilities Act requirements, reasonable accommodations and procedures for returning the employee to full-time work as quickly as possible.</text>
+    <text>Employees who have had an illness or injury which requires restricted duty upon returning to work must report to the Division of Occupational Medicine immediately upon return to work only if the period of absence and the period of restricted duty <u>combined</u> last for more than 21 work days. For example, if an employee is on sick leave for three weeks and is placed on restricted duty for an additional two weeks by the employee's personal physician, the employee must report to the City clinic immediately upon returning to work from sick leave. In such instances, the employee must present the appropriate medical certificate from the treating physician regarding the incapacitation and restriction.</text>
+  </para>
+  <para name="pay-back-provision">
+    <heading>PAY BACK PROVISION</heading>
+    <text>City employees with at least three (3) years of service and who are unable to return to work after all of their accrued sick leave, vacation leave, personal leave and compensatory time have been exhausted may request extended leave with pay. If granted and upon return to work, certain City employees receiving this benefit are requested to reimburse the City for one-half of the extended sick leave days granted. This pay back provision shall be implemented after the affected employee has accumulated 10 sick leave days.</text>
+    <text>The employee must consult the Department of Personnel or the appropriate designated personnel officer in the agency of assignment for details regarding the required process to request such leave, the formula used to calculate extended sick leave, the appeal procedures and the pay back provisions, if any.</text>
+    <text>Upon reemployment from a layoff, the employee will be credited with sick leave, which was not converted, to cash at the time of layoff in accordance with <cite path="§AM-205-9">AM-205-9</cite>.</text>
+    <text>In the case of reinstatement from a voluntary resignation, the unpaid sick leave balance will be restored in accordance with <cite path="§AM-213-1">AM-213-1</cite>. Sick leave for which he/she was paid at the time of separation may not be repurchased.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1997-01-22" display="true">January 22, 1997</annotation>
+    <annotation type="History" effective="1998-07-30" display="true">July 30, 1998</annotation>
+    <annotation type="Related Policies"><cite path="§AM-203-2">AM-203-2</cite> FAMILY AND MEDICAL LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-15">AM-204-15</cite> EXTENDED SICK LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-22">AM-204-22</cite> INCLEMENT WEATHER</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> SEPARATION AND PAYMENT AT TERMINATION</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-9">AM-205-9</cite> REHIRING IN A CIVIL SERVICE CLASS AFTER LAYOFF</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-12">AM-205-12</cite> SICK LEAVE CONVERSION</annotation>
+    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> LEAVE OF ABSENCE WITHOUT PAY</annotation>
+    <annotation type="Related Policies"><cite path="§AM-213-1-1">AM-213-1-1</cite> REINSTATEMENT FOLLOWING SEPARATION FROM CITY SERVICE</annotation>
+  </annotations>
+</section>

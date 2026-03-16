@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-103-01</num>
+  <heading>Notification of Public Events</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>All City agencies are required to inform the Municipal Telephone Exchange of those public events, meetings, parades, involving the City or City officials as sponsors or participants, as well as special announcements, alerts, warnings that are intended for the general public. The Municipal Telephone Exchange is to be supplied a copy of all information disseminated by the agency relative to public events, news conferences, and city agency-related information of a timely nature that may prompt telephone calls from the public, such as immunization clinics for school children, essay/poster contests, special health screenings, parking fine amnesty month, annual tax sale, etc.</text>
+  </para>
+  <para name="required-information">
+    <heading>REQUIRED INFORMATION</heading>
+    <text>Information on matters of public interest and concern must be accurate and timely. The provided information must include the date, location and hours of the event. A contact person and telephone number within the agency must be included.</text>
+    <text>The following information should be available for internal use only by the Municipal Telephone Exchange, in case additional information is needed during non-business hours: the home telephone number of the contact person, a weekend contact, and name of the duty officer, if applicable.</text>
+  </para>
+  <para name="non-business-hours-contact-information">
+    <heading>NON-BUSINESS HOURS CONTACT INFORMATION</heading>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td>After Hours Contact Person: ______________</td>
+            <td>Contact #'s: __________________________</td>
+          </tr>
+          <tr>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Weekend Contact Person: ________________</td>
+            <td>Contact #'s: __________________________</td>
+          </tr>
+          <tr>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Duty Officer: __________________________</td>
+            <td>Contact #'s: __________________________</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </para>
+  <para name="notification">
+    <heading>NOTIFICATION</heading>
+    <text>Agencies must notify the Municipal Telephone Exchange by MEMORANDUM (28-1418-5007), at least ten (10) days prior to the scheduled event or as soon as possible. A news release may also be sent if it contains the "required information" noted previously.</text>
+    <text>When there are time changes, cancellations or other unanticipated situations, the Municipal Telephone Exchange must be notified immediately by telephone. This information should be confirmed by a memo as soon as possible. All notifications should be directed to:</text>
+    <text>Municipal Telephone Exchange<br/>Communication Services Supervisor<br/>201 E. Baltimore St., Suite 1100<br/>Telephone: 410-396-1903 or 410-396-4926<br/>Fax: 410-396-4547<br/>Mtesupervisor@baltimorecity.gov</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1998-04-09" display="true">April 9, 1998</annotation>
+    <annotation type="History" effective="2012-06-15" display="true">June 15, 2012</annotation>
+  </annotations>
+</section>

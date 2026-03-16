@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-230-3</num>
+  <heading>Creation and Abolishment of Positions</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy applies to all budgeted positions and all classes (Civil Service and non-Civil Service).</text>
+  </para>
+  <para name="authorization">
+    <heading>AUTHORIZATION</heading>
+    <text>The creation or abolishment of a position must be authorized by the Board of Estimates. Agencies must obtain this authorization by:</text>
+    <text>
+      <ul>
+        <li>A position action request in the agency's Annual Budget Request;</li>
+      </ul>
+    </text>
+    <text class="center">
+      <u>OR</u>
+    </text>
+    <text>
+      <ul>
+        <li>A direct request to the Board of Estimates</li>
+      </ul>
+    </text>
+  </para>
+  <para name="annual-budget-request">
+    <heading>ANNUAL BUDGET REQUEST</heading>
+    <text>See <cite path="§AM-405-7">AM-405-7</cite> through <cite path="§AM-405-9-1">AM-405-9-1</cite> for complete instructions concerning the inclusion of requests for position creations and/or abolishments in an agency's Annual Budget Request.</text>
+  </para>
+  <para name="direct-request-to-board-of-estimates">
+    <heading>DIRECT REQUEST TO BOARD OF ESTIMATES</heading>
+    <text>See the appropriate procedure listed below for detailed instructions concerning a direct request to the Board of Estimates for the creation and/or abolishment of positions:</text>
+    <text>
+      <ul>
+        <li><cite path="§AM-230-3-1">AM-230-3-1</cite>: For requesting creation of Civil Service positions.</li>
+        <li><cite path="§AM-230-3-2">AM-230-3-2</cite>: For requesting creation of non-Civil Service positions.</li>
+        <li><cite path="§AM-230-3-3">AM-230-3-3</cite>: For requesting abolishment of positions (Civil Service and non-Civil Service).</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1983-10-21" display="true">October 21, 1983</annotation>
+  </annotations>
+</section>

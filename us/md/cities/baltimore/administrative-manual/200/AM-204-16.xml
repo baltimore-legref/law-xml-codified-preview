@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-16</num>
+  <heading>Changes to recorded Leave</heading>
+  <text>After leave has been recorded on the PAYROLL ATTENDANCE REPORT and submitted to the Central Payroll Division, no change may be made to the recorded leave.</text>
+  <text>The Central Payroll Division will not honor requests to convert one type of recorded leave to another type of leave, even if loss of pay is involved.</text>
+  <annotations>
+    <annotation type="History" effective="1973-12-28" display="true">December 28, 1973</annotation>
+  </annotations>
+</section>

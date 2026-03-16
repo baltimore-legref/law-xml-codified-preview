@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-237-1-1</num>
+  <heading>Initiating a Criminal Background Investigation</heading>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>RESPONSIBILITY</th>
+          <th>ACTION</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>Appointing Officer</th>
+          <td proof="needed">
+            <p>1. If the position is flagged as confidential, have the final candidate(s) for the position complete a RELEASE AND AUTHORIZATION form (to be submitted to Department of Human Resources, Data Processing).</p>
+            <p>2. Complete the bottom portion of the RELEASE and AUTHORIZATION form. Include a budget account number on the bottom of the form so that the Department of Human Resources may charge the requesting agency for the cost of the criminal background investigation.</p>
+            <p>3. Maintain a photocopy of the completed RELEASE and AUTHORIZATION form in the employee's personnel file.</p>
+            <p>4. Forward the following to the Department of Human Resources:</p>
+            <ul proof="needed">
+              <li>The RELEASE and AUTHORIZATION form.</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <th>Department of Human Resources</th>
+          <td proof="needed">
+            <p>5. Upon receipt of a RELEASE and AUTHORIZATION form:</p>
+            <ul proof="needed">
+              <li>Enter the information from the form into the secure website for the City's vendor.</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <annotations>
+    <annotation type="History" effective="1991-09-12" display="true">September 12, 1991</annotation>
+    <annotation type="History" effective="2008-02-03" display="true">February 3, 2008</annotation>
+  </annotations>
+</section>

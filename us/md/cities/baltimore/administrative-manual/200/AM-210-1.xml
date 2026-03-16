@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-210-1</num>
+  <heading>Grievances</heading>
+  <para name="definition">
+    <heading>DEFINITION</heading>
+    <text>A grievance is a dispute concerning the application or interpretation of the terms of the Memoranda of Understanding between one of the various Employee Organizations and the City Administration, or a claimed violation, misinterpretation or misapplication of the rules or regulations of a municipal agency or the employer affecting the terms and conditions of employment.</text>
+  </para>
+  <para name="matters-which-cannot-be-grieved">
+    <heading>MATTERS WHICH CANNOT BE GRIEVED</heading>
+    <text>All matters which by law are vested in the Board of Estimates, the Civil Service</text>
+    <text>Commission/Department of Personnel, or a City agency cannot be the subject of a grievance. These include, but are not limited to :</text>
+    <text>
+      <ul>
+        <li>Determination of the mission of an agency.</li>
+        <li>Establishment of standards of service to be offered to the public.</li>
+        <li>Exercise of control and direction over an agency's organization and operation.</li>
+        <li>The right to direct employees and to hire, promote, transfer, assign, or retain employees in positions with an agency.</li>
+        <li>The right to suspend, demote, discharge, or take other appropriate disciplinary action against an employee for just cause.</li>
+        <li>Establishment of reasonable work rules.</li>
+        <li>Establishment or alteration of wages, hours or leave benefits.</li>
+        <li>Examination and qualification of employees and applicants for employment.</li>
+        <li>Classifications.</li>
+        <li>Relief from duty of employees in case of lack of work or funds, or other legitimate reason.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="who-may-initiate-a-grievance">
+    <heading>WHO MAY INITIATE A GRIEVANCE</heading>
+    <text>Grievances may be initiated by an employee, a group of employees, or certified organization representing employees.</text>
+  </para>
+  <para name="employee-representative">
+    <heading>EMPLOYEE REPRESENTATIVE</heading>
+    <text>An employee has the right to select a representative who may present his/her grievance or assist in any other manner. This representative may be selected from the agency where the grievance originated or may be any other representative.</text>
+    <text>An employee may select this representative any time during the grievance procedure. However, once the selection is made, it cannot be changed.</text>
+  </para>
+  <para name="unimpeded-procedure">
+    <heading>UNIMPEDED PROCEDURE</heading>
+    <text>No disciplinary action shall be taken against an employee or his/her representative solely for instituting or pursuing a grievance. Employees shall be entirely free from interference, discrimination, or coercion during all steps of the grievance procedure.</text>
+  </para>
+  <para name="absence-from-work">
+    <heading>ABSENCE FROM WORK</heading>
+    <text>Three employees, including the selected employee representative, may be excused from work to attend a grievance meeting at the First and Second Steps. Five employees maybe excused at the Third and Fourth Steps. These limitations may be exceeded only if prior permission is obtained from the person or persons designated to determine the grievance. Employees excused from work will suffer no loss of time or pay for scheduled work time spent attending grievance meetings.</text>
+  </para>
+  <para name="cost">
+    <heading>COST</heading>
+    <text>Any cost incurred for the contracting of an impartial arbitrator to settle the grievance in the Fourth Step shall be equally divided between the City and the employee organization representing the employee.</text>
+    <text>Any cost incurred for the participation of a mediator and/or arbitrator where the employee is represented by an employee organization will be paid as provided by the applicable Memorandum of Understanding.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1977-09-23" display="true">September 23, 1977</annotation>
+    <annotation type="History" effective="1996-08-25" display="true">August 25, 1996</annotation>
+  </annotations>
+</section>

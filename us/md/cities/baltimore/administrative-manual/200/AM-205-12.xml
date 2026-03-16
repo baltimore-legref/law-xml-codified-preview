@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-12</num>
+  <heading>Sick Leave Conversion</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy details employee eligibility for sick leave conversion and payment at the end of each sick leave year. The sick leave year begins on the day immediately following the last payroll period in November and extends through the last payroll period in November of the following year. An employee may convert to cash all or none of the days to which he is entitled. Conversion of only some of the days to which an employee is entitled as well as conversion pf partial days is not authorized.</text>
+  </para>
+  <para name="eligibility">
+    <heading>ELIGIBILITY</heading>
+    <text>When a sick leave day is used by an employee, the most recently accrued sick leave day is subtracted from the employee's leave balance. An employee's current sick leave year accumulation is therefore always affected whenever the employee uses sick leave.</text>
+    <text>All permanent employees whether full-time or permanent part-time are eligible for sick leave conversion at the end of each sick leave year, provided:  1) the employee's sick leave is controlled through the computerized system such that sick leave balance is printed on their check stub: and 2) they have a minimum balance of 4 unused sick leave days which were accumulated during the preceding 12 months.</text>
+  </para>
+  <para name="conversion-factor">
+    <heading>CONVERSION FACTOR</heading>
+    <text>For every 4 days of sick leave accumulated during the designated sick leave year, a permanent employee is eligible to convert 1 day to cash thereby retaining 3 days in his sick leave account balance.   The maximum number of days which can be converted is 3 days.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>Accumulated and Unused Sick Leave Days During Sick Leave Year</th>
+            <th>Number of Days Eligible Days for Conversion</th>
+            <th>Retained in Sick Leave Account</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>12</td>
+            <td>3</td>
+            <td>9</td>
+          </tr>
+          <tr>
+            <td>8 through 11</td>
+            <td>2</td>
+            <td>6 through 9</td>
+          </tr>
+          <tr>
+            <td>4 through 7</td>
+            <td>1</td>
+            <td>3 through 6</td>
+          </tr>
+          <tr>
+            <td>Less than 4</td>
+            <td>0</td>
+            <td>0 through 3</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </para>
+  <para name="payment">
+    <heading>PAYMENT</heading>
+    <text>Payment for sick leave conversion will not be included in the employee's regular salary check, but will be issued in a separate check. Direct deposit of sick leave conversion monies is NOT AVAILABLE.  Checks for such payment must be issued no later than December 24 of each year. Payments will be subject to Federal and State withholding taxes and Social Security.</text>
+  </para>
+  <para name="conversion-at-termination">
+    <heading>CONVERSION AT TERMINATION</heading>
+    <text>Upon termination of employment employees may, under certain conditions, be paid for a portion of their unused sick leave.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1988-06-14" display="true">June 14, 1988</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> TERMINATION OF EMPLOYMENT</annotation>
+  </annotations>
+</section>

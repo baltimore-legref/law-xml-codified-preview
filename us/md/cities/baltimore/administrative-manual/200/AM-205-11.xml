@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-11</num>
+  <heading>Effect of Daylight Savings &amp; Standard Time Changes on Employees' pay</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy determines pay for an employee whose work shift is affected by the shortening of actual hours worked or whose work shift is affected by the extension of actual hours worked because of observance of Daylight Savings Time or the return to Standard Time.</text>
+  </para>
+  <para name="daylight-savings-time">
+    <heading>DAYLIGHT SAVINGS TIME</heading>
+    <text>No city employee will lose pay due to a shortening of his actual hours of work caused by the changing of clocks for the observance of Daylight Savings Time.</text>
+  </para>
+  <para name="standard-time">
+    <heading>STANDARD TIME</heading>
+    <text>An employee whose actual hours of work are extended due to the changing of clocks for the return of Standard Time will be eligible for paid overtime or to accrue compensatory time as appropriate for all work performed in excess of the regular work shift.</text>
+  </para>
+  <para name="payroll-markings">
+    <heading>PAYROLL MARKINGS</heading>
+    <text>An employee affected by the shortening of actual hours worked should be recorded on the PAYROLL ATTENDANCE SHEET (147-019) with the appropriate marking which reflects a full work shift, i.e., "/" or the number of work hours, "7.3".</text>
+    <text>An employee affected by the extension of actual hours worked should be recorded on the PAYROLL ATTENDANCE SHEET with the appropriate marking which reflects the amount of overtime worked or compensatory time to be accrued, i.e., "1.0" hours.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-02-14" display="true">February 14, 1989</annotation>
+  </annotations>
+</section>

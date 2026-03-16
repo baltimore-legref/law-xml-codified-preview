@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-2-1</num>
+  <heading>Overtime Conversion Chart</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Overtime is recorded and compensation granted in 6 minute increments.   The following chart may be used to convert minutes to fractions of an hour for the purpose of recording overtime on the PAYROLL ATTENDANCE REPORT (<cite path="§AM-204-16-1">AM-204-16-1</cite>).</text>
+    <text>
+      <strong>OVERTIME CONVERSION CHART  (11 Minutes De Minimus)</strong>
+    </text>
+    <text>
+      <strong>
+        <u>Minutes					Fraction Of An Hour</u>
+      </strong>
+    </text>
+    <text>
+      <strong>0 – 11…………………………………………………..0.0</strong>
+    </text>
+    <text>
+      <strong>12………………………………………………………0.2</strong>
+    </text>
+    <text>
+      <strong>13 – 18…………………………………………………0.3</strong>
+    </text>
+    <text>
+      <strong>19 – 24…………………………………………………0.4</strong>
+    </text>
+    <text>
+      <strong>25 – 30…………………………………………………0.5</strong>
+    </text>
+    <text>
+      <strong>31 – 36…………………………………………………0.6</strong>
+    </text>
+    <text>
+      <strong>37 – 42…………………………………………………0.7</strong>
+    </text>
+    <text>
+      <strong>43 – 48…………………………………………………0.8</strong>
+    </text>
+    <text>
+      <strong>49 – 54…………………………………………………0.9</strong>
+    </text>
+    <text>
+      <strong>55 – 60…………………………………………………1.0</strong>
+    </text>
+    <text>
+      <strong>61 – 66…………………………………………………1.1</strong>
+    </text>
+    <text>
+      <strong>67 – 72…………………………………………………1.2</strong>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-01-02" display="true">January 2, 1990</annotation>
+  </annotations>
+</section>

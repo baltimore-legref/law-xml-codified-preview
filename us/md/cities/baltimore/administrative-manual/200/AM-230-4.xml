@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-230-4</num>
+  <heading>Reclassification of Positions</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy applies to all budgeted positions and all classes (Civil Service and non-Civil Service.</text>
+  </para>
+  <para name="definitions">
+    <heading>DEFINITIONS</heading>
+    <text>A <u>budgeted position</u> is a group of duties and responsibilities requiring the full-time employment of 1 person. A budgeted position is commonly referred to as a "job," and is assigned a "job number." (See <cite path="§AM-230-2">AM-230-2</cite> for complete information concerning job numbers.)</text>
+    <text>A <u>class</u> is an employment category comprised of positions having similar duties, responsibilities, and qualifications. The creation of a new class is necessary whenever the employee's duties do not correspond to any existing Civil Service or non-Civil Service class.</text>
+    <text><u>Reclassification</u> is the changing of the class of a budgeted position due to a change in the duties and responsibilities of the position.</text>
+  </para>
+  <para name="requesting-reclassification-of-positions">
+    <heading>REQUESTING RECLASSIFICATION OF POSITIONS</heading>
+    <text>For complete information concerning the submission of position reclassification requirements, see the appropriate Administrative Manual document cited below:</text>
+    <text>
+      <ul>
+        <li>For positions in Civil Service classes: <cite path="§AM-230-4-2">AM-230-4-2</cite>.</li>
+        <li>For positions in non-Civil Service classes: <cite path="§AM-230-4-3">AM-230-4-3</cite>.</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1983-10-21" display="true">October 21, 1983</annotation>
+  </annotations>
+</section>

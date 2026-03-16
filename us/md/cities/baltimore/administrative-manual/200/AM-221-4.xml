@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-221-4</num>
+  <heading>Moving Expenses</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy establishes responsibility for certain moving expenses, when an individual is moving personal belongings and/or family in order to assume a position with the City government.   Under no circumstances will the City consider or approve reimbursement of moving expenses for personal belongings or related expenses unless the charges are approved by the Board of Estimates in advance.  A move of less than 50 miles in radius from the City of Baltimore will  not be approved for reimbursement.</text>
+  </para>
+  <para name="covered-costs">
+    <heading>COVERED COSTS</heading>
+    <text>In circumstances which may arise from the level of position being filled and the costs of an interstate move, an agency head may request the Board of Estimates to defray the costs of certain moving expenses in order to secure the services of an individual.  In such cases, the move must involve a radius of more than 50 miles and be limited to the costs of the move of personal belongings. The City under no circumstances will be responsible for reimbursement of family or related expenses incurred in an interstate move, i.e., overnight lodging, personal vehicle travel, etc.</text>
+  </para>
+  <para name="cost-determination">
+    <heading>COST DETERMINATION</heading>
+    <text>It is the responsibility of the agency head to secure from the individual accepting City employment 2 estimates of the move costs.   Such cost estimates must detail the scope of the estimate, i.e. move is limited to cost of personal belongings.  The Board of Estimates shall stipulate the amount of moving expenses to be covered in its approval.</text>
+  </para>
+  <para name="luxury-items">
+    <heading>LUXURY ITEMS</heading>
+    <text>The decision to pay expenses for transport and/or the move of luxury items i.e., pianos, boats, cars, etc., rests entirely with the Board of Estimates.</text>
+  </para>
+  <para name="reimbursement-prices">
+    <heading>REIMBURSEMENT PRICES</heading>
+    <text>An individual who has received reimbursement approval of moving expenses for personal belongings must present the original bill of lading which details transport weight, hourly cost or flat rate charge etc., to his agency head or designee.  Reimbursement of approved expenses will be obtained by preparing a DIRECT PAYMENT ORDER (28-1428-5035), which must be approved for available funds by the appropriate analyst in the Bureau of the Budget and Management Research.  The original bill of lading is to be processed with the DIRECT PAYMENT ORDER and the letter of approval by the Board of Estimates.   The budget analyst should forward the request approval to the Bureau of Payroll and Disbursements.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1988-11-15" display="true">November 15, 1988</annotation>
+    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDERS</annotation>
+  </annotations>
+</section>

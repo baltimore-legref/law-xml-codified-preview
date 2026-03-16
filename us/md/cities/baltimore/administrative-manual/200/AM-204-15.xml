@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-15</num>
+  <heading>Extended Sick Leave</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>An employee who is unable to return to work due to a non-job related injury, personal illness or disability, may request extended sick leave with pay from his agency head.  To be eligible for extended sick leave, an employee must have used all accumulated sick, vacation, compensatory, and personal leave.  The Civil Service Commission is responsible for processing and reviewing requests of EXTENDED SICK LEAVE regardless of whether the employee serves in a Civil Service or non-Civil Service classification.</text>
+  </para>
+  <para name="exception">
+    <heading>EXCEPTION</heading>
+    <text>If the employee's absence is the result of an on-the-job injury, the employee must have used all the job-injury leave he has earned as well as his accumulated sick leave in order to be eligible for extended sick leave.  He does not have to use his accumulated vacation, compensatory time or personal leave.</text>
+  </para>
+  <para name="agency-head-role">
+    <heading>AGENCY HEAD ROLE</heading>
+    <text>If the agency head finds that the extension is warranted, he must submit an EXTENDED SICK LEAVE REQUEST (28-1608-5116) to the Civil Service Commission.  This requirement applies to all agencies including those which are not under the jurisdiction of Civil Service.</text>
+  </para>
+  <para name="civil-service-role">
+    <heading>CIVIL SERVICE ROLE</heading>
+    <text>Civil Service will conduct an individual review of each case submitted and will either approve or disapprove the request based upon the following factors:</text>
+    <text>
+      <ul>
+        <li>Doctor's condition report;</li>
+        <li>Past record of employee's use of sick leave;</li>
+        <li>Seniority;</li>
+        <li>Likelihood of return to duty;</li>
+        <li>Disability retirement implications</li>
+      </ul>
+    </text>
+  </para>
+  <para name="maximum-extension">
+    <heading>MAXIMUM EXTENSION</heading>
+    <text>Civil Service will not approve more than 1/2 the sum of an employee's year-end sick leave balance for the 2 or 3 calendar years immediately preceding the request, i.e. December 31, as determined by the negotiated agreement governing the employee's position classification.</text>
+    <text><u>Example</u>:	An employee requests sick leave on August 10, 1988.  His sick leave balance as of December 31, 1987, was 28 days, and as of December 31, 1988 was 40 days.  Using the computation rule for prior 2 years:</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td/>
+            <td>28 days -- Sick leave balance as of 12-31-87.</td>
+          </tr>
+          <tr>
+            <td data-text-align="right">+</td>
+            <td><u>40 days</u> -- Sick leave balance as of 12-31-88.</td>
+          </tr>
+          <tr>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td/>
+            <td>68 days -- Two year sum.</td>
+          </tr>
+          <tr>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td/>
+            <td>1/2 x 68 days = 34 days maximum extended sick leave</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>Allowances will be made for employees with less than 2 years of completed service.  However, an approved time extension cannot exceed the maximum limit of 1 day for each completed month of service.</text>
+  </para>
+  <para name="earned-leave">
+    <heading>EARNED LEAVE</heading>
+    <text>During an employee's EXTENDED SICK LEAVE he continues to have leave balances print on his salary check stub, leave listings, etc..  However, any leave recorded during this period has not been earned by the employee.  Therefore, the Central Payroll Division manually adjusts the leave balance to zero when the individual's approved EXTENDED SICK LEAVE entitlement expires.</text>
+  </para>
+  <para name="pay-back-provision">
+    <heading>PAY-BACK PROVISION</heading>
+    <text>Depending on the negotiated agreement governing the employee's position classification, he may be required to pay-back all or a portion of extended sick leave time upon return to active duty and accumulation of sick leave days.  This action is implemented by the Payroll Division when the affected employee's accumulation reaches 10 or more sick leave balance days.  Consult your agency personnel officer or appropriate negotiated agreement regarding applicability of this provision.</text>
+  </para>
+  <para name="holiday-marking">
+    <heading>HOLIDAY MARKING</heading>
+    <text>If an employee is already on EXTENDED SICK LEAVE when a holiday occurs, EXTENDED SICK LEAVE will not be charged for the holiday.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-07-01" display="true">July 1, 1989</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-10">AM-204-10</cite> JOB INJURY LEAVE</annotation>
+  </annotations>
+</section>

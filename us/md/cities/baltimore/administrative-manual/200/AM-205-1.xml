@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-1</num>
+  <heading>Salary</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Board of Estimates establishes the salary of all City classes whether the employee is in a Civil Service class or a Non-Civil Service class.</text>
+  </para>
+  <para name="types-of-salary">
+    <heading>TYPES OF SALARY</heading>
+    <text>There are two types of salary, which have been established by the Board of Estimates. They are a FLAT SALARY and a GRADED SALARY.</text>
+    <text>
+      <strong>Flat Salary</strong>
+    </text>
+    <text>In the case of a FLAT SALARY, i.e., grade 000 and grade 999, the Board of Estimates establishes the salary of a class at a fixed, non-incremental amount or that of an approved salary within the established flat range. An employee who fills a flat salaried classification does not receive a salary level movement after 18 months of service, but is eligible for the annually negotiated cost of living increase and for advancement on the salary scale for seniority if otherwise eligible. An employee whose salary is that of a flat salary classification is not subject to negotiation but is established by the Board of Estimates. Director of Personnel may authorize movement within the range of a variable ranged flat salary grade of 999 when requested by an agency with sound supporting justification.</text>
+    <text>
+      <strong>Graded Salary</strong>
+    </text>
+    <text>In the case of a GRADED SALARY, the Board of Estimates may establish the salary of a class at a specified grade, i.e., 61, 410, and 117. Each grade has a specific range with a specific minimum and maximum salary. The range between the minimum and maximum salary is separated by a single increment. An employee begins employment at the minimum of the appropriate salary range and advances 18 months to the middle increment and 18 months hence advances to the maximum of the salary for the grade. The granting of any advance within the range is subject to the City's fiscal condition and satisfactory performance of the employee. An employee whose salary is in a graded salary classification may be increased through the collective bargaining process and subsequently requires Board of Estimates approval.</text>
+  </para>
+  <para name="base-salary">
+    <heading>BASE SALARY</heading>
+    <text>An employee's base salary is either:</text>
+    <text>
+      <ul>
+        <li>The amount of the employee's placement in his grade after any longevity amount has been removed.</li>
+      </ul>
+    </text>
+    <text class="center">OR</text>
+    <text>
+      <ul>
+        <li>The amount of the employee's specified flat salary.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="starting-salary">
+    <heading>STARTING SALARY</heading>
+    <text>The starting salary of a new employee whether in a Civil Service or non-Civil Service class is determined as follows:</text>
+    <text>
+      <ul>
+        <li>If the employee's class has a flat salary, then the starting salary will be the stated flat rate for those classes in grade 000 or the agreed salary, which is in the range for those classes established in grade 999.</li>
+        <li>If the employee's class has a graded salary, then the starting salary will be the minimum of the class range.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="recruitment-difficulty---civil-service">
+    <heading>RECRUITMENT DIFFICULTY - CIVIL SERVICE</heading>
+    <text>In certain circumstances, the Personnel Director of the Department of Personnel may authorize a higher starting salary or when not empowered to do so, may seek the approval of the Board of Estimates. In the case of current City employees, the promotion rule would apply. Refer to <cite path="§AM-235-1">AM-235-1</cite>.</text>
+    <text><strong>Flat Salary - </strong>The Personnel Director of the Department of Personnel may not authorize a starting salary, which is higher than an established flat salary. When the Department of Personnel has difficulty locating qualified applicants who will accept employment at the established flat salary, then the Department of Personnel must request the Board of Estimates to upgrade the class or revise the class to a ranged flat grade i.e., 999, and establish an equitable range. An employee who fills a ranged flat salary does not receive an 18 months level movement, but is eligible for a cost of living increase and longevity increase if approved. Also, the employee does not automatically progress through the classification salary range.</text>
+    <text><strong>Graded Salary - </strong>The Personnel Director of the Department of Personnel may authorize a starting salary which is higher than the beginning range of the class, including merit levels, when the Department of Personnel documents difficulty in locating qualified applicants who will accept employment at the established starting salary.</text>
+  </para>
+  <para name="recruitment-difficulty---non-civil-service">
+    <heading>RECRUITMENT DIFFICULTY - NON-CIVIL SERVICE</heading>
+    <text>If an agency which has the authority to employ non-Civil Service personnel documents difficulty in locating qualified applicants who will accept employment at the established starting salary, the agency head may request the Department of Personnel to:</text>
+    <text><strong>Flat Salary</strong> - recommend to the Board of Estimates to authorize the upgrading of the grade in question or conversion of the classification to a ranged flat.</text>
+    <text><strong>Graded Salary</strong> - authorize a starting salary, which is higher than the beginning range.</text>
+    <text>In the case of current City employees, the promotion rule would apply. Refer to <cite path="§AM-235-1">AM-235-1</cite>, Promotions.</text>
+  </para>
+  <para name="salary-of-transferred-employees">
+    <heading>SALARY OF TRANSFERRED EMPLOYEES</heading>
+    <text>If an employee transfers between agencies, programs, or funds and retains his present class, he shall also retain his present salary, provided the gaining agency approves funds to fill the position at this salary. The employee's increment date is not affected by a transfer.</text>
+  </para>
+  <para name="salary-after-promotion">
+    <heading>SALARY AFTER PROMOTION</heading>
+    <text>The salary of an employee who has been promoted to a higher grade within a class is set in accordance with <cite path="§AM-235-1">AM-235-1</cite>, PROMOTION.</text>
+  </para>
+  <para name="salary-after-upgrading">
+    <heading>SALARY AFTER UPGRADING</heading>
+    <text>The salary of an employee whose job class has been upgraded is determined as follows:</text>
+    <text>
+      <ul>
+        <li>If the salary range of the class has the same total number of levels after upgrading as before upgrading, then the employee shall move to the same level in the higher salary grade.</li>
+        <li>If the salary range of the class has fewer total levels after upgrading than before upgrading, then the employee shall move to the same salary level in the higher grade and class. However, if the upgraded class has no level corresponding to the employee's present level, he shall advance to the hiring level of the new grade.</li>
+      </ul>
+    </text>
+    <text>An employee's level movement date is not affected by an upgrading of his class.</text>
+  </para>
+  <para name="salary-after-demotion">
+    <heading>SALARY AFTER DEMOTION</heading>
+    <text>The salary of an employee who has been demoted to a lower class either voluntarily or involuntarily is determined as follows:</text>
+    <text>
+      <ul>
+        <li>If employee's present salary is the same as or greater than the maximum of the lower class, then the employee shall receive the maximum salary of the lower class.</li>
+        <li>If employee's present salary is less than the maximum of the lower class, then the employee shall receive the salary of the level in the lower class, which is closest to his present salary. He shall then advance in the normal manner until the maximum salary of the lower class is reached.</li>
+      </ul>
+    </text>
+    <text>An employee's level movement date is not affected by demotion.</text>
+  </para>
+  <para name="salary-after-downgrading">
+    <heading>SALARY AFTER DOWNGRADING</heading>
+    <text>Civil Service and Non-Civil Service positions may be downgraded as a result of a Civil Service action approved by the Board of Estimates. Changes in salary for an employee whose position or job classification has been downgraded are determined in accordance with the provisions of <cite path="§AM-230-5">AM-230-5</cite>, Downgrading. Any adjustment to salary resulting from a position or job classification downgrading will be implemented in three phases.</text>
+  </para>
+  <para name="effective-date-of-salary-change">
+    <heading>EFFECTIVE DATE OF SALARY CHANGE</heading>
+    <text>The effective date of a salary change is determined as follows:</text>
+    <text>
+      <ul>
+        <li>If the employee's approval date for promotion, demotion, upgrading, downgrading, or his level movement date falls within the first half of a payroll period, then the salary change is effective the first day of that payroll period.</li>
+        <li>If an employee's approval date or level movement date falls within the second half of a payroll period, then the salary change is effective the first day of the following payroll period.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="charges-to-salary">
+    <heading>CHARGES TO SALARY</heading>
+    <text>Certain employees will be charged for any housing, subsistence or transportation provided to them. These charges will be deducted from the employee's initial paycheck. Those employees affected by this provision should consult the Bureau of Accounting and Payroll Services, Department of Finance.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-10-10" display="true">October 10, 1990</annotation>
+    <annotation type="History" effective="2000-05-30" display="true">May 30, 2000</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-30">AM-204-30</cite> DETERMINATION OF BENEFITS: PART I</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-31">AM-204-31</cite> DETERMINATION OF BENEFITS: PART II</annotation>
+    <annotation type="Related Policies"><cite path="§AM-230-5">AM-230-5</cite> DOWNGRADING</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-13">AM-205-13</cite> LONGEVITY INCREMENTS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-235-1">AM-235-1</cite> PROMOTION</annotation>
+    <annotation type="Related Policies">AM-290 SALARY SCHEDULES</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-17</num>
+  <heading>Attendance Record</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>All agencies are required to keep a detailed record of each employee's attendance on an ATTENDANCE RECORD (28-1408-5151)  [<cite path="§AM-204-17-1">AM-204-17-1</cite>].</text>
+  </para>
+  <para name="purpose">
+    <heading>PURPOSE</heading>
+    <text>The purpose of this record is to: (1) serve as a document for the recording of each employee's attendance during a calendar year; and (2) supply supervisors with the necessary information regarding their employees' attendance.</text>
+  </para>
+  <para name="employees-involved">
+    <heading>EMPLOYEES INVOLVED</heading>
+    <text>An ATTENDANCE RECORD must be prepared and retained for <u>each</u> City employee.</text>
+  </para>
+  <para name="other-attendance-report">
+    <heading>OTHER ATTENDANCE REPORT</heading>
+    <text>An agency's PAYROLL ATTENDANCE REPORT (147-019)  [<cite path="§AM-204-16-1">AM-204-16-1</cite>] must be prepared in <u>addition</u> to an ATTENDANCE REPORT.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1981-12-15" display="true">December 15, 1981</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-29</num>
+  <heading>Domestic Partner Benefits</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The definition and use of the term "domestic partner" means two same-gender adults who have chosen to share all aspects of each other's lives in an intimate and committed relationship. Many domestic partners are unable to marry because the law prohibits same-gender marriage in the state in which they maintain their legal residence. However, to receive benefits for a domestic partner as a City employee, the following requirements must be met:</text>
+    <text>
+      <ul>
+        <li>The two persons must have shared a common legal residence for at least six months;</li>
+        <li>The two persons must agree to share basic living expenses, including food, shelter, and other expenses which are paid, at least in part, by a program or benefit for which the partner is qualified because of the domestic partnership;</li>
+        <li>Neither person may be married or in any other domestic partnership;</li>
+        <li>The two persons must not be related by blood in a way that would bar marriage under Maryland law;</li>
+        <li>Both persons must be age 18 or older and have the capacity to contract; and</li>
+        <li>Both persons must sign an "Affidavit of Domestic Partnership" (hereinafter "Affidavit").</li>
+      </ul>
+    </text>
+  </para>
+  <para name="documentation-for-domestic-partnership">
+    <heading>DOCUMENTATION FOR DOMESTIC PARTNERSHIP</heading>
+    <text>In addition to executing the "Affidavit", the partners will be required to present evidence to prove mutual economic dependence, such as a joint lease, mortgage, or power of attorney. They will also be required to show evidence of common legal residence by presenting driver's licenses, voter registration cards, or other identification. In addition to evidence of common legal residence, a copy of a birth certificate for each person must also be presented. The proof must have been in existence for at least six months before filing of the "Affidavit". Affidavits are available from and filed with the Employee Benefits Division, Department of Personnel, 201 E. Baltimore Street.</text>
+  </para>
+  <para name="insurance-programs">
+    <heading>INSURANCE PROGRAMS</heading>
+    <text>The domestic partner may apply for the following coverage through the provider of the employee:</text>
+    <text>
+      <ul>
+        <li>Health insurance coverage;</li>
+        <li>Prescription drug coverage;</li>
+        <li>Dental insurance coverage; and</li>
+        <li>Vision care benefits.</li>
+      </ul>
+    </text>
+    <text>To receive benefits cited above, the employee and his/her domestic partner must both enroll in the programs above within 60 days of the qualifying event or during the annual Open Enrollment period.</text>
+  </para>
+  <para name="other-benefits">
+    <heading>OTHER BENEFITS</heading>
+    <text>Any benefits of employment which are based upon a spousal relationship and defined in the City's Personnel Rules and Regulations, the applicable Memorandum of Understanding, and the <em>Administrative Manual</em> will also be applied to a domestic partner.</text>
+    <text>Eligible dependents of domestic partners must provide the same proof and verification that is requested for spousal and dependent relations. This includes:</text>
+    <text>
+      <ul>
+        <li>Entitlement as outlined in the Bereavement Leave Policy; and</li>
+        <li>Entitlement as outlined in the Family and Medical Leave Policy.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="procedures">
+    <heading>PROCEDURES</heading>
+    <text>The employee and domestic partner must complete an "Affidavit of Domestic Partnership," which both must sign and have notarized to apply for benefits. Appropriate documentation must be submitted with the "Affidavit" to the Employee Benefits Division in the Department of Personnel.</text>
+    <text>The employee will be notified after the Employee Benefits Division has reviewed the "Affidavit" and documentation, and a determination has been made that the eligible requirements are met.</text>
+  </para>
+  <para name="change-in-affidavit-information">
+    <heading>CHANGE IN AFFIDAVIT INFORMATION</heading>
+    <text>Any changes in the circumstances attested to in the "Affidavit of Domestic Partnership" must be communicated to the Employee Benefits Division. The Employee Benefits Division will review any changes to determine if they affect domestic partnership benefits. If it is determined that domestic partnership benefits are not affected by the change, no action will be taken. If the Employee Benefits Division determines the partnership is no longer eligible for domestic partnership benefits, benefits will be terminated. The employee and the health care provider will receive a notice, which will include:</text>
+    <text>
+      <ul>
+        <li>The names of the employee, the partner, and other dependents; and</li>
+        <li>The reason for termination of benefits.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="fraud">
+    <heading>FRAUD</heading>
+    <text>The sworn "Affidavit" includes acknowledgment by the participants that civil action may be brought against them for any losses or costs because of false statements or failure to notify the City in the event of termination of the partnership. A separate "Affidavit of Termination of Domestic Partnership" is provided for this purpose. The "Affidavit" further contains a statement certifying that the facts represented are true and correct and that willful falsification of information could lead to disciplinary action up to and including termination.</text>
+  </para>
+  <para name="termination-of-partnership">
+    <heading>TERMINATION OF PARTNERSHIP</heading>
+    <text>If the relationship ends, the employee must complete an "Affidavit of Termination of Domestic Partnership" and a "Benefits Selection Form". This affidavit and benefit form must be delivered to the domestic partner and the Employee Benefits Division. The Employee Benefits Division will inform the health care provider of the termination of partnership.</text>
+    <text>The "Affidavit" states that the employee may not re-apply for domestic partnership benefits for at least six months from the date the "Affidavit of Termination of Domestic Partnership" is processed by the Employee Benefits Division.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="1992-01-09">January 9, 1992</annotation>
+    <annotation type="History" display="true" effective="2000-09-14">September 14, 2000</annotation>
+    <annotation type="Related Policies"><cite path="§AM-203-2">AM-203-2</cite> FAMILY AND MEDICAL LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-8">AM-204-8</cite> LEAVE OF ABSENCE - BEREAVEMENT</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-23">AM-204-23</cite> HEALTH CARE PROVISIONS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-24">AM-204-24</cite> PRESCRIPTION DRUG PROGRAM</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-26">AM-204-26</cite> OPTICAL/VISION PROGRAM</annotation>
+  </annotations>
+</section>

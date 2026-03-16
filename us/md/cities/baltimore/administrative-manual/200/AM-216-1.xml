@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-216-1</num>
+  <heading>Death Benefits</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy stipulates the death benefit(s) which a designated survivor of an eligible City employee is entitled. Eligible employees must be serving in a permanent full-time position or permanent part-time status at the time of death and have at least 12 months of continuous service. The death benefit entitlement is subject to revision depending upon the negotiated agreement affecting the employee's position classification. Eligibility for death benefits includes those City employees who are members of any Maryland State Retirement of Pension System as well as those employees who are members of any of the systems within any of the City Retirement Systems. The Department of Finance, Bureau of Payroll and Disbursements, shall be the repository of all records pertaining to the payment of death benefits exclusive of those records required by the appropriate City Retirement Systems in determination of similar benefits if applicable.</text>
+  </para>
+  <para name="leave-entitlement">
+    <heading>LEAVE ENTITLEMENT</heading>
+    <text>When an employee dies his legal heir(s) is entitled to payment for all unused vacation and/or personal leave time the deceased had accrued. In addition, the legal heir(s) of certain eligible employees, i.e., those classified as FLSA non-exempt employees, will be paid for accumulated compensatory time subject to the 240 hours ceiling. It shall be paid at the rate of pay for the classification in which the employee was serving at the time of death. All payments for leave entitlement are subject to taxation, liens, garnishments, overpayments, etc., provided such were in effect prior to the employee's death. Subsequently, payment for leave entitlement will be effectuated by a payroll check made payable to the deceased and forwarded to the beneficiary of estate.</text>
+    <text>If the employee did not use extended sick leave in excess of his bonus entitlement within six (6) months of his date of death, his legal heir(s) is eligible to receive a further payment equivalent to the employee's vacation leave entitlement for twelve (12) months. The later entitlement is determined by the deceased employee's annual accrual rate at the time of death.</text>
+  </para>
+  <para name="documentation">
+    <heading>DOCUMENTATION</heading>
+    <text>Appropriate documentation necessary for any legal heir(s) to collect the death benefit should be directed to the Bureau of Payroll and Disbursements, 8<sup>th</sup> Floor, M.E.C.U. Building, 401 E. Fayette Street, Attn: Chief. In most cases, a notarized copy of the death certificate and completed beneficiary certification form is sufficient to establish the claim for a death benefit.</text>
+    <text>In the case where the deceased was a member of one of the Employees' Retirement Systems an additional benefit may be authorized. The survivor should contact the Employees' Retirement Systems Office, City Hall, Room 640, for appropriate determination.</text>
+  </para>
+  <para name="designation-of-beneficiary">
+    <heading>DESIGNATION OF BENEFICIARY</heading>
+    <text>A fully completed, notarized and executed beneficiary form must be on file with the Department of Finance, Bureau of Payroll and Disbursements, if the death benefit is to be paid to the designated survivor. Failure of the employee to properly file the beneficiary form as noted could result in either the payment of the death benefit to the employee's estate or to the designated beneficiary on file with the appropriate City's Employees Retirement System.</text>
+  </para>
+  <para name="benefit-designation">
+    <heading>BENEFIT DESIGNATION</heading>
+    <text>Entitlement varies with the employee's designated union representation code. The chart at <cite path="§AM-216-2">AM-216-2</cite> summarizes the City's death benefit entitlement; however, it is subject to the current negotiated agreement affecting the employee's classification.</text>
+  </para>
+  <para name="payment">
+    <heading>PAYMENT</heading>
+    <text>The City's death benefit will be effectuated by that insurance company so designated by the City and shall be paid directly to the authorized beneficiary or to the employee's estate whichever is more appropriate.</text>
+  </para>
+  <para name="retirees">
+    <heading>RETIREES</heading>
+    <text>To file for any death benefit payment which may be authorized, the legal heir(s) must contact the Department of Finance, Bureau of Payroll and Disbursements. Proper documentation regarding the retiree as well as a properly executed beneficiary form must be on file with the Department of Finance. Legal heir(s) of a City retiree should contact the Bureau of Payroll and Disbursements, Attn: Chief, Room 800, 401 E. Fayette Street, relative to coverage.</text>
+  </para>
+  <para name="catastrophic-illness">
+    <heading>CATASTROPHIC ILLNESS</heading>
+    <text>An employee may be eligible to collect a catastrophic illness benefit subject to appropriate documentation. To determine eligibility for such payment the employee should consult the appropriate agreement affecting their position classification. To file for catastrophic illness payment an employee must contact the Department of Finance, Bureau of Payroll and Disbursements, 8<sup>th</sup> Floor, M.E.C.U. Building, 401 E. Fayette St., Attn: Chief. Eligibility and Documentation necessary to process illness payment should be determined at that time.</text>
+    <text>Payment of catastrophic illness benefits precludes any subsequent claim to the City's death benefit. It does not, however, prohibit any similar benefit emanating from the appropriate Employees' Retirement System.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-01-01" display="true">January 1, 1990</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-2">AM-204-2</cite> VACATION LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-15">AM-204-15</cite> EXTENDED SICK LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-216-2">AM-216-2</cite> CHART – DEATH BENEFITS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-216-2-1">AM-216-2-1</cite> DESIGNATION OF BENEFICIARY FORM</annotation>
+  </annotations>
+</section>

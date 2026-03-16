@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-18</num>
+  <heading>Portal-to-Portal Pay</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Depending upon the City employee's designated position Representation Code, and if he is also domiciled in Baltimore City bust must travel to a City work site in a county location, that employee may be eligible to receive portal-to-portal pay.</text>
+  </para>
+  <para name="union-affiliation/rate">
+    <heading>UNION AFFILIATION/RATE</heading>
+    <text>Eligible City employees whose positions are designated by Representation Codes: M, U, 1, 4, 6, 7, and 9, may receive 10 cents per day for reporting to work at a City work site which is located in the county; an additional 10 cents per day worked is authorized for eligible employees for return to the City.</text>
+  </para>
+  <para name="back-river-waste-water-treatment-plant">
+    <heading>BACK RIVER WASTE WATER TREATMENT PLANT</heading>
+    <text>Employees of the Back River Waste Water Treatment Plant living either within or outside the City limits and travelling to and from the plant located in Baltimore County, shall receive a portal-to-portal travel expense of 20 cents per day worked.</text>
+  </para>
+  <para name="payroll-designation">
+    <heading>PAYROLL DESIGNATION</heading>
+    <text>Designation of portal-to-portal pay must be recorded on the PAYROLL ATTENDANCE SHEET (147-093) each bi-weekly as an adjustment to GROSS for the employee. The adjustment marking and total due must also reflect the accompanying 12 digit budget account number, charged to object, sub-object 302.</text>
+  </para>
+  <para name="representation-designations">
+    <heading>REPRESENTATION DESIGNATIONS</heading>
+    <text>The following representation code designations apply to this policy.</text>
+    <text>Code Designations</text>
+    <text>
+      <ul>
+        <li>M - UNREPRESENTED - (designated benefits Salary Schedule B)</li>
+        <li>U - CITY UNION OF BALTIMORE</li>
+        <li>1 - AFSCME - Local 44</li>
+        <li>4 - CMEA</li>
+        <li>6 - MAPS</li>
+        <li>7 - UNREPRESENTED - (designated benefits Salary Schedule A)</li>
+        <li>9 - UNREPRESENTED (Managerial and Professional Society)</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-03-01" display="true">March 1, 1990</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-209-1</num>
+  <heading>Union Visitation</heading>
+  <para name="discussion-of-grievances">
+    <heading>DISCUSSION OF GRIEVANCES</heading>
+    <text>Upon request, any recognized and accredited representative of the Union shall be granted reasonable time off with pay during working hours for the purpose of processing grievances in accordance with the appropriate grievance procedure provided that there is no interference with work performance. The union steward or representative must make an appointment in advance with the appropriate management representative.</text>
+  </para>
+  <para name="notices-and-communications">
+    <heading>NOTICES AND COMMUNICATIONS</heading>
+    <text>A union steward or representative may visit work areas during working hours without loss of pay for the purpose of:</text>
+    <text>
+      <ul>
+        <li>Posting official notices on designated union bulletin board.</li>
+        <li>Transmitting union-authorized communications to the employer or a management representative.</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-09-16" display="true">September 16, 2004</annotation>
+    <annotation type="History" effective="2016-10-26" display="true">October 26, 2016</annotation>
+  </annotations>
+</section>

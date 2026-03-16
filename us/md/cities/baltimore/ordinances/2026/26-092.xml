@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-092" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-092</num>
+  <num type="bill">25-0138</num>
+  <heading type="short">Excise Tax Increase - Passenger-for-Hire Services</heading>
+  <heading type="long">An Ordinance Concerning Excise Tax Increase - Passenger-for-Hire Services</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-12-04</introduced>
+    <effective>2026-06-24</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-092.pdf">Ord. 26-092</citation>
+    </citations>
+    <history>
+      <vote date="2025-12-04" reading="first"/>
+      <vote date="2026-02-09" reading="second"/>
+      <enacted>2026-02-24</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="28|§24-3" codified:doc="City of Baltimore, Md., Code" codified:path="28|§24-3">
+      <section>
+        <prefix>§</prefix>
+        <num>24-3</num>
+        <heading>Amount of tax.</heading>
+        <text>The amount of the tax imposed is 38¢ for each trip:</text>
+        <para>
+          <num>(1)</num>
+          <text>between points within Baltimore City; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>from a point within Baltimore City to a point outside Baltimore City.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

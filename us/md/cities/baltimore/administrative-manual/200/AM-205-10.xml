@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-10</num>
+  <heading>Payroll Systems</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Establishing internal controls in administering City payroll systems is a requirement of each agency and bureau head. Important control features for City agencies to follow in providing reasonable protection against various payroll errors and fraud schemes include:</text>
+    <text>
+      <ul>
+        <li>Using a positive documented system to determine presence or absence of employees;</li>
+        <li>Assigning competent and trained staff as well as trained alternates to payroll record keeping and reporting duties;</li>
+        <li>Segregating duties;</li>
+        <li>Conducting at random intervals unannounced changes in duties of individuals assigned payroll functions; and</li>
+        <li>Establishing oversight and authorization responsibilities at appropriate levels.</li>
+      </ul>
+    </text>
+    <text>Guidelines for meeting these control requirements are set forth.</text>
+  </para>
+  <para name="time-and-attendance-records">
+    <heading>TIME AND ATTENDANCE RECORDS</heading>
+    <text>The PAYROLL ATTENDANCE REPORT (147-093) is the document which the Bureau of Payroll and Disbursements relies upon to pay employees.  It is the vehicle for consolidating and reporting time and attendance information to the Bureau of Payroll and Disbursements.  This document also has significant impact on the accounting and monitoring of expenditures, e.g., wages, salary, overtime, meal allowance, etc. At the agency/bureau level, this report must be completed from a documented record of presence, absence, overtime, compensatory time, holiday or authorized leave usage for each employee.  It is not a sufficient basis for establishing the actual time and attendance of employees.  However, internal agency records are compared at intervals with records in Central Payroll.  Such records are subject to subpoena by the courts and other investigative entities.</text>
+    <text>Supervisors are responsible for assuring the accuracy of time and attendance information of individuals under their immediate supervision and should perform these duties diligently.   When there are irregularities the supervisor and the subordinate involved in the irregularity will be held accountable.</text>
+  </para>
+  <para name="positive-time-keeping-systems">
+    <heading>POSITIVE TIME-KEEPING SYSTEMS</heading>
+    <text>All agencies must install a positive time-keeping system for each payroll section under their supervision.  A positive time-keeping system includes a contemporaneously maintained individual time record.  Acceptable alternatives include a daily work crew report or a daily duty assignment roster maintained and reported by the foreman.  Where time clocks are used, the resulting time cards serve the same purpose.  Daily sign-in, sign-out records are also acceptable reporting practices.</text>
+  </para>
+  <para name="reporting-process">
+    <heading>REPORTING PROCESS</heading>
+    <text>Regardless of the time-keeping option used, the filled out form must be submitted through the immediate supervisor responsible for reporting individual or group location attendance.  It is then forwarded to the agency payroll clerk as the basis for preparation of the PAYROLL ATTENDANCE REPORT.</text>
+    <text>The supervisor should take reasonable precautions to preclude the opportunity for the reporting individual or group to intercept and alter the information after supervisory approval and before it is received by the payroll clerk.  When an individual or groups of individuals work at locations remote from on-going supervisory scrutiny, supervisors are responsible for making personal unscheduled spot checks of their presence and attention to duty.   Random telephone contacts and on-site visits should be used to make these determinations.</text>
+  </para>
+  <para name="payroll-attendance-report">
+    <heading>PAYROLL ATTENDANCE REPORT</heading>
+    <text>This report is prepared from the time and attendance records.  Sources of information to be used include add and drop slips, overtime and compensatory time approvals, permission time approvals, out-of-title approvals, etc. The work of the payroll clerks should be periodically spot checked for accuracy by their immediate supervisor which can be accomplished by comparing markings and related information on the PAYROLL ATTENDANCE REPORT with the positive timekeeping records and/or other authorized documents. The PAYROLL ATTENDANCE REPORT should reflect the name of the payroll clerk who prepared it.  Clerks are to sign in the space provided for the Auditor's use. Individuals assigned these payroll duties must receive training from the Bureau of Payroll and Disbursements.</text>
+  </para>
+  <para name="approval-and-review">
+    <heading>APPROVAL AND REVIEW</heading>
+    <text>The PAYROLL ATTENDANCE REPORT should be reviewed and approved by an individual who has reasonable knowledge of the attendance, absence, overtime, etc. of the reporting unit. Where there are alterations on the report to correct errors, each such alteration should be initialed by the approving official.  Initialing is intended to preclude an individual from making unapproved alterations to the PAYROLL ATTENDANCE REPORT after the approving official has signed off and before the report is delivered to the Bureau of Payroll and Disbursements. The PAYROLL ATTENDANCE REPORT must be reviewed and signed by the approving official or in his absence, a designated alternate. Facsimile approval signatures to include stamps, imitations or proxy signatures are prohibited.</text>
+  </para>
+  <para name="authorization-and-submission">
+    <heading>AUTHORIZATION AND SUBMISSION</heading>
+    <text>The agency/bureau head must certify to the Bureau of Payroll and Disbursements, Attn: Chief, in a signed MEMORANDUM (28-1418-5007), all authorized signatures of the PAYROLL ATTENDANCE REPORT.   The MEMO must contain a written sample of the signatory to include full name and initials.  The designated signatory must see that the PAYROLL ATTENDANCE REPORT is submitted to the Central Payroll Division in accord with the pay period schedule for the administrative unit.   It is expected that no changes will be made to the PAYROLL ATTENDANCE REPORT after submission.</text>
+  </para>
+  <para name="anticipated-time">
+    <heading>ANTICIPATED TIME</heading>
+    <text>It may be necessary to anticipate the probable attendance or absence of an employee on the last day of the pay period.  An agency must, therefore, use documented records of actual attendance to compare with anticipated attendance before processing necessary adjustments to the payroll in a subsequent payroll period.  In a sign-in sign-out, time clock, duty roster, or similar system this is accomplished by comparing actuals to estimates.   In a contemporaneously maintained individual time sheets system, separate cumulative reports by the employee of actual to date and estimated for the remainder of the pay period can be used.</text>
+  </para>
+  <para name="paycheck-distribution">
+    <heading>PAYCHECK DISTRIBUTION</heading>
+    <text>Whether it is an individual payroll check or the pay stub of an employee on direct deposit, the payroll clerk should not be the individual directed to pick up or distribute it within the agency.   Separation of duties between payroll preparation and paycheck distribution as well as prompt processing of the cut-off notice for separating employees are essential to minimizing the opportunity for fraud or error on the payroll.</text>
+    <text>Undeliverable paychecks or stubs must be brought to the attention of the immediate supervisor.  Prompt return of paychecks or pay stubs to the Bureau of Payroll and Disbursements is required to preclude repetition on subsequent pay periods.</text>
+  </para>
+  <para name="payroll-abuse">
+    <heading>PAYROLL ABUSE</heading>
+    <text>There are a number of schemes by which individuals or groups of individuals may seek to take advantage of the payroll system, including credit for hours not worked, increasing pay entitlement, or creating "ghost" employees.  Supervisors need to be alert for indications of such situations.  In instances where outside assistance may be needed to address such concerns, the Department of Audits should be contacted.  When an agency head becomes aware of any irregularities, he must report such situations immediately to the City Solicitor for recommendation as to appropriate action.   A reporting mechanism available to all City employees is the City Fraud Hotline, 410-396-3589.</text>
+  </para>
+  <para name="minimum-cure">
+    <heading>MINIMUM CURE</heading>
+    <text>In all cases of payroll abuse, the minimum cure should be restitution and disciplinary action of the affected employee by the agency head.   To be considered in such cases is whether neglect of supervisory responsibility created the opportunity for the abuse.  If so, appropriate disciplinary action is to be considered for the supervisor.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-02-20" display="true">February 20, 1989</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-16">AM-204-16</cite> Authorized Change: Recorded Leave</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-16-1">AM-204-16-1</cite> Completing Payroll Attendance Report</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-7-1">AM-205-7-1</cite> Cut-Off Notice</annotation>
+  </annotations>
+</section>

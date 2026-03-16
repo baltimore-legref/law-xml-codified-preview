@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-210-1-1</num>
+  <heading>Grievance Procedure</heading>
+  <text><strong>NOTES:</strong> An employee has the right to select a representative to assist him/her during any step of this procedure. (See <cite path="§AM-210-1">AM-210-1</cite> for details.)</text>
+  <text>The time limits in this procedure may be changed by the mutual agreement of the parties involved. However, if no change is made and the employee does not appeal within the prescribed time limits, the grievance procedure will terminate and a settlement made on the basis of the last answer received. Further, if an employee does not receive a response to the grievance within the prescribed time, he may proceed to the next step in the procedure.</text>
+  <para name="responsibility---action">
+    <heading>RESPONSIBILITY - ACTION</heading>
+    <text class="center">FIRST STEP</text>
+    <para>
+      <num>1.</num>
+      <text>Employee- Discuss grievance with immediate supervisor within ten (10) calendar days and in no event more than thirty (30) days after becoming aware of the action or condition which is the basis of grievance.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Immediate Supervisor- Attempt to satisfy grievance and respond to grievant within ten (10) calendar days of presentation of grievance.</text>
+      <text class="center">SECOND STEP</text>
+    </para>
+    <para>
+      <num>1.</num>
+      <text>Employee/Grievant and/or representative supervisor- If grievance is not satisfactorily resolved at Step 1, appeal to 2nd-level supervisor within five (5) calendar days following completion of Step 1.Complete a GRIEVANCE REPORT (28-1608-5027) and submit it to the 2nd-level supervisor.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Level Supervisor - Discuss grievance with employee within five (5) calendar days of receipt of GRIEVANCE REPORT. Record reply to the grievance on the GRIEVANCE REPORT. Attach additional sheets if necessary. Sign the GRIEVANCE REPORT and have a copy made. Return original (with attached sheets) to employee within five (5) calendar days of meeting.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Employee- Indicate on GRIEVANCE REPORT whether decision of 2nd-level supervisor is accepted or rejected. If accepted, procedure ends here. If rejected, employee may proceed to Step 3 within five (5) calendar days of receipt of decision from 2nd-level supervisor.</text>
+      <text class="center">THIRD STEP</text>
+    </para>
+    <para>
+      <num>1.</num>
+      <text>Employee - If grievance is not satisfactorily resolved at Step 2, appeal to agency head by forwarding GRIEVANCE REPORT (with any attachments) and sending a copy to the Labor Commissioner.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Agency Head or (authorized representative) - Together with the Labor Commissioner (or authorized representative) meet with the employee to discuss the grievance within five (5) calendar days of receipt of GRIEVANCE REPORT.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Labor Commissioner (or authorized representative) - Prepare a written reply to Grievance. Make three (3) copies of reply and distribute as shown below within ten (10) calendar days of meeting with employee.</text>
+      <text class="text-indent-2">
+        <ul>
+          <li>Original attach to GRIEVANCE REPORT and forward to employee.</li>
+          <li>Copy employee's agency head</li>
+          <li>Copy employee's representative</li>
+          <li>Copy Labor Commissioner's files</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Employee - Indicate on GRIEVANCE REPORT whether decision is accepted or rejected. If accepted, procedure ends here. If rejected, employee may proceed to Step 4 within seven (7) calendar days of receipt of decision from Labor Commissioner.</text>
+      <text class="center">FOURTH STEP</text>
+      <text>This step is divided into two sections. Each section outlines steps to be taken by an employee whose representative is as noted.</text>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Employees who represent themselves, or whose representative was selected from within the agency where the grievance originated.</text>
+      <para>
+        <num>1.</num>
+        <text>Employee - If grievance is not satisfactorily resolved at Step 3, appeal to the Grievance Appeal Board for final review. Submit written request (with a copy of all documents) to the Civil Service Commission/Department of Personnel. Send one (1) copy of the request to the Labor Commissioner.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Civil Service/ Department of Personnel - Select a Grievance Appeals Board to hear grievance. The Board is to be comprised as follows:</text>
+        <text class="text-indent-3">
+          <ul>
+            <li>One (1) agency head other than the one involved in the grievance.</li>
+            <li>One (1) member of the Board of Estimates.</li>
+            <li>The Personnel Director of the Civil Service Commission/ Department of Personnel.</li>
+          </ul>
+        </text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Grievance Appeals Board - Investigate grievance as promptly as possible and make a final determination.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Grievance Appeals Board - Advise the aggrieved employee and the Labor Commissioner of the determination in writing.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Employees who are following a grievance procedure outlined in a memorandum of understanding and whose representative was selected from the employee organization designated as their exclusive bargaining representative.</text>
+      <para>
+        <num>1.</num>
+        <text>Employee Organization - If grievance is not satisfactorily resolved at Step 3, request review by an impartial arbitrator. Submit written request (with a copy of all relevant documents) to the Labor Commissioner.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Labor Commissioner - Together with the Employee Organization, select an impartial arbitrator. If an agreement cannot be reached, request list of arbitrators from the Federal Mediation and Conciliation Service. Select an arbitrator from this list.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Arbitrator - Investigate grievance and forward ruling to the Employee Organization and to the Labor Commissioner. This ruling is final and binding as pursuant to the Municipal Employee Relations Ordinance (Baltimore City Code, Article 1, Section 132, as amended).</text>
+      </para>
+    </para>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1977-09-23" display="true">September 23, 1977</annotation>
+    <annotation type="History" effective="1996-08-25" display="true">August 25, 1996</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-3</num>
+  <heading>Holiday Parties</heading>
+  <para name="scheduling">
+    <heading>SCHEDULING</heading>
+    <text>Only with the prior approval by the agency head may a holiday party be scheduled. Each Supervisor of an office or worksite may allow employees to hold a holiday party to celebrate the season on any day during the last two weeks of December.</text>
+    <text>On the date approved by the agency head, affected City employees may be allowed up to two (2) hours off including their lunch periods for the party. Any additional time off work for the holiday party must be approved by the agency head and charged to the employee's accrued vacation or personal leave or compensatory time.</text>
+    <text>A holiday party cannot interrupt City business or close a City office. It should not be offensive to employees who do not participate. Parties at City worksites may not have alcoholic beverages.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-10-01" display="true">October 1, 1990</annotation>
+    <annotation type="History" effective="2003-12-01" display="true">December 1, 2003</annotation>
+  </annotations>
+</section>

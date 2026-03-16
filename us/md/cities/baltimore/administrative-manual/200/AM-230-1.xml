@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-230-1</num>
+  <heading>Personnel Action Request 		 and</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy applies to all budgeted positions and all classes (Civil Service and non-Civil Service).</text>
+  </para>
+  <para name="when-required">
+    <heading>WHEN REQUIRED</heading>
+    <text>Whenever an action is taken which affects classes and/or budgeted positions, a PERSONNEL ACTION REQUEST (PAR) (28-1418-5014) [<cite path="§AM-230-1-1">AM-230-1-1</cite>] must be completed.   (For detailed information concerning submission of the PAR, see the Administrative Manual Document applicable to the personnel action.)</text>
+    <text>In addition, a POSITION DESCRIPTION (28-1618-5064) [<cite path="§AM-230-1-2">AM-230-1-2</cite>] must be completed by the requesting agency for all positions creation or reclassification actions.</text>
+  </para>
+  <para name="class-actions">
+    <heading>CLASS ACTIONS</heading>
+    <text>A <u>class</u> is an employment category comprised of all positions having similar duties, responsibilities, and qualifications.  All positions in a class have the same title and salary grade.</text>
+    <text>A <u>class action</u> is an operation which affects a class in 1 of the following ways:</text>
+    <text>
+      <ul>
+        <li>Abolishment*-- Removal of a class to the computer file.</li>
+        <li>Creation* -- Addition of a class to the computer file.</li>
+        <li>Change* -- Changing any of the following information for an existing class in the computer file:</li>
+        <ul>
+          <li>Title.</li>
+          <li>Grade.</li>
+          <li>Starting level.</li>
+          <li>Salary range.</li>
+          <li>Salary/wage period.</li>
+          <li>Union designation.</li>
+          <li>Class code.</li>
+        </ul>
+      </ul>
+    </text>
+    <text>*<u>NOTE</u>: Due to the current computer program for PAR'S, a change to a class number can <u>not </u>be entered on a PAR as a "change", but must instead be handled as an "ABOLISH/CREATE" action.  The old class number plus all other class number must then be created, and the other previously abolished class information must be recreated</text>
+    <text><u>Only</u> the Civil Service Commission and the Bureau of the Budget and Management</text>
+    <text>Research are authorized are authorized to initiate class actions.</text>
+  </para>
+  <para name="position-actions">
+    <heading>POSITION ACTIONS</heading>
+    <text>A <u>budgeted position</u> is a group of duties and responsibilities requiring the employment of 1 person. A position is commonly referred to as a "job", and is assigned a "job number" (<cite path="§AM-230-2">AM-230-2</cite>).</text>
+    <text>A <u>position action</u> is an operation which affects a budgeted position in 1 of the following ways:</text>
+    <text>
+      <ul>
+        <li>Abolishment* - - Removal of a position from a budget program.</li>
+        <li>Creation* - - Addition of a position to a budget program.</li>
+        <li>Change* - - Changing any of the following information for an existing position in a budget program:</li>
+        <ul>
+          <li>Fund.</li>
+          <li>Activity.</li>
+          <li>Agency.</li>
+          <li>Class number.</li>
+        </ul>
+      </ul>
+    </text>
+    <text>*<u>NOTE</u>:  Due to the current computer program for PAR'S, a change to a job number can <u>not</u> be entered on a PAR as a "CHANGE", but must instead be handled as an "ABOLISH/CREATE" action.  The old job number, plus all other position information, must be abolished. A new job number must then be created, and the other previously abolished position information must be recreated</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1983-10-21" display="true">October 21, 1983</annotation>
+  </annotations>
+</section>

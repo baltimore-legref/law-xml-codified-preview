@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-9</num>
+  <heading>Attendance at Union Conferences and Conventions</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>City employees who are members of certain recognized city unions may be granted paid administrative leave for attendance at union conferences and conventions each year subject to the negotiated contract between the responsible parties.</text>
+  </para>
+  <para name="city-union-of-baltimore">
+    <heading>CITY UNION OF BALTIMORE</heading>
+    <text>All officers, stewards, and members of CUB conferences shall be granted Administrative Leave with pay in the amount of 175 staff-days each year with a maximum of 12 days for any elected officer and 5 days for any other employee. (Conferences or meetings sponsored by the City in which the Union is asked to participate shall not be charged to this leave.)</text>
+  </para>
+  <para name="local-44">
+    <heading>LOCAL 44</heading>
+    <text>Each year, a total of 15 employees who are officially designated as delegates to regularly scheduled union conferences and conventions will be granted leave without loss of pay to attend such meetings. However, no individual will be granted such leave for these meetings more than once per year.</text>
+  </para>
+  <para name="nurses">
+    <heading>NURSES</heading>
+    <text>Employees officially designated by the union to attend scheduled conferences and conventions shall be granted leave without loss of pay, subject to scheduling needs of the department.</text>
+    <text>This leave must be requested at least three weeks in advance. No more than 20 staff days in a calendar year will be available. However, no employee will be granted this leave more than once each calendar year.</text>
+  </para>
+  <para name="request-for-use-of-union-leave">
+    <heading>REQUEST FOR USE OF UNION LEAVE</heading>
+    <text>All requests for use of union leave should be submitted to the Office of the Labor Commissioner (OLC) at least one week in advance of its usage. Requests for union leave that are submitted with less than one week's notice be handled on a case by case basis. Consideration will be given to the impact on the agency's operation.</text>
+    <text>The OLC will review and approve the leave. A written notice will be sent to the agency(ies) personnel officer with name(s) of affected employee(s) and date(s) such leave will be used.</text>
+    <text>When the approval of the union leave would affect the efficient operations of an agency, the personnel officer should submit a written notice to the OLC requesting that the leave be denied.</text>
+    <text>The OLC will notify the union(s) if union leave is denied.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-11-10" display="true">November 10, 1989</annotation>
+    <annotation type="History" effective="2000-04-27" display="true">April 27, 2000</annotation>
+  </annotations>
+</section>

@@ -49,9 +49,9 @@
     <text>Appropriate payroll markings should be used in recording attendance and marking the PAYROLL ATTENDANCE REPORT (147-093) which is submitted to the Bureau of Accounting and Payroll Services. The designated code of "P", Permission, should be entered next to the appropriate date(s) with an explanation of the marking in the "REMARKS" column.</text>
   </para>
   <annotations>
-    <annotation type="Related Policies">AM-216-1 DEATH BENEFITS</annotation>
-    <annotation type="Related Policies">AM-204-29 DOMESTIC PARTNERS BENEFITS</annotation>
-    <annotation type="History" effective="1989-03-01">March 1, 1989</annotation>
-    <annotation type="History" effective="2000-09-14">September 14, 2000</annotation>
+    <annotation type="History" effective="1989-03-01" display="true">March 1, 1989</annotation>
+    <annotation type="History" effective="2000-09-14" display="true">September 14, 2000</annotation>
+    <annotation type="Related Policies"><cite path="§AM-216-1">AM-216-1</cite> DEATH BENEFITS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-29">AM-204-29</cite> DOMESTIC PARTNERS BENEFITS</annotation>
   </annotations>
 </section>

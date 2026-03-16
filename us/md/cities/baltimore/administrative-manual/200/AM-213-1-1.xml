@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-213-1-1</num>
+  <heading>Reinstatement/Subsequent Employment Record</heading>
+  <text><strong>Instructions to Personnel Officer</strong>: The hiring agency's Personnel Officer oversees the completion of this form for an employee being rehired within one year from date of resignation. After this form is completed, forward a copy to the Retirement Systems, give a copy to the employee and place the original in the employee's personnel record. See <cite path="§AM-213-1, Part I">AM-213-1, Part I</cite> and II.</text>
+  <text><strong>Instructions to the Employee</strong>: Fill in the information below to the best of your ability. Please check any prior employment records that you may have before giving this form to your new Personnel Officer. The Personnel Officer will verify your information and tell you where there is disagreement. You must make a written request within 18 months to appeal the Personnel</text>
+  <text>Officer's findings.</text>
+  <text>
+    <strong>
+      <u>To Be Completed by Employee</u>
+    </strong>
+  </text>
+  <text>Employee's Full Name: __________________________________________________________</text>
+  <text>Social Security #: ___________________________________</text>
+  <text>Original Entry Date: ____/____/____ Effective Date of Resignation: ____/____/____</text>
+  <text>Former City Agency: ___________________________________________________</text>
+  <text>Last Job Classification: _______________________________________</text>
+  <text>Grade/Level: _____________/____________Note: You will be eligible for a step/level movement after 18 months.</text>
+  <text>Salary:__________________ Longevity Increment(s) (based on years of service): _____________</text>
+  <text>Sick Leave Balance (that was not converted to cash): _____________</text>
+  <text>Prior Vacation Accrual Rate: ____________________________</text>
+  <text>Employee's Signature:___________________________________________ Date:________________</text>
+  <text>---------------------------------------------------------------------------------------------------------------------</text>
+  <text>
+    <strong>
+      <u>To Be Completed by Personnel Officer and Central Payroll</u>
+    </strong>
+  </text>
+  <text>Date of Reentry: ____/____/____</text>
+  <text>Adjusted Entry Date: ____/____/____ (Basis for determining vacation leave accrual &amp; longevity based salary increments)</text>
+  <text>New Class Number: __________________New Job Title:_____________________________</text>
+  <text>New Grade: ____________New Salary / Step: ___________________/__________</text>
+  <text>Restored Longevity Increment(s) based on years of service (circle): L1 L2 L3 L4 M1 M2 M3 M4</text>
+  <text>Restored Sick Leave (50% of prior sick leave balance ): _______________</text>
+  <text>New Vacation Accrual Rate: _________________</text>
+  <text>Signature of Central Payroll Supervisor/Manager:_____________________________ Date:___________________</text>
+  <text>Signature of Agency Personnel Officer: _____________________________________ Date:___________________</text>
+  <annotations>
+    <annotation type="History" effective="1997-07-01" display="true">July 1, 1997</annotation>
+  </annotations>
+</section>

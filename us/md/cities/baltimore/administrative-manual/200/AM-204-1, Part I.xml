@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-1, Part I</num>
+  <heading>Holidays</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>In accordance with Board of Estimates policy, City offices are closed officially for business on 11 annual holidays. The calendar of annual holidays is set forth in this policy. Permanent full-time employees not scheduled to work on these dates will receive their regular rate of pay. A permanent part-time employee will receive his/her regular rate of pay as holiday compensation, providing the observance of the holiday falls on the employee's regularly scheduled workday.</text>
+    <text>The observance of a scheduled City holiday may be altered by action of the Board of Estimates. A Board action effectively amends this policy for that particular calendar year.</text>
+  </para>
+  <para name="modified-observance-date">
+    <heading>MODIFIED OBSERVANCE DATE</heading>
+    <text>A holiday which falls on Saturday will be observed the preceding Friday; a holiday which falls on Sunday will be observed the following Monday.</text>
+  </para>
+  <para name="annual-holidays">
+    <heading>ANNUAL HOLIDAYS</heading>
+    <text>January 1 New Year's Day</text>
+    <text>Third Monday in January Martin Luther King's Birthday</text>
+    <text>Third Monday in February President's Day</text>
+    <text>Friday before Easter Good Friday</text>
+    <text>Last Monday in May Memorial Day (Observed)</text>
+    <text>July 4 Independence Day</text>
+    <text>First Monday in September Labor Day</text>
+    <text>Second Monday in October Columbus Day (Observed)</text>
+    <text>November 11 Veterans Day</text>
+    <text>Fourth Thursday in November Thanksgiving Day</text>
+    <text>December 25 Christmas</text>
+  </para>
+  <para name="exceptions">
+    <heading>EXCEPTIONS</heading>
+    <text>In addition to the holidays listed above, employees of the Baltimore City Police Department also observe: February 12 – Lincoln's Birthday; March 25 - Maryland Day; and September 12 - Defender's Day.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1999-09-02" display="true">September 2, 1999</annotation>
+    <annotation type="History" effective="2007-01-01" display="true">January 1, 2007</annotation>
+    <annotation type="Related Policies"><cite path="§AM-232-1">AM-232-1</cite> PERMANENT POSITIONS AND EMPLOYEES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-1, Part II">AM-204-1, Part II</cite> ELECTION DAY</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-1, Part III">AM-204-1, Part III</cite> HOLIDAY COMPENSATION</annotation>
+  </annotations>
+</section>

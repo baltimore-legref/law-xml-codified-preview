@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-13</num>
+  <heading>Longevity Increment</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>A longevity increment is a salary increase granted to eligible employees depending upon representative organization after a specified period of City service has been completed. Longevity increments are affected by processing a signed CHANGE NOTICE (28-1618-5143) which indicates the employee has attained the required number of years of service as well as met any other criteria to be eligible to receive the longevity increment, i.e. time in grade. The increment date and effective date for longevity pay is determined in the same manner as the increment date for other salary increments.</text>
+  </para>
+  <para name="longevity-increment">
+    <heading>LONGEVITY INCREMENT</heading>
+    <text>The amount of the longevity increase is a fixed percentage of the maximum step of the employee's salary grade or flat salary whichever is applicable depending upon employee's representative organization, i.e. C.M.E.A, C.U.B, M.A.P.S. The appropriate Salary Schedule of the employee's representative organization should be referred to in order to determine the value of the increment.</text>
+  </para>
+  <para name="eligible-years-of-service">
+    <heading>ELIGIBLE YEARS OF SERVICE</heading>
+    <text>Longevity increments are granted to eligible City employees depending upon representative organization who have completed 10 years, 15 years, 20 years, 25 years, and 30 years of service. In the case of M.A.P.S. employees, an increment for 30 years of service is not authorized, also the granting of a longevity increment depends on the number of years the employee has been in service in the merit step beyond the maximum step of the salary grade.</text>
+    <text>The effective date of a longevity increment is determined in the same manner as the effective date for other salary changes.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1988-12-15" display="true">December 15, 1988</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-1">AM-205-1</cite> SALARY</annotation>
+    <annotation type="Related Policies">AM-290 SALARY SCHEDULES</annotation>
+  </annotations>
+</section>

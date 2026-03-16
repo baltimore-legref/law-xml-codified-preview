@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-2, Part 3</num>
+  <heading>Overtime Work:		 Exempt Classes</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Compensation for overtime work performed by employees serving in positions categorized as "exempt" as listed in Civil Service Classes {<cite path="§AM-291-2">AM-291-2</cite>} may be in conformity with the provisions outlined in the following sections. Overtime work results when an employee's immediate supervisor has approved work beyond the normal work day as determined by the representation status of the class; or, approved work performed by the employee on an unscheduled work day.</text>
+  </para>
+  <para name="recording-overtime-work">
+    <heading>RECORDING OVERTIME WORK</heading>
+    <text>Compensation for overtime work may be granted after a minimum of 1 hour of overtime work has been performed. Overtime work is recorded and compensation granted in 6 minute increments to the first hour of overtime worked.</text>
+  </para>
+  <para name="compensation">
+    <heading>COMPENSATION</heading>
+    <text>Employees will receive compensatory leave in an amount equal to the overtime recorded.</text>
+  </para>
+  <para name="maximum-accumulation-of-compensatory-leave">
+    <heading>MAXIMUM ACCUMULATION OF COMPENSATORY LEAVE</heading>
+    <text>An accumulation not exceeding 400 hours of compensatory leave is authorized for employees serving in exempt positions.</text>
+  </para>
+  <para name="out-of-title-work">
+    <heading>OUT-OF-TITLE WORK</heading>
+    <text>An exempt employee who fills a non-exempt position, while in an approved out-of-title status, will be treated as a non-exempt employee for purposes of overtime compensation.  (See Part II of this policy.)</text>
+  </para>
+  <para name="movement-form-exempt-to-non-exempt">
+    <heading>MOVEMENT FORM EXEMPT TO NON-EXEMPT</heading>
+    <text>When an employee serving in an exempt class permanently moves to a non-exempt position, the employee's compensatory leave balances will be converted to sick leave.</text>
+  </para>
+  <para name="separation-from-city-service">
+    <heading>SEPARATION FROM CITY SERVICE</heading>
+    <text>Exempt employees cannot use compensatory leave on the date of separation and/or 4 work days immediately preceding the date of separation. Exempt employees will not receive payment for any compensatory leave which is unused as of the date of separation.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-02-23" display="true">February 23, 1990</annotation>
+    <annotation type="Related Policies"><cite path="§AM-101-1">AM-101-1</cite> REQUESTS FOR B/E APPROVAL</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2, Part I">AM-205-2 PART I</cite>		OVERTIME AND CALL-BACK WORK: OVERVIEW</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2, Part II">AM-205-2 PART II</cite>		OVERTIME: NON-EXEMPT EMPLOYEES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2-1">AM-205-2-1</cite> OVERTIME CONVEERSION CHART</annotation>
+    <annotation type="Related Policies"><cite path="§AM-214-1">AM-214-1</cite> OUT-OF-TITLE WORK</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-16">AM-205-16</cite> MEAL ALLOWANCE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-1">AM-240-1</cite> TRAVEL PACKAGE OVERVIEW</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-1">AM-291-1</cite> CIVIL SERVICE CLASSES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-2">AM-291-2</cite> NON-CIVIL SERVICE CLASSES</annotation>
+  </annotations>
+</section>

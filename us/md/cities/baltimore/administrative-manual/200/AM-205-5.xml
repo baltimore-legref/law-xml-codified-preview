@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-5</num>
+  <heading>Employee Clearance on Terminations</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>When an employee terminates employment with the City, an Employee Clearance Checklist (28-1608-5152) must be completed and submitted as an attachment to the CUT-OFF NOTICE (<cite path="§AM-205-7-1">AM-205-7-1</cite>). The purpose of completing the Employee Clearance Checklist is to ensure that all equipment, records and other City provided items are turned in, that custodian accounts are accounted for and reconciled, and that employee access and use privileges, as applicable, are revoked.</text>
+  </para>
+  <para name="completion-instructions">
+    <heading>COMPLETION INSTRUCTIONS</heading>
+    <text>The form should be completed on the last day of employment with individual categories initialed by the departing employee's supervisor or designated officer as the items are cleared. The departing employee and agency head are also to sign the form. A copy should be given to the departing employee, a copy should be retained in the agency's personnel records and a copy will be processed with the CUT-OFF NOTICE. Items specific to employment in the appointing agency must be included where space permits on the form.</text>
+  </para>
+  <para name="reported-shortages">
+    <heading>REPORTED SHORTAGES</heading>
+    <text>In the event these procedures disclose a shortage of equipment or funds for which the employee had responsibility, restitution will be required. It may be paid by adjusting the final pay check. The departing employee's final pay check will not be released until receipt by the Bureau of Payroll and Disbursements of the CUT-OFF NOTICE and a completed EMPLOYEE CLEARANCE CHECKLIST is on file.</text>
+  </para>
+  <para name="reported-losses">
+    <heading>REPORTED LOSSES</heading>
+    <text>Any loss of keys, key cards, fuel cards, credit cards or drug prescription cards should be reported to the issuing City agency. In those cases where these items are issued on a city-wide basis to appropriate individuals, their loss must be reported as follows:</text>
+    <text>
+      <u>Item						City Agency to Notify</u>
+    </text>
+    <text>Key Card					BOMIS</text>
+    <text>Driver Permit					Central Garage</text>
+    <text>Fuel Card/Charge Card			Central Garage</text>
+    <text>Drug Prescription Card			Civil Service</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1988-01-21" display="true">January 21, 1988</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-7-1">AM-205-7-1</cite> CUT-OFF NOTICE</annotation>
+  </annotations>
+</section>

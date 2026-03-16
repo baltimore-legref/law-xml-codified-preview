@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-30</num>
+  <heading>Determination of Benefits		Part I</heading>
+  <para name="movement-between-civil-service-positions">
+    <heading>MOVEMENT BETWEEN CIVIL SERVICE POSITIONS</heading>
+    <text>
+      <strong>APPLICABILITY</strong>
+    </text>
+    <text>The provisions of this section apply to all persons who move with no break in service from a Civil Service position to another Civil Service position. Such movement may occur between organizations or may occur within the same organization.</text>
+  </para>
+  <para name="leave-credit">
+    <heading>LEAVE CREDIT</heading>
+    <text>Civil Service employees in permanent appointments will be given credit in accordance with this policy for the following types of leave when moving between positions, provided that there is no break in service:</text>
+    <text>
+      <ul>
+        <li>Vacation.</li>
+        <li>Personal.</li>
+        <li>Sick.</li>
+      </ul>
+    </text>
+    <text>Compensatory leave will be handled according to the requirements of the Fair Labor Standards Act.</text>
+    <text>If a Civil Service employee in a permanent appointment moves to another Civil Service position with a permanent appointment code in which vacation and personal leave are earned at a <u>lower rate</u> than the employee's previous position, the following guidelines will be used by the Central Payroll Division to recalculate the leave credit:</text>
+    <text>
+      <ul>
+        <li>By using the leave earning rate of the new position, the amount of leave credit which the employee would have earned in the previous position at that rate will be recalculated.</li>
+        <li>From the above computed leave figure, subtract the actual leave used by the employee while serving in the previous position.</li>
+        <li>The resulting leave figure will be credited to the employee provided that such leave does not exceed any maximum accumulated leave limits which apply to the new position.</li>
+      </ul>
+    </text>
+    <text>If a Civil Service employee in a permanent appointment moves to another Civil Service position with a permanent appointment code in which vacation and personal leave are earned at the same or higher rate than the employee's previous position, the employee will be credited with all such leave provided that such leave does not exceed any maximum accumulated leave limits which apply to the new position.</text>
+    <text>In cases where the employee's former accumulated vacation and personal leave balances exceed those credited to the employee in the position, the excess leave days will be converted to cash. The organization from which the employee is moving is responsible for funding such cash payments.</text>
+    <text>All accumulated sick leave will be credited to the employee in the new position.</text>
+    <text>If a Civil Service employee in a permanent appointment is appointed to another Civil Service position on a provisional basis, the employee will be credited with all leave in the same manner as if the appointment were permanent. Additional leave will also be earned in the same manner as if the appointment were permanent.</text>
+    <text>The employee's previous organization must attach to the employee's CHANGE NOTICE (28-1618-5143) [<cite path="§AM-205-4-5">AM-205-4-5</cite>] a MEMO (28-1418-5007) containing complete information concerning the employee's leave balances and, if applicable, a detailed description and explanation of all calculations made in regard to such leave balances.</text>
+  </para>
+  <para name="date-of-entry">
+    <heading>DATE OF ENTRY</heading>
+    <text>The employee's date of entry into City service will <u>not</u> be changed when the employee moves between positions. Such date will continue to be used to compute leave and longevity benefits.</text>
+  </para>
+  <para name="health-care-benefits">
+    <heading>HEALTH CARE BENEFITS</heading>
+    <text>If an employee moves between Civil Service positions with permanent appointment codes, and at the time of movement is enrolled in a City health care plan, the employee will continue to be covered by that same plan; however, benefits may differ depending upon the union affiliation of the new position.</text>
+    <text>If a Civil Service employee in a permanent appointment receives provisional appointment to another Civil Service position and at the time of movement is enrolled in a City health care plan; the employee will continue to be covered by that same health care plan; however, benefits may differ depending upon the union affiliation of the new position.</text>
+  </para>
+  <para name="retirement-benefits">
+    <heading>RETIREMENT BENEFITS</heading>
+    <text>Movement between Civil Service positions may have an effect on an employee's status within the City Employees' Retirement System. Employees should contact a Benefits Analyst within the City Employees' Retirement System prior to movement.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1986-03-05" display="true">March 5, 1986</annotation>
+  </annotations>
+</section>

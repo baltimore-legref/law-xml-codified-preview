@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-28</num>
+  <heading>COBRA</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Consolidated Omnibus Budget Reconciliation Act (COBRA) is a federal law that requires certain individuals as determined by the "Qualified Beneficiaries" and "Qualifying Event" sections of this policy, be given the opportunity to continue health care benefits.</text>
+  </para>
+  <para name="qualified-beneficiaries">
+    <heading>QUALIFIED BENEFICIARIES</heading>
+    <text>The following individuals, who are covered under the City of Baltimore's group health plan the day before the "qualifying event," can become qualified beneficiaries under COBRA:</text>
+    <text>
+      <ul>
+        <li>an employee;</li>
+        <li>the spouse of an employee or retiree; and</li>
+        <li>the dependent children of an employee or retiree.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="qualifying-event">
+    <heading>QUALIFYING EVENT</heading>
+    <text>Employees, retirees, and their covered dependents may be eligible for continuation of health care benefits, if one of the following qualifying events occurs:</text>
+    <text>
+      <strong>For covered employees:</strong>
+    </text>
+    <text>
+      <ul>
+        <li>the termination (other than by reason of gross misconduct) or reduction in hours of the covered employee's employment.</li>
+      </ul>
+    </text>
+    <text>
+      <em>In this case, health care benefits may be extended for the employee, as well as for covered dependents, for a period not to exceed 18 months. Health care benefits may be extended to 29 months for certain disabled qualified beneficiaries and their non-disabled family members.</em>
+    </text>
+    <text>
+      <strong>For covered spouses and dependent children:</strong>
+    </text>
+    <text>
+      <ul>
+        <li>the covered employee's termination of employment (other than for gross misconduct) or reduction in hours of employment.</li>
+        <li>
+          <em>Health care benefits may be extended for a period not to exceed 18 months.</em>
+        </li>
+        <li>the covered employee's or retiree's death;</li>
+        <li>a divorce or legal separation of a spouse from a covered employee or retiree;</li>
+        <li>a covered employee's or retiree's entitlement to Medicare; or</li>
+        <li>a child's loss of dependent status.</li>
+      </ul>
+    </text>
+    <text>
+      <em>In these cases (other than termination or reduction in hours of employment), health care benefits may be extended for the spouse and children for a period not to exceed 36 months.</em>
+    </text>
+  </para>
+  <para name="notification-of-the-right-to-continue-health-benefits">
+    <heading>NOTIFICATION OF THE RIGHT TO CONTINUE HEALTH BENEFITS</heading>
+    <text>
+      <strong>Termination or Reduction in Hours</strong>
+    </text>
+    <text>Employees who separate from City employment, and the spouses and dependent children of the employees will receive notification of their rights to continue health care benefits. A COBRA notification letter along with a COBRA election form will be mailed to the address indicated on the City's payroll records at the time of separation. Employees, their spouses and dependent children will have 60 days from the date of separation to apply for continuation of health benefits provided that they are enrolled at the time of separation.</text>
+    <text>Employees who are out of pay status due to a leave of absence, sick leave, family and medical leave, suspension, or other reasons will automatically be billed for their health plan premiums for every pay period they are out of pay status. Employees must call Employee Benefits Division-Premium Billing when they receive their bill. A representative will determine the employee's contribution based on the reason they are out of pay status. If they wish to continue prescription, dental and vision benefits, they must contact COBRA by calling ADP Benefit Services, phone number 1-800-526-2720.</text>
+    <text>
+      <strong>Death of a Covered Employee or Retiree</strong>
+    </text>
+    <text>The spouse and dependent children of a deceased employee or retiree will receive notification of their right to continue health care benefits. A COBRA notification letter along with a COBRA election form will be mailed to the address indicated on the City's payroll records at the time of death. The spouse and dependent children of the employee or retiree will have 60 days from the date of death to apply for continuation of health benefits provided that they are enrolled at the time of death.</text>
+    <text>
+      <strong>Divorce</strong>
+    </text>
+    <text>In cases of divorce, the employee or retiree must notify Employee Benefits Division within 60 days of the qualifying event. A COBRA notification letter along with a COBRA election form will be mailed to the address on file at the time of the qualifying event to the spouse and children of the employee or retiree. The spouse and dependent children of the employee or retiree will have 60 days from the date of divorce to apply for continuation of health benefits provided that they are enrolled at the time of the qualifying event.</text>
+    <text>
+      <strong>Employee's or Retiree's Entitlement to Medicare</strong>
+    </text>
+    <text>An employee's or retiree's entitlement to Medicare that causes his/her spouse (or dependent children) to lose coverage is a qualifying event. However, Medicare Entitlement as the initial qualifying event, does not exist under the City's group health plan. Under Tax Equity and Fiscal Responsibility Act (TEFRA) of 1982, employees who become entitled to Medicare may continue coverage in their health plan as primary and Medicare secondary. In most cases, Medicare Entitlement is a second qualifying event.</text>
+    <text>
+      <strong>Loss of Child's Dependent Status</strong>
+    </text>
+    <text>In cases of a child's loss of dependent status, a COBRA notification letter along with a COBRA election form will be mailed to the dependent child at the address indicated on file. The dependent child will have 60 days from the date of the qualifying event to apply for continuation of health benefits provided that the child was enrolled at the time of the qualifying event. <em>(Loss of dependent status refers to dependent children who have reached the age limit for the health plan in which they are enrolled.)</em></text>
+  </para>
+  <para name="cobra-election">
+    <heading>COBRA ELECTION</heading>
+    <text>Qualified beneficiaries who are eligible to continue their health benefits under COBRA may continue the following health benefit plans provided that they are enrolled at the time of the qualifying event:</text>
+    <text>
+      <ul>
+        <li>Medical Plan</li>
+        <li>Prescription Drug Plan</li>
+        <li>Vision Plan</li>
+        <li>Dental Plan</li>
+      </ul>
+    </text>
+    <text>Qualified beneficiaries, who elect to continue health benefits under COBRA, must continue coverage in the plans enrolled at the time of the qualifying event. Qualified beneficiaries may elect one level of coverage, such as Individual, Husband and Wife, Parent and Child, or Family provided that the dependents were enrolled at the time of the qualifying event.</text>
+  </para>
+  <para name="dependent-eligibility">
+    <heading>DEPENDENT ELIGIBILITY</heading>
+    <text>Qualified beneficiaries may enroll additional dependents during the year within 60 days of a marriage, birth, legal adoption, or guardianship, or terminate a dependent during the year within 60 days of a death, divorce or legal separation or other coverage. Documentation of enrollment or termination of a dependent is required at the time of notification. Contact ADP Benefit Services by calling 1-800-526-2720.</text>
+  </para>
+  <para name="open-enrollment">
+    <heading>OPEN ENROLLMENT</heading>
+    <text>Qualified beneficiaries may also transfer health plans, enroll in or terminate a benefit or enroll or terminate a dependent during an annual Open Enrollment period. Changes will become effective January 1 of the following year.</text>
+  </para>
+  <para name="billing">
+    <heading>BILLING</heading>
+    <text>Qualified beneficiaries will receive monthly bill from ADP Benefit Services. Monthly payments are due the first day of each month. Payments must be made in full and made payable to:</text>
+    <text>ADP Benefit Services<br/>P.O. Box 2968<br/>Alpharetta, GA 30023-2968<br/>Phone: 1-800-526-2720<br/>Fax: 1-800-526-2723</text>
+  </para>
+  <para name="termination-of-cobra-benefits">
+    <heading>TERMINATION OF COBRA BENEFITS</heading>
+    <text>The maximum coverage periods may be terminated early if the:</text>
+    <text>
+      <ul>
+        <li>qualified beneficiary fails to pay the premium on time;</li>
+        <li>qualified beneficiary becomes covered under another group health plan or Medicare after the COBRA election date; or</li>
+        <li>City terminates all of its group health benefits.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="for-more-information">
+    <heading>FOR MORE INFORMATION</heading>
+    <text>Additional information on the various health care benefits offered is available from the Employee Benefits Division of the Department of Human Resources, 201 E. Baltimore Street, Suite 500, Baltimore, MD 21202.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2001-10-05" display="true">October 5, 2001</annotation>
+    <annotation type="History" effective="2008-05-14" display="true">May 14, 2008</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-23">AM-204-23</cite> HEALTH CARE PROVISIONS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-24">AM-204-24</cite> PRESCRIPTION DRUG PROGRAM</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-25">AM-204-25</cite> HEALTH INCENTIVE REIMBURSEMENT PROGRAM FOR PHYSICAL EXAMINATIONS, PHYSICAL FITNESS, VISION CARE OR DENTAL CARE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-26">AM-204-26</cite> OPTICAL/VISION PROGRAM</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-27">AM-204-27</cite> OPTIONAL LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLANS</annotation>
+  </annotations>
+</section>

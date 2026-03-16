@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-7</num>
+  <heading>Separation and Payment at Termination</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy governs the termination of a City employee relative to separation date, payment of accumulated leave entitlement, if any, and use of accumulated leave prior to separation.  Employees who are vested in a City retirement system at the time of termination may exercise their option to a deferred retirement or payment of accumulated contributions, if any, at the time of separation.  Employees who are terminated without having completed their initial probationary period are not eligible to receive any accrued leave payment except for those FLSA non-exempt employees having compensatory leave balances.</text>
+  </para>
+  <para name="termination">
+    <heading>TERMINATION</heading>
+    <text>If an employee is to terminate City service in good standing, the employee must:</text>
+    <text>
+      <ul>
+        <li>Prepare a letter of resignation specifying the termination date and reason for resignation.  The termination date shall be the last date that the employee will be recorded on the City payroll.</li>
+        <li>Submit the letter of resignation to the employee's appointing officer plus 1 copy of the letter to the employee's immediate supervisor at least 5 work days prior to the termination date.</li>
+        <li>Assist in completion of the required EMPLOYEE CLEARANCE CHECKLIST AND EXIT INTERVIEW.</li>
+      </ul>
+    </text>
+    <text>An employee who fails to comply with the above requirements will be regarded as having left City service with prejudice.</text>
+  </para>
+  <para name="separation-date">
+    <heading>SEPARATION DATE</heading>
+    <text>If an employee terminates in good standing, the official date of separation will be the termination date specified in the letter of resignation.  If an employee does not terminate in good standing, the official date of separation will be the last day that the employee was physically present for work.</text>
+  </para>
+  <para name="use-of-leave">
+    <heading>USE OF LEAVE</heading>
+    <para>
+      <num>1.</num>
+      <text>VACATION AND PERSONAL LEAVE</text>
+      <text>Employees may use accumulated vacation and personal leave prior to and including the date of separation.  Use of such leave must be in compliance with the City's vacation leave policy and personal leave policy.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>SICK LEAVE</text>
+      <text>Employees may use accumulated sick leave prior to and including the date of separation, provided that the employee presents satisfactory medical documentation for these days or the agency head verifies such usage.  Use of such leave must also be in compliance with the City's sick leave policy.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>COMPENSATORY LEAVE</text>
+      <text>Compensatory leave may not be used by an employee on the date of separation and/or the 4 work days immediately preceding the date of separation if the employee is FLSA Exempt.  Non-exempt FLSA employees may use compensatory leave on the date of separation and 4 work days preceding the date of separation.</text>
+    </para>
+  </para>
+  <para name="leave-payment">
+    <heading>LEAVE PAYMENT</heading>
+    <text>This section governs accumulated leave payments, as applicable, for vacation, personal leave, sick leave and compensatory leave.</text>
+    <para>
+      <num>1.</num>
+      <text>VACATION AND  PERSONAL LEAVE</text>
+      <text>Employees will normally receive full payment for all accumulated vacation and personal leave which is unused as of the date of separation.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>SICK LEAVE</text>
+      <text>
+        <u>Conversion of Total Accumulation</u>
+      </text>
+      <text>Employees whose service is terminated under 1 of the conditions listed below will receive payment for sick days accumulated during their service and still unused as of the date of separation.  This payment will be computed by the formula appropriate for the employee's authorized bargaining unit; e.g., "1 for 4," or "1 for 3," etc., and shall be deemed a full liquidation of any and all sick leave earned by the employee during the time of his employment.</text>
+      <text>
+        <ul>
+          <li>Retirement with pension benefits.</li>
+          <li>Termination of service without pension benefits after completion of 20 or more years of service.</li>
+        </ul>
+      </text>
+      <text>
+        <u>Conversion of Annual Accumulation</u>
+      </text>
+      <text>Employees whose service is not terminated under 1 of the conditions specified in the previous paragraph and whose date of separation is between June 1 and November 30 will receive 1 day's pay for every 4 sick leave days accumulated during the current administrative sick leave year and still unused as of the date of separation.  This payment shall be deemed a full liquidation of any and all sick leave earned by the employee during the current administrative sick leave year.  It shall further be deemed a full liquidation of any and all sick leave earned during the time of employment if the employee meets 1 or both of the following conditions:</text>
+      <text>
+        <ul>
+          <li>The employee's service is terminated for a reason other than layoff.</li>
+          <li>The employee is not reemployed within 29 calendar days of the dat of separation.</li>
+        </ul>
+      </text>
+      <text>If the employee is reemployed following a layoff or if he is reemployed within 29 calendar days of the date of separation, he will be credited with any unused sick leave which was not converted to cash at the time of separation.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>COMPENSATORY LEAVE</text>
+      <text>Employees will not receive payment for any compensatory leave which is unused as of the date of separation unless they are FLSA non-exempt status employees, who will be paid for compensatory leave subject to the 240 hours ceiling.</text>
+    </para>
+  </para>
+  <para name="payment-exceptions">
+    <heading>PAYMENT EXCEPTIONS</heading>
+    <text>Payment for all leave will be denied to employees whose service is terminated before the completion of their initial probationary period with the City; however FLSA non-exempt employees will be paid compensatory leave balances.</text>
+    <text>If an employee is in debt to the City, payment for leave will be withheld in an amount equal to the employee's indebtedness.</text>
+  </para>
+  <para name="retirement-system">
+    <heading>RETIREMENT SYSTEM</heading>
+    <text>An employee should consult with the respective City Employees Retirement System, City Hall, Room 640, relative to their eligibility for retirement benefits either on termination or on a deferred basis.  Employees who are not vested but who have made contributions to the retirement system are eligible for a return of their contribution upon separation.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-07-01" display="true">July 1, 1989</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-2">AM-204-2</cite> VACATION LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-4">AM-204-4</cite> PERSONAL LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-14">AM-204-14</cite> SICK LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-5">AM-205-5</cite> EMPLOYEE CLEARANCE ON TERMINATION</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-5-1">AM-205-5-1</cite> EMPLOYEE CLEARANCE CHECKLIST</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-7-2">AM-205-7-2</cite> EMPLOYEE EXIT INTERVIEW</annotation>
+  </annotations>
+</section>

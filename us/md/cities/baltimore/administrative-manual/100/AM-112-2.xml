@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-112-2</num>
+  <heading>Maintaining Aesthetic Appearance of City Hall</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Because Baltimore City Hall is listed on the National Register of Historic Places as one of the country's historic and architectural treasures worthy of preserving, certain guidelines have been established for maintaining the visual integrity of the building.</text>
+  </para>
+  <para name="curator-review">
+    <heading>CURATOR REVIEW</heading>
+    <text>In order to preserve the historical and architectural integrity of City Hall, the Curator for City Hall, Office of the Mayor, is charged with approving all additions, deletions, or changes to the architectural or decorating scheme for City Hall. The following requests must be submitted to the Curator:</text>
+    <text>
+      <ul>
+        <li>Physical alteration to the building</li>
+        <li>New or replacement furniture and accessories, such as waste receptacles</li>
+        <li>Artwork, plaques, or signs in spaces other than private offices</li>
+        <li>Exhibits and displays</li>
+      </ul>
+    </text>
+  </para>
+  <para name="new-or-replacement-furniture">
+    <heading>NEW OR REPLACEMENT FURNITURE</heading>
+    <text>Any agency interested in new or replacement furniture for City Hall must contact the Curator's Office at 410-396-4947. The requesting agency is responsible for the cost of the new or replacement furniture.</text>
+  </para>
+  <para name="unauthorized-furnishings">
+    <heading>UNAUTHORIZED FURNISHINGS</heading>
+    <text>Unauthorized furnishings (desk, lamps, chairs, tables, etc.) are subject to removal by the Bureau of General Services, Department of Public Works.</text>
+  </para>
+  <para name="private-offices">
+    <heading>PRIVATE OFFICES</heading>
+    <text>Employees may display pictures, plaques, diplomas, etc. appropriate for a government work environment in their private offices or work areas. Employees are responsible for providing and framing artwork for their private offices. This applies to any photographs, certificates, etc., acquired through employment with the City of Baltimore. However, if these objects are to be placed on the wall, assistance must be obtained from the Office of the Curator for City Hall. No decals, bumper stickers, lettering including employee names, etc. are to be placed on office doors or adjacent glass panels because of the difficulty of removing them and possible damage to these surfaces.</text>
+  </para>
+  <para name="maps-and-bulletin-boards">
+    <heading>MAPS AND BULLETIN BOARDS</heading>
+    <text>Standards have been established for mounting of maps and bulletin boards intended for the common use of employees in a particular work area. Agencies are responsible for the cost of these items. City Hall maintenance personnel can assist in the hanging of large bulletin boards.</text>
+  </para>
+  <para name="exhibits-or-posters">
+    <heading>EXHIBITS OR POSTERS</heading>
+    <text>No poster or fliers are to be mounted on any surfaces in public spaces such as elevator walls, wood paneling, etc. unless authorized to do so by the Curator's Office because of possible damage to the marble and wood walls with the use of various tapes and mounting glue. All exhibits and displays are scheduled through the Mayor's Office.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2003-10-16" display="true">October 16, 2003</annotation>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
+  </annotations>
+</section>

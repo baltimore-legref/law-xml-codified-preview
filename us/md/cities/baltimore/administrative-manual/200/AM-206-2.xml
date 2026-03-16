@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-206-2</num>
+  <heading>Pre-Retirement Seminar</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>All employees who are within ten years of their planned retirement and are members of Employees' Retirement System (ERS) are encouraged to attend one (1) pre-retirement seminar sponsored by the Commission on Aging and Retirement Education, CARE, during their employment with City government.</text>
+    <text>CARE conducts a two-day seminar on the third Tuesday and Wednesday of the month, except July and August, from 8:30 a.m. to 4:30 p.m. at 10 N. Calvert Street, Suite 300. The seminar includes all topics which are necessary for the retirement planning process from City government. Employees must receive permission from their supervisor before registering for the seminar.</text>
+    <text>If the supervisor approves the employee's request to attend the seminar, the employee may be granted a Permission "P" Day. The agency is charged a minimal fee to cover the costs of materials and administration.</text>
+  </para>
+  <para name="registration">
+    <heading>REGISTRATION</heading>
+    <text>After receiving permission from her/his supervisor, the employee should call the offices of CARE at 410-396-5780 to register for the two day seminar and/or complete a photocopy of <cite path="§AM-206-2-1">AM-206-2-1</cite> (form) and return it no later than 10 days (2 weeks) prior to the requested seminar. CARE will send a confirmation letter and agenda to the registered attendee. The $60 cost for the two days will be charged by journal entry to the agency's budget account number by CARE.</text>
+    <text>CARE does encourage spouses to attend the seminar together since it involves "life planning". Spouses of employees must complete the registration form and attach a check for $60, made payable to the Director of Finance.</text>
+  </para>
+  <para name="attendance">
+    <heading>ATTENDANCE</heading>
+    <text>At the seminar attendees are required to sign their names and agencies on the CARE attendance record for verification purposes.</text>
+    <text>For payroll purposes, employees are required to complete a REQUEST FOR TIME OFF form (28-1408-5040), checking the "Permission Day" block and submit it to the supervisor for approval.</text>
+    <text>After registration, if an employee is unable to attend the seminar due to circumstances beyond the employee's control, CARE must be notified at least 48 hours before the scheduled class in order to assign an alternate. Failure to notify CARE will result in the agency still being charged the seminar fee.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1998-03-26" display="true">March 26, 1998</annotation>
+    <annotation type="History" effective="2001-12-18" display="true">December 18, 2001</annotation>
+    <annotation type="Related Policies"><cite path="§AM-206-1">AM-206-1</cite> EMPLOYEES' RETIREMENT SYSTEM</annotation>
+    <annotation type="Related Policies"><cite path="§AM-206-2-1">AM-206-2-1</cite> PRE-RETIREMENT SEMINAR REGISTRATION FORM</annotation>
+  </annotations>
+</section>

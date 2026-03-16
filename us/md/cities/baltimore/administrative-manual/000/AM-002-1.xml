@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-002-1</num>
+  <heading>Introduction</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Administrative Manual (AM) communicates official City policies and procedures that affect the City's operations and its employees. By distilling provisions of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, Board of Estimates policies and rules, Memoranda of Understanding and the decisions and directives of the City Administration, the published policies provide uniform and consistent operating rules.</text>
+    <text>The AM includes only those policies and procedures applicable on a citywide basis. Policies and/or procedures that are developed by individual departments and agencies for their own use are not included in the AM. If an agency is exempt from the provisions of certain policies and procedures, it will not be cited in the AM.</text>
+  </para>
+  <para name="manual-responsibility">
+    <heading>MANUAL RESPONSIBILITY</heading>
+    <text>The Bureau of the Budget and Management Research (BBMR) within the Department of Finance is responsible for the production of the AM, including drafting, revising, publishing, and withdrawing the AM's policies and procedures. By virtue of this charge, BBMR determines the format, content, style, wording, and composition of all AM documents.</text>
+    <text>All City agencies are responsible for recommending changes to existing policies and procedures on as as-needed basis. In addition, agencies tasked with the administration of a particular AM policy should perform periodic reviews and recommend updates to the policy and its procedures as necessary. BBMR will regularly survey agency points of contact about the need for updates.</text>
+    <text>Responsibility for drafting, revising, and withdrawing human resources-related policies and procedures housed in the Personnel Section of the AM rests with the Department of Human Resources (DHR). Where appropriate, DHR will solicit input from the Office of the Labor Commissioner, the Law Department, and other interested stakeholders, when updating the content of the Personnel Section. In addition, BBMR will review DHR's proposed changes to ensure quality and consistency, as it relates to the format, style, wording, and composition of the AM, as well as any financial implications.</text>
+  </para>
+  <para name="manual-compliance">
+    <heading>MANUAL COMPLIANCE</heading>
+    <text>Employees at all levels of the City government are responsible for ensuring compliance with the provisions of the Administrative Manual. Each city agency head must inform BBMR of any changes in their operations that affect an existing AM policy and/or policy section. City agency heads or their designees are also responsible for supplying necessary information requested by the Administrative Manual Section of the BBMR for the preparation and/or revision of AM documents.</text>
+  </para>
+  <para name="manual-issuance">
+    <heading>MANUAL ISSUANCE</heading>
+    <text>The AM is issued by the BBMR. The most updated manual is published on the BBMR intranet: <a href="http://cobweb.baltimorecity.gov/bbmr/">http://cobweb.baltimorecity.gov/bbmr/</a></text>
+    <text>A printable PDF version of the manual is available on the intranet if bureau heads or employees have the need to access the hard copy of the Administrative Manual. Binders are available upon request at the print shop.</text>
+    <text>The print shop order numbers for the red, 3-ring Administrative Manual Binders, which include dividers, are:</text>
+    <text>
+      <ul>
+        <li>23-0380-5375-00 Volume 1 (3-inch)</li>
+        <li>23-0380-5275-00 Volume 2 (2-inch)</li>
+      </ul>
+    </text>
+  </para>
+  <para name="manual-maintenance">
+    <heading>MANUAL MAINTENANCE</heading>
+    <text>The Administrative Manual on the BBMR intranet site will be updated whenever new or revised policies are approved by the Board of Estimates. A broadcast detailing Manual updates will be emailed to all City employees. See additional details about the Administrative Manual Broadcast in <cite path="§AM-002-1-1">AM-002-1-1</cite>.</text>
+    <text>Address correspondence about Administrative Manuals or policies to:</text>
+    <text>Administrative Manual Section, Bureau of Budget and Management Research, Room 469, City Hall or call 410-396-5944.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1996-07-31" display="true">July 31, 1996</annotation>
+    <annotation type="History" effective="2012-08-22" display="true">August 22, 2012</annotation>
+  </annotations>
+</section>

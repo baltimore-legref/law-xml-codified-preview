@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-21</num>
+  <heading>3rd Party Settlement</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>A third party settlement occurs when a party, other than the City, is either found responsible for an employee's on-the-job or off-the-job injury or a settlement is reached for the injury sustained.</text>
+  </para>
+  <para name="approval-process">
+    <heading>APPROVAL PROCESS</heading>
+    <text>If an employee intends to file a claim, bring suit, or accept settlement for damages related to an on-the-job or off-the-job injury caused by a third party, the employee must submit a memo detailing such intent to his/her agency head.</text>
+    <text>The agency head must immediately forward such notification for:</text>
+    <para>
+      <num>1.</num>
+      <text>Non-occupational/non-line of duty injuries to:</text>
+      <text>
+        <em>Department of Law<br/>Division of Collections<br/>100 N. Holliday St., Room 82</em>
+      </text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Occupational/line of duty injuries to:</text>
+      <text>
+        <em>Department of Law<br/>Worker's Compensation liaison attorney<br/>100 N. Holliday St., Room 81</em>
+      </text>
+    </para>
+  </para>
+  <para name="reimbursement-requirements">
+    <heading>REIMBURSEMENT REQUIREMENTS</heading>
+    <text>If the employee receives a settlement from a third party or the third party's insurer for damages related to an injury, or if the employee receives a payment pursuant to a judgment or award in favor of the employee, the employee is required to reimburse the City in full for any expenses advanced by the City. These expenses normally include, but are not limited to:</text>
+    <para>
+      <num>1.</num>
+      <text>Wages paid, which include employee's use of:</text>
+      <text class="text-indent-2">
+        <ul>
+          <li>Job injury leave</li>
+          <li>Sick leave</li>
+          <li>Extended sick leave</li>
+          <li>Personal leave</li>
+          <li>Vacation leave</li>
+          <li>Compensatory leave</li>
+          <li>Other paid time off</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Medical costs to include:</text>
+      <text class="text-indent-2">
+        <ul>
+          <li>Physicians' fees</li>
+          <li>Hospital charges</li>
+          <li>Diagnostic procedures</li>
+          <li>Drugs</li>
+          <li>Therapy</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Incidental costs to include:</text>
+      <text class="text-indent-2">
+        <ul>
+          <li>Telephone in hospital</li>
+          <li>Television in hospital</li>
+        </ul>
+      </text>
+      <text>A reimbursement payment to the City must be made payable to the Director of Finance. Reimbursement shall be limited to the amount of the settlement as evidenced from the employee.</text>
+    </para>
+  </para>
+  <para name="restoration-of-leave">
+    <heading>RESTORATION OF LEAVE</heading>
+    <text>If the City is reimbursed for vacation, personal leave, compensatory leave, and/or sick leave used by the employee as a result of the employee's injuries, the Department of Law will inform the Central Payroll Division. The leave will be restored to the employee's leave balance and his/her taxable earnings will be adjusted accordingly.</text>
+  </para>
+  <para name="failure-to-comply">
+    <heading>FAILURE TO COMPLY</heading>
+    <text>If an employee fails to reimburse the City as required, the City may exercise appropriate remedies to include suit or reduction of wages until the employee's debt is paid. A determination to establish a lien against the employee's wages shall be rendered by the Department of Law.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2003-10-10" display="true">October 10, 2003</annotation>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
+  </annotations>
+</section>

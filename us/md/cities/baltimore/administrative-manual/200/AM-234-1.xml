@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-234-1</num>
+  <heading>Temporary or Seasonal Employments</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Temporary or seasonal appointments are made to Civil Service positions and non-Civil Service positions, which are deemed temporary positions because of unusually heavy workloads, seasonally heavy workloads or the unexpected availability of additional grant funding with short-term expenditure requirements. The length of a temporary or seasonal appointment is determined by whether it is a Civil Service or non-Civil Service position, agency needs, and funding<strong>.</strong></text>
+    <text>Individuals who have temporary appointments to Civil Service positions are considered temporary employees. Individuals appointed to temporary or seasonal positions, not under Civil Service, are also considered temporary employees. Temporary employees are paid hourly for time actually worked, are not eligible for health benefits or any other employee benefit, and cannot earn leave. However, the one exception is benefit-eligible positions which are grant-funded in non-Civil Service classifications and which have been approved for funding by the Department of Finance, Bureau of the Budget and Management Research. A temporary employee will receive job injury leave if injured on the job. Under the State Workers' Compensation Law, the person will receive two-thirds of his/her average weekly wage.</text>
+    <text>All temporary employees are required to have a pre-placement physical at the City of Baltimore Occupational Medical Services (Mercy Clinic) at 323 N. Calvert St.</text>
+    <text>This policy does not cover temporary employees hired through employment agencies.</text>
+  </para>
+  <para name="civil-service-positions">
+    <heading>CIVIL SERVICE POSITIONS</heading>
+    <text>
+      <strong>
+        <u>Fully-Funded Permanent Positions</u>
+      </strong>
+    </text>
+    <text>The Director of Human Resources may authorize the temporary appointment of a person not to exceed six (6) months for the following conditions: whenever a vacancy arises in a fully-funded permanent Civil Service position in a classification for which there is no re-employment list and no employment list or an emergency need requires that the position be filled while the process of interviewing eligible candidates is taking place.</text>
+    <text>The temporary appointment shall continue only until such time as certification of qualified eligible candidates can be made, and a regular appointment becomes effective, according to Civil Service rules and <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
+    <text>When there is a need for an emergency temporary appointment in a permanent Civil Service position for less than 60 days, Department of Human Resources approval is not required.</text>
+    <text>
+      <strong>
+        <u>Position Abolishment or No Permanent Funding</u>
+      </strong>
+    </text>
+    <text>A temporary appointment may be made to a Civil Service position when the position is expected to be abolished, or when permanent funding for the position is not available. Whenever such a temporary appointment is requested, the Director of Human Resources may grant authority for the appointment for a period not to exceed one (1) year, provided that the person appointed for more than 60 days meets the minimum qualifications for the classification.</text>
+    <text>If a Civil Service position that is filled is not abolished within one (1) year or if funding is made available beyond one year, then the Director of Human Resources shall proceed to certify an appropriate eligible list for permanent appointment or may authorize a temporary appointment in accordance the rules listed under Fully-Funded Permanent Positions.</text>
+  </para>
+  <para name="non-civil-service-positions">
+    <heading>NON-CIVIL SERVICE POSITIONS</heading>
+    <text>Temporary or seasonal employment due to an unusually heavy workload or a seasonally heavy workload is considered non-Civil Service. Positions funded because of short-term grants that are not routinely received are also considered non-Civil Service.</text>
+    <text>Temporary positions in this category shall be placed in non-Civil Service classifications, and appointments to those classifications shall be audited by the Department of Human Resources each year to insure that appointments to temporary positions in this category shall not be continued for more than two (2) years.</text>
+    <text>Positions in the category of temporary or seasonal employment which require full-time employment for twelve (12) months per year for more than two (2) years shall be deemed permanent and therefore within the Civil Service, unless the exclusion is extended by the Civil Service Commission prior to the completion of the two-year period.</text>
+    <text>Temporary or seasonal employment positions, which are later deemed permanent, shall be reclassified and included in the Civil Service and a permanent appointment shall be required according to the Department of Human Resources rules. Persons in temporary positions, which are later deemed permanent, shall not be placed on the official roster until they have been certified and permanently appointed in accordance with these rules.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2003-05-28" display="true">May 28, 2003</annotation>
+    <annotation type="History" effective="2007-07-25" display="true">July 25, 2007</annotation>
+    <annotation type="Related Policies"><cite path="§AM-231-1">AM-231-1</cite> Hiring and Transfers</annotation>
+  </annotations>
+</section>

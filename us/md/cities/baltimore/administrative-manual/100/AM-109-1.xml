@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-109-1</num>
+  <heading>Construction Work Involving</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>When a City agency engages in construction work which spans, crosses, or is adjacent to railroad rights-of-way, it may be necessary for railroad employees to be at the construction site to perform various functions (e.g., coordinating train timetables with construction schedules, taking measures to protect railroad property from accidental damage, etc.). In such cases, the City may be required to reimburse the railroad for the work performed by these railroad employees.</text>
+  </para>
+  <para name="labor-surcharges">
+    <heading>LABOR SURCHARGES</heading>
+    <text>The City will negotiate labor surcharge rates with the railroads based upon the rates set forth in the Federal Highway Administration's "Federal Aid Highway Program Manual". The following extract from this document must be consulted when negotiating such contracts.</text>
+    <include>
+      <text>
+        <u>EXTRACT</u>
+      </text>
+      <text>LABOR SURCHARGES ESTABLISHED BY AGREEMENT BETWEEN THE FEDERAL HIGHWAY ADMINISTRATION AND THE ASSOCIATION OF AMERICAN RAILROADS APPLICABLE TO 23 CFR, CH.1, PART 140, SUBPART I AND PART 646, SUBPART B.</text>
+    </include>
+    <text>For additional information or interpretation of the rates, contact: Department of Transportation, 417 E. Fayette Street, 5th floor.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1997-07-22" display="true">July 22, 1997</annotation>
+    <annotation type="History" effective="2016-10-26" display="true">October 26, 2016</annotation>
+  </annotations>
+</section>

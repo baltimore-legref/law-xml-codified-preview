@@ -3142,11 +3142,11 @@
   <container>
     <prefix>Subtitle</prefix>
     <num>9</num>
-    <heading>Parking for Disabled Persons and Helpers</heading>
+    <heading>Parking for Disabled Individuals and Helpers<annotation app="2026-03-26" doc="City of Balt., Md., Ord. 26-085" eff="2026-03-26" path="§1" type="History"/></heading>
     <container>
       <prefix>Part</prefix>
       <num>1</num>
-      <heading>Reserved Parking for Disabled Persons</heading>
+      <heading>Reserved Parking for Disabled Individuals<annotation app="2026-03-26" doc="City of Balt., Md., Ord. 26-085" eff="2026-03-26" path="§1" type="History"/></heading>
       <section>
         <prefix>§</prefix>
         <num>9-1</num>
@@ -3154,59 +3154,36 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>A disabled person may be eligible for a reserved parking space if the person meets the following criteria:</text>
+          <text>A disabled individual may be eligible for a reserved parking space if the individual meets the following criteria:</text>
           <para>
             <num>(1)</num>
-            <text>the disability of the applicant must be permanent or of a nature expected to adversely affect the applicant for at least 1 year;</text>
+            <text>the disability of the individual is permanent or of a nature expected to adversely affect the individual for at least 1 year;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>the applicant must be unable to use public transportation, leaving a personal vehicle as the only means of transportation;</text>
+            <text>the individual is unable to use public transportation, leaving a personal vehicle as the only means of transportation;</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>the applicant must be the sole operator of the vehicle or, if the applicant is dependent upon a non-handicapped driver for transportation, the driver must reside in the same household;</text>
+            <text>the individual is the sole operator of the vehicle or, if the individual is dependent upon a non-handicapped driver for transportation, the driver must reside in the same dwelling;</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>parking space must be available that is not restricted by other parking regulations;</text>
+            <text>parking space is available that is not restricted by other parking regulations;</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>off-street parking is not available, such as a driveway, garage, or parking pad, on the applicant's property; and</text>
+            <text>off-street parking is not available, such as a driveway, garage, or parking pad, on the individual's property; and</text>
           </para>
           <para>
             <num>(6)</num>
-            <text>the applicant submits an application in the form that the Director of Transportation requires.</text>
+            <text>the individual submits an application in the form that the Director of Transportation requires.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <heading>Required statements.</heading>
-          <para>
-            <num>(1)</num>
-            <text>The application shall be accompanied by:</text>
-            <para>
-              <num>(i)</num>
-              <text>a physician's statement, dated within the previous 6 months, describing the nature and anticipated duration of the disability and the disability's effect on the mobility of the applicant; and</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>signed statements approving the designation of reserved parking for the applicant from the 2 abutting property owners and from 4 additional property owners in the block.</text>
-            </para>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>The Director may waive the requirements of paragraph (1)(ii) of this subsection if:</text>
-            <para>
-              <num>(i)</num>
-              <text>the Director determines that there are not enough properties in the block to supply the necessary signatures; or</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>the Director, in consultation with the Director of the Community Relations Commission, determines that the applicant meets all other criteria for obtaining a reserved parking space.</text>
-            </para>
-          </para>
+          <heading>Statement.</heading>
+          <text>The application shall be accompanied by a physician's statement, dated within the previous 6 months, describing the nature and anticipated duration of the disability and the disability's effect on the mobility of the individual.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §157</annotation>
@@ -3214,6 +3191,7 @@
           <annotation doc="City of Balt., Md., Ord. 97-129" type="History">Ord. 97-129</annotation>
           <annotation doc="City of Balt., Md., Ord. 09-211" type="History">Ord. 09-211</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+          <annotation app="2026-03-26" doc="City of Balt., Md., Ord. 26-085" eff="2026-03-26" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3225,7 +3203,7 @@
           <heading>Application to Department.</heading>
           <para>
             <num>(1)</num>
-            <text>Any person desiring a reserved parking space and meeting the criteria of <cite path="|31|§9-1">§ 9-1 of this subtitle</cite> may submit an application for a reserved parking permit to the Department of Transportation.</text>
+            <text>Any individual desiring a reserved parking space and meeting the criteria of <cite path="|31|§9-1" doc="City of Balt., Md., Ord. 26-085">§ 9-1 of this subtitle</cite> may submit an application for a reserved parking permit to the Department of Transportation.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3235,15 +3213,7 @@
         <para>
           <num>(b)</num>
           <heading>Approvals.</heading>
-          <text>If a determination is made that the applicant meets the criteria for a space, then:</text>
-          <para>
-            <num>(1)</num>
-            <text>a temporary permit shall be issued; and</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>an administrative regulation describing the location of the reserved space shall be submitted to the City Council and shall be processed as described in <cite path="|31|§2-6">§ 2-6 of this article</cite>.</text>
-          </para>
+          <text>If the Department reviews an application and determines that the applicant meets the criteria for a reserved parking space, then the Department shall issue a permit to the applicant.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3254,13 +3224,14 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>If the Department denies the permit, the applicant may appeal the decision to the Director. The Director shall review the case and may, in the Director's discretion, reverse the denial and grant a temporary permit.</text>
+            <text>If the Department denies the permit, the applicant may appeal the decision to the Director, who shall review the case and may, in the Director's discretion, reverse the denial and grant a temporary permit.</text>
           </para>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §158</annotation>
           <annotation doc="City of Balt., Md., Ord. 88-041" type="History">Ord. 88-041</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+          <annotation app="2026-03-26" doc="City of Balt., Md., Ord. 26-085" eff="2026-03-26" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3270,30 +3241,46 @@
         <para>
           <num>(a)</num>
           <heading>Permit to be displayed.</heading>
-          <text>The permit must be clearly displayed whenever the vehicle is parked in the reserved parking space.</text>
+          <text>The permit shall be clearly displayed whenever the vehicle is parked in the reserved parking space.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Validation and renewal.</heading>
-          <text>Reserved parking permits must be:</text>
           <para>
             <num>(1)</num>
-            <text>validated upon the expiration of 6 months from their date of issue; and</text>
+            <text>Every 5 years, the Department shall send a permit holder a document that affirms the permit holder still requires the use of the permit.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>renewed each year in the manner and form determined by the Department.</text>
+            <text>Upon receipt of the document under this subsection, the permit holder shall sign and return the document to the Department if the permit holder still requires use of the permit.</text>
           </para>
         </para>
         <para>
           <num>(c)</num>
           <heading>Notice when no longer needed.</heading>
-          <text>The holder of a reserved parking permit or the holder's heirs shall notify the Department when a reserved parking space is not longer needed.</text>
+          <para>
+            <num>(1)</num>
+            <heading>Notice from permit holder or heirs.</heading>
+            <text>The holder of a reserved parking permit or the holder's heirs shall notify the Department when a reserved parking space is no longer needed.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Notice from other party.</heading>
+            <text>Any person who reasonably believes that a permit holder has died, moved, or otherwise no longer requires a reserved parking permit may submit a request to the Department that the Department:</text>
+            <para>
+              <num>(i)</num>
+              <text>review the permit; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>if necessary, require the permit holder to resubmit the documentation required by <cite path="31|§9-1">§ 9-1</cite> of this subtitle.</text>
+            </para>
+          </para>
         </para>
         <para>
           <num>(d)</num>
           <heading>Revocation.</heading>
-          <text>A reserved parking permit shall be revoked if:</text>
+          <text>The Department shall revoke a reserved parking permit if:</text>
           <para>
             <num>(1)</num>
             <text>false statements are made in the application;</text>
@@ -3304,21 +3291,35 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>new parking regulations are imposed which prohibit parking at any time;</text>
+            <text>new parking regulations are imposed which prohibit parking at any time; or</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>the City Council rescinds an administrative regulation pursuant to <cite path="|31|§2-6">§ 2-6 of this article</cite>; or</text>
+            <text>the disabled individual dies, moves from the premises, or no longer needs the space.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Biannual notice.</heading>
+          <text>The Department shall biannually send a permit holder notice that:</text>
+          <para>
+            <num>(1)</num>
+            <text>confirms the individual has an active permit;</text>
           </para>
           <para>
-            <num>(5)</num>
-            <text>the disabled person dies, moves from the premises, or no longer needs the space.</text>
+            <num>(2)</num>
+            <text>lists the permit holder’s contact information as it appears in the Department’s records; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>includes instructions for how a permit holder may update their contact information with the Department.</text>
           </para>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §159(a) - (d)</annotation>
           <annotation doc="City of Balt., Md., Ord. 88-041" type="History">Ord. 88-041</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+          <annotation app="2026-03-26" doc="City of Balt., Md., Ord. 26-085" eff="2026-03-26" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3335,11 +3336,11 @@
           <heading>Fees.</heading>
           <para>
             <num>(1)</num>
-            <text>The Director may set and impose reasonable application and annual permit fees to help defray the cost of manufacturing, installing, and removing signs and otherwise administering this Part 1.</text>
+            <text>Subject to the approval of the Board of Estimates, the Director may set and impose reasonable application and annual permit fees to help defray the cost of manufacturing, installing, and removing signs and otherwise administering this Part 1.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The fees set under this subsection do not apply to and may not be imposed if the applicant-permittee's disability is, as shown on the physician's statement, permanent.</text>
+            <text>The fees set under this subsection do not apply to and may not be imposed if the disabled individual's disability is, as shown on the physician's statement, permanent.</text>
           </para>
         </para>
         <annotations>
@@ -3348,6 +3349,7 @@
           <annotation doc="City of Balt., Md., Ord. 09-211" type="History">Ord. 09-211</annotation>
           <annotation type="History">Text Conformed 02/28/21</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation app="2026-03-26" doc="City of Balt., Md., Ord. 26-085" eff="2026-03-26" path="§1" type="History"/>
         </annotations>
       </section>
       <section name="9-5to9-10">
@@ -3365,11 +3367,12 @@
         <prefix>§</prefix>
         <num>9-11</num>
         <heading>"Disabled person" defined.</heading>
-        <text>In this Part, "disabled person" means a person who meets the physical criteria for obtaining a reserved parking space for a disabled person.</text>
+        <text>In this Part, “disabled individual” means an individual who meets the physical criteria for obtaining a reserved parking space for a disabled individual under <cite path="31|§9-1">§ 9-1</cite> of this subtitle.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §160(a)</annotation>
           <annotation doc="City of Balt., Md., Ord. 95-537" type="History">Ord. 95-537</annotation>
           <annotation doc="City of Balt., Md., Ord. 96-023" type="History">Ord. 96-023</annotation>
+          <annotation app="2026-03-26" doc="City of Balt., Md., Ord. 26-085" eff="2026-03-26" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3379,30 +3382,18 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>A person who regularly renders assistance to a disabled person may apply to the Department of Transportation for a permit for 1 reserved parking space at the disabled person's home.</text>
+          <text>An individual who regularly renders assistance to a disabled individual may apply to the Department of Transportation for a permit for 1 reserved parking space at the disabled individual's home.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Application.</heading>
           <para>
             <num>(1)</num>
-            <text>The application shall be made jointly by the disabled person and the disabled person's designated helper.</text>
+            <text>The application shall be made jointly by the disabled individual and the disabled individual's designated helper.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The application shall be in the form that the Director requires and shall be accompanied by:</text>
-            <para>
-              <num>(i)</num>
-              <text>a physician's statement, dated within the previous 6 months, describing the nature and anticipated duration of the disabled person's disability and the disability's effect on the disabled person's mobility; and</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>signed statements approving the designation of reserved parking for the applicant from the 2 abutting property owners and from 4 additional property owners in the block.</text>
-            </para>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>The Director may waive the requirements of paragraph (2)(ii) of this subsection if the Director determines that there are not enough properties in the block to supply the necessary signatures.</text>
+            <text>The application shall be in the form that the Director requires and shall be accompanied by a physician's statement, dated within the previous 6 months, describing the nature and anticipated duration of the disabled individual's disability and the disability's effect on the disabled individual's mobility.</text>
           </para>
         </para>
         <para>
@@ -3419,7 +3410,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>the disabled person meets the criteria for a reserved parking space.</text>
+            <text>the disabled individual meets the criteria for a reserved parking space.</text>
           </para>
         </para>
         <annotations>
@@ -3427,6 +3418,7 @@
           <annotation doc="City of Balt., Md., Ord. 95-537" type="History">Ord. 95-537</annotation>
           <annotation doc="City of Balt., Md., Ord. 09-211" type="History">Ord. 09-211</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+          <annotation app="2026-03-26" doc="City of Balt., Md., Ord. 26-085" eff="2026-03-26" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3481,7 +3473,7 @@
         <para>
           <num>(a)</num>
           <heading>Forms, rules, and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may develop forms and adopt rules and regulations to carry out this Part 2.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 26-085">City General Provisions Article</cite>, the Director may develop forms and adopt rules and regulations to carry out this Part 2.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3492,7 +3484,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>The fees set under this subsection do not apply to and may not be imposed if the disability of the person being assisted is, as shown on the physician's statement, permanent.</text>
+            <text>The fees set under this subsection do not apply to and may not be imposed if the disability of the individual being assisted is, as shown on the physician's statement, permanent.</text>
           </para>
         </para>
         <annotations>
@@ -3500,6 +3492,7 @@
           <annotation doc="City of Balt., Md., Ord. 95-537" type="History">Ord. 95-537</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-211" type="History">Ord. 99-211</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation app="2026-03-26" doc="City of Balt., Md., Ord. 26-085" eff="2026-03-26" path="§1" type="History"/>
         </annotations>
       </section>
       <section name="9-16to9-20">

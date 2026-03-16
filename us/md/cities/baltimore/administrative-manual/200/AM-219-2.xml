@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-219-2</num>
+  <heading>Repayment of Tuition Reimbursement</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy applies to all City employees who have received reimbursement from the City for college tuition expenses and who leave service within one year of the reimbursement for such expenses.</text>
+  </para>
+  <para name="repayment-conditions">
+    <heading>REPAYMENT CONDITIONS</heading>
+    <text>An employee who received tuition aid and leaves City employment for any reason, except lay-off, before completion of 1 year of service from the date indicated on the TUITION AID REQUEST's "Processing for Payment" section, must repay to the City all tuition aid inclusive of fees received within this 1 year period.</text>
+  </para>
+  <para name="supervisor's-role">
+    <heading>SUPERVISOR'S ROLE</heading>
+    <text>The employee's immediate supervisor must notify by MEMO the Disbursements Division of the resignation of an employee who is required to repay to the City monies received as tuition reimbursement. The immediate supervisor does not have the authority to waive this repayment requirement.</text>
+    <text>Unless other arrangements are made by the employee, the Disbursements Division will withhold from the employee's final paycheck those funds owed to the City.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2019-12-01" display="true">December 1, 2019</annotation>
+  </annotations>
+</section>

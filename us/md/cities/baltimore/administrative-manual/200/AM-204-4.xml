@@ -79,7 +79,7 @@
         <heading>Length of Continuous Service</heading>
         <text>Length of continuous service is calculated from the first day of appointment to a regular Civil Service or Non-Civil Service position.</text>
         <text>Prior City employment will qualify as continuous service if the employee was appointed to a regular Civil Service or Non-Civil Service position, but:</text>
-        <text class="text-indent-3">
+        <text class="text-indent-4">
           <ul>
             <li>Was laid off due to lack of work or funds and rehired into a regular position within one (1) year of separation;</li>
             <li>Had a break in service of twenty-nine (29) working days or less; or</li>
@@ -151,9 +151,9 @@
       </para>
     </para>
   </para>
-  <para name="LEAVE-USAGE">
+  <para name="leave-usage">
     <num>V.</num>
-    <heading>Leave Usage</heading>
+    <heading>LEAVE USAGE</heading>
     <text>Employees must obtain approval prior to using personal or vacation leave.  Personal and vacation leave can be used for any absence.  A full day is equivalent to the number of paid hours in a single shift for each employee based on the employee's labor union or professional association affiliation.  A three work day notice is needed for all requests for personal leave.  A three work day notice is needed for all requests for vacation leave of less than one work week.  A one work week notice is needed for all requests for vacation leave of more than one work week.</text>
     <text>All reasonable requests for leave shall be considered and approved, unless doing so would result in demonstrable operational hardship.</text>
     <para>
@@ -181,7 +181,7 @@
   <para name="military-leave">
     <num>VII.</num>
     <heading>MILITARY LEAVE</heading>
-    <text>Employees who are granted a military leave of absence may elect: (1) to use accrued vacation and personal leave during their absence in accordance with AM 204-11 Military Leave, or (2) retain any vacation and personal leave accrued prior to their military leave of absence for credit to their leave account upon reinstatement to City service.</text>
+    <text>Employees who are granted a military leave of absence may elect: (1) to use accrued vacation and personal leave during their absence in accordance with <cite path="§AM-204-11">AM-204-11</cite> Military Leave, or (2) retain any vacation and personal leave accrued prior to their military leave of absence for credit to their leave account upon reinstatement to City service.</text>
   </para>
   <para name="separation-from-employment">
     <num>VIII.</num>
@@ -205,13 +205,13 @@
     <text>The City of Baltimore Department of Human Resources issues this policy pursuant to the authority of <cite doc="City of Baltimore, Md., Charter">the Charter of Baltimore City</cite>, Article VI, Section 12.</text>
   </para>
   <annotations>
-    <annotation type="Related Policies">AM-204-1 Annual Holidays</annotation>
-    <annotation type="Related Policies">AM-204-12 Length of Service</annotation>
-    <annotation type="Related Policies">AM-204-13 Time Off by Executive Order</annotation>
-    <annotation type="Related Policies">AM-204-30 Determination of Benefits</annotation>
-    <annotation type="Related Policies">AM-205-7 Separation and Payment at Termination</annotation>
-    <annotation type="Related Policies">AM-208-1 Leave of Absence without Pay</annotation>
-    <annotation type="History" effective="2008-05-07" display="true">May 7, 2008</annotation>
-    <annotation type="History" effective="2015-07-01" display="true">July 1, 2015 - also replaced AM-204-2 [March 3, 2008]</annotation>
+    <annotation type="History" display="true" effective="2008-05-07">May 7, 2008</annotation>
+    <annotation type="History" display="true" effective="2015-07-01">July 1, 2015 [also replaces <cite path="§AM-204-2">AM-204-2</cite>]</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-1">AM-204-1</cite> Annual Holidays</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-12">AM-204-12</cite> Length of Service</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-13">AM-204-13</cite> Time Off by Executive Order</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-30">AM-204-30</cite> Determination of Benefits</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> Separation and Payment at Termination</annotation>
+    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> Leave of Absence without Pay</annotation>
   </annotations>
 </section>

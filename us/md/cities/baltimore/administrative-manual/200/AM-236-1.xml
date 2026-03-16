@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-236-1</num>
+  <heading>Probationary Period</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>A probationary period constitutes the 6 month segment of time during which an employee's competency to fulfill the duties of the position to which appointed is judged by the appointing officer. At any time during the probationary period, the appointing officer may dismiss an employee when performance is deemed unsatisfactory by completing a CUT-OFF TICKET (28-1618-5144). These requirements affect employees appointed to a Civil Service class or non-civil Service class. In addition employees serving in a non-Civil Service class are subject to immediate dismissal following two weeks notice if they have completed successful probationary period.</text>
+  </para>
+  <para name="overtime-work">
+    <heading>OVERTIME WORK</heading>
+    <text>A probationary employee should not work overtime except in an emergency, i.e., the protection of the public safety or City property and equipment, etc.</text>
+  </para>
+  <para name="requirement">
+    <heading>REQUIREMENT</heading>
+    <text>An employee will be required to serve a probationary period if he is selected to fill a vacant position in the Classified Civil Service, and the selection resulted from 1 of the following:</text>
+    <text>
+      <ul>
+        <li>An open employment list.</li>
+        <li>A reemployment list if the vacant position is in an organizational unit other than that of his previous employment.</li>
+        <li>A list established by the appointing officer for non-Civil Service classes.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="definition">
+    <heading>DEFINITION</heading>
+    <text>As defined by Civil Service, an organizational unit: (1) is the 1<sup>st</sup> level of organization immediately below the agency level; and (2) bears the designation of "bureau". Where an official bureau does not exist, the agency is considered the organizational unit.</text>
+  </para>
+  <para name="leave-entitlememt">
+    <heading>LEAVE ENTITLEMEMT</heading>
+    <text>
+      <ul>
+        <li>
+          <strong>VACATION</strong>
+        </li>
+      </ul>
+    </text>
+    <text>An employee who is serving his first probationary period in City service earns vacation leave at the normal rate, but may not use this earned leave until the probationary period is satisfactorily completed.</text>
+  </para>
+  <para name="sick/personal-leave">
+    <heading>SICK/PERSONAL LEAVE</heading>
+    <text>An employee serving in his first probationary period earns sick and personal leave at the established rate. With the concurrence of the Supervisor, such leave may be used during the probationary period.</text>
+  </para>
+  <para name="dismissal-provisions">
+    <heading>DISMISSAL PROVISIONS</heading>
+    <text>An employee who is dismissed by his appointing officer before his first probationary period is completed, does not benefit from any accrued leave since that employee must complete the probationary period in order to satisfactorily earn 6 vacation days. Therefore, the dismissed employee will not be allowed to convert any leave to cash.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-02-20" display="true">February 20, 1989</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-2">AM-204-2</cite> VACATION LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-7-1">AM-205-7-1</cite> CUT-OFF NOTICE</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-10</num>
+  <heading>Job-Related Injuries and Illnesses</heading>
+  <text>The City of Baltimore strives to maintain a safe and healthy working environment. When accidents or other health-related matters impact the working environment, certain measures must be taken to ensure the proper review of, and decisions for, any instance of job-related injury or illness.</text>
+  <para name="scope">
+    <num>I.</num>
+    <heading>SCOPE</heading>
+    <text>This policy is intended to provide employees with a comprehensive response to on-the-job injuries and illnesses, prompt medical examination and a timely return to work. It complies with OSHA regulation 29 CFR l 904.35 on informing each employee how to report on-the-job injuries and illnesses.</text>
+  </para>
+  <para name="policy-sections">
+    <num>II.</num>
+    <heading>POLICY SECTIONS</heading>
+    <text>
+      <ul>
+        <li>Definitions</li>
+        <li>Reporting Requirements</li>
+        <li>Employee Responsibilities</li>
+        <li>Supervisor Responsibilities</li>
+        <li>Severe Injuries/Out of Town on City Business Injuries</li>
+        <li>City of Baltimore Occupational Medical Services (Mercy Clinic)</li>
+        <li>Notification of Return to Duty</li>
+        <li>Job Injury Leave</li>
+        <li>Leave Usage</li>
+        <li>Delayed or Failure to Report Incidents - Progressive Disciplinary Procedures</li>
+        <li>Fraud Warning</li>
+        <li>Related Policies</li>
+        <li>Related Procedures and/or Documents</li>
+      </ul>
+    </text>
+  </para>
+  <para name="definitions">
+    <num>III.</num>
+    <heading>DEFINITIONS</heading>
+    <text><strong><em>City of Baltimore Occupational Medical Services</em></strong> - A health care organization designated by the City of Baltimore and confirmed. by contract that provides initial visits and reviews of medical treatment obtained elsewhere on behalf of the City of Baltimore for on-the-job. injuries and illnesses at the site designated and performs duty status determinations for all City Employees, as well as sick visits for some City employees.  Treatment by the Provider to the Employee shall only be rendered to employees injured at work in an emergency or if the employee consents to be treated by the Organization in writing, as the only primary care giver of the employee and if the Provider guarantees and holds harmless the City from any  conflict of interest that will affect its primary obligations to the City. The site must be in the city and agreed to by the Provider and the City.</text>
+    <text><strong><em>Discharge Instructions</em></strong> - A written document provided to employees  seen  at  the site at the end of each visit that indicates diagnosis, a statement of what treatment would be appropriate going forward, work status and the time and place of the employee1s next visit, if any. The employee should give a copy of the document to his/her supervisor immediately following each appointment.</text>
+    <text><strong><em>Employee</em></strong> - This includes permanent full-time, permanent part-time employees and temporary employees contracted directly by the agencies (seasonal employees). It excludes consultants, volunteers and staff provided by temporary personnel agencies. For specific information on who is considered an employee for workers' compensation purposes, contact the City's Department of Law, Workers' Compensation Division, at 410-396-5479.</text>
+    <text><strong><em>Employee Incident Report ("EIR")</em></strong> - A City form that is used to report job-related injuries and illness. The warehouse form number is 28-1608-5149. It is to be completed within 24 hours by the Employee, with the assistance of the supervisor and signed by the Employee.  The City shall then report the incident to the Third-Party Administrator, by calling 1-877-607-8600 or whatever other means are then available and sending the original of the signed and dated EIR to the current Third-Party Claims Administrator ("TPA") of the City (currently Sedgwick).  The employee is to take the appropriate copy of the signed and dated EIR form with him/her to the clinic.</text>
+    <text>The EIR form has 4 parts:</text>
+    <para>
+      <num>1.</num>
+      <text><strong>Original </strong>- is for the TPA and the original EIR, signed and dated by the employee must be forwarded by the employee's supervisor or whoever else may be designated by the given Agency to handle reporting the incident and completing and sending the EIR to the TPA and the others listed below, except for Medical Services, which is taken by the employee as stated above.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text><strong>Safety- </strong>is designated for the Division of Occupational Safety and shall be .</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text><strong>Medical Services - </strong>is the copy which accompanies the employee to the Mercy Clinic.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text><strong>Agency </strong>- is to be retained with the Agency Human Resources Office.</text>
+    </para>
+    <text>Failure to complete the EIR, to report the incident to the TPA and/or to send the various copies of the EIR to the appropriate places shall result in discipline as it hinders the handling of these accidents harming employees and harms the City financially as well.</text>
+    <text><strong><em>Medical Director</em></strong> - A physician licensed in the State of Maryland and board certified in Occupational and Environmental Medicine who oversees the operation of the City of Baltimore Occupational Medical Services and serves as the chief physician of the City for matters of City employee medical services set forth herein.</text>
+    <text><strong><em>Supervisor</em></strong> - An employee designated by management, who exercises major, supervisory functions over other employees. These functions include hiring, evaluating, assigning work, disciplining, and dismissing.</text>
+    <text><strong><em>Third Party Administrator ("TPA")</em></strong> - An organization designated by the City of Baltimore to receive, investigate and process claims pursuant to a service contract and in accordance with the Maryland Workers' Compensation statute that is under contract with the City at that time</text>
+    <text><strong><em>Workers' Compensation Claim</em></strong> - A workers' compensation claim  is a report of a  job-related  injury or illness that arises out of or in the course of his/her employment with the City (whether at the regular jobsite, a temporary jobsite, traveling on business for the City or driving on City business) that has been reported to the TPA and the Workers'  Compensation  Commission  within  the statutory time frame.</text>
+  </para>
+  <para name="reporting-requirements">
+    <num>IV.</num>
+    <heading>REPORTING REQUIREMENTS</heading>
+    <text>Prompt reporting of job-related injuries and illnesses is essential for the following reasons:</text>
+    <text>
+      <ul>
+        <li>An employee will not be seen at the Mercy Clinic (unless the injury is severe) without a copy of the completed EIR, resulting in delay of obtaining off work status.</li>
+        <li>Each employee is obligated to report every incident/accident/first sign of occupational disease or exposure that could lead to an occupational disease to their supervisor immediately after the occurrence or as soon thereafter as possible.  If an employees Agency requires reporting to anyone else, that reporting shall also occur as soon as possible.  Employee shall then assist in completing the EIR and signing and dating the employee section.</li>
+        <li>The setup of a claim by the TPA will not occur and authorization of treatment or payments to the employee will be delayed until the original EIR has been sent and has been received by the TPA and the incident has been reported to the TPA, thereby delaying benefits to the employee, reporting to the Workers' Compensation Commission and hindering possible valid defenses of the City causing financial harm to the City.</li>
+        <li>The Maryland Department of Labor, Licensing and Regulation as well as the Maryland Workers' Compensation Commission can levy late reporting actions against the City. If the City of Baltimore is fined for late reporting, any fine up to $1,000 will be charged back to the agency responsible for the late reporting.</li>
+        <li>Failure to report incidents or delayed reporting of incidents by employees and supervisors shall result in disciplinary action and failure of an Agency to enforce these rules can result in further disciplibne.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="employee-responsibilities">
+    <num>V.</num>
+    <heading>EMPLOYEE RESPONSIBILITIES</heading>
+    <text>Employees shall follow these procedures in the event of a job-related injury or illness:</text>
+    <para>
+      <num>1.</num>
+      <text>Report any job-related injury or illness to the appropriate supervisor on the date or shift that it occurs, unless incapacitated.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Complete the appropriate section on the EIR and sign it as soon as possible.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Report to the Mercy Clinic (323 N. Calvert Street, Baltimore, MD  21202) to seek evaluation and work status with the EIR copy for Medical Services.  A valid City identification and a copy of the EIR are required.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Provide the supervisor with the agency's copy of the Discharge Instructions immediately following each appointment. The document includes the patient's diagnosis, work status, return appointment and any information relating to a referral outside of the clinic.</text>
+    </para>
+  </para>
+  <para name="supervisor-responsibilities">
+    <num>VI.</num>
+    <heading>SUPERVISOR RESPONSIBILITIES</heading>
+    <text>The supervisor's first priority is to see that prompt medical treatment is provided to an injured employee. In the event of a serious job-related injury or illness, dial 911. The employee should be taken to the closest medical facility.</text>
+    <text>In all other cases, when an employee reports a job-related injury or illness, the supervisor shall follow these procedures:</text>
+    <para>
+      <num>1.</num>
+      <text>Complete the EIR form (#28-1608-5149) and send the employee to the clinic with the EIR copy for "Medical Services."</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Report the incident to the TPA by calling the Teleprompt number (1-877-607-8600) or by any other means made available and sending the EIR to the TPA. The claim reporting telephone number is available 24 hours a day, 7 days a week. This is an essential step as it officially establishes a claim with the TPA. Immediately calling the Teleprompt ensures prompt services will be provided to injured employees.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Do not delay in calling Teleprompt or reporting electronically, even if additional investigation is needed (Such should be reported and included on the Supervisor section of the EIR).  Required fields for reporting to Teleprompt are: employee's name, address, phone number, date and description of injury, agency name, and contact information.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Forward the completed, signed and dated "Original" copy of the EIR form to the TPA at FAX: 410-864-2600, mail to 7 St. Paul Street, Suite 450, Baltimore, MD 21202 or uploaded it if reporting electronically at the time of reporting or as soon thereafter as possible if the employee is not available to complete the EIR due to the injury, which reporting should be done ASAP after the incident.</text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>Send the "Safety" copy by mail, facsimile or in person to the Department of Finance, Office of Risk Management, Division of Occupational Safety, 401 E. Fayette Street, 7<sup>th</sup> Floor, Baltimore MD 21202 or FAX to 410-396-7278.</text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>Send the copy designated for "Agency" to the Agency Human Resources Office.</text>
+    </para>
+    <para>
+      <num>7.</num>
+      <text>Coordinate with the Agency Human Resources Office to provide light duty or transitional work assignments in accordance with the medical restrictions on the Discharge Instructions.</text>
+      <text>Supervisors shall follow these accident investigation procedures to ensure a complete report:</text>
+    </para>
+    <para>
+      <num>1.</num>
+      <text>Report to the incident site, when possible.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Obtain names, phone numbers, email addresses, and addresses of all witnesses.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Interview and document statements of witnesses. Accurately note the date, time, place, weather, and circumstances surrounding the accident. Obtain, produce or sketch detailed drawings and measurements. Take photographs of the site, if possible. Document first aid and medical treatment provided to all parties. Identify use of safety equipment and personal protective equipment.  Identify every complaint or injury of the employee as a result of the incident of which the witness is aware.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Secure and preserve all evidence in regard to the incident.</text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>Avoid disputes and make no commitments relative to repairs and acceptance of liability.</text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>When the accident investigation is complete, every question on the completed EIR form shall be answered. Again, do not delay reporting the initial claim to TPA, as that needs to be done as soon after the incident as possible.  The EIR can always be forwarded to the TPA when completed, if there is a reason for the delay as set forth above..</text>
+    </para>
+    <para>
+      <num>7.</num>
+      <text>Even if you doubt the incident occurred, complete a form and indicate what the employee told you in the section the employee signs and why the supervisor  doubts it in the section they sign.</text>
+    </para>
+  </para>
+  <para name="severe-injuries-or-out-of-town-on-city-business-injuries">
+    <num>VII.</num>
+    <heading>SEVERE INJURIES OR OUT OF TOWN ON CITY BUSINESS INJURIES</heading>
+    <text>If a job-related injury is severe or occurs when the employee is on City business out of the area, the employee must go to an urgent care or emergency center for treatment and then contact the supervisor to process an EIR. The supervisor prepares the EIR and reports the incident by phone (1-877-607- 8600) or otherwise to the TPA. The employee must be seen at Baltimore City Occupational Medical Services for an initial examination and work status determination as soon medically able. After being seen at the City of Baltimore Occupational Medical Services the Employee must elect to be treated by his own Dr. or by the City of Baltimore Occupational Health Services, if they elect to name them as their only primary treating Dr., but the employee shall not be treated by more than one primary physician or one specialist in any given specialty at a time. If the employee chooses to be treated by the Clinic a plan of care shall be developed and managed by the Medical Director. If or once the Employee elects to treat elsewhere, the City of Baltimore Occupational Health Services will cease treatment and the Medical Director will request medical records from all treating facilities and review that treatment for the City. The attending physician with the City of Baltimore Occupational Health Services will issue Discharge Instructions indicating return to work abilities after each visit and or review of new medical records and may schedule a new visit to determine work status if needed based on the new record review (but not for treatment)</text>
+  </para>
+  <para name="notification-of-return-to-duty">
+    <num>VIII.</num>
+    <heading>NOTIFICATION OF RETURN TO DUTY</heading>
+    <text>Before leaving the Mercy Clinic, the employee will be given a written document in duplicate, called Discharge Instructions. This document will include the patient's diagnosis, work status, return appointment date, any work limitations and the name of any outside  medical provider that the employee has seen or elected to see. It is the employee's responsibility to provide the supervisor with the agency's copy of the Discharge Instructions, no later than the start of the employee's next scheduled shift.</text>
+  </para>
+  <para name="job-injury-leave">
+    <num>IX.</num>
+    <heading>JOB INJURY LEAVE</heading>
+    <text>The TPA will generate a First Report of Injury and send a copy to the reporting agency within 48 hours. The TPA will make a determination as to the whether the claim is covered or not (compensability) within 14 working days after receiving the EIR and necessary documentation. If the Discharge Instructions authorize days off from work due to a covered injury, the TPA generates an Accident Leave Voucher (A-time) authorizing compensable covered dates. It is forwarded by the TPA to the agency's human resources/personnel office and the Department of Finance, Central Payroll Division, authorizing the employee to be paid Accident Leave (A-time).</text>
+  </para>
+  <para name="leave-usage">
+    <num>X.</num>
+    <heading>LEAVE USAGE</heading>
+    <text>Job injury leave ("A time") is granted for a specific period of time and is not charged against accumulated sick leave, vacation leave, personal leave or compensatory time. The maximum amount of job injury leave granted to an employee is established by the applicable labor agreements negotiated by the employee's representative organization. For additional information on job injury leave, employees should consult their negotiated labor agreement or their Agency's Human Resources Office.</text>
+  </para>
+  <para name="delayed-or-failure-to-report-incidents--progressive-disciplinary-procedures">
+    <num>XI.</num>
+    <heading>DELAYED OR FAILURE TO REPORT INCIDENTS- PROGRESSIVE DISCIPLINARY PROCEDURES</heading>
+    <text>Delays or failures by employees and supervisors to report a job-related injury or illness, complete an EIR, or contact the TPA, shall result in disciplinary action up to and including termination.</text>
+  </para>
+  <para name="fraud-warning">
+    <num>XII.</num>
+    <heading>FRAUD WARNING</heading>
+    <text>It is a crime to lie or provide false information in order to receive workers' compensation benefits. Employees, employers and other parties who lie or provide false information regarding a claim are subject to prosecution for fraud. The Fraud Hotline of the TPA is available 24 hours a day, 7 days a week by calling 1-866-841-1044. Information about Workers' Compensation fraud should also be communicated to the Maryland Workers' Compensation Commission at 1-800-492-0479, 410-864- 5100.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2016-10-26" display="true">October 26, 2016</annotation>
+    <annotation type="History" effective="2022-07-20" display="true">July 20, 2022</annotation>
+    <annotation type="Related Policies"><cite path="§AM-203-2">AM-203-2</cite> Family and Medical Leave</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-2, Part II">AM-501-2, Part II</cite> Commercial Drivers License</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-10">AM-501-10</cite> Motor Vehicle Accident</annotation>
+    <annotation type="Related Documents">Employee's Incident Report (EIR)</annotation>
+    <annotation type="Related Documents">TPA - Workers Compensation - "First Report of Injury or Illness" - TPA generated documents used by TPA to generate/confirm the existence of a submitted claim.</annotation>
+  </annotations>
+</section>

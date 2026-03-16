@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-224-1</num>
+  <heading>Employee Assistance Program</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Department of Human Resources, Employee Assistance Program (EAP), is a counseling service available to all permanent employees within all departments of the City, excluding all employees of the Baltimore City Public School System, Fire Department, and uniformed members of the Police Department.</text>
+    <text>The EAP is designed to assist employees who are experiencing personal problems which are interfering with job performance or attendance. These problems may include:</text>
+    <text>
+      <ul>
+        <li>Alcohol or drug abuse</li>
+        <li>Mental health</li>
+        <li>Family</li>
+        <li>Financial</li>
+        <li>Health</li>
+        <li>Stress</li>
+      </ul>
+    </text>
+  </para>
+  <para name="employee-assistance-program">
+    <heading>EMPLOYEE ASSISTANCE PROGRAM</heading>
+    <text>The EAP is staffed by mental health professionals with a variety of clinical experience and training in psychology and addictions who will:</text>
+    <text>
+      <ul>
+        <li>Assist the employee in determining the nature and severity of the problem.</li>
+        <li>Provide short term, solutions-focused counseling.</li>
+        <li>Refer the employee to the appropriate treatment resource.</li>
+        <li>Monitor the progress of the employee.</li>
+        <li>Notify the employee's supervisor (under certain circumstances) of the employee's participation in the EAP.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="referrals-to-eap">
+    <heading>REFERRALS TO EAP</heading>
+    <text>
+      <u>Self-Referral</u>
+    </text>
+    <text>An employee may refer himself/herself to the EAP without informing the supervisor. In such cases, the employee shall request to use his/her leave to attend the appointment. An employee may also request that the supervisor make the referral, in which case the supervisor may require that the employee uses his/her leave.</text>
+    <text>
+      <u>Supervisory Referral</u>
+    </text>
+    <text>A supervisor may refer an employee to the EAP when there is a work-related problem, such as poor attendance or job performance. In addition, a referral may be made if an employee violates the Substance Abuse Control Policy or the Workplace Violence Policy. An employee who is referred by his/her supervisor will be allowed time off with pay to attend the initial evaluation interview with the EAP.</text>
+  </para>
+  <para name="confidentiality">
+    <heading>CONFIDENTIALITY</heading>
+    <text>Except when required by federal law or City policy, all contacts with the EAP are confidential. No employee shall have his job security or promotional opportunity jeopardized by using the EAP. For a supervisory referral, the counselor informs the supervisor if the employee fails to keep the appointment or is late, forcing the appointment to be rescheduled. If the employee keeps the appointment, a slip is given to the employee at the end of the session which indicates the date of the appointment, arrival and departure time and if a follow-up appointment is made.</text>
+  </para>
+  <para name="supervisor's-responsibilities">
+    <heading>SUPERVISOR'S RESPONSIBILITIES</heading>
+    <text>Supervisors are responsible for:</text>
+    <text>
+      <ul>
+        <li>Informing their employees about the EAP and its purposes and encouraging those who may be experiencing personal problems to seek assistance from the EAP.</li>
+        <li>Referring their employees to the EAP when job performance or attendance problems have not been corrected by normal disciplinary and corrective procedures.</li>
+        <li>Referring those employees who violate the City's Substance Abuse Control Policy and Workplace Violence Policy.</li>
+        <li>Adhering to the provisions of <cite path="§AM-204-14">AM-204-14</cite> in granting sick leave for employees seeking treatment for alcohol or drug abuse, or other personal problems.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="employee's-responsibilities">
+    <heading>EMPLOYEE'S RESPONSIBILITIES</heading>
+    <text>Employees are responsible for:</text>
+    <text>
+      <ul>
+        <li>Seeking help for any personal problem that is causing or may cause unsatisfactory job performance or attendance problems.</li>
+        <li>Complying with treatment recommendations made by the EAP, particularly in the case of mandated referrals under a Work Improvement Plan (i.e., the Substance Abuse Control Policy and the Workplace Violence Policy).</li>
+      </ul>
+    </text>
+  </para>
+  <para name="location">
+    <heading>LOCATION</heading>
+    <text>The Employee Assistance Program is located at 201 East Baltimore Street, Suite 400, Baltimore, Maryland 21202. To make an appointment, call 410-396-1859.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1984-06-25" display="true">June 25, 1984</annotation>
+    <annotation type="History" effective="2003-10-01" display="true">October 1, 2003</annotation>
+    <annotation type="Related Policies"><cite path="§AM-203-2">AM-203-2</cite> Family and Medical Leave</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-14">AM-204-14</cite> Sick Leave</annotation>
+  </annotations>
+</section>

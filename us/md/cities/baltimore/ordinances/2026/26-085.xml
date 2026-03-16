@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-085" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-085</num>
+  <num type="bill">25-0096</num>
+  <heading type="short">Parking for Disabled Individuals and Helpers - Modifications</heading>
+  <heading type="long">An Ordinance Concerning Parking for Disabled Individuals and Helpers - Modifications</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-09-15</introduced>
+    <effective>2026-03-26</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-085.pdf">Ord. 26-085</citation>
+    </citations>
+    <history>
+      <vote date="2025-09-15" reading="first"/>
+      <vote date="2026-01-12" reading="second"/>
+      <enacted>2026-02-24</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="31|9|heading" codified:doc="City of Baltimore, Md., Code" codified:path="31|9">
+      <heading>Parking for Disabled Individuals and Helpers</heading>
+    </codify:replace>
+    <codify:replace path="31|9|1|heading" codified:doc="City of Baltimore, Md., Code" codified:path="31|9|1">
+      <heading>Reserved Parking for Disabled Individuals</heading>
+    </codify:replace>
+    <codify:replace path="31|§9-1" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-1">
+      <section>
+        <prefix>§</prefix>
+        <num>9-1</num>
+        <heading>Criteria for obtaining.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>A disabled individual may be eligible for a reserved parking space if the individual meets the following criteria:</text>
+          <para>
+            <num>(1)</num>
+            <text>the disability of the individual is permanent or of a nature expected to adversely affect the individual for at least 1 year;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the individual is unable to use public transportation, leaving a personal vehicle as the only means of transportation;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the individual is the sole operator of the vehicle or, if the individual is dependent upon a non-handicapped driver for transportation, the driver must reside in the same dwelling;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>parking space is available that is not restricted by other parking regulations;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>off-street parking is not available, such as a driveway, garage, or parking pad, on the individual's property; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>the individual submits an application in the form that the Director of Transportation requires.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Statement.</heading>
+          <text>The application shall be accompanied by a physician's statement, dated within the previous 6 months, describing the nature and anticipated duration of the disability and the disability's effect on the mobility of the individual.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="31|§9-2" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-2">
+      <section>
+        <prefix>§</prefix>
+        <num>9-2</num>
+        <heading>Procedure.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Application to Department.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Any individual desiring a reserved parking space and meeting the criteria of <cite path="|31|§9-1" doc="City of Balt., Md., Ord. 26-085">§ 9-1 of this subtitle</cite> may submit an application for a reserved parking permit to the Department of Transportation.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Department shall review each application.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Approvals.</heading>
+          <text>If the Department reviews an application and determines that the applicant meets the criteria for a reserved parking space, then the Department shall issue a permit to the applicant.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Denials.</heading>
+          <para>
+            <num>(1)</num>
+            <text>If the Department determines that the applicant does not meet the criteria for a reserved parking space, the Department shall so notify the applicant in writing stating the reason for the denial of space.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the Department denies the permit, the applicant may appeal the decision to the Director, who shall review the case and may, in the Director's discretion, reverse the denial and grant a temporary permit.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="31|§9-3" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-3">
+      <section>
+        <prefix>§</prefix>
+        <num>9-3</num>
+        <heading>Use, renewal, and termination.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Permit to be displayed.</heading>
+          <text>The permit shall be clearly displayed whenever the vehicle is parked in the reserved parking space.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Validation and renewal.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Every 5 years, the Department shall send a permit holder a document that affirms the permit holder still requires the use of the permit.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Upon receipt of the document under this subsection, the permit holder shall sign and return the document to the Department if the permit holder still requires use of the permit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Notice when no longer needed.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Notice from permit holder or heirs.</heading>
+            <text>The holder of a reserved parking permit or the holder's heirs shall notify the Department when a reserved parking space is no longer needed.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Notice from other party.</heading>
+            <text>Any person who reasonably believes that a permit holder has died, moved, or otherwise no longer requires a reserved parking permit may submit a request to the Department that the Department:</text>
+            <para>
+              <num>(i)</num>
+              <text>review the permit; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>if necessary, require the permit holder to resubmit the documentation required by <cite doc="City of Baltimore, Md., Code" path="31|§9-1">§ 9-1</cite> of this subtitle.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Revocation.</heading>
+          <text>The Department shall revoke a reserved parking permit if:</text>
+          <para>
+            <num>(1)</num>
+            <text>false statements are made in the application;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the parking permit is misused;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>new parking regulations are imposed which prohibit parking at any time; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the disabled individual dies, moves from the premises, or no longer needs the space.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Biannual notice.</heading>
+          <text>The Department shall biannually send a permit holder notice that:</text>
+          <para>
+            <num>(1)</num>
+            <text>confirms the individual has an active permit;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>lists the permit holder’s contact information as it appears in the Department’s records; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>includes instructions for how a permit holder may update their contact information with the Department.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="31|§9-4" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-4">
+      <section>
+        <prefix>§</prefix>
+        <num>9-4</num>
+        <heading>Forms, rules, and regulations; fees.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Forms, rules, and regulations.</heading>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the Director shall develop forms and adopt rules and regulations to carry out this Part 1.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Fees.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Subject to the approval of the Board of Estimates, the Director may set and impose reasonable application and annual permit fees to help defray the cost of manufacturing, installing, and removing signs and otherwise administering this Part 1.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The fees set under this subsection do not apply to and may not be imposed if the disabled individual's disability is, as shown on the physician's statement, permanent.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="31|§9-11" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-11">
+      <section>
+        <prefix>§</prefix>
+        <num>9-11</num>
+        <heading>"Disabled person" defined.</heading>
+        <text>In this Part, “disabled individual” means an individual who meets the physical criteria for obtaining a reserved parking space for a disabled individual under <cite doc="City of Baltimore, Md., Code" path="31|§9-1">§ 9-1</cite> of this subtitle.</text>
+      </section>
+    </codify:replace>
+    <codify:replace path="31|§9-12" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-12">
+      <section>
+        <prefix>§</prefix>
+        <num>9-12</num>
+        <heading>Criteria and procedure for obtaining.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>An individual who regularly renders assistance to a disabled individual may apply to the Department of Transportation for a permit for 1 reserved parking space at the disabled individual's home.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Application.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The application shall be made jointly by the disabled individual and the disabled individual's designated helper.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The application shall be in the form that the Director requires and shall be accompanied by a physician's statement, dated within the previous 6 months, describing the nature and anticipated duration of the disabled individual's disability and the disability's effect on the disabled individual's mobility.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Review.</heading>
+          <text>The Department shall review each application to determine that:</text>
+          <para>
+            <num>(1)</num>
+            <text>suitable off-street parking, such as a driveway, garage, or parking pad, is not available;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>suitable parking space not restricted by other parking regulations is available; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the disabled individual meets the criteria for a reserved parking space.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="31|§9-15" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-15">
+      <section>
+        <prefix>§</prefix>
+        <num>9-15</num>
+        <heading>Forms, rules, and regulations; fees.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Forms, rules, and regulations.</heading>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 26-085">City General Provisions Article</cite>, the Director may develop forms and adopt rules and regulations to carry out this Part 2.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Fees.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Director may set and impose reasonable application and annual permit fees to help defray the cost of manufacturing, installing, and removing signs and otherwise administering this Part 2.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The fees set under this subsection do not apply to and may not be imposed if the disability of the individual being assisted is, as shown on the physician's statement, permanent.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

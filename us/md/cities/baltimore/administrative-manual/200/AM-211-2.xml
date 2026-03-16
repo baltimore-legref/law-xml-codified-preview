@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-211-2</num>
+  <heading>New Employee Checklist</heading>
+  <text>The City of Baltimore ("City") acknowledges the need for consistency when hiring new employees. City Agencies are required to use the New Employee Checklist to ensure that new employees are knowledgeable of essential City policies prior to the start date.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to ensure that employees are informed of all essential policies and procedures prior to the employee's start date. Employees will indicate their understanding of policies by signing the Acknowledgement Forms associated with all policies listed in <em><cite path="§AM-211-2-1">AM-211-2-1</cite> New Employee Checklist Form</em> ("<em><cite path="§AM-211-2-1">AM-211-2-1</cite></em>").</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all employees involved in the City's operations, including, but not limited to, regular full and part-time, probationary, seasonal, temporary, and appointed staff for elected officials. Though not considered employees, independent contractors and volunteers are bound by the restrictions of this Policy.</text>
+  </para>
+  <para name="checklist-procedure">
+    <num>III.</num>
+    <heading>CHECKLIST PROCEDURE</heading>
+    <text>On the employee's start date, but no later than three (3) days after employment with the City, the employee's Agency Human Resources Practitioner will hold an orientation to inform the new employee of all pertinent City policies and procedures. During the orientation, the employee will fill out all paperwork as indicated in <cite path="§AM-211-2-1">AM-211-2-1</cite>. Some items on the list apply to all new hires; some items will only apply to a select group of employees (i.e., employees who are issued City-owned electronics, such as cell phones and laptops, and the select few who have additional ethic obligations). Agency Human Resources Practitioners are responsible for providing orientation for new employees and ensuring that employees sign, retain, and provide copies of all required paperwork. Signed paperwork shall be retained in the employee's personnel files, as well as any other file as applicable (e.g., Form I-9 Verification Form file).</text>
+  </para>
+  <para name="authority">
+    <num>IV.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em>002-1-2</em> Administrative Manual wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>V.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces PM 303 04/08]</annotation>
+    <annotation type="Related Policies"><cite path="§AM-211-2-1">AM-211-2-1</cite> New Employee Checklist Form</annotation>
+  </annotations>
+</section>

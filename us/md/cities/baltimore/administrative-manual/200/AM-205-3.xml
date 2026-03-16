@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-3</num>
+  <heading>Direct Deposit Payroll Plan</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Certain City employees may elect to have their net salary deposited directly to their personal checking account or MECU share draft account rather than receive a payroll check on the designated pay date. If direct deposit is elected, the amount of the employee's salary will be available for withdrawal at the start of banking hours on the designated payday for that employee's location. The employee will receive his paycheck stub at the regular paycheck distribution time at his designated payroll location.</text>
+  </para>
+  <para name="direct-deposit-request">
+    <heading>DIRECT DEPOSIT REQUEST</heading>
+    <text>To participate in the Direct Deposit Payroll Plan, a PAYROLL DIRECT DEPOSIT REQUEST (28-1428-5031) (<cite path="§AM-205-3-1">AM-205-3-1</cite>) must be completed and sent to the Central Payroll Division, 8<sup>th</sup> floor, M.E.C.U. Building, 400 E. Fayette Street, by the employee. In addition, the employee should attach a voided check from their personal account to ensure accuracy of account number and bank code. The employee's net salary will be deposited directly to his checking account within 2 pay periods after receipt of this form by the Central Payroll Division.</text>
+  </para>
+  <para name="participating-banks/institutions">
+    <heading>PARTICIPATING BANKS/INSTITUTIONS</heading>
+    <text>Most major banks, thrifts and credit unions participate in the electronic network, however an employee should contact the Central Payroll Division for confirmation.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1988-06-22" display="true">June 22, 1988</annotation>
+  </annotations>
+</section>

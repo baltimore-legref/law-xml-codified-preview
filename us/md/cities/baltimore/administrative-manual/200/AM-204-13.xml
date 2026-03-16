@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-13</num>
+  <heading>Time-Off by Executive Order</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy concerns those rules applicable to employees required to work when time-off has been granted by the Mayor in an appropriate Executive Order. Under FLSA guidelines, non-exempt employees shall have the ability to receive overtime compensation as a cash payment or as compensatory time subject to the accumulation cap of 240 hours. Eligible employees in the Police Department shall receive cash payment only. Exempt employees shall follow the City overtime policy. Depending on the requirements of current negotiated agreements, certain City employees may not be eligible to receive overtime rates of pay until 40 hours of work have been completed at straight time within a given week.</text>
+  </para>
+  <para name="non-exempt-employees">
+    <heading>NON-EXEMPT EMPLOYEES</heading>
+    <text>When time-off is granted by order of the Mayor, non-exempt employees required to work will receive their normal pay for the day plus overtime pay at the rate of one and one-half (1 ½) times their normal/straight rate of pay for each hour worked. If an employee works longer than the normal workday, they shall be paid double time for each hour worked in excess of their normal workday.</text>
+  </para>
+  <para name="exempt-employees">
+    <heading>EXEMPT EMPLOYEES</heading>
+    <text>When an employee is not entitled to overtime pay and he is required to work, he will receive his normal pay for the day plus compensatory time for each hour worked.</text>
+  </para>
+  <para name="payroll-provisions">
+    <heading>PAYROLL PROVISIONS</heading>
+    <text>If an employee's regular day off falls on a day when executive time-off is declared, he will not be allowed additional time-off, additional  pay or compensatory time.</text>
+    <text>An employee scheduled to be on leave when executive time-off is declared in advance of the fact, will not be charged leave for that day. However, if an employee is on leave on a day when early closing by Executive Order is declared, he shall be charged a full day of leave for the day.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-01-10" display="true">January 10, 1990</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-22">AM-204-22</cite> Inclement Weather</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2">AM-205-2</cite> Overtime and Call Back Work</annotation>
+  </annotations>
+</section>

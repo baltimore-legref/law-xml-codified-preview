@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-19</num>
+  <heading>Municipal Employees Credit Union (MECU)</heading>
+  <para name="program">
+    <heading>PROGRAM</heading>
+    <text>The Municipal Employees Credit Union (MECU) offers a program of free financial counseling to City employees through the Customer Credit Counseling Service (CCCS). CCCS is an independent counseling service at MECU offices which will provide a full-time professional counselor. Employees must contact MECU to make an appointment for a counseling session.</text>
+  </para>
+  <para name="eligibility">
+    <heading>ELIGIBILITY</heading>
+    <text>All City employees in need of financial counseling are eligible to participate in this program. Employees are not required to be a member of MECU.</text>
+  </para>
+  <para name="leave-for-participation-in-program">
+    <heading>LEAVE FOR PARTICIPATION IN PROGRAM</heading>
+    <text>Employees will be allowed up to 3 hours, if necessary, of time off with pay for the purpose of attending counseling sessions.</text>
+  </para>
+  <para name="verification-of-appointment">
+    <heading>VERIFICATION OF APPOINTMENT</heading>
+    <text>Supervisors may request CCCS to provide verification of an employee's attendance at a counseling session.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1983-10-21" display="true">October 21, 1983</annotation>
+  </annotations>
+</section>

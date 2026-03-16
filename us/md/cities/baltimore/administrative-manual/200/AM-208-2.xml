@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-208-2</num>
+  <heading>Elective Office:</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy provides appropriate measures to be taken when a City employee is selected to the General Assembly of the State of Maryland.  It, also, stipulates use of time by a City employee who is an elected official in another jurisdiction.</text>
+  </para>
+  <para name="state-service">
+    <heading>STATE SERVICE</heading>
+    <text>A City employee elected to the General Assembly of the State of Maryland will be granted time off without pay to attend each required session of the General Assembly.  When legislative responsibilities require attendance at interim committee meetings, time-off without pay will be granted.</text>
+  </para>
+  <para name="notification">
+    <heading>NOTIFICATION</heading>
+    <text>An employee must notify his appointing officer and the Central Payroll Division by MEMORANDUM (28-1418-5007) of all necessary absences due to attendance at General Assembly sessions and interim committee meetings.  Such notification must be made as much in advance of each absence as is possible.</text>
+  </para>
+  <para name="employee-benefits">
+    <heading>EMPLOYEE BENEFITS</heading>
+    <text>While serving in the General Assembly, an employee will retain all benefits to which an active employee is normally entitled, with the exception of receiving a salary.  Such employees will:</text>
+    <text>
+      <ul>
+        <li>Be credited with all time spent in the General Assembly for the purpose of calculating length of City service.</li>
+        <li>Continue to accrue vacation, sick, and personal leave.</li>
+        <li>Not have their level movement date(s) altered or changed.</li>
+      </ul>
+    </text>
+    <text>The City will continue to pay its share of Blue Cross-Blue Shield or Health Maintenance Organization (HMO) benefit coverage charges provided that the employee continues to pay his share.  Payment procedures should be coordinated with the Employee Benefits Unit, 111 N. Calvert St., Baltimore, MD  21202.  Eligibility for benefit questions should be directed to the agency personnel officer.</text>
+  </para>
+  <para name="other-jurisdictions">
+    <heading>OTHER JURISDICTIONS</heading>
+    <text>A City employee may serve as an elected official in other jurisdictions, providing, the official duties of the employee do not conflict nor give the appearance of conflict with performance of his job responsibilities.  A City employee will not be granted time off for service or performance of duties in the elected position except as the employee applies for and is granted vacation leave, personal leave, and/or compensatory leave in conformity with City procedures.  Sick leave may not be used for such purposes.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-08-01" display="true">August 1, 1989</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-2">AM-204-2</cite> VACATION LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-4">AM-204-4</cite> PERSONAL LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-14">AM-204-14</cite> SICK LEAVE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-225-1">AM-225-1</cite> POLITICAL ACTIVITY</annotation>
+  </annotations>
+</section>

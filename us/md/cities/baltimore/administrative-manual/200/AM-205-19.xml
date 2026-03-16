@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-19</num>
+  <heading>Environmental Differential Pay</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy establishes the rate of pay for eligible City employees who are working with hazardous environmental conditions. Employees eligible for such pay are designated in the appropriate negotiated agreement(s), e.g., Department of Public Works, Water and Waste Water Division at specified sites.</text>
+  </para>
+  <para name="hazardous-environmental-condition">
+    <heading>HAZARDOUS ENVIRONMENTAL CONDITION</heading>
+    <text>A hazardous environmental condition is one which exposes the employee to an area where highly toxic chemicals are used and an atmosphere where the level of toxic fumes or gases is determined to be dangerously high.</text>
+  </para>
+  <para name="rate-of-pay">
+    <heading>RATE OF PAY</heading>
+    <text>Affected employees shall be paid 15 cents per hour above the established rate for each hour worked. This adjustment should be noted on the PAYROLL ATTENDANCE SHEET (147-093) with appropriate explanation in the "Remarks" column.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-02-01" display="true">February 1, 1989</annotation>
+  </annotations>
+</section>

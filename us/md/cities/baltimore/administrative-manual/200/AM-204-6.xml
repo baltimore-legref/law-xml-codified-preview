@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-6</num>
+  <heading>Appearance as a Court Witness</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy applies to all City employees whether permanent, temporary or provisional who have been subpoenaed as a witness in any court, i.e., Federal, State, City or County.</text>
+  </para>
+  <para name="permanent-employees">
+    <heading>PERMANENT EMPLOYEES</heading>
+    <text>
+      <strong>Leave Time</strong>
+    </text>
+    <text>A City employee subpoenaed as a court witness will not be charged with use of any accrued leave time, i.e., vacation or personal leave or compensatory time and will receive their regular rate of pay for the time off necessary for the court appearance. Please note that the employee will only be excused without being charged leave time if the court appearance is the result of being subpoenaed as a witness. If the employee is a party to the civil/criminal action (plaintiff, defendant, counsel to either party, etc.), the employee must utilize accrued leave.</text>
+    <text>If the employee is dismissed from the court proceedings before the workday is over, the employee is required to report to his/her work site or site specified by the supervisor for the remainder of the workday.</text>
+    <text>
+      <strong>Notification Process</strong>
+    </text>
+    <text>When a <u>permanent</u> City employee has been subpoenaed as a court witness, the employee must immediately notify the immediate supervisor by telephone, e-mail of the time, date and place of court appearance and/or by submitting a "Request for Time Off" form (28-1408-5040) to the supervisor for the court dates with the "Permission Time" block marked on the form, and a copy of the subpoena attached.</text>
+    <text>
+      <strong>Payroll Marking</strong>
+    </text>
+    <text>The timekeeper would mark the employee in E-time system timecard, dropdown paycode box, as Permission – Court Witness.</text>
+  </para>
+  <para name="temporary-and-provisional-employees">
+    <heading>TEMPORARY AND PROVISIONAL EMPLOYEES</heading>
+    <text>
+      <strong>Leave Time</strong>
+    </text>
+    <text>A temporary or provisional City employee subpoenaed as a court witness will not be paid for the time missed from work and spent in court.  If the employee is dismissed from the court proceedings before the workday is over, the employee is required to report to his/her work site or site specified by the supervisor for the remainder of the workday and will be paid for time worked.</text>
+    <text>
+      <strong>Notification Process</strong>
+    </text>
+    <text>When a temporary or provisional City employee has been subpoenaed as a court witness, the employee must immediately notify the immediate supervisor by telephone or e-mail of the time, date and place of court appearance or by memorandum with a copy of the subpoena attached.</text>
+    <text>
+      <strong>Payroll Marking</strong>
+    </text>
+    <text>The timekeeper would mark the employee in E-time system timecard, dropdown paycode box, as X- Permission (LWOP – Excused).  Only permanent employees are given paid Permission days when subpoenaed as a court witness.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-11-10" display="true">November 10, 1989</annotation>
+    <annotation type="History" effective="2008-06-06" display="true">June 6, 2008</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-5">AM-204-5</cite> JURY DUTY</annotation>
+  </annotations>
+</section>

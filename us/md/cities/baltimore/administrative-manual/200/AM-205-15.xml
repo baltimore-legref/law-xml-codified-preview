@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-15</num>
+  <heading>Work Permit for Minor</heading>
+  <para name="state-of-maryland-requirements">
+    <heading>STATE OF MARYLAND REQUIREMENTS</heading>
+    <text>It is a State of Maryland requirement that all individuals who are 14 through 17 years of age have a valid work permit before employment. A valid State WORK PERMIT FOR MINOR must be on file in the appropriate agency personnel office before any minor is employed by the City. (See <cite path="§AM-205-15-1">AM-205-15-1</cite> for details)</text>
+    <text>The WORK PERMIT FOR MINOR allows the minor to perform only the duties associated with the work described on the issued permit. If the minor employee transfers positions or undertakes new duties, a new work permit must be issued pertinent to the new duties.</text>
+  </para>
+  <para name="appointing-officer-responsibility">
+    <heading>APPOINTING OFFICER RESPONSIBILITY</heading>
+    <text>It is the responsibility of the prospective employee's appointing officer to see that a valid work permit is on file prior to employment and upon change of duties or transfer of positions. A minor cannot begin work without a valid work permit.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1986-02-05" display="true">February 5, 1986</annotation>
+  </annotations>
+</section>

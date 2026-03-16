@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-208-3</num>
+  <heading>Non-Line of Duty Injury</heading>
+  <text>The City of Baltimore ("City") endorses the return to work of employees who sustain non-line of duty injuries, illnesses, or diseases as soon as they are able to perform their assigned duties safely, efficiently and effectively.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The Return-To-Work Program is designed to ensure the most effective utilization of employees who have incurred non-line of duty illnesses or diseases.  Whenever possible, the City's goal will be to return the affected employee to regular permanent employment where the employee can satisfactorily perform all the essential functions of the position.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all employees involved in the City's operations, including, but not limited to, full-time and part-time employees.</text>
+  </para>
+  <para name="serious-or-catastrophic-non-line-of-duty-injury,-illness,-or-disease">
+    <num>III.</num>
+    <heading>SERIOUS OR CATASTROPHIC NON-LINE OF DUTY INJURY, ILLNESS, OR DISEASE</heading>
+    <text>When an employee has acquired a serious or catastrophic non-line of duty injury, illness, or disease and is absent for more than sixty (60) workdays days, the Agency's Human Resources Practitioner shall contact the employee to ensure that all return-to-work options have been considered early in the recovery process.</text>
+  </para>
+  <para name="return-to-work-process">
+    <num>IV.</num>
+    <heading>RETURN TO WORK PROCESS</heading>
+    <para>
+      <num>A.</num>
+      <text>When a supervisor suspects that an employee is not satisfactorily performing the position's essential duties because of an injury, illness or disease, the supervisor through the Agency's Human Resources Office may request through the Department of Human Resources ("DHR") that the Medical Director arrange for a "fitness-for-duty" examination.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a non-line of duty injury, illness, or disease has prevented an employee from performing one or more of the regular job's essential functions for more than sixty (60) workdays, the City will begin the Return-to-Work Process.</text>
+      <para>
+        <num>1.</num>
+        <text>On the 61st workday following the inception of the employee's performance      limiting injury, illness or disease, or the conclusion of the employee's FMLA, whichever occurs first, the Agency HR Practitioner should begin the ADA interactive process as outlined in <em><cite path="§AM-203-5">AM-203-5</cite> Reasonable Accommodations</em>.</text>
+        <para>
+          <num>a.</num>
+          <text>If the employee can be returned to work utilizing a Reasonable Accommodation, the employee should be returned to work.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>If the employee cannot be accommodated through the ADA process, then the Agency must begin the "Options" process as outlined below (See <strong><em>Section V Options Process</em></strong>).</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An employee with non-line of duty injuries, illness, or disease shall be advised in writing of the several options available after FMLA expires and, if appropriate, the conclusion of an ADA analysis (as to any available disability and reasonable accommodations).</text>
+    </para>
+  </para>
+  <para name="options-process">
+    <num>V.</num>
+    <heading>OPTIONS PROCESS</heading>
+    <para>
+      <num>A.</num>
+      <text>The options process shall begin with written notice to the employee from the Agency HR Practitioner regarding continuing employment with the City, based on the medical reports received indicating that the employee is unable to perform the position's essential function. The employee must be advised by letter of the several options available; once a selection is made, it is binding. The options available are:</text>
+      <para>
+        <num>1.</num>
+        <text>The employee can apply for disability or retirement service benefits.  The initial application must be received within forty-five (45) calendar days from the date of the letter.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The employee can seek and obtain alternative employment within and outside City government within 60 calendar days after the receipt of the letter; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The employee may submit a letter of resignation to the Agency.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A meeting must be scheduled with the employee within seven (7) calendar days after the receipt of the letter to discuss the letter's contents.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The employee must respond in writing within seven (7) calendar days after the date of the meeting with the Agency's HR Practitioner to inform the Agency of which option the employee wishes to select.  If there is no response within seven (7) calendar days of the scheduled meeting, the employee will be recommended for termination in accordance with <em>PM 560 Discharge</em> and <em>Civil Service Rule 56 (2)(g) Cause for Discharge, Demotion, or Suspension</em>.</text>
+    </para>
+  </para>
+  <para name="authority">
+    <num>VI.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em>002-1-2</em> Administrative Manual wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>VII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces PM 171 October 18, 2006]</annotation>
+    <annotation type="Related Policies"><cite path="§AM-208-3-1">AM-208-3-1</cite> Non-Line of Duty Options Letter</annotation>
+    <annotation type="Related Policies"><cite path="§AM-203-5">AM-203-5</cite> Reasonable Accommodations</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-12-1">AM-204-12-1</cite> Job-Related Injury and Illness</annotation>
+    <annotation type="Related Policies">PM 560 Discharge</annotation>
+    <annotation type="Related Policies">Civil Service Rule 56(2)(g)	Cause for Discharge, Demotion, or Suspension</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-228-2</num>
+  <heading>Managerial and Professional Society Pay-for-Performance</heading>
+  <text>The City of Baltimore ("City") is committed to attracting, encouraging, and retaining high performing employees by offering competitive compensation and rewarding individual performance.  The City's Performance Management Program for Managerial and Professional Society of Baltimore, Inc. (MAPS) covered employees, uses the annual performance planning and evaluation process to establish and evaluate approved goals, objectives, and competencies. Pay-For-Performance is awarded based on employee performance as demonstrated through achievement of individual goals, demonstration of required competencies; and budget allocation for salary increases. This process is intended to reward employees, who receive a Distinguished, Superior, or Meets Expectations annual perform rating. The Pay-For-Performance program shall be administered without regard to political affiliation, race, color, national origin, sex, age, disability or religion.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this policy is to ensure consistency, transparency and fairness in the process of awarding a MAPS covered employee performance based compensation.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>The Performance Management Program and the associated Pay-For-Performance applies to eligible MAPS employees, both Civil Service and non-Civil Service.</text>
+  </para>
+  <para name="definitions">
+    <num>III.</num>
+    <heading>DEFINITIONS</heading>
+    <para>
+      <num>A.</num>
+      <text><strong>Pay-For-Performance Budget Allocation</strong>- The amount of money available for distribution to employees is determined on an annual basis through the budget process.  Distribution of the budget allocation is at the discretion of the Agency Head, subject to policy guidelines, and the availability of funds.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><strong>Pay-For-Performance (Merit) Adjustment</strong>- A performance based compensation adjustment comprised of a merit increase or merit bonus.</text>
+      <para>
+        <num>1.</num>
+        <text><strong>Pay-For-Performance (Merit) Increase</strong>- A performance based salary increase that is added to the employee's base salary.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><strong>Pay-For-Performance (Merit) Bonus</strong>- A performance based, one-time, lump-sum payment that is not added to the employee's base salary.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text><strong>Special Recognition Award</strong>- a financial recognition of up to $2,500, that may be granted at the conclusion of the performance evaluation period to an employee who has made an exceptional contribution(s) during the applicable evaluation period.   This award is granted at the prerogative of the Agency Head who may opt to give any number of such awards, including none, in any given performance cycle.</text>
+    </para>
+  </para>
+  <para name="eligibility">
+    <num>IV.</num>
+    <heading>ELIGIBILITY</heading>
+    <text>MAPS Employees are eligible and may receive a Pay-For-Performance Adjustment if:</text>
+    <para>
+      <num>A.</num>
+      <text>The employee has a current completed performance plan on file in the Agency Human Resources Division;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The employee has a minimum of 270 days of continuous service before the end of the June 15<sup>th  </sup>evaluation period; and</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Employee has demonstrated meritorious performance by attaining an overall rating of "Distinguished (5)," "Superior (4)," or "Meets Expectations (3)" in the current performance cycle.</text>
+    </para>
+  </para>
+  <para name="restrictions">
+    <num>V.</num>
+    <heading>RESTRICTIONS</heading>
+    <para>
+      <num>A.</num>
+      <text>An employee whose overall performance is rated as "Improvement Required (2)" or "Performance Does Not Meet (1)," is not eligible for Pay-For-Performance</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An employee in a Grant Service Specialist ("GSS") or any other temporary position is not eligible for Pay-For-Performance.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An employee who has received a salary adjustment of more than 10% of the employee's base salary less than (6) months prior to the proposed effective date of the Pay-For-Performance Adjustment is not eligible for  Pay-For-Performance.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A Pay-For-Performance Increase shall not place an employee above the salary range for their assigned classification.</text>
+    </para>
+  </para>
+  <para name="requirements">
+    <num>VI.</num>
+    <heading>REQUIREMENTS</heading>
+    <para>
+      <num>A.</num>
+      <text>Pay-For-Performance is subject to the availability of funding and must be managed within each Agency's budget allocation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Annually, each Agency Head will make the following determinations of:</text>
+      <para>
+        <num>i.</num>
+        <text>Whether to award a Pay-For-Performance Increase or Pay-For-Performance Bonus to its employees; and</text>
+      </para>
+      <para>
+        <num>ii.</num>
+        <text>Which overall performance rating levels will receive a Pay-For-Performance Adjustment.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Employees, agency-wide, receiving the same overall performance rating shall receive the same Pay-For-Performance Adjustment, if the agency chooses to make an award for that performance rating level.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Special Recognition Awards may be awarded to employees who have a current completed performance plan and have received at least a "Meets Expectations (3)" in the current performance cycle. Special Recognition Awards may be used to recognize one of the following:</text>
+      <para>
+        <num>i.</num>
+        <text>Contributions to increased organizational productivity;</text>
+      </para>
+      <para>
+        <num>ii.</num>
+        <text>Development and/or implementation of improved work processes;</text>
+      </para>
+      <para>
+        <num>iii.</num>
+        <text>Innovative initiatives and programs;</text>
+      </para>
+      <para>
+        <num>iv.</num>
+        <text>Exceptional customer service;</text>
+      </para>
+      <para>
+        <num>v.</num>
+        <text>Realized cost savings; or</text>
+      </para>
+      <para>
+        <num>vi.</num>
+        <text>Other specific contributions to the success of the Agency's missions, goals, or objectives.</text>
+      </para>
+    </para>
+  </para>
+  <para name="award-amounts">
+    <num>VII.</num>
+    <heading>AWARD AMOUNTS</heading>
+    <para>
+      <num>A.</num>
+      <text>Pay-For-Performance Adjustments shall be awarded according to the following table:</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th>Performance Rating</th>
+              <th>PFP Increase</th>
+              <th>PFP Bonus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Distinguished (5)</th>
+              <td>Up to 5% of the Employee's Base Salary</td>
+              <td>Up to $2,500</td>
+            </tr>
+            <tr>
+              <th>Superior (4)</th>
+              <td>Up to 3% of the Employee's Base Salary</td>
+              <td>Up to $ 1,250</td>
+            </tr>
+            <tr>
+              <th>Meets Expectations (3)</th>
+              <td>Up to 1% of the Employee's Base Salary</td>
+              <td>Up to $ 625</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An employee shall not receive a greater Pay-For-Performance Adjustment than an employee with a higher performance rating.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Special Recognition Awards may be awarded in conjunction with a Pay-For-Performance Adjustment.  A Special Recognition Award may not exceed $2,500 and the exact award amount as determined by the Agency Head is based on availability of funds within the Pay-For-Performance budget allocation.</text>
+    </para>
+  </para>
+  <para name="administration">
+    <num>VIII.</num>
+    <heading>ADMINISTRATION</heading>
+    <para>
+      <num>A.</num>
+      <text>Between May 1<sup>st</sup> and June 15 of each fiscal year performance evaluations shall be administered.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>By July 15<sup>th</sup>, Agencies shall submit a Pay-For-Performance report to the Department of Human Resources. The report must include a list of all employees receiving a Pay for Performance Adjustment and/or Special Recognition Award, including each employee's overall performance rating and the specific amount awarded.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Pay-For-Performance Adjustments and Special Recognition Awards will become effective no later than the first full pay period in August. Late submissions are ineligible for retroactive pay adjustment.</text>
+    </para>
+  </para>
+  <para name="authority">
+    <num>IX.</num>
+    <heading>AUTHORITY</heading>
+    <text>The Department of Human Resources issues this policy pursuant to the authority provided in <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, Articles VI and VII, and the approval of the City's Board of Estimates.</text>
+  </para>
+  <para name="interpretation">
+    <num>X.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Director of Human Resources is responsible for the official interpretation of this policy. The Department of Human Resources reserves the right to revise or eliminate this policy at any time, with the approval of the City's Board of Estimates.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2016-04-07" display="true">April 7, 2016</annotation>
+    <annotation type="Related Policies"><cite path="§AM-200-05">AM-200-05</cite> Hiring, Transfers, and Promotions</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-32">AM-204-32</cite> Employee Recognition Program</annotation>
+    <annotation type="Related Policies"><cite path="§AM-228-1">AM-228-1</cite> Performance Management Policy for Managerial and Professional Society of Baltimore Covered Employees</annotation>
+    <annotation type="Related Policies"><cite path="§AM-231-01">AM-231-01</cite> Hiring and Transfers</annotation>
+    <annotation type="Related Policies"><cite path="§AM-235-01">AM-235-01</cite> Promotions</annotation>
+    <annotation type="Related Policies">PM-370 Performance Evaluations</annotation>
+  </annotations>
+</section>

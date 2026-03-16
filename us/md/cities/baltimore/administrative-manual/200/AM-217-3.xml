@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-217-3</num>
+  <heading>Collection of Payroll Overpayment</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>When a City employee has been overpaid in his/her biweekly paycheck, the Central Payroll Division (CPD), Bureau of Accounting and Payroll Services, Department of Finance, has an obligation to retrieve the funds paid to an employee in error.</text>
+  </para>
+  <para name="overpayment">
+    <heading>OVERPAYMENT</heading>
+    <text>City employees are sometimes overpaid, usually through no fault of their own. Overpayments can result from errors in establishing an employee's rate of pay, other pay rate action, or inaccurate reporting and/or processing of attendance either by the employee, his/her agency, or Central Payroll Division (CPD) staff. Data entry or processing errors can also cause overpayments.</text>
+    <text>Most employees are aware of details regarding their salary and immediately question a payment that they are not expecting. All employees are expected to exercise a degree of diligence by monitoring their pay and reporting any discrepancies to the immediate supervisor or agency payroll clerk. Information is printed on their pay stubs to assist in this endeavor. Similarly, agencies are given an "Agency Register" and other reports every payday. This information should be used to detect overpayments as early as possible.</text>
+    <text>When CPD discovers that an employee has been overpaid, the division has an obligation to retrieve the funds paid to an employee in error. Agencies are required to take the appropriate disciplinary action if an employee is found to have intentionally falsified records, resulting in an overpayment to himself/herself or to another person.</text>
+    <text>OVERPAYMENTS RESULTING FROM ERRORS IN RECORDING ATTENDANCE DURING A SINGLE PAY PERIOD</text>
+    <text>When an employee is overpaid because of an attendance marking error and subsequent correction, the recovery of funds will be made by CPD on the next pay. The agency must notify the employee if this action is taken.</text>
+  </para>
+  <para name="notification-of-other-overpayments">
+    <heading>NOTIFICATION OF OTHER OVERPAYMENTS</heading>
+    <text>Overpayments may be detected by an employee, an agency, or by CPD staff. CPD will determine the amount of the overpayment and will consult with the agency regarding the circumstances and amount of the overpayment. The agency will contact the employee and explain the circumstances and amount of the overpayment. <cite path="§AM-217-3-1">AM-217-3-1</cite>, Notification of Overpayment (Memo to the Employee), provides sample language that may be used by agencies to notify the employee of an overpayment and of options for repaying the funds.</text>
+    <text>
+      <strong>In no case may an agency attempt to rectify an overpayment without notifying CPD. This is necessary to assure that tax withholding and year-to-date earnings are recorded accurately.</strong>
+    </text>
+  </para>
+  <para name="repayment-–-non-permanent-workers-paid-on-an-hourly-basis">
+    <heading>REPAYMENT – NON-PERMANENT WORKERS PAID ON AN HOURLY BASIS</heading>
+    <text>Overpayments made to non-permanent workers who are paid on an hourly basis are recoverable immediately on notification. If the worker does not repay the amount directly, adjustments will be made on his/her future pays until the complete recovery of funds is made. Agencies must obtain the worker's signature on a memo acknowledging any such adjustments. A worker who fails to acknowledge the adjustment memo may be terminated.</text>
+    <text>In the event the worker is terminated and an unpaid balance remains, the Department of Finance will issue a "Miscellaneous Bill" to the worker. If the bill is not paid, the Collections Division of the City Law Department will file for a judgment against the worker. If the Court finds in favor of the City, the worker's earnings from any subsequent employer will be garnished until the principal amount (plus court costs, legal fees, and interest) are satisfied.</text>
+  </para>
+  <para name="repayment-–-permanent-full-time-&amp;-permanent-part-time-employees">
+    <heading>REPAYMENT – PERMANENT FULL-TIME &amp; PERMANENT PART-TIME EMPLOYEES</heading>
+    <text>Permanent employees who have been overpaid by an amount of 5% or less (but not exceeding $100) of their weekly or biweekly base salary or average regular earnings will have the overpayment deducted from a subsequent pay. CPD will notify an agency when such action will be taken, and the agency will inform the employee.</text>
+    <text>Employees who have been overpaid in excess of 5% or more than $100 have four courses of action available to them:</text>
+    <para>
+      <num>1.</num>
+      <text>They may return the erroneous check, and CPD staff will issue the appropriate replacement check (usually within one business day).</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>They may reimburse the net amount of the overpayment by personal check or money order made payable to the Director of Finance.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>They may agree to the recovery of the gross overpayment in full by payroll deduction from their next pay.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>They may agree to an installment repayment plan by payroll deduction (see below).</text>
+      <text>If an overpayment exceeds $1,000, recovery of all or a portion of the excess may be made by a "cash-in" of accrued vacation or personal leave days. Requests for such consideration must be made in writing by the employee to the supervisor and then the request is sent to the Director of Finance or the Director's designee.</text>
+      <text>Upon collection of overpayments, CPD staff will correct year-to-date records as necessary.</text>
+    </para>
+  </para>
+  <para name="repayment-in-installments-by-payroll-deduction">
+    <heading>REPAYMENT IN INSTALLMENTS BY PAYROLL DEDUCTION</heading>
+    <text>CPD offers permanent full-time and permanent part-time employees the convenience of repaying qualified overpayments by payroll deduction without interest or administrative charges. However, this manual method imposes a processing burden on agency and CPD staff. It is therefore the intention of CPD that <strong>all repayments will be made within a twelve (12) month period</strong>.</text>
+    <text>In order to protect the City's interests, decrease the processing burden, and assist agencies in controlling their operating budgets, CPD has set the following <strong><u>minimum</u></strong> amounts for payroll deductions:</text>
+    <para>
+      <num>1.</num>
+      <text>Permanent employees with annual base salaries of $60,000 or more -- $100 per biweekly pay.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>All other permanent employees paid on a biweekly basis -- $50 per biweekly pay.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Permanent employees paid on a weekly basis -- $25 per week.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>In all cases, the recovery must be made within a twelve (12) month period.</text>
+      <text>The Central Payroll Manager may approve other repayment plans in individual cases when, for example, the agency and the employee can demonstrate extraordinary hardship caused by a minimum deduction as shown above.</text>
+    </para>
+  </para>
+  <para name="employee-authorization">
+    <heading>EMPLOYEE AUTHORIZATION</heading>
+    <text>Once an agency notifies the permanent employee of an overpayment, (<cite path="§AM-217-3-1">AM-217-3-1</cite>), the employee has five (5) business days to notify the agency and CPD in writing if he/she wishes to contest the validity of the overpayment calculation. The employee's letter should include a full explanation and backup documentation to substantiate his/her claim.</text>
+    <text>The protest will be reviewed by designated employees of CPD and a response will be sent within five (5) business days. The response will either accept or deny the allegations in the protest. The employee will then be able to appeal the staff decision to the Central Payroll Manager within five (5) business days, and the manager will respond within five (5) business days.</text>
+    <text>If the overpayment is not contested or the protest is denied and the employee wants to repay by payroll deduction, then the employee must sign and return the bottom portion of the notification letter. The employee must state the amount of the payroll deduction (no less than the minimum deduction stated above).</text>
+    <text>If, after five (5) business days from when the agency notified the employee of an overpayment, CPD has not received a letter of protest, a signed installment election form, the uncashed erroneous paycheck, or an employee's personal check or money order for the net amount of the overpayment, CPD will proceed with recovery via payroll deduction. Recovery in this circumstance will be made at the minimum deduction cited above until the overpayment is fully satisfied.</text>
+  </para>
+  <para name="failure-to-repay-funds-to-which-an-employee-is-not-entitled">
+    <heading>FAILURE TO REPAY FUNDS TO WHICH AN EMPLOYEE IS NOT ENTITLED</heading>
+    <text>The Board of Estimates approved <cite path="§AM-205-7">AM-205-7</cite>, Separation and Payment at Termination, effective July 1, 1989. This policy includes the following statement:</text>
+    <text>
+      <em>If an employee is in debt to the City, payment for leave will be withheld in an amount equal to the employee's indebtedness.</em>
+    </text>
+    <text>CPD will follow this policy if an employee with an outstanding overpayment is terminated.</text>
+    <text>In the event that any unpaid balance still remains, the Department of Finance will issue a "Miscellaneous Bill" to the employee. If the employee does not pay the bill, the Collections Division of the City Law Department will file for a judgment against the employee. If the Court finds in favor of the City, the employee's earnings from any subsequent employer will be garnished until the principal amount (plus court costs, legal fees, and interest) are satisfied.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2003-06-12" display="true">June 12, 2003</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> SEPARATION AND PAYMENT AT TERMINATION</annotation>
+    <annotation type="Related Policies"><cite path="§AM-217-3-1">AM-217-3-1</cite> NOTIFICATION OF OVERPAYMENT (MEMO TO EMPLOYEE)</annotation>
+    <annotation type="Related Policies"><cite path="§AM-234-1">AM-234-1</cite> TEMPORARY OR SEASONAL APPOINTMENTS</annotation>
+  </annotations>
+</section>

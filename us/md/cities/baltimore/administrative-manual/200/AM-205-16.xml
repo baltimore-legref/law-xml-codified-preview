@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-16</num>
+  <heading>Meal Allowance</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>A meal allowance in accordance with applicable labor agreements between the City of Baltimore and City employees as determined by designated Representation Code, shall be granted if the City employee is required to work 3 or more hours either before or after the regularly scheduled full-time work shift.  In addition, employees designated by Representation Code 6 or 9 and who are required to work on an official City holiday or a regularly scheduled day-off will be paid the appropriate meal allowance when 3 or more overtime hours have been completed.  Payment of the meal allowance is subject to reasonable costs and original meal receipt(s) as outlined in this policy.</text>
+  </para>
+  <para name="payment">
+    <heading>PAYMENT</heading>
+    <text>Petty cash may not be used for reimbursement to an employee for meal allowance.  Employees receiving benefits of the following units:</text>
+    <text>
+      <ul>
+        <li>I - AFSCME, Local 44</li>
+        <li>U - City Union of Baltimore</li>
+        <li>M - Unrepresented (designated benefits - Salary Schedule B)</li>
+        <li>4 - CMEA</li>
+        <li>5 - AFSCME, Local 55B</li>
+        <li>7 - Unrepresented (designated benefits - Salary Schedule A)</li>
+      </ul>
+    </text>
+    <text>will be paid $4.00 for each approved request for meal allowance.  Payments will be effectuated through the payroll upon posting of the appropriate dollar figure in the "Dollar Adjustment to Net" block and the "Account Numbers other than Normal" block is completed using object/sub-object 2-11.  The "Remarks" must include the explanation if meal allowance is posted, i.e., <strong><u>$00.</u></strong> adj: to net account number xxxx-xxx-xx-xxx-211, and no overtime or compensatory leave hours are posted.  Meal allowance payment appears on the employee's paycheck as an "adjustment to net."</text>
+    <text>Employees receiving the benefits of the following units:</text>
+    <text>
+      <ul>
+        <li>6 - Managerial and Professional Society</li>
+        <li>9 - Unrepresented (Managerial and Professional Society)</li>
+      </ul>
+    </text>
+    <text>will be reimbursed for reasonable meal costs for each eligible period as specified in this policy.  Alcoholic beverages will not be reimbursed as part of the meal cost, e.g., beer, wine, liquor.  An original receipt(s) is necessary to obtain payment of meal allowance.  Such receipt(s) must be for a meal, i.e., not for groceries, luncheon meats, seafood, etc., which may or may not be consumed off the work site.</text>
+  </para>
+  <para name="employee-expense-report">
+    <heading>EMPLOYEE EXPENSE REPORT</heading>
+    <text>To receive meal allowance payment, employees designated by representation code 6 or 9 must submit an EMPLOYEES EXPENSE REPORT (28-1448-5060), with all receipts attached to the EMPLOYEES EXPENSE REPORT.  The agency/bureau head must verify the employees eligibility for reimbursement in terms of hours worked on the day(s) meal expenses were incurred.</text>
+    <text>The Employee Expense Report and receipts must then be submitted to the Disbursements Division, Room 700, 401 E. Fayette St., Attn:  Disbursements Supervisor.  Reimbursement will be issued directly to the employee unless other arrangements are made with the Disbursements Division.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-06-20" display="true">June 20, 1989</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2">AM-205-2</cite> OVERTIME AND CALL-BACK</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-11">AM-240-11</cite> EMPLOYEE EXPENSE REPORT</annotation>
+  </annotations>
+</section>

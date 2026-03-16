@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-23</num>
+  <heading>Health Care Benefits Program</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy applies to eligible permanent full-time and eligible permanent part-time employees who elect to enroll in health care benefits program offered by the City of Baltimore.</text>
+  </para>
+  <para name="available-programs">
+    <heading>AVAILABLE PROGRAMS</heading>
+    <text>The City offers several health care plan options to employees that provide coverage for medical and dental benefits. For more information on the programs currently available and related costs, contact the Employee Benefits Division at 201 E. Baltimore St, Suite 500 Baltimore, MD 21202, or call 410-396-5830. Employees may also find more information about the benefits offered by the City of Baltimore on the enrollment website, <a href="https://www.baltimorecity.essbenefits.com/essenroll.asp">https://www.baltimorecity.essbenefits.com/essenroll.asp</a>.</text>
+    <text>City employees may not be enrolled in more than one City medical and one City dental program at a time.</text>
+  </para>
+  <para name="effective-date-of-coverage">
+    <heading>EFFECTIVE DATE OF COVERAGE</heading>
+    <text>Coverage for new hires will become effective on the first day of the calendar month following 30 days of service.</text>
+  </para>
+  <para name="date-coverage-ends">
+    <heading>DATE COVERAGE ENDS</heading>
+    <text>Coverage for employees will end on the last day of the calendar month in which termination occurs.</text>
+  </para>
+  <para name="levels-of-coverage-within-healthcare-programs">
+    <heading>LEVELS OF COVERAGE WITHIN HEALTHCARE PROGRAMS</heading>
+    <text>Employees may enroll in any one of the following levels of coverage within a health care program:</text>
+    <text>
+      <ul>
+        <li>Individual – Employee only.</li>
+        <li>Employee and Spouse (or Domestic Partner).</li>
+        <li>Parent and Child – two people (Employee and one Child).</li>
+        <li>Family – indicates three or more people</li>
+      </ul>
+    </text>
+  </para>
+  <para name="dependent-eligibility">
+    <heading>DEPENDENT ELIGIBILITY</heading>
+    <text>An eligible dependent is defined as:</text>
+    <text>
+      <ul>
+        <li>A spouse. The City requires a marriage certificate to verify eligibility.</li>
+        <li>Domestic Partner. The City requires an Affidavit of Domestic Partnership to verify eligibility.</li>
+        <li>An unmarried child by natural birth or legal adoption until the year in which the child reaches the age of ineligibility as defined by the provisions of the health care coverage selected (outlined below). The City may require birth certificate or court documentation to verify dependency.</li>
+        <li>An unmarried child for whom a City employee has been designated guardian or economic sole support until the end of the calendar year in which the child reaches the age of ineligibility as defined by the provisions of the health care coverage selected. The City may require court or other official documentation to verify dependency.</li>
+        <li>An unmarried child above eligibility age who is incapable of self-support because of disability that commenced prior to the date on which the child reached the age of ineligibility as defined by the provision of the health care coverage selected.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="changes-in-level-of-coverage">
+    <heading>CHANGES IN LEVEL OF COVERAGE</heading>
+    <text>Once an employee is enrolled in benefits a change cannot be made unless there is a Change in Status. A Change in Status is defined as marriage, divorce, termination of domestic partnership, and birth or adoption of a child. The employee has 60 days to notify the City of Baltimore of an enrollment change due to a Change in Status. The employee will make the necessary elections using the City of Baltimore's enrollment website,</text>
+    <text><a href="https://www.baltimorecity.essbenefits.com/essenroll.asp">https://www.baltimorecity.essbenefits.com/essenroll.asp</a>. For more information regarding a change in status, please contact the Employee Benefits Division or log on to the City's enrollment website for more information.</text>
+    <text>New dependents must be added to a health plan within 60 days of a qualifying event. An event is defined as marriage, childbirth, adoption of an eligible dependent, marriage to an individual with an eligible dependent, or declaration of domestic partnership.</text>
+  </para>
+  <para name="premiums">
+    <heading>PREMIUMS</heading>
+    <text>The City pays a percentage of the cost of medical premiums. This payment may vary depending upon the medical care program selected. The employee, through payroll deduction, pays the balance of the medical care premium.</text>
+    <text>The City pays the full premium for the dental HMO option. Employees pay a portion of the dental PPO premium equal to the difference in cost between the PPO dental and the HMO dental option.</text>
+    <text>For more information regarding the employee cost for health care, please contact the Employee Benefits Division or log on to the City of Baltimore's Enrollment website, <a href="https://www.baltimorecity.essbenefits.com/essenroll.asp">https://www.baltimorecity.essbenefits.com/essenroll.asp</a>.</text>
+  </para>
+  <para name="new-employee-enrollment">
+    <heading>NEW EMPLOYEE ENROLLMENT</heading>
+    <text>New employees may apply for coverage under one of the health care programs offered through the Employee Benefits Division by accessing the enrollment website, <a href="https://www.baltimorecity.essbenefits.com/essenroll.asp">https://www.baltimorecity.essbenefits.com/essenroll.asp</a> within 45 days of their date of hire. If an employee does not elect to enroll in benefits within the 45-day period that employee will have to wait until the next scheduled Open Enrollment period to enroll.</text>
+  </para>
+  <para name="open-enrollment">
+    <heading>OPEN ENROLLMENT</heading>
+    <text>Employees in pay status for a period longer than 45 calendar days that wish to enroll in a health care plan offered by the City through the Employee Benefits Division may enroll during the open enrollment period scheduled each year. In addition, employees currently enrolled in a City health plan may change their election only during an open enrollment period unless the employee has a qualifying life event.</text>
+  </para>
+  <para name="benefits">
+    <heading>BENEFITS</heading>
+    <text>The type of medical and dental benefits provided will differ among the various provider plans available to employees. For specific information, contact the Employee Benefits Division or the agency human resources officer.</text>
+    <text>The Health Incentive Program for Physical Examination, Physical Fitness, Vision or Dental Reimbursement, (<cite path="§AM-204-25">AM-204-25</cite>) and the Vision Benefits Plan (<cite path="§AM-204-26">AM-204-26</cite>) are employee benefits available to those eligible as a result of either negotiated labor contracts or federal legislation. To enroll in these benefits employees must log on to the enrollment website, <a href="https://www.baltimorecity.essbenefits.com/essenroll.asp">https://www.baltimorecity.essbenefits.com/essenroll.asp</a>. The City of Baltimore also offers Optional Life/Accidental Death and Dismemberment (AD&amp;D) Plans (AM-204- 27) to employees. Enrollment in one of the health care plans outlined in this policy has no impact on these specific programs.</text>
+  </para>
+  <para name="experimental-medical-procedures">
+    <heading>EXPERIMENTAL MEDICAL PROCEDURES</heading>
+    <text>Experimental medical procedures are not covered by any of the medical care plans or programs offered by the City through the Employee Benefits Division of the Department of Human Resources. Employees must contact their medical care provider in writing and receive written approval from them before receiving any medical care that may be considered experimental.</text>
+  </para>
+  <para name="major-medical-coverage">
+    <heading>MAJOR MEDICAL COVERAGE</heading>
+    <text>Major medical coverage is provided to those enrolled in the Blue Cross/Blue Shield Traditional Plan and the Blue Cross/Blue Shield Preferred Provider Network. Information and/or claim forms concerning major medical coverage may be obtained from Blue Cross/Blue Shield.</text>
+  </para>
+  <para name="active-employees-age-65-and-over">
+    <heading>ACTIVE EMPLOYEES AGE 65 AND OVER</heading>
+    <text>The Federal Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA) requires that Medicare become the secondary health carrier for active employees who are 65 years of age or older.</text>
+    <text>Employees are required to provide their Medicare Number prior to turning 65 years old. The Medicare number can be entered into employee records on the enrollment website provided throughout this document.</text>
+    <text>For more information on this act and how it affects employees and their dependents, please contact the Employee Benefits Division at 410-396-5830. There are additional considerations regarding medical care coverage for active employees who are 65 and over and their dependents. Employees in this category are urged to contact the Employee Benefits Division <u>2 months prior to reaching age 65.</u></text>
+  </para>
+  <para name="retirees">
+    <heading>RETIREES</heading>
+    <text>Retirees can no longer enroll in a medical plan at any time. New retirees have 60 days from the date of their retirement date to enroll online or by calling the IVR Benefits Enrollment Line. Coverage for new retirees will be effective the first day of the month following their retirement date. Double medical plan premiums may be taken from the retirees' pension check for missed payroll deductions. Retirees may change coverage within 60 days from the date of a qualifying event with documentation or during an Open Enrollment period.</text>
+  </para>
+  <para name="inactive-employees">
+    <heading>INACTIVE EMPLOYEES</heading>
+    <text>Employees who are on a leave of absence without pay or who are in any other non-pay status may be eligible for continuation of health benefits. Inactive employees who retain membership in their existing health care program will be billed for the full amount of their premium. Employees in this status must contact the Employee Benefits Division to discuss the coverage for which they are being billed.</text>
+    <text>Failure by employees to pay bills submitted by the Employee Benefits Division for participation in a health care program will result in termination of health benefits.</text>
+    <text>Inactive employees are not eligible to participate in the City's Health Care Incentive Program for Physical Examination, Physical Fitness, Vision or Dental Reimbursement, (<cite path="§AM-204-25">AM-204-25</cite>). To be eligible for the Prescription Drug Program and Vision Program employees will need to elect the COBRA option and continue to pay premiums directly for those benefits.</text>
+  </para>
+  <para name="enrollment-after-a-leave-of-absence">
+    <heading>ENROLLMENT AFTER A LEAVE OF ABSENCE</heading>
+    <text>Employees returning from an approved leave of absence may apply for health care coverage by accessing the enrollment website, <a href="https://www.baltimorecity.essbenefits.com/essenroll.asp">https://www.baltimorecity.essbenefits.com/essenroll.asp</a>. Employees who choose not to join within the 60-day period will have to wait for the next scheduled open enrollment period.</text>
+    <text>Employees may also be eligible to re-enroll in the City's Prescription Drug Program (<cite path="§AM-204-24">AM-204-24</cite>) and participate in the City's Health Incentive Program for Physical Examination, Physical Fitness, Vision or Dental Reimbursement (<cite path="§AM-204-25">AM-204-25</cite>) and Vision Benefits Plan (<cite path="§AM-204-26">AM-204-26</cite>), and upon reinstatement to active City service in accordance with the City's policy on reinstatement (<cite path="§AM-213-3">AM-213-3</cite>).</text>
+  </para>
+  <para name="termination-of-health-care-coverage">
+    <heading>TERMINATION OF HEALTH CARE COVERAGE</heading>
+    <text>Employees may terminate their health care coverage within 60 days of a change in status or during the annual Open Enrollment period.</text>
+  </para>
+  <para name="separation-from-city-service">
+    <heading>SEPARATION FROM CITY SERVICE</heading>
+    <text>Employees who separate from City service may be eligible to continue participation in their health care program under the federal Consolidated Omnibus Budget Reconciliation Act, COBRA, (<cite path="§AM-204-28">AM-204-28</cite>). Employees who separate from City service may also be eligible to continue participation in the City's Prescription Drug Program (<cite path="§AM-204-24">AM-204-24</cite>), and the City's Vision Benefits Plan (<cite path="§AM-204-26">AM-204-26</cite>).</text>
+    <text>Employees will receive information relative to COBRA enrollment and continuation of benefits at the time of their exit interview or subsequent communication from ADP Benefits Services.</text>
+  </para>
+  <para name="change-of-name-and/or-address">
+    <heading>CHANGE OF NAME AND/OR ADDRESS</heading>
+    <text>Employees and retirees may change their name and/or address by contacting their agency human resources officer and completing the address change form provided by that agency.</text>
+  </para>
+  <para name="informational-materials">
+    <heading>INFORMATIONAL MATERIALS</heading>
+    <text>Additional information on the various health care programs offered to City employees is available on the City of Baltimore enrollment website, <a href="https://www.baltimorecity.essbenefits.com/essenroll.asp">https://www.baltimorecity.essbenefits.com/essenroll.asp</a>. Information may also be obtained from the Employee Benefits Office at 201 E. Baltimore St. Suite 500, Baltimore, MD 21202.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2007-05-18" display="true">May 18, 2007</annotation>
+    <annotation type="History" effective="2015-01-08" display="true">January 8, 2015</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-24">AM-204-24</cite> Prescription Drug Program</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-25">AM-204-25</cite> Health Incentive Program for Physical Examination, Physical Fitness, Vision or Dental Reimbursement</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-26">AM-204-26</cite> Vision Benefits Plan</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-27">AM-204-27</cite> Optional Life and Accidental Death and Dismemberment Plans</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-28">AM-204-28</cite> COBRA</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-29">AM-204-29</cite> Domestic Partner Benefits</annotation>
+    <annotation type="Related Policies"><cite path="§AM-213-1, Part 1">AM-213-1, Part 1</cite> Reinstatement Following Separation from City Service</annotation>
+    <annotation type="Related Policies"><cite path="§AM-213-1, Part 2">AM-213-1, Part 2</cite> Subsequent Employment after Voluntary Separation from City Service</annotation>
+  </annotations>
+</section>

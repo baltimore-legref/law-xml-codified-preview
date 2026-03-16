@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-207-01</num>
+  <heading>Work Hours</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Municipal office hours are established for all City offices under ordinance 543 (1946). Authority for changes to the established office hours for municipal government rests with the Mayor and Board of Estimates on recommendation of the agency head.</text>
+  </para>
+  <para name="ordinance-provision">
+    <heading>ORDINANCE PROVISION</heading>
+    <text>The ordinance provides: "That all municipal offices shall remain open from 8:30 A.M. to 4:30 P.M. on Mondays through Fridays for the entire calendar year, with a forty minute employee luncheon period. However, any department head may, with the approval of the Mayor, establish hours other than those above specified for such employees as may be needed to meet emergencies or to promote the public service, and the Board of Estimates shall have the power, in its discretion, to modify or change the hours during which municipal offices shall be open whenever such change or changes shall seem desirable."</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-02-14" display="true">February 14, 1989</annotation>
+  </annotations>
+</section>

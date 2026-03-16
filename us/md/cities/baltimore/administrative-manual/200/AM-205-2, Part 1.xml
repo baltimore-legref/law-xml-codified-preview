@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-2, Part 1</num>
+  <heading>Overtime and Call-Back Work:</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The provisions of the fair Labor Standards Act (FLSA) as amended in November 1985, apply to overtime compensation for City employees.   Under this Act, all positions in the City service have been categorized either as "non-exempt" or "exempt". Specific guidelines governing the manner in which employees serving in non-exempt positions must be compensated for work Performed in excess of the normal full-time work shift and/or in Excess of the normal full-time work week are established in Part II of this policy. Employee positions categorized as "exempt" may be compensated for overtime in accordance with Part III of this policy.</text>
+    <text>The FLSA Codes identifying job classes as non-exempt or exempt are listed in CIVIL SERVICE CLASSES {<cite path="§AM-291-1">AM-291-1</cite>} and NON-CIVIL SERVICE CLASSES {<cite path="§AM-291-2">AM-291-2</cite>}.   Non-Exempt classes are indicated by FLSA Code "F" while exempt classes are indicated by FLSA Code "X." However, designated positions within a class may have been assigned an FLSA Code different from that which is listed for the entire class.   The agency personnel officer or the classification division of the Civil Service Commission may be contacted to verify FLSA Codes.</text>
+    <text>
+      <em>Note: Uniformed police and fire personnel are subject to police and fire department overtime regulations.</em>
+    </text>
+  </para>
+  <para name="overtime-funds">
+    <heading>OVERTIME FUNDS</heading>
+    <text>Each agency head and bureau head must carefully monitor the funds which have been budgeted for overtime. If it appears that a program will exceed such budgeted funds, the agency head must submit a MEMO (28-1418-5007) to the Chief, Bureau of the Budget and Management Research, requesting a reallocation of funds within the total amount budgeted for salaries and wages. A copy of the MEMO must also be forwarded to the Overtime Committee, Mayor's Office, City Hall.</text>
+    <text>The request for reallocation of funds must include a detailed explanation of the conditions under which the use of funds for overtime was authorized and a justification of the need for additional funds.  The Chief, Bureau of the Budget of the Budget and Management Research, will review the request and approve or disapprove the reallocation of funds.  In addition, he may initiate action to have a study made to determine alternative means of accomplishing the necessary work.</text>
+  </para>
+  <para name="work-shift-defined">
+    <heading>WORK SHIFT DEFINED</heading>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>Representation Code*</th>
+            <th>Work Shift</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1,U,M</td>
+            <td>The work shift consists of an 8 hour day which includes a 40 minute lunch period.</td>
+          </tr>
+          <tr>
+            <td>4,5,6,7,9</td>
+            <td>The work shift consists of a7 1/3  hour work day plus an unpaid 40 minute lunch period</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>*See Key on page5.</text>
+  </para>
+  <para name="work-week-defined">
+    <heading>WORK WEEK DEFINED</heading>
+    <text>The normal full-time work week consists of 5 consecutive Work days in a 7 day period excluding Saturday and Sunday. However, in operations where an employee is normally scheduled to work on Saturday and/or Sunday, the normal full-time work period will consist of 10 work days in a 14 day period.</text>
+  </para>
+  <para name="overtime-work-provision">
+    <heading>OVERTIME WORK PROVISION</heading>
+    <text>An agency head may authorize overtime work in accordance with parts II and III of this policy only under the following conditions:</text>
+    <text>
+      <ul>
+        <li>To deal with emergency situations.   For purposes of this policy, an emergency situation is defined as any condition which endangers, safety, life or property or threatens the breakdown of vital services to the public.</li>
+        <li>To perform duties which can only be accomplished outside an employee's regularly scheduled workday.</li>
+        <li>To accomplish essential work within a prescribed time when a deadline cannot be altered.</li>
+        <li>To maintain essential operations.</li>
+      </ul>
+    </text>
+    <text>Employees cannot be required to perform overtime work except in an emergency situation.   Every case of refusal, however, must be recorded and the number of hours declined specified.</text>
+  </para>
+  <para name="travel-status">
+    <heading>TRAVEL STATUS</heading>
+    <text>The performance of overtime work by a City representative while attending a conference, convention, or seminar either out-of-town {<cite path="§AM-240-1">AM-240-1</cite>} or within City limits {<cite path="§AM-240-7">AM-240-7</cite>} must be specifically authorized by the Board of Estimates prior to the event.</text>
+    <text>If conditions require that a TRAVEL REQUEST  (28-1418-5016) {<cite path="§AM-240-1-1">AM-240-1-1</cite>} be submitted to the Board of Estimates, the request for overtime authorization must be included in this form; otherwise, the request must be submitted to the Board of Estimates on a City MEMO (28-1418-5007) in accordance with <cite path="§AM-101-1">AM-101-1</cite>.</text>
+    <text>A non-exempt employee who works approved overtime while in a travel status must be compensated in accordance with FLSA provisions.</text>
+  </para>
+  <para name="time-change">
+    <heading>TIME CHANGE</heading>
+    <text>No employee will lose pay due to a shortening of his actual hours of work caused by the changing of clocks for the observance of Eastern Daylight Savings Time.  Any employee whose actual hours of work are extended due to the changing of clocks for the return of Eastern Standard Time will be compensated for all work in excess of 8 hours.</text>
+  </para>
+  <para name="call-back-compensation">
+    <heading>CALL-BACK COMPENSATION</heading>
+    <text>A permanent full-time employee or a permanent part-time employee who:</text>
+    <text>
+      <ul>
+        <li>has completed the normal full-time work shift and has been called back to work after leaving with the expectation that he would <u>not</u> be required to work during his normal time off,</li>
+      </ul>
+    </text>
+    <text>OR</text>
+    <text>
+      <ul>
+        <li>has completed the normal full-time work week and has been called back to work after leaving with the expectation that he would not be required to work during his normal time off,</li>
+      </ul>
+    </text>
+    <text>will receive compensation for a minimum of 4 hours.  Non-exempt employees may elect to receive monetary payment or compensatory leave in an amount equal to 1 ½ times the total hours of callback work recorded.  Exempt employees will receive compensatory leave in an amount equal to the total hours of call-back work recorded.  The hours recorded as call-back work shall not be counted as time worked for overtime purposes.</text>
+    <text>
+      <strong>
+        <u>Exception</u>
+      </strong>
+    </text>
+    <text>An employee called back to work additional hours consecutively annexed to either end or both ends of his regular work shift cannot receive call-back compensation.   However, he can receive overtime compensation for such work if he meets all eligibility requirements for overtime compensation. No provisions of this policy shall be constructed as to mean compounding of overtime.</text>
+  </para>
+  <para name="key-to-representation-codes">
+    <heading>KEY TO REPRESENTATION CODES</heading>
+    <text>The following codes indicate which, if any, labor union represents employees in a particular job class.</text>
+    <text>
+      <ul>
+        <li>1 - AFSCME, Local 44.</li>
+        <li>2 - Elected Officials</li>
+        <li>3 - Appointed Officials subject to the provisions of Article VI, Section 3  (a)  of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>.</li>
+        <li>4 - CMEA.</li>
+        <li>5 - AFSCME, Local 558.</li>
+        <li>6 - Managerial and Professional Society.</li>
+        <li>7 - Unrepresented (designated benefits – Salary Schedule A).</li>
+        <li>8 - Sworn Fire and Police Personnel.</li>
+        <li>9 - Unrepresented (Managerial and Professional Society).</li>
+        <li>M - Unrepresented (designated benefits – Salary Schedule B).</li>
+        <li>N - No representative/no benefits.</li>
+        <li>U - City Union of Baltimore.</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-02-23" display="true">February 23, 1990</annotation>
+    <annotation type="Related Policies"><cite path="§AM-101-1">AM-101-1</cite> REQUESTS FOR B/E APPROVAL</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2, Part II">AM-205-2 PART II</cite>                        OVERTIME:  NON-EXEMPT EMPLOYEES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2, Part III">AM-205-2 PART III</cite>                        OVERTIME:  OVERTIME EXEMPT EMPLOYEES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-2-1">AM-205-2-1</cite> OVERTIME CONVERSION CHART</annotation>
+    <annotation type="Related Policies"><cite path="§AM-214-1">AM-214-1</cite> OUT-OF-TITLE WORK</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-16">AM-205-16</cite> MEAL ALLOWANCE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-1">AM-240-1</cite> TRAVEL PACKAGE OVERVIEW</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-1">AM-291-1</cite> CIVIL SERVICE CLASSES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-2">AM-291-2</cite> NON-CIVIL SERVICE CLASSES</annotation>
+  </annotations>
+</section>

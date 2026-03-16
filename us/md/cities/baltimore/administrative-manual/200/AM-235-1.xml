@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-235-1</num>
+  <heading>Promotions</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy addresses promotion of City employees whether serving in a Civil Service or non-Civil Service position.   A promotion is a movement by the employee from an existing position to a vacant and funded position of a higher classification and grade.  Exceptions in setting and calculating salary in the promotional grade are set forth in order to provide a consistent application of the salary rule upon promotion of an employee.</text>
+  </para>
+  <para name="promotion-conditions">
+    <heading>PROMOTION CONDITIONS</heading>
+    <text>A promotion may be authorized only when the following conditions exist:</text>
+    <text>
+      <u>Case I</u>
+    </text>
+    <text>
+      <ul>
+        <li>A vacant position is available  and funded in a class and grade higher than that in which the employee is currently filling;</li>
+      </ul>
+    </text>
+    <text>In this case, an employee is required to pass the certification examination and to be selected from that list.</text>
+    <text>
+      <u>Case II</u>
+    </text>
+    <text>
+      <ul>
+        <li>An existing position is reclassified to a higher grade and class for which funding is available.</li>
+      </ul>
+    </text>
+    <text>This case involves the reclassification of an existing position to a position, which is in a higher classification and grade.  The rules for establishing salary for promotion or "reclassification" are identical.</text>
+  </para>
+  <para name="responsibility">
+    <heading>RESPONSIBILITY</heading>
+    <text>It is the responsibility of the appointing officer to insure that the employee meets all job qualifications for promotion, that the vacant position is within a classification assigned to the organizational unit, and to obtain funding approval for the promotion from the Bureau of the Budget and Management Research.  A promotion may not occur without funding approval.</text>
+  </para>
+  <para name="reclassification">
+    <heading>RECLASSIFICATION</heading>
+    <text>A promotion may occur when an employee occupies a position which, as a result of a Civil Service Salary Study, is subsequently reclassified to that of a higher classification.</text>
+  </para>
+  <para name="qualifications">
+    <heading>QUALIFICATIONS</heading>
+    <text>Minimum qualifications to be met by an employee filling a position within the classified Civil Service are established by the Civil Service Commission.  Specific requirements relative to education and/or experience are indicated on Civil Service job announcements.</text>
+    <text>An individual's previous experience must meet the qualifications of a like class in the same occupational area in order to be credited to the employee.  When considering previous experience, approved out-of-title work will qualify as necessary experience, but service performed in an "in lieu" capacity will not apply.  The appointing officer is responsible for verifying, as necessary, that a candidate for promotion possesses the required qualifications.</text>
+    <text>Minimum qualifications for promotion to non-Civil Service positions are established by the appropriate agency head.</text>
+  </para>
+  <para name="employment-lists">
+    <heading>EMPLOYMENT LISTS</heading>
+    <text>Candidates for promotion to a position in a Civil Service classified class must be selected from a current Civil Service employment eligibility list.  Appointing officers are required to interview 5 candidates (the first 5 when the list is ranked) from the list of eligibles when filling a vacant position in a Civil Service classified class.  The employment eligibility lists for positions in Civil Service classified classes may be obtained from the Civil Service Commission Support Services Division.</text>
+    <text>Employment eligibility lists for Civil Service unclassified classes are maintained at the agency level.</text>
+    <text>Employment eligibility lists for labor positions within the Civil Service classified classes are maintained at the Office of the Mayor.</text>
+  </para>
+  <para name="city-residency">
+    <heading>CITY RESIDENCY</heading>
+    <text>City residency may be a qualifying factor for promotion as determined by the appointing official.</text>
+  </para>
+  <para name="effective-date-of-salary-change">
+    <heading>EFFECTIVE DATE OF SALARY CHANGE</heading>
+    <text>An employee's effective date of promotion may not be in advance of the date of issue of the employment eligibility list, Board of Estimates as applicable, or the EMPLOYEE ACTION REQUEST (EAR) which cites funding approval.</text>
+    <text>The effective date of salary change is determined as follows:</text>
+    <text>
+      <ul>
+        <li>If the employee's date of promotion falls within the first half of a payroll period, the salary change is effective the first day of that payroll period.</li>
+        <li>If the employee's date of promotion falls within the second half of a payroll period, the salary change is effective the first day of the following payroll period.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="salary-guidelines">
+    <heading>SALARY GUIDELINES</heading>
+    <text>The salary of an employee being promoted to that of a higher classification and grade is computed as follows:</text>
+    <text>Strip any addendum, e.g., merit, longevity, etc., from the employee's current salary such that the "salary" has been reduced to that of Hiring, Full Performance or Experienced/Senior Level as applicable depending on the designated representation code of the employee's position.</text>
+    <text>
+      <ul>
+        <li>CALCULATION A:	Determine the difference in salary between the employee's present                              level and the next level in his/her current grade; then</li>
+        <li>CALCULATION B:	Determine the difference in salary between the employee's present level and the hiring level of the promotional grade.</li>
+      </ul>
+    </text>
+    <text>If the figure obtained from "A" is less than that of "B", then the employee will be placed at the hiring level of the higher grade.</text>
+    <text>If the figure obtained from "A" is equal to or greater than that of "B", the employee will be advanced to that level within the promotional grade which is 1 level above the next level used in calculation "A".  Restore longevity monies to non-MAPS employees only.</text>
+  </para>
+  <para name="exceptions">
+    <heading>EXCEPTIONS</heading>
+    <text>In order to provide consistency in the application of the salary rule certain exceptions should be noted in calculating the salary and in promotional grade placement.</text>
+    <text>
+      <ul>
+        <li>MAPS GRADES</li>
+      </ul>
+    </text>
+    <text>In those cases involving MAPS 100 and 600 grades, and for computation purposes only, treat merits as "levels" and utilize the same formulas in A &amp; B above to determine promotional salary placement.</text>
+    <text>
+      <ul>
+        <li>PROMOTIONAL GRADE/SALARY PLACEMENT</li>
+      </ul>
+    </text>
+    <text>If the application of the salary rule fails to yield at least a 4% increase from the current salary which the employee is receiving, place the employee on the level in the promotional grade which provides at least a 4% increase from the employee's current salary.  The employee shall not be placed above the top level of the promotional grade, even if such placement yields less than a 4% increase.  An employee in grade "999" or who is being promoted to grade  "999"<strong>, </strong>shall have his promotional salary calculated according to the 4% increase provision.   The salary rule computation shall not apply in this instance.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-03-07" display="true">March 7, 1990</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-30">AM-204-30</cite> DETERMINATION OF BENEFITS - PART I</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-31">AM-204-31</cite> DETERMINATION OF BENEFITS - PART II</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-1">AM-205-1</cite> SALARY</annotation>
+    <annotation type="Related Policies"><cite path="§AM-214-1">AM-214-1</cite> OUT-OF-TITLE WORK</annotation>
+    <annotation type="Related Policies"><cite path="§AM-230-3">AM-230-3</cite> CREATION AND ABOLISHMENT OF POSITIONS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-230-4">AM-230-4</cite> RECLASSIFICATION OF POSITIONS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-231-1">AM-231-1</cite> HIRING AND TRANSFERS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-235-1">AM-235-1</cite> PROCEDURAL DETAILS ON PROMOTING AN EMPLOYEE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-237-1">AM-237-1</cite> POSITIONS OF TRUST</annotation>
+    <annotation type="Related Policies"><cite path="§AM-290-1">AM-290-1</cite> SALARY SCHEDULES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-290-15">AM-290-15</cite> SALARY SCHEDULES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-1">AM-291-1</cite> CIVIL SERVICE CLASSES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-291-2">AM-291-2</cite> NON-CIVIL SERVICE CLASSES</annotation>
+  </annotations>
+</section>

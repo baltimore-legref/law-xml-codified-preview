@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-232-1</num>
+  <heading>Permanent Positions and Employees</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>A permanent position is a group of duties and responsibilities which requires the full-time or part-time employment of 1 person for a period <u>in excess of 90 calendar days</u>.</text>
+    <text>
+      <strong>Permanent EMPLOYEE</strong>
+    </text>
+    <text>
+      <u>PERMANENT FULL -TIME EMPLOYEE</u>
+    </text>
+    <text>A permanent full-time employee is a person who is appointed from an employment list to a permanent position, and works a full work week on a continuing basis.</text>
+    <text>
+      <u>PERMANENT PART-TIME EMPLOYEE</u>
+    </text>
+    <text>A permanent part-time employee is a person who is appointed from an employment list to a permanent position, and works less than a full work week on a continuing basis.</text>
+    <text>
+      <strong>Work Week Defined</strong>
+    </text>
+    <text>The normal full-time work week consists of 5 consecutive work shifts in a 7 day period.  (The normal full-time work shift consists of 8 consecutive hours in a 24 hour period.)  However, in operations where work is normally scheduled on Saturday and/or Sunday, the normal full-time work week consists of 10 work shifts in a 14 day period.</text>
+    <text>
+      <strong>Filling A Permanent Position</strong>
+    </text>
+    <text>See <cite path="§AM-232-1-1">AM-232-1-1</cite> for details on filling a permanent position.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1976-07-14" display="true">July 14, 1976</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-208-1</num>
+  <heading>Leave of Absence Without Pay</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>All permanent full-time and permanent part-time employees who have completed their initial probationary period may request a leave of absence without pay.  A leave of absence without pay may be granted if an employee has a valid reason for requesting leave time but does not have a sufficient amount of paid leave days available for use.  A leave of absence for educational purposes may be granted only if the employee has at least 1 year of continuous service.  Educational leave may not be requested more than once every 3 years. Granting of a leave of absence without pay depends on length of time requested, type of City service, i.e. Civil Service or Non-Civil Service, and the action of the appointing official relative to approval or disapproval.</text>
+  </para>
+  <para name="leave-examples">
+    <heading>LEAVE EXAMPLES</heading>
+    <text>Listed below are examples of acceptable reasons for granting a leave of absence and the period for which such leave may be granted.</text>
+    <text>
+      <ul>
+        <li>Illness or disability of employee or a member of his immediate family – 1 year or less.</li>
+        <li>Prenatal and postnatal disability, i.e., child care – 1 year or less.</li>
+        <li>Educational purposes – 9 months or less.</li>
+        <li>Appointment to a position in the non-Classified Service – 6 months or less.</li>
+        <li>Election or appointment as president, vice president, etc. of a recognized City representation unit.</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-02-14" display="true">February 14, 1989</annotation>
+  </annotations>
+</section>

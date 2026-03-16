@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-1, Part II</num>
+  <heading>Observance of Election Days</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>In accordance with Board of Estimates policy, certain elections will be observed by the City as an official City holiday. Administrative leave may be granted, if necessary, for other elections.</text>
+  </para>
+  <para name="general-elections">
+    <heading>GENERAL ELECTIONS</heading>
+    <text>All general elections, i.e., in which a member of the U.S. Congress is to be elected, will be observed as a City holiday. A general election is scheduled on the Tuesday immediately following the first Monday of November in even numbered years, e.g., 2004, 2006, 2008, etc. City offices will be officially closed for business on the day of a general election.</text>
+    <text>A permanent full-time employee not required to work on this day will receive his/her regular rate of pay. A permanent part-time employee will receive his/her regular rate of pay providing the observance of the holiday falls on the employee's regularly scheduled workday.</text>
+    <text>City employees who are eligible to receive holiday compensation and who are required to work on a City holiday will be compensated in accordance with <cite path="§AM-204-1, Part III">AM-204-1, Part III</cite>, Holiday Compensation.</text>
+  </para>
+  <para name="primary-and-mayoral-elections">
+    <heading>PRIMARY AND MAYORAL ELECTIONS</heading>
+    <text>A City employee who is registered to vote in the City of Baltimore will be allowed, if necessary, a maximum of two (2) hours administrative leave with pay for the purpose of voting in primary and mayoral elections.</text>
+    <text>Approved administrative leave with pay applies to the following primary and mayoral elections:</text>
+    <para>
+      <num>1.</num>
+      <text>The second Tuesday after the first Monday in September -- a primary election of candidates for State and City offices and Central Committee is held throughout Maryland.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>The second Tuesday in March -- a primary election of candidates for the President and Vice-President of the United States and members of the United States Congress is held throughout Maryland.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Such date as specified by the Governor -- special primary elections for congressional representatives are held in Maryland when necessary.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1999-09-02" display="true">September 2, 1999</annotation>
+    <annotation type="History" effective="2004-07-07" display="true">July 7, 2004</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-1, Part I">AM-204-1 PART I</cite> HOLIDAYS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-1, Part III">AM-204-1 PART III</cite> HOLIDAY COMPENSATION</annotation>
+    <annotation type="Related Policies"><cite path="§AM-232-1">AM-232-1</cite> PERMANENT POSITIONS AND EMPLOYEES</annotation>
+  </annotations>
+</section>

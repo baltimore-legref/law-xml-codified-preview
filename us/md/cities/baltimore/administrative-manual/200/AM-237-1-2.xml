@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-237-1-2</num>
+  <heading>Processing Results of a Criminal Background Investigation</heading>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>RESPONSIBILITY</th>
+          <th>ACTION</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>Human Resources Specialist</th>
+          <td proof="needed">
+            <p>1. Evaluate the results of the criminal history investigation. Consult with the Department of Law, as needed, regarding the investigation.</p>
+            <p>2. Prepare a written evaluation that: (1) summarizes the potentially relevant background information; and (2) assesses the relevance of the background information to the job.</p>
+            <p>3. Provide the hiring agency and the Department of Human Resources with a copy of the written evaluation.</p>
+            <p>4. Once the agency has completed its assessment of the written evaluation, destroy the criminal history information provided by the City's vendor or the Maryland State Police.</p>
+          </td>
+        </tr>
+        <tr>
+          <th>Appointing Officer</th>
+          <td proof="needed">
+            <p>5. Assess the written evaluation provided by the human resources specialist.</p>
+            <p class="text-indent-1">\uF0B7 If conviction data is not disclosed, make appropriate notes on the RELEASE and AUTHORIZATION form in the employee's personnel file.</p>
+            <p class="text-indent-1">\uF0B7 If conviction data is present, consult with the Department of Law and the Department of Human Resources to determine the job-related nature of the conviction data.</p>
+            <p class="text-indent-1">\uF0B7 If conviction data has no bearing on the employee's suitability for the position, make appropriate notes on the copy of the RELEASE and AUTHORIZATION form in the employee's personnel file.</p>
+            <p class="text-indent-1">\uF0B7 If conviction data is determined to be sufficient to remove the employee from the position, process a change or termination in HRIS whichever is applicable, and follow all standard procedures for releasing an employee from city service. Make appropriate notes on the copy of the RELEASE and AUTHORIZATION form in the employee's personnel file.</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <annotations>
+    <annotation type="History" effective="1991-09-12" display="true">September 12, 1991</annotation>
+    <annotation type="History" effective="2008-02-03" display="true">February 3, 2008</annotation>
+  </annotations>
+</section>

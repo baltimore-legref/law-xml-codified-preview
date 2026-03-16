@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-12</num>
+  <heading>Length of Service</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Guidelines for the calculation of length of service or creditable service are set forth in this policy. This policy, however, does not apply to the calculation of Employees' Retirement System service that is defined in <cite doc="City of Baltimore, Md., Code" path="|22">Article 22 of the Baltimore City Code</cite>. Length of service as a City employee is a factor in the administration of many personnel policies, e.g., vacation leave, level movements, longevity calculations and layoffs. An employee's length of service is calculated from the date of appointment as a permanent employee providing the employee has completed a satisfactory probationary period. A claim for prior creditable service upon reinstatement or subsequent employment (within one year from date of separation) must be made within eighteen (18) months of the reentry date by the employee to the hiring department.</text>
+  </para>
+  <para name="exception">
+    <heading>EXCEPTION</heading>
+    <text>When an employee is appointed as "permanent," the employee may claim continuous service to the earliest date of temporary/provisional appointment provided: 1) the permanent appointment is in the same class as the prior temporary/provisional appointment; 2) there is no break in service; and 3) the required probationary period has been satisfied.</text>
+  </para>
+  <para name="prior-service">
+    <heading>PRIOR SERVICE</heading>
+    <text>Prior City employment may be considered as creditable service if the employee was a permanent employee who:</text>
+    <text>
+      <ul>
+        <li>Was laid-off due to lack of work or funds and was subsequently re-hired within one (1) year of the layoff;</li>
+        <li>Was granted a leave of absence without pay in accordance with <cite path="§AM-208-1">AM-208-1</cite> and was reinstated within 10 days of the expiration of an approved leave of absence;</li>
+        <li>Was rehired to City government employment in accordance with <cite path="§AM-213-1, Part I">AM-213-1, Part I</cite> or <cite path="§AM-213-1, Part II">Part II</cite>.</li>
+      </ul>
+    </text>
+    <text>Prior service, as applicable, will be credited by an adjustment to the original entry date.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-01-01" display="true">January 1, 1990</annotation>
+    <annotation type="History" effective="1997-07-01" display="true">July 1, 1997</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-8">AM-205-8</cite> LAYOFF OF EMPLOYEES IN CIVIL SERVICE CLASSES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> LEAVE OF ABSENCE WITHOUT PAY</annotation>
+    <annotation type="Related Policies"><cite path="§AM-213-1, Part I">AM-213-1, Part I</cite> REINSTATEMENT</annotation>
+    <annotation type="Related Policies"><cite path="§AM-213-1, Part II">AM-213-1, Part II</cite> SUBSEQUENT EMPLOYMENT</annotation>
+    <annotation type="Related Policies"><cite path="§AM-232-1">AM-232-1</cite> PERMANENT POSITIONS AND EMPLOYEES</annotation>
+  </annotations>
+</section>

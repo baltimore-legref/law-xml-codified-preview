@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-6</num>
+  <heading>Night or Shift Differential</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy provides direction on night or shift differential rates of pay, hours of limitations for such pay, eligibility, pay calculation and affected City personnel. It further specifies the shift differential period. Current negotiated agreements should be consulted for applicability of this policy, rates, and those City employees subject to it.</text>
+  </para>
+  <para name="policy-provisions">
+    <heading>POLICY PROVISIONS</heading>
+    <text>City employees assigned to regularly scheduled night or shift work that begins between 2:00 p.m. and 5 a.m. shall be paid thirty cents (30 cents) per hour above the established rate for each hour worked unless otherwise negotiated except when working such shifts as part of overtime appended to their regular shift, i.e., an employee not regularly assigned to the night shift but who works overtime hours into the night shift. Otherwise, the night differential rate shall be paid at the appropriate overtime rate. Certain employees not regularly assigned to the night shift but who work overtime hours into the night shift, (e.g., CUB employees, et al) shall receive the night differential rate or the appropriate overtime rate for all overtime hours worked into the night shift in excess of 10 hours in a given bi-weekly payroll period. Shift differential will immediately become part of an employee's base pay for paid leave purposes after they have been assigned to an eligible shift.</text>
+  </para>
+  <para name="excluded-personnel">
+    <heading>EXCLUDED PERSONNEL</heading>
+    <text>Night or shift differential does not apply to guards, members of the Fire or Police Departments, or other employees whose emergency assignments start or carry into this period.</text>
+  </para>
+  <para name="special-circumstances">
+    <heading>SPECIAL CIRCUMSTANCES</heading>
+    <text>Certain City employees shall have a period of fifteen (15) minutes appended to their regular workday for the personnel shift changeover. Consult appropriate negotiated agreements for affected employees.</text>
+  </para>
+  <para name="hours-limitation">
+    <heading>HOURS LIMITATION</heading>
+    <text>Employees shall not be required to work more than sixteen (16) consecutive hours without an eight (8) hour break except in the case of an emergency endangering life, health, or safety. If an employee is required to work for more than sixteen (16) consecutive hours under such an emergency situation, the period shall not exceed twenty-four (24) consecutive hours.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1990-01-10" display="true">January 10, 1990</annotation>
+    <annotation type="History" effective="2022-07-20" display="true">July 20, 2022</annotation>
+  </annotations>
+</section>

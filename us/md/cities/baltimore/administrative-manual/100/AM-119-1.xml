@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-119-1</num>
+  <heading>Electronic Message Retention</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy defines the retention schedule for electronic mail (e-mail) messages maintained and stored electronically on enterprise messaging systems, maintained by the Mayor's Office of Information Technology. Storage limitations are required in order to provide a cost effective and high level of service and availability for these systems.</text>
+  </para>
+  <para name="definitions">
+    <heading>DEFINITIONS</heading>
+    <text>Electronic mail or e-mail is an information transfer system which uses computers to send, receive and temporarily store messages.</text>
+    <text>Retention is the maximum lifetime of an electronic message that the recipient has not deleted from the email system.</text>
+  </para>
+  <para name="schedule">
+    <heading>SCHEDULE</heading>
+    <text>Messages stored on enterprise servers will be retained for 90 days. Any message aged greater than 90 days will be purged on a daily basis by the system administrator. Full system backups used to maintain system integrity in the event of a malfunction or to retrieve accidentally deleted messages will be maintained for 10 calendar days.</text>
+    <text>
+      <u>Records of Official City Business</u>
+    </text>
+    <text>All agencies are required to maintain records of all proceedings, financial transactions and official acts of the City of Baltimore, under <cite path="§AM-502-1">AM-502-1</cite>, Records Management. If electronic messages or attached documents contained within e-mails are in these broad categories, a printed version must be maintained by the agency and stored in the City Archives and Records Management Center according to the agency's approved retention schedule. These electronic messages and attached documents will be automatically deleted from the server after 90 days.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-05-26" display="true">May 26, 2004</annotation>
+    <annotation type="Related Policies"><cite path="§AM-118-1">AM-118-1</cite> Electronic Communication Policy</annotation>
+    <annotation type="Related Policies"><cite path="§AM-502-1">AM-502-1</cite> Records Management</annotation>
+  </annotations>
+</section>
