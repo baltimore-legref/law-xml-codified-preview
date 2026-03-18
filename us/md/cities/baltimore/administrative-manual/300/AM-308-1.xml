@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-308-1</num>
+  <heading>Procurement</heading>
+  <para name="purchase-orders-for-goods-and-services-–-agency-responsibilities">
+    <heading>PURCHASE ORDERS FOR GOODS AND SERVICES – AGENCY RESPONSIBILITIES</heading>
+    <text>All agencies are responsible for taking the following actions in regard to the purchase of goods and services.</text>
+  </para>
+  <para name="upon-receipt-of-purchase-order">
+    <heading>UPON RECEIPT OF PURCHASE ORDER</heading>
+    <text>Upon receipt of a Purchase Order (or, if using a Master Blanket contract, a Release Purchase Order) in CitiBuy, the agency must immediately examine it to ensure that it agrees with the Requisition submitted by the agency in CitiBuy. (CitiBuy is the City's automated procurement system accessed at www.baltimorecitibuy.org. Users may obtain passwords and user identification numbers by contacting the Bureau of Purchases.) If any discrepancies exist, the agency must immediately notify the appropriate buyer in the Bureau of Purchases.</text>
+  </para>
+  <para name="follow-up-of-order">
+    <heading>FOLLOW-UP OF ORDER</heading>
+    <text>The agency is responsible for following up the progress of the order by checking directly with the supplier to ensure proper delivery of goods and services.</text>
+  </para>
+  <para name="upon-receipt-of-goods-and-services">
+    <heading>UPON RECEIPT OF GOODS AND SERVICES</heading>
+    <text>Upon receipt of the ordered goods or services, the agency must immediately verify that:</text>
+    <text>
+      <ul>
+        <li>All specifications for goods or services have been met.</li>
+        <li>The quantity of all goods or services delivered is correct.</li>
+        <li>The goods have not been damaged.</li>
+      </ul>
+    </text>
+    <text>If any of the above conditions are not met:</text>
+    <text>The agency must immediately notify the supplier and request that the supplier take corrective action. If substitute goods or services are desired by an agency, the agency must submit a written request for approval of such substitutions to the appropriate buyer in the Bureau of Purchases. Agencies may not accept substitute goods or services without written approval from the Bureau of Purchases.</text>
+    <text>If all the above conditions have been met:</text>
+    <text>The agency must immediately enter the appropriate receiving information into CitiBuy. Quick action will not only contribute to improved supplier relations, but will also ensure that the City will be able to take advantage of any cash discounts offered for prompt payment.</text>
+  </para>
+  <para name="problems-with-suppliers">
+    <heading>PROBLEMS WITH SUPPLIERS</heading>
+    <text>Agencies should attempt to resolve problems with suppliers by dealing directly with the supplier and all such attempts must be carefully documented. Copies of correspondence with suppliers must be sent to the appropriate buyer in the Bureau of Purchases.</text>
+    <text>Agencies must carefully maintain written records of inadequate performance by suppliers, e.g., failure to meet specifications, late deliveries, failure to perform according to contract, etc.</text>
+    <text>When notifying a supplier or the Bureau of Purchases of any problem, agencies must make such notification in writing. If an emergency exists, notification may be made initially by telephone with follow-up written notification.</text>
+    <text>If repeated agency attempts to resolve problems with a supplier do not produce satisfactory results within 30 days after the required performance date for services, or within 60 days after the required delivery date for goods, the agency must promptly submit an UNSATISFACTORY SUPPLIER PERFORMANCE REPORT (28-1448-5025) [<cite path="§AM-308-1-1">AM-308-1-1</cite>] to the appropriate buyer in the Bureau of Purchases. If the situation is serious enough to warrant earlier action, the agency may submit the report prior to the timeframes specified above. Copies of all relevant correspondence must be attached to the report.</text>
+    <text>If a supplier has a history of unsatisfactory performance on a number of Purchase Orders or creates a serious problem in a particular instance, the agency should submit a memorandum directly to the City Purchasing Agent. The memorandum should contain an explanation of the problem, and a description of the corrective actions taken by the agency. Copies of all relevant correspondence should be attached to the memorandum.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1975-08-20" display="true">August 20, 1975</annotation>
+    <annotation type="History" effective="2011-07-20" display="true">July 20, 2011</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-290-6</num>
+  <heading>Nurses, Local 558, Salary Scale</heading>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th colspan="6">COMMUNITY HEALTH NURSES</th>
+        </tr>
+        <tr>
+          <th colspan="6">10 MONTH EMPLOYEES</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td data-width="117521">Grade</td>
+          <td data-width="176495">Hiring Level</td>
+          <td data-width="176495">Full Performance Level</td>
+          <td data-width="176495">Experienced Level</td>
+          <td data-width="176495">Senior Level</td>
+          <td data-width="176495">L1-5*</td>
+        </tr>
+        <tr>
+          <th data-width="117521">501</th>
+          <th data-width="176495">35,634</th>
+          <th data-width="176495">39,089</th>
+          <th data-width="176495">40,067</th>
+          <th data-width="176495">41,068</th>
+          <th data-width="176495">1,232</th>
+        </tr>
+        <tr>
+          <th data-width="117521">503</th>
+          <th data-width="176495">39,886</th>
+          <th data-width="176495">44,884</th>
+          <th data-width="176495">46,008</th>
+          <th data-width="176495">47,160</th>
+          <th data-width="176495">1,415</th>
+        </tr>
+        <tr>
+          <th data-width="117521">505</th>
+          <th data-width="176495">43,290</th>
+          <th data-width="176495">47,037</th>
+          <th data-width="176495">48,215</th>
+          <th data-width="176495">49,421</th>
+          <th data-width="176495">1,483</th>
+        </tr>
+        <tr>
+          <th data-width="117521">506</th>
+          <th data-width="176495">44,979</th>
+          <th data-width="176495">49,190</th>
+          <th data-width="176495">50,420</th>
+          <th data-width="176495">51,679</th>
+          <th data-width="176495">1,550</th>
+        </tr>
+        <tr>
+          <th data-width="117521">507</th>
+          <th data-width="176495">46,970</th>
+          <th data-width="176495">51,342</th>
+          <th data-width="176495">52,624</th>
+          <th data-width="176495">53,940</th>
+          <th data-width="176495">1,618</th>
+        </tr>
+        <tr>
+          <th data-width="117521">508</th>
+          <th data-width="176495">49,085</th>
+          <th data-width="176495">53,648</th>
+          <th data-width="176495">54,992</th>
+          <th data-width="176495">56,369</th>
+          <th data-width="176495">1,691</th>
+        </tr>
+        <tr>
+          <th data-width="117521">509</th>
+          <th data-width="176495">51,239</th>
+          <th data-width="176495">55,959</th>
+          <th data-width="176495">57,359</th>
+          <th data-width="176495">58,792</th>
+          <th data-width="176495">1,764</th>
+        </tr>
+        <tr>
+          <th data-width="117521">510</th>
+          <th data-width="176495">54,858</th>
+          <th data-width="176495">59,739</th>
+          <th data-width="176495">61,234</th>
+          <th data-width="176495">62,765</th>
+          <th data-width="176495">1,883</th>
+        </tr>
+        <tr>
+          <th colspan="6">12 MONTH EMPLOYEES</th>
+        </tr>
+        <tr>
+          <th data-width="117521">532</th>
+          <th data-width="176495">40,662</th>
+          <th data-width="176495">45,935</th>
+          <th data-width="176495">47,083</th>
+          <th data-width="176495">48,261</th>
+          <th data-width="176495">1,448</th>
+        </tr>
+        <tr>
+          <th data-width="117521">533</th>
+          <th data-width="176495">42,826</th>
+          <th data-width="176495">46,908</th>
+          <th data-width="176495">48,083</th>
+          <th data-width="176495">49,284</th>
+          <th data-width="176495">1,479</th>
+        </tr>
+        <tr>
+          <th data-width="117521">535</th>
+          <th data-width="176495">45,421</th>
+          <th data-width="176495">50,393</th>
+          <th data-width="176495">51,648</th>
+          <th data-width="176495">52,938</th>
+          <th data-width="176495">1,588</th>
+        </tr>
+        <tr>
+          <th data-width="117521">537</th>
+          <th data-width="176495">47,929</th>
+          <th data-width="176495">53,865</th>
+          <th data-width="176495">55,213</th>
+          <th data-width="176495">56,594</th>
+          <th data-width="176495">1,698</th>
+        </tr>
+        <tr>
+          <th data-width="117521">539</th>
+          <th data-width="176495">50,557</th>
+          <th data-width="176495">56,325</th>
+          <th data-width="176495">57,732</th>
+          <th data-width="176495">59,175</th>
+          <th data-width="176495">1,775</th>
+        </tr>
+        <tr>
+          <th data-width="117521">540</th>
+          <th data-width="176495">53,187</th>
+          <th data-width="176495">58,785</th>
+          <th data-width="176495">60,252</th>
+          <th data-width="176495">61,761</th>
+          <th data-width="176495">1,853</th>
+        </tr>
+        <tr>
+          <th data-width="117521">542</th>
+          <th data-width="176495">56,791</th>
+          <th data-width="176495">61,611</th>
+          <th data-width="176495">63,154</th>
+          <th data-width="176495">64,733</th>
+          <th data-width="176495">1,942</th>
+        </tr>
+        <tr>
+          <th data-width="117521">543</th>
+          <th data-width="176495">59,346</th>
+          <th data-width="176495">64,388</th>
+          <th data-width="176495">65,996</th>
+          <th data-width="176495">67,646</th>
+          <th data-width="176495">2,029</th>
+        </tr>
+        <tr>
+          <th data-width="117521">544</th>
+          <th data-width="176495">62,012</th>
+          <th data-width="176495">67,278</th>
+          <th data-width="176495">68,962</th>
+          <th data-width="176495">70,686</th>
+          <th data-width="176495">2,121</th>
+        </tr>
+        <tr>
+          <th data-width="117521">545</th>
+          <th data-width="176495">64,802</th>
+          <th data-width="176495">70,308</th>
+          <th data-width="176495">72,063</th>
+          <th data-width="176495">73,866</th>
+          <th data-width="176495">2,216</th>
+        </tr>
+        <tr>
+          <th data-width="117521">546</th>
+          <th data-width="176495">65,833</th>
+          <th data-width="176495">71,691</th>
+          <th data-width="176495">73,485</th>
+          <th data-width="176495">75,322</th>
+          <th data-width="176495">2,260</th>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <text><strong>Longevity Increments: </strong>The annual rate of pay is increased by the amount indicated in Column "L1-5" after completion of the following periods of service: 10 years, 15 years, 20 years, 25 years, and 30 years.</text>
+  <annotations>
+    <annotation type="History" effective="2008-08-23" display="true">August 23, 2008</annotation>
+    <annotation type="History" effective="2011-07-01" display="true">July 1, 2011</annotation>
+  </annotations>
+</section>

@@ -1,52 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-1.pdf">
   <prefix>Policy</prefix>
   <num>AM-240-1</num>
   <heading>Travel Package Overview</heading>
-  <para name="scope">
-    <heading>SCOPE</heading>
-    <text>Travel requests must be submitted for approval to either the representative's agency head or the Board of Estimates, depending upon such conditions as the cost of the trip, length of absence, etc. Agency head approved requests must contain the signature of the agency head; proxies or rubber stamps are not permitted. The source or type of funds used to pay for the travel has no bearing upon the level of approval required. Petty cash funds can not be used to defray travel expenses.</text>
-    <text>It is the intent of this policy to encourage travel on official City business by the most economical means, i.e., discount airfare, and to maximize City savings on conference expenses, i.e., early bird registration and number of employees permitted to attend the same conference.</text>
-    <text>Out-of-town travel is necessary travel extending beyond City limits for the purpose of conducting official City business. This includes conferences, conventions, seminars, and other approved events dealing with topics of value to the City.</text>
-    <text>Travel within the City limits is necessary travel that does not extend beyond the City's geographic boundaries for the purpose of conducting official City business, to include conventions, seminars, certain qualifying emergency local work and related events.</text>
-    <text>The travel package has been separated into the following sections:</text>
-    <text>
-      <ul>
-        <li>Travel Package Overview (<cite path="§AM-240-1">AM-240-1</cite>)</li>
-        <li>Agency Head Approval (<cite path="§AM-240-2">AM-240-2</cite>)</li>
-        <li>Board of Estimates Approval (<cite path="§AM-240-3">AM-240-3</cite>)</li>
-        <li>Subsistence Allowances (<cite path="§AM-240-5">AM-240-5</cite>) (<cite path="§AM-240-5-1">AM-240-5-1</cite>)</li>
-        <li>Advance Funds/Reimbursement (<cite path="§AM-240-6">AM-240-6</cite>)</li>
-        <li>Travel within City Limits (<cite path="§AM-240-7">AM-240-7</cite>)</li>
-        <li>Transportation (<cite path="§AM-240-8">AM-240-8</cite>)</li>
-        <li>Use: Commercial Transportation (<cite path="§AM-240-9">AM-240-9</cite>)</li>
-        <li>Use: Employee-Owned Vehicles (<cite path="§AM-240-10">AM-240-10</cite>)</li>
-        <li>Employee Expense Report (<cite path="§AM-240-11">AM-240-11</cite>)</li>
-        <li>Executive Search Expenses (<cite path="§AM-240-12">AM-240-12</cite>)</li>
-      </ul>
-    </text>
-    <text>The <strong>TRAVEL REQUEST</strong> form (28-1418-5016) applies to any City representative planning to attend a conference, convention, or seminar, whether out-of-town or within City limits. This request must be approved by the appropriate body if the representative is to have the trip funded by the City. The travel request should be submitted to the Agency Head or Board of Estimates for approval at least 30 calendar days or more prior to scheduled travel if the City is to be advantaged in defraying air travel and conference registration costs.</text>
-    <text>The <strong>AGENCY HEAD APPROVAL</strong> (<cite path="§AM-240-2">AM-240-2</cite>) policy applies if the total travel expenses will not exceed $800 per City representative and such travel will not exceed a five (5) work day absence, or include weekend travel. The agency head may also approve travel expenses of a candidate(s) in connection with filling an executive level position in City government providing they do not exceed $800. In cases of a second interview, the agency head may authorize approval of travel expenses not to exceed an additional $800 for the same candidate to interview for the vacant executive level position. The agency head, also, may approve overtime or compensatory time in those cases where an employee is acting in a work-related capacity but is otherwise not in travel status, e.g., trip chaperones. An amendment to the original request and approval for funds will not be authorized unless the employee's expenses exceeds the original request by $40.00 or more subject to the ceiling of $800. Failure by the employee to properly request travel approval in sufficient time, i.e., 30 calendar days or more, to take advantage of air and conference registration savings may not be approved for additional funds upon amendment. No reimbursement will be authorized for an employee who fails to provide appropriate supportive documentation, i.e., required receipts, etc.</text>
-    <text>The <strong>BOARD of ESTIMATES APPROVAL</strong> policy (<cite path="§AM-240-3">AM-240-3</cite>) applies if certain conditions exist. The following is a list of some of the cases outlined in <cite path="§AM-240-3">AM-240-3</cite> which would require the Board of Estimates approval:</text>
-    <text>
-      <ul>
-        <li>the travel exceeds five (5) work days.</li>
-        <li>the reimbursable funds exceed $800 per City representative. This requirement applies to all travel, even if done in connection with or under the auspices of a City contract</li>
-        <li>the expenses of candidates who interviews for an executive level position with the City exceed $800.</li>
-        <li>compensatory leave or overtime work will be necessary while in travel status, except as provided in <cite path="§AM-240-3">AM-240-3</cite>.</li>
-        <li>the trip will require travel outside the continental United States.</li>
-      </ul>
-    </text>
-    <text>No reimbursement is authorized for an employee who fails to provide appropriate supportive documentation, i.e, required receipts, etc. An amendment to the original request and approval for funds will not be authorized unless the employee's expenses exceed the approved amount by $40 or more. Failure of the employee to properly request travel approval in sufficient time, i.e., 30 calendar days or more, to take advantage of air and conference registration savings may not be approved by the Board upon submission of an amendment for funds approved for travel.</text>
-    <text>The <strong>SUBSISTENCE</strong> (<cite path="§AM-240-5">AM-240-5</cite>) policy specifies reimbursable expenses for the City representative in travel status. The <strong>HIGH RATE GEOGRAPHIC AREAS</strong> procedure (<cite path="§AM-240-5-1">AM-240-5-1</cite>) stipulates the subsistence allowance authorized for certain designated areas where the standard subsistence allowance is not adequate. The standard allowance is established as $91 per day exclusive of the hotel tax. Provided is an exception to the stipulated subsistence allowance for executive level employees attending certain required executive related conferences who may be reimbursed for reasonable costs in excess of the permitted allowance. In addition, where applicable, the hotel tax established for the approved city of travel shall be added to the subsistence allowance.</text>
-    <text>The <strong>ADVANCE FUNDS/REIMBURSEMENT</strong> (<cite path="§AM-240-6">AM-240-6</cite>) policy pertains to optional methods for a City representative to fund an approved City trip. Also specified in this policy is the requirement for City employees to request reimbursement from the City for travel expenses incurred in connection with administering City contracts as well as the requirement for City supervisors to inform the Bureau of Accounting and Payroll Services, Accounts Payable Unit, to bill the appropriate City contractor for City employee travel expenses.</text>
-    <text>The <strong>TRAVEL WITHIN CITY LIMITS</strong> (<cite path="§AM-240-7">AM-240-7</cite>) policy applies to all City representatives who request approval to travel on official City business to include conferences, conventions, seminars, and certain qualifying local work.</text>
-    <text>The <strong>TRANSPORTATION</strong> policy pertains to mode of round-trip transportation to the respective travel site as well as special requirements at the travel site, e.g., use of a rental vehicle. Stipulated is the allowance for airport limousine service expense at each airport. Specifically disallowed is limousine service expense for any other mode of transportation, e.g., train, bus<strong>, </strong>etc.</text>
-    <text>The <strong>COMMERCIAL TRANSPORTATION</strong> (<cite path="§AM-240-9">AM-240-9</cite>) policy pertains to the utilization of commercial transportation, such as mass transit conveyances, trains, cabs, and planes, in the conduct of official City business.</text>
-    <text>The <strong>EMPLOYEE-OWNED VEHICLES </strong>(<cite path="§AM-240-10">AM-240-10</cite>) policy pertains to the utilization of employee-owned personal vehicles in the conduct of official City business, e.g., certain qualifying local work, and sets forth the mileage reimbursement rates for such use.</text>
-    <text>The <strong>EMPLOYEE EXPENSE REPORT</strong> (<cite path="§AM-240-11">AM-240-11</cite><em>) </em>policy specifies the circumstances under which the report must be submitted and sets forth the deadlines for submission of this report.</text>
-    <text>The <strong>EXECUTIVE SEARCH EXPENSES</strong> (<cite path="§AM-240-12">AM-240-12</cite>) policy specifies the circumstances and approval process for obtaining travel expenses associated with interviewing candidate(s) for executive level positions only with the City of Baltimore. It is intended that such expenses subject to the travel policy would be defrayed for candidates determined to be finalists for the executive position.</text>
-  </para>
   <annotations>
     <annotation type="History" effective="1990-10-10" display="true">October 10, 1990</annotation>
     <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>

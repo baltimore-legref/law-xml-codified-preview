@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-290-2-4</num>
+  <heading>Local 44 Flat Scales</heading>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>Grade</th>
+          <th>Minimum</th>
+          <th>Maximum</th>
+          <th>L1-5*</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>840</td>
+          <td>9.52</td>
+          <td>9.52</td>
+          <td>0.29</td>
+        </tr>
+        <tr>
+          <td>845</td>
+          <td>24,484</td>
+          <td>24,484</td>
+          <td>735</td>
+        </tr>
+        <tr>
+          <td>846</td>
+          <td>25,076</td>
+          <td>25,076</td>
+          <td>752</td>
+        </tr>
+        <tr>
+          <td>847</td>
+          <td>25,661</td>
+          <td>25,661</td>
+          <td>770</td>
+        </tr>
+        <tr>
+          <td>848</td>
+          <td>26,040</td>
+          <td>26,040</td>
+          <td>781</td>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <annotations>
+    <annotation type="History" effective="2008-08-23" display="true">August 23, 2008</annotation>
+    <annotation type="History" effective="2011-07-01" display="true">July 1, 2011</annotation>
+  </annotations>
+</section>

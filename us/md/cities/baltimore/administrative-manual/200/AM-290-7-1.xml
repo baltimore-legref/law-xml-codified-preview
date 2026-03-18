@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-290-7-1</num>
+  <heading>Managerial and Professional Society, MAPS, Graded Salary Scale</heading>
+  <text>
+    <table high-density="true">
+      <thead>
+        <tr>
+          <th data-width="96153">Grade</th>
+          <th data-width="100427">Hiring Level</th>
+          <th data-width="100427">Full Performance</th>
+          <th data-width="100427">Experience Level</th>
+          <th data-width="100427">Merit 1</th>
+          <th data-width="100427">Merit 2</th>
+          <th data-width="100427">Merit 3</th>
+          <th data-width="100427">Merit 4</th>
+          <th data-width="100427">Merit 5</th>
+          <th data-width="100427">Merit 6</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td data-width="96153">110</td>
+          <td data-width="100427">40,000</td>
+          <td data-width="100427">41,700</td>
+          <td data-width="100427">48,900</td>
+          <td data-width="100427">50,100</td>
+          <td data-width="100427">51,400</td>
+          <td data-width="100427">52,700</td>
+          <td data-width="100427">54,000</td>
+          <td data-width="100427">55,400</td>
+          <td data-width="100427">56,800</td>
+        </tr>
+        <tr>
+          <td data-width="96153">111</td>
+          <td data-width="100427">41,700</td>
+          <td data-width="100427">44,300</td>
+          <td data-width="100427">52,200</td>
+          <td data-width="100427">53,500</td>
+          <td data-width="100427">54,800</td>
+          <td data-width="100427">56,200</td>
+          <td data-width="100427">57,600</td>
+          <td data-width="100427">59,000</td>
+          <td data-width="100427">60,500</td>
+        </tr>
+        <tr>
+          <td data-width="96153">112</td>
+          <td data-width="100427">44,300</td>
+          <td data-width="100427">46,700</td>
+          <td data-width="100427">54,000</td>
+          <td data-width="100427">55,300</td>
+          <td data-width="100427">56,700</td>
+          <td data-width="100427">58,100</td>
+          <td data-width="100427">59,600</td>
+          <td data-width="100427">61,100</td>
+          <td data-width="100427">62,600</td>
+        </tr>
+        <tr>
+          <td data-width="96153">113</td>
+          <td data-width="100427">46,700</td>
+          <td data-width="100427">48,600</td>
+          <td data-width="100427">56,500</td>
+          <td data-width="100427">57,900</td>
+          <td data-width="100427">59,300</td>
+          <td data-width="100427">60,800</td>
+          <td data-width="100427">62,300</td>
+          <td data-width="100427">63,900</td>
+          <td data-width="100427">65,500</td>
+        </tr>
+        <tr>
+          <td data-width="96153">114</td>
+          <td data-width="100427">48,600</td>
+          <td data-width="100427">51,000</td>
+          <td data-width="100427">59,100</td>
+          <td data-width="100427">60,600</td>
+          <td data-width="100427">62,100</td>
+          <td data-width="100427">63,700</td>
+          <td data-width="100427">65,300</td>
+          <td data-width="100427">66,900</td>
+          <td data-width="100427">68,600</td>
+        </tr>
+        <tr>
+          <td data-width="96153">115</td>
+          <td data-width="100427">51,000</td>
+          <td data-width="100427">53,900</td>
+          <td data-width="100427">62,200</td>
+          <td data-width="100427">63,800</td>
+          <td data-width="100427">65,400</td>
+          <td data-width="100427">67,000</td>
+          <td data-width="100427">68,700</td>
+          <td data-width="100427">70,400</td>
+          <td data-width="100427">72,200</td>
+        </tr>
+        <tr>
+          <td data-width="96153">116</td>
+          <td data-width="100427">53,900</td>
+          <td data-width="100427">56,000</td>
+          <td data-width="100427">65,600</td>
+          <td data-width="100427">67,200</td>
+          <td data-width="100427">68,900</td>
+          <td data-width="100427">70,600</td>
+          <td data-width="100427">72,400</td>
+          <td data-width="100427">74,200</td>
+          <td data-width="100427">76,000</td>
+        </tr>
+        <tr>
+          <td data-width="96153">117</td>
+          <td data-width="100427">56,000</td>
+          <td data-width="100427">58,800</td>
+          <td data-width="100427">68,500</td>
+          <td data-width="100427">70,200</td>
+          <td data-width="100427">72,000</td>
+          <td data-width="100427">73,800</td>
+          <td data-width="100427">75,600</td>
+          <td data-width="100427">77,500</td>
+          <td data-width="100427">79,400</td>
+        </tr>
+        <tr>
+          <td data-width="96153">118</td>
+          <td data-width="100427">58,800</td>
+          <td data-width="100427">61,900</td>
+          <td data-width="100427">72,300</td>
+          <td data-width="100427">74,100</td>
+          <td data-width="100427">76,000</td>
+          <td data-width="100427">77,900</td>
+          <td data-width="100427">79,800</td>
+          <td data-width="100427">81,800</td>
+          <td data-width="100427">83,800</td>
+        </tr>
+        <tr>
+          <td data-width="96153">119</td>
+          <td data-width="100427">61,900</td>
+          <td data-width="100427">64,800</td>
+          <td data-width="100427">75,500</td>
+          <td data-width="100427">77,400</td>
+          <td data-width="100427">79,300</td>
+          <td data-width="100427">81,300</td>
+          <td data-width="100427">83,300</td>
+          <td data-width="100427">85,400</td>
+          <td data-width="100427">87,500</td>
+        </tr>
+        <tr>
+          <td data-width="96153">120</td>
+          <td data-width="100427">64,800</td>
+          <td data-width="100427">68,500</td>
+          <td data-width="100427">78,500</td>
+          <td data-width="100427">80,500</td>
+          <td data-width="100427">82,500</td>
+          <td data-width="100427">84,600</td>
+          <td data-width="100427">86,700</td>
+          <td data-width="100427">88,900</td>
+          <td data-width="100427">91,100</td>
+        </tr>
+        <tr>
+          <td data-width="96153">121</td>
+          <td data-width="100427">68,500</td>
+          <td data-width="100427">71,200</td>
+          <td data-width="100427">82,500</td>
+          <td data-width="100427">84,600</td>
+          <td data-width="100427">86,700</td>
+          <td data-width="100427">88,900</td>
+          <td data-width="100427">91,100</td>
+          <td data-width="100427">93,400</td>
+          <td data-width="100427">95,700</td>
+        </tr>
+        <tr>
+          <td data-width="96153">122</td>
+          <td data-width="100427">71,200</td>
+          <td data-width="100427">74,500</td>
+          <td data-width="100427">86,900</td>
+          <td data-width="100427">89,000</td>
+          <td data-width="100427">91,200</td>
+          <td data-width="100427">93,500</td>
+          <td data-width="100427">95,800</td>
+          <td data-width="100427">98,200</td>
+          <td data-width="100427">100,700</td>
+        </tr>
+        <tr>
+          <td data-width="96153">123</td>
+          <td data-width="100427">74,500</td>
+          <td data-width="100427">77,500</td>
+          <td data-width="100427">90,600</td>
+          <td data-width="100427">92,900</td>
+          <td data-width="100427">95,200</td>
+          <td data-width="100427">97,600</td>
+          <td data-width="100427">100,000</td>
+          <td data-width="100427">102,500</td>
+          <td data-width="100427">105,100</td>
+        </tr>
+        <tr>
+          <td data-width="96153">124</td>
+          <td data-width="100427">77,500</td>
+          <td data-width="100427">82,300</td>
+          <td data-width="100427">95,700</td>
+          <td data-width="100427">98,100</td>
+          <td data-width="100427">100,600</td>
+          <td data-width="100427">103,100</td>
+          <td data-width="100427">105,700</td>
+          <td data-width="100427">108,200</td>
+          <td data-width="100427">111,000</td>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <annotations>
+    <annotation type="History" effective="2008-07-01" display="true">July 1, 2008</annotation>
+    <annotation type="History" effective="2011-07-01" display="true">July 1, 2011</annotation>
+  </annotations>
+</section>

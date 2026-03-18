@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-403-1</num>
+  <heading>Expenditure Authorization Request</heading>
+  <para name="purpose">
+    <heading>PURPOSE</heading>
+    <text>AN EXPENDITURE AUTHORIZATION REQUEST (#28-1428-5022) must be completed for the documents listed below if expenditures from the capital budget will be involved:</text>
+    <text>• Contracts (except real estate contracts).</text>
+    <text>• CHANGE ORDERS (#28-1428-5087), formerly titled EXTRA WORK ORDERS.</text>
+    <text>The purpose of this request is to: (1) serve as a document for the recording of all approval signatures necessary for the execution of the contract or CHANGE ORDER; and (2) supply the Bureau of Accounting and Payroll Services with the necessary information for the encumbrance of required funds.</text>
+  </para>
+  <para name="submission">
+    <heading>SUBMISSION</heading>
+    <text>The EXPENDITURE AUTHORIZATION REQUEST must be submitted to the Bureau of Accounting and Payroll Services (BAPS).</text>
+    <text>If the contract or CHANGE ORDER requires Board of Estimates approval, BAPS will certify funding availability and forward the EXPENDITURE AUTHORIZATION REQUEST to the:</text>
+    <text>Change Order Review Committee – In the case of a CHANGE ORDER.</text>
+    <text>Board of Estimates – In the case of a contract.</text>
+    <text>Upon receipt of its approved copy of the EXPENDITURE AUTHORIZATION REQUEST from the Board of Estimates, the Bureau of Accounting and Payroll Services will encumber the required funds.</text>
+    <text>If the contract or CHANGE ORDER does not require Board of Estimates approval, BAPS will encumber the required funds upon receipt of the EXPENDITURE AUTHORIZATION REQUEST.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1977-03-16" display="true">March 16, 1977</annotation>
+    <annotation type="History" effective="2004-10-01" display="true">October 1, 2004</annotation>
+  </annotations>
+</section>

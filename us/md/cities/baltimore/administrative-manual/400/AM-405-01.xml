@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-405-01</num>
+  <heading>Money Due the City</heading>
+  <para name="charter-provision">
+    <heading>CHARTER PROVISION</heading>
+    <text>In all financial transactions, involving money due the Mayor and City Council of Baltimore City, all City Departments, Agencies, Bureaus, or Commissions must comply with <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite> provision providing that "The Director of Finance shall receive, collect, and account for all moneys due the City from any source whatsoever." Agency heads are encouraged to check the financial statement issued by the Department of Finance for the receipt of funds due their agencies with special emphasis on funds of a non-recurring nature and report any apparent discrepancies to the Department of Audits.</text>
+  </para>
+  <para name="required-statement----responsibility">
+    <heading>REQUIRED STATEMENT -- RESPONSIBILITY</heading>
+    <text>It shall be the responsibility of the head of every City Department, Agency, Board, or Commission to insure that the following statement is included verbatim in all instruments, contract, grants, and miscellaneous documents including insurance policies:</text>
+    <text>Any payment(s) to the Mayor and City council or any of its Departments, Agencies, Boards or Commissions due under the terms of this agreement or arising incident thereto shall be made to the Director of Finance and be mailed or delivered to:</text>
+    <text>
+      <em>Director of Finance<br/>c/o Bureau of Revenue Collections<br/>Abel Wolman Municipal Building<br/>200 N. Holliday Street<br/>Baltimore, MD 21202</em>
+    </text>
+    <text>Wiring instructions may be obtained from the Bureau of Treasury Management.</text>
+    <text>The City Solicitor will not approve for legal sufficiency any instrument not containing the aforementioned statement.</text>
+  </para>
+  <para name="exception">
+    <heading>EXCEPTION</heading>
+    <text>The Director of Finance may authorize an exception to this policy whenever, in his/her opinion, inclusion of the aforementioned statement would not be practicable. Such exception must be in writing with copies to:</text>
+    <text>
+      <ul>
+        <li>City Auditor</li>
+        <li>City Solicitor</li>
+        <li>Clerk to the Board of Estimates</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-10-01" display="true">October 1, 2004</annotation>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
+  </annotations>
+</section>

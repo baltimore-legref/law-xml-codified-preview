@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-200-4-1</num>
+  <heading>Criminal Background Check</heading>
+  <text>The City of Baltimore ("City") is committed to protecting the security, safety, and health of employees, citizens, and individuals conducting business with the City. As a public employer, the City has a vested interest in verifying that City employees have not engaged in behavior that could adversely affect any of its services to the public or otherwise interfere with the workplace. As a result, pre-employment background checks for all positions of trust shall be required to work for the City.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The intent of the Policy is to ensure that the integrity of the City and the safety of its employees and residents are not compromised. The Policy's mandatory pre-employment criminal background check is required to ensure that City Agencies remain compliant with the guidelines outlined by the Equal Employment Opportunity Commission ("EEOC") and is subject to federal, state, and local laws and regulations. To the extent this Policy conflicts with any such laws, the Federal, State, or Local law shall prevail.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all City employees, including regular full and part-time, probationary, seasonal, and temporary employees who are appointed, reinstated, transferred, and/or promoted to a position of trust. Though not considered employees, volunteers are bound by the restrictions of this Policy.</text>
+    <text>This Policy does not apply to sworn members of the Baltimore City Police Department, or positions covered by the Public Local Laws ("PPL") adopted by the General Assembly (Sec. 16-16A, 16B, and 16C), such as Special Traffic Enforcement Officers. PPL gives the Police Commissioner the authorization to appoint such officers and to remove them, and thus to set the criterial used for such actions.</text>
+  </para>
+  <para name="applicant-release-and-authorization-form">
+    <num>III.</num>
+    <heading>APPLICANT RELEASE AND AUTHORIZATION FORM</heading>
+    <text>Prior to either employment with the City or promotion within the City, applicants are required to receive an Applicant Release and Authorization Form from the Agency's Human Resources Practitioner. The Agency's Human Resources Practitioner may only initiate a criminal background check once the Authorization Form is completed and received by the applicant. When the Agency's Human Resources Office receives the Authorization Form, the Authorization Form must immediately be forwarded to the authorized background check vendor, who will conduct a Background Report and send the applicant's result to the Department of Human Resources ("DHR") Recruitment Division. DHR's Director and/or designee is solely responsible for the preliminary review of all Background Reports.</text>
+  </para>
+  <para name="review-of-background-reports">
+    <num>IV.</num>
+    <heading>REVIEW OF BACKGROUND REPORTS</heading>
+    <text>The DHR's Director and/or designee is solely responsible for the preliminary review of all Background Reports. The Agency's Human Resources Office will be notified once the Background Report is reviewed by DHR. In the event there is adverse information in the Background Report, DHR will send without enclosures to the applicant: (1) a Pre-Adverse Letter; (2) the FCRA Summary of Rights; (3) the Noncriminal Justice Applicant's Privacy Act; and (4) the Background Report. DHR will simultaneously send the Agency's Human Resources Office a cover sheet regarding the adverse information in the Background Report and the Pre-Adverse Letter sent to the applicant. During this time, the applicant has five (5) business days from receipt to dispute the contents of the report.</text>
+  </para>
+  <para name="review-of-adverse-background-reports">
+    <num>V.</num>
+    <heading>REVIEW OF ADVERSE BACKGROUND REPORTS</heading>
+    <text>If the applicant chooses to dispute the contents in the Background Report, a panel consisting of the Chief of DHR's Recruitment Division, a representative from DHR's Policy Division, and a representative from the Agency's Human Resources Office will meet with the applicant to discuss the report. After the scheduled meeting, DHR will provide a recommendation to the Agency. If the Agency accepts a recommendation to not hire the applicant, the Agency's Human Resources Office will send an Adverse Action Letter to the applicant with a copy of the letter sent to DHR.</text>
+  </para>
+  <para name="confidentiality">
+    <num>VI.</num>
+    <heading>CONFIDENTIALITY</heading>
+    <text>Due to the sensitive nature of criminal history information, only employees who are authorized to review background checks can review information contained in the report. All persons receiving criminal information regarding an applicant shall maintain the confidentiality of such information in accordance with applicable law. Failure to do so may result in disciplinary action, up to and including termination.</text>
+  </para>
+  <para name="authority">
+    <num>VII.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em><cite path="§AM-002-1-2">AM-002-1-2</cite></em> Administrative Manual wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>VIII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces <cite path="§AM-237-1-1">AM-237-1-1</cite> and <cite path="§AM-237-1-2">AM-237-1-2</cite>]</annotation>
+    <annotation type="Related Policies"><cite path="§AM-200-4">AM-200-4</cite> Positions of Trust</annotation>
+    <annotation type="Related Policies"><cite path="§AM-200-4-2">AM-200-4-2</cite> Criminal Background Check: Sample Adverse Action Letters</annotation>
+  </annotations>
+</section>

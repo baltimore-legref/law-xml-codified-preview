@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-241-2-1</num>
+  <heading>Employee Clearance on Termination</heading>
+  <text>The City of Baltimore ("City") recognizes the importance of maintaining all City-owned property used to complete City operations. When an employee leaves the City, an <em><cite path="§AM-241-2-2">AM-241-2-2</cite> Employee Clearance Checklist</em> ("<em><cite path="§AM-241-2-2">AM-241-2-2</cite></em>") must be completed by the Agency HR Practitioner and employee.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to ensure that all City-owned equipment, records, and City-issued items are returned to the City. In addition, custodian accounts must be accounted for and reconciled, and employee access and user privileges (as applicable) must be revoked for future use.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all employees involved in the City's operations, including, but not limited to, regular full and part-time, probationary, seasonal, temporary, elected officials, and appointed staff for elected officials. Though not considered employees, independent contractors and volunteers are bound by the restrictions of this Policy.</text>
+  </para>
+  <para name="completion-instructions">
+    <num>III.</num>
+    <heading>COMPLETION INSTRUCTIONS</heading>
+    <text><em><cite path="§AM-241-2-2">AM-241-2-2</cite></em> shall be completed on the last day of employment, but no later than three (3) days after separation from the City. The Agency HR Practitioner filling out <em><cite path="§AM-241-2-2">AM-241-2-2</cite></em> shall initial next to all items that have been returned by the departing employee. Once complete, the Agency HR Practitioner and employee shall sign <em><cite path="§AM-241-2-2">AM-241-2-2</cite></em>. One (1) signed copy shall be provided to the employee, one (1) signed copy shall be sent to Department of Finance - Central Payroll, and one (1) signed copy shall be retained in the employee's personnel file.</text>
+  </para>
+  <para name="reported-shortages">
+    <num>IV.</num>
+    <heading>REPORTED SHORTAGES</heading>
+    <text>Restitution is required when the departing employee is responsible for a shortage of equipment or funds. The amount owed may be paid by adjusting the final paycheck. If any unpaid balance still remains, the Department of Finance will issue a "Miscellaneous Bill" to the employee. If the employee does not pay the bill, the Collections Division of the City Law Department will file for a judgment against the employee. If the Court finds in favor of the City, the employee's earnings from any subsequent employer will be garnished until the principal amount (plus court costs, legal fees, and interest) is paid in full.</text>
+  </para>
+  <para name="reported-losses">
+    <num>V.</num>
+    <heading>REPORTED LOSSES</heading>
+    <text>Any loss of keys, key cards, fuel cards, credit cards, or drug prescription cards should be reported to the Agency's HR Practitioner, who will contact the issuing City Agency.</text>
+  </para>
+  <para name="authority">
+    <num>VI.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <cite path="§AM-002-1">AM-002-1</cite> and <cite path="§AM-002-1-2">AM-002-1-2</cite> Administrative Manual wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>VII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces <cite path="§AM-205-5">AM-205-5</cite> &amp; PM 303 April 2008]</annotation>
+    <annotation type="Related Policies"><cite path="§AM-241-2">AM-241-2</cite> Exit Interview</annotation>
+    <annotation type="Related Policies"><cite path="§AM-241-2-2">AM-241-2-2</cite> Employee Clearance Checklist</annotation>
+  </annotations>
+</section>

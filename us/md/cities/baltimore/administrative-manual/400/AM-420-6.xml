@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-420-6</num>
+  <heading>Capital Budget Preparation</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Planning Commission is responsible for recommending the proposed capital budget for the consideration of the Board of Estimates. In discharging this responsibility, the Planning Commission will require specified budgetary material from each agency head as is deemed necessary.</text>
+  </para>
+  <para name="budgetary-requirements">
+    <heading>BUDGETARY REQUIREMENTS</heading>
+    <text>As required by <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, the proposed capital budget is submitted to the Board of Estimates by the Planning Commission for inclusion in the proposed Ordinance of Estimates. It contains the following material:</text>
+    <text>
+      <ul>
+        <li>Capital budget requests submitted by each agency head.</li>
+        <li>A long-range Capital Improvement Program (CIP).</li>
+        <li>Specified material directed by the Board of Estimates.</li>
+        <li>Planning Commission recommendations.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="detailed-instructions">
+    <heading>DETAILED INSTRUCTIONS</heading>
+    <text>Detailed instructions for complying with the Board of Estimates charge to the Planning Commission are distributed to each agency by the Department of Planning during the month of October. Agency requests are returned to the Department of Planning by the date indicated in the Capital Budget Instructions.</text>
+    <text>The Capital Budget Instructions, prepared by the Department of Planning, are designed to assist agencies in the preparation of their budget requests. The instructions include information needed to develop a budget, instructions on how to access the CIP intranet site and complete required forms, and samples of completed forms.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-10-27" display="true">October 27, 2004</annotation>
+    <annotation type="History" effective="2016-10-13" display="true">October 13, 2016</annotation>
+  </annotations>
+</section>

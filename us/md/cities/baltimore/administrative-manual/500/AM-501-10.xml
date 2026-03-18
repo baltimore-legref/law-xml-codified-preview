@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-501-10</num>
+  <heading>Motor Vehicle Accident</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy governs those actions to be taken when a City employee is involved in a motor vehicle accident while in the conduct of City business and/or when the accident involves the use of a City-owned vehicle or in a personal vehicle while on City business.</text>
+    <text>It is the responsibility of the agency bureau head or designee to ensure that the required <a href="https://cobweb.baltimorecity.gov/bbmr/administrative/policies/AM-501-10-1.pdf">MOTOR VEHICLE ACCIDENT REPORT (MVAR form #28-1758-5026) </a>has been completed, signed and submitted to the Central Bureau of Investigation (CBI), Law Department; Office of Risk Management/Division of Occupational Safety (ORM/DOS), Finance Department; Central Garage Division, Department of Public Works; and the agency head within 24 hours following an accident.  A supply of this form must be carried in the glove compartments of all City-owned vehicles at all time.</text>
+  </para>
+  <para name="required-actions">
+    <heading>REQUIRED ACTIONS</heading>
+    <text>When involved in a motor vehicle accident, an employee must:</text>
+    <text>
+      <ul>
+        <li>Summon the local police to the scene of the accident.</li>
+        <li>Make no statements at the scene of the accident to anyone except the investigating police officer, an identified investigator from CBI or an identified investigator from the ORM/DOS.</li>
+        <li>Obtain names and addresses of person(s) involved in the accident.</li>
+        <li>Call 311 to report the details of the accident.  (see "Motor Vehicle Reporting Requirement" as listed  at the end of this policy)</li>
+        <li>Notify the agency you work for if you are injured as soon as practical and if there is an injury, complete an Employee Injury Report (EIR) and have your supervisor call the claim/injury details into ActecSystems at 1- 877-607-8600.</li>
+        <li>Submit the Motor Vehicle Accident Report (MVAR) within 24 hours to the parties identified in the above section and on the report form.</li>
+        <li>Notify CBI or ORM/DOS as necessary. (ORM/DOS is responsible for notifying Maryland Occupational Safety and Health Administration (MOSHA) of certain injuries.)</li>
+      </ul>
+    </text>
+  </para>
+  <para name="injury">
+    <heading>INJURY</heading>
+    <text>If the employee is injured and is able to be transported, the employee (with completed EIR) shall immediately report to the Baltimore City Occupational Medical Services (Mercy Clinic) facility, 323 N. Calvert Street (after hours employee injuries are to be seen/treated at the Emergency Room - Mercy Hospital). If an employee is to be treated at any other hospital or other emergency facility, the immediate supervisor must be notified of where he/she is being treated.</text>
+    <text>If an employee is injured in the accident, an EMPLOYEE INCIDENT REPORT (EIR) (form #28-1608-5149) must be completed and submitted by the agency head or designee to those listed on the form.</text>
+  </para>
+  <para name="property-damage">
+    <heading>PROPERTY DAMAGE</heading>
+    <text>The employee or their supervisor must immediately call 311 Call Center and report the accident details for any motor vehicle accident that resulted in property damage. Employees should call 410-396-3400 if calls are made between 8:30 a.m. and 4:30 p.m., Monday through Friday. After-hour calls should be made to 410-396-3100 where the City Hall operator will connect the employee with the CBI duty officer.</text>
+  </para>
+  <para name="drug-and-alcohol-testing">
+    <heading>DRUG AND ALCOHOL TESTING</heading>
+    <text>All drivers involved in an accident while operating a City-owned vehicle or while in performance of their City work, even in a privately-owned vehicle, shall be tested immediately for a complete drug and alcohol screening at the Baltimore City Occupational Medical Services (Mercy Clinic), 323 N. Calvert Street, <strong>after hours at Mercy Emergency Room</strong> per the City's Substance Abuse Control Policy.  The supervisor is required to escort or assign a designee to escort the employee to the Mercy Clinic for testing following an accident.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-12-15" display="true">December 15, 2004</annotation>
+    <annotation type="History" effective="2012-10-03" display="true">October 3, 2012</annotation>
+  </annotations>
+</section>

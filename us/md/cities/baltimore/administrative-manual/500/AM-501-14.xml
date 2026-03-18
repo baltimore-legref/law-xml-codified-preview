@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-501-14</num>
+  <heading>Seat Belt Use</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>All employees of the City of Baltimore are required to wear seat belts (at all times while the vehicle is in operation) when traveling in city-owned/leased vehicles for any purpose or while driving their personal vehicles on City business. <strong>All occupants including the driver and any and all passenger(s) shall wear seat belts</strong>. No vehicle shall be operated unless all occupants are secured by a seat belt. This policy also applies to employees while operating moving and/or in-gear motorized off-road equipment.</text>
+    <text>This policy will also apply to consultants, volunteers and staff (either provided by temporary employment agencies or doing business directly with the City (including seasonal employees) while operating their own personal vehicles on City business.</text>
+  </para>
+  <para name="definitions">
+    <heading>DEFINITIONS</heading>
+    <text><em>Employee</em>: Any individual employed by, who works for and or is paid by the City of Baltimore. This includes (but is not limited to) hourly and salaried workers, supervisors, managers, department heads, bureau and agency chiefs, elected officials and their appointed staffs, consultants, volunteers and staff from employment agencies.</text>
+    <text><em>Operation</em>: The vehicle is considered to be in "operation" when the key is turned to the on position and the engine is running.</text>
+  </para>
+  <para name="disciplinary-action">
+    <heading>DISCIPLINARY ACTION</heading>
+    <text>Failure to comply with this policy may result in the suspension/revocation of an employee's City of Baltimore Driver Permit/Authorization and/or may also result in progressive disciplinary action for <strong>any</strong> occupant. Disciplinary action for sworn and civilian members of the Baltimore Police Department shall be in accordance with the provisions and directives contained in its General Orders. Disciplinary action for employees of the Fire Department will be in accordance with the Manual of Procedure.</text>
+    <text>
+      <em>Seat Belt Visual Audits</em>
+    </text>
+    <text>The Office of Risk Management/Division of Occupational Safety will be conducting random visual inspection audits to see if the driver and occupants of the City vehicle are wearing seat belts.  The audit will show the date and time of the infraction as well as the location and vehicle ID number (and tag if available).  Once that information is gathered, it will be turned over to the responsible Agency for progressive disciplinary to take place against those in violation of the policy.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2009-05-17" display="true">May 17, 2009</annotation>
+    <annotation type="History" effective="2012-10-03" display="true">October 3, 2012</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-2">AM-501-2</cite> Training Courses, Driver Permits, Authorizations and Licenses for City-Owned Vehicles</annotation>
+  </annotations>
+</section>

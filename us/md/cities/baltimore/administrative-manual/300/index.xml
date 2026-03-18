@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Section</prefix>
+  <num>300</num>
+  <heading>Procurement</heading>
+  <xi:include href="./AM-301-1.xml"/>
+  <xi:include href="./AM-301-02.xml"/>
+  <xi:include href="./AM-301-3.xml"/>
+  <xi:include href="./AM-301-3-2.xml"/>
+  <xi:include href="./AM-301-5.xml"/>
+  <xi:include href="./AM-301-10.xml"/>
+  <xi:include href="./AM-301-10-1.xml"/>
+  <xi:include href="./AM-303-01.xml"/>
+  <xi:include href="./AM-303-2.xml"/>
+  <xi:include href="./AM-303-3.xml"/>
+  <xi:include href="./AM-303-4.xml"/>
+  <xi:include href="./AM-304-1.xml"/>
+  <xi:include href="./AM-305-1, Part I.xml"/>
+  <xi:include href="./AM-305-1, Part II.xml"/>
+  <xi:include href="./AM-306-1.xml"/>
+  <xi:include href="./AM-306-1-1.xml"/>
+  <xi:include href="./AM-307-1.xml"/>
+  <xi:include href="./AM-308-1.xml"/>
+  <xi:include href="./AM-309-1.xml"/>
+  <xi:include href="./AM-309-1-1.xml"/>
+</container>

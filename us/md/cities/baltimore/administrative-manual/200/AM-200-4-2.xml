@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-200-4-2</num>
+  <heading>Criminal Background Check: 	Sample Adverse Action Letters</heading>
+  <para name="sample-adverse-action-preliminary-letter-to-the-applicant">
+    <heading>SAMPLE ADVERSE ACTION PRELIMINARY LETTER TO THE APPLICANT</heading>
+    <text>
+      <strong>Applicant/Employee</strong>
+    </text>
+    <text>
+      <strong>Address 1</strong>
+    </text>
+    <text>
+      <strong>City, State, Zip code</strong>
+    </text>
+    <text>Dear <strong>Applicant/Employee</strong>,</text>
+    <text>Enclosed is a consumer report that we requested in connection with your application for employment with the City of Baltimore's <strong>Agency ("Agency Abbreviation")</strong>. In accordance with the Federal Fair Credit Reporting Act, also enclosed is a copy of your rights under the Act.</text>
+    <text>Based on our hiring criteria and the contents of your Criminal Background Report, we have made a preliminary recommendation to <strong>Agency</strong> not to consider you further for employment.</text>
+    <text>Unless you choose to contest this preliminary recommendation within five (5) business days of the date of this notice to explain any negative information found in your Criminal Background Report, a final decision will be issued by <strong>Agency</strong> regarding your employment with the City of Baltimore. If you choose to explain any negative information, please contact me at <strong>Chief of Recruitment's Phone Number</strong>.</text>
+    <text>You have the right to dispute the accuracy of the information in this report by directly contacting [the authorized background check vendor], the consumer agency in connection with your report. [The authorized background check vendor] did not, however, make this employment decision. [The authorized background check vendor] can be reached by mail at [address of the authorized background check vendor], or by phone at [phone number of the authorized background check vendor].</text>
+    <text>Sincerely,</text>
+    <text>
+      <strong>Name of DHR's Chief of Recruitment</strong>
+    </text>
+    <text>Chief, Recruitment</text>
+    <text>cc: <strong>HR Business Partner, Agency</strong> (w/o encls.)</text>
+    <text>Enclosures: Copy of Criminal Background Report</text>
+    <text>FCRA Notice of Rights</text>
+    <text>Noncriminal Justice Applicant's Privacy Rights</text>
+  </para>
+  <para name="sample-adverse-action-letter-to-the-applicant">
+    <heading>SAMPLE ADVERSE ACTION LETTER TO THE APPLICANT</heading>
+    <text>
+      <strong>Applicant Name</strong>
+    </text>
+    <text>
+      <strong>Address</strong>
+    </text>
+    <text>
+      <strong>City, State, Zip code</strong>
+    </text>
+    <text>Dear <strong>Applicant</strong>,</text>
+    <text>We regret to inform you that based on our hiring criteria, we are unable to consider you further for the position applied for/an employment opportunity with the City of Baltimore's <strong>Name of Agency ("Abbreviation")</strong>. This decision was made in part from the information we received from [the authorized background check vendor], our employment screening vendor. [The authorized background check vendor] does not make these decisions and is unable to provide you with the specific reasons for them.</text>
+    <text>In accordance with the Fair Credit Reporting Act, you have previously received a copy of this information and a copy of your rights under the Act. You also have the right to obtain an additional free copy of the report within 60 days of your receipt of this letter by contacting [the authorized background check vendor] at the address and telephone number below. Please refer to these documents if you have further questions. You have the right to dispute the accuracy or completeness of the information contained in the report(s) by contacting [the authorized background check vendor].</text>
+    <text>[The authorized background check vendor's] forms for the reinvestigation can be found at [domain address of the authorized background check vendor]. If you do not have internet access, you may alternatively contact [the authorized background check vendor] by mail or telephone.</text>
+    <text>[Address and phone number of the authorized background check vendor]</text>
+    <text>Thank you for your interest in employment with the City of Baltimore.</text>
+    <text>Sincerely,</text>
+    <text>
+      <strong>Signature of Agency HR Representative</strong>
+    </text>
+    <text>
+      <strong>HR Representative Name</strong>
+    </text>
+    <text>
+      <strong>HR Representative Title</strong>
+    </text>
+    <text>cc: Chief, DHR Recruitment</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2018-07-25" display="true">July 25, 2018</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-10.pdf">
+  <prefix>Policy</prefix>
+  <num>AM-240-10</num>
+  <heading>Employee-Owned Vehicle</heading>
+  <annotations>
+    <annotation type="History" effective="2016-10-26" display="true">October 26, 2016</annotation>
+    <annotation type="History" effective="2017-01-01" display="true">January 1, 2017</annotation>
+    <annotation type="Related Policies"><cite path="§AM-239-1">AM-239-1</cite> ELECTED OFFICIALS' BUSINESS EXPENSES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-2">AM-240-2</cite> AGENCY HEAD APPROVAL</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-3">AM-240-3</cite> BOARD OF ESTIMATES APPROVAL</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-11">AM-240-11</cite> EMPLOYEE EXPENSE REPORT</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-2, Part I">AM-501-2 PART I</cite>,	Training Courses/Driver Permits/Authorizations/ Licenses for City-Owned Vehicles</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-7">AM-501-7</cite> MMVFC - ASSIGNED VEHICLES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-510-10">AM-510-10</cite> Motor Vehicle Accident</annotation>
+    <annotation type="Related Policies">SACP,				Substance Abuse Control PolicY</annotation>
+  </annotations>
+</section>

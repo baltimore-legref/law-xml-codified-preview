@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-301-5</num>
+  <heading>Procurement of Reproduction and Printing Equipment, Accessories, &amp; Service Contracts</heading>
+  <para name="printing-equipment,-accessories,-maintenance-contracts">
+    <heading>PRINTING EQUIPMENT, ACCESSORIES, MAINTENANCE CONTRACTS</heading>
+    <text>In order to purchase or lease any of the items listed below an agency must submit a PURCHASE JUSTIFICATION DETAIL (28-1448-5127) [<cite path="§AM-301-5-1">AM-301-5-1</cite>] and a PURCHASE REQUISITION (28-1448-5123) [<cite path="§AM-301-1-1">AM-301-1-1</cite>] to the Bureau of Purchases:</text>
+    <text>
+      <ul>
+        <li>Reproduction and printing equipment (e.g. photocopiers, offset duplicators, type setting equipment, and bindery equipment). Mimeograph equipment or spirit duplicators are <u>not</u> included.</li>
+        <li>Accessories for reproduction and printing equipment.</li>
+        <li>Maintenance or service contracts for reproduction and printing equipment.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="evaluation">
+    <heading>EVALUATION</heading>
+    <text>The Bureau of Purchases has the authority to alter or reject an agency's procurement request. Before purchasing or leasing any reproduction and printing equipment, accessories, or maintenance contracts, the Bureau of Purchases will evaluate the agency's request to determine the following:</text>
+    <text>
+      <ul>
+        <li>Whether the agency has sufficient need to justify the use of reproduction and printing equipment, accessories, or maintenance contracts.</li>
+        <li>Whether the agency's needs can be met through the utilization of existing City facilities. Specifically, the following alternatives to the requested purchase or lease will be studied.</li>
+        <li>The feasibility of utilizing the Reproduction and Printing Division of the Bureau of Purchases to provide the necessary services. [<cite path="§AM-504-1">AM-504-1</cite>]</li>
+        <li>The feasibility of utilizing facilities of another City agency to provide the necessary services.</li>
+        <li>The feasibility of expanding existing facilities (either those of Reproduction and Printing or another agency) to provide the necessary services.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="renewal-of-lease-agreements">
+    <heading>RENEWAL OF LEASE AGREEMENTS</heading>
+    <text>For renewal of a continuing lease agreement, agencies must submit a PURCHASE REQUISITION to the Bureau of Purchases at the start of the fiscal year to cover the cost of the year's lease.</text>
+    <text>If the renewed lease will include changes or additions to existing equipment, a PURCHASE JUSTIFICATION DETAIL must also be submitted to the Bureau of Purchases with the PURCHASE REQUISITION.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1976-02-18" display="true">February 18, 1976</annotation>
+  </annotations>
+</section>

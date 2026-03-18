@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-400-3</num>
+  <heading>Indirect Cost Reimbursement for Federal Grants and Contracts</heading>
+  <para name="federal-requirement">
+    <heading>FEDERAL REQUIREMENT</heading>
+    <text>The Federal Government requires recipients of federal grants and contracts to submit overhead rate proposals for its approval in order to claim reimbursement for any overhead costs chargeable to a federal grant or contract (see Federal OMB Circular A-87).</text>
+    <text>In some cases, overhead is used as part of the local "match." If the overhead rate proposals are <u>not</u> submitted, the City will have to use cash, rather than overhead, to supply any required "match."</text>
+  </para>
+  <para name="assistance-in-ppreparing-proposals">
+    <heading>ASSISTANCE IN PPREPARING PROPOSALS</heading>
+    <text>Due to the complexity of preparing these overhead rate proposals, the Bureau of Accounting Operations is providing assistance to all City agencies who receive federal funds.</text>
+    <text>If your agency is currently receiving federal funds, <u>immediately</u> set up an appointment with Accounting by calling or writing:</text>
+    <text>Sandra Stecker<br/>					Bureau of Accounting and Payroll Services<br/>					4<sup>th</sup> Floor<br/>					401 E. Fayette St.<br/>					Phone: 401-396-3767</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1973-11-09" display="true">November 9, 1973</annotation>
+    <annotation type="History" effective="2016-09-09" display="true">September 9, 2016</annotation>
+  </annotations>
+</section>

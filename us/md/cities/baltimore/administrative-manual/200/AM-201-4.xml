@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-201-4</num>
+  <heading>Employment Eligibility Verification</heading>
+  <text>The City of Baltimore ("City") is required by the Immigration Reform and Control Act of 1986 to verify the work eligibility of newly-hired employees by obtaining a completed Form I-9 Employment Eligibility Verification ("I-9 Form") for each employee hired on or after November 6, 1986. The City shall also ensure that the retention of all I-9 Forms and supplemental documentation is in accordance with this Policy.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to permit the City to inspect and verify documentation which establishes both the identity and the employment authorization of every new employee. All new employees must submit a document or combination of documents to satisfy that they are authorized to work in the United States.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all individuals working for the City and is compensated for their services, including full and part-time employees, temporary employees. This Policy may apply to unpaid employees if it is determined that they will receive something of value in exchanges for their labor or services. However, this Policy is not applicable to independent contractors and their employees, interns, or volunteers.</text>
+  </para>
+  <para name="requirements">
+    <num>III.</num>
+    <heading>REQUIREMENTS</heading>
+    <para>
+      <num>A.</num>
+      <heading>I-9 Form Completion</heading>
+      <text>Prospective employees are required to complete the employee portion of the I-9 Form and provide the document(s) verifying work eligibility the date the employee is hired. Prior to the hire date, a prospective employee may only be advised that an I-9 Form is to be completed and to provide documentation verifying work eligibility. To request this information during any portion of the application process can be perceived as discriminatory and may result in sanctions imposed upon the City.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Documentation Requirements</heading>
+      <text>A list of acceptable document(s) for proof of work eligibility is available at <a href="https://www.uscis.gov/i-9-central/acceptable-documents">https://www.uscis.gov/i-9-central/acceptable-documents</a>. Only the employee shall designate which document(s) to submit. The Agency's Human Resources Office may not require a specific document among those listed, nor require additional documents for completing the form, beyond those which establish identity and work authorization.</text>
+    </para>
+  </para>
+  <para name="hire-dates">
+    <num>IV.</num>
+    <heading>HIRE DATES</heading>
+    <para>
+      <num>A.</num>
+      <heading>Employees Hired Prior to November 6, 1986</heading>
+      <text>Employees hired prior to November 6, 1986 are not required to complete an I-9 Form.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Employees Hired On or After November 6, 1986</heading>
+      <text>A new employee should provide the required document(s) at the time of hiring. If the employee is unable to comply with this requirement, the employee must be given three (3) business days to produce evidence, such as a receipt verifying application for a social security card or driver's license, to prove that the employee has applied for a specific document. The employee is responsible for producing the document within 90 calendar days of hire, or else they are subject to termination. However, on or before the commencement of employment, the employee must have indicated in Section 1 of the I-9 Form of their eligibility to work in the United States.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Rehired Employees</heading>
+      <text>An employee who is rehired is required to complete a new I-9 Form, even if the employee was originally hired after Nov. 6, 1986.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <heading>Employment of Minors</heading>
+      <text>Information regarding the employment of Minors can be found in <em><cite path="§AM-201-5">AM-201-5</cite> Work Permit for Minor (<cite path="§AM-201-5">AM-201-5</cite>)</em>.</text>
+    </para>
+  </para>
+  <para name="processing-documentation">
+    <num>V.</num>
+    <heading>PROCESSING DOCUMENTATION</heading>
+    <para>
+      <num>A.</num>
+      <heading>Completed Documentation</heading>
+      <text>Prospective employees must complete an I-9 Form and provide all supplemental documents to the Agency's Human Resources Office. Supplemental documents are to be used for the purpose of establishing employment eligibility and are to be retained only with this form. Once documentation is complete and verified as correct by the Agency's Human Resources Office, the I-9 Form and supplemental documents shall be filed in accordance with this Policy and may not be placed in an employee's personnel file (See <em>§VI. Storage</em>).</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Incomplete Documentation</heading>
+      <text>If an employee is hired with incomplete documentation, the employee shall be given three (3) business days to present a receipt verifying the application for a specific document. Upon receipt of verification that an employee has applied for a specific document, the City may employ that individual for up to ninety (90) calendar days from the date of hire, without being in violation of the law. If the required documentation is not received by the Agency's Human Resources Office, a memorandum shall be issued by the Agency's Human Resources Office via mail to the employee stating that the documentation must be completed and forwarded to the Agency's Human Resources Office within ninety (90) calendar days of hire, or else the employee will be subject to termination.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Dated Documentation</heading>
+      <text>If a work authorization expires, the I-9 Form must be updated so the employee may continue to work. The employee must either present a document that shows an extension of work eligibility, or a new grant-of-work authorization prior to the expiration date. The Agency's Human Resources Office will retain a list of affected employees and advise the Agency Head when the document(s) are due to expire. Without an extension of work eligibility, or a new grant-of-work authorization, the employee shall be terminated.</text>
+    </para>
+  </para>
+  <para name="storage">
+    <num>VI.</num>
+    <heading>STORAGE</heading>
+    <text>Due to the sensitive information contained in I-9 Forms, the forms should be maintained separately from employee personnel files. Separating I-9 Forms from personnel records also allows for ease of access to information when an Agency receives an official request. Although forms may be maintained either by paper, microfilm/microfiche, or electronically, a hard-copy I-9 Form binder is the recommended form of retention by the Agency's Human Resources Office.</text>
+    <text>The I-9 Form and its supplemental documentation shall be retained in the Agency's Human Resources Office for at least three years. If an employee has worked for the City for more than three years, the employee's form shall be retained in the Agency's Human Resources Office for one year following separation from the City. Any I-9 Forms that have retention dates that have passed should be pulled and shredded.</text>
+  </para>
+  <para name="prohibited-conduct">
+    <num>VII.</num>
+    <heading>PROHIBITED CONDUCT</heading>
+    <text>The City shall not discharge a current employee, refuse to appoint a new employee, or otherwise discriminate on the basis of foreign appearance, language, or name. Discrimination against an employee or applicant on the basis of national origin may result in sanctions due to violating Title VII of the Civil Rights Act of 1964. Individuals using fraudulent identification or employment eligibility documents for the purposes of satisfying the employment eligibility requirements will face imprisonment or receive a fine, or both, in addition to termination.</text>
+  </para>
+  <para name="compliance">
+    <num>VIII.</num>
+    <heading>COMPLIANCE</heading>
+    <text>Violation of this Policy may result in disciplinary action, up to and including termination of employment. In addition, failure to comply with an official request to audit I-9 Forms within an Agency will result in certain sanctions imposed on the City.</text>
+  </para>
+  <para name="authority">
+    <num>IX.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em><cite path="§AM-002-1-2">AM-002-1-2</cite> Administrative Manual</em> wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>X.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2017-12-13">December 13, 2017 [replaces <cite path="§AM-205-4">AM-205-4</cite>]</annotation>
+    <annotation type="Related Policies"><cite path="§AM-201-5">AM-201-5</cite> Work Permit for Minor</annotation>
+  </annotations>
+</section>

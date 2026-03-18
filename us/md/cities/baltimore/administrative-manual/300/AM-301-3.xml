@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-301-3</num>
+  <heading>Floor-Space Requests and Rent Payments</heading>
+  <text>All applications for the following types of floor space must be submitted to the Space Utilization Committee and approved by the Board of Estimates:</text>
+  <text>
+    <ul>
+      <li>Requests for rental of real property.</li>
+      <li>Requests for lease renewals and extensions.</li>
+      <li>Requests for space in City-owned buildings.</li>
+    </ul>
+  </text>
+  <text>Applications should be sent to Room 400, Temporary City Hall, 26 S. Calvert St.</text>
+  <para name="approval-of-space-requests">
+    <heading>APPROVAL OF SPACE REQUESTS</heading>
+    <text>The above types of space requests must be submitted to the Space Utilization Committee at least <u>4 months</u> prior to either the beginning of the expected lease period or the date that the space will be needed.</text>
+    <text>The Space Utilization Committee will forward the request to the Department of Finance and the Department of Planning, for comment prior to review.</text>
+  </para>
+  <para name="rent-payment">
+    <heading>RENT PAYMENT</heading>
+    <text>A PURCHASE REQUISITION and DEPARTMENTAL RECEIVING NOTICE - - FOR PARTIAL SHIPMENT must be submitted at specific times in order for payment to take place. See <cite path="§AM-301-3-2">AM-301-3-2</cite> for details.</text>
+  </para>
+  <para name="termination-of-lease">
+    <heading>TERMINATION OF LEASE</heading>
+    <text>If upon expiration of the current lease, no lease renewal or other space will be required, the Space Utilization Committee must be informed <u>in writing</u> of the lease termination, 4 months prior to the lease expiration date.</text>
+  </para>
+  <para name="surplus-space">
+    <heading>SURPLUS SPACE</heading>
+    <text>Agencies must promptly notify the Space Utilization Committee when any or all space which is presently under their jurisdiction is no longer required.</text>
+  </para>
+  <para name="requests-for-rental-of-city-buildings">
+    <heading>REQUESTS FOR RENTAL OF CITY BUILDINGS</heading>
+    <text>Agencies must refer all requests for the rental or use of City-owned buildings to the Space Utilization Committee.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1975-11-03" display="true">November 3, 1975</annotation>
+  </annotations>
+</section>

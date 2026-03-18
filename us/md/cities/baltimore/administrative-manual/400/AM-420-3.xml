@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-420-3</num>
+  <heading>Operating Budget Preparation</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Director of Finance is responsible for preparing a recommended operating budget (Preliminary Budget Plan) for the approval of the Board of Estimates. In discharging this responsibility, the Director of Finance, through the Bureau of the Budget and Management Research, will require specified budgetary material from each agency head as is deemed necessary to develop and produce a recommended operating budget.</text>
+  </para>
+  <para name="budgetary-requirements">
+    <heading>BUDGETARY REQUIREMENTS</heading>
+    <text>As required by <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, the Preliminary Budget Plan submitted to the Board of Estimates by the Director of Finance for inclusion in the proposed Ordinance of Estimates will contain the following material:</text>
+    <text>
+      <ul>
+        <li>Budget requests submitted by each agency head for the next fiscal year.</li>
+        <li>Specified material directed by the Board of Estimates.</li>
+        <li>Recommendations of the Director of Finance.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="detailed-instructions">
+    <heading>DETAILED INSTRUCTIONS</heading>
+    <text>Detailed instructions for complying with the Board of Estimates charge to the Director of Finance are distributed to each agency by the Bureau of the Budget and Management Research, BBMR, usually during the month of October. Agency requests for a current level of service budget, and if required, a budget plan in accordance with a designated target, are returned to BBMR in accordance with duties included in the Operating Budget Instructions. The instructions, which are prepared by BBMR, are designed to assist agencies in the preparation of their budget requests, and includes information needed to develop a budget, instructions on how to complete required forms, and samples of completed forms and deadlines for submission.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-12-07" display="true">December 7, 2004</annotation>
+    <annotation type="History" effective="2016-10-13" display="true">October 13, 2016</annotation>
+  </annotations>
+</section>

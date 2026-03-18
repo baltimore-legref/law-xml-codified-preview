@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-420-8</num>
+  <heading>Capital Budget: Objects/Sub-Objects of Expenditure</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>An object of expenditure is a group of like services or related articles for which payment must be rendered to fulfill performance of the program. Objects of expenditure are further subdivided into sub-objects.</text>
+  </para>
+  <para name="definitions">
+    <heading>DEFINITIONS</heading>
+    <text>The following is a listing of standard objects and sub-objects of expenditure which apply to the Capital portion of the City's budget.  A comprehensive listing may be found on a current City Chart of Accounts as provided by the Bureau of Accounting and Payroll Services.</text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td/>
+            <th>
+              <em>OBJECTS OF EXPENDITURE</em>
+            </th>
+          </tr>
+          <tr>
+            <th>1 Disposition Costs</th>
+            <td>All costs incurred with sale of real property.</td>
+          </tr>
+          <tr>
+            <th>2 Extra Work</th>
+            <td>Extra Work and Contingencies.</td>
+          </tr>
+          <tr>
+            <th>3 Design and Studies</th>
+            <td>The preliminary planning of a project prior to letting the contract and continues during its construction.  Includes work done by City personnel as well as outside contractors.</td>
+          </tr>
+          <tr>
+            <th>4 Site</th>
+            <td>This includes purchase price and costs such as legal and administration fees, filling and excavation costs, and the like which are incurred to put the land in condition for its intended use.  Includes survey and appraisal.</td>
+          </tr>
+          <tr>
+            <th>5 Inspection</th>
+            <td>Cost of City Inspection or outside contracts and includes all expenditures relative to the inspection such as salaries, transportation, meals and payments to outside inspectors.</td>
+          </tr>
+          <tr>
+            <th>6 Structures and Improvements</th>
+            <td>All costs of constructions of the capital project as specified in the applicable construction contract.</td>
+          </tr>
+          <tr>
+            <th>7 Utilities</th>
+            <td>The costs incurred when providing the capital project with such utilities as water, sewer, gas, electric and steam.</td>
+          </tr>
+          <tr>
+            <th>8 Furniture and Equipment</th>
+            <td>The cost of furniture and equipment required to convert the capital structure into a usable facility.</td>
+          </tr>
+          <tr>
+            <th>9 General</th>
+            <td>To be used only where none of the above apply.</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td/>
+            <th>
+              <em>SUB-OBJECTS OF EXPENDITURE</em>
+            </th>
+          </tr>
+          <tr>
+            <th>1 Regular</th>
+            <td>Salaries to City officials and employees for services rendered on a continuing basis.</td>
+          </tr>
+          <tr>
+            <th>2 Temporary</th>
+            <td>Salaries to employees for services rendered on an intermittent or short term basis.</td>
+          </tr>
+          <tr>
+            <th>3 Part-time</th>
+            <td>Salaries to employees who work less than the schedules normal salary work week.</td>
+          </tr>
+          <tr>
+            <th>4 Shift Differential</th>
+            <td>Additional compensation to employees regularly assigned to night or shift work.</td>
+          </tr>
+          <tr>
+            <th>5 Overtime</th>
+            <td>Salaried employees – Overtime payment to salaried employees for services rendered beyond their regular work schedule.</td>
+          </tr>
+          <tr>
+            <th>6 Meal allowance</th>
+            <td>Allowance for meals to employees who are required to work more than three hours beyond their regular schedule.</td>
+          </tr>
+          <tr>
+            <th>8 Sick Leave Conversion</th>
+            <td>Payments to employees for unused sick leave.  (Use 908)</td>
+          </tr>
+          <tr>
+            <th>9 Contract Salaries</th>
+            <td>Payments to employees for services rendered under terms of individual contract authorizations.</td>
+          </tr>
+          <tr>
+            <th>10 Major Medical  (City)</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>12 Prescription Plan</th>
+            <td>Payments for cost of premium for the City drug plan for employees other than educational.</td>
+          </tr>
+          <tr>
+            <th>13 Vision Care</th>
+            <td>Payments for cost of premiums of City optical plan for employees exclusive of M.A.P.S. and educational.</td>
+          </tr>
+          <tr>
+            <th>17 Vacation</th>
+            <td>Regular  (Use 917)</td>
+          </tr>
+          <tr>
+            <th>18 Sick Leave</th>
+            <td>Regular  (Use 918)  (No S.S.)</td>
+          </tr>
+          <tr>
+            <th>19 Personal Leave</th>
+            <td>Regular  (Use 919)</td>
+          </tr>
+          <tr>
+            <th>21 Social Security Regular</th>
+            <td>Employer's share of Social Security payments (FICA).</td>
+          </tr>
+          <tr>
+            <th>22 Employees' Retirement System</th>
+            <td>City Share of Retirement System Contributions.</td>
+          </tr>
+          <tr>
+            <th>23 Workmen's Compensation</th>
+            <td>Compensation payments to employees and State Accident Fund administrative costs.</td>
+          </tr>
+          <tr>
+            <th>24 Unemployment Compensation</th>
+            <td>Compensation payments to persons whose full-time employment was terminated as a result of abolishment of their position.</td>
+          </tr>
+          <tr>
+            <th>25 Medical and Hospital Insurance</th>
+            <td>City share of Medical and Hospital Insurance.</td>
+          </tr>
+          <tr>
+            <th>26 Physical Examination Plan</th>
+            <td>Payments to persons entitled to receive reimbursement for physical examination by Doctor  (M.A.P.S. Physical Plan)</td>
+          </tr>
+          <tr>
+            <th>27 M.A.P.S. Optical Plan</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>28 Survivor Benefits</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>29 Deferred Comp Administrative Expense</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>30 Architect</th>
+            <td>Plan results in biddable or constructible plans and specifications.  It includes both preliminary plans and specifications and final plans and specifications as these are defined in Architectural Agreements.  It does not include investigations producing information provided to Architects or Engineers by the City.</td>
+          </tr>
+          <tr>
+            <th>31 Preliminary Engineering</th>
+            <td>Design of improvements other than those requiring an architect.  It does not include work done by City Personnel, unless such work is authorized by an Inter-departmental Work Order.</td>
+          </tr>
+          <tr>
+            <th>32 Consultants</th>
+            <td>Advisors to either the Architect or Engineer or acting independently in an advisory capacity for a specific project.  It does not include City Personnel.</td>
+          </tr>
+          <tr>
+            <th>33 Survivor Benefits</th>
+            <td>Payments to legal heirs for certain entitlement granted as the result of the death of employees.</td>
+          </tr>
+          <tr>
+            <th>
+              <p>34 Accident Sick Leave</p>
+              <p>(Non- Taxable)</p>
+            </th>
+            <td/>
+          </tr>
+          <tr>
+            <th>35 Accident Sick Leave  (Taxable)</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>36 Studies</th>
+            <td>Overall studies of a development where no specific project is planned.</td>
+          </tr>
+          <tr>
+            <th>37 Test Borings</th>
+            <td>Soil tests by an independent contractor are charged direct.  Test borings by City personnel require an Inter-departmental Work Order.</td>
+          </tr>
+          <tr>
+            <th>38 Advertising</th>
+            <td>Payments for advertising.</td>
+          </tr>
+          <tr>
+            <th>39 Printing</th>
+            <td>Includes cost of plates, contracts, pamphlets, specifications, or any other printed matter relative to the project.</td>
+          </tr>
+          <tr>
+            <th>40 Purchase of Site or Right of Way</th>
+            <td>The purchase price and all other costs pertaining to the acquisition of the site.  If the site has a structure or structures on it, and said structures are to be demolished include cost of structures under this Sub-Object.  This includes easements and riparian rights.</td>
+          </tr>
+          <tr>
+            <th>41 Purchase of Structure</th>
+            <td>Where a structure is purchased with the intention of using the basic structure as is, or the renovation and improvement of the basic structure.</td>
+          </tr>
+          <tr>
+            <th>42 Surveys</th>
+            <td>Costs involved in surveys and legal description of project sites for condemnation, design or acquisition by negotiations.</td>
+          </tr>
+          <tr>
+            <th>43 Appraisal</th>
+            <td>Costs of appraisal of property by an independent contractor.  This includes the appraisal of land, structures and equipment.  If the appraised property is to be razed, charge to Sub-Project "Site".  If the property is to be retained use the Sub-Project "Structures and Improvements".</td>
+          </tr>
+          <tr>
+            <th>44 Legal and Administration</th>
+            <td>Costs of legal and administrative expenses by an outside contractor or an Inter-Departmental Work Order if performed by City Personnel.</td>
+          </tr>
+          <tr>
+            <th>45 Demolition</th>
+            <td>The razing of a structure or partial demolition such as gutting.  If the structure was acquired to be razed for site clearance or a Right of Way charge the Sub-Project "Site".  If only a part of the existing structure is demolished for an addition or major renovation, the cost is a part of "Structures and Improvements".</td>
+          </tr>
+          <tr>
+            <th>46 Relocation</th>
+            <td>Includes supplementary payments and allowance to property owner.</td>
+          </tr>
+          <tr>
+            <th>47 Site-Improvements</th>
+            <td>Site improvements are improvements of a permanent nature, landscaping, fences, sidewalk, fountains, etc.</td>
+          </tr>
+          <tr>
+            <th>48 Protection, Management and Repairs</th>
+            <td>Payments to Housing Authority for boarding &amp; management of buildings, emergency demolitions, etc.</td>
+          </tr>
+          <tr>
+            <th>49 Rent</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>50 Local Mileage Reimbursement</th>
+            <td>Reimbursement for use of personal auto in the conduct of City Business at the prescribed mileage rate.</td>
+          </tr>
+          <tr>
+            <th>52 Meals</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>53 Transportation</th>
+            <td>Rental of Motor Equipment and Vehicles – Payments for use of motor equipment and vehicles of CENTRAL AUTOMOTIVE GARAGE ONLY.</td>
+          </tr>
+          <tr>
+            <th>54 Transportation – Outside Rental of Motor Equipment and Vehicles</th>
+            <td>Payments for use of motor equipment and vehicles rented from outside concerns.  Includes all other travel not covered by Sub-Object 53.</td>
+          </tr>
+          <tr>
+            <th>55 Tests</th>
+            <td>Materials tested prior to or during construction – Use inter-departmental work order if done by City forces.</td>
+          </tr>
+          <tr>
+            <th>56 Bond Expense</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>57 Interdepartmental Charges  (Accounting Operations)</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>58 Removal Costs</th>
+            <td>Costs incurred in abandonment of Assets.</td>
+          </tr>
+          <tr>
+            <th>59 Administration Charges – Wage Commission</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>61 Self-Insurance Fund Reimbursement</th>
+            <td>Cash received from self-insurance fund for losses.</td>
+          </tr>
+          <tr>
+            <th>63 Contract Cost</th>
+            <td>Monthly payments.</td>
+          </tr>
+          <tr>
+            <th>64 Contract Cost  (Extra Work)</th>
+            <td>Payments due to Extra Work  (Order)</td>
+          </tr>
+          <tr>
+            <th>65 Materials &amp; Supplies</th>
+            <td>General Materials &amp; Supplies – Items used in construction of Capital Improvements.</td>
+          </tr>
+          <tr>
+            <th>67 Art</th>
+            <td>Applicable to ordinance calling for 1% Art Work.</td>
+          </tr>
+          <tr>
+            <th>68 Negotiated Leave Time</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>69 Severance Pay (Death– Negotiated Leave Benefit)</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>70 Paving</th>
+            <td>Work done by Bureau of Highways for other City Agencies.  This can be done by an Interdepartmental Work Order or charged direct to a City Agency by Highways, if the work was done by an outside Contractor.</td>
+          </tr>
+          <tr>
+            <th>71 Mechanical Electrical</th>
+            <td>*Conduit</td>
+          </tr>
+          <tr>
+            <th>72 Mechanical Electrical</th>
+            <td>*Lighting</td>
+          </tr>
+          <tr>
+            <th>73 Sanitary Sewers</th>
+            <td>*</td>
+          </tr>
+          <tr>
+            <th>74 Storm Water</th>
+            <td>*</td>
+          </tr>
+          <tr>
+            <th>75 Water</th>
+            <th>
+              <p>*</p>
+              <p><em>Sub-Objects 71 thru 75 are Utilities which are installed by one City Agency for another.  USE INTERDEPARTMENTAL WORK ORDER</em>.</p>
+            </th>
+          </tr>
+          <tr>
+            <th>76 Rehabilitation Payments  (HCD)</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>77 Telephone</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>78 Electric</th>
+            <th>*</th>
+          </tr>
+          <tr>
+            <th>79 Gas</th>
+            <th>*</th>
+          </tr>
+          <tr>
+            <th>80 Steam</th>
+            <th>
+              <p>*</p>
+              <p>
+                <em>* Sub-Objects 78 thru 80 are Utilities which are installed by the Gas &amp; Electric Company or other Outside Contractors for a particular project such as schools, recreation centers, etc.  This can be charged direct.</em>
+              </p>
+            </th>
+          </tr>
+          <tr>
+            <th>81 Biological Specimens</th>
+            <td>Animals/Mammals for Aquarium</td>
+          </tr>
+          <tr>
+            <th>82 Administration Furniture</th>
+            <td>Includes: desks, chairs, files, tables, cabinets or any other like furniture used in an office.</td>
+          </tr>
+          <tr>
+            <th>83 Administration Equipment</th>
+            <td>Includes: adding machines, typewriters, calculators, copying machines, cameras, etc.</td>
+          </tr>
+          <tr>
+            <th>84 Operating Furniture</th>
+            <td>Furniture of a particular nature such as classroom furniture, lounge or waiting room furniture used in a hospital, etc.</td>
+          </tr>
+          <tr>
+            <th>85 Operating Equipment</th>
+            <td>Typewriters, adding machines used in a classroom, or X-ray machines, beds, operating tables, dental chairs, etc., or any specific equipment necessary for the department to function in its particular operation.</td>
+          </tr>
+          <tr>
+            <th>86 Outdoor Operating Equipment</th>
+            <td>Includes playground equipment, athletic field equipment, lawn mowers, small snow plows, etc.</td>
+          </tr>
+          <tr>
+            <th>87 Maintenance Equipment</th>
+            <td>Such as vacuum, floor polishers, etc.</td>
+          </tr>
+          <tr>
+            <th>88 Vocational Equipment – Furniture  (Educational Use Only)</th>
+            <td>Encompasses all equipment and furniture that is reimbursable by the State Vocational Facilities Equipment Division of the State Department of Education.</td>
+          </tr>
+          <tr>
+            <th>89 Educational Equipment – Furniture  (Educational Use Only)</th>
+            <td>Encompasses all equipment and furniture under the State School Construction Program approved for reimbursement.</td>
+          </tr>
+          <tr>
+            <th>90 Principal</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>91 Interest</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>98 Distributed Review  (Interstate)</th>
+            <td/>
+          </tr>
+          <tr>
+            <th>99 Other</th>
+            <td>Where none of the above Sub-Objects apply.</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true">6 of 6</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-200-3</num>
+  <heading>Moving Expenses</heading>
+  <text>The City of Baltimore ("City") recognizes the need to provide prospective employees with financial assistance to cover the cost of specific expenses incurred in moving themselves and their families to a new position with the City.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to establish the requirements for providing financial assistance to new employees who have been approved for monies to minimize the costs of their move to start their new job.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy establishes responsibility for certain moving expenses, when an individual is moving personal belongings and/or family in order to assume a position with the City. Under no circumstances will the City consider or approve reimbursement of moving expenses, unless the charges are approved by the Board of Estimates ("BOE") in advance.  A move of less than fifty (50) miles in radius from the City will not be approved for reimbursement.</text>
+  </para>
+  <para name="covered-costs">
+    <num>III.</num>
+    <heading>COVERED COSTS</heading>
+    <text>In circumstances which may arise from the level of position being filled and the costs of an interstate move, an Agency Head may request the BOE to defray the costs of certain moving expenses in order to secure the services of an individual.  In such cases, the move must involve a radius of more than fifty (50) miles and be limited to the costs of the move of personal belongings.</text>
+  </para>
+  <para name="cost-determination">
+    <num>IV.</num>
+    <heading>COST DETERMINATION</heading>
+    <text>It is the responsibility of the Agency Head to secure from the individual accepting City employment two (2) estimates of the move costs.  Such cost estimates must detail the scope of the estimate, i.e., move is limited to costs of personal belongings.  The BOE, at its own discretion, shall stipulate the amount of moving expenses to be covered in its approval.</text>
+  </para>
+  <para name="reimbursement-prices">
+    <num>V.</num>
+    <heading>REIMBURSEMENT PRICES</heading>
+    <text>An individual who has received reimbursement approval of moving expenses for personal belongings must present the original bill of lading which details transport weight, hourly costs of flat rate charge, etc., to their direct supervisor or designee.  Reimbursement of approved expenses will be obtained by preparing an Expenditure Authorization (28-1428-5035), which must be approved for available funds by the appropriate analyst in the Bureau of the Budget and Management Research.  The original bill of lading is to be processed with the Expenditure Authorization and the letter of approval by the BOE.  The budget analyst should forward the request approval to the Bureau of Accounting and Payroll Services.</text>
+  </para>
+  <para name="authority">
+    <num>VI.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em><cite path="§AM-002-1-2">AM-002-1-2</cite></em> Administrative Manual wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>VII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1988-11-15" display="true">November 15, 1988</annotation>
+    <annotation type="History" effective="2018-07-25" display="true">July 25, 2018</annotation>
+    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> Expenditure Authorizations (EAs)</annotation>
+  </annotations>
+</section>

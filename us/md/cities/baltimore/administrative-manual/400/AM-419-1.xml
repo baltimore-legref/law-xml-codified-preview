@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-419-1</num>
+  <heading>Budget Account Number</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The budget account number is a 26-digit control number divided into sets of digits and assigned to all City budgeted transactions. It is used to clarify and charge an agency's expenditures and appropriations. A budget account number is divided into five (5) sections, each of which can be specifically identified. The budget account number used to be a 15-digit control number. A description of both the old and the new types of account numbers appears below.</text>
+  </para>
+  <para name="new-26-digit-account-number">
+    <heading>NEW 26-DIGIT ACCOUNT NUMBER</heading>
+    <text class="center">
+      <strong>XXXX-XXXXXX-XXXX-XXXXXX-XXXXXX</strong>
+    </text>
+    <text>
+      <strong>
+        <em>FUND TYPE</em>
+      </strong>
+    </text>
+    <text>The first 4 digits of the account number identify the type of Fund from which resources will be made available for the operation of the program. Funds are categorized according to the following designations:</text>
+    <text>1001 – General Fund</text>
+    <text>2000 – Internal Service</text>
+    <text>2022 – Convention Center Bond Fund</text>
+    <text>2024 – Conduit Enterprise Fund</text>
+    <text>2070 – Waste Water Utility</text>
+    <text>2071 – Water Utility</text>
+    <text>2072 – Stormwater Utility</text>
+    <text>2073 – Loan &amp; Guarantee Enterprise</text>
+    <text>2075 – Parking Enterprise</text>
+    <text>2076 – Parking Management</text>
+    <text>3001 – Motor Vehicle</text>
+    <text>4000 – Federal</text>
+    <text>5000 – State</text>
+    <text>6000 - Special</text>
+    <text>Since Fiscal 2013, Motor Vehicle funds have been combined with the General Fund for purposes of City appropriation; the City continues to report on all services and activities supported through State highway users revenues. For a description of each fund type, please refer to <cite path="§AM-420-4">AM-420-4</cite>.</text>
+    <text class="center">
+      <strong>XXXX-xxxxxx-xxxx-xxxxxx-xxxxxx</strong>
+    </text>
+    <text>
+      <strong>
+        <em>DETAILED FUND and GRANT YEAR</em>
+      </strong>
+    </text>
+    <text>The fifth through eighth digits identify the detailed fund. For all General, Parking, and Utility funds, this segment is identified with a generic code of "0000". For federal, State, and special grant funds, this four digit segment is a unique identifier for an individual grant. The first digit of the detailed fund will match the first digit of the fund number (ex: <strong>4</strong>000-<strong>4123</strong>xx or <strong>5</strong>000-<strong>5678</strong>xx)</text>
+    <text class="center">
+      <strong>xxxx-XXXXxx-xxxx-xxxxxx-xxxxxx</strong>
+    </text>
+    <text>The next two digits identify the grant year. For each detailed grant, this segment allows for identification of the grant year when revenues are received or expenditures are charged (ex. – "4000-4123<strong><u>15</u></strong><strong>"</strong> would indicate a grant year of 2015. General, Parking, and Utility Funds again are identified through a generic code of "00" since accounts are appropriated on an annual basis.</text>
+    <text class="center">
+      <strong>xxxx-xxxxXX-xxxx-xxxxxx-xxxxxx</strong>
+    </text>
+    <text>
+      <strong>
+        <em>SERVICE</em>
+      </strong>
+    </text>
+    <text>The eleventh through fourteenth digits designate the service. Each service number should have a unique identifier and correspond with a single agency.</text>
+    <text class="center">
+      <strong>xxxx-xxxxxx-XXXX-xxxxxx-xxxxxx</strong>
+    </text>
+    <text>
+      <strong>
+        <em>ACTIVITY AND SUB-ACTIVITY</em>
+      </strong>
+    </text>
+    <text>The fifteenth through eighteenth digits will identify an activity. Each activity should have a unique four-digit designation and correspond with a single service.</text>
+    <text class="center">
+      <strong>xxxx-xxxxxx-xxxx-XXXXxx-xxxxxx</strong>
+    </text>
+    <text>The following two digits (nineteenth and twentieth) will identify a sub activity. Few budgets are appropriated at a sub-activity level, but this designation may assist in identifying additional cost centers within an activity for accounting purposes. If a sub-activity is not budgeted, it is identified with a generic "00" code.</text>
+    <text class="center">
+      <strong>xxxx-xxxxxx-xxxx-xxxxXX-xxxxxx</strong>
+    </text>
+    <text>
+      <strong>
+        <em>NATURAL (OBJECT AND SUB-OBJECT)</em>
+      </strong>
+    </text>
+    <text>The twenty-first through the twenty-sixth digits identify the natural account. This segment provides information on the line item identification. Expenditure accounts will begin with a "6", while revenue accounts will begin with a "4". The object of expenditure will be the 3<sup>rd</sup> digit in this sequence, and the sub-object of expenditure will be the last two digits in this code.</text>
+    <text>A list of the objects of expenditure is available in <cite path="§AM-420-4">AM-420-4</cite>. A detailed list of the current natural expenditure account designations is available from BBMR upon request.</text>
+    <text class="center">
+      <strong>xxxx-xxxxxx-xxxx-xxxxxx-XXXXXX</strong>
+    </text>
+  </para>
+  <para name="translation-between-26-digit-and-15-digit-accounts">
+    <heading>TRANSLATION BETWEEN 26-DIGIT AND 15-DIGIT ACCOUNTS</heading>
+    <text>The following table provides guidance on how to translate between the 26-digit accounting code and the 15-digit budget (legacy account) code. Note that the numbers identified below are used solely for purposes of example.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>Account Segment</th>
+            <th>26-Digit Account</th>
+            <th>15-Digit Budget Account Translation</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Fund</td>
+            <td>1001-xxxxxx-xxxx-xxxxxx-xxxxxx</td>
+            <td>
+              <p>Non-grant Funds:</p>
+              <p>1001-xxx-xxx-xx-x-xx</p>
+              <p>Grant Funds:</p>
+              <p>(none)</p>
+            </td>
+            <td>
+              <p>The Generic Grant Fund numbers (4000, 5000, and 6000) are not available in the 15-digit translated Budget Account number.</p>
+              <p>Non-grant funds (General, Parking, and Utility funds) translate directly to the first four digits of the 15-digit Budget Account code.</p>
+            </td>
+          </tr>
+          <tr>
+            <td>Detailed Fund</td>
+            <td>xxxx -4123xx-xxxx-xxxxxx-xxxxxx</td>
+            <td>
+              <p>Non-grant Funds: (none)</p>
+              <p>Grant Funds:</p>
+              <p>4123-xxx-xxx-xx-x-xx</p>
+            </td>
+            <td>Non-grant funds (General, Parking, and Utility funds) do not have a detailed fund number and use a generic "0000" in the 26 digit account code.</td>
+          </tr>
+          <tr>
+            <td>Grant Year</td>
+            <td>xxxx –xxxx15-xxxx-xxxxxx-xxxxxx</td>
+            <td>
+              <p>Non-grant Funds:</p>
+              <p>xxxx-xxx-0xx-xx-x-xx</p>
+              <p>Grant Funds:</p>
+              <p>xxxx-xxx-5xx-xx-x-xx</p>
+            </td>
+            <td>
+              <p>Non-grant funds (General, Parking, and Utility funds) do not have a detailed fund number and use a generic "00" in the 26 digit account code, and a "0" in the budget account number.</p>
+              <p>Grant funds use the last digit of the grant year (for example, 2015 would be "5") in the identified spot for 15-digit budget account code.</p>
+            </td>
+          </tr>
+          <tr>
+            <td>Service</td>
+            <td>xxxx -xxxxxx-3001-xxxxxx-xxxxxx</td>
+            <td>xxxx-715-xxx-xx-x-xx</td>
+            <td>
+              <p>The Service code is 4 digits in the Accounting system, while the old Program code in the Budget Account is 3 digits.</p>
+              <p>
+                <em>Note: this is a unique translation, and the 4-digit accounting code may not appear similar to the 3-digit budget account code.</em>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>Activity</td>
+            <td>xxxx -xxxxxx-xxxx-1584xx-xxxxxx</td>
+            <td>xxxx-xxx-x01-xx-x-xx</td>
+            <td>
+              <p>The Activity code is 4 digits in the Accounting system, while the old Activity code in the Budget Account is 2 digits.</p>
+              <p>
+                <em>Note: this is a unique translation, and the 4-digit accounting code may not appear similar to the 2-digit budget account code.</em>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>Sub-Activity</td>
+            <td>xxxx -xxxxxx-xxxx-xxxx01-xxxxxx</td>
+            <td>xxxx-xxx-xxx-01-x-xx</td>
+            <td>This segment is generally not budgeted for, and therefore generic "00" accounts segments may be identified for both the 26-digit accounting code and the 15-digit budget account code. Actuals may be charged against the sub-activity level for accounting purposes.</td>
+          </tr>
+          <tr>
+            <td>
+              <p>Natural</p>
+              <p>(Object)</p>
+            </td>
+            <td>xxxx -xxxxxx-xxxx-xxxxxx-6x3xxx</td>
+            <td>xxxx-xxx-xxx-xx-3-xx</td>
+            <td>The 26-digit accounting code natural segment contains both the object and sub-object designation. Expenditure accounts should begin with a "6".</td>
+          </tr>
+          <tr>
+            <td>
+              <p>Natural</p>
+              <p>(Sub-Object)</p>
+            </td>
+            <td>xxxx -xxxxxx-xxxx-xxxxxx-6xxx05</td>
+            <td>xxxx-xxx-xxx-xx-x-05</td>
+            <td>The 26-digit accounting code natural segment contains both the object and sub-object designation. Expenditure accounts should begin with a "6".</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-10-01" display="true">October 1, 2004</annotation>
+    <annotation type="History" effective="2015-01-13" display="true">January 13, 2015</annotation>
+  </annotations>
+</section>

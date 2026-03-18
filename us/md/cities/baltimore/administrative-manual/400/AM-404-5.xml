@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-404-5</num>
+  <heading>Biennial Audits Policy</heading>
+  <para name="404-5-biennial-audits-policy">
+    <heading>404-5 BIENNIAL AUDITS POLICY</heading>
+    <text>
+      <strong>SCOPE</strong>
+    </text>
+    <text><cite doc="City of Baltimore, Md., Charter">The City Charter</cite>, ART. V, § 11 requires the Department of Audits conduct performance and financial audits on principal agencies every other year.</text>
+  </para>
+  <para name="biennial-audits-of-principal-agencies">
+    <heading>BIENNIAL AUDITS OF PRINCIPAL AGENCIES</heading>
+    <text>In general, "Audit" means an audit undertaken in accordance with generally accepted government auditing standards and federal and state law.  "Audit" includes both:</text>
+    <text>
+      <ul>
+        <li>A financial audit of a principal agency's financial transactions, including all revenues and receipts; and</li>
+        <li>A performance audit that assesses a principal agency's practices to determine whether the agency is operating economically and efficiently and whether corrective actions for improving its performance are appropriate.</li>
+      </ul>
+    </text>
+    <text>"Principal agency" means any of the following executive departments:</text>
+    <text>Group A</text>
+    <text>
+      <ul>
+        <li>Department of Finance</li>
+        <li>Department of Public Works</li>
+        <li>Fire Department</li>
+        <li>Department of Housing and Community Development</li>
+        <li>Department of General Services</li>
+        <li>Baltimore Development Corporation</li>
+        <li>Mayor's Office of Information Technology (or successor entity to this Office)</li>
+        <li>Mayor's Office of Human Services (or successor entity to this Office)</li>
+      </ul>
+    </text>
+    <text>Group B</text>
+    <text>
+      <ul>
+        <li>Department of Law</li>
+        <li>Department of Human Resources</li>
+        <li>Department of Transportation</li>
+        <li>Police Department</li>
+        <li>Department of Recreation and Parks</li>
+        <li>Department of Planning</li>
+        <li>Department of Health</li>
+        <li>Mayor's Office of Employment Development (or successor entity to this Office).</li>
+      </ul>
+    </text>
+  </para>
+  <para name="timing-of-biennial-audits">
+    <heading>TIMING OF BIENNIAL AUDITS</heading>
+    <text>In general, at least twice during every 4-year term of the Mayor and City Council, the City Auditor shall conduct an audit of each principal agency's operations for the preceding 2 fiscal years. These audits shall be staggered so that: (i) audits of the principal agencies listed as "Group A" are initiated in odd-numbered calendar years; and (ii) audits of the principal agencies listed as "Group B" are initiated in even-numbered calendar years.</text>
+  </para>
+  <para name="status-of-prior-recommendations">
+    <heading>STATUS OF PRIOR RECOMMENDATIONS</heading>
+    <text>Each report of an agency audit conducted under this section shall include an ancillary report on the status of all recommendations for executive action that resulted from that agency's immediately preceding audit under this section. The ancillary report shall: (i) designate each recommendation's status either as "implemented", "partially implemented", or "not implemented"; and (ii) provide justification for the status designation assigned.</text>
+    <text>The Board of Estimates shall call back principal agencies in between audit years to report updates on prior recommendations.</text>
+  </para>
+  <para name="procedures">
+    <heading>PROCEDURES</heading>
+    <text>Each year, the Department of Audits will submit a proposed Biennial Audits Plan to the Biennial Audits Oversight Commission for discussion and approval. Audit objectives, scopes, methodologies, and processes as well as responsibilities of the Department of Audits and principal agencies will be communicated to principal agencies in audit engagement letters and entrance conferences. In general, audit processes include planning, fieldwork, and reporting phases. General responsibilities include:</text>
+    <text>The Department of Finance, Bureau of Accounting and Payroll Services is responsible for preparing the principal agencies' financial statements and notes to the financial statements. In general, the Baltimore City Comprehensive Annual Financial Report (CAFR) and the Single Audit serve as financial audits for principal agencies.</text>
+    <text>
+      <ul>
+        <li>Principal agencies must make available:</li>
+        <li>All financial transactions from the preceding two years; including all receipts, revenues, expenditures, payroll records, and other financial records;</li>
+        <li>Documentation relating to procedures, policies, service delivery, laws, regulations, etc.; and</li>
+        <li>Key personnel to the auditors, including the Agency Head and the Agency Fiscal Officer.</li>
+        <li>The Department of Finance and / or principal agencies are responsible for providing management responses for audit findings in a timely manner – in general, within two weeks or agreed upon timeframe with the Department of Audits.</li>
+        <li>The Department of Audits shall:</li>
+        <li>Make reports of all such audits to the Comptroller and, at the same time, to each of the other members of the Board of Estimates;</li>
+        <li>Post the biennial audit reports on a public website maintained by the City Comptroller;</li>
+        <li>File the biennial audit reports with the Department of Legislative Reference;</li>
+        <li>Submit the biennial audit reports to the principal agency audited; and</li>
+        <li>Submit the biennial audit reports to each member of: (i) the Board of Estimates; (ii) the City Council; and (iii) the Biennial Audits Oversight Commission.</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1986-01-30" display="true">January 30, 1986</annotation>
+    <annotation type="History" effective="2021-08-23" display="true">August 23, 2021</annotation>
+  </annotations>
+</section>

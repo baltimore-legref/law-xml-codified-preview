@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-502-1-3</num>
+  <heading>Procedure for Scanning Records</heading>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>RESPONSIBILITY</th>
+          <th>ACTION</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>Agency Head</th>
+          <td>
+            <p><strong>1</strong>. Determines the need to scan or otherwise store certain records.</p>
+            <p><strong>2.</strong> Notifies Records Management Officer of need.</p>
+          </td>
+        </tr>
+        <tr>
+          <th>Records Management Officer</th>
+          <td>
+            <p><strong>3. </strong>Inspects records and submits recommendations to City Records Committee for approval.</p>
+            <p><strong>4.</strong> Informs Agency Head of findings and Committee's approval.</p>
+          </td>
+        </tr>
+        <tr>
+          <th>Agency Head</th>
+          <td><strong>5. </strong>Coordinates movement of records to be scanned, etc. to City Archives and Records Management Center.</td>
+        </tr>
+        <tr>
+          <th>Records Management Officer</th>
+          <td>
+            <p><strong>6. </strong>Forwards approved schedules to City Records Committees for review and final acceptance.</p>
+            <p><strong>7</strong>. Makes proper disposition of hard copy records.</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <annotations>
+    <annotation type="History" effective="2004-06-08" display="true">June 8, 2004</annotation>
+    <annotation type="History" effective="2010-12-03" display="true">December 3, 2010</annotation>
+  </annotations>
+</section>

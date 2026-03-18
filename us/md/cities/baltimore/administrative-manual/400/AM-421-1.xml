@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-421-1</num>
+  <heading>Budget Stabilization Reserve Policy</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Budget Stabilization Reserve (aka, Rainy Day Fund) serves to provide a budget defense to stabilize a post-adopted budget that has been impacted by an uncorrectable shortfall in revenues and/or an unanticipated and uncorrectable emergency expense. The reserve becomes the revenue source of last resort to avoid a budget deficit.</text>
+  </para>
+  <para name="use-of-the-budget-stabilization-reserve">
+    <heading>USE OF THE BUDGET STABILIZATION RESERVE</heading>
+    <text>The Board of Estimates in determining the use of the Budget Stabilization Reserve and coincident with recommending to the City Council that it appropriate for such use, would acknowledge that initially, all reasonable efforts had been made in controlling expenses, and secondly, that use of the City's unreserved fund balance had been exhausted in order to minimize the use of the reserve in avoiding a budget deficit. Under no circumstances can the Budget Stabilization Reserve be used as a revenue source to balance a planning year budget.</text>
+    <text>The Budget Stabilization Reserve shall cover and be used in support of the General Fund and the Motor Vehicle Fund. It is recommended to be maintained on any June 30th at a minimum level of 8% of the combined value of the General Fund and Motor Vehicle Fund operating budgets of the subsequent fiscal year.</text>
+  </para>
+  <para name="contribution-to-the-budget-stabilization-reserve">
+    <heading>CONTRIBUTION TO THE BUDGET STABILIZATION RESERVE</heading>
+    <text>The Board of Estimates shall determine the amount of the annual contribution to the Budget Stabilization Reserve from current operating revenues that shall be included in the annual Ordinance of Estimates.</text>
+    <text>Any un-anticipated one-time revenues received during a fiscal year that are not needed to balance the budget of that fiscal year, shall be transferred to the Budget Stabilization Reserve until the reserve is funded at the minimum level of 8% of the combined value of the General Fund and Motor Vehicle Fund operating budgets of the subsequent fiscal year.</text>
+  </para>
+  <para name="restoration-of-funds">
+    <heading>RESTORATION OF FUNDS</heading>
+    <text>In the event reserve funds are utilized, the policy calls for the Board of Estimates to approve a replenishment plan and a timetable to restore in full the drawn down funds within a period not to exceed five (5) years. The first year of such a restoration plan should be the fiscal year following the reserve fund use, unless the Board of Estimates determined that doing so would create an undue budgetary burden.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2012-07-13" display="true">July 13, 2012</annotation>
+  </annotations>
+</section>

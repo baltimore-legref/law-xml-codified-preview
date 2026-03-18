@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-504-1</num>
+  <heading>Reproduction and Printing</heading>
+  <para name="description">
+    <heading>DESCRIPTION</heading>
+    <text>The City provides printing services to all City agencies through the Reproduction and Printing Division of the Bureau of Purchases.</text>
+  </para>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>All requests for reproduction and printing services must be submitted to this in-house printing facility.</text>
+  </para>
+  <para name="printing-by-outside-vendors">
+    <heading>PRINTING BY OUTSIDE VENDORS</heading>
+    <text>Agencies are <u>not</u> authorized to send printing requests to outside vendors unless prior approval has been obtained from the Printing and Graphics Division.</text>
+    <text>The Disbursements Division of the Bureau of Payroll and Disbursements will <u>not</u> pay any invoices from outside vendors for printing services unless such invoices have been approved by the Printing and Graphics Division.</text>
+  </para>
+  <para name="services-available">
+    <heading>SERVICES AVAILABLE</heading>
+    <text>The Reproduction and Printing Division offers the following services:</text>
+    <text>
+      <ul>
+        <li>Graphic design - professional assistance in the design of printed material.</li>
+        <li>Composition - typesetting in a wide selection of type styles and sizes, utilizing desktop publishing.</li>
+        <li>Camera, stripping, and platemaking - lithographic photography; press preparation of line art and photographs.</li>
+        <li>Presswork - printing services utilizing a wide variety of equipment.</li>
+        <li>Binding services to include:</li>
+        <ul>
+          <li>Cutting</li>
+          <li>Collating</li>
+          <li>Stitching, i.e., stapling.</li>
+          <li>Spiral Binding</li>
+          <li>Saddle Stitch Binding</li>
+          <li>Perfect Binding</li>
+          <li>Drilling, i.e., hole punching</li>
+          <li>Perforating</li>
+          <li>Numbering.</li>
+          <li>Folding.</li>
+          <li>Wrapping</li>
+        </ul>
+      </ul>
+    </text>
+  </para>
+  <para name="printing-categories">
+    <heading>PRINTING CATEGORIES</heading>
+    <text>Printing jobs are divided into (3) three categories:</text>
+    <text>
+      <ul>
+        <li>First Printing - the initial production on any job.</li>
+        <li>Repeat Printing - any production after the initial production involving <u>no</u> changes.</li>
+        <ul>
+          <li>Printing with Changes - <u>any</u> change in specification or format from the previous production.  (If such changes exceed 1/4 of the total format, the request should be considered a "First Printing".)</li>
+        </ul>
+      </ul>
+    </text>
+  </para>
+  <para name="proofs">
+    <heading>PROOFS</heading>
+    <text>A proof is an accurate picture of the final material before printing.  Proofs for all "First Printing" and "Printing with Changes" jobs must be approved by the requester <u>prior</u> to printing.</text>
+  </para>
+  <para name="completion-of-printing-jobs">
+    <heading>COMPLETION OF PRINTING JOBS</heading>
+    <text>
+      <u>FIRST PRINTING OR PRINTING WITH CHANGES</u>
+    </text>
+    <text>After the receipt by Printing and Graphics of final approved proofs, every effort will be made to satisfy the requester's delivery requirements.</text>
+    <text>
+      <u>REPEAT PRINTING</u>
+    </text>
+    <text>After the receipt by Printing and Graphics an approved PURCHASE REQUISITION (28-1448-5123) (<cite path="§AM-301-1-1">AM-301-1-1</cite>), every effort will be made</text>
+    <text>to satisfy the requester's delivery requirements.</text>
+    <text>
+      <u>ORDERING PRINTED MATERIAL</u>
+    </text>
+    <text>To order printed materials, a PURCHASE REQUISITION must be submitted.</text>
+    <text>See <cite path="§AM-504-1-1">AM-504-1-1</cite> for details.  Any order estimated at $1,000.00 or less may be submitted with a Printing and Graphics Request for Services (28-0706-0511 Rev. 4/94.</text>
+    <text>
+      <u>QUICK COPY CENTER</u>
+    </text>
+    <text>In addition to printing, Printing and Graphics operates the Quick Copy Center to provide timely and inexpensive copying of originals.  See <cite path="§AM-504-2">AM-504-2</cite> for complete information.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1984-01-23" display="true">January 23, 1984</annotation>
+  </annotations>
+</section>

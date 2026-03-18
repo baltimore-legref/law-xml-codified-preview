@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-507-1</num>
+  <heading>Department of Telecommunications</heading>
+  <text>
+    <strong>Department of Telecommunications</strong>
+  </text>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>All telephone service and equipment within the City government are provided by the Department of Telecommunications. The Department of Telecommunications (DTC) is the Telecommunications service provider for the City and administers the Voice Over Internet Protocol (VoIP) telephone systems.</text>
+  </para>
+  <para name="agency-representative">
+    <heading>AGENCY REPRESENTATIVE</heading>
+    <text>Each agency must select 1 or more employees to represent the organization in its dealings with the Department of Telecommunications. Agencies can share the proper contact information by filling out the "Telecom Coordinator Request Form" on <a href="https://bmore.sharepoint.com/sites/ComptrollerOffice/SitePages/Municipal-Telephone-Exchange.aspx">the</a><u> Department of Telecommunications' webpage</u>.</text>
+  </para>
+  <para name="requesting-telephone-equipment-or-service">
+    <heading>REQUESTING TELEPHONE EQUIPMENT OR SERVICE</heading>
+    <text>An online request must be submitted by the Telecom Coordinator via <a href="https://tigerpaw.baltimorecity.gov">DTC's Tigerpaw portal</a>. Requests received from persons other than the authorized representative will not be honored.</text>
+    <text>Telephone service requests for routine work must be received by the DTC at least three work days prior to the desired installation date. Requests for complex work require more notice to be given. While the exact time requirements vary depending on the nature of the work involved, requests for complex work must be received at least three work days prior to the desired installation date.</text>
+  </para>
+  <para name="billing">
+    <heading>BILLING</heading>
+    <text>All costs associated with a telephone number will be charged against the budget number provided by the agency via the request. Only one budget number is allowed per request. The budget number provided must be listed on the Chart of Accounts of valid budget numbers.</text>
+    <text>Agencies are required to perform an annual audit of their communication costs to verify that communications equipment and services are billed to the correct budget number. Any changes that are need must be sent to the Department of Telecommunications.</text>
+    <text>All agencies may have read-only access the Department of Telecommunications' billing system. Requests for access must be made in writing to the Department of Telecommunications via your Agency Telecom Coordinator. A username and password will be provided.</text>
+  </para>
+  <para name="long-distance-business-calls-and-personal-calls">
+    <heading>LONG DISTANCE BUSINESS CALLS AND PERSONAL CALLS</heading>
+    <text>City telephones are not to be used by employees for personal messages except in emergencies.  A $10 penalty will be assessed against any employee who is found to have made an international long distance call without authorization from the Agency Head or designee.</text>
+    <text>Upon request, the Department of Telecommunications will provide a listing of inbound/outbound local and long distance calls placed by an employee. The Department of Telecommunications will bill users for long distance and international call placed from their City telephone equipment.</text>
+  </para>
+  <para name="emergency-duty-personnel">
+    <heading>EMERGENCY DUTY PERSONNEL</heading>
+    <text>Agencies must provide the Department of Telecommunications with a list of duty or emergency personnel to be called upon during non-working hours at the beginning of each fiscal year. This list should include the names, telephone numbers and e-mails of these employees and a brief description of the types of calls to which they will respond.</text>
+    <text>These lists of emergency duty personnel are confidential. No private telephone numbers will be given out at any time.</text>
+  </para>
+  <para name="notification-of-public-events">
+    <heading>NOTIFICATION OF PUBLIC EVENTS</heading>
+    <text>All City agencies are required to inform the Department of Telecommunications of those public events, meetings, or parades, involving the City or City officials as sponsors or participants, as well as special announcements, alerts, warnings that are intended for the general public. The Department of Telecommunications is to be supplied a copy of all information disseminated by the agency relative to public events, news conferences, and city agency-related information of a timely nature that may prompt telephone calls from the public, such as immunization clinics for school children, essay/poster contests, special health screenings, parking fine amnesty month, annual tax sale, etc.</text>
+    <text>Information on matters of public interest and concern must be accurate and timely. The provided information must include the date, location and hours of the event. A contact person and telephone number within the agency must be included. The following information should be available for internal use only by the Department of Telecommunications, in case additional information is needed during non-business hours: the home telephone number of the contact person, a weekend contact, and name of the duty officer, if applicable.</text>
+  </para>
+  <para name="process">
+    <heading>PROCESS</heading>
+    <text>Agencies can notify the DTC by filling out the "Notification of Public Events" form on DTC's webpage. Agencies must submit their notifications at least five (5) days prior to the scheduled event or as soon as possible in the case of emergencies.</text>
+  </para>
+  <para name="online-telephone-directory">
+    <heading>ONLINE TELEPHONE DIRECTORY</heading>
+    <text>The complete directory of City telephone numbers is available online via the employee's VoIP telephone set.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1977-01-17" display="true">January 17, 1977</annotation>
+    <annotation type="History" effective="2021-08-25" display="true">August 25, 2021</annotation>
+  </annotations>
+</section>

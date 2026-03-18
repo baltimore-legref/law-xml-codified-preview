@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-406-1</num>
+  <heading>Journal Entry</heading>
+  <text>A Journal Entry (#28-1420-1191) is used to transfer funds between 15 digit account numbers.</text>
+  <text>The primary uses of this form are:</text>
+  <ul>
+    <li>1. Billing of one agency by another agency for services rendered.</li>
+    <li>2. Correction of errors.</li>
+    <li>3. Allocation of cost accumulated in one cost center to other account numbers.</li>
+    <li>4. Accrual of accounts payable or accounts receivable.</li>
+    <li>5. Allocation of revenue accumulated in one revenue center to other account numbers.</li>
+  </ul>
+  <annotations>
+    <annotation type="History" effective="1970-11-02" display="true">November 2, 1970</annotation>
+    <annotation type="History" effective="2004-10-01" display="true">October 1, 2004</annotation>
+    <annotation type="Related Policies"><cite path="§AM-419-1">AM-419-1</cite> BUDGET ACCOUNT NUMBER</annotation>
+  </annotations>
+</section>

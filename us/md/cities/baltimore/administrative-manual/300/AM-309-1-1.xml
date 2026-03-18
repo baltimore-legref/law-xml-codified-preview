@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-309-1-1</num>
+  <heading>Authorization for Wage Reduction</heading>
+  <text>I hereby acknowledge receiving <cite path="§AM-309-1">AM-309-1</cite> governing the use of Small Purchase Procurement Card ("SPPC"). I have read <cite path="§AM-309-1">AM-309-1</cite> and understand that it is my primary responsibility to ensure that the SPPC is used only for the purchase of items authorized in <cite path="§AM-303-1">AM-303-1</cite>, Direct Payment Order, or as otherwise permitted under this AM policy. I further acknowledge that if it is determined that I have misused the SPPC, I may be held personally responsible for the value of the misuse. I agree to have deducted from my payroll check the amount of any unauthorized use of the SPPC.</text>
+  <text>_____________________________________________<br/>Signature of SPPC Holder</text>
+  <text>_____________________________________________</text>
+  <text>Printed Name of SPPC Holder</text>
+  <annotations>
+    <annotation type="History" effective="2006-12-15" display="true">December 15, 2006</annotation>
+  </annotations>
+</section>

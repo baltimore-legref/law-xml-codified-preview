@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-240-7</num>
+  <heading>Travel Within City Limits, Conferences, Seminars, Qualifying Local Work, Related Events</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Travel within the City limits is travel which falls within the official City boundaries and which is undertaken for the purpose of conducting official City business to include: attendance at conferences, conventions, seminars; qualifying local work; and these other events which deal with topics of value and interest to the City.</text>
+  </para>
+  <para name="conference-expenses">
+    <heading>CONFERENCE EXPENSES</heading>
+    <text>City representatives attending conferences or similar events on approved official business will be reimbursed by the City for the following expenses, provided that receipts for these expenses are obtained:</text>
+    <text>
+      <ul>
+        <li>Registration and tuition expenses.</li>
+        <li>Cost of publications and materials for the event.</li>
+      </ul>
+    </text>
+    <text>The City will not reimburse City representatives for the following expenses in connection with attending conferences or similar events:</text>
+    <text>
+      <ul>
+        <li>Transportation costs to and/or from the event.</li>
+        <li>Food costs unless included in the stated registration and/or tuition expenses.</li>
+        <li>Lodging costs at hotels, motels, etc.</li>
+        <li>Gratuities or tips.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="approval-requirements">
+    <heading>APPROVAL REQUIREMENTS</heading>
+    <text>Approval for travel within the City limits must be obtained from the Agency Head or the Board of Estimates, as appropriate.</text>
+  </para>
+  <para name="emergency-local-work">
+    <heading>EMERGENCY LOCAL WORK</heading>
+    <text>An employee approved for qualifying local work may obtain reimbursement for travel expenses if use of the employee-owned vehicle is authorized. An EMPLOYEE EXPENSE REPORT should be submitted at the end of each month in which such authorized expenses are incurred. The Disbursements Division, in concert with the Central Payroll Division, may require specificity relative to qualifying local work.</text>
+  </para>
+  <para name="realted-documents">
+    <heading>REALTED DOCUMENTS</heading>
+    <text><cite path="§AM-240-2">AM-240-2</cite>				AGENCY HEAD APPROVAL</text>
+    <text><cite path="§AM-240-3">AM-240-3</cite>				BOARD OF ESTIMATES APPROVAL</text>
+    <text><cite path="§AM-240-10">AM-240-10</cite>				USE: EMPLOYEE_OWNED VEHICLES</text>
+    <text><cite path="§AM-240-11">AM-240-11</cite>				EMPLOYEE EXPENSE REPORT</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-07-19" display="true">July 19, 1989</annotation>
+  </annotations>
+</section>

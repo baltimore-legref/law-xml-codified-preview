@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-411-01</num>
+  <heading>Board of Finance</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy establishes the authority of the Board of Finance to utilize the Expenditure Authorization form to facilitate payment on certain expenses related to the issuance and sale of certificates of indebtedness, banking services, debt management, and investment agreements.</text>
+  </para>
+  <para name="certain-expenses-associated-with-the-issuance-and-sale-of-certificates-of-indebtedness">
+    <num>A.</num>
+    <heading>CERTAIN EXPENSES ASSOCIATED WITH THE ISSUANCE AND SALE OF CERTIFICATES OF INDEBTEDNESS</heading>
+    <text>The Board of Finance, in applications of its authority, shall approve such costs directly connected with the sale and issuance of any type of indebtedness including but not limited to: Bond Counsel; costs and fees of underwriters and their counsel; costs and fees of trustees, registrars, paying agents, auction agents, counterparties, or entities that perform comparable services; costs and/or expenses of credit enhancers or liquidity providers; costs connected with perfecting any type of security related to the indebtedness; costs of printing; and any payments arising from obligations in connection with such indebtedness.</text>
+    <text>The Board of Finance shall also approve such costs indirectly connected with the sale and issuance of any type of indebtedness including but not limited to: the retention of specialized advisors to the City such as financial or other complex financing advisors; the payment of parties retained to fulfill obligations of the City that arise from the issuance of debt; payments of costs and/or expenses of rating agencies involved with the City's debt; costs or expenses arising from investment agreements entered into as part of the transaction; and costs of printing and/or storing documents connected with the City's debt and compliance with federal laws and regulations.</text>
+  </para>
+  <para name="certain-expenses-associated-with-banking-services">
+    <num>B.</num>
+    <heading>CERTAIN EXPENSES ASSOCIATED WITH BANKING SERVICES</heading>
+    <text>The Board of Finance, as part of its responsibility to select depository institutions for the City's Funds, shall approve costs, fees, and/or expenses relating to such accounts or equipment needed in connection with the City's banking and safekeeping services.</text>
+  </para>
+  <para name="certain-other-expenses">
+    <num>C.</num>
+    <heading>CERTAIN OTHER EXPENSES</heading>
+    <text>To the extent not expressly covered under Sections A and B, the Board of Estimates also delegates to the Board of Finance the ability to approve expenditures, costs, and fees made in connection with debt management, investment agreements not directly connected with the issuance and sale of certificates of indebtedness, and financial services contracts, such as, but not limited to, guaranteed investment contracts, repurchase agreements, general financial advising relating to the City's debt; costs (such as printing or mailing) relating to disclosure or other presentations; the retention of any firm to do financial analysis or consulting relating to these areas, if needed; and the costs of any equipment needed in connection with these areas. The Board of Finance is also authorized to dispense funds in accordance with requirements of certain trust funds under its safekeeping.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2006-07-19" display="true">July 19, 2006</annotation>
+    <annotation type="History" effective="2012-10-03" display="true">October 3, 2012</annotation>
+  </annotations>
+</section>

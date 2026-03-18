@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-309-1</num>
+  <heading>Procurement Card Program</heading>
+  <text>The Department of Finance has established the Procurement Card Program (PCP) that facilitates the procurement of goods and services on a direct or emergency basis; the payment of recurring expenditures; and the payment of invoices as set by the terms of an approved purchase order (PO).</text>
+  <text>Under the authority set and enforced by the Department of Finance, Bureau of Procurement (BOP), this policy establishes standards for the issuance and use of the procurement card (P-Card). This policy works in conjunction with a PCP user guide, which provides details and outlines specific procedures that must be followed. Agency heads may impose stricter requirements than those stated in this policy for their agency.</text>
+  <text>
+    <u>Definitions</u>
+  </text>
+  <text>
+    <ul>
+      <li>Agency Approving Official - A high level official within an agency who has been designated by the agency head to direct the PCP functions within his/her agency.</li>
+      <li>Agency Coordinator - The person designated by the Agency Approving Official who serves as the liaison between the agency and BOP.</li>
+      <li>Agency Head - The employee appointed or elected to serve as the head of a City agency, such as a department director or bureau chief.</li>
+      <li>Cardholder - The City employee to whom a P-Card has been issued.</li>
+      <li>Card Provider - The bank or financial institution that provides the P-Card.</li>
+      <li>City Purchasing Agent (CPA) - The chief of BOP, also known as the Chief Procurement Officer, who has the overall responsibility for the PCP.</li>
+      <li>Corporate Invoice - Invoice from card provider of monthly activity on all P-Cards issued to the City.</li>
+      <li>Dispute - A disagreement concerning one or more transactions.</li>
+      <li>Emergency Procurement (as defined by <cite doc="City of Baltimore, Md., Charter" path="VI">City Charter Article VI</cite> § 11 (e)(i)) - Unforeseen events in which the public welfare would be adversely affected by awaiting approval of the Board of Estimates.</li>
+      <li>Fraud - Wrongful or criminal deception intended to result in financial gain.</li>
+      <li>Grace Period - The period that begins with the statement ending date and the commencement of the reconciliation period.</li>
+      <li>Individual Statement - Statement from card provider containing the cardholder's P-Card activity.</li>
+      <li>Invoice - A document, made by the vendor and issued to the buyer, to request payment. It contains, at a minimum, the name and address of the parties, description of item(s), price, and date.</li>
+      <li>Merchant Category Code (MCC) - A code assigned to a merchant that reflects the primary category in which a merchant does business. It is used to classify the business by the type of goods or services it provides.</li>
+      <li>P-Card Program Administrator - BOP representative designated by the CPA to direct the activities of the PCP.</li>
+      <li>P-Card Program Coordinator - BOP representative who, under the direction of the P-Card Program Administrator, serves as the focal point for the program's daily activities and is the liaison between the card provider and agency.</li>
+      <li>Purchase Order (PO) - A direct order to a vendor to provide the City with goods or services, issued electronically via BOP's e-procurement system. This may be either an open market PO (a one-time order), or a master blanket PO, which creates a contract for a set time period and upset dollar limit, against which specific orders are made by release purchase orders.</li>
+      <li>Receipt - A document, made by the vendor and issued to the buyer, acknowledging payment and receipt of goods. It contains the vendor's name and address, date of transaction, item(s) purchased, quantity, and total cost of the transaction.</li>
+      <li>Reconciliation Period - The period granted to each cardholder to reconcile his/her monthly individual statement.</li>
+      <li>Recurring Expenditure - An expenditure that is incurred periodically (e.g. monthly, bi-monthly, quarterly, semi-annually, annually).</li>
+      <li>Split Procurement - A purchase split into multiple transactions from a specific vendor to avoid the dollar limit.</li>
+    </ul>
+  </text>
+  <text>
+    <u>Eligibility</u>
+  </text>
+  <text>The applicant must:</text>
+  <text>
+    <ul>
+      <li>be an active permanent City employee (former, temporary and contractual employees and retirees are ineligible);</li>
+      <li>have been identified and approved by their supervisor and agency head (or agency head's designee) to spend their agency funds using the P-Card;</li>
+      <li>submit a <em>New Procurement Card Application</em> and any other forms or agreements that may be required to BOP; and</li>
+      <li>participate in a mandatory training session, if approved, before the P-Card is issued.</li>
+    </ul>
+  </text>
+  <text>The agency coordinator must:</text>
+  <text>
+    <ul>
+      <li>be an active permanent City employee (former, temporary and contractual employees and retirees are ineligible);</li>
+      <li>have been appointed in the role by his/her supervisor and agency head (or agency head's designee);</li>
+      <li>participate in a mandatory training session before serving in the role;</li>
+      <li>have the authority to create a budget account number (BAN) with the Department of Finance, Bureau of the Accounting &amp; Payroll Services (BAPS); and</li>
+      <li>prepare a journal entry and cash deposit slip.</li>
+    </ul>
+  </text>
+  <text>The agency approving official and his/her proxy must:</text>
+  <text>
+    <ul>
+      <li>be an active permanent City employee (former, temporary, and contractual employees, and retirees are ineligible);</li>
+      <li>have been appointed in the role by his/her supervisor and agency head (or agency head's designee);</li>
+      <li>participate in a mandatory training session before serving in the role; and</li>
+      <li>have the authority to approve all P-Card transactions, documentation, and BANs.</li>
+    </ul>
+  </text>
+  <text>This program requires each agency to:</text>
+  <text>
+    <ul>
+      <li>have a minimum of two eligible employees to participate. At a minimum, one eligible employee can serve as the cardholder and agency coordinator. An agency approving official can be a cardholder; however, he/she cannot serve as the agency approving official of his/her P-Card. A proxy must be designated for the agency approving official.</li>
+      <li>include a BAN on each applicant's <em>New Procurement Card Application</em>. This account number must be active prior to submitting the application to BOP. The cardholder's total monthly expenses will be charged to it. Capital BANs are unacceptable. Only general fund BANs are acceptable. Other BANs will only be accepted from agencies that do not use general fund BANs.</li>
+    </ul>
+  </text>
+  <text>
+    <u>Card Use</u>
+  </text>
+  <text>P-Cards can be used for two primary purposes as follows:</text>
+  <para name="">
+    <num>1.</num>
+    <text>Purchase of</text>
+    <text>
+      <ul>
+        <li>goods (point of sale and emergencies); and</li>
+        <li>travel-related services, emergency services, and other services as described in the PCP User Manual.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="">
+    <num>2.</num>
+    <text>Payment of invoices as set by the terms of an approved PO (to be determined in advance by BOP).</text>
+    <text>Agencies must have a significant number of P-Cards to meet their operational needs. However, agencies may have shared cards as long as sufficient internal controls are in place and the cardholder remains primarily responsible for all duties related to it.</text>
+    <text>
+      <u>Card Restrictions and Purchase and Payment Limitations</u>
+    </text>
+    <text>P-Cards cannot be used to purchase goods and services when a requirements contract is in place for the desired goods and services (excluding exceptions identified by BOP).</text>
+    <text>The City is exempt from paying sales taxes. Violators must reimburse the City for any sales tax improperly paid and may be subject to enforcement action.</text>
+    <text>Items intended for personal use (e.g. serves no legitimate government purpose) may not be charged, even when there are intentions of reimbursing the City. Violators must reimburse the City and may be subject to enforcement and/or disciplinary action.</text>
+    <text>Additionally, the following is a list of some items for which purchase is restricted on the P-Card (excluding specific exceptions identified by BOP):</text>
+    <text>
+      <ul>
+        <li>Alcoholic beverages</li>
+        <li>Capital equipment</li>
+        <li>Cash advances</li>
+        <li>Computers</li>
+        <li>Construction and renovations</li>
+        <li>Consulting services</li>
+        <li>Entertainment (e.g. amusement park, theatre, zoo)</li>
+        <li>Firearms and ammunition</li>
+        <li>Furniture and furniture related items</li>
+        <li>Gasoline or diesel fuel</li>
+        <li>Incentive cards (e.g. gift cards)</li>
+        <li>Jewelry</li>
+        <li>Prescription drugs or other controlled substances</li>
+        <li>Printing services</li>
+        <li>Rental/lease of vehicles</li>
+        <li>Tobacco products</li>
+        <li>Wireless devices</li>
+      </ul>
+    </text>
+    <text>Agencies that wish to use their P-Card for educational courses can only do so after receiving written confirmation from the Department of Human Resource (DHR) that the desired course is not offered by the DHR.</text>
+    <text>Each P-Card account is coded with the following:</text>
+    <text>
+      <ul>
+        <li>Purchase limits:</li>
+        <li>credit limit for the cycle</li>
+        <li>dollar limit per transaction</li>
+        <li>dollar limit per vendor per fiscal year (excluding exceptions identified by BOP)</li>
+        <li>Merchant Category Code (MCC) - Only certain classes of merchants can be utilized, and each merchant is identified as their type of business by a Standard MCC. Allowed MCCs are individually assigned to each P-Card. These codes will allow each P-Card to be used only at those merchants within an authorized MCC.</li>
+      </ul>
+    </text>
+    <text>In the event a P-Card will be used as a payment method on a PO, BOP may require a separate P-Card application be submitted for a card that will have the credit limits and/or dollar limits removed. This card will only be approved for use as a payment method on POs, and not for purchases directly with merchants.</text>
+    <text>Agencies must submit to and receive from BOP an approved <em>Procurement Card Program Waiver Request </em>or alternate documentation identified by BOP to remove restrictions, increase purchase and payment limits, and adjust MCCs.</text>
+    <text>
+      <u>Purchase Procedures</u>
+    </text>
+    <text>Prior to using the P-Card, the cardholder must:</text>
+    <text>
+      <ul>
+        <li>Ensure the following:</li>
+        <li>the purchase is necessary to or supportive of City operations and in accordance with the City's fiscal AM policies;</li>
+        <li>the goods are immediately available and delivered within a 30-day billing cycle (no back ordering); and</li>
+        <li>the goods will be delivered to a City work site.</li>
+        <li>Ensure that the desired goods are not covered by a current requirements contract and have an approved <em>Procurement Card Program Waiver Request </em>from BOP when an exception to this requirement is needed.</li>
+        <li>Ensure that his/her agency will not exceed the dollar limits and, where applicable, have an approved <em>Procurement Card Program Waiver Request </em>from BOP when an exception to this requirement is needed. Split procurements may go through once this dollar limit has been met; however, cardholders will be in violation of this policy and subject to enforcement and/or disciplinary action.</li>
+      </ul>
+    </text>
+    <text>When making a purchase, the cardholder must provide each merchant the City's tax ID number as tax exemption is not an automatic process. When the cardholder receives their goods, he/she must:</text>
+    <text>
+      <ul>
+        <li>immediately check to ensure that items purchased have been received and undamaged;</li>
+        <li>ensure that the agreed-upon services were provided;</li>
+        <li>ensure sales tax is not assessed;</li>
+        <li>check the invoice to ensure the amount billed harmonizes with the quote;</li>
+        <li>immediately contact the vendor to correct any discrepancies; and</li>
+        <li>follow the card provider's procedures for disputing charges if the dispute cannot be resolved with the vendor.</li>
+      </ul>
+    </text>
+    <text>Orders must not be placed with vendors</text>
+    <text>
+      <ul>
+        <li>that insist on charging sales tax;</li>
+        <li>with whom a cardholder has an unresolved sales tax charge; and</li>
+        <li>that will not provide written proof of purchase that includes the vendor's name and address, date of purchase, item(s) purchased, quantity, and cost.</li>
+      </ul>
+    </text>
+    <text>
+      <u>Reconciliation</u>
+    </text>
+    <text>During the grace period, the card provider shall notify each cardholder, the agency coordinator, and the agency approving official on the day each cardholder's individual statement is available if there is activity during the period. This notification represents the date the cardholder receives their individual statement. Upon receipt, each cardholder must immediately review it for accuracy. Discrepancies that cannot be corrected with the vendor and fraudulent charges must be immediately reported to the card provider.</text>
+    <text>Each individual statement must be reconciled with the following documents:</text>
+    <text>
+      <ul>
+        <li>Receipt or invoice for each transaction;</li>
+        <li>Journal Entry (version approved by BAPS) - The charges for all P-Card transactions will be applied to the BAN identified on the cardholder's application. At the end of each monthly billing cycle, the agency coordinator must prepare a journal entry that credits this BAN and debits the appropriate BAN for each transaction.</li>
+        <li>Written documentation provided to the card provider when disputing discrepancies and fraudulent charges, if applicable;</li>
+        <li>Reimbursement documentation, if applicable; and</li>
+        <li>Written authorization as described in this policy and/or the PCP user guide.</li>
+      </ul>
+    </text>
+    <text>All of these documents, where applicable, must be approved and submitted to BOP by the agency approving official before the conclusion of the reconciliation period. The reconciliation period includes the time required by BAPS to approve the agency's journal entry. Enforcement action, up to and including deactivation of P-Card, may be implemented if BOP does not receive these documents before the reconciliation period concludes. Once a P-Card is deactivated, the cardholder can re-apply as a new applicant but must correct shortcomings and attend training before a new P-Card is issued to him/her.</text>
+    <text>
+      <u>Reimbursement</u>
+    </text>
+    <text>Cardholders who pay sales tax and purchase unauthorized items are in violation of this policy and may be subject to enforcement and/or disciplinary action, up to and including termination and legal action. If the cardholder has lost a receipt, he/she must reimburse the City for the expense or provide an affidavit of the purchase and loss of the receipt. Sales tax and personal and unauthorized items must be reimbursed to the City via a Cash Deposit Slip. The cardholder must submit a validated copy of the deposit slip or a signed missing receipt affidavit to BOP with their reconciliation documentation by the deadline in which the expense was incurred. If the cardholder reimburses for the lost receipt and subsequently locates the receipt or receives a credit of sales tax from a vendor in a future individual statement, he/she can pursue reimbursement in accordance with the <em>Employee Expense Report</em> policy (<cite path="§AM-240-11">AM-240-11</cite>). The City can pursue reimbursement from the cardholder by payroll authorization.</text>
+    <text>If a third party is reimbursing the City for P-Card transactions, the agency must prepare a Cash Deposit Slip applying the reimbursement to the BAN that each reimbursable expense was charged. A copy of the validated deposit slip and supporting documentation must be submitted to BOP.</text>
+    <text>
+      <u>Responsibilities of Stakeholders</u>
+    </text>
+    <text>
+      <ul>
+        <li>Cardholders</li>
+        <li>Be knowledgeable about and use their P-Card in accordance with this AM policy;</li>
+        <li>Strive to obtain the best value for the City;</li>
+        <li>Keep his/her P-Card in a secure place, not allowing any unauthorized personnel to use it;</li>
+        <li>Be accountable for and justify each P-Card purchase;</li>
+        <li>Reimburse the City for sales tax, personal and unauthorized items, and expenses for lost receipts (except where lost receipt affidavit is provided);</li>
+        <li>Sign an acknowledgement and a wage authorization form to reimburse the City for P-Card expenses unauthorized by this AM policy;</li>
+        <li>Review his/her individual statement for accuracy immediately upon receipt and follow the card provider's instructions when disputing transactions and when fraud is detected;</li>
+        <li>Submit to BOP a receipt or invoice for each transaction charged to his/her P-Card and other documentation described in this AM policy or the PCP user guide;</li>
+        <li>Provide advance notification to BOP when he/she is transferring to another City agency or separating from City services and give his/her P-Card to the agency coordinator before their departure; and</li>
+        <li>Immediately notify the agency coordinator when his/her P-Card is lost or stolen or has fraudulent activity.</li>
+        <li>Agency Coordinator</li>
+        <li>Act as the cardholder in the cardholder's absence;</li>
+        <li>Review the cardholder's individual statement and documentation and correct shortcomings, if any;</li>
+        <li>Assign a BAN for each P-Card and for each P-Card transaction and ensure they are active;</li>
+        <li>Prepare or have the ability to prepare a journal entry and cash deposit slip;</li>
+        <li>Immediately notify BOP when a cardholder's P-Card is lost or stolen or has fraudulent activity;</li>
+        <li>Retrieve P-Card from cardholder who separates from the agency or from the City and return it to BOP; and</li>
+        <li>Notify BOP when he/she is separating from his/her agency or from the City.</li>
+        <li>Agency Approving Official</li>
+        <li>Direct the PCP functions within his/her agency;</li>
+        <li>Certify that each individual statement of the cardholder(s) within his/her agency, the receipt and invoice for each transaction, each journal entry, and other P-Card related documentation comply with this policy and the PCP user guide;</li>
+        <li>Ensure the submission of required documentation to BOP by the due date for each cardholder within his/her agency;</li>
+        <li>Ensure reimbursement has been paid, where applicable, and supporting documentation is provided to BOP;</li>
+        <li>Notify BOP in writing prior to a cardholder's separation from the agency;</li>
+        <li>Ensure the cardholder's P-Card is no longer used upon a cardholder's separation from the agency;</li>
+        <li>Notify BOP in writing prior to re-assigning the agency coordinator responsibilities to another employee;</li>
+        <li>Initiate appropriate disciplinary action utilizing City policies and procedures when cardholders and agency coordinators do not adhere to or fully perform their responsibilities as outlined in this AM policy; and</li>
+        <li>Coordinate the agency's participation with internal and external auditors upon receipt of notification from BOP.</li>
+        <li>Agency Head</li>
+        <li>Ensure the PCP functions within his/her agency are properly followed;</li>
+        <li>Ensure application of disciplinary action utilizing current City policies and procedures when the agency's cardholder(s), agency coordinator(s), and agency approving official(s) do not adhere to or fully perform their responsibilities as outlined in this AM policy and the PCP user guide; and</li>
+        <li>Ensure that all cases of P-Card misuse within his/her agency are reported in writing to the P-Card Program Administrator and the Office of the Inspector General.</li>
+        <li>Bureau of Accounting and Payroll Services</li>
+        <li>Approve or disapprove P-Card journal entries submitted by agencies within four (4) calendar days of receipt; and</li>
+        <li>Issue payment of card provider invoice upon receipt of required documentation from BOP and the card provider.</li>
+        <li>Bureau of Procurement</li>
+        <li>Identify credit and payment limits;</li>
+        <li>Provide training to P-Card stakeholders;</li>
+        <li>Review and approve or deny applications and waiver requests;</li>
+        <li>Create a PCP user guide that provides PCP details and procedures for stakeholders and ensure that an updated version is provided to stakeholders;</li>
+        <li>Provide a current requirements contract list of goods that are covered by purchase orders;</li>
+        <li>Make available to each agency a current list of cardholders within his/her agency and their activity so cardholder(s) can determine if his/her agency has met, about to meet, or exceeded the dollar limit per vendor per agency per fiscal year requirement.</li>
+        <li>Arrange for the payment of the corporate invoice from the card provider in accordance with payment procedures identified by BAPS;</li>
+        <li>Audit at least ten (10) cardholders each month by analyzing their reconciliation documentation;</li>
+        <li>Take appropriate enforcement action;</li>
+        <li>Work with internal and external auditors, upon receipt of a letter of engagement for a PCP audit;</li>
+        <li>Maintain records of applications, cards issued, waivers requested and granted, audits, training, enforcement actions, surrendered cards; and</li>
+        <li>Maintain the contract with the card provider.</li>
+      </ul>
+    </text>
+    <text>
+      <u>Retention of Files</u>
+    </text>
+    <text>Each agency must retain their P-Card documentation (to include all receipts and card statements) of the current calendar year and three calendars years preceding the current one.</text>
+    <text>
+      <u>Rights of BOP</u>
+    </text>
+    <text>BOP has the right to:</text>
+    <text>
+      <ul>
+        <li>reject an employee's P-Card application even if he/she meets the qualifications;</li>
+        <li>deny or discontinue an agency's use of a P-Card and require an agency to obtain a PO;</li>
+        <li>retain the P-Card if BOP believes a cardholder does not completely understand this AM policy, the PCP user guide, and his/her responsibilities related to the PCP after participating in training;</li>
+        <li>require that P-Card stakeholders attend refresher training and subject cardholders and agency to enforcement action if cardholder fails to attend;</li>
+        <li>extend the deadline for an agency to submit their reconciliation documentation; and</li>
+        <li>remove restrictions, adjust credit limit, increase purchase and payment limits, and adjust MCCs, upon receipt of a written request from an agency.</li>
+      </ul>
+    </text>
+    <text>
+      <u>Violation</u>
+    </text>
+    <text>P-Card stakeholders who violate this policy, abuse the PCP, and/or fail to fulfill their responsibilities as outlined in this policy may incur enforcement action (up to and including card deactivation), disciplinary action (up to and including termination), and/or legal action.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2009-07-01" display="true">July 1, 2009</annotation>
+    <annotation type="History" effective="2020-01-01" display="true">January 1, 2020</annotation>
+  </annotations>
+</section>

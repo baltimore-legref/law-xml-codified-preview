@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-505-1</num>
+  <heading>Insurance for Loss or Damage to City Property</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Office of Risk Management, Department of Finance, must be notified within 24 hours by telephone, followed by a letter or e-mail of notification, of any loss to City-owned real property, including contents. In cases of loss or damage to real property, the Building Inspection/Maintenance Engineer for the building/agency shall also be notified.</text>
+  </para>
+  <para name="losses">
+    <heading>LOSSES</heading>
+    <para>
+      <num>1.</num>
+      <text>Losses of $5,000 or less are absorbed by the affected agency.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Losses above $5,000 to limits of commercial insurance policy's deductible, currently at $500,000, are covered by the City's Self-Insurance Fund. (The first $5,000 of a covered loss is still the agency's responsibility.)</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Losses in excess of the commercial insurance policy's deductible, currently at $500,000, are covered by a commercial insurance policy. (In such cases, the first $5,000 is the agency's responsibility; the next $495,000, or the limits of the commercial insurance policy's deductible, is covered by the City's Self-Insurance Fund.)</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>The City's Self-Insurance Fund <strong>is not </strong>responsible for unexplained disappearance of City-owned property.</text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>The City or the City's Self-Insurance Fund <strong>is not </strong>responsible for the loss, damage or unexplained disappearance of a City employee's personal property, unless it is proven to be used for work and is a requirement of employment.</text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>Only losses that would be covered (a covered event or covered cause of loss) under the City's commercial insurance policy (whether or not the $500,000 deductible was breached), will be paid by the City's Self-Insurance Fund.</text>
+      <text>When there is a loss of other City property, but not as a result connected with a real property or its contents:</text>
+    </para>
+    <para>
+      <num>1.</num>
+      <text>Losses up to $5,000, depending on the particular type of loss and the insurance policy providing such coverage, are absorbed by the affected agency.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Losses above $5,000 to limits of the commercial insurance policy's deductible are covered by the City's Self-Insurance Fund. (The first $5,000 of a covered loss is still the agency's responsibility.)</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Losses in excess of the commercial insurance policy's deductible are covered by a commercial insurance policy. (In such cases, the first $5,000 is the agency's responsibility; the balance of the commercial insurance policy's deductible, is the City's responsibility.) When there is a loss, the entire amount of the loss may be covered by the City's Self-Insurance Fund or by a commercial insurance policy, subject to the procedures above.</text>
+      <text>The amount of the deductible, which is applied in the all of the above circumstances, may be at the administrative discretion of the Office of Risk Management, Department of Finance, in some cases. See <cite path="§AM-505-1-1">AM-505-1-1</cite>.</text>
+      <text>The City generally does not assume responsibility for alleged injuries or damage except those:</text>
+      <text>
+        <ul>
+          <li>Involving City-owned or operated motor vehicles and caused by the negligence of a City employee and not covered by commercial insurance.</li>
+          <li>Involving damages to property of others caused by the negligence of a City employee or agency and not covered by commercial insurance, while said property is under the care, custody and control, per a written agreement signed by an authorized City official.</li>
+        </ul>
+      </text>
+      <text>An agency must notify the Central Bureau of Investigation, Law Department, within 24 hours of any alleged:</text>
+      <text>
+        <ul>
+          <li>Accidental injury to an employee of the City.</li>
+          <li>Claims against the City or its employees.</li>
+          <li>Injury to a person or damage to property of others, while under the care, custody and control, caused by the City or its employees, whether or not covered by commercial insurance.</li>
+          <li>Claims by the City against a person responsible for damages to City property.</li>
+        </ul>
+      </text>
+    </para>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2008-01-23" display="true">January 23, 2008</annotation>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
+  </annotations>
+</section>

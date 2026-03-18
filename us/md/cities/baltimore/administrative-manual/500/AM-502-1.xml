@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-502-1</num>
+  <heading>Records Management</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Under <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, the Baltimore City Archives and Records Management Office is empowered to implement and oversee records management of all City agencies. All agencies are required to maintain records of all proceedings, financial transactions and official acts. Only records covered by an approved retention schedule for the agency can be stored in the City Archives and Records Management Center. Disposal of records must be approved by the Records Management Officer and be included on the retention schedule of the agency.</text>
+  </para>
+  <para name="records-management-officer">
+    <heading>RECORDS MANAGEMENT OFFICER</heading>
+    <text>The Records Management Officer operates a City Archives and Records Management Center for the purpose of storing City records. It is located at 2615 Mathew Street, Baltimore, MD, 21218. The officer is empowered to inspect records, review record management practices of individual agencies and to initiate record policies and procedures with the approval of the City Records Committee. This officer is responsible for microfilming records, maintaining the microfilm for individual agencies, and operating the City Archives and Records Management Center.</text>
+  </para>
+  <para name="agency-responsibilities">
+    <heading>AGENCY RESPONSIBILITIES</heading>
+    <text>The agency head or designated representative must request permission from the Records Management Officer to:</text>
+    <text>
+      <ul>
+        <li>Establish and change the Retention Schedule, i.e. period of time records must be kept.</li>
+        <li>Retain records in the City Archives or Records Management Center</li>
+        <li>Determine the form in which record services are to be kept, i.e. original, microfilm, etc.</li>
+        <li>Retain records of historical significance.</li>
+        <li>Dispose of unnecessary and inactive records.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="approval-process">
+    <heading>APPROVAL PROCESS</heading>
+    <text>After the survey has been initiated, the Archives staff will submit to the agency head a Records Disposition Authorization form, i.e., Records Retention Schedule. It contains the schedule for records management and material retention for the agency. Upon acceptance by the agency head, the Records Disposition Authorization form will be submitted to the City Records Committee for review and verification. The schedule goes into place upon acceptance by that committee.</text>
+  </para>
+  <para name="historical-holdings">
+    <heading>HISTORICAL HOLDINGS</heading>
+    <text>The Archives staff collects and administers the municipal government's historical records. Over 5,000 cubic feet of historical material is available for research purposes. All records are categorized and extensive name indices are available.</text>
+    <text>Historical holdings include:</text>
+    <text>
+      <ul>
+        <li>Official papers from each Baltimore Mayor</li>
+        <li>Maps of Baltimore City</li>
+        <li>Election records</li>
+        <li>Tax records</li>
+        <li>Administrative files from City agencies</li>
+      </ul>
+    </text>
+  </para>
+  <para name="records-access">
+    <heading>RECORDS ACCESS</heading>
+    <text>Work space is provided for records users. Individuals who enter the storage area must state their affiliation and purpose. Material that the Maryland Public Information Act designates as confidential is restricted. Record users should familiarize themselves with the location and nature of all needed records. Agency users should refer to the retention schedule on file with the City Archives as well as the Records Transmittal Request form before requesting use of stored materials.</text>
+  </para>
+  <para name="staff-assistance">
+    <heading>STAFF ASSISTANCE</heading>
+    <text>Archives staff can assist you with questions about the City's history, past projects, administrative decisions and agency responsibilities, and other related topics. The City Archives and Records Management Center is located at 2615 Mathews Street, Baltimore, MD, 21218; telephone number 410-396-3884.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1988-12-15" display="true">December 15, 1988</annotation>
+    <annotation type="History" effective="2010-12-03" display="true">December 3, 2010</annotation>
+    <annotation type="Related Policies"><cite path="§AM-119-1">AM-119-1</cite> Electronic Mail Retention</annotation>
+    <annotation type="Related Policies"><cite path="§AM-502-1-1">AM-502-1-1</cite> Procedure for Disposal of Records – Sending Records to Archives</annotation>
+    <annotation type="Related Policies"><cite path="§AM-502-1-2">AM-502-1-2</cite> Procedure for Creating or Changing Records Retention Schedules</annotation>
+    <annotation type="Related Policies"><cite path="§AM-502-1-3">AM-502-1-3</cite> Procedure for Scanning Records</annotation>
+  </annotations>
+</section>

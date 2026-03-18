@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-501-11</num>
+  <heading>Vehicle Damage and Malfunction</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Whenever vehicle damage, malfunctions, or accidents occur, appropriate actions must be initiated within 24 hours by the operator or assignee, and the supervisor. Once notified of the damage, malfunction, or accident, Fleet Management Division (FMD), and the Vehicle Damage Inspector become involved in analyzing, investigating and following through on the occurrence in accordance with this policy.</text>
+  </para>
+  <para name="operator-responsibility">
+    <heading>OPERATOR RESPONSIBILITY</heading>
+    <text>If vehicle is damaged it is the responsibility of the operator to:</text>
+    <text>
+      <ul>
+        <li>Report vehicle damage by telephone or in person to his/her immediate supervisor. If the vehicle operator is not the assignee, the operator must also report the damage to the assignee.</li>
+        <li>Notify FMD, by telephone of vehicle damage, and arrange for repairs.</li>
+        <li>Complete and forward a VEHICLE DAMAGE DESCRIPTION to the immediate supervisor detailing the incident.</li>
+      </ul>
+    </text>
+    <text>If vehicle malfunctions, it is the responsibility of the operator to:</text>
+    <text>
+      <ul>
+        <li>Report vehicle malfunction immediately to FMD and arrange for repairs.</li>
+      </ul>
+    </text>
+    <text>If vehicle is in an accident, it is the responsibility of the operator to:</text>
+    <text>
+      <ul>
+        <li>Report accidents in accordance with <cite path="§AM-501-10">AM-501-10</cite>, Motor Vehicle Accidents.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="supervisor-responsibilities">
+    <heading>SUPERVISOR RESPONSIBILITIES</heading>
+    <text>Upon receipt of the operator's completed Vehicle Damage Description, review all information, complete the "IMMEDIATE SUPERVISOR" section of the form and distribute to the appropriate parties.</text>
+  </para>
+  <para name="fmd-responsibilities">
+    <heading>FMD RESPONSIBILITIES</heading>
+    <text>The FMD, within three (3) workdays from the initial observation or discovery of vehicle damage, must file a VEHICLE DAMAGE REPORT, (form # 28-4908-5077) concerning the damage and notify the proper parties:</text>
+    <text>
+      <ul>
+        <li>Vehicle Damage Investigator</li>
+        <li>Agency Vehicle Coordinator</li>
+        <li>Risk Management, Division of Occupational Safety</li>
+      </ul>
+    </text>
+    <text>The above actions must be taken if the FMD:</text>
+    <text>
+      <ul>
+        <li>Discovers vehicle damage while servicing or inspecting a vehicle; or</li>
+        <li>Discovers vehicle damage while investigating vehicle malfunction; or</li>
+        <li>Receives a report of vehicle damage.</li>
+      </ul>
+    </text>
+    <text>If the vehicle must be repaired by an outside vendor, the FMD must obtain a written estimate from the vendor stating the following information:</text>
+    <text>
+      <ul>
+        <li>Type of damage.</li>
+        <li>Probable cause of damage.</li>
+        <li>Estimated cost of repairs, i.e., an itemized breakdown of costs for labor and parts.</li>
+      </ul>
+    </text>
+    <text>The FMD, must submit a copy of the above-cited estimate with a Vehicle Damage Report to the Vehicle Damage Investigator.</text>
+    <text>The FMD may not release any vehicle which has been damaged without submission of a Vehicle Damage Report for that vehicle.</text>
+    <text>
+      <strong>Vehicle Damage Investigator</strong>
+    </text>
+    <text>The Vehicle Damage Investigator is responsible for reviewing and/or investigating all cases of vehicle damage involving City-owned vehicle. The investigator must determine whether damage occurred through negligence, misuse, and/or abuse, and notify the responsible party(ies).</text>
+    <text>The investigator must recommend specific disciplinary action and direct charges to the agency budget. In each case of vehicle damage, required investigative duties and necessary reports must be submitted within 20 days of completion of vehicle damage investigation.</text>
+  </para>
+  <para name="vehicle-damage-investigation-ruling">
+    <heading>VEHICLE DAMAGE INVESTIGATION RULING</heading>
+    <text>The Investigator may direct:</text>
+    <text>
+      <ul>
+        <li>An agency/bureau head to send any City-owned vehicle to the FMD for inspection.</li>
+        <li>The FMD to conduct an inspection of any City-owned vehicle.</li>
+      </ul>
+    </text>
+    <text>Copies of the VEHICLE DAMAGE RULING should be submitted to:</text>
+    <text>
+      <ul>
+        <li>Fleet Management Division.</li>
+        <li>Agency Fleet Coordinator.</li>
+        <li>Risk Management, Division of Occupational Safety</li>
+      </ul>
+    </text>
+    <text>Within 15 work days from receipt of the Vehicle Damage Ruling, the agency head must state on the form the disciplinary actions or reasons for not taking action by returning the form to the Investigator. If an employee is judged to have been negligent, abusive, etc., then the agency head may direct the following actions upon consultation with the Law Department and Office of the Labor Commissioner:</text>
+    <text>
+      <ul>
+        <li>suspension/termination.</li>
+        <li>require employee repayment.</li>
+        <li>reprimand the employee.</li>
+        <li>revoke vehicle assignment.</li>
+      </ul>
+    </text>
+    <text>Failure by the agency head to return the Vehicle Damage Ruling within the 15 work day time limit will result in the recall of the vehicle by the FMD, with all recall costs to be borne by the agency. Written notification of such failure will be made by the investigator to the Mayor.</text>
+  </para>
+  <para name="risk-management,-division-of-occupational-safety">
+    <heading>RISK MANAGEMENT, DIVISION OF OCCUPATIONAL SAFETY</heading>
+    <text>The Division of Occupational Safety has the authority to immediately suspend an employee's City of Baltimore Driver Permit and/or Special Purpose Vehicle Authorization. See <cite path="§AM-501-2, Part 1">AM-501-2, Part 1</cite>, Training Courses, Driver Permits, Authorizations and Licenses for City-Owned Vehicles, for complete information concerning suspension and revocation of the Driver Permit and Special Purpose Vehicle Authorization.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1986-07-01" display="true">July 1, 1986</annotation>
+    <annotation type="History" effective="2008-03-01" display="true">March 1, 2008</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-2, Part 1">AM-501-2, Part 1</cite> Training Courses, Driver Permits, Authorizations and Licenses for City-Owned Vehicles</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-2, Part II">AM-501-2, Part II</cite> Commercial Driver License</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-11">AM-501-11</cite> Vehicle Damage and Malfunction</annotation>
+  </annotations>
+</section>

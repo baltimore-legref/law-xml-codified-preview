@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-506-1</num>
+  <heading>Building Maintenance</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Department of Public Works, Bureau of General Services, is divided into three divisions that can assist with building services: General Services Engineering Division<strong>, </strong>Construction Management Division and Building Maintenance Division. All requests for work require the City form, Requisition for Repairs, Alterations, or Construction, and a budget account number to charge labor and materials.</text>
+  </para>
+  <para name="general-services-engineering-division">
+    <heading>GENERAL SERVICES ENGINEERING DIVISION</heading>
+    <text>
+      <ul>
+        <li>Provides architectural and engineering services such as studies, evaluations, designs, and cost estimates for major City building projects, including buildings owned by other City agencies.</li>
+        <li>Provides design services for repairs, alterations, maintenance and minor construction for various City agencies.</li>
+        <li>Reviews and approves plans for public and private building construction in accordance with State and local erosion and sediment control and storm water management requirements. Enforces the plan requirements through field inspections.</li>
+        <li>Provides assistance to City agencies to expedite all public right-of-way permits and approvals. The functions included in this group are providing maps and survey records, property location and ownership records, street and alley closures, right-of-entry agreements, developer's agreements, franchise agreements, temporary use of the right-of-way permits (such as curb lane closures, dumpsters, fences, fire pots and filming), blasting permits, special event permits, banner installation, minor privilege permits, sediment and erosion control and storm water management approvals, and inspection enforcement of all the above.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="construction-management-division">
+    <heading>CONSTRUCTION MANAGEMENT DIVISION</heading>
+    <text>
+      <ul>
+        <li>Provides project management services including construction inspection, change order review and approval, contractor payments, progress meetings, evaluations of contractor and subcontractor performance for all public building and environmental engineering construction projects.</li>
+        <li>Is responsible for the abatement of asbestos and mold within City-owned buildings.</li>
+        <li>Monitors the construction, alteration, maintenance and repair of City-owned buildings performed by outside contractors.</li>
+        <li>Solicits informal bids for emergency repairs (Construction Maintenance).</li>
+      </ul>
+    </text>
+  </para>
+  <para name="building-maintenance-division">
+    <heading>BUILDING MAINTENANCE DIVISION</heading>
+    <text>
+      <ul>
+        <li>Operates and maintains over 400 City-owned buildings.</li>
+        <li>Provides construction and repair services for City-owned buildings.</li>
+        <li>Provides contractual custodial services.</li>
+        <li>Provides contractual unarmed guard services.</li>
+        <li>Provides contractual lawn cutting, extermination, and other related building services.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="leased-buildings">
+    <heading>LEASED BUILDINGS</heading>
+    <text>In buildings leased by City agencies, the property owners, usually provide certain services, according to the specific terms of leases.</text>
+  </para>
+  <para name="procedure-to-request-work">
+    <heading>PROCEDURE TO REQUEST WORK</heading>
+    <text>All requests for work require a requisition and an identified budget account number to charge labor and materials. Specific requests and questions regarding requests should be directed to the Bureau of General Services. Contact 410-396-3704 for referral information.</text>
+    <text>To request work, the agency division chief would follow the steps below.</text>
+    <para>
+      <num>1.</num>
+      <text>Determine need for maintenance, alterations, or repairs of municipal buildings.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Complete the City form, Requisition for Repairs, Alterations or Construction (#28-1428-5050).</text>
+      <text class="text-indent-2">
+        <ul>
+          <li>Type all requested information in the spaces provided.</li>
+          <li>Indicate the 15 digit budget account number to be charged in upper left-hand corner of requisition.</li>
+          <li>Mark "Confirmatory" and give date of call in the space labeled "NATURE OF WORK TO BE DONE" when following up on an emergency call.</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Forward requisition to department or bureau head for signature.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Send signed requisition to the Bureau of General Services, Abel Woman Municipal Building, 200 N. Holiday St., Room 801.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1970-06-01" display="true">June 1, 1970</annotation>
+    <annotation type="History" effective="2004-10-25" display="true">October 25, 2004</annotation>
+  </annotations>
+</section>

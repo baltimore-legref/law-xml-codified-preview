@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-410-1</num>
+  <heading>Payment of Settlement and Judgments</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy clarifies the process in which the Law Department approves or recommends for approval settlements and judgments against the City, its agencies, and employees.  It also sets forth the circumstances requiring Board of Estimates approval of a settlement or judgment.</text>
+  </para>
+  <para name="internal-law-department-approval-of-claims-settlements">
+    <heading>INTERNAL LAW DEPARTMENT APPROVAL OF CLAIMS SETTLEMENTS</heading>
+    <text>Pursuant to the Law Department's internal policies and procedures, no settlement involving the payment of money can be entered into without the prior review and approval by the appropriate approving authority.  The Deputy Chief of the Central Bureau of Investigation (CBI) has settlement approval authority up to $4,000.  The Chief of Litigation has settlement approval authority up to $5,000.  Typically, settlements between $5,001 and $8,000 will be approved by the Small Settlement Committee of the Law Department, which is made up of three members (one of the City Solicitor, Deputy City Solicitor or Chief of Litigation and two senior lawyers within the Law Department).  Typically, settlements of more than $8,000 will be approved by the Large Settlement Committee of the Law Department, which is made up of at least three members, including the City Solicitor, the Deputy City Solicitor, and the Chief of Litigation.  The City Solicitor or Deputy City Solicitor may approve or recommend a settlement of any amount, but for matters over $5,000 will inform other members of the appropriate settlement committee of such settlements.</text>
+  </para>
+  <para name="payment-of-settlements">
+    <heading>PAYMENT OF SETTLEMENTS</heading>
+    <text>The Law Department will submit any proposed settlement valued at $25,000 or more to the Board of Estimates for approval.</text>
+  </para>
+  <para name="payment-of-judgments">
+    <heading>PAYMENT OF JUDGMENTS</heading>
+    <text>Final judgments are orders of court that do not require Law Department or Board of Estimates approval.  The Law Department will pay final judgments in any amount once all appeals have been exhausted or a determination is made not to appeal.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
+    <annotation type="History" effective="2016-09-27" display="true">September 27, 2016</annotation>
+  </annotations>
+</section>

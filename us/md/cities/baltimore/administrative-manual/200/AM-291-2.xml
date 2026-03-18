@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-291-2</num>
+  <heading>Codes for Non-Civil Service Classes</heading>
+  <text>The codes listed in the following pages are explained below.</text>
+  <para name="representation-codes">
+    <heading>REPRESENTATION CODES</heading>
+    <text>The following codes indicate which, if any, labor union or professional group represents employees in a particular job classification. This list includes both Civil Service and Non-Civil Service classifications.</text>
+    <text>1  -  AFSCME, Local 44</text>
+    <text>2  -  Elected Officials</text>
+    <text>3  -  Appointed Officials subject to Provisions of Article VI, Sec. 10 (a) of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite></text>
+    <text>4  -  Unrepresented (AFSCME, Local 44 benefits)</text>
+    <text>5  -  AFSCME, Local 558</text>
+    <text>6  -  Managerial and Professional Society (MAPS)</text>
+    <text>7  -  AFSCME, Local 2202</text>
+    <text>8  -  Sworn Police Non-Supervisory</text>
+    <text>9  -  Unrepresented (MAPS benefits)</text>
+    <text>F - Sworn Fire Fighters (incl. Paramedics)</text>
+    <text>G - State Salary Scale*</text>
+    <text>M - Unrepresented (CUB benefits)</text>
+    <text>N - No Representation / No Benefits</text>
+    <text>O - Sworn Fire Officers</text>
+    <text>S - Sworn Police Supervisory</text>
+    <text>U - City Union of Baltimore (CUB</text>
+  </para>
+  <para name="flsa-codes">
+    <heading>FLSA CODES</heading>
+    <text>The column labeled "FLSA Code" is used to indicate the Fair Labor Standards Act status of a particular job class. The explanation of the codes is as follows:</text>
+    <text>N - Covered by FLSA (Non-Exempt) A - Exempt from FLSA (Administrative)</text>
+  </para>
+  <para name="eeoc-codes">
+    <heading>EEOC CODES</heading>
+    <text>The following Equal Employment Opportunity Compliance codes indicate how Civil Service and Non-Civil Service classifications are categorized:</text>
+    <text>1-Official and Administrator; 2-Professional; 3-Technician; 4-Protective Service; 5 - Paraprofessionals; 6-Office and Clerical; 7-Skilled Craft; 8-Service / Maintenance; 9 - Laborer; X-N.E.C. (Not Elsewhere Classified)- Used to designate certain elected and appointed officials; A - Education Official / Administrator; G - Other Teacher; L - Teacher's Aide.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2008-01-01" display="true">January 1, 2008</annotation>
+  </annotations>
+</section>

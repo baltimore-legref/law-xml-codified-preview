@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-401-1</num>
+  <heading>Petty Cash Fund</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>A petty cash fund is an amount of money available to an agency, bureau, or division to pay expenses where the use of an EA (Expenditure Authorization) is inappropriate. The Director of Finance must approve the establishment of a petty cash fund and authorize the maximum amount of cash to be made available in the fund.</text>
+  </para>
+  <para name="approved-uses">
+    <heading>APPROVED USES</heading>
+    <text>Payment for the following expenses may be disbursed from the petty cash fund:</text>
+    <text>Minor office, operating, and maintenance supplies, up to maximum value of $25.00. The item is needed to meet an emergency situation where time does not allow the procurement of items from a designated supplier.</text>
+    <text>Employee expenses, totaling $25.00 or less, incurred while in a "travel within City limits" status. (Such expenses must be permissible for reimbursement in accordance with <cite path="§AM-240-7">AM-240-7</cite>.)</text>
+  </para>
+  <para name="prohibited-uses">
+    <heading>PROHIBITED USES</heading>
+    <text>Payment for the following expenses shall not be disbursed from the petty cash fund:</text>
+    <text>
+      <ul>
+        <li>Employee expenses incurred frequently.</li>
+        <li>Employee expenses where the total amount exceeds $25.00.</li>
+        <li>Meal allowance.</li>
+        <li>Salaries and wages.</li>
+        <li>Out-of-town travel expenses.</li>
+        <li>Mileage reimbursement.</li>
+        <li>Stationery.</li>
+        <li>Business Cards.</li>
+        <li>Sales tax.</li>
+        <li>Postage stamps or mailing services available at the Municipal Post Office.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="sales-tax-exemption">
+    <heading>SALES TAX EXEMPTION</heading>
+    <text>The City is exempt from payment of State of Maryland sales tax. Agencies which make direct purchases must supply the City's tax exemption number (3000055-9) to the vendor at the time of purchase.</text>
+  </para>
+  <para name="disbursing-officer">
+    <heading>DISBURSING OFFICER</heading>
+    <text>The petty cash fund must be administered by a disbursing officer designated by the agency or bureau head. The Bureau of Accounting and Payroll Services is to be notified when there is a change in the disbursing officer. At the time of changeover, the authorized fund amount must be accounted for in writing by the relieved disbursing officer and verified by the agency head or designee. This accounting also applies to the Petty Cash Fund in the offices of elected officials.</text>
+  </para>
+  <para name="administration">
+    <heading>ADMINISTRATION</heading>
+    <text>It is the responsibility of the designated disbursing officer to maintain the petty cash fund, approve reimbursements and replenish the fund to the amount authorized by the Director of Finance. (See <cite path="§AM-401-1-1">AM-401-1-1</cite> for procedures.)</text>
+    <text>The petty cash fund must be kept in a locked and secure location and may not be combined with any other cash on the premises. If it is discovered that funds are missing, the City Police Department must be notified immediately and a report of the incident must be completed.</text>
+  </para>
+  <para name="disbursements">
+    <heading>DISBURSEMENTS</heading>
+    <text>An employee must receive approval from the agency head or disbursing officer prior to making any purchase for which petty cash funds are expected to be used.</text>
+    <text>When money is taken from the petty cash fund for an allowable expense, a PETTY CASH VOUCHER (28-1418-5094) (<cite path="§AM-401-1-1">AM-401-1-1</cite>) must be placed in the petty cash fund for the amount disbursed. This voucher must be properly completed and accompanied by the original receipt of purchase.</text>
+    <text>The use of these vouchers enables the disbursing officer to account for the total amount of the fund at any time. (Total vouchers on hand + total cash on hand + amount of un-reimbursed Direct Payment Orders, if any, = total petty cash fund.)</text>
+  </para>
+  <para name="checking-accounts">
+    <heading>CHECKING ACCOUNTS</heading>
+    <text>Under certain circumstances, a petty cash fund may be used to establish an agency checking account for the payment of expenses. If such an account is authorized, the following controls apply:</text>
+    <text>Prior authorization for the establishment and amount of the checking account must be obtained from the Director of Finance and the Board of Estimates.</text>
+    <text>The depository for such funds must be one designated by the Board of Finance.</text>
+    <text>Funds may be withdrawn only by checks bearing the signatures of the agency head or his designee, and the disbursing officer.</text>
+    <text>Signatures on checks must be manual.</text>
+    <text>The agency head, his designee and the disbursing officer must be bonded in such amount as may be determined appropriate by the Director of Finance.</text>
+  </para>
+  <para name="audits">
+    <heading>AUDITS</heading>
+    <text>The City auditor is authorized to perform an audit of any agency's petty cash fund.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2005-03-16" display="true">March 16, 2005</annotation>
+    <annotation type="History" effective="2016-10-13" display="true">October 13, 2016</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-16">AM-205-16</cite> MEAL ALLOWANCE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-239-1">AM-239-1</cite> ELECTED OFFICIALS BUSINESS EXPENSES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-7">AM-240-7</cite> TRAVEL WITHIN CITY LIMITS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-11">AM-240-11</cite> EMPLOYEE EXPENSE REPORT</annotation>
+    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDER</annotation>
+    <annotation type="Related Policies"><cite path="§AM-401-1-1">AM-401-1-1</cite> ESTABLISHING, INCREASING, DECREASING OR REPLENISHING PETTY CASH FUNDS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-503-1">AM-503-1</cite> OPERATIONS: MUNICIPAL POST OFFICE</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-1-1">AM-508-1-1</cite> STATIONERY</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-2-1">AM-508-2-1</cite> BUSINESS CARDS</annotation>
+  </annotations>
+</section>

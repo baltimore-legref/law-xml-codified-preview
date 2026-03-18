@@ -1,26 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-105-1.pdf">
   <prefix>Policy</prefix>
   <num>AM-105-1</num>
   <heading>Public Service Problems</heading>
-  <para name="scope">
-    <heading>SCOPE</heading>
-    <text>It is the responsibility of all City employees to look for problems involving all types of public services and to report these conditions promptly. Such problem areas include abandoned vehicles, clogged storm drains, missing traffic signs, dead animals, health violations, etc.</text>
-  </para>
-  <para name="emergency-problems">
-    <heading>EMERGENCY PROBLEMS</heading>
-    <text>Emergency problems, such as broken water mains, malfunction of traffic signals, flooding, etc. should be reported immediately by telephone or radio.</text>
-    <text><strong>Telephone </strong>- Supervisory personnel who have been issued cell phones or blackberries should report issues directly to City's One Call Center by dialing 311 or 443-263-2220.</text>
-    <text><strong>Radio </strong>- Other personnel who carry radios can radio to their yard and have the clerical staffs there enter the service requests. Clerical staffs should report issues directly City's One Call Center by dialing 311 or 443-263-2220.</text>
-  </para>
-  <para name="employee-lists">
-    <heading>EMPLOYEE LISTS</heading>
-    <text>All City agencies must prepare and maintain lists of: (1) all persons assigned City automobiles and trucks; and (2) all persons who use City cars or personal vehicles on a regular basis to conduct City business. Such lists must be kept up-to-date.</text>
-  </para>
-  <para name="employees-required-to-submit-reports">
-    <heading>EMPLOYEES REQUIRED TO SUBMIT REPORTS</heading>
-    <text>Persons named on the above lists will be expected to make full use of the City's complaint system.</text>
-  </para>
   <annotations>
     <annotation type="History" effective="1997-08-25" display="true">August 25, 1997</annotation>
     <annotation type="History" effective="2012-06-15" display="true">June 15, 2012</annotation>

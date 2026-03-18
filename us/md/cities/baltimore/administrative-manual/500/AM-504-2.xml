@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-504-2</num>
+  <heading>Quick Copy Center</heading>
+  <para name="description">
+    <heading>DESCRIPTION</heading>
+    <text>The Quick Copy Center (QCC) is operated by the Reproduction and Printing Section of the Bureau of Purchases.  The QCC provides multiple copies of documents at the lowest possible cost.  Agencies which require more than 50 copies of a document must utilize this service in order to minimize the City's copying costs.  Agency copiers must not be used for production of more than 50 copies of a single document</text>
+  </para>
+  <para name="quantity-limitations">
+    <heading>QUANTITY LIMITATIONS</heading>
+    <text>For quantities ranging from <u>50 to 2,000 copies</u> of a document, use of the QCC is the most economical method of reproduction.</text>
+    <text>For quantities <u>exceeding 2,000 copies</u> of a document, the most economical method of reproduction involves use of special equipment operated by the Reproduction and Printing Section.  Requests for such printing should be made in accordance with <cite path="§AM-504-1">AM-504-1</cite>.</text>
+  </para>
+  <para name="publications-committee-approval">
+    <heading>PUBLICATIONS COMMITTEE APPROVAL</heading>
+    <text>The Publications Committee must approve all material which is classified as a publication <u>prior</u> to printing.</text>
+    <text>To determine if a printing request requires Publications Committee approval, see <cite path="§AM-504-4">AM-504-4</cite>.</text>
+  </para>
+  <para name="capability">
+    <heading>CAPABILITY</heading>
+    <text>The QCC can provide from 50 to 2,000 copies of a document.  In addition, the QCC can punch, collate, staple, and bind copies.</text>
+  </para>
+  <para name="type-of-copies">
+    <heading>TYPE OF COPIES</heading>
+    <text>Copies will normally be printed on white bond paper 81/2" x 11", in black ink. (Colored paper and 8 ½" x 14"copies are available.)</text>
+  </para>
+  <para name="condition-of-documents-to-be-copied">
+    <heading>CONDITION OF DOCUMENTS TO BE COPIED</heading>
+    <text>Documents to be copies must be either 81/2" x 11", or 8 1/2"x14", and will be reproduced on the same size paper as the originals.  For proper quality copies, typewritten original documents should be prepared on white paper with a black ribbon; signatures should be written in <u>black ink</u>.</text>
+  </para>
+  <para name="obtaining-service">
+    <heading>OBTAINING SERVICE</heading>
+    <text>An approved PUBLICATION APPROVAL REQUEST (28-1258-5089) [<cite path="§AM-504-4-1">AM-504-4-1</cite>], if applicable, and a COPY CENTER DUPLICATING REQUEST (<cite path="§AM-504-2-1">AM-504-2-1</cite>) must be submitted to Reproduction and Printing to request Quick Copy service.</text>
+    <text>
+      <em>
+        <u>Note</u>
+      </em>
+      <em>:  If several document require the </em>
+      <em>
+        <u>same</u>
+      </em>
+      <em> number of copies, a single Copy Center request may be submitted.  However, if several documents require different numbers of copies, a separate request is necessary for each document.</em>
+    </text>
+    <text>Requests involving not more than 200 copies of 10 original sheets will be processed within 24 hours.  On larger request consult Reproduction and Printing for time estimates.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1984-01-23" display="true">January 23, 1984</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-508-2</num>
+  <heading>Business Cards</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Standards and controls for all City business cards are part of the City's Forms Control Program (developed and administered by the Administrative Manual Section of the Department of Finance).   These standards and controls are enacted in order to effect maximum monetary savings and to present a unified progressive image for the City.</text>
+  </para>
+  <para name="specifications">
+    <heading>SPECIFICATIONS</heading>
+    <text>All business cards will be printed using recycled paper in accordance with the following specifications.</text>
+    <text>Stock:		65% WHITE-LINEN FINISH	PRINTING:	FLAT OFFSET PRINTING (NO ENGRAVING,</text>
+    <text>THERMO-GRAPHIC, OR RAISED FACE</text>
+    <text>PRODUCTION ALLOWED).</text>
+    <text>INK:		PMS #456 GREEN			LAYOUT:	ONLY THE LAYOUT SHOWN IN <cite path="§AM-508-2-1">AM-508-2-1</cite></text>
+    <text>WILL BE ALLOWED.</text>
+    <text>SIZE:		2" X 3 1/2"</text>
+    <text>TYPE FACE:	TIMES ROMAN (OR EQUIVALENT)</text>
+  </para>
+  <para name="who-may-have-cards">
+    <heading>WHO MAY HAVE CARDS</heading>
+    <text>Business cards may only be authorized for those employees who have a definite need and legitimate requirement for cards in the performance of their duties.   Agency Heads are responsible for determining which employees qualify for cards.</text>
+  </para>
+  <para name="quantity">
+    <heading>QUANTITY</heading>
+    <text>The quantity of business cards to be printed is limited to a maximum <u>and</u> minimum order of 250 cards per person.</text>
+  </para>
+  <para name="ordering-cards">
+    <heading>ORDERING CARDS</heading>
+    <text>To order business cards, submit a properly completed BUSINESS CARD LAYOUT (28-1448-5098) {<cite path="§AM-508-2-1">AM-508-2-1</cite>} and a PURCHASE REQUISITION (28-1448-5123) {<cite path="§AM-301-1-1">AM-301-1-1</cite>} to the Digital Document Division (Print Shop). See <cite path="§AM-508-2-1">AM-508-2-1</cite> for details.</text>
+    <text>Petty cash funds {<cite path="§AM-401-1">AM-401-1</cite>} or DIRECT PAYMENT ORDERS (D.P.O's) {<cite path="§AM-303-1">AM-303-1</cite>} may <u>not</u> be used to obtain business cards; such methods of payment will not be honored.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1991-07-03" display="true">July 3, 1991</annotation>
+    <annotation type="Related Policies"><cite path="§AM-301-1">AM-301-1</cite> PURCHASING</annotation>
+    <annotation type="Related Policies"><cite path="§AM-301-1-1">AM-301-1-1</cite> COMPLETING A REQUISITION</annotation>
+    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDERS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-401-1">AM-401-1</cite> PETTY CASH FUND</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-1">AM-508-1</cite> STATIONERY</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-1-1">AM-508-1-1</cite> ORDERING STATIONERY</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-2-1">AM-508-2-1</cite> ORDERING BUSINESS CARDS</annotation>
+  </annotations>
+</section>

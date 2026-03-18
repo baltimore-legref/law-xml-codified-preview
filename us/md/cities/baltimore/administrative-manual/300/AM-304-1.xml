@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-304-1</num>
+  <heading>Interdepartmental Work Order</heading>
+  <text>An Interdepartmental Work Order (MDB 3916) is used to directly obtain various services provided by City agencies, rather than using the normal requisitioning process through the Bureau of Purchases. This form is generally used for interdepartmental services involving labor and/or material other than the normal maintenance services provide by the Bureau of General Services.</text>
+  <annotations>
+    <annotation type="History" effective="1970-06-01" display="true">June 1, 1970</annotation>
+  </annotations>
+</section>

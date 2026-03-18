@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-303-01</num>
+  <heading>Expenditure Authorizations (EAs)</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy concerns Expenditure Authorizations (EAs) (28-1428-5035), which may be used to pay for certain City obligations.  With the advent of the new CityDynamics financial system, Expenditure Authorizations (EAs) replace the use of Direct Payment Orders (DPOs).</text>
+  </para>
+  <para name="definitions">
+    <heading>DEFINITIONS</heading>
+    <text><strong>Non-Recurring Expenses:</strong>  Purchases for goods or services that are not related to and do not constitute an obligation or commitment on the part of the City for any expense with that vendor that would exceed $5,000 for those same goods or services over the course of a fiscal year.  "Non-recurring" further means that the agency does not knowingly have additional ongoing requirements that would exceed $5,000 for the same goods or services over the course of a fiscal year.</text>
+    <text><strong>Recurring Expenses:</strong>  Purchases for goods or services that are related to or do constitute an obligation or commitment on the part of the City for further expense with that vendor for those goods or services that would exceed $5,000 over the course of a fiscal year, as well as purchases for which an agency knowingly has additional ongoing requirements for the same goods or services that would exceed $5,000 over the course of a fiscal year.</text>
+  </para>
+  <para name="appropriate-uses-of-an-ea">
+    <heading>APPROPRIATE USES OF AN EA</heading>
+    <text>Purchases Up to $5,000 of a Non-Recurring Nature</text>
+    <text>City agencies may transact certain purchases of a non-recurring nature (as defined above) up to $5,000 on a direct basis and pay the invoice with an EA.  Note that an EA should NOT be used to purchase goods or services that are available on a Citywide requirements contract (see section titled "Requirements Contracts" below).  Additionally, EAs may NOT be used to purchase services from outside vendors that are provided by the Printing and Graphics Division of the Bureau of Purchases.</text>
+    <text>Obligations Approved by the Board of Estimates of a Non-Recurring Nature</text>
+    <text>If a transaction is valued at more than $5,000 but has explicit approval of the Board of Estimates and is of a non-recurring nature (see definition of "non-recurring" above) then an EA may appropriately be used to pay the obligation.  A copy of the Board of Estimates approval should accompany the EA.</text>
+    <text>Special Authority for Uses of an EA</text>
+    <text>There are certain specific categories of obligations that may be paid, even on a recurring basis and regardless of dollar amount, with an EA without seeking Board of Estimates approval for the payment. When an agency uses an EA to pay for one of these items, it must clearly note on the EA form the category under which the expense falls.  These categories for use of an EA are limited to:</text>
+    <text>
+      <ul>
+        <li>Payments to the Baltimore City Director of Finance</li>
+        <li>Payments to the State of Maryland or individual Maryland State agencies</li>
+        <li>Payments to the Housing Authority of Baltimore City</li>
+        <li>Payments to the Baltimore Development Corporation</li>
+        <li>Payments to other Maryland county governments</li>
+        <li>State mandated payments such as the annual payment to the Maryland Stadium Authority</li>
+        <li>Reimbursements, refunds for overpayments, and release of security deposits (excluding audit findings; also note that employee expense reimbursements are subject to separate AM policies such as <cite path="§AM-240-1">AM-240-1</cite> for travel expenses)</li>
+        <li>Payments of City-issued credit card invoices</li>
+        <li>Payments of grants or contributions that are characterized as individual activities/categories by name of intended recipient in the City's annual operating budget detail.  As such, the Board of Estimates has explicitly authorized payment through its adoption of the Ordinance of Estimates.  The budget programs from which these payments are made include:</li>
+        <ul>
+          <li>Service 122 - Miscellaneous General Expense (BBMR only)</li>
+          <li>Service 385 - Health and Welfare Grants</li>
+          <li>Service 446 - Educational Grants</li>
+          <li>Service 493 - Art and Culture Grants</li>
+          <li>Service 590 - Civic Promotion Grants</li>
+          <li>Service 681 - Activity 30 - Urban Youth Corps Program</li>
+          <li>Service 820 - Convention Sales and Tourism Marketing</li>
+          <li>Service 824 - Events, Art, Culture and Film</li>
+          <li>Service 828 - Bromo Seltzer Arts Tower</li>
+        </ul>
+        <li>Utility bills for energy and utility service consumed by City agencies or for payments by the City on behalf of residents receiving City energy assistance (e.g., energy assistance for elderly residents paid directly to the energy provider by the Commission on Aging and Retirement Education)</li>
+        <li>Replenishment of imprest funds and petty cash funds (including for jurors fees and confiscated funds)</li>
+        <li>Court-related and other legal costs including:</li>
+        <ul>
+          <li>Claims, settlements and judgments, in accordance with policy of the Board of Estimates (See <cite path="§AM-410-1">AM-410-1</cite>)</li>
+          <li>Payments for legal services</li>
+          <li>Payments to expert witnesses and litigation consultants</li>
+          <li>Payments for language interpreters</li>
+          <li>Payment of court costs</li>
+          <li>Payments in connection with the examination of titles, and any other costs associated with the examination of titles, on behalf of the City</li>
+          <li>Payments for legal costs and expenses, such as court stenographers, legal records and briefs printed for the Department of Law, and legal books and subscriptions</li>
+          <li>Payments to the Attorney General of Maryland by the State's Attorney's Office for legal counsel in matters such as appeals to the Court of Special Appeals of Maryland and the Court of Appeals</li>
+        </ul>
+        <li>Certain expenses approved by the Board of Finance, pursuant to <cite path="§AM-411-1">AM-411-1</cite></li>
+        <li>Police Department costs for wiretaps and pen registers for investigative purposes</li>
+        <li>Human Resources test examiners including itemized expenses (other than per diem compensation) when total expenses for all examiners for an examination is limited to $300 (note: per diem reimbursement, overnight lodging, and total expenses greater than $300 require Board of Estimates approval)</li>
+        <li>Expenses for lodging, meals, storage and transportation directly related to the witness protection programs managed by the State's Attorney's Office and the Department of Housing and Community Development</li>
+        <li>Expenses related to the processing of disability claims by the retirement systems, including costs for legal services, medical services, and hearing examiners as part of the claims review process</li>
+        <li>Membership dues, pursuant to <cite path="§AM-301-2">AM-301-2</cite></li>
+        <li>Payments to administrative judges such as for the Environmental Control Board and for special hearing officers such as for water billing disputes, as long as hour/case rates are approved by the Board of Estimates</li>
+        <li>Reimbursement for non-paid members of boards and commissions</li>
+        <li>Tuition reimbursement, pursuant to <cite path="§AM-219-1">AM-219-1</cite></li>
+        <li>Payments to special benefits districts as stipulated in the City Code, Article 14</li>
+        <li>Payments for postage (not for leasing of postage machines or postage machine maintenance)</li>
+        <li>Rental subsidies and nutritional subsidies provided through programs administered by the Health Department or the Department of Housing and Community Development</li>
+        <li>Advertising cost required by law or for personnel recruitment</li>
+        <li>Costs for admission tickets and day trip related expenses for implementing youth recreational programming activities</li>
+      </ul>
+    </text>
+  </para>
+  <para name="circumstances-under-which-a-purchase-order-from-the-bureau-of-purchases-is-required">
+    <heading>CIRCUMSTANCES UNDER WHICH A PURCHASE ORDER FROM THE BUREAU OF PURCHASES IS REQUIRED</heading>
+    <text>
+      <u>Obligations Greater Than $5,000</u>
+    </text>
+    <text>To cover those obligations greater than $5,000 that are not specifically identified above as special authority to go beyond the $5,000 limit or have not specifically been authorized and approved by the Board of Estimates, it is necessary to initiate a purchasing requisition according to the process as stipulated in <cite path="§AM-301-1">AM-301-1</cite>.</text>
+    <text>
+      <u>Requirements Contracts</u>
+    </text>
+    <text>For purchases from a Citywide requirements contract, it is necessary to initiate a release requisition and have a purchase order issued against the requirements contract.  Requirements contracts have been established as a mechanism to acquire goods and services directly from a vendor that has been awarded a contract by the Board of Estimates, generally for a multi-year term. This type of contract provides City agencies the ability to secure goods and services on a repetitive basis without going through a competitive process each time such goods and services are required.  Such an award by the Board of Estimates carries with it an <strong>explicit directive</strong> to City agencies to purchase those goods or services from that particular vendor only.</text>
+    <text>A complete list of currently available requirements contracts can be found in CitiBuy.  Users should perform an Advanced Search for Contracts in "Sent" status.</text>
+    <text>
+      <u>Professional Services Contracts</u>
+    </text>
+    <text>On occasion, City agencies may bring a professional services contract, such as for consultants, directly to the Board of Estimates for authorization and approval.  Although such contracts have approval by the Board of Estimates, it is still necessary to have the City Purchasing Agent issue a purchase order.  Therefore, following the approval of such a contract by the Board of Estimates, the agency shall initiate a requisition and attach a copy of the approved Board of Estimates letter in CitiBuy.  The funding will be encumbered upon the approval of the requisition. The City Purchasing Agent will then be able to issue a purchase order directly without delay.  The existence of a purchase order for such contracts will provide the Accounts Payable Unit with a mechanism for knowing when expenditures against the contract reach the authorized level.</text>
+    <text>This section of the policy related to Professional Services Contracts is not meant to include engineering and design contracts administered by the Department of Public Works and the Department of Transportation according to their internal procedures. This section also excludes personal services contracts/agreements that have been approved by the Board of Estimates according to the provisions of <cite path="§AM-212-1">AM-212-1</cite>.</text>
+    <text>
+      <u>Recurring Payments Under $5,000 Each</u>
+    </text>
+    <text>It is not appropriate to use an EA to make payments under $5,000 if the payments are of a recurring nature (as defined earlier) and add up to more than $5,000 during the course of a fiscal year.</text>
+  </para>
+  <para name="other-circumstances">
+    <heading>OTHER CIRCUMSTANCES</heading>
+    <text>
+      <u>Expenditures greater than $25,000</u>
+    </text>
+    <text>According to Resolution 10-24 of the Mayor and City Council and <cite doc="City of Baltimore, Md., Charter" path="VI">City Charter Article VI</cite> § 11 (3) (2), contracts must be approved by the Board of Estimates for all expenditures greater than $25,000.</text>
+    <text>
+      <u>Expenditures greater than $50,000</u>
+    </text>
+    <text>According to Resolution 10-24 of the Mayor and City Council and <cite doc="City of Baltimore, Md., Charter" path="VI">City Charter Article VI</cite> § 11 (3) (2), contracts must be formally advertised for all expenditures greater than $50,000.</text>
+  </para>
+  <para name="sales-tax-exemption">
+    <heading>SALES TAX EXEMPTION</heading>
+    <text>The City is exempt from payment of State of Maryland sales tax.  Agencies which make direct purchases must supply the City's tax exemption number (3000055-9) to the vendor at the time of purchase.</text>
+    <text>
+      <strong>COMPLETING AND SUBMITTING EAs</strong>
+    </text>
+    <text>Expenditure Authorizations (EAs) must be submitted electronically in the CityDynamics financial system.  If an EA is being used to pay for a "Special Authority" case, this must be noted in the "Enter Notes" section of the EA.  Once submitted, EAs will be automatically routed to the appropriate agency approver in CityDynamics.   In all but emergency cases an EA must be approved prior to the acquisition of the associated goods or services. This serves as the authority to purchase the goods and services. In those cases where BOE approval is required, enter the BOE approval date in the reference number filed on the EA. The EA number must be communicated to the vendor providing the goods or services and vendors must be instructed to include the EA number on all invoices. Failure to include the EA number on invoices will delay payment.</text>
+    <text>Vendor invoices must be sent directly by the Vendor to the Bureau of Accounting and Payroll Services to be electronically linked to the EA creation in CityDynamics. Agency fiscal staff must match, receive and approve in CityDynamics. Once matched and approved, the invoice will be scheduled for payment by Bureau of Accounting and Payroll Services Accounts Payable Division. In order to ensure appropriate internal control over all vendor payments, the Bureau of Accounting and Payroll Services cannot pay for any goods or services that are not supported by an appropriate vendor invoice. If you have questions regarding what constitutes a valid invoice, please contact the Bureau of Accounting and Payroll Services Accounts Payable Office for guidance.  Failure to provide appropriate invoice documentation will delay payments to vendors.</text>
+  </para>
+  <para name="agency-responsibilities">
+    <heading>AGENCY RESPONSIBILITIES</heading>
+    <text>Agencies may not divide large requirements into several smaller orders under $5,000 in an attempt to circumvent competitive bidding requirements. Violations of this direct purchasing authority by City agencies may result in the agency losing the authority to purchase up to $5,000 using the EA process.</text>
+  </para>
+  <para name="mbe/wbe-preference">
+    <heading>MBE/WBE PREFERENCE</heading>
+    <text>The City of Baltimore promotes equal business opportunity in the City's purchasing process by encouraging full and equitable participation by minority and women's business enterprises in the provision of goods and services to the City.  Agencies should give preference to these vendors when making purchases less than $5,000 according to this policy. A full list of certified MBE and WBE vendors is available on the City's website at:  http://cityservices.baltimorecity.gov/mwboo/</text>
+  </para>
+  <para name="finance-department-responsibilities">
+    <heading>FINANCE DEPARTMENT RESPONSIBILITIES</heading>
+    <text>The Bureau of Accounting and Payroll Services will return to an agency any EAs that are not in accordance with <cite path="§AM-303-1">AM-303-1</cite> or specifically authorized by the Board of Estimates.  Additionally, the Finance Department will perform quality control checks on a regular basis to ensure that EAs are generally being used appropriately by City agencies.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2011-07-15" display="true">July 15, 2011</annotation>
+    <annotation type="History" effective="2012-08-22" display="true">August 22, 2012</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-17">AM-205-17</cite> Reimbursement of Non- Paid Board and Commission Members</annotation>
+    <annotation type="Related Policies"><cite path="§AM-219-1">AM-219-1</cite> Tuition Reimbursement</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-1">AM-240-1</cite> Travel Package Overview</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-6">AM-240-6</cite> Travel-Advance Funds / Reimbursement</annotation>
+    <annotation type="Related Policies"><cite path="§AM-240-11">AM-240-11</cite> Employee Expense Report</annotation>
+    <annotation type="Related Policies"><cite path="§AM-301-1">AM-301-1</cite> Purchasing</annotation>
+    <annotation type="Related Policies"><cite path="§AM-301-2">AM-301-2</cite> Membership and Subscriptions</annotation>
+    <annotation type="Related Policies"><cite path="§AM-401-1">AM-401-1</cite> Petty Cash</annotation>
+    <annotation type="Related Policies"><cite path="§AM-410-1">AM-410-1</cite> Payment of Settlements and Judgments</annotation>
+    <annotation type="Related Policies"><cite path="§AM-411-1">AM-411-1</cite> Board of Finance</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-1">AM-508-1</cite> Stationery</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-2">AM-508-2</cite> Business Cards</annotation>
+  </annotations>
+</section>

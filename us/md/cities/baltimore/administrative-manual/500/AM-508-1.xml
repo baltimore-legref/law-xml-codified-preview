@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-508-1</num>
+  <heading>Stationery</heading>
+  <text>Standard and controls for all City stationery are part of the City's Forms Control Program (developed and administered by the Administrative Manual Section of the Department of Finance).These standards and controls are enacted in order to affect maximum monetary savings and to present unified, progressive image for the City.</text>
+  <para name="paper">
+    <heading>PAPER</heading>
+    <text>Recycled paper is to be used whenever possible. Paper is available in the following categories:</text>
+    <text>
+      <ul>
+        <li>LETTERHEAAD SHEETS</li>
+        <li>STANDARD MEMO SHEETS</li>
+        <li>STADARD MEMO SHEETS FOR LASER PRINTERS</li>
+        <li>TRANSMITTAL MEMO SHEETS</li>
+        <li>CONTINUATION SHEETS</li>
+        <li>COPY SHEETS (tissue/onionskin).</li>
+        <li>GENERAL TYPING SHEETS</li>
+      </ul>
+    </text>
+    <text>See <cite path="§AM-508-1-1">AM-508-1-1</cite> for specific sizes and ordering information.</text>
+    <text>Various types of paper specifically for use in laser printers, copiers, and other duplicating methods are also available. Consult the warehouse commodity catalog for ordering information.</text>
+  </para>
+  <para name="letterhead-sheets">
+    <heading>LETTERHEAD SHEETS</heading>
+    <text class="text-indent-1">
+      <strong>
+        <u>USE</u>
+      </strong>
+    </text>
+    <text>LETTERHEAD SHEETS may be used only when corresponding with other governmental jurisdictions, the general public, and private industry. LETTERHEAD Sheets may not be used to correspond between or within City agencies, or for correspondence with the Board of Estimates; official MEMO SHEETS must instead be used for all such correspondence.</text>
+  </para>
+  <para name="title-and-addresses-of-organizational-units">
+    <heading>TITLE AND ADDRESSES OF ORGANIZATIONAL UNITS</heading>
+    <text>Titles and addresses of agencies, departments, bureaus, commissions, and boards may be printed on LETTERHEAD SHEETS; titles and addresses of organizational units below these levels will <u>not</u> be printed.</text>
+  </para>
+  <para name="personal-names-and-titles">
+    <heading>PERSONAL NAMES AND TITLES</heading>
+    <text>The names and official City titles of permanently appointed <u>heads</u> of agencies, departments, boards and commissions may be printed on LETTERHEAD SHEETS; names of officials below these levels, including members of boards and commissions, will not be printed on LETTERHEAD SHEETS.</text>
+  </para>
+  <para name="logos,-symbols,-and-imprints">
+    <heading>LOGOS, SYMBOLS, AND IMPRINTS</heading>
+    <text>The City's official standard symbol ( logotype or "logo") will be printed on all LETTERHEAD SHEETS; other symbols and logos, telephone numbers, slogans; "Reply TO" notations, and other similar imprints will <u>not</u> be printed on LETTERHEAD SHEETS.</text>
+  </para>
+  <para name="paper-stock,-ink,-and-layout">
+    <heading>PAPER STOCK, INK, AND LAYOUT</heading>
+    <text>All LETTERHEAD SHEETS consist of 1 standard grade of white paper printed with 1 standard color of ink.</text>
+    <text>See page 8 of this policy for the standard layout for LETTERHEAD SHEETS.</text>
+  </para>
+  <para name="memos">
+    <heading>MEMOS</heading>
+    <text class="text-indent-1">
+      <strong>
+        <u>USE</u>
+      </strong>
+    </text>
+    <text>MEMOS must be used to correspond <u>between or within</u> City agencies, including correspondence with the Board of Estimates; LETTERHEAD SHEETS may <u>not</u> be used for such correspondence. Failure to properly use MEMOS is costly since the paper stock for MEMOS is less expensive than the paper stock for LETTERHEADS.</text>
+  </para>
+  <para name="personalized-or-customized-memos">
+    <heading>PERSONALIZED OR CUSTOMIZED MEMOS</heading>
+    <text>Personalized notes or sheets (such as "Form the Desk of …") and customized Memos with special logos, headings, phone numbers, fax numbers, or the names of agencies, bureaus, etc. will <u>not</u> be printed.</text>
+  </para>
+  <para name="paper-stock,-ink,-and-layouts">
+    <heading>PAPER STOCK, INK, AND LAYOUTS</heading>
+    <text>MEMOS are available in 3 different forms:</text>
+    <text>
+      <ul>
+        <li>MEMO – 8  1/2" x 11" on 1 standard grade of white stock with 1 standard color of ink.</li>
+        <li>TRANSMITTAL MEMO – 4  1/4" x 7  3/8" on 1 standard grade of recycled white or colored stock with black ink.</li>
+      </ul>
+    </text>
+    <text>See page 9 of this policy for illustrations of MEMOS.</text>
+    <text>
+      <ul>
+        <li>MEMO – 8  1/2" x 11 " on bond premium Xerox copy paper for use in laser printers with 1 standard color of ink.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="continuation-sheets">
+    <heading>CONTINUATION SHEETS</heading>
+    <text>CONTINUATION SHEETS are pages used to continue the information from the 1<sup>st</sup> page of a LETTERHEAD or MEMO. CONTINUATION SHEETS consist of blank, white paper in 2 different paper stocks, and must BE USED AS FOLLOWS:</text>
+    <text>
+      <ul>
+        <li>LETTERHEAD CONTINUATION SHEETS – for use only with LETTERHEADS. (The paper stock is identical to the paper stock used for LETTERHEADS.)</li>
+        <li>MEMO CONTINUATION SHEETS – for use only with MEMOS. (The paper stock is identical to the paper stock used for MEMOS.)</li>
+      </ul>
+    </text>
+    <text>The proper type of CONTINUATION SHEET must be used. Particular care must be</text>
+    <text>taken to ensure that LETTERHEAD CONTINUATION SHEETS are not to be used to continue</text>
+    <text>a MEMO; such misuse is costly since the paper stock for LETTERHEAD CONTINUATION SHEETS is more expensive than the paper stock MEMO CONTINUATION SHEETS.</text>
+  </para>
+  <para name="reproduction/printing-sheets">
+    <heading>REPRODUCTION/PRINTING SHEETS</heading>
+    <text>The most suitable kind of blank paper for each method of <u>in house printing</u>* has been selected and stocked in the City Warehouse. Whenever possible, recycled paper is to be used for in-house printing. Sizes, colors, and ordering information are specified in <cite path="§AM-508-1-1">AM-508-1-1</cite>.</text>
+    <text><strong>*</strong><strong><u>Note:</u></strong>	In-house printing refers to all reproduction, duplicating, and</text>
+    <text>printing machines (including presses and laser printers) operated</text>
+    <text>by any City agency, and includes the following types of equipment:</text>
+    <text>photocopier, laser printer, offset, letterpress, mimeograph and</text>
+    <text>spirit (ditto) duplicators.</text>
+    <text>LETTERHEAD and MEMO SHEETS may <u>not</u> be used as paper for in-house printing. If a LETTERHEAD or Memo <u>heading imprint</u> is required on an in-house printing job, the City's Reproduction and Printing Section (Bureau of Purchases) must be contacted in order to obtain: (1) authorization for the imprint; and (2) the paper best suited for such a job.</text>
+  </para>
+  <para name="general-typing-sheets">
+    <heading>GENERAL TYPING SHEETS</heading>
+    <text>Blank paper for general typing use in is available from the City Warehouse. See <cite path="§AM-508-1-1">AM-508-1-1</cite> for details.</text>
+  </para>
+  <para name="envelopes">
+    <heading>ENVELOPES</heading>
+    <text>Envelopes are available in 3 different styles and a variety of sizes.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>
+              <u>Styles</u>
+            </th>
+            <th>No.  of Sizes <u>Available</u></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>CITY OF BALTIMORE LOGO</td>
+            <td>7</td>
+          </tr>
+          <tr>
+            <td>SPECIAL LOGO</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>INTERDEPARTMENTAL</td>
+            <td>2</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>See <cite path="§AM-508-1-1">AM-508-1-1</cite> for specific sizes and ordering information.</text>
+  </para>
+  <para name="city-of-baltimore-logo-emvelopes">
+    <heading>CITY OF BALTIMORE LOGO EMVELOPES</heading>
+    <text>CITY OF BALTIMORE LOGO ENVELOPES may be used to only carry correspondences to other governmental jurisdictions, the general public, and private industry. These envelopes may <u>not</u> be used to carry correspondence between or within City agencies, or to the Board of Estimates.</text>
+    <text>CITY OF BALTIMORE LOGO ENVELOPES will be furnished preprinted only with the standard City logo. (See illustration on page 10). In order to expedite the return of undeliverable mail to the sender, the U.S. Post Office requests that return addresses be placed on these envelopes. It is recommended that agencies use rubber stamps or typewriters for this purpose.</text>
+  </para>
+  <para name="special-logo-envelopes">
+    <heading>SPECIAL LOGO ENVELOPES</heading>
+    <text>These envelopes should be used only to carry LETTERHEAD and LETTERHEAD CONTINUATION SHEETS to other governmental jurisdictions, the general public, and private industry. SPECIAL LOGO ENVELOPES may <u>not</u> be used to carry correspondence between or within City agencies.</text>
+    <text>Titles and addresses of agencies, departments, commissions, and boards may be printed on SPECIAL LOGO ENVELPOES; titles and addresses of organizational units below these levels will not be printed. Only <u>1</u> address which represents the <u>central administrative office</u> of an agency, department, commission, or board will be printed on SPECIAL LOGO ENVELOPES.</text>
+    <text>See page 10 for standard layout of SPECIAL LOGO ENVELOPES.</text>
+  </para>
+  <para name="interdepartmental-envelopes.">
+    <heading>INTERDEPARTMENTAL ENVELOPES.</heading>
+    <text class="text-indent-1">
+      <strong>
+        <u>USE</u>
+      </strong>
+    </text>
+    <text>INTERDEPARTMENTAL ENVELOPES are used to carry correspondence <u>between or within</u> City agencies; other types of envelopes may not be used for such correspondence.</text>
+    <text>INTERDEPARTMENTAL ENVELOPES are expected to have a useful life equal to the number of address spaces on the envelope. If an envelope is still in usable condition after all address spaces have been filled, the envelope may contain to be utilized by placing address labels over the old addresses.</text>
+  </para>
+  <para name="closing-methods">
+    <heading>CLOSING METHODS</heading>
+    <text>
+      <ul>
+        <li><u>Large (10" x 15") INTERDEPARTMENTAL ENVELOPES </u>-- are closed with a button and string device.</li>
+        <li><u>Small (5" x 11 ½") INTERDEPARTMENTAL ENVELOPES </u>– are closed and locked by breaking a glue dot (glue dot (glue dot may not be present in all cases) and trucking in a flap. (See page 11 of this policy for diagram.) These envelopes must not be closed by stapling or taping; the locked-flap method shown in the diagram is adequate to prevent loss of contents.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="surplus-envelopes">
+    <heading>SURPLUS ENVELOPES</heading>
+    <text>SURPLUS INTERDEPARTMENTAL ENVELOPES should be bundled neatly and returned to the Municipal Post Office for re-issue.</text>
+  </para>
+  <para name="ordering-stationery">
+    <heading>ORDERING STATIONERY</heading>
+    <text>See <cite path="§AM-508-1-1">AM-508-1-1</cite> for detailed instructions concerning the proper order forms, order numbers and method of payment.</text>
+    <text>Petty cash funds {<cite path="§AM-404-1">AM-404-1</cite>} or DIRECT PAYMENT ORDERS (D.P.O.'S) {<cite path="§AM-303-1">AM-303-1</cite>} may not be used to obtain stationery; such methods of payment will not be honored.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1991-07-03" display="true">July 3, 1991</annotation>
+    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> PURCHASING</annotation>
+    <annotation type="Related Policies"><cite path="§AM-301-1-1">AM-301-1-1</cite> COMPLETING A REQUISTION</annotation>
+    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDERS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-401-1">AM-401-1</cite> PETTY CASH FUND</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-1-1">AM-508-1-1</cite> ORDERING STATIONERY</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-2">AM-508-2</cite> BUSINESS CARDS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-508-2-1">AM-508-2-1</cite> ORDERING BUSINESS CARDS</annotation>
+  </annotations>
+</section>

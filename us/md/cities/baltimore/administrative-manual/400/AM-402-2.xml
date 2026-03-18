@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-402-2</num>
+  <heading>Payee on Checks for Grant Program</heading>
+  <text>PAYEE -- DIRECTOR OF FINANCE</text>
+  <text>The administering City agency representative expecting a check in payment for a grant program must instruct the issuing party to make the check payable to the DIRECTOR OF FINANCE. Checks are to be sent directly to:</text>
+  <text>DIRECTOR OF FINANCE<br/>c/o Collection Division<br/>Room One<br/>Municipal Bldg., 200 Holliday St.<br/>Baltimore, MD 21202</text>
+  <text>The grant identification number should be placed on each check to assist the Collection Division in processing and crediting the funds.</text>
+  <text>If the party issuing the check sends it directly to the recipient agency rather than the Collections Division, the administering agency representative should initiate those steps in <cite path="§AM-402-2-1">AM-402-2-1</cite>.</text>
+  <annotations>
+    <annotation type="History" effective="1986-08-15" display="true">August 15, 1986</annotation>
+    <annotation type="History" effective="2012-04-26" display="true">April 26, 2012</annotation>
+  </annotations>
+</section>

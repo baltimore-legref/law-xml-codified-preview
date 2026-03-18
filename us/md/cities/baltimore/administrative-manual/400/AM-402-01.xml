@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-402-01</num>
+  <heading>Collection of Revenue</heading>
+  <text>PURPOSE</text>
+  <text>The Collection Division of the Department of Finance is responsible for the collection of all revenue due Baltimore City.</text>
+  <text>OVERVIEW</text>
+  <text>The following policies and procedures address the collection and processing of monies due Baltimore City:</text>
+  <text>COMPLETING A CASH DEPOSIT SLIP (<cite path="§AM-402-1-1">AM-402-1-1</cite>) enumerates the process for filling out a CASH DEPOSIT SLIP (28-1428-5043).</text>
+  <text>VOIDING A CASH DEPOSIT SLIP (<cite path="§AM-402-1-2">AM-402-1-2</cite>) explains those actions to be taken when voiding a CASH DEPOSIT SLIP.</text>
+  <text>REVENUE DEPOSIT ADVICE (<cite path="§AM-402-10">AM-402-10</cite>) is concerned with the circumstances in which this form must be used. COMPLETING A REVENUE DEPOSIT ADVICE FORM (28-1428-5012) [<cite path="§AM-402-10-1">AM-402-10-1</cite>] contains an illustration of the form and provides ordering details.</text>
+  <text>PAYEE ON CHECKS FOR GRANT PROGRAM (<cite path="§AM-402-2">AM-402-2</cite>) details how a grant check sent to the City should be addressed to ensure proper crediting and processing.</text>
+  <text>RECEIPT OF CHECKS ISSUED IN PAYMENT FOR GRANT PROGRAM (<cite path="§AM-402-2-1">AM-402-2-1</cite>) details agency responsibilities once grant-financed checks are received by the City; actions to be taken upon receipt of the check(s) by the Collections Division and the recipient agency are addressed.</text>
+  <text>INVOICES</text>
+  <text>Agencies which anticipate the need to bill for services rendered on a regular basis must contact the Chief, Bureau of Accounting Operations, Rm. 600, 401 E. Fayette St., to receive approval and establish a billing procedure. All invoices must originate from the Bureau of Accounting Operations.</text>
+  <text>SMALL/MISCELLANEOUS RECEIPTS</text>
+  <text>Authority for the collection of revenue by an agency must be obtained from the Director of Finance (<cite path="§AM-405-1">AM-405-1</cite>). Agency receipt of revenue is normally restricted to the collection of small or miscellaneous funds, e.g. admission fees, animal shelter charges, dental clinic fees, etc.</text>
+  <text>Agencies permitted to collect revenue must ensure that:</text>
+  <text>
+    <ul>
+      <li>Checks are made payable to the Director of Finance.</li>
+      <li>Monies are deposited promptly at the Collections Division using a completed CASH DEPOSIT SLIP.</li>
+    </ul>
+  </text>
+  <annotations>
+    <annotation type="History" effective="1986-08-15" display="true">August 15, 1986</annotation>
+    <annotation type="History" effective="2012-03-27" display="true">March 27, 2012</annotation>
+  </annotations>
+</section>

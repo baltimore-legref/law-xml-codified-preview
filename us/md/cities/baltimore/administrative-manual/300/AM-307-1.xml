@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-307-1</num>
+  <heading>Vending Machines</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>All vending machine installations must be approved through the City of Baltimore's standard Citywide "requirements" type of procurement contract, solicited and bid by the Department of Finance, Bureau of Purchases. It must be publicly approved and awarded by the Board of Estimates. Any City agency desiring to have vending machine installations other than those included in the City "requirements" contracts, must request an exemption from the Board of Estimates. Any vending machine installations, which are not among those approved in the City's "requirements" contracts or specifically approved by the Board of Estimates, shall immediately be removed and service terminated by the agency.</text>
+  </para>
+  <para name="definition">
+    <heading>DEFINITION</heading>
+    <text>Vending Machines<strong> - </strong>All coin-operated food and beverage dispensing equipment shall be considered vending machines.</text>
+    <text><strong>GENERAL PROVISIONS -</strong> The delivery of vending machine services for City agencies shall be competitively bid on the basis of the service and commodity specified and the highest fixed rent paid to the City on a quarterly basis. Revenues accruing to the City will be regarded as secondary and in reasonable relation to the cost to the City of providing space, utilities and janitorial services. Additionally, fair and reasonable vended product selling prices will be part of the contractor's proposal. All contracts shall require "maintenance" by the vendor; i.e., the timely stocking and cleaning of machines. At no time will City employees handle vending stock, maintain machines or handle monies collected.</text>
+    <text>The cost of installing additional utility lines, where necessary, and any desired tables, chairs and related lunchroom items surrounding a vending machine installation shall be charged to the agency requesting the installation.</text>
+    <text>The parameters of City "requirements" contracts dictate that the City government obtains all of its required services or commodities from the awarded vendor and the vendor shall deliver to the City all of the services or commodities ordered under the contract. Every effort will be made to ensure a reasonably high level of service, a variety of fresh product selections and a moderate price structure for the consumer.</text>
+  </para>
+  <para name="revenue">
+    <heading>REVENUE</heading>
+    <text>Revenue, in the form of fixed rent, from vending machine installations shall be remitted to the Department of Finance, Bureau of Treasury Management, Collections Division, as General Fund revenue. The City Purchasing Agent shall see that the terms of the contractual revenue payments are provided to the Bureau of Accounting and Payroll Services for inclusion into the City's automated Miscellaneous Billing System.</text>
+  </para>
+  <para name="new-installations">
+    <heading>NEW INSTALLATIONS</heading>
+    <text>All requests for vending machine installations shall be submitted in writing to the City Purchasing Agent, Bureau of Purchases, 231 E. Baltimore St. and include the following:</text>
+    <text>
+      <ul>
+        <li>approximate number and type of machines;</li>
+        <li>exact location or locations proposed;</li>
+        <li>proximity of the machines to appropriate utility outlets and or connections;</li>
+        <li>justification of need for each type of machine requested include the following:</li>
+        <li>number of employees serviced; and</li>
+        <li>distance to nearest alternate source of product.</li>
+        <li>estimate of gross sales per machine.</li>
+      </ul>
+    </text>
+    <text>If a "lunchroom" is to be created or modified, the estimated cost of any renovations, tables, chairs or other modifications shall be quoted.</text>
+    <text>The City Purchasing Agent or his/her designee will review all new vending machine installation requests for incorporation into the Citywide "requirements" contract. If the City Purchasing Agent determines that the request is not adequately justified or economically viable, the requestor will be notified in writing. If the request is justified, the vending machines will be promptly ordered and the new location shall be added to the City's vending contract.</text>
+  </para>
+  <para name="exempt-vending-machine-installations">
+    <heading>EXEMPT VENDING MACHINE INSTALLATIONS</heading>
+    <text>Any City agencies desiring to have vending machine installations other than those included in the City' "requirements" contracts, must request an exemption from the Board of Estimates. The agency shall submit a letter to the Board of Estimates, which includes the following information:</text>
+    <text>
+      <ul>
+        <li>approximate number and type of machines;</li>
+        <li>justification of need for each type of machine requested include the following:</li>
+      </ul>
+    </text>
+    <para>
+      <num>1.</num>
+      <text>number of employees serviced; and</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>distance to nearest alternate source of product.</text>
+    </para>
+    <text>
+      <ul>
+        <li>estimate of gross sales per machine;</li>
+        <li>estimated revenue to agency;</li>
+        <li>suggested disposition of revenue to be realized; and</li>
+        <li>any potential future installations within the agency.</li>
+      </ul>
+    </text>
+    <text>If construction, modification or other "lunchroom" accessories would be requested, an estimate of those costs shall also be included.</text>
+    <text>Upon approval by the Board of Estimates, a copy of the approved board letter shall be sent to the City Purchasing Agent so the exempted machines and locations can be excluded from the city "requirements" contract.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1971-12-15" display="true">December 15, 1971</annotation>
+    <annotation type="History" effective="2000-04-27" display="true">April 27, 2000</annotation>
+    <annotation type="Related Policies">
+      <cite path="§AM-101-1">AM-101-1</cite>
+    </annotation>
+  </annotations>
+</section>

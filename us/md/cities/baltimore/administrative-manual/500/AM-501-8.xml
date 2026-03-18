@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-501-8</num>
+  <heading>Activity-Assigned Vehicles</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>An activity-assigned vehicle is a vehicle which is: (1) owned by the Mayor and City Council; (2) assigned by the Fleet Management Division (FMD); and (3) funds for initial purchase are approved by the Department of Finance and provided to the agency for subject purchase.</text>
+    <text>Non passenger car, van, station wagon, pick-up truck, or sport utility vehicle types listed below are not assigned by the Mayor's Motor Vehicle Freeze Committee (MMVFC). These vehicles are not to be taken home.</text>
+    <text>
+      <ul>
+        <li>Trucks</li>
+        <li>Dumpsters</li>
+        <li>Front-end loaders</li>
+        <li>Fork-lifts</li>
+        <li>Construction equipment</li>
+        <li>Other special purpose equipment</li>
+        <li>Carry-alls and other vehicles of this type</li>
+        <li>Golf Carts</li>
+      </ul>
+    </text>
+  </para>
+  <para name="categories">
+    <heading>CATEGORIES</heading>
+    <text>
+      <strong>Activity-assigned vehicles:</strong>
+    </text>
+    <text>Code I - - A vehicle which meets the following criteria:</text>
+    <text>
+      <ul>
+        <li>Responsibility of an agency.</li>
+        <li>Maintenance and servicing may be performed by the FMD.</li>
+        <li>Using agency is billed directly by FMD for maintenance and servicing.</li>
+      </ul>
+    </text>
+    <text>Code II - - A vehicle which meets the following criteria:</text>
+    <text>
+      <ul>
+        <li>Responsibility of the FMD and rented to an agency.</li>
+        <li>A monthly rental fee is paid to the FMD by the using agency.</li>
+        <li>Maintenance and servicing are performed by the FMD.</li>
+      </ul>
+    </text>
+    <text>An agency/bureau head must exercise care in authorizing the operation of activity-assigned vehicles to subordinate employees. Operators must meet all licensing and operating requirements of Maryland law and evidence same; operators are subject to the same care and responsibility of activity-assigned vehicles as established for MMVFC-assigned vehicles.</text>
+  </para>
+  <para name="fmd-responsibilities">
+    <heading>FMD RESPONSIBILITIES</heading>
+    <text>FMD is responsible for:</text>
+    <text>
+      <ul>
+        <li>Title and tags.</li>
+        <li>Maintaining, servicing and repairing vehicles.</li>
+        <li>Maintenance, inspection, and certification of vehicle records as necessary.</li>
+        <li>Replacement of fully depreciated Code II vehicles.</li>
+        <li>Vehicle inspections.</li>
+        <li>Reporting vehicle damage to the and the appropriate agency/bureau head.</li>
+        <li>Notification of unpaid traffic/parking fines related to use of a City-owned vehicle.</li>
+        <li>Distribution of local fuel, oil, and anti-freeze for vehicles.</li>
+        <li>Provide assistance and directions for vehicles necessitating road service.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="general-provisions">
+    <heading>GENERAL PROVISIONS</heading>
+    <text>
+      <strong>PERSONAL BUSINESS</strong>
+    </text>
+    <text>Activity-assigned vehicles may not be used for pleasure or to conduct personal business. Passengers in activity-assigned vehicles are limited at all times to those engaged in official City</text>
+    <text>business.</text>
+  </para>
+  <para name="motor-vehicle-laws">
+    <heading>MOTOR VEHICLE LAWS</heading>
+    <text>Any traffic or parking fines incurred as a result of violating motor vehicle laws are paid by FMD. Agency fleet coordinators are notified of traffic and parking violations. The agency incurring any violations must attempt to collect reimbursement from the employee.</text>
+    <text>All accidents must be reported in conformity with <cite path="§AM-501-10">AM-501-10</cite>, Motor Vehicle Accidents.</text>
+  </para>
+  <para name="maintenance-and-repairs">
+    <heading>MAINTENANCE AND REPAIRS</heading>
+    <text>All agency/bureau heads are responsible for ensuring that proper safety standards, operating standards, and vehicle maintenance are observed by authorized users. The VEHICLE MAINTENANCE RECORD, (form # 28-1908-5032) must be completed on each vehicle and filed accordingly.</text>
+    <text>All activity-assigned vehicles must comply with preventive maintenance servicing requirements in accordance with the Preventive Maintenance Program and schedules established by the FMD.</text>
+  </para>
+  <para name="required-reporting">
+    <heading>REQUIRED REPORTING</heading>
+    <text>A vehicle maintenance record must be completed every month for each activity-assigned vehicle, regardless of whether the vehicle was used during the month. The record must be retained in the Agency vehicle file folder for periodic review.</text>
+  </para>
+  <para name="non-compliance-with-policy">
+    <heading>NON-COMPLIANCE WITH POLICY</heading>
+    <text>Failure to comply with the provisions of this policy shall result in the recall of activity-assigned vehicles, assessment of authorized charges, and/or any other actions deemed appropriate by the Vehicle Damage Investigator, agency heads, FMD and/ or other authorized parties.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1986-07-01" display="true">July 1, 1986</annotation>
+    <annotation type="History" effective="2008-03-01" display="true">March 1, 2008</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-3">AM-501-3</cite> MMVFC Assigned Vehicles</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-6">AM-501-6</cite> Assigned Vehicle Maintenance and Repairs</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-10">AM-501-10</cite> Motor Vehicle Accident</annotation>
+    <annotation type="Related Policies"><cite path="§AM-501-11">AM-501-11</cite> Vehicle Damage and Malfunction</annotation>
+  </annotations>
+</section>

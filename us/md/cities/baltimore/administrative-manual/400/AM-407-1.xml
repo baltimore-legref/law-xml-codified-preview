@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-407-1</num>
+  <heading>Carry-Over of Unexpended Appropriations</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>All agencies must submit to the Board of Estimates (through the Bureau of the Budget and Management Research) all requests for transfer into the following fiscal year of unencumbered operating appropriations existing at the close of the current fiscal year.  (Capital project appropriations will be automatically forwarded to the following fiscal year).</text>
+    <text>All carry-over requests must be received by the Bureau of the Budget and Management Research by the date indicated in the annual letter dealing with this subject from the Budget Chief.</text>
+  </para>
+  <para name="request-categories">
+    <heading>REQUEST CATEGORIES</heading>
+    <text>Requests to carry-over appropriations should be submitted in two categories:</text>
+    <text>
+      <ul>
+        <li>To accomplish a purpose for which the funds were originally appropriated.</li>
+        <li>To accomplish a purpose other than the purpose for which the funds were originally appropriated.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="routine-expenses">
+    <heading>ROUTINE EXPENSES</heading>
+    <text>Requests to carry-over appropriations to defray routine expenses will be denied.</text>
+  </para>
+  <para name="encumbered-items">
+    <heading>ENCUMBERED ITEMS</heading>
+    <text>Appropriations for items already encumbered are automatically carried-over; requests are not required.</text>
+  </para>
+  <para name="availability-of-funds">
+    <heading>AVAILABILITY OF FUNDS</heading>
+    <text>Carry-over of appropriations approved by the Board of Estimates is subject to the availability of funds after the posting of all charges applicable to the current fiscal year.</text>
+  </para>
+  <para name="year-end-accounting-procedure">
+    <heading>YEAR-END ACCOUNTING PROCEDURE</heading>
+    <text>To facilitate the closing of the current year's accounts, purchase orders and other contracts received by the Department of Finance after the date indicated in the annual memo from Bureau of Accounting and Management Information Services will be charged against appropriations of the following fiscal year.</text>
+  </para>
+  <para name="use-of-carry-over-funds">
+    <heading>USE OF CARRY-OVER FUNDS</heading>
+    <text>Each carry-over appropriation can only be used for the purpose for which the carry-over was approved by the Board of Estimates.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1974-05-17" display="true">May 17, 1974</annotation>
+    <annotation type="History" effective="1997-01-22" display="true">January 22, 1997</annotation>
+  </annotations>
+</section>

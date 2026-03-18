@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-241-1</num>
+  <heading>Employee Layoff</heading>
+  <text>The City of Baltimore ("City") recognizes that an Agency may need to lay off an employee due to a lack of work, lack of funds, abolishment of position, or other similar causes. The City's process, outlined below, allows for Agencies to make infrastructure decisions and, when possible, providing alternative solutions in lieu of laying off affected employees.  Federal, state and local laws prohibit an employer from considering factors such as age, gender, race, physical or mental disability, sexual orientation, marital status, national origin, or religion as criteria for layoff. This Policy is subject to amendment and interpretation as determined by the employee's Contractual Agreement or Memorandum of Understanding ("MOU").</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to ensure that City Agencies who may encounter situations such as lack of work, lack of funds, abolishment of positions, or other similar causes, have a way to restructure the Agency to fit the current goals and needs.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy is limited to all regular full-time and part-time employees involved in the City's operations. This Policy may affect, but is inapplicable, to temporary employees, probationary employees, contractual employees, and appointed employees. For example, this group of employees may be the first to be separated before layoff of regular employees</text>
+  </para>
+  <para name="definitions">
+    <num>III.</num>
+    <heading>DEFINITIONS</heading>
+    <para>
+      <num>A.</num>
+      <heading>Lay-Off:</heading>
+      <text>Suspension or termination of employment, of no fault of the employee, due to a lack of work, lack of funds, abolition of position, or other similar causes.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Organizational Unit:</heading>
+      <text>Any City department or part of a department, declared by regulations duly adopted by the Commission, to be a unit for purposes of administration. A current description of layoff organizational units is on file at the Office of the Labor Commissioner ("OLC").</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Transfer:</heading>
+      <text>A transfer shall mean the appointment of an employee: (1) to a position in the same class outside the authority of the original appointing officer, or (2) to a position under the authority of the same appointing officer in a comparable class which require similar knowledge, skills, and abilities.</text>
+    </para>
+  </para>
+  <para name="alternatives-to-layoffs">
+    <num>IV.</num>
+    <heading>ALTERNATIVES TO LAYOFFS</heading>
+    <text>Agency Heads must consider alternative measures prior to laying off affected employees. Any alternatives which involve line item budget changes require the approval of the Bureau of the Budget and Management Research ("BBMR").</text>
+    <para>
+      <num>A.</num>
+      <heading>Departing Employees.</heading>
+      <text>Agency Heads should first consult with the Agency's HR Practitioner to identify employees who will retire, separate from City employment, transfer to other City employment, or are scheduled to take a leave of absence. Once identified, Agency Heads may proceed with removing the abovementioned employees.</text>
+      <para>
+        <num>1.</num>
+        <heading>Retiring Employees.</heading>
+        <text>If the employee is eligible for a retirement benefit, the Agency Head should contact Employees' Retirement Systems or Fire and Police Employees' Retirement System. The Agency Head must consult with the Mayor's Office, the Director of Human Resources, and the Law Department prior to certifying the job removal.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Existing Employees.</heading>
+      <text>Agencies may also reduce the impact or number of layoffs by performing one or more of the following actions:</text>
+      <para>
+        <num>1.</num>
+        <text>Obtain other sources of funding for existing positions;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Reduce other personnel costs, such as overtime;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Accept requests for voluntary lay-off (Agency Head approval is required);</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Transfer employees assigned to expiring grant programs;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Transfer employees to positions in other qualified classifications at the same or lower grade level; or</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Terminate temporary and probationary employees. Terminations of temporary and probationary employees are not considered layoffs. Temporary and probationary employees who have been terminated are not eligible for benefits and privileges available to regular full-time and part-time employees being laid off.</text>
+      </para>
+    </para>
+  </para>
+  <para name="selection-of-laid-off-employees">
+    <num>V.</num>
+    <heading>SELECTION OF LAID OFF EMPLOYEES</heading>
+    <para>
+      <num>A.</num>
+      <text>Agency Heads must select those classifications from which layoffs will occur. Selection of classifications may be based on the need for supervision, the performance of the duties of classification, or special types of employees such as departing employees (<em>see</em> <strong>Section IV(A)</strong> above).</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Within the selected layoff organizational units and classifications, Agency Heads must primarily consider the good of the public service when selecting affected employee(s). The following employee characteristics govern such selection, subject to the employee's current negotiated contractual agreement or MOU:</text>
+      <para>
+        <num>1.</num>
+        <text>For an employee whose job classification is <u>not</u> of an executive, administrative, technical, or professional nature:</text>
+        <para>
+          <num>a.</num>
+          <text>Work performance (must be at least satisfactory).</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Length of service in present classification and in present organizational unit.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For an employee whose job classification is of an executive, administrative, technical, or professional nature:</text>
+        <para>
+          <num>a.</num>
+          <text>Work performance (must be at least satisfactory).</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Characteristics of the individual that contribute to the efficient operation of the organizational unit.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Skills and education compared to agency needs.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Length of service in present classification.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Length of service in previous classification(s) in the series.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para name="official-date-of-layoff">
+    <num>VI.</num>
+    <heading>OFFICIAL DATE OF LAYOFF</heading>
+    <para>
+      <num>A.</num>
+      <text>If a position is abolished in the budget process, the position must be vacated no later than two (2) weeks after the budget is finalized, with at least thirty (30) day notice to the affected employees. If a position is abolished or unfunded by a special action of the Board of Estimates, the effective date of the layoff is at least two (2) weeks after the Board's action. Agency Heads must ensure the positions are vacated through layoff or transfer. Transfers are subject to approval of the BBMR and DHR. Changes from full-time to part-time employment are also subject to the approval of the BBMR.</text>
+    </para>
+  </para>
+  <para name="layoff-timeline">
+    <num>VII.</num>
+    <heading>LAYOFF TIMELINE</heading>
+    <para>
+      <num>A.</num>
+      <heading>Sixty (60) Days Before Layoff</heading>
+      <para>
+        <num>1.</num>
+        <text>Agency Heads shall determine job classifications and organizational units from which employee(s) will be laid off. The layoff lists are developed using the criteria specified in this Policy or current contractual agreement or MOU, as applicable.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For each organizational unit, develop a list of employees in each classification from which layoffs will occur. List employees in order of their promotion dates beginning with the least senior employee. Agency files shall retain the seniority list.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Thirty (30) Days Before Layoff</heading>
+      <para>
+        <num>1.</num>
+        <text>Send to the OLC, DHR, Agency Equal Opportunity Officer ("Agency EEO"), and Law Department a Memorandum containing the following information on the employee(s) to be laid off:</text>
+        <para>
+          <num>a.</num>
+          <text>Organizational Unit;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Class number and title;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Employee Name;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Employee Identification Number;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Position number;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Entry Date;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Length of service in present classification;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Length of service in organizational unit;</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Reason for layoff;</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>Date of layoff;</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>Union or employee organization;</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>Date of Birth;</text>
+        </para>
+        <para>
+          <num>m.</num>
+          <text>Gender; and</text>
+        </para>
+        <para>
+          <num>n.</num>
+          <text>Race.</text>
+          <text>Retain a copy of the Memorandum in the affected employee's official personnel file and the Agency's file.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon receipt of the Agency's Memorandum, the OLC shall verify the layoff list and notify the appropriate union or bargaining unit of the proposed layoff; the OLC shall also verify that selection rules are followed for Civil Service positions. When a selection is invalid, the Agency must provide the OLC with new name(s) within two (2) working days. The OLC shall also notify Employee Retirement System and DHR of the affected employee's status.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Upon receipt of the Agency's Memorandum, the Agency's EEO must review the proposed layoff and determine its impact on the Agency's Affirmative Action Plan.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Once the list of affected employee(s) is approved, the Agency's HR Practitioner shall create a layoff package for distribution to affected employees. The following material should be included in the layoff package:</text>
+        <para>
+          <num>a.</num>
+          <text>The signed layoff letter;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Layoff brochure;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Your Rights Under COBRA and Notice of privacy practices;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Maryland Unemployment Insurance Brochure;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Retirement System brochure; and</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Signed memo regarding employee's indebtedness, if applicable.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Three (3) Weeks Before Layoff</heading>
+      <para>
+        <num>1.</num>
+        <text>The Agency's EEO shall provide written comments, if any, to the Agency Head regarding the impact of the proposed layoff on the Agency's affirmative action plan.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The OLC will verify that the selection of employees for layoff conforms to provisions of the contractual agreements, layoff organizational units and other selection criteria. The Labor Commissioner shall notify the appropriate unions or employee organizations of the proposed layoffs.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>DHR's Employee Benefits Division shall, if requested, confer with the affected employee(s) on eligible health benefit plan options. An employee's existing active health benefits coverage ends at the end of the month in which the layoff date occurs, unless informed otherwise by DHR.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>DHR's Recruitment Division shall, if requested, confer with the affected employee(s) on eligibility for other City positions.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <heading>Two (2) Weeks Before Layoff</heading>
+      <para>
+        <num>1.</num>
+        <text>The Agency HR Practitioner shall meet with the affected employee, and the employee's union representative, if applicable, to discuss the layoff and pertinent information related to the layoff;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Agency HR Practitioner shall mail via certified mail, return receipt requested, the layoff letter to the affected employee's last known home address. The layoff letter shall include the following information:</text>
+        <para>
+          <num>a.</num>
+          <text>Date of layoff;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Reason for layoff; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>A statement that the separation from service is a result of a layoff and is through no fault of the employee.</text>
+          <text>Attached to this letter must be a copy of Information for Laid-Off Employees. A copy of the signed employee layoff letter shall be sent to DHR's Policy and Compliance Division.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <heading>Day of Layoff</heading>
+      <para>
+        <num>1.</num>
+        <text>The Agency HR Practitioner shall conduct an Exit Interview with the employee;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Agency HR Practitioner shall inform the employee of any due compensation for unused vacation leave, personal leave, sick leave, compensatory leave, as applicable, and that payment will be received in a lump sum.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Agency HR Practitioner shall, if applicable, discuss the employee's indebtedness to the City. Follow the procedure outlined in <em><cite path="§AM-205-4">AM-205-4</cite> Employee Indebtedness</em>.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Complete an Employee Termination Checklist;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Advise the employee to confer with the Municipal Employees Credit Union Inc. (MECU) regarding any outstanding loans and membership entitlement, if applicable. Notify MECU accordingly of employee status.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Inform employee that COBRA notification will be mailed directly to the employee's last known address and that the employee has 60 (sixty) days from the date of separation to apply for COBRA benefits.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Enter termination information in HRIS. The reason code should indicate layoff.</text>
+        <para>
+          <num>a.</num>
+          <heading>For employees eligible to retire:</heading>
+          <text>The reason code should indicate <strong><u>both</u></strong> retired and lay-off.</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Send Central Payroll a completed and signed termination checklist and a copy of <em><cite path="§AM-205-4-1">AM-205-4-1</cite> Notification of Employee Indebtedness (Memo to Employee)</em>, if applicable.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <heading>For Civil Service Employees only:</heading>
+        <text>No later than the affected employee(s) last day, DHR's Recruitment Division shall place the affected employee(s) on the reemployment list(s) in accordance with Civil Service Rules 39 and 52.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <heading>For Retiring Employees only:</heading>
+        <text>No later than the affected employee(s) last day, the employee shall confer with either Employees' Retirement System or Fire or Police Employees' Retirement System so that appropriate paperwork regarding benefits is processed.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <heading>After Layoff</heading>
+      <para>
+        <num>1.</num>
+        <text>Central Payroll shall record the following information about the laid off employee:</text>
+        <para>
+          <num>a.</num>
+          <text>Conversion of sick leave days to cash;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Number of sick leave days not converted to cash;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Unused compensatory leave if applicable (employees should refer to their respective MOU) before payment for accumulated compensatory leave as applicable;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Total length of City service;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Length of service in level of current salary grade; and</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Subject to FLSA requirements, any accrued leave may be subject to withholding due to indebtedness with the City.</text>
+          <text>Once recorded, Central Payroll shall, with the consultation of the Law Department, Collections Division, prepare and issue the employee's final paycheck and payment for unused leave, minus any amount of the employee's indebtedness to the City, within thirty (30) calendar days. If an employee is indebted to the City, the employee should be advised to contact the Law Department, Collection Division.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Agency's HR Practitioner shall retain a copy of Central Payroll's record in the employee's official personnel file and the Agency's file.</text>
+      </para>
+    </para>
+  </para>
+  <para name="security">
+    <num>VIII.</num>
+    <heading>SECURITY</heading>
+    <para>
+      <num>A.</num>
+      <text>Prior to giving the notice of layoff to affected employees, the Agency Head or designee must review access to the various City systems including, but not limited to, email, e-time, and HRIS. The Agency Head or designee must determine if access to any of the systems should be revoked prior to the employee's last day. MOIT must be notified of the Agency's decision in accordance with <em><cite path="§AM-118-1">AM-118-1</cite> Electronic Communications Policy</em> and <em><cite path="§AM-509-2">AM-509-2</cite> Pagers and Cellular Phones</em>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If personal safety is a concern, the employee to be laid off may be granted administrative leave with pay from the date of notice is received until the effective date of layoff. The OLC must authorize all requests for administrative leave with pay.</text>
+    </para>
+  </para>
+  <para name="mandatory-separation-from-abolished-or-unfunded-positions">
+    <num>IX.</num>
+    <heading>MANDATORY SEPARATION FROM ABOLISHED OR UNFUNDED POSITIONS</heading>
+    <para>
+      <num>A.</num>
+      <text>The Agency must remove incumbent employees from positions which are abolished or unfunded. DHR shall perform the following actions:</text>
+      <para>
+        <num>1.</num>
+        <text>Compare final layoff list to BOE's action. If there are any position numbers for abolishment without an employee listed on the layoff list, ascertain whether the job is vacant. If vacant, no other action will be taken. If filled, BBMR will notify the Agency to place the employee on the layoff list or laterally transfer employee to a funded vacant position with another position number.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the appointing officer has not processed the lay off for the affected employee by the official date of layoff, DHR will inform the Agency Head.</text>
+      </para>
+    </para>
+  </para>
+  <para name="use-of-leave-prior-to-date-of-layoff">
+    <num>X.</num>
+    <heading>USE OF LEAVE PRIOR TO DATE OF LAYOFF</heading>
+    <para>
+      <num>A.</num>
+      <text><u>Vacation, Personal, and Compensatory Leave:</u> Use must comply with the City's policies governing such leave and the applicable contractual agreement or MOU.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><u>Sick Leave:</u> Employees may use accumulated sick leave prior to the date of layoff, provided that the employee presents satisfactory medical documentation for the days used or the Agency Head is satisfied with such usage.</text>
+    </para>
+  </para>
+  <para name="unemployment-compensation-claim">
+    <num>XI.</num>
+    <heading>UNEMPLOYMENT COMPENSATION CLAIM</heading>
+    <text>Laid off employees may apply for unemployment compensation from the State of Maryland. To obtain information about eligibility, compensation benefits, and the application process, laid off employees should contact the Maryland State Department of Labor Licensing and Regulation.</text>
+  </para>
+  <para name="authority">
+    <num>XII.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em><cite path="§AM-002-1-2">AM-002-1-2</cite> Administrative Manual</em> wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>XIII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces <cite path="§AM-205-8">AM-205-8</cite> &amp; PM 565 December 2008]</annotation>
+    <annotation type="Related Policies">MOUs <a href="http://labor-commissioner.baltimorecity.gov/contract-agreements">http://labor-commissioner.baltimorecity.gov/contract-agreements</a></annotation>
+    <annotation type="Related Policies"><cite path="§AM-241-1-1">AM-241-1-1</cite> Employee Layoff Checklist</annotation>
+    <annotation type="Related Policies"><cite path="§AM-241-1-2">AM-241-1-2</cite> Employee Layoff: Layoff Letter</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-4">AM-204-4</cite> Vacation and Personal Leave</annotation>
+    <annotation type="Related Policies"><cite path="§AM-204-14">AM-204-14</cite> Sick Leave</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-4">AM-205-4</cite> Employee Indebtedness</annotation>
+    <annotation type="Related Policies"><cite path="§AM-205-4-1">AM-205-4-1</cite> Notification of Employee Indebtedness (Memo to Employee)</annotation>
+    <annotation type="Related Policies"><cite path="§AM-118-1">AM-118-1</cite> Electronic Communications Policy</annotation>
+    <annotation type="Related Policies"><cite path="§AM-509-2">AM-509-2</cite> Pagers and Cellular Phones</annotation>
+    <annotation type="Related Policies">RULE 39 Re-Employment Lists</annotation>
+    <annotation type="Related Policies">RULE 52 Lay-Off</annotation>
+  </annotations>
+</section>

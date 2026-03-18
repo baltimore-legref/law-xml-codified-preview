@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-200-8</num>
+  <heading>Political Activity</heading>
+  <text>The City of Baltimore ("City") encourages employees to exercise their right to participate in or refrain from engaging in political processes, including the ability to express any political opinion, without fear of penalty or reprisal. However, the City, as a local government, is subject to federal, state, and local laws and regulations regarding restrictions on political activities.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>This policy establishes substantive and procedural requirements for a City employee who either:</text>
+    <text>
+      <ul>
+        <li>Files as a candidate for elective and public office;</li>
+        <li>Acts in an official campaign capacity for an individual running for elective and public office; or</li>
+        <li>Is not a candidate for elective and public office.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This policy applies to all employees and individuals involved in the City's operations. All elected City officials are excluded from the requirements of this Policy.</text>
+  </para>
+  <para name="political-activities">
+    <num>III.</num>
+    <heading>POLITICAL ACTIVITIES</heading>
+    <para>
+      <num>A.</num>
+      <heading>Permissible Activities.</heading>
+      <text>A City employee may engage in political activity to the extent not expressly prohibited by law or applicable policy. Permissible activities include, but are not limited to:</text>
+      <para>
+        <num>1.</num>
+        <text>Registering, voting, and otherwise participating in elections;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Becoming a candidate for and holding public office in accordance with City policy;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Expressing opinions privately and publicly on political subjects;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Participating in political organizations;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Participating in political campaigns;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Engaging in political management; and</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Running for a political office without requesting leave of absence.</text>
+        <para>
+          <num>a.</num>
+          <text>A City employee's request for leave to campaign should be treated as any other request for leave.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Prohibited Activities.</heading>
+      <text>A City employee shall not:</text>
+      <para>
+        <num>1.</num>
+        <text>Utilize their City positions to interfere with a political nomination or election;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Utilize the City's electronic communications systems for any "non-government business uses," including "sending political messages;"</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Utilize City publications, equipment, vehicles, facilities, postage, letterhead, official stationary, funding to support or oppose any political candidate or political party;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Engage in political activity (including soliciting political contributions or participation in a candidate's campaign) while on the job during working hours;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Coerce any other individuals involved in City operations to contribute anything of value to any political cause;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Advocate the overthrow of the government by unconstitutional or violent means;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Place or affix any political campaign materials on City property (including buildings and city vehicles);</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Wear any political campaign materials while on duty or while working in an official, City capacity;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Knowingly request or solicit the payment of any political contribution, assessment, or subscription from any person in the Civil Service; and</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Intentionally use the prestige of office or position for private gain or that of another.</text>
+      </para>
+    </para>
+  </para>
+  <para name="special-requirements">
+    <num>IV.</num>
+    <heading>SPECIAL REQUIREMENTS</heading>
+    <text>A City employee may be subject to certain requirements of the federal government relative to working in an agency which receives federal funds and to stipulations entailed in the Hatch Act Section 1502.</text>
+    <para>
+      <num>A.</num>
+      <heading>Hatch Act.</heading>
+      <text>A City employee is subject to the Hatch Act if the employee:</text>
+      <para>
+        <num>i.</num>
+        <text>Works for the executive branch of state or local government;</text>
+      </para>
+      <para>
+        <num>ii.</num>
+        <text>The employment is in connection with an activity which is financed in whole or in part by loans or grants made by the United States or a Federal agency;"  and</text>
+      </para>
+      <para>
+        <num>iii.</num>
+        <text>Performs duties in connection with those financed activities.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Hatch Act Restrictions.</heading>
+      <text>In addition to the requirements listed under <em>Section III. Political Activities</em>, an employee covered by the Hatch Act shall not:</text>
+      <para>
+        <num>i.</num>
+        <text>Use their official authority or influence for the purpose of interfering with or affecting the result of an election or a nomination for office; and</text>
+      </para>
+      <para>
+        <num>ii.</num>
+        <text>Directly or indirectly coerce, attempt to coerce, command, or advise a covered state or local officer or employee to pay, lend, or contribute anything of value to a party, committee, organization, agency, or person for political purposes.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Hatch Act Prohibition.</heading>
+      <text>An employee covered by the Hatch Act whose salary is, paid <strong><em>completely</em></strong>, directly or indirectly, by loans or grants made by the United States or a Federal agency may not be a candidate for public office in a partisan election unless that person is currently holding an elective office. However, an employee may be a candidate for public office in a nonpartisan election.</text>
+    </para>
+  </para>
+  <para name="city-requirements">
+    <num>V.</num>
+    <heading>CITY REQUIREMENTS</heading>
+    <text>Provided that the City employee is not subject to the federal requirements as stipulated, the following requirements shall apply:</text>
+    <para>
+      <num>A.</num>
+      <heading>Running an Office.</heading>
+      <text>Any City employee running for an elective and public office must request a leave when absent from working, i.e., to include vacation leave, personal leave, and compensatory time, or leave of absence without pay. Sick leave cannot be used for such purposes.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Winning an Office.</heading>
+      <text>A candidate who is successful in winning the elective office is eligible to return to their City position until they are duly sworn and qualified for the position unless a conflict develops concerning their City duties as an employee.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Losing an Office.</heading>
+      <text>A candidate who is unsuccessful in election to public office may return to their position.</text>
+    </para>
+  </para>
+  <para name="compliance">
+    <num>VI.</num>
+    <heading>COMPLIANCE</heading>
+    <text>An employee is found to be in violation of this Policy shall be subject to sanctions to include dismissal as determined by City rules and regulations. Before taking any adverse employment action, City employees must first contact the Law Department.</text>
+  </para>
+  <para name="authority">
+    <num>VII.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em><cite path="§AM-002-1-2">AM-002-1-2</cite> Administrative Manual</em> wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>VIII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2017-12-13">December 13, 2017 [replaces <cite path="§AM-225-1">AM-225-1</cite> August 23, 1989]</annotation>
+    <annotation type="Related Policies"><cite path="§AM-208-2">AM-208-2</cite> Elective Office: State Service and Service in Other Jurisdictions</annotation>
+    <annotation type="Related Policies"><cite path="§AM-118-1">AM-118-1</cite> Electronic Communications Policy</annotation>
+  </annotations>
+</section>

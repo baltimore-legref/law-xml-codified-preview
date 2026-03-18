@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-290-7-2</num>
+  <heading>Managerial and Professional Society, MAPS, Flat Grade Salary Scale</heading>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>Grade</th>
+          <th>Flat Salary</th>
+          <th>Merit 1</th>
+          <th>Merit 2</th>
+          <th>Merit 3</th>
+          <th>Merit 4</th>
+          <th>Merit 5</th>
+          <th>Merit 6</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>632</td>
+          <td>61,200</td>
+          <td>62,700</td>
+          <td>64,300</td>
+          <td>65,900</td>
+          <td>67,500</td>
+          <td>69,200</td>
+          <td>70,900</td>
+        </tr>
+        <tr>
+          <td>648</td>
+          <td>83,700</td>
+          <td>85,800</td>
+          <td>87,900</td>
+          <td>90,100</td>
+          <td>92,300</td>
+          <td>94,600</td>
+          <td>97,000</td>
+        </tr>
+        <tr>
+          <td>652</td>
+          <td>89,700</td>
+          <td>91,900</td>
+          <td>94,200</td>
+          <td>96,600</td>
+          <td>99,000</td>
+          <td>101,500</td>
+          <td>104,000</td>
+        </tr>
+        <tr>
+          <td>653</td>
+          <td>90,800</td>
+          <td>93,000</td>
+          <td>95,300</td>
+          <td>97,700</td>
+          <td>100,100</td>
+          <td>102,600</td>
+          <td>105,200</td>
+        </tr>
+        <tr>
+          <td>659</td>
+          <td>101,500</td>
+          <td>104,000</td>
+          <td>106,600</td>
+          <td>109,300</td>
+          <td>112,000</td>
+          <td>114,800</td>
+          <td>117,700</td>
+        </tr>
+        <tr>
+          <td>662</td>
+          <td>107,800</td>
+          <td>110,500</td>
+          <td>113,300</td>
+          <td>116,100</td>
+          <td>119,000</td>
+          <td>122,000</td>
+          <td>125,100</td>
+        </tr>
+        <tr>
+          <td>670</td>
+          <td>125,100</td>
+          <td>128,200</td>
+          <td>131,400</td>
+          <td>134,700</td>
+          <td>138,100</td>
+          <td>141,600</td>
+          <td>145,100</td>
+        </tr>
+        <tr>
+          <td>672</td>
+          <td>129,900</td>
+          <td>133,100</td>
+          <td>136,400</td>
+          <td>139,800</td>
+          <td>143,300</td>
+          <td>146,900</td>
+          <td>150,600</td>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <annotations>
+    <annotation type="History" effective="2011-07-01" display="true">July 1, 2011</annotation>
+    <annotation type="History" effective="2012-08-10" display="true">August 10, 2012</annotation>
+  </annotations>
+</section>

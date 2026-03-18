@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-420-4</num>
+  <heading>Operating Budget</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The operating budget is a plan approved by the Board of Estimates and the City Council for appropriating funds to agencies for operating costs during a fiscal year. This plan establishes legal expenditure limits and reflects appropriations budgeted according to programs and sources of funding.</text>
+  </para>
+  <para name="terms">
+    <heading>TERMS</heading>
+    <text>The following is a listing of frequently used terms with definitions specific to the operating budget.</text>
+    <text><strong>ACTIVITY: </strong>A subdivision of a program that specifies a specific function of the program. Some programs may be accomplished through the performance of only one activity, while other programs may require the performance of two or more activities.</text>
+    <text><strong>AGENCY: </strong>An organization authorized by the Mayor and City Council to operate in the best interest of the public. Each agency is responsible for submitting a budget request outlining projected costs of operation for the upcoming fiscal year to the Director of Finance and/or Planning Commission, as applicable.</text>
+    <text><strong>APPROPRIATION:</strong> An authorization granted by City Ordinance to make expenditures and incur obligations in a specified amount from a designated fund account for a specific project.</text>
+    <text><strong>FISCAL YEAR:</strong> The year from July 1 through June 30, designated by the calendar year in which June 30 occurs.</text>
+    <text><strong>FUND:</strong> A sum of money segregated for specific purposes. Use of this money requires adherence to special regulations established for each type of fund. The various funds are:</text>
+    <text>1001 General – A fund comprised primarily of City tax revenues; used to support many City operations.</text>
+    <text>2000 Internal Service – A fund to provide for the cost of goods and services furnished by certain agencies to other agencies.</text>
+    <text>2022 Convention Center Bond Fund – Established in Fiscal 1995 to budget and account for hotel tax revenues to be dedicated to support the payment of principal and interest associated with City indebtedness to finance one-third of the $151 million cost of the joint city-state expansion of the Baltimore Convention Center.</text>
+    <text>2024 Conduit Enterprise Fund – Established to budget for revenue charged to non-City entities renting space in the City owned and operated underground conduit system and for operating and capital expenses and Maintaining the system.</text>
+    <text>2070 Waste Water Utility – A fund comprised of payments received for sewage service; used to support operations of the sewage system.</text>
+    <text>2071 Water Utility – A fund comprised of payments received for water; used to support operations of the water supply system.</text>
+    <text>2073 Loan &amp; Guarantee Enterprise – A fund established to budget for the self-supporting of program of loans and guarantees administered by the Department of Finance pursuant to policies and procedures approved by the Board of Estimates.</text>
+    <text>2075 Parking Enterprise<strong> – </strong>A fund comprised of revenues from garage operations, installment purchase payments, and various parking related revenues; used to support the development of off street parking facilities.</text>
+    <text>2076 Parking Management Fund<strong> – </strong>A fund comprised of monies transferred from the Parking Enterprise Fund and of certain parking related revenues; used to budget for fund transfers from the Parking Enterprise Fund and to the General Fund and to support certain parking activities.</text>
+    <text>4000 Federal – A fund comprised of federal grants; used to support specific purposes.</text>
+    <text>5000 State – A fund comprised of State grants; used to support specific purposes.</text>
+    <text>6000 Special – A fund comprised of grants from private sources; used to support specific purposes.</text>
+    <text><strong>GRANT:</strong> Revenue received from the private sector or from another government to support a specific function.</text>
+    <text><strong>OBJECT OF EXPENDITURE:</strong> A grouping of similar goods, services, or other expenses used to categorize spending. The Objects of Expenditure are listed below.</text>
+    <text>Object 0 – Transfers</text>
+    <text>Object 1 – Salaries</text>
+    <text>Object 2 – Other Personnel Costs</text>
+    <text>Object 3 – Contractual Services</text>
+    <text>Object 4 – Materials and Supplies</text>
+    <text>Object 5 – Equipment - $4,999 or less</text>
+    <text>Object 6 – Equipment - $5,000 or more</text>
+    <text>Object 7 – Grants, Subsidies, and Contributions</text>
+    <text>Object 8 – Debt Service</text>
+    <text>Object 9 – Capital Improvements</text>
+    <text><strong>OPERATING BUDGET:</strong> A plan for appropriating funds to agencies for operating costs during a fiscal year. This plan establishes legal expenditure limits and reflects appropriations according to programs and sources of funding. Included are capital improvements under $50,000, items of repairs, maintenance or emergency nature under $100,000, and Bureau of Water and Waste Water items of repair, maintenance or emergency nature costing less than $250,000.</text>
+    <text><strong>PROGRAM:</strong> A subdivision of an agency's operating budget. Some agencies require only one program, while other agencies require two or more programs.</text>
+    <text><strong>REVENUE:</strong> Income generated by taxes, fines, licenses, notes, bonds, penalties, investment income, property rental, user charges, grants, and other sources.</text>
+    <text><strong>SALARY/WAGE SAVINGS:</strong> Unexpended or unappropriated part of the gross salaries and wages approved for permanent full-time positions. These savings result from positions which are vacant or filled by employees in lower pay classifications.</text>
+    <text><strong>SUB-OBJECT OF EXPENDITURE:</strong> A sub-division of an object of expenditure to identify specific commodities and/or services. A listing of common sub-objects and their descriptions is in the Operating Budget Instructions, which are issued annually by the Bureau of the Budget and Management Research.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-10-27" display="true">October 27, 2004</annotation>
+    <annotation type="History" effective="2016-10-13" display="true">October 13, 2016</annotation>
+    <annotation type="Related Policies"><cite path="§AM-419-1">AM-419-1</cite> BUDGET ACCOUNT NUMBER</annotation>
+    <annotation type="Related Policies"><cite path="§AM-420-1">AM-420-1</cite> BUDGET PREPARATION OVERVIEW</annotation>
+    <annotation type="Related Policies"><cite path="§AM-420-3">AM-420-3</cite> OPERATING BUDGET PREPARATION</annotation>
+  </annotations>
+</section>

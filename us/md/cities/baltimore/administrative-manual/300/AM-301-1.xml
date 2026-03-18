@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-301-1</num>
+  <heading>Purchasing</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>City agencies must make every effort to gain the maximum benefits of a centralized purchasing system and competitive bidding. All materials, supplies, equipment, and services used by agencies, with the exception of professional services and public works (i.e., construction), must be obtained through the Bureau of Purchases. Professional services may be procured through the Board of Estimates with the assistance of the Law Department; public works (i.e., construction) may be procured through the Department of Public Works.</text>
+  </para>
+  <para name="procurement-through-the-bureau-of-purchases">
+    <heading>PROCUREMENT THROUGH THE BUREAU OF PURCHASES</heading>
+    <text>To obtain materials, supplies, equipment, or services through the Bureau of Purchases, complete a Requisition (or, if ordering from a master blanket contract, a Release Requisition) using CitiBuy. (CitiBuy is the City's automated procurement system at www.baltimorecitibuy.org. Users may obtain passwords and user identification numbers by contacting the Bureau of Purchases.)</text>
+    <text>Agency heads are responsible for anticipating purchasing requirements in sufficient time to obtain goods and services through the normal channels in the Bureau of Purchases, and should use the following table as a guide as to the required lead time for the Bureau of Purchases to process their requisitions. (Note that the timeframes given below are averages; some procurement may take longer to complete.)</text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td>Purchase from an existing Master Blanket Contract</td>
+            <td>Expenditure of $5,000 or Less</td>
+            <td>Expenditure of $5,000 to $25,000</td>
+            <td>Expenditure of $25,000 to $50,000</td>
+            <td>Expenditure of Over $50,000</td>
+          </tr>
+          <tr>
+            <td>Average of 7 Days</td>
+            <td>Average of 14 Days</td>
+            <td>Average of 30 Days</td>
+            <td>Average of 45 Days</td>
+            <td>Average of 90 Days</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </para>
+  <para name="direct-purchases">
+    <heading>DIRECT PURCHASES</heading>
+    <text>Agencies may procure some items directly from a vendor provided that certain criteria are met. Expenditure Authorizations, Small Purchases Procurement Cards (credit cards), and Petty Cash Funds provide agencies the means to make direct purchases when necessary and are the subject of separate Administrative Manual policies.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1988-02-05" display="true">February 5, 1988</annotation>
+    <annotation type="History" effective="2011-07-20" display="true">July 20, 2011</annotation>
+    <annotation type="Related Policies"><cite path="§AM-212-1">AM-212-1</cite> CONTRACTUAL AGREEMENTS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDERS</annotation>
+    <annotation type="Related Policies"><cite path="§AM-303-2">AM-303-2</cite> CITY'S TAX EXEMPTION NUMBER</annotation>
+    <annotation type="Related Policies"><cite path="§AM-308-1">AM-308-1</cite> PURCHASE ORDERS FOR GOODS $ SERVICES – AGENCY RESPONSIBILITIES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-309-1">AM-309-1</cite> SMALL PURCHASES PROCUREMENT CARD PROGRAM</annotation>
+    <annotation type="Related Policies"><cite path="§AM-401-1">AM-401-1</cite> PETTY CASH FUND</annotation>
+  </annotations>
+</section>

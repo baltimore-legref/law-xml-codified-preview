@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-200-4</num>
+  <heading>Positions of Trust</heading>
+  <text>The City of Baltimore ("City") recognizes the importance of establishing guidelines used to identify positions of trust within the City's classification system. The City is committed to providing a safe working environment for its employees and citizens. The City will follow all applicable Federal, State, and Local laws governing all aspects of employment and background screenings.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to identify positions of trust within the City for the purposes of conducting criminal background investigations. A position of trust is created when an individual is permitted to exercise certain authorities without close supervision, which, if abused, could lead to either direct or indirect personal or financial gain.  A position of trust also is created when an individual works with children.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all City employees, including regular full and part-time, probationary, seasonal, temporary, , and elected officials and their appointed staff who are appointed, reinstated, transferred, and/or promoted to a position of trust. Though not considered employees, independent contractors and volunteers are bound by the restrictions of this Policy.</text>
+    <text>This Policy does not apply to sworn members of the Baltimore City Police Department, or positions covered by the Public Local Laws ("PPL") adopted by the General Assembly (Sec. 16-16A, 16B, and 16C), such as Special Traffic Enforcement Officers. PPL gives the Police Commissioner the authorization to appoint such officers and to remove them, and thus to set the criterial used for such actions.</text>
+  </para>
+  <para name="guidelines">
+    <num>III.</num>
+    <heading>GUIDELINES</heading>
+    <text>In accordance with the following guidelines, the Agency Head is responsible for identifying those positons of trust which exist within the Agency. The Director of Human Resources or his/her designee shall convene and chair a panel of Human Resources and Agency representatives to review the designation made by the Agency Head. The panel may, after consultation with the Agency Head, and in accordance with the following guidelines, determine that a positon is not a position of trust. Positon of trust categories include:</text>
+    <para>
+      <num>A.</num>
+      <heading>Category 1</heading>
+      <text>Category 1 consists of senior officials whose positions involve a significant degree of responsibility and authority. This group includes Agency, Bureau, and Department Heads and their senior deputies. In some instances, it is appropriate to include Division Heads and their deputies, as well as individual senior advisors where such officials have, because of specialization, significant opportunity to influence the decision-making process in the City.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Category 2</heading>
+      <text>Category 2 consists of individuals who can significantly influence the financial interest of third parties. This group includes those involved in procurement, licensing, benefits eligibility, loans, settlements, property valuation and use, and employment eligibility.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Category 3</heading>
+      <text>Category 3 consists of individuals who have access to resources highly susceptible to loss or conversion. This includes individuals who handle cash, checks, and other receipts (other than imprest funds of less than $100); individuals who collect rent; individuals who have custody of inventories; individuals who sell surplus property; and individuals who authorize payroll and other disbursements.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <heading>Category 4</heading>
+      <text>Category 4 consists of individuals who are responsible for the financial and related systems of the City. This group includes accountants, budget officers, and ADP/HRIS system designers, programmers and operators.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <heading>Category 5</heading>
+      <text>Category 5 consists of other sensitive officials who establish or enforce controls regarding environmental or other hazards, and individuals who investigate safety and various code violations.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <heading>Category 6</heading>
+      <text>Category 6 consists of individuals who work with children, such as school nurses, recreation leaders, outreach workers or counselors who serve children, or individuals who work in youth opportunity programs.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <heading>Category 7</heading>
+      <text>Category 7 consists of individuals who have access to other's personal information. This group includes persons with access to personal identifiable health information, financing information, educational information, or personnel information.</text>
+    </para>
+  </para>
+  <para name="policy-implementation">
+    <num>IV.</num>
+    <heading>POLICY IMPLEMENTATION</heading>
+    <text>Positions are flagged as confidential in HRIS based on whether the position requires a criminal background investigation. Prior to either employment with the City or promotion within the City, applicants are required to receive an Applicant Release and Authorization Form from the Agency's Human Resources Practitioner in accordance with <em><cite path="§AM-200-4-1">AM-200-4-1</cite> Criminal Background Check</em> ("<em><cite path="§AM-200-4-1">AM-200-4-1</cite></em>").</text>
+    <para>
+      <num>A.</num>
+      <heading>Exception</heading>
+      <text>With the exception of employees working with children, employees filling positions of trust in an out-of-title status will be exempt from the requirement to complete the Applicant Release and Authorization Form. Additionally, a criminal background investigation is not required when an employee is reinstated to a previously held position of trust, provided that an investigation has been completed within one year of the reentry date.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Non-Positions of Trust</heading>
+      <text>Employment for non-positions of trust shall not require disclosure of prior convictions or any other criminal history information. Such employees are not subject to a criminal background check.</text>
+    </para>
+  </para>
+  <para name="authority">
+    <num>V.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em><cite path="§AM-002-1-2">AM-002-1-2</cite></em> Administrative Manual wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>VI.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces <cite path="§AM-237-105">AM-237-1</cite> May 9, 2012]</annotation>
+    <annotation type="Related Policies"><cite path="§AM-200-4-1">AM-200-4-1</cite> Criminal Background Check</annotation>
+    <annotation type="Related Policies"><cite path="§AM-200-4-2">AM-200-4-2</cite> Criminal Background Check: Sample Adverse Action Letters</annotation>
+  </annotations>
+</section>

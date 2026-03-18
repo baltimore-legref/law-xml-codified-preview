@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-303-3</num>
+  <heading>Payment of City Obligations</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Board of Estimates policy requires prompt payment of the City of Baltimore obligations; provides for the payment of interest by the City after a certain period of time; provides certain exemptions from the City's payment of interest; and authorizes the Director of Finance to perform certain duties generally relating to the payment of City obligations.</text>
+  </para>
+  <para name="definitions">
+    <heading>DEFINITIONS</heading>
+    <text>"Proper invoice" has the meaning stated in Article 5, §37-1 of the Baltimore City Code<fn path="|footnotes|1">1</fn>.</text>
+    <text>"Receipt date" has the meaning stated in Article 5, §37-1 of the Baltimore City Code<fn path="|footnotes|2">2</fn>.</text>
+  </para>
+  <para name="policy-requirements">
+    <heading>POLICY REQUIREMENTS</heading>
+    <text>It is the policy of the City that payment pursuant to any authorized written procurement or construction contract shall be made by the City to the contractor not later than the date specified in the contract or, if no date is specified, then not later than 30 days from the receipt date of a proper invoice.</text>
+    <text>An agency or office responsible for paying City obligations may adopt a separate, more specific or unique policy regarding payment of City obligations that is consistent with the requirements of this policy. Such a policy shall require review and approval by the Director of Finance in writing and posted online.</text>
+  </para>
+  <para name="contract-initiation">
+    <heading>CONTRACT INITIATION</heading>
+    <text>In accordance with existing City laws, policies, and procedures, all costs associated with a purchase order or other authorization shall be established in writing between the City and a vendor prior to purchase. Any changes in the cost of a contract or purchase require a change order or, if applicable, an amendment. The Department of Finance may establish procedures for streamlined approval of low-risk change orders for time and material cost estimates that are in accordance with Generally Accepted Accounting Principles. The Department of Finance shall issue written guidance describing any streamlined procedures are effective until explicitly rescinded or overturned by future written guidance issued by the Department of Finance.</text>
+  </para>
+  <para name="invoice-review-and-approval">
+    <heading>INVOICE REVIEW AND APPROVAL</heading>
+    <text>Every City agency or office responsible for payment of City obligations shall appoint an "Accounts Payable Lead" and "Accounts Payable Alternate." The Accounts Payable Lead shall be responsible for tracking invoices for the agency or office, monitoring timeliness and review of the invoice and shall make every effort to ensure payment within 30 calendar days from submission of a proper invoice. The Accounts Payable Lead shall alert management within the agency or office, the Accounts Payable Contact(s) within the Department of Finance, and the Accounts Payable Contact(s) within the Mayor's Office when an invoice is not paid within 30 calendar days. The Accounts Payable Alternate shall perform the duties of the Accounts Payable Lead in his/her absence or when the Accounts Payable Lead is otherwise unavailable.</text>
+    <text>While vendors shall send invoices to the location specified in the contract, they should also send courtesy copies to the agencies or offices responsible for paying City obligations simultaneously.</text>
+    <text>No invoice may be approved unless it is a proper invoice. These courtesy copies shall not be used as the basis for receiving goods or services.  Blind receiving of invoices is a key component of the City's three-way match of the purchase order, the receipts, and the invoice.  Properly executed receiving establishes the total permit-to-pay amount on a purchase order at any given point in time.</text>
+    <text>Agencies or offices responsible for the payment of City obligations shall take all necessary steps to alert vendors or contractors that an invoice is not proper and explain why. A determination that an invoice is not proper and therefore, payment cannot be made, shall be in writing, a copy of which shall be kept in the file of record for the contract.</text>
+    <text>Agencies or offices shall alert vendors or contractors that an invoice is needed for work performed or services rendered if no invoice is received within 6 months of completion of the work or services provided.</text>
+  </para>
+  <para name="collection-limitations">
+    <heading>COLLECTION LIMITATIONS</heading>
+    <text>Consistent with City, State, or Federal law, the Finance Director may determine a period of time after which an invoice is no longer valid and for which the City has no obligation to pay. Such a determination shall ensure there were demonstrable and documented attempts to resolve any outstanding questions.</text>
+  </para>
+  <para name="compliance">
+    <heading>COMPLIANCE</heading>
+    <text>The Mayor's Office and the Department of Finance shall determine procedures to review the timeliness of payments of obligations as well as compliance with existing laws, policies, and procedures.</text>
+  </para>
+  <para name="interest">
+    <heading>INTEREST</heading>
+    <text>Any amount due and payable pursuant to law and under an authorized written procurement contract or a construction contract, which remains unpaid for more than 45 calendar days after the receipt date, shall accrue interest. The interest shall accrue at a rate specified by the Board of Estimates for the period that begins 31 calendar days after the receipt date. If the written contract specifies a date before which payment must be made by the City, then the provisions of that contract shall apply to the payment of interest by the City.</text>
+  </para>
+  <para name="exemptions">
+    <heading>EXEMPTIONS</heading>
+    <text>The City is not liable for the payment of interest if a proper invoice for accrued interest is not submitted within 30 calendar days after the payment date of the amount on which the interest accrued, if there is a dispute between the City and the contractor, or for more than one year following the 31<sup>st</sup> calendar day after the receipt date or on amounts representing unpaid interest.</text>
+  </para>
+  <para name="responsbilities">
+    <heading>RESPONSBILITIES</heading>
+    <text>The Director of Finance may adopt guidelines, rules, and/or regulations pertinent to enforcing this policy. The Director may charge the contracting City agency any interest paid, when the City agency was the cause of the delay requiring the payment of interest, otherwise the Department of Finance shall pay the interest provided.</text>
+  </para>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>According to Article 5, §37-1 of the Baltimore City Code, "Proper invoice" means an invoice which contains the contractor's federal Employer's Identification Number or Social Security Number and the contract or purchase order number or other description of the contract and which contains or is accompanied by such substantiating information and documentation as required by the Director.</text>
+      <text/>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>According to Article 5, §37-1 of the Baltimore City Code, "Receipt date" means the date that a proper invoice and receiving notice or, in the case of a construction contract, a proper construction estimate is received and recorded by the Bureau of Payroll and Disbursements.</text>
+    </footnote>
+  </footnotes>
+  <annotations>
+    <annotation type="History" effective="1989-07-10" display="true">July 10, 1989</annotation>
+    <annotation type="History" effective="2016-11-02" display="true">November 2, 2016</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-306-1</num>
+  <heading>Property Disposal Program</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy applies to City-owned property in all agencies, including abandoned vehicles. The Property Disposal Program does not apply to real property; however, the program includes the interior fixtures and other contents of real property should they be disposed of separately from the property.</text>
+    <text>This program provides for the efficient use of all City-owned property and also furnishes agencies with an incentive to dispose of unneeded property.</text>
+    <text>The Bureau of Purchases within the Department of Finance administers the Property Disposal Program, per <cite doc="City of Baltimore, Md., Charter" path="VII">Article VII of the City Charter</cite>.</text>
+  </para>
+  <para name="definitions">
+    <heading>DEFINITIONS</heading>
+    <text>The following definitions are provided to assist in implementing this policy.</text>
+    <text><strong>City-owned Property.</strong>  Items in use or in storage to which the City has legal claim of ownership through procurement, donation, or other acquisition procedures.</text>
+    <text><strong>Excess Property.</strong>  Items which are not in active use and which are no longer needed to meet the operating responsibilities of an agency.</text>
+    <text><strong>Surplus Property. </strong>Items that are no longer needed for the efficient operation of the City. Property that has been declared excess and which cannot be utilized by any City agency will be considered surplus.</text>
+    <text><strong>Salvage Property.</strong>  Damaged or worn out equipment and materials having components which may be used in the repair of similar items or applied to other productive purposes.</text>
+    <text><strong>Scrap Property.</strong>  Equipment and materials having no remaining useful life but which retain some monetary value through recycling or reprocessing.</text>
+    <text><strong>Custodial Agency.</strong>  The last agency having ownership of an item prior to its being declared surplus, salvage, or scrap by the City Purchasing Agent.</text>
+    <text><strong>Point of Origin.  </strong>The location of a surplus item or items.</text>
+    <text><strong>Property Disposal Coordinator.</strong>  The person designated by the City Purchasing Agent to manage the Property Disposal Program, normally the supervisor of the Surplus Property Division within the Bureau of Purchases.</text>
+  </para>
+  <para name="agency-survey-of-property">
+    <heading>AGENCY SURVEY OF PROPERTY</heading>
+    <text>Agency heads are responsible for inventorying, declaring, and reporting all excess property to the Property Disposal Coordinator, and shall periodically survey their property in order to identify the following.</text>
+    <para>
+      <num>1.</num>
+      <text>Items that are not needed where presently located, but which could be used elsewhere within the agency. Such property may be moved within the agency upon approval of the agency head and without the approval of the City Purchasing Agent.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Items that are not in active use and are no longer needed to meet agency operating responsibilities.</text>
+    </para>
+    <text>All property which is not in active use and is no longer needed to meet agency operating responsibilities must be declared excess by the agency head.</text>
+    <text>All such property shall be reported to the Property Disposal Coordinator by submission of a PROPERTY DISPOSAL REPORT (28-1408-5010).</text>
+    <text>Agencies shall not accumulate excess property or establish agency storage locations for such property without the prior approval of the City Purchasing Agent. The City Purchasing Agent is authorized to require submission of an inventory report for the contents of any agency storage location.</text>
+    <text>The Property Disposal Coordinator will determine whether an excess item will be disposed of at its point of origin or at an alternative location.</text>
+  </para>
+  <para name="available-excess-property">
+    <heading>AVAILABLE EXCESS PROPERTY</heading>
+    <text>Property Disposal Reports are evaluated by the Property Disposal Coordinator who will identify items that may be of use in other City agencies.</text>
+    <text>The Property Disposal Coordinator shall make available a listing of available excess property to all City agencies.</text>
+  </para>
+  <para name="service-charge">
+    <heading>SERVICE CHARGE</heading>
+    <text>A service charge will be assessed on all items released back to agencies from surplus. This charge helps offset the operating expenses of the Surplus Property Division, which is a self-sustaining organization. The service charge assessed shall be 10% of the fair market value of the items.</text>
+  </para>
+  <para name="disposal-of-property">
+    <heading>DISPOSAL OF PROPERTY</heading>
+    <text>The City Purchasing Agent has the sole authority to determine the disposition of surplus, salvage, and scrap property, to include the movement and storage of such property.</text>
+    <text>Methods used by the City Purchasing Agent to dispose of surplus, salvage, and scrap property include.</text>
+    <text>
+      <ul>
+        <li>Solicitation of bids from one or more vendors.</li>
+        <li>Sale at a retail surplus property facility.</li>
+        <li>Live public or Internet auctions.</li>
+        <li>Donation to charitable or non-profit organizations which have State-issued tax exempt numbers, and "Sister Cities" or other jurisdictions which together with the City of Baltimore currently maintain an agreement of mutual understanding and support.</li>
+      </ul>
+    </text>
+    <text>Surplus property that is to be donated must first be reported to the Property Disposal Coordinator in accordance with the normal procedures contained elsewhere herein. Property that has significant value, as determined by the City Purchasing Agent, can be donated only with the approval of the Board of Estimates.</text>
+    <text>Agencies may not dispose of any City-owned property without the written approval of the City Purchasing Agent. The agency must receive a Property Release Authorization issued by the Bureau of Purchases.</text>
+  </para>
+  <para name="monetary-credit-for-property">
+    <heading>MONETARY CREDIT FOR PROPERTY</heading>
+    <text>All money resulting from the sale of an agency's excess or scrap property by the City Purchasing Agent will be credited 50% to the custodial agency and 50% to the Bureau of Purchases to offset the administrative costs of the Property Disposal Program.</text>
+  </para>
+  <para name="responsibilities">
+    <heading>RESPONSIBILITIES</heading>
+    <text>City Purchasing Agent</text>
+    <text>
+      <ul>
+        <li>Administers the City's Property Disposal Program.</li>
+        <li>Directs the transfer of materials, supplies and equipment between agencies.</li>
+        <li>Acts as the sole authority in the determination, declaration, and disposal of surplus, salvage, and scrap property.</li>
+        <li>Appoints a Property Disposal Coordinator to coordinate the various activities of the Property Disposal Program.</li>
+        <li>Periodically distributes a list of available excess property to all City agencies.</li>
+        <li>Coordinates the collection, storage, transfer, and disposal of all excess property.</li>
+      </ul>
+    </text>
+    <text>Executive Director, Commission for Historical and Architectural Preservation:</text>
+    <text>
+      <ul>
+        <li>Advises the City Purchasing Agent concerning the handling and disposition of the interior fixtures and other contents of City-owned buildings, which may have historical or architectural significance.</li>
+      </ul>
+    </text>
+    <text>Agency Head</text>
+    <text>
+      <ul>
+        <li>Ensure that City-owned property which is no longer in active use and which is not needed to meet agency-operating responsibilities is declared excess.</li>
+        <li>Ensure that disposition restrictions for property procured through Federal or State resources are observed.</li>
+        <li>Notify the City Purchasing Agent of City Warehouse items which are no longer required for agency operations, proposed closings, renovations, or demolition of City-owned real property, and potential buyers for property.</li>
+        <li>Appoint agency Property Disposal Coordinators to supervise the disposition of property within the agency.</li>
+      </ul>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2001-01-01" display="true">January 1, 2001</annotation>
+    <annotation type="History" effective="2010-09-15" display="true">September 15, 2010</annotation>
+    <annotation type="Related Policies"><cite path="§AM-306-1-1">AM-306-1-1</cite> Procedure for Declaring Excess Property</annotation>
+  </annotations>
+</section>

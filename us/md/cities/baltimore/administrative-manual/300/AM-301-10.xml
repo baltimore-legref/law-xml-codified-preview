@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-301-10</num>
+  <heading>Computer Systems and Services</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Baltimore City board of Estimates requires economical use of computer systems and services.  This policy addresses procurement and use of all computer systems and services including, but not limited to:   consultants, hardware, software, training, maintenance, and grant applications which include computer systems and services.</text>
+  </para>
+  <para name="responsibility">
+    <heading>RESPONSIBILITY</heading>
+    <text>The Director of Finance is responsible for the overall supervision of the implementation of this policy.  The Chief of the Mayor's Office of Information Technology (MOIT) acts as the principal computer systems advisor to the Board of Estimates in all relative matters involving computer systems, services, and personnel actions where position descriptions include a computer related activity.  He shall promulgate from time to time specific requirements for reporting evaluations of performance and utilization statistics on all computer services and installed computer systems.  The City Purchasing Agent administers the procurement of computer systems and/or services in accordance with <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>.  The City Auditor is given authority through <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> to audit requests for computer systems and services as he may deem appropriate based on his own initiative or in response to a request from MOIT.</text>
+  </para>
+  <para name="policy-implementation">
+    <heading>POLICY IMPLEMENTATION</heading>
+    <text>In implementing the terms of this policy, the Chief of MOIT will undertake the responsibility to see:</text>
+    <text>
+      <ul proof="needed">
+        <li>That all requests for computers systems, services and personnel actions where position descriptions include a computer related activity are reviewed</li>
+        <li>That guidance, instruction, and support are available to users of computer in the effective utilization of end user computing tools.</li>
+        <li>That evaluations of performance and utilization statistics on all computer services and installed computer systems are performed</li>
+        <li>That consideration is given to the needs of the requesting agency and the feasibility of obtaining services from other facilities within the City.</li>
+        <li>That a consulting service is provided to the Bureau of the Budget and Management Research, Department of Finance, and the Board of Estimates in evaluating budget requests for computer systems and services.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="data-processing-coordinator's-role">
+    <heading>DATA PROCESSING COORDINATOR'S ROLE</heading>
+    <text>Agencies with a central data processing facility, designated by MOIT, must initiate requests for computer systems and/or services to the agency's in-house Data Processing Coordinator.  In agencies which do not have a central Data Processing Coordinator, the head of the agency, or designee, will be responsible for discharging the duties normally performed by the Data Processing Coordinator.  The Data Processing Coordinator is responsible for:</text>
+    <text>
+      <ul proof="needed">
+        <li>Coordinating all computer-related requests within the agency and acting as liaison</li>
+        <li>Developing an annual plan for submission to MOIT by December 1 of each year which describes anticipated acquisitions, changes in configuration of hardware and software, and resultant changes in staffing requirements for the next fiscal year.</li>
+        <li>Developing and maintaining performance and utilization statistics on all computer services and installed computer systems.</li>
+        <li>MOIT may be contacted regarding appropriate performance and utilization statistics to be maintained by the Data Processing coordinator at the agency level.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="vendor-contact">
+    <heading>VENDOR CONTACT</heading>
+    <text>Approval by the Chief of MOIT is a mandatory prerequisite before a vendor contact may initiated on any computer – related matter.</text>
+  </para>
+  <para name="renewal-of-continuing-agreements">
+    <heading>RENEWAL OF CONTINUING AGREEMENTS</heading>
+    <text>If a continuing agreement for computer systems and/or services has been approved by the Board of Estimates and contains provisions for establishing renewal rates during subsequent years, it need not be resubmitted for approval in a succeeding year provided there are no changes in the configuration of items or changes in the contract terms and conditions.</text>
+    <text>However, the agency responsible for renewing the leased equipment and/or services must complete and submit a requisition denoting the entire contract year's rental to the Bureau of the Budget and Management Research and Bureau of Purchases.</text>
+  </para>
+  <para name="compliance-requirements">
+    <heading>COMPLIANCE REQUIREMENTS</heading>
+    <text>If equipment and/or services are not ordered by the agency in accordance with the Charter and the prescribed Administrative Manuel procedures (<cite path="§AM-310-10-1">AM-310-10-1</cite>), the City will not be responsible for paying the bill. An agency head will be held personally accountable for the cost incurred in failing to adhere to these compliance requirements.</text>
+    <text>Users of computer systems and/or services must adhere to the laws governing copyrighted materials as well as any other terms and conditions set forth in the contract. Failure to comply with laws governing use of copyrighted materials may result in appropriate legal action being taken against the offending employee. The City is not responsible for any employee's infringement of laws governing copyrighted materials.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1986-08-22" display="true">August 22, 1986</annotation>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
+  </annotations>
+</section>

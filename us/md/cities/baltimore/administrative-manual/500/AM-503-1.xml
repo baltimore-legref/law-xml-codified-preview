@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-503-1</num>
+  <heading>Municipal Post Office</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Municipal Post Office (MPO) handles incoming and outgoing U.S. Mail, including parcels, heavy or bulky packages and interdepartmental mail for agencies, which include insertion of return envelopes, invoices or standardized notice letters, registered mail, priority delivery, certified mail and express mail.</text>
+  </para>
+  <para name="obtaining-postage-stamps,-suppplies-and-services">
+    <heading>OBTAINING POSTAGE STAMPS, SUPPPLIES AND SERVICES</heading>
+    <text>Requests for postage stamps should be based on extenuating circumstances that prevent the agency to utilize the MPO. Requisitions for postage stamps, related postal supplies and services must be sent to Accounting Operations for disbursement, but must be initially processed by the MPO since they are responsible for approval. All postage stamps and postal related supplies, equipment and services within the City government are provided by the MPO's procurement. Use of all postage stamps and postal related supplies, equipment and services must be reviewed by the Director of Communication Services in all relative matters involving the above mentioned services and equipment.</text>
+    <text>This addresses all postal-related service and equipment including, but not limited to:</text>
+    <text>
+      <ul proof="needed">
+        <li>Consultants</li>
+        <li>Maintenance</li>
+        <li>Training</li>
+        <li>Hardware</li>
+        <li>Software</li>
+        <li>Grant Applications</li>
+      </ul>
+    </text>
+    <text>Approval by the Director of Communication Services is required before a vendor contact may be initiated on any postal related matter.</text>
+  </para>
+  <para name="mail-and-parcel-requirements">
+    <heading>MAIL AND PARCEL REQUIREMENTS</heading>
+    <text>U.S. Mail and parcels for City agencies are picked up and delivered by the MPO several times a day at designated locations within agency, City departments and related locations. All outgoing U. S. Mail must be bound together and accompanied by a completed CHARGE TICKET, MPO (28-1428-5110) {<cite path="§AM-503-1-2">AM-503-1-2</cite>}. When sending special mail, indicate type of special mail service desired directly on the charge ticket and secure properly. Special arrangements must be made at least five (5) business days in advance with the MPO supervisor to arrange for pick up and processing of heavy or large mailings. Sufficient notice will insure timely processing.</text>
+  </para>
+  <para name="personal-mail">
+    <heading>PERSONAL MAIL</heading>
+    <text>The MPO does not deliver personal packages or magazines to employees.</text>
+  </para>
+  <para name="mail-standardization">
+    <heading>MAIL STANDARDIZATION</heading>
+    <text>Address standardization has the potential to improve business-to-business mail processing and save cost.</text>
+    <text>For better address quality: or <strong>For Better Mailing Results, the United States Postal Service (USPS) has issued these helpful guidelines</strong>:</text>
+    <para>
+      <num>1.</num>
+      <text>Addresses should be typewritten or machine printed in dark ink on a light background using uppercase letters.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>All punctuation may be omitted except for the hyphen in the primary or secondary street number (if needed) or the ZIP + 4 code.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>All lines of the address should be formatted with a uniformed left margin.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Always place the country name by itself on the last line when using a foreign address.</text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>Include all pertinent information such as the directional code, apartment, floor, and suite number.</text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>The entire address should be contained in an imaginary rectangle know as the Optical Character Reader (OCR) read area that extends from 5/8" to 2 ¾" from the bottom of the mail piece, with 1/2" margins on each side. SEE <cite path="§AM-503-1-3">AM-503-1-3</cite>.</text>
+    </para>
+    <para>
+      <num>7.</num>
+      <text>Extraneous (non-address) printing that appears in the OCR read area should be positioned above the delivery address line and away from the address block.</text>
+    </para>
+    <para>
+      <num>8.</num>
+      <text>Address characters must not touch and should be evenly spaced. All lines of the address should be parallel to the bottom of the envelope.</text>
+    </para>
+  </para>
+  <para name="bulk-mail-permits">
+    <heading>BULK MAIL PERMITS</heading>
+    <text>For Bulk Mailing Permits, each request must be accompanied by a deposit, for the USPS, equivalent to the total amount of postage to be complete the shipment. Bulk Mailings must have a minimum of 200 pieces or 50 lbs of mail per mailing.</text>
+  </para>
+  <para name="charging-costs">
+    <heading>CHARGING COSTS</heading>
+    <text>An agency is charged at the end of each month for accumulated postage incurred through use of the MPO's standard metered system.</text>
+  </para>
+  <para name="delivery-service-area">
+    <heading>DELIVERY SERVICE AREA</heading>
+    <text>All pickup and delivery service areas of the MPO are designated in MAILING ADDRESSES FOR CITY OFFICES {<cite path="§AM-102-1">AM-102-1</cite>}. Areas not served by MPO are served directly by the U. S. Postal Service.</text>
+  </para>
+  <para name="change-of-address">
+    <heading>CHANGE OF ADDRESS</heading>
+    <text>An agency head is requested to utilize change of address cards when the agency's mailing address has been changed. Change of address cards are available at the MPO.</text>
+  </para>
+  <para name="processing-new-mail-accounts">
+    <heading>PROCESSING NEW MAIL ACCOUNTS</heading>
+    <text>In order for agencies to create a new mail account, the agency must perform the following:</text>
+    <para>
+      <num>1.</num>
+      <text>Agency sends a memo to the Communication Services Administrator. This memo should state the location of the pickup/drop site to be established or eliminated. For new sites, the memo must also contain the account number to be charged.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>The Communication Services Administrator notifies the Bureau of Accounting and Payroll Services (BAPS) of the change request that has been approved. Based on the notification, BAPS makes the necessary adjustments to its records so that it will be in effect for the next billing period. As needed BAPS will adjust the current year's charges.</text>
+    </para>
+  </para>
+  <para name="location">
+    <heading>LOCATION</heading>
+    <text>The MPO is located at 100 N. Guilford Ave, Baltimore, MD 21202, located at the rear of Courthouse East 111 N. Calvert St.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1987-10-08" display="true">October 8, 1987</annotation>
+    <annotation type="History" effective="2012-08-22" display="true">August 22, 2012</annotation>
+    <annotation type="Related Policies"><cite path="§AM-102-1">AM-102-1</cite> MAILING ADDRESSES AND POSTAL DELIVERY</annotation>
+    <annotation type="Related Policies"><cite path="§AM-503-1-1">AM-503-1-1</cite> OBTAINING POSTAGE STAMPS AND RELATED POSTAL SUPPLIES</annotation>
+    <annotation type="Related Policies"><cite path="§AM-503-1-2">AM-503-1-2</cite> CHARGE TICKET: MUNICIPAL POST OFFICE</annotation>
+  </annotations>
+</section>

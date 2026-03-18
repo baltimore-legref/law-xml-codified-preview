@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-501-9</num>
+  <heading>Vehicle Rental</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy applies to the City's commercial vehicle rental policy. Specifically, the rental of a passenger vehicle, regardless of funding source, can be authorized when a vehicle is not available from the Fleet Management Division (FMD). A passenger vehicle in this policy refers to a passenger car, station wagon, van, pick-up truck, or sport utility vehicle. Rental of a passenger vehicle must be approved by the agency/bureau head, Bureau of the Budget and Management Research (BBMR) and the Bureau of Purchases, Department of Finance. The requesting agency/bureau is not authorized to contact a vehicle rental vendor. All vehicle rentals must be coordinated through the Bureau of Purchases.</text>
+  </para>
+  <para name="rental-criteria">
+    <heading>RENTAL CRITERIA</heading>
+    <text>Rental of passenger vehicles may be approved if the request conforms to the following criteria:</text>
+    <text>
+      <ul>
+        <li>A City-owned vehicle is not available for use.</li>
+        <li>Public transportation is not practical or economically feasible.</li>
+        <li>The rental vehicle will be used solely for the conduct of official business.</li>
+        <li>The rental vehicle will not be used for pleasure or to conduct personal business.</li>
+        <li>Passengers in the rental vehicle will be limited at all times to those engaged in official City business.</li>
+        <li>The rental vehicle will be operated only by persons specified in writing on a Requisition, utilizing the CitiBuy system.</li>
+        <li>The use of a rental vehicle is the most practical and economical method of providing necessary transportation</li>
+        <li>A valid and critical need exists for the use of a rental vehicle.</li>
+        <li>The rental period is in accordance with the provisions of this policy.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="length-of-rental">
+    <heading>LENGTH OF RENTAL</heading>
+    <text>The maximum rental period normally allowed for passenger vehicles is five (5) workdays. In instances where the initial rental period does exceed five work days, then a new rental request must be submitted for approval immediately. A rental period anticipated to exceed five (5) workdays requires submitting a rental request with detailed justification.</text>
+  </para>
+  <para name="passenger-vehicle-rental-procedures">
+    <heading>PASSENGER VEHICLE RENTAL PROCEDURES</heading>
+    <text>Justification for use of a rental vehicle must be entered in the "Notes" section of the Requisition, utilizing the CitiBuy system. Failure to include proper information will result in rejection of the request.</text>
+    <text>Advance rental refers to a request for a rental vehicle within three (3) days or more before the date of anticipated use. After obtaining all necessary approvals, a Requisition, utilizing the CitiBuy system must be submitted to the Bureau of Purchases.</text>
+  </para>
+  <para name="payment-of-vehicle-rental">
+    <heading>PAYMENT OF VEHICLE RENTAL</heading>
+    <text>Rental charges not authorized will not be honored for reimbursement. Petty cash funds or direct payment orders may not be used to defray cost of rental vehicles.</text>
+  </para>
+  <para name="other-vehicle-rentals">
+    <heading>OTHER VEHICLE RENTALS</heading>
+    <text>Non-passenger vehicle rentals must be approved by BBMR and coordinated through the Bureau of Purchases.</text>
+  </para>
+  <para name="fuel-for-rental-vehicles">
+    <heading>FUEL FOR RENTAL VEHICLES</heading>
+    <text>Costs for fuel used in rental vehicles will be charged to the requesting agency/bureau by use of a commercial fuel/service credit card issued by FMD or a City-issued fuel card at the time of vehicle rental.</text>
+  </para>
+  <para name="motor-vehicle-laws">
+    <heading>MOTOR VEHICLE LAWS</heading>
+    <text>Any traffic or parking fines incurred as a result of violating motor vehicle laws are paid by FMD. Agency fleet coordinators are notified of traffic and parking violations. The agency incurring any violations must attempt to collect reimbursement from the employee.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1986-07-01" display="true">July 1, 1986</annotation>
+    <annotation type="History" effective="2008-03-01" display="true">March 1, 2008</annotation>
+  </annotations>
+</section>

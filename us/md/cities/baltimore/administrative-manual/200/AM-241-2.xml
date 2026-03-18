@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-241-2</num>
+  <heading>Exit Interview</heading>
+  <text>The City of Baltimore ("City") recognizes the need to attract and maintain a competitive workforce. Exit Interviews shall be used as a mechanism by Agencies to identify problems in the work environment and assist Agencies in achieving the City's overall goal.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to acquire valuable information from City employees who are leaving the City about their work experience. Information from the Exit Interview will be used to highlight areas of improvement with respect to the City's basic operations, such as workload, management, and supervision. Information acquired from the Exit Interview will also inform the City of the primary reasons employees leave the City, which will, in turn, help Agencies develop retention strategies for its current and future workforce.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all employees involved in the City's operations, including, but not limited to, regular full and part-time, probationary, seasonal, temporary,  as well as the appointed staff for elected officials. Though not considered employees, independent contractors and volunteers are bound by the restrictions of this Policy.</text>
+  </para>
+  <para name="interview-procedure">
+    <num>III.</num>
+    <heading>INTERVIEW PROCEDURE</heading>
+    <text>Exit Interviews shall be conducted on the employee's last day with the City, but no later than five (5) business days after the employee's departure. The Exit Interview shall be performed by the Agency's Human Resources Practitioner using the survey platform provided by the Department of Human Resources ("DHR"), which can be found on DHR's Intranet page under "HR Tools." Interviews are to be held in a private location with ample time to allow for the Agency HR Practitioner and employee to discuss comments provided in the interview.</text>
+  </para>
+  <para name="confidentiality">
+    <num>IV.</num>
+    <heading>CONFIDENTIALITY</heading>
+    <text>The information received through the Exit Interviews will be confidential. No specific information that could possibly be traced back to a former employee will be disseminated or discussed.</text>
+  </para>
+  <para name="authority">
+    <num>V.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <cite path="§AM-002-1">AM-002-1</cite> and <cite path="§AM-002-1-2">AM-002-1-2</cite> Administrative Manual wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval</text>
+  </para>
+  <para name="interpretation">
+    <num>VI.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces PM 540 October 2008]</annotation>
+    <annotation type="Related Policies"><cite path="§AM-241-2-1">AM-241-2-1</cite> Employee Clearance on Termination</annotation>
+    <annotation type="Related Policies"><cite path="§AM-241-2-2">AM-241-2-2</cite> Employee Clearance Checklist</annotation>
+  </annotations>
+</section>

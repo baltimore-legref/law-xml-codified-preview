@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-201-5</num>
+  <heading>Work Permit for Minor</heading>
+  <text>The City of Baltimore ("City") periodically hires employees' ages 14-17 and who require a valid work permit for employment purposes.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this policy is to adhere to the State requirements for maintaining a valid work permit for individuals ages 14-17.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This policy applies to all City employees and individuals involved in the City's operations, including, but not limited to, full-time and part-time employees, probationary employees, as ages 14-17.</text>
+    <para>
+      <num>III.</num>
+      <heading>State of Maryland Requirements</heading>
+      <text>It is a State of Maryland requirement that all individuals who are 14 -17 years of age have a valid work permit on file in the appropriate agency personnel office before any minor is employed by the City.</text>
+      <text>This Policy allows the minor to perform only the duties associated with the work described on the issued permit. If the minor employee transfers positions or undertakes new duties, a new work permit must be issued pertinent to the new duties.</text>
+    </para>
+  </para>
+  <para name="appointing-officer-responsibility">
+    <num>IV.</num>
+    <heading>APPOINTING OFFICER RESPONSIBILITY</heading>
+    <text>It is the responsibility of the prospective employee's appointing officer to see that a valid work permit is on file prior to employment and upon change or transfer of positions. A minor cannot begin work without a valid work permit. Work permits may be found at <a href="https://www.dllr.state.md.us/labor/wages/empm.shtml">https://www.dllr.state.md.us/labor/wages/empm.shtml</a>.</text>
+  </para>
+  <para name="authority">
+    <num>V.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em><cite path="§AM-002-1-2">AM-002-1-2</cite> Administrative Manual</em> wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>VI.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" effective="2017-12-13">December 13, 2017 [replaces <cite path="§AM-205-15">AM-205-15</cite>]</annotation>
+  </annotations>
+</section>

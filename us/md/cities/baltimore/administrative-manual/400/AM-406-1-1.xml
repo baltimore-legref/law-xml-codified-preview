@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-406-1-1</num>
+  <heading>Processing a Journal Entry</heading>
+  <para name="for-interdepartmental-services-rendered">
+    <heading>FOR INTERDEPARTMENTAL SERVICES RENDERED</heading>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>RESPONSIBILITY</th>
+            <th>ACTION</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th>Agency Rendering Service</th>
+            <td proof="needed">
+              <p>1. All Journal Entries are done on line through City Dynamics. Complete instructions are available in the Microsoft Dynamics Journal Entry Manual, Version 2.</p>
+              <p>2. Journal Entries must be approved by a supervisor before sending them to the Bureau of Accounting and Payroll Services.</p>
+            </td>
+          </tr>
+          <tr>
+            <th>Accounting</th>
+            <td>3. Sees Journal Entry in City Dynamics verifies that it has been approved and that the appropriate backup is attached. The entry is then posted.</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-10-27" display="true">October 27, 2004</annotation>
+    <annotation type="History" effective="2016-10-13" display="true">October 13, 2016</annotation>
+  </annotations>
+</section>

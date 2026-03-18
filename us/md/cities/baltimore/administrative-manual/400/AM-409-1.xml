@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-409-1</num>
+  <heading>Board of Estimates Contingent Fund</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Contingent Fund is an amount of money included in the annual Ordinance of Estimates in the General Fund to be used by the Board of Estimates for emergency or unanticipated expenditures. Under City Charter requirements, this fund must not exceed $1.0 million and the fund amount must be appropriated annually.</text>
+  </para>
+  <para name="approved-authority">
+    <heading>APPROVED AUTHORITY</heading>
+    <text>All expenditures, including transfers, from the Contingent Fund must be approved by the Board of Estimates. Proposed expenditures from the Contingent Fund must be reported to the City Council at least one (1) week prior to action by the Board of Estimates.</text>
+  </para>
+  <para name="submission-of-approval-requests">
+    <heading>SUBMISSION OF APPROVAL REQUESTS</heading>
+    <text>To request approval of an expenditure from the Contingent Fund, the agency head or designee must prepare and address a memo to the Chief, Bureau of the Budget and Management Research (BBMR), 469 City Hall. The memo must specify the reason for the request and identify the 15 digit budget account number to be credited or the party to whom direct payment will be made.</text>
+    <text>Upon review of the request, appropriate action will be recommended and the paper work transmitted to the Board of Estimates by BBMR for action.</text>
+  </para>
+  <para name="disbursement">
+    <heading>DISBURSEMENT</heading>
+    <text>Upon approval of the Board of Estimates, the responsible budget analyst in BBMR will coordinate the disbursement of funds as authorized by the Board.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1988-04-19" display="true">April 19, 1988</annotation>
+    <annotation type="History" effective="2004-10-01" display="true">October 1, 2004</annotation>
+  </annotations>
+</section>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-422-1</num>
+  <heading>User Fee Policy</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy should be used as a guide to department heads in order to assist in the determination of the appropriate level for fees. Agency heads are encouraged to use their best judgment in determining fair and reasonable fee levels in order to promote current public policy goals.</text>
+  </para>
+  <para name="transparency">
+    <heading>TRANSPARENCY</heading>
+    <text>The adoption, administration, compliance and payment of fees should be transparent. To preserve contract integrity, fees are not retroactive but implemented with advance notice of the change. The administration of fees by agencies should be based on objective criteria such as the cost of the good or service. Fees are not subject to negotiation and payment is based on a uniform application of the law. Citizens should be able to understand how the fee is charged, the unit of the charges and have an understanding of what will be expected in the terms of payment.</text>
+  </para>
+  <para name="principles">
+    <heading>PRINCIPLES</heading>
+    <text>The following principles will be applied in developing and implementing service charges:</text>
+    <para>
+      <num>1.</num>
+      <text>Revenues should generally not exceed the reasonable cost of providing service.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Cost recovery goals should be based on the total cost of delivering the service, including direct costs, departmental administration costs, and organization-wide support costs such as accounting, personnel, data processing, vehicle maintenance and insurance.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Agencies should take into account, and possibly charge for, the incremental costs driven by negative externalities created by the activities for which a license or permit is provided (e.g., additional police service costs at establishments with liquor licenses).</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Agencies should take into account what comparable jurisdictions charge for similar services.</text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>The method of assessing and collecting fees should be simple in order to reduce the administrative cost of collection.</text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>Cost recovery goals will depend on the nature of the service provided and be consistent with policy goals. Generally, fees should reflect full cost recovery. However, agencies should seek low cost recovery for services intended to be widely accessible, when charging the full cost of service would prohibit access to citizens based on their ability to pay. Agencies should seek high cost recovery for services that are regulatory in nature and provided to for-profit entities.</text>
+    </para>
+    <para>
+      <num>7.</num>
+      <text>A consistent approach should be used in determining cost recovery levels for various programs based on the factors discussed above.</text>
+    </para>
+  </para>
+  <para name="ongoing-review">
+    <heading>ONGOING REVIEW</heading>
+    <text>Fees should be reviewed and updated on an ongoing basis to ensure that they keep pace with changes in the cost-of-living as well as changes in methods or levels of cost recovery. In implementing this goal, a comprehensive analysis of City costs and fees should be made at least every five (5) years. In the interim, fees should be adjusted by annual changes in the Chained Consumer Price Index for All Urban Consumers (C-CPI-U). Fees may be adjusted during this interim period based on supplemental analysis whenever there have been significant changes in the method, level or cost of service delivery.</text>
+    <text>Agencies should compile and maintain a master fee schedule in order to make implementing a comprehensive user fee review and setting a systematic process for periodic adjustments of fees more manageable.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2012-06-15" display="true">June 15, 2012</annotation>
+  </annotations>
+</section>

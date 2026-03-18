@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-290-3</num>
+  <heading>Local 2202 Full-Time Salary Scale</heading>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>Grade</th>
+          <th>Hiring Level</th>
+          <th>Full Performance Level</th>
+          <th>Experienced Level</th>
+          <th>L1-5*</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>550</td>
+          <td>26,887</td>
+          <td>27,263</td>
+          <td>28,214</td>
+          <td>846</td>
+        </tr>
+        <tr>
+          <td>551</td>
+          <td>27,263</td>
+          <td>27,676</td>
+          <td>28,745</td>
+          <td>862</td>
+        </tr>
+        <tr>
+          <td>552</td>
+          <td>28,657</td>
+          <td>29,254</td>
+          <td>30,705</td>
+          <td>921</td>
+        </tr>
+        <tr>
+          <td>553</td>
+          <td>30,262</td>
+          <td>31,073</td>
+          <td>33,337</td>
+          <td>1,000</td>
+        </tr>
+        <tr>
+          <td>554</td>
+          <td>41,736</td>
+          <td>43,339</td>
+          <td>48,477</td>
+          <td>1,454</td>
+        </tr>
+        <tr>
+          <td>556</td>
+          <td>38,820</td>
+          <td>40,244</td>
+          <td>44,687</td>
+          <td>1,341</td>
+        </tr>
+        <tr>
+          <td>558</td>
+          <td>41,736</td>
+          <td>43,339</td>
+          <td>48,477</td>
+          <td>1,454</td>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <text><strong>Longevity Increments: </strong>The annual rate of pay is increased by the amount indicated in Column "L1-5" after completion of the following periods of service: 10 years, 15 years, 20 years, 25 years,</text>
+  <text>and 30 years.</text>
+  <annotations>
+    <annotation type="History" effective="2007-07-01" display="true">July 1, 2007</annotation>
+    <annotation type="History" effective="2011-07-01" display="true">July 1, 2011</annotation>
+  </annotations>
+</section>

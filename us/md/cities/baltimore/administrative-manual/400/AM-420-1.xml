@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-420-1</num>
+  <heading>Budget Preparation Overview</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>In accordance with <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>, the Board of Estimates is responsible for formulating, determining, and executing the fiscal policy of the City. In accordance with this responsibility, the Director of Finance prepares the preliminary operating budget for the Board's consideration. In addition, the Planning Commission is required to submit a recommended long-range capital improvement program which includes a report on the ensuing fiscal year capital budget and program. Following deliberation by the Board of Estimates, the Department of Finance revises the proposed operating and capital budgets in accordance with Board's direction. The Board of Estimates' recommendations and the proposed budget are submitted for approval to the City Council, Board of Estimates and Mayor.</text>
+    <text>The following policies detail the operating and capital budget preparation and approval process:</text>
+    <text>
+      <ul>
+        <li><cite path="§AM-420-3">AM-420-3</cite> Operating Budget Preparation</li>
+        <li><cite path="§AM-420-4">AM-420-4</cite> Operating Budget</li>
+        <li><cite path="§AM-420-6">AM-420-6</cite> Capital Budget Preparation</li>
+        <li><cite path="§AM-420-7">AM-420-7</cite> Capital Budget</li>
+        <li><cite path="§AM-420-8">AM-420-8</cite> Capital Budget Standard Objects and Sub-Objects of Expenditure</li>
+      </ul>
+    </text>
+  </para>
+  <para name="ordinance-of-estimates">
+    <heading>ORDINANCE OF ESTIMATES</heading>
+    <text>Every legislative act of the City requires an ordinance or resolution both of which require a majority vote of the members of the City Council and approval of the Mayor. The operating and capital budgets are given legal effect as the Ordinance of Estimates.</text>
+  </para>
+  <para name="budget-making-process">
+    <heading>BUDGET-MAKING PROCESS</heading>
+    <text>The <a href="http://bbmr.baltimorecity.gov/apps/am.bbmr/files/AM-420-01-Calendar.pdf">chart on the next page</a> illustrates the budget-making process inclusive of the enactment of the Ordinance of Estimates.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2004-10-27" display="true">October 27, 2004</annotation>
+  </annotations>
+</section>
