@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-203-3</num>
+  <heading>Sick Leave Donation</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Sick Leave Donation Program was established to permit City employees to donate a portion of accrued sick leave to another City employee who has exhausted all accrued sick, vacation, and personal leave, and/or compensatory time while absent from work due to a personal illness or injury. This program is not intended to replace the extended sick leave policy, is not available to employees who are members of a union sick leave bank, and is not available to employees who are eligible for membership in a union sick leave bank.</text>
+    <text>This policy does not replace any rights available under the City's Family and Medical Leave policy (<cite path="§AM-203-2">AM-203-2</cite>), which eligible employees may request in accordance with federal Family and Medical Leave Act (FMLA).</text>
+    <text>Two years from the effective date of approval by the Board of Estimates, the Labor Commissioner, the Director of Human Resources and the Director of Finance will review the policy and make recommendations to the Mayor's Office and the Board of Estimates concerning the continuation of the Sick Leave Donation Program.</text>
+  </para>
+  <para name="definitions">
+    <heading>DEFINITIONS</heading>
+    <text><strong>Donor</strong> – A full-time or part-time City employee, who earns sick leave and donates from one (1<strong>) </strong>to five (5) days of accrued sick leave to another City employee.</text>
+    <text><strong>Recipient – </strong>A permanent full-time or part-time City employee with at least two years of continuous City service who earns sick leave and who has received a donation of sick leave from one or more employee donors.</text>
+    <text><strong>Sick Leave Donation</strong> – The transfer of accrued sick leave from the sick leave balance of one or more donors to a recipient. The minimum sick leave donation from a donor is one day. Donations may be used in half-day or whole-day units.</text>
+    <text><strong>Organizational Unit</strong> –</text>
+    <text>
+      <ul proof="needed">
+        <li>In an agency, which has three (3) or more organizational levels, the level immediately below the agency is normally designated as a bureau. The organizational level immediately below a bureau is normally designated as a division. "Organizational unit" refers to a division.</li>
+        <li>In an agency, which has two (2) organizational levels, the level below the agency is normally designated as a division. "Organizational unit" refers to a division.</li>
+        <li>In an agency, which has one (1) organizational level, "Organizational unit" refers to the agency.</li>
+      </ul>
+    </text>
+    <text><strong>Personal Illness or Injury</strong> – An illness or injury requiring temporary absence from work.</text>
+  </para>
+  <para name="program-requirements">
+    <heading>PROGRAM REQUIREMENTS</heading>
+    <para>
+      <num>1.</num>
+      <text>The recipient must be a permanent employee with at least two years of continuous City service.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>The recipient must have exhausted all accumulated leave, including sick, vacation and personal leave and compensatory time.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>The recipient must not be a member or eligible for membership in a union sick leave bank.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>The recipient may only request donations one time in a one-year period and can receive no more than 30 days of transferred sick leave days in a one-year period.</text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>The recipient's attending physician must certify that the employee will be able to return to work and the expected date of return to work.</text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>Contributions of sick leave must come from within the organizational unit where the requesting recipient is assigned.</text>
+    </para>
+    <para>
+      <num>7.</num>
+      <text>Donations of sick leave may not exceed the number of days the employee will need off for the illness or injury.</text>
+    </para>
+    <para>
+      <num>8.</num>
+      <text>The transfer of sick leave days in accordance with this program is strictly a donation. Sick leave days may not be donated in exchange for cash or other remuneration.</text>
+    </para>
+    <para>
+      <num>9.</num>
+      <text>All sick days transferred pursuant to this program are irrevocable transfers.</text>
+    </para>
+    <para>
+      <num>10.</num>
+      <text>Board of Estimates' approval is required for the transfer of all sick leave days.</text>
+    </para>
+  </para>
+  <para name="the-sick-leave-donation-program">
+    <heading>THE SICK LEAVE DONATION PROGRAM</heading>
+    <text>A sick leave donation may be made only for absences required by a personal illness or injury that prevents an employee from temporarily returning to work. If an employee does not have sufficient leave balances to cover this absence, he/she must apply for Extended Sick Leave before requesting donations under this policy. (See <cite path="§AM-204-15">AM-204-15</cite>, Extended Sick Leave, for details on use of extended sick leave.)</text>
+    <text>The following are additional requirements of the program:</text>
+    <text>
+      <ul proof="needed">
+        <li>Requests to obtain and use sick leave donations must be made in writing to agency personnel officer and agency head with the signature of the requesting employee, and submitted with a completed Certification of Health Care Provider form indicating the nature of the illness or injury, prognosis and the estimated date of the employee's return to work. (Refer to Certification of Health Care Provider form, <cite path="§AM-203-3-1">AM-203-3-1</cite>.) If the employee cannot return to work, see <cite path="§AM-208-1">AM-208-1</cite>, Leave of Absence without Pay.</li>
+        <li>Donations should be requested and processed as expediently as possible to avoid the recipient being in an out-of-pay status for an extended time.</li>
+        <li>The recipient may request sick leave donations only one time in any one-year period, which begins on the date of the Board of Estimates' approval of the letter submitted by the agency head. (Refer to <cite path="§AM-203-3-3">AM-203-3-3</cite>.)</li>
+        <li>The maximum number of sick leave days an employee recipient is eligible to have credited to his/her sick leave account from employee donations is 30 days in any one-year period.</li>
+        <li>Sick leave donations may not be used for the care of family members, job-related illnesses/injuries, or medical/dental appointments except those related to the personal illness/ injury.</li>
+        <li>Donated days may be used by the recipient in half-day or whole-day units.</li>
+        <li>If an employee is currently on leave from work and using donated days when a holiday occurs, the employee will be marked "H" for the holiday.</li>
+        <li>Employees using donated days do not accrue leave.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="employee-donations">
+    <heading>EMPLOYEE DONATIONS</heading>
+    <text>Employees who wish to donate sick leave to an employee recipient must request permission in writing from the agency head or designee by using the Sick Leave Donation Authorization form, <cite path="§AM-203-3-2">AM-203-3-2</cite>, coordinated through the agency personnel officer. An employee may donate from one to five days of sick leave to a recipient, per request.</text>
+    <text>The agency's personnel officer will coordinate the sick leave donations. This office will return any Sick Leave Donation Authorization forms that are not needed by the recipient to the donating employees, in the order in which the forms were received, prior to information being submitted to the Board of Estimates.</text>
+    <text>Donations must be in whole days. Sick leave donations will be transferred from the donor's life-to-date sick leave balance to the recipient's sick leave account after the Central Payroll Division receives a copy of the Board of Estimates' approval and the list of donors from the employee's agency personnel officer.</text>
+    <text>If the deduction of sick leave days is made from the balance earned prior to the current sick leave conversion year, the donation of sick leave days will not affect the number of days an employee donor is able to convert to cash for sick leave conversion. (See <cite path="§AM-205-2">AM-205-2</cite>, Sick Leave Conversion.) Sick leave donations will not be returned to an employee donor once the donation is actually deducted from his/her sick leave balance.</text>
+    <text>Copies of Sick Leave Donation Authorization forms and a Board of Estimates (BOE) letter, signed by the agency head, must be sent to the Office of the Labor Commissioner (OLC) for review and approval. Once the OLC has approved the BOE letter, the recommendation for sick leave donation transfers will be submitted to the BOE for approval.</text>
+    <text>Following BOE approval, the agency personnel officer must provide the Central Payroll Division with a copy of the Board of Estimates' approval, accompanied by a list of the employee donors, their social security numbers, department/payroll location codes, and the number of days to be donated. Donations cannot be processed until the Central Payroll Division receives this information.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2001-09-20" display="true">September 20, 2001</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-3-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-3-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-3-3" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-15" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-208-1" type="Related Policies"/>
+  </annotations>
+</section>

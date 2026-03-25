@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-200-2</num>
+  <heading>Work Hours and Employee Status</heading>
+  <text>This Policy establishes the guidelines for determining the work hours and status for employees of the City of Baltimore ("City").  This Policy also establishes guidelines for benefit eligibility according to employee status as well as a prohibition on concurrent employment.  The City complies with all Federal, State, and Local laws applicable to this Policy.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to establish the guidelines for benefit eligibility and the prohibition of concurrent employment.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all employees and individuals involved in the City's operations, including, but not limited to, full-time and part-time employees, probationary employees, as well as elected officials and their appointed staffs.</text>
+  </para>
+  <para name="definitions">
+    <num>III.</num>
+    <heading>DEFINITIONS</heading>
+    <para>
+      <num>A.</num>
+      <text><strong>Civil Service Employee – </strong>Employees holding positions in the municipal service of the City of Baltimore required by Section 99 of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite> to be classified under the Civil Service Commission.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><strong>Concurrent Employment – </strong>Employees holding two positions with the City of Baltimore, either full-time or part-time.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text><strong>Full-Time Employee</strong> – An individual appointed to a position that consistently requires the employee to work full-time work hours.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text><strong>Part-Time Employee</strong> – An individual appointed to a position and works only part-time work hours of fewer than twenty-eight (28) hours in a week as established by this Policy.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text><strong>Regular Employee</strong> – An individual, who has been appointed to a budgeted, fully-funded Civil Service or non-Civil Service position, and is assigned to a group of duties and responsibilities that continually requires the full-time employment of one person.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text><strong>Non-Civil Service Employee</strong> – Employees holding positions with the City that have been excluded from the Civil Service pursuant to Section 99 of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text><strong>Temporary Employee</strong> – An individual appointed to a position on a part-time basis that results from unusually heavy workloads or seasonally heavy workloads, short-term grant funding or hired on a contractual basis.  Temporary appointments are generally for a period of two years or less.  Temporary employees are non-exempt, non-Civil Service employees, do not serve probationary periods, and generally occupy positions that are funded but not budgeted.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text><strong>Contractual Employees - </strong>Individuals engaged to render services to the City on a contractual basis when the requesting Agency can establish a need for the individual's services and the individual possesses the qualifications necessary to satisfy the requirements of the services to be rendered.</text>
+    </para>
+  </para>
+  <para name="work-hours">
+    <num>IV.</num>
+    <heading>WORK HOURS</heading>
+    <para>
+      <num>A.</num>
+      <text>The hours of operation for City business hours are Monday through Friday, from 8:30 am to 4:30 pm. Employees are entitled to a forty (40) minute unpaid or paid lunch break unless otherwise covered in the employee's collective bargaining unit for every eight (8) hours worked, except Public Safety.  The Board of Estimates has the authority, in its discretion, to modify or change the City's hours of operations for municipal offices whenever necessary.  With the Mayor's approval, Agency heads may establish hours of operation other than those specified for such employees as may be needed to promote public service or as needed to meet emergencies.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Covered employees must be paid for all hours worked in a workweek.  In general, "hours worked" includes all time an employee must be on duty, or on the employer's premises or at any other prescribed place of work, from the beginning of the first principal activity of the work day to the end of the last principal work activity of the workday.  Also included is any additional time the employee is allowed (i.e., suffered or permitted) to work.</text>
+    </para>
+  </para>
+  <para name="work-week">
+    <num>V.</num>
+    <heading>WORK WEEK</heading>
+    <text>A workweek is a period of 168 hours during 7 consecutive 24-hour periods.  It may begin on any day of the week and at any hour of the day established by the employer.  Generally, for purposes of minimum wage and overtime payment, each workweek stands alone; there can be no averaging of 2 or more workweeks.  Employee coverage, compliance with minimum wage payment requirements, and the application of most exemptions are determined on a workweek basis. A full work week shall also be defined according to what is stated within the employee's MOU which will be consistent with FLSA guidelines.</text>
+  </para>
+  <para name="employee-status">
+    <num>VI.</num>
+    <heading>EMPLOYEE STATUS</heading>
+    <para>
+      <num>A.</num>
+      <text>Employees are appointed into either Civil Service or non-Civil Service positions, and serve as regular or temporary employees with full-time or part-time hours.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>At the time of hire, the Agency shall identify the employee as either full-time or part-time and enter the designation into the City's Human Resources Information System ("HRIS").</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Temporary employees are part-time employees and shall not work more than twenty-eight (28) hours per week or fifty-six (56) hours per bi-weekly pay period.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Agencies must obtain approval from the Director of Human Resources before an employee's status is changed from part-time to full-time. In addition, any change in status from exempt to non-exempt or Civil Service to non-Civil Service shall be in writing. The employee shall be notified in advance of the effective date of action.</text>
+    </para>
+  </para>
+  <para name="benefit-eligibility">
+    <num>VII.</num>
+    <heading>BENEFIT ELIGIBILITY</heading>
+    <para>
+      <num>A.</num>
+      <heading>In General</heading>
+      <text>Eligibility for City sponsored benefits is determined by an employee's status. Regular full-time employees are eligible to receive all benefits offered by the City. Temporary and part-time employees are not eligible to participate in benefits offered by the City.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Bargaining Units (except Public Safety)</heading>
+      <para>
+        <num>1.</num>
+        <text>Part-time employees who are represented by the City Union of Baltimore ("CUB") Local 800 Unit I and Unit II, and the American Federation of State, County, and Municipal Employees ("AFSCME") Local 44, 558, and 2202 are eligible to receive City benefits in accordance with the provisions of their respective Agreements.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Employees who are represented by the Managerial and Professional Society of Baltimore, Inc. ("MAPS") that are appointed to regular positions and working less than full-time work hours on a continuous basis as of the effective date of this policy will continue to receive City benefits.  MAPS employees that working less than a full-time work week after the effective date of this policy or employees that become members of MAPS after the effective date of this policy that are working less than a full-time work week are not eligible for City benefits.</text>
+      </para>
+    </para>
+  </para>
+  <para name="concurrent-city-employment-prohibition">
+    <num>VIII.</num>
+    <heading>CONCURRENT CITY EMPLOYMENT PROHIBITION</heading>
+    <text>Employees of the Mayor and City Council of Baltimore may have concurrent employment with the City of Baltimore as long as it is approved by the Board of Estimates.  City employees may have additional employment outside of City government provided such employment does not violate any other City policies, rules, and ordinances, such as the City's Ethics Code.</text>
+  </para>
+  <para name="consequences-of-policy-violation">
+    <num>IX.</num>
+    <heading>CONSEQUENCES OF POLICY VIOLATION</heading>
+    <text>Violation of this Policy may create liability under the Affordable Care Act.  The City has zero tolerance for violations of this Policy.  A violation of this Policy may result in disciplinary action, up to and including termination from employment.  Employees are strongly encouraged to promptly report all violations of this Policy to the appropriate Agency personnel.</text>
+  </para>
+  <para name="authority">
+    <num>X.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em>002-1-2</em> Administrative Manual wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="conflicts-with-other-city-policies">
+    <num>XI.</num>
+    <heading>CONFLICTS WITH OTHER CITY POLICIES</heading>
+    <text>To the extent that provision(s) of any City Policy conflict with <em>Section V</em> of this Policy, those provisions are superseded by <em>Section V</em> of this Policy.</text>
+  </para>
+  <para name="interpretation">
+    <num>XII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-02-14" display="true">February 14, 1989</annotation>
+    <annotation type="History" effective="2018-07-25" display="true">July 25, 2018</annotation>
+    <annotation type="Related Policies">MOUs <a href="http://labor-commissioner.baltimorecity.gov/contract-agreements">http://labor-commissioner.baltimorecity.gov/contract-agreements</a></annotation>
+  </annotations>
+</section>

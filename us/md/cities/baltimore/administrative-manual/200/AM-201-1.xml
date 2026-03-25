@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-201-1</num>
+  <heading>Civil Service Commission</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The Civil Service Commission administers the rules governing and regulating the employment policies of the Mayor and City Council.</text>
+  </para>
+  <para name="responsibilities">
+    <heading>RESPONSIBILITIES</heading>
+    <text>The Civil Service Commission makes rules to accomplish proper personnel administration and to provide for appointments to and employment in the classified service. Such appointments are based on merit, efficiency, character, and industry. The commission may make changes and additions to its original rules. All rules, changes, and additions must be filed with the Department of Legislative Reference and are not effective until so filed.</text>
+    <text>The Civil Service Commission has the power to investigate all matters touching upon the execution of its provisions of the Charter. During investigations, each member of the commission has the power to administer oaths and to summon and examine witnesses in relevant matters.</text>
+    <text>If the Civil Service Commission finds, after investigation, that any appointing officer has abused his power, it will so report to the Mayor. The Mayor has the power to remove, without further hearing, an appointing officer found guilty of abuse by the commission.</text>
+  </para>
+  <para name="role-of-the-department-of-human-resources">
+    <heading>ROLE OF THE DEPARTMENT OF HUMAN RESOURCES</heading>
+    <text>The Department of Human Resources powers and duties consist of proposing and administering rules approved by the Civil Service Commission. These rules govern probationary status, temporary and emergency appointments, classifications, reclassifications, examinations, promotions, demotions, transfers, reinstatements, discharges, and other discipline of employees. The Department also issues rules and policies related to health and welfare benefits, training and development, recruitment and counseling Civil Service members.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1999-10-19" display="true">October 19, 1999</annotation>
+    <annotation type="History" effective="2008-02-13" display="true">February 13, 2008</annotation>
+  </annotations>
+</section>

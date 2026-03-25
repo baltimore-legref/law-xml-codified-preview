@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-200-12</num>
+  <heading>Business Continuity Policy</heading>
+  <text>The City of Baltimore ("City") is committed to the safety of its employees and the continuity of critical business and services under any circumstances, including disaster, crisis, emergency, or other unplanned event whether natural or man-made. In certain instances, it may be necessary to take protective action, which may include closing a location or the entire City, as a safety or health measure. It is the objective of the City to resume all normal operations as soon as feasible following an emergency.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to define the process and establish criteria by which the City responds to situations that threaten the safety or health of employees or are disruptive to the operation of an Agency or the City.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all employees involved in the City's operations, including, but not limited to, full-time and part-time employees, and temporary employees.</text>
+  </para>
+  <para name="definitions">
+    <num>III.</num>
+    <heading>DEFINITIONS</heading>
+    <para>
+      <num>A.</num>
+      <text><strong>Continuity of Operations Plan ("COOP") - </strong>encompasses a loosely defined set of planning, preparatory, and related activities which are intended to ensure that the City's critical business functions will either continue to operate despite serious incidents or disasters that might otherwise have interrupted them, or will be recovered to an operational state within a reasonably short period of time.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><strong>Emergency Closing Conditions</strong> – Conditions determined to be hazardous to life and/or safety of both the general public as well as employees at a specific location, worksite, or the City at large. Examples of emergency closing conditions include,  but are not limited to: bomb threats; significant breaks in heat, power, or water services; contagious or dangerous illnesses; infestations; contamination of air, water, or food; violent crime; explosion; fires; natural disasters, such as severe snow storms, hurricanes and earthquakes; external disasters, such as train or airline crashes; chemical spills; civil unrest; terrorist acts; or any conditions that are specifically determined to be hazardous to the life and safety of the employees, and the general public.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text><strong>Emergency Essential Employee</strong>- Employees who are required to work during emergency conditions because their positions have been designated by their Agency Head (or designee) as necessary in response to a specific emergency situation in compliance with the Agency's COOP. Emergency essential employees are required to report to work or remain at work as scheduled or as otherwise specifically directed due to the nature of the emergency or disaster. Employees will be informed when they are designated as emergency essential for an incident, and will return to their non-essential designation when their Agency deems their duties no longer necessary for that incident.</text>
+    </para>
+  </para>
+  <para name="continuity-plans">
+    <num>IV.</num>
+    <heading>CONTINUITY PLANS</heading>
+    <para>
+      <num>A.</num>
+      <heading>Agency Plans.</heading>
+      <text>In accordance with <em><cite path="§AM-110-1">AM-110-1</cite> Continuity of Operations Plan</em> (<em><cite path="§AM-110-1">AM-110-1</cite></em>)<strong>, </strong>each Agency must have a COOP established for when an event occurs that has the potential of interrupting operations at that Agency's physical location. COOPS must be filed with the Office of Emergency Management. Each Agency will determine the parameters of its COOP. Each Agency plan should include specific procedures outlining how the Agency will: respond to, mitigate, and recover from emergencies; establish the chain of command, including designation of essential and emergency essential employees; communication protocol to ensure that accurate information is provided to employees on a timely basis; and define roles and responsibilities of employees.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>City Plans.</heading>
+      <text>Emergency conditions may arise that affect the City at large.  Under these emergency conditions, the City may: close entirely and cease operations; close while asking essential employees to report; close during operating hours while asking essential employees to remain and/or report; delay opening while asking essential employees to report; or provide an early release due to an emergency.  Only the Mayor, by Executive Order, may authorize the closing of the City. In the event of emergency closing conditions, the Mayor's Office, in consultation with the Office of the Labor Commissioner, Department of Human Resources and applicable City Officials, will be charged with assessing the situation and applying the appropriate City policies or modifying them as necessary to address the situation at hand. In the case of a pandemic or other wide-spread health emergency, special guidelines may be established by the Department of Human Resources in conjunction with the Health Department.</text>
+      <para>
+        <num>1.</num>
+        <text>City plans for the emergency conditions listed below shall be published by the Mayor's Office as soon as practical and annexed to this Policy.</text>
+        <para>
+          <num>i.</num>
+          <heading>State of Emergency:</heading>
+          <text>States of emergency may be declared by head officials of the State of Maryland or the City.  A state of emergency is operationalized by accompanying executive orders that may declare a curfew, prohibit travel, control traffic, designate areas as emergency shelters, and close public places of assembly. States of emergency do not mean that the City is closed, unless so stated.</text>
+        </para>
+        <para>
+          <num>ii.</num>
+          <heading>Pandemics:</heading>
+          <text>An outbreak of a disease or illness that occurs over a wide geographic area and affects an exceptionally high proportion of the population. Recent pandemic outbreaks include: H1N1 (swine flu), Severe Acute Respiratory Syndrome (SARS), and Ebola.</text>
+        </para>
+        <para>
+          <num>iii.</num>
+          <heading>Vector-Borne Disease:</heading>
+          <text>An illness caused by an infectious microbe that is transmitted to people by blood-sucking arthropods.  The arthropods (insects or arachnids) that most commonly serve as vectors include: blood sucking insects, such as mosquitoes, fleas, lice, biting flies, and bugs; and blood sucking arachnids such as mites and ticks. Vector-Borne diseases include, but are not limited to, Lyme disease, West Nile virus infections, and Zika virus.</text>
+        </para>
+        <para>
+          <num>iv.</num>
+          <heading>Bed Bug Infestations:</heading>
+          <text>A wingless, bloodsucking bug (Cimex lectularius) that feeds on human blood. The adult bed bug is oval, flat, and about a 1/4-inch long. Adult bed bugs are brown, but appear reddish-brown when engorged with blood and resembles an apple seed. Infestation is the presence of bed bugs at a location in large numbers such that they are likely to cause damage or annoyance.</text>
+        </para>
+        <para>
+          <num>v.</num>
+          <heading>Other Catastrophic Events:</heading>
+          <text>A sudden natural or man-made situation where change and destruction may occur without prior knowledge, notice, or preparation. Such occurrences may limit normal functions in daily living including communications and travel.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para name="closure-and-relocation">
+    <num>V.</num>
+    <heading>CLOSURE AND RELOCATION</heading>
+    <text>City of Baltimore operations will remain open during emergency conditions that do not pose an immediate life, health, or safety risks to its employees unless otherwise directed by the Mayor in consultation with the affected Agency Head. Unless the City, building, and/or worksite have been declared closed, all employees are expected to report to work.</text>
+    <para>
+      <num>A.</num>
+      <heading>Closure</heading>
+    </para>
+    <para>
+      <num>1.</num>
+      <heading>City Closure.</heading>
+      <text>Only the Mayor, by Executive Order, may authorize the closing of the City.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <heading>City Building and/or Worksite Closure.</heading>
+      <text>An Agency Head in consultation with Risk Management and Office of the Labor Commissioner shall make a recommendation to the Mayor to declare a worksite closed.  If the worksite is temporarily or permanently closed, employee leave and notice is determined in accordance with <em><cite path="§AM-204-22">AM-204-22</cite> Inclement Weather and City Emergencies Policy (<cite path="§AM-204-22">AM-204-22</cite>)</em>.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <heading>Non-City Building and/or Worksite Closure.</heading>
+      <text>Employees who work in a building and/or worksite that is not owned and operated by the City will be given the name and telephone number of a contact person to call if their building is closed. If the worksite is temporarily or permanently closed, employees will report to the Agency's main office or alternative work site where arrangements can be made. Employee leave and notice is determined in accordance with the <em><cite path="§AM-204-22">AM-204-22</cite></em>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Relocation</heading>
+    </para>
+    <para>
+      <num>1.</num>
+      <text>If a worksite is temporarily or permanently closed, employees may be directed to report to an alternative worksite. Agency management should make every effort to relocate employees to an alternative worksite in lieu of work stoppage.  It is the Agency Head's discretion to allow employees to use leave once an alternative worksite has been identified.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>It is the Agency Head's discretion to allow employees to telework in order to ensure business continuity. Telecommuting is not appropriate for all employees and no employee is entitled or guaranteed the opportunity to telecommute.</text>
+    </para>
+  </para>
+  <para name="authority">
+    <num>VI.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em>002-1-2 Administrative Manual</em> wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>VII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2017-12-13" display="true">December 13, 2017</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-110-01" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-13" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-22" type="Related Policies"/>
+  </annotations>
+</section>

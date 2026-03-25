@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-203-2</num>
+  <heading>Family and Medical Leave</heading>
+  <text>Employees may be entitled to take a leave of absence under the <em>Family and Medical Leave Act of 1993</em> (FMLA), 29 U.S.C. § 2601.  This policy describes the procedures City agencies and employees should follow when requesting, approving and administering FMLA leave.  This policy shall be interpreted and applied in a matter consistent with the U.S. Department of Labor's FMLA regulations at 29 C.F.R. Part 825.</text>
+  <para name="eligibility-for-leave">
+    <num>1.</num>
+    <heading>ELIGIBILITY FOR LEAVE</heading>
+    <text>FMLA leave is available to all eligible employees where such leave is used for an FMLA-qualifying reason.  To be "eligible" for FMLA leave, an employee must have:  1) been employed by the City for at least 12 months; and 2) worked at least 1,250 hours in the twelve months prior to the commencement of leave.</text>
+    <text>The required 12 months of employment need not be consecutive, provided any break in service is for a period of less than 7 years.  When calculating the 1,250-hour requirement, all time worked will be counted, including overtime hours.  Paid and unpaid time off will not count toward the 1,250-hour requirement, with the exception of periods of military leave.</text>
+  </para>
+  <para name="qualifying-reasons-for-leave">
+    <num>2.</num>
+    <heading>QUALIFYING REASONS FOR LEAVE</heading>
+    <text>An eligible employee may take up to 12 weeks of unpaid FMLA leave during a rolling twelve-month period for any of the following reasons:</text>
+    <text>The serious health condition of the employee;</text>
+    <text>The birth or care of an employee's newborn child;</text>
+    <text>The adoption or placement of a child with an employee for foster care;</text>
+    <text>The serious health condition of an employee's immediate family member (<em>e.g.</em> spouse, child or parent); or</text>
+    <text>A "qualifying exigency" in connection with a family member's active duty military service overseas or in support of a contingency operation (Qualifying Exigency Leave).</text>
+    <text>In addition to the basic FMLA leave entitlement discussed above, eligible employees may also take up to 26 weeks of leave per leave year for the care of a covered military service member or veteran with a serious service-connected injury or illness (Military Caregiver Leave).  Military Caregiver Leave may not exceed 26 weeks even when combined with other FMLA-qualifying leaves.</text>
+    <text>When an employee and his or her spouse both work for the City of Baltimore, each will be limited to a combined total of 12 weeks of leave in a leave year for the following reasons:  1) for the birth of the employee's child or to care for the child after birth; 2) the placement of a son or daughter with the employee for adoption or foster care or to care for a child after placement; and</text>
+    <para>
+      <num>3)</num>
+      <text>to care for the employee's parent with a serious health condition.  Leave taken for other qualifying reasons will not count toward the combined limitation.  Likewise, spouses who seek FMLA leave to care for a covered military service member or veteran are limited to a combined 26 weeks of leave.</text>
+      <text>For example, a married couple employed by the City may take up to a total 12 weeks of FMLA leave between them for the birth of a healthy child.  However, the same couple may each take up to 12 weeks of FMLA leave to care for a child with a serious health condition, provided they have not already exhausted their FMLA leave entitlement for the leave year.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <heading>rOLLING LEAVE yEAR</heading>
+      <text>The City of Baltimore uses a "rolling backward" method for calculating the 12-month FMLA leave entitlement, meaning City agencies will look back 12 months from the date the employee is expected to start a new period of FMLA leave to determine leave eligibility and whether the employee has already exhausted his or her leave entitlement for the 12-month period (or "leave year").</text>
+      <text>For example, if an employee requests five weeks of FMLA leave starting on December 5, 2013, the agency will look back 12 months from that date to see whether the employee has already used the maximum amount of FMLA leave to which he or she would be entitled.  If not, the employee will be permitted to use the balance of any remaining leave.</text>
+    </para>
+  </para>
+  <para name="conditions-of-leave">
+    <num>4.</num>
+    <heading>CONDITIONS OF LEAVE</heading>
+    <text>FMLA leave usually will be taken for a period of consecutive days, weeks or months.  Employees may also take FMLA leave on an intermittent or reduced leave schedule basis either when medically necessary or for qualifying exigencies.  When intermittent leave or a reduced schedule is requested, the City may in its discretion temporarily transfer the employee to an equivalent position (with equivalent pay and benefits) that would better accommodate recurring periods of leave.</text>
+    <text>FMLA leave will be tracked in increments of 30 minutes, unless otherwise provided in an applicable labor agreement.  Agencies may not require employees to take (and employees shall not use) more leave than is needed to address the circumstances that prompted the leave request.</text>
+    <text>While on FMLA leave, employees must use any accrued vacation, personal, compensatory and sick leave, as appropriate.  Paid leave must be used in accordance with applicable City leave policies and labor agreements.</text>
+    <text>The substitution of paid leave does not extend the length of an FMLA leave, and the paid time off will run concurrently with an employee's FMLA entitlement.  Likewise, leaves taken in connection with a disability leave plan or workers' compensation shall run concurrently with any FMLA leave entitlement.</text>
+    <text>The substitution of paid sick leave will be authorized only in connection with an employee's own serious health condition or the employee's need for pre- or postnatal health care.  An employee may also use up to 5 days of paid sick leave for the care of a family member with a serious health condition or for adoption or the placement of a child in foster care.</text>
+    <text>Employees of the Baltimore City Fire Department should refer to the department's internal policies and procedures governing the use of paid leave for FMLA purposes.  Where a conflict exists, the department's own internal policies and procedures shall apply.</text>
+  </para>
+  <para name="continuation-of-benefits">
+    <num>5.</num>
+    <heading>CONTINUATION OF BENEFITS</heading>
+    <text>While an employee is on FMLA leave, the City will continue the employee's health benefits at the same level and under the same conditions as if the employee had continued to work.  Under current City policy, employees pay a portion of the health care premium.  While on paid leave, the City will continue to make payroll deductions to collect the employee's share of the premium.  While on unpaid leave, the employee must continue to make these premium payments through direct billing with the Employee Benefits Division – Premium Billing.  The City will continue to pay the employer portion of the premiums for up to 6 bi-weekly pay periods or 12 weekly pay periods (or up to 13 bi-weekly/26 weekly pay periods in the case of Military Caregiver Leave).  At the end of this period, the employee will be required to pay 100% of the health benefits premium cost.</text>
+    <text>Where premium payments made through direct billing are more than 30 days late, the City may terminate the employee's health coverage for the duration of leave.  The City will provide the employee at least 15 days advance written notice before terminating coverage.  The coverage will be reinstated the first day following the employee's return to work, with no waiting periods or pre-existing condition exclusions, provided the employee contacts Employee Benefits within 60 days of return.</text>
+    <text>If an employee chooses not to return to work for reasons other than a continued serious health condition or a circumstance beyond the employee's control, the City will require the employee to reimburse the City the amount paid for the employee's health premiums during any unpaid portion of the leave.  If at any time (either before or during leave) an employee gives notice of intent not to return to work, health benefits will be discontinued.</text>
+    <text>Employees on FMLA leave are entitled to other benefits to the same extent they are provided to employees on comparable forms of leave.  Employees will continue to accrue vacation, personal and sick leave, for example, as long as they remain in pay status.  Employees on FMLA leave also may continue their group life insurance coverage during the leave.</text>
+  </para>
+  <para name="serious-health-condition">
+    <num>6.</num>
+    <heading>SERIOUS HEALTH CONDITION</heading>
+    <text>A serious health condition refers to a physical or mental condition that involves either an overnight stay in a medical care facility or continuing treatment by a health care provider for a condition that prevents the employee (or a covered family member) from working, attending school or participating in daily activities.  Subject to certain conditions, the "continuing treatment" requirement may be met by a period of incapacity of more than three consecutive calendar days combined with:  1) at least two visits to a health care provider within 7 days of incapacity; or 2) one visit and a regiment of continuing treatment under the supervision of a healthcare provider.</text>
+    <text>A serious health condition also refers to any period of incapacity or treatment connected with pregnancy or a chronic, long-term or permanent medical condition.</text>
+  </para>
+  <para name="covered-family-members">
+    <num>7.</num>
+    <heading>COVERED FAMILY MEMBERS</heading>
+    <text>FMLA leave to care for a family member with a serious health condition is limited to a spouse, parent or child.  The term "child" refers to a biological child, adopted child, foster child, stepchild, legal ward or the child of a person standing <em>in loco parentis</em> (in the place of a parent) who is:</text>
+    <text>Under the age of 18; OR</text>
+    <text>Age 18 or older and incapable of self-care due to a mental or physical disability.</text>
+    <text>A covered parent includes a biological, adopted, step or foster parent or any individual who stands or stood <em>in loco parentis</em> when the employee was a son or daughter as described above.  A parent "in-law" is not covered.</text>
+    <text>Employees must provide appropriate documentation confirming the existence of a family relationship or the age of a child, such as a birth or marriage certificate, court document or a written statement of a qualifying family relationship.</text>
+  </para>
+  <para name="leave-for-birth,-adoption-or-placement-for-foster-care">
+    <num>8.</num>
+    <heading>LEAVE FOR BIRTH, ADOPTION OR PLACEMENT FOR FOSTER CARE</heading>
+    <text>Both parents may take FMLA leave for the birth or care of a newborn child.  The mother also may take FMLA leave for incapacity due to pregnancy, for pre- or postnatal health care or for a serious health condition following birth.  In the case of adoption and placement for foster care, employees may take FMLA leave before the actual placement or adoption if an absence from work is required for the placement or adoption to proceed.</text>
+    <text>An employee may not take leave on an intermittent or reduced work schedule basis after placement or birth, unless such arrangements are needed in connection with a serious health condition or are otherwise authorized by the employing agency.  An employee's entitlement to leave for birth, adoption or placement for foster care expires 12 months following the date of birth, adoption or foster care placement.</text>
+  </para>
+  <para name="qualifying-exigency-leave">
+    <num>9.</num>
+    <heading>QUALIFYING EXIGENCY LEAVE</heading>
+    <text>The purpose of Qualifying Exigency Leave is to allow employees with close family members serving in the Armed Forces overseas to take time off from work to address common challenges that arise in connection with a deployment.</text>
+    <text>Agencies may grant Qualifying Exigency Leave to any eligible employee (<em>e.g.</em> a parent, spouse or child of a military service member) for exigencies that arise out of an active duty deployment overseas or in connection with a call or impending call or order to active duty service overseas.  Such leave is available to members of the Regular Armed Forces who are deployed to a foreign country, as well as members of the National Guard and Reserves who are either deployed with the Armed Forces to a foreign country or under a federal call or order to active duty in support of a contingency operation.</text>
+    <text>Qualifying Exigency Leave may be granted for any of the following reasons:  a) to address issues that arise from a short-notice deployment (up to seven days); b) to attend official military events, briefings and programs; c) to provide or arrange for child care on an urgent, immediate need basis; d) to enroll or transfer a child to a new school or day care and attend school-related meetings; e) to make or update financial and legal arrangements; f) to attend counseling; g) to care for a service member's parent who is incapable of self-care on an urgent, immediate need basis (or arranging for such care); h) to attend arrival ceremonies, reintegration briefings and other post-deployment activities; i) to address issues that arise from the death of the military member while on active duty; and j) other events that arise out of an overseas deployment or contingency operation, as agreed upon by the agency and the employee.</text>
+    <text>In addition, an eligible employee may take up to 15 calendar days of Qualifying Exigency Leave per leave year to spend time with a military member who is on short-term, temporary Rest and Recuperation leave during a covered military deployment.  An employee who requests leave for this purpose must provide a copy of the military member's Rest and Recuperation leave orders.</text>
+  </para>
+  <para name="military-caregiver-leave">
+    <num>10.</num>
+    <heading>MILITARY CAREGIVER LEAVE</heading>
+    <text>Military Caregiver Leave provides eligible employees with up to 26 weeks of leave per leave year to care for a covered service member or veteran with a serious service-connected injury or illness.  To qualify for Military Caregiver Leave, an eligible employee must be the spouse, parent or child (any age) of the covered service member or veteran or the next of kin.</text>
+    <text>Covered service members include current members of the Armed Forces and members of the National Guard or Reserves who are:  a) undergoing medical treatment, recuperation or therapy for a serious illness or injury; b) in outpatient status; or 3) on the temporary disability retired list.</text>
+    <text>Leave to care for a covered veteran (a former member of the Armed Forces or the National Guard or Reserves) may be taken for up to 5 years following discharge from the military, provided the veteran's release from duty was under conditions other than dishonorable.  Serious injury or illness in the case of a veteran includes:</text>
+    <text>The continuation of a serious injury or illness suffered while serving as a member of the Armed Forces and which has rendered the veteran unable to perform military duties;</text>
+    <text>A physical or mental condition for which the veteran received a U.S. Department of Veterans Affairs Service-Related Disability Rating of 50% or greater;</text>
+    <text>A physical or mental condition that substantially impairs the veteran's ability to secure or maintain substantially gainful occupation; or</text>
+    <text>An injury (including psychological injury) that serves as the basis for the veteran's enrollment in the Department of Veterans Affairs Program of Comprehensive Assistance for Family Caregivers.</text>
+  </para>
+  <para name="requesting-fmla-leave">
+    <num>11.</num>
+    <heading>REQUESTING FMLA LEAVE</heading>
+    <text>Employees who wish to take FMLA leave must timely notify their agencies of the need for FMLA leave and the anticipated timing and duration of the leave, if known.  When the need for leave is foreseeable, employees must provide at least 30 days advance notice.  When 30 days notice is not possible, or the need for leave is not foreseeable, employees must provide notice as soon as practicable under the circumstances – generally the same or the next business day.  Employees should complete an <em>FMLA Leave Request Form</em> (<cite path="§AM-203-2-1">AM-203-2-1</cite>) in application for leave.</text>
+    <text>Calling in "sick" without providing reasons for needing leave will not be considered sufficient notice for FMLA leave under this policy, and employees are expected to respond to questions designed to determine if an absence is potentially FMLA-qualifying.  Employees who seek to use previously approved FMLA leave must specifically reference the FMLA-qualifying reason when calling in.  Leave may be delayed or denied where an employee fails to adequately explain the reasons for the leave.</text>
+    <text>Employees must follow departmental call-in procedures when requesting FMLA leave, absent unusual circumstances.  Where an employee fails to comply with these procedures, and no unusual circumstances justify the failure to comply, leave may be delayed or denied and the employee may be subject to discipline.</text>
+    <text>In the case of planned medical treatment, employees must make a reasonable effort to schedule treatment so as not to disrupt the operations of the agency.  Employees must consult with their supervisors prior to scheduling treatment in order to work out a treatment schedule that best suits the needs of both the agency and the employee, subject to the approval of an employee's health care provider.</text>
+    <text>Employees on FMLA leave are expected to be reasonably responsive to and communicate with their agencies during the leave and may be required to check in periodically (<em>e.g.</em> at least once each month) regarding their status and intent to return to work.</text>
+    <para>
+      <num>12.</num>
+      <heading>PROCESSING leave REQUESTS</heading>
+      <text>When an employee requests FMLA leave, or when an agency acquires knowledge that an employee's leave may be for an FMLA-qualifying reason, the agency must notify the employee within 5 business days of his or her eligibility to take FMLA leave, absent extenuating circumstances preventing timely notice.  Agencies shall provide notice using the <em>Notice of Eligibility and Rights &amp; Responsibilities</em> (<cite path="§AM-203-2-2">AM-203-2-2</cite>) form.</text>
+      <text>The <em>Notice of Eligibility and Rights and Responsibilities</em> should be accompanied by any required certification forms.  Once the agency has enough information to determine whether an eligible employee is requesting leave for an FMLA-qualifying reason, the agency must notify the employee whether the leave will be designated as FMLA leave.  The agency will provide this notice within 5 business days by delivering to the employee a completed <em>Designation Notice</em> (<cite path="§AM-203-2-3">AM-203-2-3</cite>).</text>
+      <text>In any instance where the employer does not have sufficient information about the reason for an employee's use of leave, the agency should inquire further of the employee to ascertain whether leave is potentially FMLA-qualifying.</text>
+    </para>
+    <para>
+      <num>13.</num>
+      <heading>Certification Requirements</heading>
+      <text>Depending on the nature of the leave sought, employees will be required to submit appropriate certification supporting the need for FMLA-qualifying leave.  When leave is requested in connection with a serious health condition, for example, the request must be supported by medical certification from a health care provider.  In the case of the employee's own serious health condition, the employee must return a completed <em>Certification of Health Care Provider for Employee's Serious Health</em> Condition (<cite path="§AM-203-2-4">AM-203-2-4</cite>).  In the case of a family member's serious health condition, the employee must return a completed <em>Certification of Health Care Provider for Family Member's Serious Health Condition</em> (<cite path="§AM-203-2-5">AM-203-2-5</cite>).</text>
+      <text>Certification and other supporting documentation also will be required to take Qualifying Exigency Leave, <em>Certification of Qualifying Military Exigency</em> (<cite path="§AM-203-2-8">AM-203-2-8</cite>) and Military Caregiver Leave,<em> Certification of Health Care Provider for Military Caregiver Leave – Servicemember (<cite path="§AM-203-2-6">AM-203-2-6</cite>) </em>or<em> Certification of Health Care Provider for Military Caregiver Leave – Veteran</em> (<cite path="§AM-203-2-7">AM-203-2-7</cite>).</text>
+      <text>It is the employee's responsibility to provide the agency with timely, complete and sufficient certification.  Whenever possible, employees should submit the completed certification at the time leave is requested.  In any event, employees must provide the certification within 15 calendar days once it is requested by the agency, absent extenuating circumstances.  Agencies may deny FMLA leave to an employee who fails to provide certification in a timely manner.</text>
+      <text>When it is necessary to verify that the information contained in a medical certification was authorized by the health care provider, or to understand the handwriting or meaning of a response, an agency HR Representative or management official (other than a direct supervisor) may contact the employee's health care provider to obtain verification or clarification.  If the employee refuses to permit such contact, the agency may deny the leave if the certification is unclear.</text>
+      <text>When a certification is incomplete or insufficient, the agency may reject the certification and give the employee at least 7 calendar days to cure any deficiencies.  When rejecting a certification, the agency must provide the employee with a letter that describes what additional information is needed to make the certification complete and sufficient.  If the employee fails to cure deficiencies in a timely manner, the agency may delay or deny the leave request.</text>
+      <text>If in the case of an employee's own serious health condition or that of a family member an agency has reason to doubt the medical certification, it may require a second medical opinion.  If the opinions of the initial and second health care providers differ, the agency may require a third, final and binding certification from a health care provider jointly approved by the agency and the employee.  The agency must conditionally approve the employee's leave request pending the outcome and bear the expense of acquiring the second and/or third medical opinion (including reasonable out-of-pocket travel expenses connected with the appointment).  Agencies may not require a second or third opinion when Military Caregiver Leave has been requested.</text>
+    </para>
+    <para>
+      <num>14.</num>
+      <heading>Recertification</heading>
+      <text>Agencies shall require employees to recertify the need for FMLA leave for a serious health condition of the employee or a family member:  1) whenever the expected minimum duration of leave expires; or 2) at least every six months in connection with an absence.  Agencies may also request recertification when:</text>
+      <text>The employee requests an extension of the leave;</text>
+      <text>Circumstances described in the employee's current certification have changed significantly (such as the duration or frequency of absences or the nature or severity of the illness); or</text>
+      <text>Information is received that casts doubt upon the employee's stated reason for the absence or the continuing validity of the certification.</text>
+      <text>Agencies may not request recertification in the case of Military Caregiver Leave.</text>
+      <text>Agencies should use the appropriate recertification form:  <em>Recertification of Employee's Serious Health Condition </em>(<cite path="§AM-203-2-9">AM-203-2-9</cite>) or <em>Recertification of Family Member's Serious Health Condition</em> (<cite path="§AM-203-2-10">AM-203-2-10</cite>).  Agencies shall give employees at least 15 calendar days to return the recertification.</text>
+      <text>Where recertification is prompted by changed circumstances or doubts about the continuing validity of the existing certification, the agency shall give the health care provider the employee's FMLA attendance record to help him or her determine whether leave usage is consistent with the serious health condition in question.</text>
+    </para>
+  </para>
+  <para name="return-to-work">
+    <num>15.</num>
+    <heading>RETURN TO WORK</heading>
+    <text>At the end of FMLA leave, the employee will be restored to the same position held prior to leave or a position with equivalent pay, status, benefits and other employment terms, subject to certain exceptions.  An agency may in its discretion elect not to return certain "key" employees, for example, if doing so would cause grievous and economic harm to the agency.  Similarly, an agency may deny reemployment if there has been an intervening layoff that would have included the employee's position.</text>
+    <text>An employee returning to work following his or her own serious health condition must provide a <em>Fitness For Duty Certification of Health Care Provider</em> (<cite path="§AM-203-2-11">AM-203-2-11</cite>) form completed by the health care provider.  The certification must confirm the employee's ability to resume work and to perform all essential job functions.  Agencies may delay or deny job restoration until the employee returns the completed certification.</text>
+    <text>Agencies shall notify employees of this requirement at the start of leave by so indicating on the employee's <em>Designation Notice</em>.  Where appropriate, agencies should also include a list of the essential functions of the employee's position for use by the health care provider in determining the employee's readiness to return to work.</text>
+  </para>
+  <para name="discrimination-prohibited">
+    <num>16.</num>
+    <heading>DISCRIMINATION PROHIBITED</heading>
+    <text>This policy prohibits discrimination against an individual for having exercised the right to take FMLA leave and prohibits unlawful interference with an individual's FMLA rights.  In addition, this policy prohibits illegal retaliation against someone who has made an FMLA-related complaint or who has participated in the investigation of a complaint.</text>
+    <text>Concerns about discrimination, interference or retaliation under this policy should be immediately reported to the employing agency's Equal Opportunity Compliance (EOC) Officer or an HR Representative.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" proof="needed">5/15/13 (replaces 5 /14/98)</annotation>
+  </annotations>
+</section>

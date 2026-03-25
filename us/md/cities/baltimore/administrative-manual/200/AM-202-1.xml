@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-202-1</num>
+  <heading>Compensatory Leave</heading>
+  <para name="definition">
+    <heading>DEFINITION</heading>
+    <text>Compensatory leave is time off with pay granted to employees as compensation for overtime or call-back work.(See <cite path="§AM-205-2">AM-205-2</cite> for complete information concerning overtime and call-back work.)</text>
+  </para>
+  <para name="rate">
+    <heading>RATE</heading>
+    <text>The amount of compensatory leave received is determined by an employee's salary. Employees in the categories listed below may elect to receive compensatory leave at the time and one-half or double time rate in lieu of monetary payment for overtime or call-back work, <strong>depending on the specifics outlined in the negotiated union contract.</strong></text>
+    <text>
+      <ul proof="needed">
+        <li>Employees receiving C.M.E.A. benefits. who have a salary grade or flat salary equal to or less than <u>grade 39</u>.</li>
+        <li><u>All</u> employees receiving Local 44 benefits.</li>
+        <li>Employees receiving M.A.P.S. benefits who have a salary grade or flat salary equal to or less than <u>grade 109</u>.</li>
+      </ul>
+    </text>
+    <text>Employees in the following categories will receive compensatory leave in an amount equal to the amount of overtime or call-back worked:</text>
+    <text>
+      <ul proof="needed">
+        <li>Employees receiving C.M.E.A. benefits who have a salary grade or flat salary equal to or greater than <u>grade 40</u>.</li>
+        <li>Employees receiving M.A.P.S. benefits.  who have a salary grade or flat salary equal to or greater than <u>grade 110</u>.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="time-and-one-half">
+    <heading>TIME AND ONE-HALF</heading>
+    <text>Eligible employees will receive compensatory leave equal to 1 ½ times the amount of overtime or call-back worked during the following periods:</text>
+    <text>
+      <ul proof="needed">
+        <li>During the normal workweek.</li>
+        <li>On the employee's 6<sup>th</sup> consecutive work day in an operation where the normal work week is 5 days in a 7 day period.</li>
+        <li>On the employee's 11<sup>th</sup> and 12<sup>th</sup> work days in an operation where the normal workweek is 10 days in a 14-day period.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="double-time">
+    <heading>DOUBLE TIME</heading>
+    <text>Eligible employees will receive compensatory leave equal to 2 times the amount of overtime or call-back worked during the following periods:</text>
+    <text>
+      <ul proof="needed">
+        <li>On the employee's 7<sup>th</sup> consecutive work day in an operation where the work week is 5 days in a 7 day period.</li>
+        <li>On the employee's 13<sup>th</sup> and 14<sup>th</sup> work days in an operation where the workweek is 10 days in a 14-day period.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="accumulation">
+    <heading>ACCUMULATION</heading>
+    <text>Compensatory leave will be accumulated in ½ hour increments after 1 hour of overtime has been worked.  An employee who works a full day of overtime will receive 7 hours, 20 minutes of compensatory leave (multiplied by 1½ or 2 when applicable), if his/her normal work day is 7 1/3 hours.</text>
+    <text>The maximum amount of compensatory leave that may be accumulated by an employee is <u>400 hours</u>.  Once an employee accumulates this maximum amount of leave, he will not be credited with any additional compensatory leave until his accumulation drops below the maximum limit.</text>
+  </para>
+  <para name="retention-of-accumulated-leave">
+    <heading>RETENTION OF ACCUMULATED LEAVE</heading>
+    <text>Accumulated compensatory leave may be retained by permanent employees who:</text>
+    <text>
+      <ul proof="needed">
+        <li>Transfer from 1 agency or position to another agency or position in the classified service with no break in service.</li>
+        <li>Are granted a leave of absence without pay and are reinstated following the expiration of such leave (or placed on a reemployment list due to lack of a vacant position).</li>
+        <li>Are laid-off due to lack of work or funds and are subsequently rehired.  (See <cite path="§AM-205-9">AM-205-9</cite> for eligibility details.)</li>
+      </ul>
+    </text>
+  </para>
+  <para name="use">
+    <heading>USE</heading>
+    <text>Compensatory leave must be taken in increments of ½ hour.  An employee who takes a full day of compensatory leave will have 7 hours, 20 minutes subtracted from his compensatory leave balance if normal work day is 7 1/3 hours.</text>
+  </para>
+  <para name="requests-for-leave">
+    <heading>REQUESTS FOR LEAVE</heading>
+    <text>An employee who wishes to use accumulated compensatory leave must obtain prior approval from his supervisor.</text>
+    <text>Compensatory leave requests for a period of 1 week or longer must normally be made 1 week in advance.  Compensatory leave requests for less than 1 week must normally be made 1 workday in advance.  However, these time requirements may be waived by the employee's supervisor.</text>
+  </para>
+  <para name="holidays">
+    <heading>HOLIDAYS</heading>
+    <text>An official City holiday which occurs on an employee's compensatory leave day will not be counted as compensatory leave.  However, in the event of an early closing on an employee's leave day, the employee will be charged compensatory leave as if the early closing had not occurred.</text>
+  </para>
+  <para name="termination-of-employment">
+    <heading>TERMINATION OF EMPLOYMENT</heading>
+    <text>Employees will <u>not</u> receive payment for any compensatory leave, which is unused as of the date of separation from City employment.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1982-10-05" display="true">October 5, 1982</annotation>
+  </annotations>
+</section>

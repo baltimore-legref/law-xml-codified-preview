@@ -12,9 +12,19 @@
     <li>4. Accrual of accounts payable or accounts receivable.</li>
     <li>5. Allocation of revenue accumulated in one revenue center to other account numbers.</li>
   </ul>
+  <annotations/>
+  <attachments>
+    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-406-1-1.pdf">
+      <prefix>Policy</prefix>
+      <num>AM-406-1-1</num>
+      <heading>Processing a Journal Entry</heading>
+    </attachment>
+  </attachments>
   <annotations>
     <annotation type="History" effective="1970-11-02" display="true">November 2, 1970</annotation>
     <annotation type="History" effective="2004-10-01" display="true">October 1, 2004</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-419-1" type="Related Policies"/>
+    <annotation type="History" effective="2004-10-27" display="true">October 27, 2004</annotation>
+    <annotation type="History" effective="2016-10-13" display="true">October 13, 2016</annotation>
   </annotations>
 </section>

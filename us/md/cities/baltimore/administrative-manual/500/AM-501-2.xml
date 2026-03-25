@@ -2,6 +2,7 @@
 <section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-501-2</num>
+  <heading>City-Owned Vehicles</heading>
   <para>
     <prefix>Part</prefix>
     <num>1</num>
@@ -115,7 +116,7 @@
   </para>
   <para>
     <prefix>Part</prefix>
-    <num>II</num>
+    <num>2</num>
     <heading>Commercial Driver License</heading>
     <para name="scope">
       <heading>SCOPE</heading>
@@ -182,14 +183,28 @@
       <text>Negative Test Results: DOS will receive a written report stating negative test results. . The employee will continue to work and will be subject to future testing if selected again by the random selection process.</text>
       <text>Positive Test Results: DOS will receive a written report stating positive test results. DOS will suspend the employee's driving privileges.</text>
     </para>
+    <annotations/>
   </para>
+  <attachments>
+    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-501-2-1.pdf">
+      <prefix>Policy</prefix>
+      <num>AM-501-2-1</num>
+      <heading>Obtaining a Driver Permit for City-Owned Vehicles</heading>
+      <annotations/>
+    </attachment>
+    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-501-2-2.pdf">
+      <prefix>Policy</prefix>
+      <num>AM-501-2-2</num>
+      <heading>Notification of City Vehicle Policy</heading>
+    </attachment>
+  </attachments>
   <annotations>
     <annotation type="History" effective="2018-07-25" display="true">July 25, 2018</annotation>
     <annotation type="History" effective="2019-06-26" display="true">June 26, 2019</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-106-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-500-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2|II" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2|2" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2-2" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-6" type="Related Policies"/>
@@ -199,6 +214,7 @@
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-12" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-14" type="Related Policies"/>
     <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2|I" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2|1" type="Related Policies"/>
+    <annotation type="History" effective="2004-04-28" display="true">April 28, 2004</annotation>
   </annotations>
 </section>

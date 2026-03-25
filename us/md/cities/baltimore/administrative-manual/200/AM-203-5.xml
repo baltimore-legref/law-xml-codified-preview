@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-203-5</num>
+  <heading>Reasonable Accommodations</heading>
+  <text>The City of Baltimore ("City") is committed to equal opportunity in all aspects of employment for qualified individuals with disabilities. The City recognizes that individuals with disabilities may need reasonable accommodations to participate in or benefit from employment opportunities.  In accordance with Federal, State and Local laws and <em><cite path="§AM-204-18">AM-204-18</cite> Equal Employment Opportunity Policy</em>, the City will provide reasonable accommodations to qualified disabled employees and applicants, unless doing so would pose an undue hardship or a direct threat to safety.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of this Policy is to set forth guidelines in making reasonable accommodation to qualified applicants and employees with disabilities.</text>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This Policy applies to all employees involved in the City's operations, including, but not limited to, full-time and part-time employees, temporary employees, and applicants for positions within the City.</text>
+  </para>
+  <para name="definitions">
+    <num>III.</num>
+    <heading>DEFINITIONS</heading>
+    <para>
+      <num>A.</num>
+      <text><strong>ADA Coordinator</strong> – A Representative of an Agency responsible for handling disability-related accommodation requests.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><strong>Essential Job Function</strong> – The fundamental duties of the position or the primary reasons the position exists. Essential functions are such that they cannot be eliminated or substantially modified without changing the nature of the position. Essential functions do not include the marginal functions of the position.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text><strong>Reasonable Accommodation</strong> – A modification or adjustment to a position, an employment practice, or the work environment that makes it possible for a qualified individual with a disability to perform the essential functions of the position. Reasonable accommodations may include but are not limited to:</text>
+      <text>
+        <ul proof="needed">
+          <li>Making physical modifications to the worksite or furniture;</li>
+          <li>Modifying work schedules, granting leave, reassignment to a vacant position; or</li>
+          <li>Acquiring or modifying equipment software packages, or devices, adjusting or modifying examinations, training materials or policies, and providing interpreters or other assistive services.</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text><strong>Undue Hardship –</strong> An accommodation or action requiring significant difficulty or expense when considered in light of factors such as financial resources and the nature and structure of operations. Undue hardship also refers to an accommodation that is unduly extensive, substantial, or disruptive, or one that would fundamentally alter the nature of the position.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text><strong>Direct Threat to Safety –</strong> A significant or substantial threat of harm that cannot be reduced or eliminated by a reasonable accommodation (e.g., someone who has uncontrolled seizures and operates heavy or sensitive equipment).</text>
+    </para>
+  </para>
+  <para name="responsibilities">
+    <num>IV.</num>
+    <heading>RESPONSIBILITIES</heading>
+    <para>
+      <num>A.</num>
+      <text>Employees and applicants are responsible for requesting an accommodation under this Policy as further described in <em>Section V</em> below.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Supervisors are responsible for promptly notifying the ADA Coordinator of an employee accommodation request brought to their attention. Additionally, a supervisor who discovers (or is made aware of) a possible need for an accommodation should immediately notify an ADA Coordinator.</text>
+      <para>
+        <num>i.</num>
+        <text>Disability accommodations may not be approved or denied at the supervisor level.</text>
+      </para>
+      <para>
+        <num>ii.</num>
+        <text>In all cases, supervisors must promptly request assistance from the Agency ADA Coordinator and work collaboratively to evaluate the employee's request.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>ADA Coordinators are responsible for engaging in the interactive process to determine whether an employee or applicant is eligible for an accommodation and to evaluate whether a workplace accommodation is feasible and/or appropriate.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Employing Agencies are responsible to decide whether and to what extent an accommodation will be offered.</text>
+    </para>
+  </para>
+  <para name="requesting-a-workplace-accommodation">
+    <num>V.</num>
+    <heading>REQUESTING A WORKPLACE ACCOMMODATION</heading>
+    <para>
+      <num>A.</num>
+      <heading>Applicants</heading>
+      <para>
+        <num>1.</num>
+        <text>An Applicant request for accommodation during the hiring process may be made to the hiring supervisor, the Agency Human Resources Practitioner, or the Department of Human Resources.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All requests for accommodation in the hiring process must be referred to the Agency ADA Coordinator who will work collaboratively with hiring officials to determine whether an accommodation is feasible and/or appropriate.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Employees</heading>
+      <para>
+        <num>1.</num>
+        <text>An employee who has a disabling condition that affects their ability to perform an essential job function may request a reasonable accommodation.  An initial request may be made verbally or in writing and should be directed to the Agency ADA Coordinator.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To enable the City to keep accurate records regarding requests for accommodations, an employee requesting the accommodation may confirm their request in writing by completing <em><cite path="§AM-203-5-1">AM-203-5-1</cite> Request for an ADA Accommodation/Modification Form (<cite path="§AM-203-5-1">AM-203-5-1</cite>)</em> and provide any necessary medical documentation.</text>
+        <para>
+          <num>i.</num>
+          <text>If the employee elects not to use <em><cite path="§AM-203-5-1">AM-203-5-1</cite></em> the employee and the medical provider must submit written documentation which substantially provides the same information as requested on the form.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>An employee must meet with the ADA Coordinator who will facilitate the interactive process regarding the nature of the employee's disability, the extent of the limitations, and the range of possible accommodations. Failure to engage in the interactive process may result in the denial of the employee's accommodation request.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>An employee is responsible for contacting the ADA Coordinator if a reasonable accommodation is not implemented in a timely and/or effective manner or when the employee's accommodation needs have changed.</text>
+      </para>
+    </para>
+  </para>
+  <para name="medical-documentation-and-examination">
+    <num>VI.</num>
+    <heading>MEDICAL DOCUMENTATION AND EXAMINATION</heading>
+    <para>
+      <num>A.</num>
+      <text>When a requesting employee's disability and/or accommodation needs are not obvious, the ADA Coordinator shall ask the employee to provide reasonable documentation from an appropriate health care provider that explains the disability and any functional limitations, as well as the type of accommodation(s) that may be required.  Such information must be provided by the health care provider in writing.  The request for documentation shall be narrow in scope and focus on the disabling condition that prompted the accommodation request.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If medical documentation provided by an employee's health care provider is not sufficient to establish a qualifying disability or the need for accommodation, the ADA Coordinator should request clarification or additional information from the health care provider.  If the employee's health care provider fails to correct any deficiencies in the employee's documentation, the City may require the employee to undergo a medical examination.  Such evaluation shall be conducted at the City's expense and by a health care provider chosen by the City.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The employee requesting accommodation is expected to work cooperatively with the ADA Coordinator to obtain the necessary medical documentation in a timely manner and must authorize his/her health care provider to communicate this information to the City.  Failure to provide necessary medical documentation and information, or the refusal to undergo a medical examination when requested, may result in the denial of the employee's accommodation request.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Agencies must seek approval from DHR before requiring a medical examination of an employee with regard to a reasonable accommodations request.</text>
+    </para>
+  </para>
+  <para name="the-interactive-process">
+    <num>VII.</num>
+    <heading>THE INTERACTIVE PROCESS</heading>
+    <para>
+      <num>A.</num>
+      <text>Requests for accommodations must be decided on a case-by-case basis because the nature and extent of a disabling condition and requirements of the position will vary. The principal test in selecting a particular type of accommodation is that of effectiveness, i.e., whether the accommodation will enable the person with a disability to perform the essential functions of the job.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Once the ADA Coordinator receives <em><cite path="§AM-203-5-1">AM-203-5-1</cite></em>, or other acceptable documentation, the ADA Coordinator will:</text>
+      <para>
+        <num>1.</num>
+        <text>Meet with the employee within five (5) business days to acknowledge the request and explain the processing of the request.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Engage in the interactive process with the employee regarding the nature of the employee's disability, the essential functions of the particular position involved, and the precise job-related limitations; and offer suggestion for possible reasonable and effective accommodations.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Consult with the employee's supervisor or other appropriate Agency leadership regarding the request and the impact the requested accommodation will have on the operations of the Agency.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Request clarification or additional information from the employee and the medical provider, if necessary, to confirm or fully understand the employee's disability, the employee's limitations or the appropriateness of the accommodations requested.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Assess whether or not the employee's requested workplace accommodation is reasonable and recommend what, if any, accommodation is most appropriate for both the employee and the Agency.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Although the employee will be consulted during the process, the Agency shall in its sole discretion decide whether and to what extent an accommodation will be offered.  The Agency may approve the requested accommodation as presented by the employee, suggest one or more effective alternative accommodations, or deny the request if no reasonable accommodation can be identified.  Accommodations that pose an undue hardship or a direct threat to safety will not be offered or permitted.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An employee is not obligated to accept the accommodation offered, however, a decision to decline an accommodation may render the employee unqualified to remain in the position.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Once a workplace accommodation is accepted, the employee's supervisor will work with the employee to make sure the accommodation will enable the employee to perform safely and effectively in the job.</text>
+    </para>
+  </para>
+  <para name="confidentiality">
+    <num>VIII.</num>
+    <heading>CONFIDENTIALITY</heading>
+    <text>All medical information and documentation collected or received in accordance with this Policy, including ADA and FMLA documentation, shall be kept confidential, and medical records shall be maintained in separate medical files by the Agency's office.  Such information shall be shared only with those having an official need to know.</text>
+  </para>
+  <para name="requests-for-reconsideration">
+    <num>IX.</num>
+    <heading>REQUESTS FOR RECONSIDERATION</heading>
+    <text>Any questions that arise during the interactive process should be directed to the Agency's ADA Coordinator handling the accommodation request.  Where an employee or applicant is dissatisfied with the resolution of a request, a request for reconsideration may be made to the Agency's Director of HR. In such cases, the Agency's Director of HR shall confer with the Director of DHR or his/her designee before responding to the request for reconsideration. The Director of DHR or his/her designee shall make the final determination for all requests for reconsideration.</text>
+    <para>
+      <num>X.</num>
+      <heading>NO RETALIATION</heading>
+      <text>Retaliation against an individual with a disability for having requested an accommodation under this policy is strictly prohibited.  Concerns about retaliation or discrimination on the basis of disability should be promptly reported to the Agency's Equal Opportunity Compliance (EOC) Officer in accordance with <em><cite path="§AM-204-18">AM-204-18</cite> Equal Employment Opportunity Policy</em>, Section IV.</text>
+    </para>
+  </para>
+  <para name="authority">
+    <num>XI.</num>
+    <heading>AUTHORITY</heading>
+    <text>This Policy was issued pursuant to <em><cite path="§AM-002-1">AM-002-1</cite></em> and <em>002-1-2 Administrative Manual</em> wherein the Department of Human Resources recommended changes to the Administrative Manual to the Board of Estimates for approval.</text>
+  </para>
+  <para name="interpretation">
+    <num>XII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" proof="needed">08/15/18 (replaces <cite path="§AM-203-4">AM-203-4</cite> 12/13/17)</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-5-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-208-1" type="Related Policies"/>
+  </annotations>
+</section>

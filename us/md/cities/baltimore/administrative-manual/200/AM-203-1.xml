@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-203-1</num>
+  <heading>Organ Donor Leave</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Organ donation leave authorizes paid permission leave to full-time and part-time permanent employees of the Mayor and City Council of Baltimore. Organ donation leave can be used without loss of any benefits to which the employee is otherwise entitled.</text>
+  </para>
+  <para name="employee-eligibility">
+    <heading>EMPLOYEE ELIGIBILITY</heading>
+    <text>Employees are eligible for organ donation leave under the following conditions:</text>
+    <text>
+      <ul proof="needed">
+        <li>The employee has been a permanent employee with the City for at least 12 months immediately preceding the period for which he/she is requesting leave.</li>
+        <li>The employee has requested and received prior approval from the head of his/her agency.</li>
+        <li>A request for organ donation leave must include medical documentation of the proposed organ or bone marrow donation.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="extent-of-leave">
+    <heading>EXTENT OF LEAVE</heading>
+    <text>Employees may use organ donation leave up to the following limits:</text>
+    <text>
+      <ul proof="needed">
+        <li>Seven (7) days in any 12-month period to be a bone marrow donor</li>
+        <li>Thirty (30) days in any 12-month period to be an organ donor</li>
+      </ul>
+    </text>
+  </para>
+  <para name="continuation-of-benefits">
+    <heading>CONTINUATION OF BENEFITS</heading>
+    <text>If an employee needs to extend the organ donor leave period beyond the maximum amount specified above, he/she may use accrued sick leave or other approved leave time, consistent with applicable leave policies. The use of sick leave in this case will not count as an occurrence if it is used immediately following the organ donation leave.</text>
+  </para>
+  <para name="payroll-markings">
+    <heading>PAYROLL MARKINGS</heading>
+    <text>The PAYROLL ATTENDANCE RECORD (147-019) is to be marked "P" in the appropriate blocks corresponding to the day(s) of absence due to organ or bone marrow donation. In the "Remarks" column next to the employee's name, one of the following is to be noted: 1) bone marrow donation; or 2) organ donation.</text>
+  </para>
+  <para name="notification-to-supervisor">
+    <heading>NOTIFICATION TO SUPERVISOR</heading>
+    <text>An employee must notify his/her supervisor in advance by submitting a REQUEST FOR TIME OFF (28-1408-5040). Medical documentation must accompany the leave slip or be submitted as soon as possible and prior to any time off. Approval of the agency head is mandatory before the employee takes time off.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2000-12-06" display="true">December 6, 2000</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-202-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
+  </annotations>
+</section>

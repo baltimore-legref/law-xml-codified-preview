@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-200-1</num>
+  <heading>Concurrent City Employment Prohibition</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>City employees may not have concurrent employment with the City of Baltimore except for employment in certain part-time capacities. City employees may have additional employment outside of City government provided such employment does not violate any other City policies, rules, and ordinances, such as the Ethics Code.</text>
+  </para>
+  <para name="concurrent-employment">
+    <heading>CONCURRENT EMPLOYMENT</heading>
+    <text>Concurrent employment is when a City employee is employed full-time at one City agency while being simultaneously employed in a full or part-time position with the same or a different City agency.</text>
+  </para>
+  <para name="prohibited-employment">
+    <heading>PROHIBITED EMPLOYMENT</heading>
+    <text>Neither exempt nor nonexempt full-time employees of the City of Baltimore may have concurrent employment with City of Baltimore.</text>
+  </para>
+  <para name="part-time-employees">
+    <heading>PART-TIME EMPLOYEES</heading>
+    <text>Part-time employees may have concurrent part-time employment with the City of Baltimore<strong>;</strong> however, the employee may not work more than 20 hours per week in each job. Part-time employees may not have employment in more than two concurrent part-time positions with the City of Baltimore.</text>
+  </para>
+  <para name="exceptions">
+    <heading>EXCEPTIONS</heading>
+    <text>Only the Board of Estimates may approve an exception to this policy. The requesting agency must show substantial justification for the exception related to the agency's fiscal and operational functions. Any request of a policy waiver must be addressed as a Personnel Action.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2008-11-19" display="true">November 19, 2008</annotation>
+  </annotations>
+</section>

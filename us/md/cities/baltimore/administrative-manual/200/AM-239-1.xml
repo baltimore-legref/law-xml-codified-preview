@@ -66,8 +66,26 @@
     <text><cite path="§AM-240-10">AM-240-10</cite> Employee-owned Vehicle</text>
     <text><cite path="§AM-240-11">AM-240-11</cite> Employee Expense Report</text>
   </para>
+  <annotations/>
+  <attachments>
+    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-239-1-1.pdf">
+      <prefix>Policy</prefix>
+      <num>AM-239-1-1</num>
+      <heading>Out-of-Town Travel by Elected Officials</heading>
+    </attachment>
+  </attachments>
   <annotations>
     <annotation type="History" effective="2004-05-12" display="true">May 12, 2004</annotation>
     <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-5" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-5-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-7" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-8" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-9" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-10" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-11" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-12" type="Related Policies"/>
   </annotations>
 </section>

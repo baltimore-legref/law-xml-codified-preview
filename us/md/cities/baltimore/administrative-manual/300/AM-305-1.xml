@@ -2,10 +2,11 @@
 <section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-305-1</num>
+  <heading>Inventory</heading>
   <para>
     <prefix>Part</prefix>
-    <num>I</num>
-    <heading>Control of City Inventory and</heading>
+    <num>1</num>
+    <heading>Control of City Inventory and Management of City Assets</heading>
     <para name="scope">
       <heading>SCOPE</heading>
       <text>This policy establishes safeguards and controls to prevent the loss, abuse, and theft of materials, tools, and equipment owned by, or leased to, the City and assigned to various City administrative units.  Adherence to these control and management procedures should reduce financial loss suffered by the City and maximize productivity of the administrative unit owning or leasing such equipment.  It is the responsibility of the agency/bureau head or designee to ensure that the established procedures are implemented.</text>
@@ -134,7 +135,7 @@
   </para>
   <para>
     <prefix>Part</prefix>
-    <num>II</num>
+    <num>2</num>
     <heading>Inventory System: Stock Items</heading>
     <para name="scope">
       <heading>SCOPE</heading>
@@ -183,11 +184,11 @@
   <annotations>
     <annotation type="History" effective="1989-04-27" display="true">April 27, 1989</annotation>
     <annotation type="History" effective="2016-11-02" display="true">November 2, 2016</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-305-1|II" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-305-1|2" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-306-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-306-1-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-305-1|I" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-305-1|1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-5" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-5-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-1" type="Related Policies"/>

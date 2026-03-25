@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-200-5</num>
+  <heading>Hiring, Transfers, and Promotions</heading>
+  <para name="employee-action-requests">
+    <heading>EMPLOYEE ACTION REQUESTS</heading>
+    <text>
+      <strong>TIME LIMIT ON APPROVED REQUESTS</strong>
+    </text>
+    <text>Effective immediately, an approved EMPLOYEE ACTION REQUEST (28-1608-5021) [<cite path="§AM-231-1-1">AM-231-1-1</cite>] will be valid for <u>only 3 months</u> from the date authorized by the Mayor's Personnel Freeze Committee. This time limit applies to <u>all</u> City agencies.</text>
+  </para>
+  <para name="proper-use-of-justification-block">
+    <heading>PROPER USE OF JUSTIFICATION BLOCK</heading>
+    <text>Agencies are reminded that the justification block on the EMPLOYEE ACTION REQUEST (Section D – Agency Justification for Requested Action) must contain adequate reasons for filling a position.</text>
+    <text>Statements such as the following are <u>NOT</u> considered to be adequate justification:</text>
+    <text>
+      <ul proof="needed">
+        <li>"The employee previously in the job has been promoted."</li>
+        <li>"The position is vacant and we need to fill it."</li>
+        <li>"The employee who filled the job has resigned."</li>
+        <li>"We have a Public Service Employee whose funding is expiring and who needs a permanent position."</li>
+        <li>"We transferred the previous holder of the job."</li>
+      </ul>
+    </text>
+    <text>Agencies must provide answers to the following types of questions when completing the justification block:</text>
+    <text>
+      <ul proof="needed">
+        <li>What will be the impact on the agency's operations if the position is not filled?</li>
+        <li>What will be the impact on the quality and quantity of services provided by the agency if the position is not filled?</li>
+        <li>Will overtime costs increase if the position is not filled?</li>
+      </ul>
+    </text>
+    <text>Additional sheets may be attached to the EMPLOYEE ACTION REQUEST if extra space is needed for the justification.</text>
+    <text>Insufficient or inadequate justification will be considered by the Freeze Committee as grounds for disapproval of the request.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1980-05-26" display="true">May 26, 1980</annotation>
+  </annotations>
+</section>

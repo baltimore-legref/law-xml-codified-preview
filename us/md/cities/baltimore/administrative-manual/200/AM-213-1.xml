@@ -2,9 +2,10 @@
 <section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-213-1</num>
+  <heading>Reinstatement</heading>
   <para>
     <prefix>Part</prefix>
-    <num>I</num>
+    <num>1</num>
     <heading>Reinstatement</heading>
     <para name="scope">
       <heading>SCOPE</heading>
@@ -69,7 +70,7 @@
   </para>
   <para>
     <prefix>Part</prefix>
-    <num>II</num>
+    <num>2</num>
     <heading>Subsequent Employment after Voluntary Separation from City Service</heading>
     <para name="scope">
       <heading>SCOPE</heading>
@@ -129,22 +130,30 @@
       </text>
       <text>The agency human resources/personnel office or designee must schedule an appointment for the physical by FAX: 410-332-0614. For the scheduled appointment, the individual must bring photo identification, along with the completed Request for Services form (form #28-1608-5153) and the Management/HR Administration Drug/Alcohol Testing Order, (form # 28-1608-5156).</text>
     </para>
+    <annotations/>
   </para>
+  <attachments>
+    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-213-1-1.pdf">
+      <prefix>Policy</prefix>
+      <num>AM-213-1-1</num>
+      <heading>Reinstatement/Subsequent Employment Record</heading>
+    </attachment>
+  </attachments>
   <annotations>
     <annotation type="History" effective="2003-04-24" display="true">April 24, 2003</annotation>
     <annotation type="History" effective="2017-09-27" display="true">September 27, 2017</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-30|I" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-31|II" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-30|1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-31|2" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-12" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-9" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-13" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM 213-1|II" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM 213-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-231-1" type="Related Policies"/>
     <annotation type="History" effective="2003-04-04" display="true">April 4, 2003</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|I" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|1" type="Related Policies"/>
+    <annotation type="History" effective="1997-07-01" display="true">July 1, 1997</annotation>
   </annotations>
 </section>
