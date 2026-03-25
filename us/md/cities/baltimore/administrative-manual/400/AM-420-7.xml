@@ -46,7 +46,7 @@
   <annotations>
     <annotation type="History" effective="1989-12-07" display="true">December 7, 1989</annotation>
     <annotation type="History" effective="2004-10-27" display="true">October 27, 2004</annotation>
-    <annotation type="Related Policies"><cite path="§AM-420-6">AM-420-6</cite> Capital Budget Preparation</annotation>
-    <annotation type="Related Policies"><cite path="§AM-420-8">AM-420-8</cite> Capital Budget Objects and Sub-Objects of Expenditure</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-420-6" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-420-8" type="Related Policies"/>
   </annotations>
 </section>

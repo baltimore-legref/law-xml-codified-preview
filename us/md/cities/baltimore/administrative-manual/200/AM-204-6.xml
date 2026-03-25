@@ -41,6 +41,6 @@
   <annotations>
     <annotation type="History" effective="1989-11-10" display="true">November 10, 1989</annotation>
     <annotation type="History" effective="2008-06-06" display="true">June 6, 2008</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-5">AM-204-5</cite> JURY DUTY</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-5" type="Related Policies"/>
   </annotations>
 </section>

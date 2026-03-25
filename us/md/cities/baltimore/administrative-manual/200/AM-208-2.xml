@@ -33,9 +33,9 @@
   </para>
   <annotations>
     <annotation type="History" effective="1989-08-01" display="true">August 1, 1989</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-2">AM-204-2</cite> VACATION LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-4">AM-204-4</cite> PERSONAL LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-14">AM-204-14</cite> SICK LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-225-1">AM-225-1</cite> POLITICAL ACTIVITY</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-225-1" type="Related Policies"/>
   </annotations>
 </section>

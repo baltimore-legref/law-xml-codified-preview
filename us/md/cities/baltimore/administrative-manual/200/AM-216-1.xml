@@ -40,9 +40,9 @@
   </para>
   <annotations>
     <annotation type="History" effective="1990-01-01" display="true">January 1, 1990</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-2">AM-204-2</cite> VACATION LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-15">AM-204-15</cite> EXTENDED SICK LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-216-2">AM-216-2</cite> CHART – DEATH BENEFITS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-216-2-1">AM-216-2-1</cite> DESIGNATION OF BENEFICIARY FORM</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 204-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 204-15" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 216-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 216-2-1" type="Related Policies"/>
   </annotations>
 </section>

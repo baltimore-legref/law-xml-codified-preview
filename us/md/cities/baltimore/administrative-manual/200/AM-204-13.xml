@@ -22,7 +22,7 @@
   </para>
   <annotations>
     <annotation type="History" effective="1990-01-10" display="true">January 10, 1990</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-22">AM-204-22</cite> Inclement Weather</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-2">AM-205-2</cite> Overtime and Call Back Work</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-22" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-2" type="Related Policies"/>
   </annotations>
 </section>

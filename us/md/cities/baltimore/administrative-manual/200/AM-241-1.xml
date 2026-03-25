@@ -441,14 +441,14 @@
   <annotations>
     <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces <cite path="§AM-205-8">AM-205-8</cite> &amp; PM 565 December 2008]</annotation>
     <annotation type="Related Policies">MOUs <a href="http://labor-commissioner.baltimorecity.gov/contract-agreements">http://labor-commissioner.baltimorecity.gov/contract-agreements</a></annotation>
-    <annotation type="Related Policies"><cite path="§AM-241-1-1">AM-241-1-1</cite> Employee Layoff Checklist</annotation>
-    <annotation type="Related Policies"><cite path="§AM-241-1-2">AM-241-1-2</cite> Employee Layoff: Layoff Letter</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-4">AM-204-4</cite> Vacation and Personal Leave</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-14">AM-204-14</cite> Sick Leave</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-4">AM-205-4</cite> Employee Indebtedness</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-4-1">AM-205-4-1</cite> Notification of Employee Indebtedness (Memo to Employee)</annotation>
-    <annotation type="Related Policies"><cite path="§AM-118-1">AM-118-1</cite> Electronic Communications Policy</annotation>
-    <annotation type="Related Policies"><cite path="§AM-509-2">AM-509-2</cite> Pagers and Cellular Phones</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 241-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 241-1-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 204-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 204-14" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 205-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 205-4-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 118-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 509-2" type="Related Policies"/>
     <annotation type="Related Policies">RULE 39 Re-Employment Lists</annotation>
     <annotation type="Related Policies">RULE 52 Lay-Off</annotation>
   </annotations>

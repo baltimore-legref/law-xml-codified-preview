@@ -5,6 +5,6 @@
   <heading>Baltimore City Memorandum - SAMPLE</heading>
   <annotations>
     <annotation type="History" effective="2010-09-29" display="true">September 29, 2010</annotation>
-    <annotation type="Related Policies"><cite path="§AM-227-1">AM-227-1</cite> Workplace Violence Policy</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 227-1" type="Related Policies"/>
   </annotations>
 </section>

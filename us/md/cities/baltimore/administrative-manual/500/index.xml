@@ -3,10 +3,9 @@
   <prefix>Section</prefix>
   <num>500</num>
   <heading>Central Services</heading>
-  <xi:include href="./AM-500-01.xml"/>
+  <xi:include href="./AM-500-1.xml"/>
   <xi:include href="./AM-501-1.xml"/>
-  <xi:include href="./AM-501-2, Part 1.xml"/>
-  <xi:include href="./AM-501-2, Part II.xml"/>
+  <xi:include href="./AM-501-2.xml"/>
   <xi:include href="./AM-501-2-1.xml"/>
   <xi:include href="./AM-501-2-2.xml"/>
   <xi:include href="./AM-501-3.xml"/>
@@ -36,8 +35,8 @@
   <xi:include href="./AM-507-1-1.xml"/>
   <xi:include href="./AM-508-1.xml"/>
   <xi:include href="./AM-508-2.xml"/>
-  <xi:include href="./AM-509-01.xml"/>
-  <xi:include href="./AM-509-02.xml"/>
+  <xi:include href="./AM-509-1.xml"/>
+  <xi:include href="./AM-509-2.xml"/>
   <xi:include href="./AM-509-2-1.xml"/>
   <xi:include href="./AM-509-2-2.xml"/>
   <xi:include href="./AM-509-2-3.xml"/>

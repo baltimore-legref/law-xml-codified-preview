@@ -51,7 +51,7 @@
   <annotations>
     <annotation type="History" effective="1989-03-01" display="true">March 1, 1989</annotation>
     <annotation type="History" effective="2000-09-14" display="true">September 14, 2000</annotation>
-    <annotation type="Related Policies"><cite path="§AM-216-1">AM-216-1</cite> DEATH BENEFITS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-29">AM-204-29</cite> DOMESTIC PARTNERS BENEFITS</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-216-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-29" type="Related Policies"/>
   </annotations>
 </section>

@@ -9,7 +9,7 @@
   </para>
   <para name="scope">
     <heading>SCOPE</heading>
-    <text>This policy is applicable to all city of Baltimore agencies/entities that use grant funding, as well as any other organizations for which the city serves as grantor or contributes resources. Moreover, this policy supersedes and replaces <strong>400-3 Indirect Cost Reimbursement for Federal Grants and Contracts, <cite path="§AM-404-1">AM-404-1</cite> Financial Grants</strong>, <strong><cite path="§AM-404-1-1">AM-404-1-1</cite> Applying for Grants</strong> and <strong><cite path="§AM-404-1-2">AM-404-1-2</cite> Action upon Receiving Grant Approval</strong>.</text>
+    <text>This policy is applicable to all city of Baltimore agencies/entities that use grant funding, as well as any other organizations for which the city serves as grantor or contributes resources. Moreover, this policy supersedes and replaces <strong><cite path="§AM-404-1">AM-404-1</cite> Financial Grants</strong>, <strong><cite path="§AM-404-1-1">AM-404-1-1</cite> Applying for Grants</strong> and <strong><cite path="§AM-404-1-2">AM-404-1-2</cite> Action upon Receiving Grant Approval</strong>.</text>
   </para>
   <para name="policy-statement">
     <heading>POLICY STATEMENT</heading>
@@ -35,7 +35,7 @@
           <table class="layout-table">
             <tbody>
               <tr>
-                <td proof="needed"/>
+                <td/>
                 <td>c. Maintain and periodically update a comprehensive listing of agency/entity specific keywords and/or search terms in SharePoint for use when searching for grants;</td>
               </tr>
             </tbody>
@@ -45,7 +45,7 @@
           <table class="layout-table">
             <tbody>
               <tr>
-                <td proof="needed"/>
+                <td/>
                 <td>d. Negotiate with other agencies/entities in the event two or more entities wish to apply for the same grant. Synergistic alliances that benefit the city are encouraged;</td>
               </tr>
             </tbody>
@@ -55,7 +55,7 @@
     </para>
     <para>
       <num>2.</num>
-      <text>Determine if the grant opportunity is a <em>new</em> or <em>renewal</em> application. For renewal applications, skip forward to <strong>AM Policy 413-30</strong>,<strong> Grant Preparation &amp; Application</strong>;</text>
+      <text>Determine if the grant opportunity is a <em>new</em> or <em>renewal</em> application. For renewal applications, skip forward to <strong>AM Policy 413-40</strong>,<strong> Grant Preparation &amp; Application</strong>;</text>
     </para>
     <para>
       <num>3.</num>
@@ -67,12 +67,12 @@
     </para>
     <para>
       <num>5.</num>
-      <text>Document all grant targets in the CRM database then advance to <strong>AM Policy 413-20</strong>,<strong> Grant Screening and Evaluation</strong>; also,</text>
+      <text>Document all grant targets in the CRM database then advance to <strong>AM Policy 413-30</strong>,<strong> Grant Screening and Evaluation</strong>; also,</text>
       <text>
         <table class="layout-table">
           <tbody>
             <tr>
-              <td proof="needed"/>
+              <td/>
               <td>6. In the event the grants management committee feels additional, external support is warranted to ensure a successful grant application, refer to <strong>AM Policy 413-00, Grants Management &amp; Administration: Lobbying</strong>.</td>
             </tr>
           </tbody>
@@ -97,6 +97,6 @@
     <text class="center"><strong>Figure 1: </strong><strong><em>Grant Identification</em></strong> promotes the early identification and proactive planning essential to forecasting grant opportunities and capturing awards.</text>
   </para>
   <annotations>
-    <annotation type="History" effective="2017-05-17" display="true">May 17, 2017</annotation>
+    <annotation type="History" display="true" proof="needed">AM Policy 413-10</annotation>
   </annotations>
 </section>

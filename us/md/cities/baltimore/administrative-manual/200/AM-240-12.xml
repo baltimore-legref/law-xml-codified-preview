@@ -1,15 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-12.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-12</num>
   <heading>Executive Search Expenses</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Under certain circumstances, expenses related to candidate interview requirements associated with filling executive level positions may be paid by the City. It is the intention of this policy that payment of interview expenses shall be for those candidates who are finalists for executive positions. Executive level positions are limited to agency head and bureau head personnel unless otherwise approved by the Board of Estimates. An agency head may authorize interview expenses providing they do not exceed $800. Any requirement for payment exceeding $800 must be specifically approved by the Board of Estimates. Under no circumstances may the expenses to be incurred be advanced to the candidate.</text>
+  </para>
+  <para name="second-interview">
+    <heading>SECOND INTERVIEW</heading>
+    <text>If a candidate is invited for a second interview, an agency head may approve additional expenses providing they do not exceed $800 for the same candidate to return for a second interview in connection with the same executive level position. Board of Estimates approval is necessary for second interview expenses exceeding $800.</text>
+  </para>
+  <para name="covered-expenses">
+    <heading>COVERED EXPENSES</heading>
+    <text>Expenses subject to reimbursement are travel by lowest cost practicable conveyance, and the subsistence allowance according to the travel policy. Rental of a vehicle is not authorized in connection with such travel. Any other expense incurred in connection with the travel must be the responsibility of the candidate. Authorized expenses are subject to receipts as required under the City travel policy.</text>
+  </para>
+  <para name="charges">
+    <heading>CHARGES</heading>
+    <text>It will be the responsibility of the appropriate agency seeking to interview a candidate to absorb the charges within the limit of their approved budget.</text>
+  </para>
+  <para name="reimbursement-responsibility">
+    <heading>REIMBURSEMENT RESPONSIBILITY</heading>
+    <text>It is the responsibility of the agency head to provide the candidate with the appropriate forms to permit reimbursement and inform him of proper procedures in seeking reimbursement for approved travel expenses. It is the responsibility of the candidate to provide the agency head with required receipts within 10 work days of completed travel so that reimbursement may be requested. Failure to do so may result in denial of reimbursement expenses.</text>
+  </para>
   <annotations>
-    <annotation type="History" effective="1990-10-10" display="true">October 10, 1990</annotation>
     <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-1">AM-240-1</cite> TRAVEL PACKAGE OVERVIEW</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-2">AM-240-2</cite> AGENCY HEAD APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-3">AM-240-3</cite> BOARD OF ESTIMATES APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-5">AM-240-5</cite> SUBSISTENCE ALLOWANCE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-7">AM-240-7</cite> TRAVEL WITHIN CITY LIMITS</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-3" type="Related Policies"/>
   </annotations>
 </section>

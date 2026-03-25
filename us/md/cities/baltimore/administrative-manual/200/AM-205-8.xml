@@ -184,12 +184,12 @@
   <annotations>
     <annotation type="History" effective="1996-09-11" display="true">September 11, 1996</annotation>
     <annotation type="History" effective="2009-09-17" display="true">September 17, 2009</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-2">AM-204-2</cite> VACATION LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-4">AM-204-4</cite> PERSONAL LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-14">AM-204-14</cite> SICK LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> SEPARATION AND PAYMENT AT TERMINATION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-9">AM-205-9</cite> REHIRING IN A CIVIL SERVICE CLASS AFTER LAYOFF</annotation>
-    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> LEAVE OF ABSENCE – PART II</annotation>
-    <annotation type="Related Policies"><cite path="§AM-232-1">AM-232-1</cite> PERMANENT POSITION</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-9" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-208-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-232-1" type="Related Policies"/>
   </annotations>
 </section>

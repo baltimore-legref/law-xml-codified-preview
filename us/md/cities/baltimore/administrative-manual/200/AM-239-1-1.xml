@@ -1,13 +1,96 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-239-1-1.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-239-1-1</num>
-  <heading>Out-of-Town Travel by Elected Officials Procedure for Requesting Advance Funds or Reimbursement</heading>
+  <heading>Out-of-Town Travel by Elected Officials</heading>
+  <para name="overview">
+    <heading>OVERVIEW</heading>
+    <text>The City of Baltimore Expense Report (28-1448-5060) must be completed by elected officials for out-of-town business travel. Pre-registration for conferences and travel arrangements should be planned 30 days or more in advance of the departure date in order to maximize cost savings. If requesting advance travel funds, the form must be completed at least 20 calendar days prior to departure. If notice to travel is less than 20 calendar days, the submission does not require completion until the return from the trip, but advance funds will not be provided. All travel requests that exceed $800 of expense must be filed with the Clerk of the Board of Estimates.</text>
+  </para>
+  <para name="subsistence-rate">
+    <heading>SUBSISTENCE RATE</heading>
+    <text>The subsistence allowance is as set forth in <cite path="§AM-240-5">AM-240-5</cite>, except for an area designated as a High Rate Geographic Area (HRGA). For listings of HRGAs, refer to <cite path="§AM-240-5-1">AM-240-5-1</cite>. The subsistence allowance must be used to pay for the cost of the following items: lodging, food, gratuities or tips, local transportation at the conference site, and miscellaneous expenses such as dry cleaning. Original receipts are required for all lodging costs, conference registration and transportation. A copy of a credit card statement supporting reimbursement may suffice, if the elected official signs it and indicates that it is intended to substitute for the original.</text>
+  </para>
+  <para name="advance-travel-funds">
+    <heading>ADVANCE TRAVEL FUNDS</heading>
+    <text>An elected official may request funds for travel prior to the date of travel by submitting a completed travel request to the Department of Finance, Bureau of the Budget and Management Research (BBMR), for funding approval at least 20 calendar days before departure. BBMR will forward the travel package to the Bureau of Accounting and Payroll Services, Accounts Payable Unit, for a cash advance. A minimum of 10 work days should be allowed for processing.</text>
+  </para>
+  <para name="travel-under-$800">
+    <heading>TRAVEL UNDER $800</heading>
+    <text>
+      <u>No Cash Advance</u>
+    </text>
+    <text>
+      <ul>
+        <li>Complete a travel request as soon as reasonable.</li>
+        <li>Within 30 calendar days of the return from the trip, submit to BBMR for approval of funds the following: the completed Expense Report form attached and all of the required travel receipts.</li>
+        <li>BBMR will forward the travel package to the Accounts Payable Unit to obtain the reimbursement.</li>
+      </ul>
+    </text>
+    <text>
+      <u>Cash Advance Required</u>
+    </text>
+    <text>
+      <ul>
+        <li>Complete a travel request.</li>
+        <li>At least 20 calendar days before trip departure, submit the completed travel request to BBMR for approval.</li>
+        <li>BBMR will forward the travel package to Accounts Payable Unit to provide a cash advance.</li>
+        <li>Within 30 calendar days of returning from the trip, submit an Expense Report accounting for all required travel expenses and provide the required receipts to the Accounts Payable Unit.</li>
+      </ul>
+    </text>
+    <text>TRAVEL OVER $800 – Filing with the Clerk of the Board of Estimates Is Required.</text>
+    <text>Elected officials are required to file a completed travel request with the Clerk of the Board of Estimates at least 20 calendar days before trip departure. If not done, there can be no advance, but a filing is still required. Within 30 calendar days of returning from the trip, an Expense Report enumerating all travel expenses with the required receipts must be submitted.</text>
+    <text>The filing with the Board of Estimates must include a transmittal memo from the elected official that contains the travel dates, destination, purpose of the trip, and a statement certifying compliance with the subsistence rate in accordance with <cite path="§AM-240-5">AM-240-5</cite>, Subsistence Allowance, and/or <cite path="§AM-240-5-1">AM-240-5-1</cite>, Subsistence: High Rate Geographic Area.</text>
+    <text>The Clerk of the Board of Estimates will provide a date-stamped copy of the transmittal memo to the elected official.</text>
+    <text>
+      <u>No Cash Advance</u>
+    </text>
+    <text>
+      <ul>
+        <li>Complete a travel request.</li>
+        <li>At least 20 calendar days before trip departure, file a transmittal memo with the Clerk of the Board of Estimates along with a completed travel request, as described above.</li>
+        <li>Within 30 calendar days of return from the trip, submit the following to BBMR for approval of funds: the completed Expense Report, attaching all of the required receipts, and a copy of the transmittal memo showing the Clerk's date- stamp.</li>
+        <li>BBMR will forward the travel package to the Accounts Payable Unit to obtain the reimbursement.</li>
+      </ul>
+    </text>
+    <text>
+      <u>Cash Advance Required</u>
+    </text>
+    <text>
+      <ul>
+        <li>Complete a travel request.</li>
+        <li>At least 20 calendar days before trip departure, file a transmittal memo with the Clerk of the Board of Estimates along with a completed travel request, as described above.</li>
+        <li>At least 20 calendar days before trip departure, submit to BBMR for approval of funds the following: the completed travel request attached and a copy of the transmittal memo showing the Clerk's date-stamp.</li>
+        <li>BBMR will forward the travel package to Accounts Payable Unit to provide an advance.</li>
+        <li>Within 30 calendar days of returning from the trip, submit an Expense Report accounting for all required travel expenses and provide the required receipts to the Accounts Payable Unit.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="for-all-advance-travel-funds">
+    <heading>FOR ALL ADVANCE TRAVEL FUNDS</heading>
+    <text><strong>Accountability </strong>– Upon return from the trip, the elected official must account for all expenditures required to be reported by submitting a memo containing the following information to the Accounts Payable Unit: the elected official's name, social security number, check number corresponding to the advance funds issued, and required receipts. A copy of a credit card statement supporting reimbursement may be accepted, if the elected official signs it and indicates that it is intended to substitute for the original.</text>
+    <text><strong>Unexpended Funds</strong> - Unexpended travel funds must be accounted for and returned. Refunds are to be made only by check or money order to the Director of Finance, City of Baltimore. Cash should not be used. All returns of unexpended travel funds submitted to the Accounts Payable Unit will be deposited to the appropriate account from which advance travel funds were drawn<strong>.</strong></text>
+    <text><strong>Insufficient Funds</strong> - If the advance travel funding was insufficient to cover business expenses incurred during the trip, elected officials may seek reimbursement.</text>
+    <text>
+      <ul>
+        <li>Less than $40 – Enter the amount on the monthly expense report with a brief explanation.</li>
+        <li>More than $40 – Submit an amended Travel Request form to the Board of Estimates for approval.</li>
+      </ul>
+    </text>
+  </para>
   <annotations>
-    <annotation type="History" effective="2004-05-12" display="true">May 12, 2004</annotation>
     <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>
-    <annotation type="Related Policies"><cite path="§AM-239-1">AM-239-1</cite> ELECTED OFFICIALS' BUSINESS EXPENSES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-5">AM-240-5</cite> SUBSISTENCE ALLOWANCE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-5-1">AM-240-5-1</cite> SUBSISTENCE: HIGH RATE GEOGRAPHIC AREA</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1-2" type="Related Policies"/>
+    <annotation type="Related Policies"><cite path="§AM-240-2">AM-240-2</cite><cite path="§AM-240-3">AM-240-3</cite>, and <cite path="§AM-240-6">AM-240-6</cite> are not applicable to Elected Officials. The following sections are applicable to Elected Officials.</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-5-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-5" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-7" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-8" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-9" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-10" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-11" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-12" type="Related Policies"/>
   </annotations>
 </section>

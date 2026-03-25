@@ -135,8 +135,8 @@
   <annotations>
     <annotation type="History" display="true" effective="2017-12-13">December 13, 2017 [replaces <cite path="§AM-217-3">AM-217-3</cite>]</annotation>
     <annotation type="History" display="true" effective="1987-06-01">June 1, 1987</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-4-1">AM-205-4-1</cite> Notification of Employee Indebtedness (Memo to the Employee)</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-4-2">AM-205-4-2</cite> Notification of Employee Indebtedness – Health Insurance Premium (Memo to the Employee)</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> Separation and Payment at Termination</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-4-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-4-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7" type="Related Policies"/>
   </annotations>
 </section>

@@ -119,13 +119,13 @@
   <annotations>
     <annotation type="History" effective="2007-05-18" display="true">May 18, 2007</annotation>
     <annotation type="History" effective="2015-01-08" display="true">January 8, 2015</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-24">AM-204-24</cite> Prescription Drug Program</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-25">AM-204-25</cite> Health Incentive Program for Physical Examination, Physical Fitness, Vision or Dental Reimbursement</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-26">AM-204-26</cite> Vision Benefits Plan</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-27">AM-204-27</cite> Optional Life and Accidental Death and Dismemberment Plans</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-28">AM-204-28</cite> COBRA</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-29">AM-204-29</cite> Domestic Partner Benefits</annotation>
-    <annotation type="Related Policies"><cite path="§AM-213-1, Part 1">AM-213-1, Part 1</cite> Reinstatement Following Separation from City Service</annotation>
-    <annotation type="Related Policies"><cite path="§AM-213-1, Part 2">AM-213-1, Part 2</cite> Subsequent Employment after Voluntary Separation from City Service</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-24" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-25" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-26" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-27" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-28" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-29" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|2" type="Related Policies"/>
   </annotations>
 </section>

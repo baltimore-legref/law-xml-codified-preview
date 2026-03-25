@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-509-1</num>
+  <heading>Cable and Communication Services</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The responsibilities of the Baltimore City Office of Cable and Communications include the negotiation and enforcement of the provisions for the Baltimore City's Cable Television franchise agreement.  BCOCC ensures FCC compliance, monitors cable service and cable complaints. BCOCC serves as an advocate for the City on related communications matters. The multimedia service and production mission is primarily to serve as a communications resource for the Mayor, other City Officials and the citizens of Baltimore by managing and providing programming on the City Government Channel 25.  Produce audio/visual projects for City agencies; and other related telecommunications matters.</text>
+  </para>
+  <para name="responsibilities">
+    <heading>RESPONSIBILITIES</heading>
+    <text>This agency provides the following services or offers consultation for:</text>
+    <text>
+      <ul proof="needed">
+        <li>Multimedia production services: programming, management, training videos, promotional and documentary videos, audio production, public service announcements and graphics.</li>
+        <li>Infrastructure management: responsible for day to day management and maintenance of the City's Fiber Optic Network as related to Public Safety Communications and various other services.</li>
+        <li>Communications equipment maintenance, inventory and purchasing procedures as related to audio/visual production.</li>
+        <li>Cable communications system design.</li>
+        <li>Assessment of agency communications needs.</li>
+        <li>Other activities as may be required by federal and state laws.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="service-and-fees">
+    <heading>SERVICE AND FEES</heading>
+    <text>To request a service, contact the Baltimore City Office of Cable &amp; Communications, 8 Market Place, Suite 200, Baltimore, MD 21201; telephone: 410-396-1100.  A fee is determined based on the type of service requested by the agency/client. City agencies can use their budget account number and non-city agencies will be billed.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2005-03-16" display="true">March 16, 2005</annotation>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
+  </annotations>
+</section>

@@ -191,9 +191,9 @@
   <annotations>
     <annotation type="History" effective="2016-10-26" display="true">October 26, 2016</annotation>
     <annotation type="History" effective="2022-07-20" display="true">July 20, 2022</annotation>
-    <annotation type="Related Policies"><cite path="§AM-203-2">AM-203-2</cite> Family and Medical Leave</annotation>
-    <annotation type="Related Policies"><cite path="§AM-501-2, Part II">AM-501-2, Part II</cite> Commercial Drivers License</annotation>
-    <annotation type="Related Policies"><cite path="§AM-501-10">AM-501-10</cite> Motor Vehicle Accident</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 203-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 501-2|II" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 501-10" type="Related Policies"/>
     <annotation type="Related Documents">Employee's Incident Report (EIR)</annotation>
     <annotation type="Related Documents">TPA - Workers Compensation - "First Report of Injury or Illness" - TPA generated documents used by TPA to generate/confirm the existence of a submitted claim.</annotation>
   </annotations>

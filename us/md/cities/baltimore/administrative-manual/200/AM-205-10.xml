@@ -62,8 +62,8 @@
   </para>
   <annotations>
     <annotation type="History" effective="1989-02-20" display="true">February 20, 1989</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-16">AM-204-16</cite> Authorized Change: Recorded Leave</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-16-1">AM-204-16-1</cite> Completing Payroll Attendance Report</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-7-1">AM-205-7-1</cite> Cut-Off Notice</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-16" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-16-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7-1" type="Related Policies"/>
   </annotations>
 </section>

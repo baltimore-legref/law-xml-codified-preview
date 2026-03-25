@@ -1,14 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-2.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-2</num>
   <heading>Agency Head Approval</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy describes when an agency head may approve travel within and outside of City limits.</text>
+    <text>An agency head may approve travel for City business if:</text>
+    <ul>
+      <li>total reimbursable expenses will not exceed $800 per City employee,</li>
+      <li>such absence will not exceed five consecutive work days nor include weekend travel,</li>
+      <li>no compensatory time or overtime approval is requested in connection with an employee in travel status,</li>
+      <li>travel is within the lower 48 states of the United States,</li>
+      <li>travel is limited to the fewest number of person(s) required to produce maximum benefits for the City,</li>
+      <li>no amendment seeking additional travel funds by an employee exceeds $40 or combined with the amount approved does not exceed $800,</li>
+      <li>candidate travel expense for interviews for an executive level position will not exceed $800 nor an additional $800 for travel expenses in connection with a second interview for the same position, and</li>
+      <li>the travel is paid for by a third party and its value is less than $100.</li>
+    </ul>
+  </para>
+  <para name="trip-report">
+    <heading>TRIP REPORT</heading>
+    <text>Agency heads are encouraged to have employees submit trip reports describing the benefits to the City from the approved in-town or out-of-town travel. Trip reports may be used by the agency head to determine the value to the City of future trips of a similar nature. These reports may also be disseminated to other agencies with an interest in the topic.</text>
+  </para>
+  <para name="cancellation-of-trip">
+    <heading>CANCELLATION OF TRIP</heading>
+    <text>If a trip is cancelled, the agency head must be notified immediately, and in any event, no later than 10 work days after the scheduled date of the trip. Any funds advanced must be returned to the Department of Finance, Bureau of Accounting and Payroll Services, Accounts Payable Unit, in accord with Board of Estimates policies.</text>
+  </para>
+  <para name="substitution">
+    <heading>SUBSTITUTION</heading>
+    <text>If an employee is unable to attend a trip approved by the agency head, the employee must return any advance funds to the Accounts Payable Unit. The agency head may substitute another employee to attend the trip, however, an accompanying memo of explanation must be attached to a separate request for advance funds and submitted to the Accounts Payable Unit.</text>
+  </para>
   <annotations>
-    <annotation type="History" effective="1990-10-10" display="true">October 10, 1990</annotation>
     <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-3">AM-240-3</cite> BOARD OF ESTIMATES APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-6">AM-240-6</cite> ADVANCE FUNDS/REIMBURSEMENT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-10-1">AM-240-10-1</cite> USE: EMPLOYEE-OWNED VEHICLES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-12">AM-240-12</cite> EXECUTIVE SEARCH EXPENSES</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-3" type="Related Policies"/>
   </annotations>
 </section>

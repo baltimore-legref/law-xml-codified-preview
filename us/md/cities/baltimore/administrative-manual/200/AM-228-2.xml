@@ -199,11 +199,11 @@
   </para>
   <annotations>
     <annotation type="History" effective="2016-04-07" display="true">April 7, 2016</annotation>
-    <annotation type="Related Policies"><cite path="§AM-200-05">AM-200-05</cite> Hiring, Transfers, and Promotions</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-32">AM-204-32</cite> Employee Recognition Program</annotation>
-    <annotation type="Related Policies"><cite path="§AM-228-1">AM-228-1</cite> Performance Management Policy for Managerial and Professional Society of Baltimore Covered Employees</annotation>
-    <annotation type="Related Policies"><cite path="§AM-231-01">AM-231-01</cite> Hiring and Transfers</annotation>
-    <annotation type="Related Policies"><cite path="§AM-235-01">AM-235-01</cite> Promotions</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-200-05" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-32" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-228-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-231-01" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-235-01" type="Related Policies"/>
     <annotation type="Related Policies">PM-370 Performance Evaluations</annotation>
   </annotations>
 </section>

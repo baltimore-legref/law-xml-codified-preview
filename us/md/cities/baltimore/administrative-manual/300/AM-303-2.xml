@@ -14,8 +14,8 @@
   <annotations>
     <annotation type="History" effective="2005-02-28" display="true">February 28, 2005</annotation>
     <annotation type="History" effective="2016-10-26" display="true">October 26, 2016</annotation>
-    <annotation type="Related Policies"><cite path="§AM-301-1">AM-301-1</cite> PURCHASING</annotation>
-    <annotation type="Related Policies"><cite path="§AM-401-1">AM-401-1</cite> PETTY CASH FUND</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-301-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-401-1" type="Related Policies"/>
     <annotation type="Related Policies">Copy of City of Baltimore Tax Exempt Certificate</annotation>
   </annotations>
 </section>

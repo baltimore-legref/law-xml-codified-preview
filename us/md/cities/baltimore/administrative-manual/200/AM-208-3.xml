@@ -87,9 +87,9 @@
   </para>
   <annotations>
     <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces PM 171 October 18, 2006]</annotation>
-    <annotation type="Related Policies"><cite path="§AM-208-3-1">AM-208-3-1</cite> Non-Line of Duty Options Letter</annotation>
-    <annotation type="Related Policies"><cite path="§AM-203-5">AM-203-5</cite> Reasonable Accommodations</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-12-1">AM-204-12-1</cite> Job-Related Injury and Illness</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 208-3-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 203-5" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 204-12-1" type="Related Policies"/>
     <annotation type="Related Policies">PM 560 Discharge</annotation>
     <annotation type="Related Policies">Civil Service Rule 56(2)(g)	Cause for Discharge, Demotion, or Suspension</annotation>
   </annotations>

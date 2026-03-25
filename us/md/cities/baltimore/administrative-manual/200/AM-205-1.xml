@@ -108,11 +108,11 @@
   <annotations>
     <annotation type="History" effective="1990-10-10" display="true">October 10, 1990</annotation>
     <annotation type="History" effective="2000-05-30" display="true">May 30, 2000</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-30">AM-204-30</cite> DETERMINATION OF BENEFITS: PART I</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-31">AM-204-31</cite> DETERMINATION OF BENEFITS: PART II</annotation>
-    <annotation type="Related Policies"><cite path="§AM-230-5">AM-230-5</cite> DOWNGRADING</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-13">AM-205-13</cite> LONGEVITY INCREMENTS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-235-1">AM-235-1</cite> PROMOTION</annotation>
-    <annotation type="Related Policies">AM-290 SALARY SCHEDULES</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-30" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-31" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-230-5" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-13" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-235-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-290" type="Related Policies"/>
   </annotations>
 </section>

@@ -160,8 +160,8 @@
   <annotations>
     <annotation type="History" effective="2007-12-05" display="true">December 5, 2007</annotation>
     <annotation type="History" effective="2008-03-26" display="true">March 26, 2008</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-1">AM-204-1</cite> ANNUAL HOLIDAYS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> SEPARATION AND PAYMENT AT TERMINATION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> LEAVE OF ABSENCE WITHOUT PAY</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-208-1" type="Related Policies"/>
   </annotations>
 </section>

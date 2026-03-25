@@ -166,8 +166,8 @@
   <annotations>
     <annotation type="History" display="true" effective="2007-07-18">July 18, 2007</annotation>
     <annotation type="History" display="true" effective="2017-12-13">December 13, 2017 [replaces <cite path="§AM-219-1-1">AM-219-1-1</cite>]</annotation>
-    <annotation type="Related Policies"><cite path="§AM-219-1-1">AM-219-1-1</cite> Tuition and Education Assistance Request Form</annotation>
-    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> Direct Payment Orders</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-219-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-303-1" type="Related Policies"/>
     <annotation type="Related Policies">MOUs <a href="http://labor-commissioner.baltimorecity.gov/contract-agreements">http://labor-commissioner.baltimorecity.gov/contract-agreements</a></annotation>
   </annotations>
 </section>

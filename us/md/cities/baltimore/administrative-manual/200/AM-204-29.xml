@@ -72,10 +72,10 @@
   <annotations>
     <annotation type="History" display="true" effective="1992-01-09">January 9, 1992</annotation>
     <annotation type="History" display="true" effective="2000-09-14">September 14, 2000</annotation>
-    <annotation type="Related Policies"><cite path="§AM-203-2">AM-203-2</cite> FAMILY AND MEDICAL LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-8">AM-204-8</cite> LEAVE OF ABSENCE - BEREAVEMENT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-23">AM-204-23</cite> HEALTH CARE PROVISIONS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-24">AM-204-24</cite> PRESCRIPTION DRUG PROGRAM</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-26">AM-204-26</cite> OPTICAL/VISION PROGRAM</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-8" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-23" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-24" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-26" type="Related Policies"/>
   </annotations>
 </section>

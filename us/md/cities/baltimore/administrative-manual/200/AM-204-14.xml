@@ -70,13 +70,13 @@
   <annotations>
     <annotation type="History" effective="1997-01-22" display="true">January 22, 1997</annotation>
     <annotation type="History" effective="1998-07-30" display="true">July 30, 1998</annotation>
-    <annotation type="Related Policies"><cite path="§AM-203-2">AM-203-2</cite> FAMILY AND MEDICAL LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-15">AM-204-15</cite> EXTENDED SICK LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-22">AM-204-22</cite> INCLEMENT WEATHER</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> SEPARATION AND PAYMENT AT TERMINATION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-9">AM-205-9</cite> REHIRING IN A CIVIL SERVICE CLASS AFTER LAYOFF</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-12">AM-205-12</cite> SICK LEAVE CONVERSION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> LEAVE OF ABSENCE WITHOUT PAY</annotation>
-    <annotation type="Related Policies"><cite path="§AM-213-1-1">AM-213-1-1</cite> REINSTATEMENT FOLLOWING SEPARATION FROM CITY SERVICE</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-15" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-22" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-9" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-12" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-208-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1-1" type="Related Policies"/>
   </annotations>
 </section>

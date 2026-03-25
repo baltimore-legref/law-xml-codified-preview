@@ -48,8 +48,8 @@
   <annotations>
     <annotation type="History" effective="2004-10-27" display="true">October 27, 2004</annotation>
     <annotation type="History" effective="2016-10-13" display="true">October 13, 2016</annotation>
-    <annotation type="Related Policies"><cite path="§AM-419-1">AM-419-1</cite> BUDGET ACCOUNT NUMBER</annotation>
-    <annotation type="Related Policies"><cite path="§AM-420-1">AM-420-1</cite> BUDGET PREPARATION OVERVIEW</annotation>
-    <annotation type="Related Policies"><cite path="§AM-420-3">AM-420-3</cite> OPERATING BUDGET PREPARATION</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-419-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-420-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-420-3" type="Related Policies"/>
   </annotations>
 </section>

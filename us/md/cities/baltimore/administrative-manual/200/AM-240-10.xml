@@ -1,18 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-10.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-10</num>
   <heading>Employee-Owned Vehicle</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The person or body approving travel may authorize the use of an employee-owned personal vehicle for City business when it is the preferable mode of transportation under the existing circumstances. Normally such approval is granted when a City-owned vehicle is neither available nor accessible, or it is cost beneficial to authorize use of an employee-owned vehicle.</text>
+  </para>
+  <para name="requirements">
+    <heading>REQUIREMENTS</heading>
+    <text>An employee who uses his personal vehicle for official City business must be trained initially by taking a Defensive Driving Course and then a Recertification class every three (3) years from the Office of Risk Management/Division of Occupational Safety (ORM/DOS). An employee shall also have and maintain automobile insurance in the amount required under existing Maryland motor vehicle laws or laws from the State where the vehicle is registered. The continued use of an employee-owned vehicle for City business should be reviewed intermittently since applicable insurance rates and employee costs could increase without eligibility for reimbursement. Employees must assume responsibility for reporting all accidents as per <cite path="§AM-501-10">AM-501-10</cite>. The employee must also report to the City's Occupational Clinic (Mercy Clinic) for injuries and drug/alcohol post-accident testing and to comply with the Substance Abuse Control Policy (SACP) as applicable. Failure to adhere to the relevant post-accident procedures and governing policies may result in discipline and/or termination.</text>
+  </para>
+  <para name="reimbursement-rates">
+    <heading>REIMBURSEMENT RATES</heading>
+    <text>Employees who have been authorized to use their personal vehicles to perform official City business will be reimbursed for each mile traveled on approved City business in accordance with the approved City rate structure. These rates are subject to change depending on the negotiated agreement governing the employee's position classification.</text>
+    <text>The mileage reimbursement rate for employee-owned personal vehicles is the IRS standard business rate as published from time to time, unless a different rate is established by collective bargaining.</text>
+    <text>Employees will be reimbursed for reasonable parking expenditures incurred in the conduct of official City business. Receipts are required for reimbursement.</text>
+    <text>No employee is authorized to fuel his/her personal vehicle using City owned fuel systems. No other expenses (such as insurance and gas) in connection with use of an employee-owned vehicle will be defrayed.</text>
+    <text>Vehicle expenses can be claimed by submitting an Expense Report with appropriate documentation to:</text>
+    <text>Finance Department, Accounts Payable Division, 401 E. Fayette Street, 5<sup>th</sup> Floor; Attn: Assistant Accounts Payable Administrator.</text>
+  </para>
+  <para name="qualifying-local-work">
+    <heading>QUALIFYING LOCAL WORK</heading>
+    <text>When submitting mileage expenses for qualifying local work, the authorized employee must deduct personal miles traveled, e.g., to and from home, when filling out the Expense Report. These miles are not subject to reimbursement. Miles traveled in connection with such work must begin and end at the assigned City office location, i.e., the mileage reimbursement for travel may not exceed the map mileage from the normal work site to the temporary work site.</text>
+  </para>
   <annotations>
-    <annotation type="History" effective="2016-10-26" display="true">October 26, 2016</annotation>
     <annotation type="History" effective="2017-01-01" display="true">January 1, 2017</annotation>
-    <annotation type="Related Policies"><cite path="§AM-239-1">AM-239-1</cite> ELECTED OFFICIALS' BUSINESS EXPENSES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-2">AM-240-2</cite> AGENCY HEAD APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-3">AM-240-3</cite> BOARD OF ESTIMATES APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-11">AM-240-11</cite> EMPLOYEE EXPENSE REPORT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-501-2, Part I">AM-501-2 PART I</cite>,	Training Courses/Driver Permits/Authorizations/ Licenses for City-Owned Vehicles</annotation>
-    <annotation type="Related Policies"><cite path="§AM-501-7">AM-501-7</cite> MMVFC - ASSIGNED VEHICLES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-510-10">AM-510-10</cite> Motor Vehicle Accident</annotation>
-    <annotation type="Related Policies">SACP,				Substance Abuse Control PolicY</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-3" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-8" type="Related Policies"/>
   </annotations>
 </section>

@@ -41,7 +41,7 @@
   </para>
   <annotations>
     <annotation type="History" display="true" effective="2018-07-25">July 25, 2018 [replaces <cite path="§AM-205-5">AM-205-5</cite> &amp; PM 303 April 2008]</annotation>
-    <annotation type="Related Policies"><cite path="§AM-241-2">AM-241-2</cite> Exit Interview</annotation>
-    <annotation type="Related Policies"><cite path="§AM-241-2-2">AM-241-2-2</cite> Employee Clearance Checklist</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 241-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 241-2-2" type="Related Policies"/>
   </annotations>
 </section>

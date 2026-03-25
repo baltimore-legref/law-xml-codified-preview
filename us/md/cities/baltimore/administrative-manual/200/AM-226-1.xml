@@ -125,8 +125,8 @@
   <annotations>
     <annotation type="History" effective="2005-06-03" display="true">June 3, 2005</annotation>
     <annotation type="History" effective="2018-08-15" display="true">August 15, 2018</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-18">AM-204-18</cite> Equal Employment Opportunity</annotation>
-    <annotation type="Related Policies"><cite path="§AM-226-1-1">AM-226-1-1</cite> Procedure for Agency Internal Complaint</annotation>
-    <annotation type="Related Policies"><cite path="§AM-226-1-2">AM-226-1-2</cite> Procedure for Outside Agency Complaint</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 204-18" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 226-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 226-1-2" type="Related Policies"/>
   </annotations>
 </section>

@@ -37,7 +37,7 @@
   </para>
   <annotations>
     <annotation type="History" effective="1989-06-20" display="true">June 20, 1989</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-2">AM-205-2</cite> OVERTIME AND CALL-BACK</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-11">AM-240-11</cite> EMPLOYEE EXPENSE REPORT</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-11" type="Related Policies"/>
   </annotations>
 </section>

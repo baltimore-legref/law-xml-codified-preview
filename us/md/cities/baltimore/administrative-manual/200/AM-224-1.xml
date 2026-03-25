@@ -75,7 +75,7 @@
   <annotations>
     <annotation type="History" effective="1984-06-25" display="true">June 25, 1984</annotation>
     <annotation type="History" effective="2003-10-01" display="true">October 1, 2003</annotation>
-    <annotation type="Related Policies"><cite path="§AM-203-2">AM-203-2</cite> Family and Medical Leave</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-14">AM-204-14</cite> Sick Leave</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
   </annotations>
 </section>

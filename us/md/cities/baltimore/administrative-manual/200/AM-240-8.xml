@@ -1,14 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-8.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-8</num>
-  <heading>Travel: Transportation Mode</heading>
+  <heading>Transportation Mode</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>Transportation used by a City representative to and from a City approved conference site must be the l e a s t expensive mode consistent with the employee's position. The City will pay all transportation expenses that meet this requirement.</text>
+    <text>However, if the City representative does not use the type of transportation authorized for the trip and selects a different mode, the City may compare the costs of both modes of transportation and reimburse for the lesser amount.</text>
+    <text>Travel to and/or from an event site may be authorized provided the conference event sessions warrant such travel arrangements.</text>
+  </para>
+  <para name="travel-to-airport(s)">
+    <heading>TRAVEL TO AIRPORT(S)</heading>
+    <text>Reimbursement of car service expenses to and from the airport(s) is limited to a maximum of $30 at each airport. Receipts are required.</text>
+    <text>If a departing City representative uses his/her private vehicle to travel to the airport, the mileage cost to and from the airport and the cost of parking the vehicle at the airport will be paid by the City up to the amount granted by the City for car service. Car service expenses to an airport are reimbursable, but not for transportation to other means of transportation such as bus or rail.</text>
+    <text>Expenses in connection with other transportation must be defrayed from the subsistence allowance.</text>
+  </para>
+  <para name="transportation-at-conference-site">
+    <heading>TRANSPORTATION AT CONFERENCE SITE</heading>
+    <text>Local transportation expenses at the conference site must be paid from the City representative's daily subsistence allowance.</text>
+    <text>If official City business at the event site will require extensive inspection trips, tours, or other unusual but necessary travel, the funds for such expenses must be approved in advance of the trip. When seeking Board of Estimates approval, the request for such transportation expenses must be stated in the travel request.</text>
+  </para>
+  <para name="record-keeping">
+    <heading>RECORD-KEEPING</heading>
+    <text>Employees are required to furnish original receipts (e.g., invoices, registration receipts, etc.) for all transportation expenses for which reimbursement is requested. Appropriate receipts consist of original paid invoices, register receipts, etc. A credit card statement may suffice if the employee signs it and indicates that it is intended to substitute for the original.</text>
+  </para>
   <annotations>
-    <annotation type="History" effective="1989-07-19" display="true">July 19, 1989</annotation>
     <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>
-    <annotation type="Related Policies"><cite path="§AM-239-1-1">AM-239-1-1</cite> OUT OF TOWN TRAVEL BY ELECTED OFFICIALS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-1">AM-240-1</cite> TRAVEL PACKAGE OVERVIEW</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-2">AM-240-2</cite> AGENCY HEAD APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-3">AM-240-3</cite> BOARD OF ESTIMATES APPROVAL</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-3" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-9" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-10" type="Related Policies"/>
   </annotations>
 </section>

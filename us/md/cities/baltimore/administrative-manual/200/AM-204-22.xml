@@ -57,10 +57,10 @@
   <annotations>
     <annotation type="History" effective="2004-01-08" display="true">January 8, 2004</annotation>
     <annotation type="History" effective="2011-01-12" display="true">January 12, 2011</annotation>
-    <annotation type="Related Policies"><cite path="§AM-202-1">AM-202-1</cite> COMPENSATORY TIME</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-2">AM-204-2</cite> VACATION LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-4">AM-204-4</cite> PERSONAL LEAVE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-13">AM-204-13</cite> TIME-OFF BY EXECUTIVE ORDER</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-14">AM-204-14</cite> SICK LEAVE</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-202-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-13" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
   </annotations>
 </section>

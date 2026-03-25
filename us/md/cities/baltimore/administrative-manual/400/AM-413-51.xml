@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-413-51</num>
+  <heading>Grant Subrecipient Monitoring &amp; Management</heading>
+  <para name="purpose">
+    <heading>PURPOSE</heading>
+    <text>Ongoing agency/entity <em>monitoring</em> of subrecipient(s)' pass-through funding combined with the subrecipient's inherent requirement to <em>manage</em> funds is vital to ensuring strong financial accountability, good governance and control over a grant's implementation and impact. Therefore, to maximize financial control of grants within the City of Baltimore this policy standardizes a series of comprehensive fiscal and quality controls in the collection, monitoring, and management of <em>all</em> subrecipient grant funds.</text>
+  </para>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy is applicable to all City of Baltimore agencies/entities that use grant funding, as well as any other organizations for which the city serves as a sponsor or contributes grant resources. Additionally, while the agency/entity's responsibilities and subrecipient requirements are essentially the same, this policy delineates agency/entity <em>monitoring</em> from subrecipient <em>management</em>. This policy goes into effect at the date of Board of Estimates approval and supersedes any and all City of Baltimore agency subrecipient monitoring standard operating procedures or policies.</text>
+  </para>
+  <para name="policy-statement">
+    <heading>POLICY STATEMENT</heading>
+    <text>This policy applies to all grants received by the City of Baltimore regardless of funding source. It ensures all grant funding is used in compliance with its intended purposes, with quarterly financial reconciliations to ensure ongoing fiscal control and compliance.</text>
+    <text>When working with grants, all City of Baltimore agencies/entities and their respective subrecipients <strong><u>must</u></strong> follow the <strong><u>primary rule of accountability</u></strong>: <strong><em>If it is not documented, it did not happen</em></strong>; failure to document can result in risks of non-compliance and disallowed costs. Therefore, collecting, storing, and compiling data and documentation are essential to each grant as well as the health of the city's overall grants management program to provide evidence of:</text>
+    <text>
+      <ul proof="needed">
+        <li>Compliance – with the subrecipient's Statement of Work (contract terms), all applicable federal and state laws, and all COB AM Policies;</li>
+        <li>Performance – measuring each grant's program goals and performance targets against stated objectives;</li>
+        <li>Outcomes – documenting the benefits and/or achievements in skill, knowledge, behavior, condition, or life status of program participants; and,</li>
+        <li>Fulfillment – satisfaction of the grant's purpose, and the identified public need met.</li>
+      </ul>
+    </text>
+    <text>To this end, all City of Baltimore staff members working with grants as well as their respective</text>
+    <text>subrecipients are required to:</text>
+    <text>
+      <ul proof="needed">
+        <li>Understand and demonstrate the importance of fiscal integrity and ethical values when making monetary decisions;</li>
+        <li>Recognize that financial integrity and operational results take priority; and,</li>
+        <li>Realize that collaboration, inter- and intra-agency communication, and teamwork are imperative to the city's overall success in grants management.</li>
+      </ul>
+    </text>
+    <text><strong>2 CFR §200.303 Internal Controls</strong>: States, <em>the recipient and subrecipient must:</em></text>
+    <para>
+      <num>(a)</num>
+      <text>
+        <em>Establish, document, and maintain effective internal control over the Federal award that provides reasonable assurance that the recipient or subrecipient is managing the Federal award in compliance with Federal statutes, regulations, and the terms and conditions of the Federal award.</em>
+      </text>
+      <text><strong>Note</strong>: Additional subrecipient requirements can be found in sections: <strong>§200.331</strong> (Subrecipient and contractor determinations)<strong>, §200.332</strong> (Requirements for pass-through entities)<strong>,</strong> and <strong>§200.333</strong> (Fixed amount subawards).</text>
+      <text>It is important to remember <strong>OMB Uniform Guidance §200.331 Subrecipient and contractor determination stipulates </strong>the pass-through entity must use judgment in classifying each agreement as a subaward or a procurement contract. In making this determination, the substance of the relationship is more important than the form of the agreement.</text>
+      <text>Moreover, <strong>31 USC 7502(f)(2) (Single Audit Act Amendments of 1996 (Pub. L. No. 104-156)), 2 CFR §200.332,</strong> states <em>pass-through entities</em> (agencies) <em>must identify the award and applicable requirements, evaluate risk, monitor, and ensure accountability of subrecipient(s).</em></text>
+      <text><strong><u>Award Records Transfer &amp; Storage</u></strong>:</text>
+      <text>Per <strong>OMB Uniform Guidance § 200.336 Methods for collection, transmission, and storage of information, </strong>when practicable, the Federal agency or pass-through entity and the recipient or subrecipient must collect, transmit, and store Federal award information in open and machine-readable formats.</text>
+      <text>Therefore, to ensure the timely collection of grant funds and reliable transmission and storage of grant award and financial documentation, and minimize the city's financial risk, all grant documentation to support award approvals and financial transactions (e.g., award letters, BOE approvals, supplier/subrecipient contracts, and purchase orders) must be uploaded as attachment(s) and stored within Workday. The documentation must be managed in accordance with <strong>OMB's 2 CFR Part 200: Uniform Administrative Requirements,</strong> the City's Administrative Manual (AM) Policies for grants management, as well as the internal controls and monitoring systems described herein.</text>
+    </para>
+  </para>
+  <para name="procedure">
+    <heading>PROCEDURE</heading>
+    <text>
+      <img alt="Embedded Image" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgdmVyc2lvbj0iMS4wIgogICB3aWR0aD0iMTg5LjM2bW0iCiAgIGhlaWdodD0iNjAuMzRtbSIKICAgaWQ9InN2ZzI5IgogICBzb2RpcG9kaTpkb2NuYW1lPSIzZ3EzV3YzY1Z6a0hDZy5lbWYiCiAgIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxzb2RpcG9kaTpuYW1lZHZpZXcKICAgICBpZD0ibmFtZWR2aWV3MjkiCiAgICAgcGFnZWNvbG9yPSIjZmZmZmZmIgogICAgIGJvcmRlcmNvbG9yPSIjMDAwMDAwIgogICAgIGJvcmRlcm9wYWNpdHk9IjAuMjUiCiAgICAgaW5rc2NhcGU6c2hvd3BhZ2VzaGFkb3c9IjIiCiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIKICAgICBpbmtzY2FwZTpwYWdlY2hlY2tlcmJvYXJkPSIwIgogICAgIGlua3NjYXBlOmRlc2tjb2xvcj0iI2QxZDFkMSIKICAgICBpbmtzY2FwZTpkb2N1bWVudC11bml0cz0ibW0iIC8+CiAgPGRlZnMKICAgICBpZD0iZGVmczEiPgogICAgPHBhdHRlcm4KICAgICAgIGlkPSJFTUZoYmFzZXBhdHRlcm4iCiAgICAgICBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgd2lkdGg9IjYiCiAgICAgICBoZWlnaHQ9IjYiCiAgICAgICB4PSIwIgogICAgICAgeT0iMCIgLz4KICA8L2RlZnM+CiAgPHBhdGgKICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtcnVsZTpldmVub2RkO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lOyIKICAgICBkPSIgIE0gMCwwLjE2NjYxNDE3ICAgTCAwLDIyNC4wOTYwNiAgIEwgNzAzLjc3ODI3LDIyNC4wOTYwNiAgIEwgNzAzLjc3ODI3LDAuMTY2NjE0MTcgICBMIDAsMC4xNjY2MTQxNyAgIHogIgogICAgIGlkPSJwYXRoMSIgLz4KICA8aW1hZ2UKICAgICB5PSIzMS45ODk5MjEiCiAgICAgeD0iMzkwLjU0MzYyIgogICAgIHhsaW5rOmhyZWY9ImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBQ3NBQUFBckNBSUFBQUJ1UCthWEFBQUFjVWxFUVZSWWhlM1lRUW9FSVF3RXdHci8vK2ZNd1dIWUYyd3U3VUhFUzFvcGdwaVpTVEl6bHNhNTVaTjhXMzllWi8wTzNqaGJDWktjeGROalptTHZBbHdIWDVhdEVHZXI4QjExVUFmVUFYVkFIZEQzQVhWQSt3RjFRQjFRQjlRQmRVRGZCOVFCN1FmVUFiOS9pemZFeXZ3QVdOWFIxLzh2S0lBQUFBQUFTVVZPUks1Q1lJST0iCiAgICAgaGVpZ2h0PSI1Ny4zMTUyNzYiCiAgICAgd2lkdGg9IjU3LjMxNTI3NiIKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgxLDAsMCwxLDAsMCkiCiAgICAgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIKICAgICBpZD0iaW1hZ2UxIiAvPgogIDxpbWFnZQogICAgIHk9IjMxLjk4OTkyMSIKICAgICB4PSIzOTAuNTQzNjIiCiAgICAgeGxpbms6aHJlZj0iZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFDc0FBQUFyQ0FJQUFBQnVQK2FYQUFBQzdVbEVRVlJZaGUyWW9YUGJUQkRGWHpzRkR5NWN1RkJROEtDZ29LR2hZV0Qvbk1KQ1FVRkJROE9EZ29JSEZ5Nzh3TmtaNTNQaVdIYWJnT2FBeHI2NTBmdnQyOVhkU3Q4aUFwODZ2bit1L0JmQkY4Ry9TK0NPbDgvL2o3VjNpQWlTcTRWTFFTbUlBQmtrbStaT0FuZXZCQ0p5RTRvN2xnWHpEUGNBYUFZenFwNHYrWGI3bmhnUnBaU0lFQkVTQUFHSXlPdXJTMEhPeURseUpobHR5NjZER1M3V3IvQ0FaUFVBRVJSQk9GK1ZkMGZPbUNZY0RuQm4xMkd6WVVwNHc3QjFXVkNSUTg1QjBwMmtYaEJFenB5bUdFY3VDOHl3MjJHemdkbVZlNzVCNE80NXM1Yk1tWXlvTmszajdpTEMvNlVnSXNhUjQ0ajluZ0JTd3RNVHVnUytrYWJUZUwwT29wVDU5Mi9PczRwSTM2TnRvZXJoT0Z0TEhQK3hwbWNZT0F6TUdTSklDVDkvb3V1dWExOGpBT0R6WE1ZeHhsRUJUY2xUY3JNUXFkR0RpRUJFdUR2ZFpacWtPcThhWGNlbko2UjBpL3cxQWdEd21NZkJwMGtPQjFNdGJST3BROXRTcE80cXhkM25tZVBZNXN4U1lPWjl6OTFPMnZaR2VieFRpY0ptdHp1b0xxb294VHhpR01MZFV3THA3bDRLcHFrNUhNUWR3Q3lDelViWHlMOUhBRVFFVkQybFFuS2VkUmo0NnhlV1pVN0pTZXozei9LdXlyNkgyVHVGdDVhQXBKQm1EUWt2SlVwcEltUVliRm15cWVTc3BSdzNwdTJXdXgydlBuajNFQUF3czFvcmM4NkZGSGVOMFAyK0VZSDdNZUtVc04zZUlZOWJ6c1o2Q29pSXBoUjl2NmdHd0FncnhXb1ZOdzIyVzZ4TS93cUNGeXg5VjlwMklRUGc2V0NJbE5EMzk4bXZJeUFKVWZUOTBqVE80eFRNdU4xZW5qZC9oUUNBa0ZEMXJwc3BYZ202N203L1Z4UFVib0FrbXNhN2JnSENMTHJ1RVFPdzZteXNMUWxKTll1VVBLSTB6ZHI5NXlHQzZvR3FSa1MwYlpqQjdLNlc3Y1ZZa1lYbnRreEVnaFF6cUR3TWNGOGQxT2NRSVBqNGkrODZEeTVuUHMrRHMrdkhFVlFQTHE4ZlIzQ0srL3ozUjlWQlJBQnhpaHNBM1AxUEplSjlnbHB1N2dGQWhMVS9qb2cvVW9ZM0VWU3JUNFlmNHhhUk9sT2IxVWNJMXIyMVBhT2NSLytnRXlzSS90TDRCNzlnZkJHOE12NER2blNhWmJQeE5IRUFBQUFBU1VWT1JLNUNZSUk9IgogICAgIGhlaWdodD0iNTcuMzE1Mjc2IgogICAgIHdpZHRoPSI1Ny4zMTUyNzYiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIgogICAgIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiCiAgICAgaWQ9ImltYWdlMiIgLz4KICA8dGV4dAogICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgc3R5bGU9ImZvbnQtc2l6ZToyMS4zMTI1MDBweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtmb250LXN0cmV0Y2g6Q29uZGVuc2VkO2xpbmUtaGVpZ2h0OjEyNS4wMDAwMDAlO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGw6IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47dGV4dC1hbGlnbjpzdGFydDt0ZXh0LWFuY2hvcjpzdGFydDsiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4wMDAwMDAsLTAuMDAwMDAwLDAuMDAwMDAwLDEuMDAwMDAwLDkuOTk2OTMyLDc1LjYzNzc4MCkiCiAgICAgeD0iMC4wMDAwMDAiCiAgICAgeT0iMC4wMDAwMDAiCiAgICAgaWQ9InRleHQzIj48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICB4PSIwLjAwMDAwMCIKICAgICAgIHk9IjAuMDAwMDAwIgogICAgICAgaWQ9InRzcGFuMyI+PHRzcGFuCiAgICAgICAgIGR4PSIwLjAwMDAwMCIKICAgICAgICAgZHk9IjAuMDAwMDAwIgogICAgICAgICBzdHlsZT0iZmlsbDojMDAwMDAwO2ZvbnQtc2l6ZToyMS4zMTI1MDBweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtmb250LXN0cmV0Y2g6Q29uZGVuc2VkO2ZvbnQtZmFtaWx5OlRpbWVzIE5ldyBSb21hbjsiCiAgICAgICAgIGlkPSJ0c3BhbjIiPuKImTwvdHNwYW4+PC90c3Bhbj48L3RleHQ+CiAgPHRleHQKICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXNpemU6MjEuMzEyNTAwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDo0MDA7Zm9udC1zdHJldGNoOkNvbmRlbnNlZDtsaW5lLWhlaWdodDoxMjUuMDAwMDAwJTtsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuO3RleHQtYWxpZ246c3RhcnQ7dGV4dC1hbmNob3I6c3RhcnQ7IgogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMDAwMDAwLC0wLjAwMDAwMCwwLjAwMDAwMCwxLjAwMDAwMCwxOS44MDYzNDEsNzUuNjM3NzgwKSIKICAgICB4PSIwLjAwMDAwMCIKICAgICB5PSIwLjAwMDAwMCIKICAgICBpZD0idGV4dDUiPjx0c3BhbgogICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSIKICAgICAgIHg9IjAuMDAwMDAwIgogICAgICAgeT0iMC4wMDAwMDAiCiAgICAgICBpZD0idHNwYW41Ij48dHNwYW4KICAgICAgICAgZHg9IjAuMDAwMDAwIgogICAgICAgICBkeT0iMC4wMDAwMDAiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7Zm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuOyIKICAgICAgICAgaWQ9InRzcGFuNCI+IDwvdHNwYW4+PC90c3Bhbj48L3RleHQ+CiAgPHRleHQKICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXNpemU6MjEuMzEyNTAwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDo0MDA7Zm9udC1zdHJldGNoOkNvbmRlbnNlZDtsaW5lLWhlaWdodDoxMjUuMDAwMDAwJTtsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuO3RleHQtYWxpZ246c3RhcnQ7dGV4dC1hbmNob3I6c3RhcnQ7IgogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMDAwMDAwLC0wLjAwMDAwMCwwLjAwMDAwMCwxLjAwMDAwMCw0MS45ODY4NTMsNzUuNjM3NzgwKSIKICAgICB4PSIwLjAwMDAwMCIKICAgICB5PSIwLjAwMDAwMCIKICAgICBpZD0idGV4dDciPjx0c3BhbgogICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSIKICAgICAgIHg9IjAuMDAwMDAwIgogICAgICAgeT0iMC4wMDAwMDAiCiAgICAgICBpZD0idHNwYW43Ij48dHNwYW4KICAgICAgICAgZHg9IjAuMDAwMDAwIgogICAgICAgICBkeT0iMC4wMDAwMDAiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7Zm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuOyIKICAgICAgICAgaWQ9InRzcGFuNiI+UHJvY2VkdXJhbCBpdGVtcyBwcmVjZWRlZCBieSB0aGlzIHN5bWJvbCAgICAgYXJlIGRlc2lnbmF0ZWQgYXMgcXVhbGl0eSBpc3N1ZXM8L3RzcGFuPjwvdHNwYW4+PC90ZXh0PgogIDx0ZXh0CiAgICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgICBzdHlsZT0iZm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7bGluZS1oZWlnaHQ6MTI1LjAwMDAwMCU7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3BhY2luZzowcHg7ZmlsbDojMDAwMDAwO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO2ZvbnQtZmFtaWx5OlRpbWVzIE5ldyBSb21hbjt0ZXh0LWFsaWduOnN0YXJ0O3RleHQtYW5jaG9yOnN0YXJ0OyIKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgxLjAwMDAwMCwtMC4wMDAwMDAsMC4wMDAwMDAsMS4wMDAwMDAsNjkyLjMwMzkzNyw3NS42Mzc3ODApIgogICAgIHg9IjAuMDAwMDAwIgogICAgIHk9IjAuMDAwMDAwIgogICAgIGlkPSJ0ZXh0OSI+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0iMC4wMDAwMDAiCiAgICAgICB5PSIwLjAwMDAwMCIKICAgICAgIGlkPSJ0c3BhbjkiPjx0c3BhbgogICAgICAgICBkeD0iMC4wMDAwMDAiCiAgICAgICAgIGR5PSIwLjAwMDAwMCIKICAgICAgICAgc3R5bGU9ImZpbGw6IzAwMDAwMDtmb250LXNpemU6MjEuMzEyNTAwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDo0MDA7Zm9udC1zdHJldGNoOkNvbmRlbnNlZDtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47IgogICAgICAgICBpZD0idHNwYW44Ij4uIDwvdHNwYW4+PC90c3Bhbj48L3RleHQ+CiAgPHRleHQKICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXNpemU6MjEuMzEyNTAwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDo0MDA7Zm9udC1zdHJldGNoOkNvbmRlbnNlZDtsaW5lLWhlaWdodDoxMjUuMDAwMDAwJTtsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuO3RleHQtYWxpZ246c3RhcnQ7dGV4dC1hbmNob3I6c3RhcnQ7IgogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMDAwMDAwLC0wLjAwMDAwMCwwLjAwMDAwMCwxLjAwMDAwMCw0MS45ODY4NTMsMTAxLjIyOTgxNSkiCiAgICAgeD0iMC4wMDAwMDAiCiAgICAgeT0iMC4wMDAwMDAiCiAgICAgaWQ9InRleHQxMSI+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0iMC4wMDAwMDAiCiAgICAgICB5PSIwLjAwMDAwMCIKICAgICAgIGlkPSJ0c3BhbjExIj48dHNwYW4KICAgICAgICAgZHg9IjAuMDAwMDAwIgogICAgICAgICBkeT0iMC4wMDAwMDAiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7Zm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuOyIKICAgICAgICAgaWQ9InRzcGFuMTAiPkZhaWx1cmUgdG8gYWRoZXJlIHRvIHRoaXMgcmVxdWlyZW1lbnQgY2FuIGltcGFjdCB0aGUgb3ZlcmFsbCBxdWFsaXR5IG9mIHRoaXMgPC90c3Bhbj48L3RzcGFuPjwvdGV4dD4KICA8dGV4dAogICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgc3R5bGU9ImZvbnQtc2l6ZToyMS4zMTI1MDBweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtmb250LXN0cmV0Y2g6Q29uZGVuc2VkO2xpbmUtaGVpZ2h0OjEyNS4wMDAwMDAlO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGw6IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47dGV4dC1hbGlnbjpzdGFydDt0ZXh0LWFuY2hvcjpzdGFydDsiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4wMDAwMDAsLTAuMDAwMDAwLDAuMDAwMDAwLDEuMDAwMDAwLDQxLjk4Njg1MywxMjcuMDY0NDQ5KSIKICAgICB4PSIwLjAwMDAwMCIKICAgICB5PSIwLjAwMDAwMCIKICAgICBpZD0idGV4dDEzIj48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICB4PSIwLjAwMDAwMCIKICAgICAgIHk9IjAuMDAwMDAwIgogICAgICAgaWQ9InRzcGFuMTMiPjx0c3BhbgogICAgICAgICBkeD0iMC4wMDAwMDAiCiAgICAgICAgIGR5PSIwLjAwMDAwMCIKICAgICAgICAgc3R5bGU9ImZpbGw6IzAwMDAwMDtmb250LXNpemU6MjEuMzEyNTAwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDo0MDA7Zm9udC1zdHJldGNoOkNvbmRlbnNlZDtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47IgogICAgICAgICBpZD0idHNwYW4xMiI+cG9saWN5PC90c3Bhbj48L3RzcGFuPjwvdGV4dD4KICA8dGV4dAogICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgc3R5bGU9ImZvbnQtc2l6ZToyMS4zMTI1MDBweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtmb250LXN0cmV0Y2g6Q29uZGVuc2VkO2xpbmUtaGVpZ2h0OjEyNS4wMDAwMDAlO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGw6IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47dGV4dC1hbGlnbjpzdGFydDt0ZXh0LWFuY2hvcjpzdGFydDsiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4wMDAwMDAsLTAuMDAwMDAwLDAuMDAwMDAwLDEuMDAwMDAwLDk1LjI5NDI3NywxMjcuMDY0NDQ5KSIKICAgICB4PSIwLjAwMDAwMCIKICAgICB5PSIwLjAwMDAwMCIKICAgICBpZD0idGV4dDE1Ij48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICB4PSIwLjAwMDAwMCIKICAgICAgIHk9IjAuMDAwMDAwIgogICAgICAgaWQ9InRzcGFuMTUiPjx0c3BhbgogICAgICAgICBkeD0iMC4wMDAwMDAiCiAgICAgICAgIGR5PSIwLjAwMDAwMCIKICAgICAgICAgc3R5bGU9ImZpbGw6IzAwMDAwMDtmb250LXNpemU6MjEuMzEyNTAwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDo0MDA7Zm9udC1zdHJldGNoOkNvbmRlbnNlZDtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47IgogICAgICAgICBpZD0idHNwYW4xNCI+LiA8L3RzcGFuPjwvdHNwYW4+PC90ZXh0PgogIDx0ZXh0CiAgICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgICBzdHlsZT0iZm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7bGluZS1oZWlnaHQ6MTI1LjAwMDAwMCU7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3BhY2luZzowcHg7ZmlsbDojMDAwMDAwO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO2ZvbnQtZmFtaWx5OlRpbWVzIE5ldyBSb21hbjt0ZXh0LWFsaWduOnN0YXJ0O3RleHQtYW5jaG9yOnN0YXJ0OyIKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgxLjAwMDAwMCwtMC4wMDAwMDAsMC4wMDAwMDAsMS4wMDAwMDAsOS45OTY5MzIsMTcyLjQyMTU2OCkiCiAgICAgeD0iMC4wMDAwMDAiCiAgICAgeT0iMC4wMDAwMDAiCiAgICAgaWQ9InRleHQxNyI+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0iMC4wMDAwMDAiCiAgICAgICB5PSIwLjAwMDAwMCIKICAgICAgIGlkPSJ0c3BhbjE3Ij48dHNwYW4KICAgICAgICAgZHg9IjAuMDAwMDAwIgogICAgICAgICBkeT0iMC4wMDAwMDAiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7Zm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuOyIKICAgICAgICAgaWQ9InRzcGFuMTYiPuKImTwvdHNwYW4+PC90c3Bhbj48L3RleHQ+CiAgPHRleHQKICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXNpemU6MjEuMzEyNTAwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDo0MDA7Zm9udC1zdHJldGNoOkNvbmRlbnNlZDtsaW5lLWhlaWdodDoxMjUuMDAwMDAwJTtsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuO3RleHQtYWxpZ246c3RhcnQ7dGV4dC1hbmNob3I6c3RhcnQ7IgogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMDAwMDAwLC0wLjAwMDAwMCwwLjAwMDAwMCwxLjAwMDAwMCwxOS44MDYzNDEsMTcyLjQyMTU2OCkiCiAgICAgeD0iMC4wMDAwMDAiCiAgICAgeT0iMC4wMDAwMDAiCiAgICAgaWQ9InRleHQxOSI+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0iMC4wMDAwMDAiCiAgICAgICB5PSIwLjAwMDAwMCIKICAgICAgIGlkPSJ0c3BhbjE5Ij48dHNwYW4KICAgICAgICAgZHg9IjAuMDAwMDAwIgogICAgICAgICBkeT0iMC4wMDAwMDAiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7Zm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuOyIKICAgICAgICAgaWQ9InRzcGFuMTgiPiA8L3RzcGFuPjwvdHNwYW4+PC90ZXh0PgogIDx0ZXh0CiAgICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgICBzdHlsZT0iZm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7bGluZS1oZWlnaHQ6MTI1LjAwMDAwMCU7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3BhY2luZzowcHg7ZmlsbDojMDAwMDAwO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO2ZvbnQtZmFtaWx5OlRpbWVzIE5ldyBSb21hbjt0ZXh0LWFsaWduOnN0YXJ0O3RleHQtYW5jaG9yOnN0YXJ0OyIKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgxLjAwMDAwMCwtMC4wMDAwMDAsMC4wMDAwMDAsMS4wMDAwMDAsNDEuOTg2ODUzLDE3Mi40MjE1NjgpIgogICAgIHg9IjAuMDAwMDAwIgogICAgIHk9IjAuMDAwMDAwIgogICAgIGlkPSJ0ZXh0MjEiPjx0c3BhbgogICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSIKICAgICAgIHg9IjAuMDAwMDAwIgogICAgICAgeT0iMC4wMDAwMDAiCiAgICAgICBpZD0idHNwYW4yMSI+PHRzcGFuCiAgICAgICAgIGR4PSIwLjAwMDAwMCIKICAgICAgICAgZHk9IjAuMDAwMDAwIgogICAgICAgICBzdHlsZT0iZmlsbDojMDAwMDAwO2ZvbnQtc2l6ZToyMS4zMTI1MDBweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtmb250LXN0cmV0Y2g6Q29uZGVuc2VkO2ZvbnQtZmFtaWx5OlRpbWVzIE5ldyBSb21hbjsiCiAgICAgICAgIGlkPSJ0c3BhbjIwIj5Qcm9jZWR1cmFsIGl0ZW1zIHByZWNlZGVkIGJ5IHRoaXMgc3ltYm9sICAgICAgICAgIGFyZSBkZXNpZ25hdGVkIGFzIHJpc2sgaXNzdWVzPC90c3Bhbj48L3RzcGFuPjwvdGV4dD4KICA8dGV4dAogICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgc3R5bGU9ImZvbnQtc2l6ZToyMS4zMTI1MDBweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtmb250LXN0cmV0Y2g6Q29uZGVuc2VkO2xpbmUtaGVpZ2h0OjEyNS4wMDAwMDAlO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGw6IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47dGV4dC1hbGlnbjpzdGFydDt0ZXh0LWFuY2hvcjpzdGFydDsiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4wMDAwMDAsLTAuMDAwMDAwLDAuMDAwMDAwLDEuMDAwMDAwLDY5MS43MjA2MjUsMTcyLjQyMTU2OCkiCiAgICAgeD0iMC4wMDAwMDAiCiAgICAgeT0iMC4wMDAwMDAiCiAgICAgaWQ9InRleHQyMyI+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0iMC4wMDAwMDAiCiAgICAgICB5PSIwLjAwMDAwMCIKICAgICAgIGlkPSJ0c3BhbjIzIj48dHNwYW4KICAgICAgICAgZHg9IjAuMDAwMDAwIgogICAgICAgICBkeT0iMC4wMDAwMDAiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7Zm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuOyIKICAgICAgICAgaWQ9InRzcGFuMjIiPi4gPC90c3Bhbj48L3RzcGFuPjwvdGV4dD4KICA8dGV4dAogICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgc3R5bGU9ImZvbnQtc2l6ZToyMS4zMTI1MDBweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtmb250LXN0cmV0Y2g6Q29uZGVuc2VkO2xpbmUtaGVpZ2h0OjEyNS4wMDAwMDAlO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGw6IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47dGV4dC1hbGlnbjpzdGFydDt0ZXh0LWFuY2hvcjpzdGFydDsiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4wMDAwMDAsLTAuMDAwMDAwLDAuMDAwMDAwLDEuMDAwMDAwLDQxLjk4Njg1MywxOTguMjU2MjAyKSIKICAgICB4PSIwLjAwMDAwMCIKICAgICB5PSIwLjAwMDAwMCIKICAgICBpZD0idGV4dDI1Ij48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICB4PSIwLjAwMDAwMCIKICAgICAgIHk9IjAuMDAwMDAwIgogICAgICAgaWQ9InRzcGFuMjUiPjx0c3BhbgogICAgICAgICBkeD0iMC4wMDAwMDAiCiAgICAgICAgIGR5PSIwLjAwMDAwMCIKICAgICAgICAgc3R5bGU9ImZpbGw6IzAwMDAwMDtmb250LXNpemU6MjEuMzEyNTAwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDo0MDA7Zm9udC1zdHJldGNoOkNvbmRlbnNlZDtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47IgogICAgICAgICBpZD0idHNwYW4yNCI+RmFpbHVyZSB0byBtb25pdG9yIHRoaXMgcmVxdWlyZW1lbnQgY2FuIGNyZWF0ZSBhbiB1bndhcnJhbnRlZCByaXNrPC90c3Bhbj48L3RzcGFuPjwvdGV4dD4KICA8dGV4dAogICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgc3R5bGU9ImZvbnQtc2l6ZToyMS4zMTI1MDBweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtmb250LXN0cmV0Y2g6Q29uZGVuc2VkO2xpbmUtaGVpZ2h0OjEyNS4wMDAwMDAlO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGw6IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW47dGV4dC1hbGlnbjpzdGFydDt0ZXh0LWFuY2hvcjpzdGFydDsiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4wMDAwMDAsLTAuMDAwMDAwLDAuMDAwMDAwLDEuMDAwMDAwLDYwNy41MzUyMzQsMTk4LjI1NjIwMikiCiAgICAgeD0iMC4wMDAwMDAiCiAgICAgeT0iMC4wMDAwMDAiCiAgICAgaWQ9InRleHQyNyI+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0iMC4wMDAwMDAiCiAgICAgICB5PSIwLjAwMDAwMCIKICAgICAgIGlkPSJ0c3BhbjI3Ij48dHNwYW4KICAgICAgICAgZHg9IjAuMDAwMDAwIgogICAgICAgICBkeT0iMC4wMDAwMDAiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7Zm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3RyZXRjaDpDb25kZW5zZWQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuOyIKICAgICAgICAgaWQ9InRzcGFuMjYiPi4gPC90c3Bhbj48L3RzcGFuPjwvdGV4dD4KICA8aW1hZ2UKICAgICB5PSIxMzcuMjkwMDgiCiAgICAgeD0iMzk5Ljg3NDAyIgogICAgIHhsaW5rOmhyZWY9ImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBQ2tBQUFBaUNBSUFBQUJOeFdkaUFBQUEzMGxFUVZSWWhkV1hTdzRFSVFoRUxlOS9aMmJCcE9Pb0tJalFHVFpHV24wV2ZtaEJSQUNJcURRMmVpTDhsUXNBN09vNnhQbkJsVkxLZEhhaEJxQzI4OHJHYzVHcyt4djhwNTZHZjJMOEUrcGtmTC9Nb2ZodVYyWHJidkYxL0JDMzUxZTYyWUxVajVMbUVxL2pwN0VVdzV1QVh5M3RSZnhydXFYTkc2NTdjV28yeHlrVXZ6L0t4L2p0UFJHcmU0M1hYbUVIay9EcWpnTnIyVmE4TWlNWTBzWjF2QzFsS2ZHdjZkYW40TXU2VGJtLzdwdW9oNVplSVdKN0U1dE5ldVpZeHpGM1dDaXo0czkvemNibm8zV0VRN1lmN0RMR2U1S05hNzdkRS9lZjdBT3l5SUZNRzhIMGdnQUFBQUJKUlU1RXJrSmdnZz09IgogICAgIGhlaWdodD0iNDUuMzE5MDU1IgogICAgIHdpZHRoPSI1NS45ODIzNjIiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIgogICAgIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiCiAgICAgaWQ9ImltYWdlMjciIC8+CiAgPGltYWdlCiAgICAgeT0iMTM3LjI5MDA4IgogICAgIHg9IjM5OS44NzQwMiIKICAgICB4bGluazpocmVmPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsaVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUNrQUFBQWlDQUlBQUFCTnhXZGlBQUFFa0VsRVFWUlloYldYelU4VFFSakduOW1hUXJNc3BXa2h0aEJUZzBjdlJDSUpJUVFOQjhPTm1NQWQvd2l2M2ozb3dZdFJFMEpFaVh3SW5wUklCREd4QmpGWUphaWdRYWkwVGRQU1VndTdwVHV2aDJtWHR0QVBDajZYTnJQdjdtL20vWmg1aHhFQUltSU1XV0tIUms1eG5HV0lrdmhoUk1JMDc0WC9NVzRRR1JFQklIYlV0UCtiQ0dCRVo0eDVwZkdTaExObjRYQkFrazZUeGpuVzFyQzdLOEJDYVRhTVpVc1NXbHR4L1RycTYwRjA2QnNWaVRIOC9vMWJ0N0MzaHl6blo5aVoyTEJVQ3NFZzdIWmN2WXFxcXROaHF5cHUzMFk4RGlJeW9pNmdoblNBQTJRMjA0MGI5UDA3blpabVo4bnRKc1lJU0NPSXlJaTNrQ1JXbjB6aTFTdGN2Z3luRTRvaUhzVmlzVUFnb0twcWJXMXRRME9EMys5UEpCSk5UVTJTSlBuOWZrM1RHR09Lb2xnc2xrZ2s0blE2YlRhYkpESW1GTUs5ZS9ENVFBU2k3Q1RLWVl1cEFXQStIOGJIY2ZFaTJ0cGdNZ0dJUkNLRGc0T1JTTVJtcy9YMjlzN1B6eTh2THc4TURLeXNyR3h1YmhMUjZ1cHFlM3U3dytFSWhVTGQzZDFXcTFXU0pIQ09pUW04Zm8xVWlnQmlUTXJLb1J3Mkl3Smo2WnozZVBEeUpjNmZoOU1Kb0tHaFlYMTlmV3RyS3g2UHQ3UzB4R0t4MWRWVnp2bk16SXpkYnUvbzZCZ2JHN05ZTEc2M3U2dXJxN0d4MFdReUFjQ1BIM2owQ1BHNDRkY2NOK2VseGNHR3NMT0R5VWw0UEZCVkFMSXNXNjFXeGxoMWRiWEZZckZhcllxaTFOVFU5UFQwUktQUm1wcWF1cnE2VUNpMHNiRmhOcHRsV1dhTTRlOWZQSGlBcjEraDZ6a3BWb2lOakJFQldGbkI4K2Y0OVF0RWtVaEVWZFhtNW1hTHhlTDFlbjArbjZacGdVQ2dxcXBxZTN0N2RuWTJsVXExdHJaS2tqUThQTHl4dWNrNXg5d2N4c2ZGMUErRDgzMmV2L3BVQ3RQVGFHdUR5eFdQeHpzNk91cnI2OFBoc0txcWlxSzRYQzVabG9QQllGOWZuOFBoY0xsY3pjM05uWjJkQ3dzTHFxYnhQMytrKy9maDk0dTYwaGs3Y3hoZnBEUTRRQUJkdVVKdjMrcWF4amtYNDZsVVN0ZDFJdUtjRzRORUpBYUpTTi9mcDd0M3lXWWpnR2NWVlo0S3M0M1haSmx1M2lTZnI2eFNGdnIwaVM1ZElwT0pDb01wdDk3eUhaTCtrMGhnY2hMdjMyTnZyNkJ4dHFKUlBIeUliOStnNjd4QXBFdjduSWc0b0FNa1NkVGZUMSsrVU1hcnhUUTZTdWZPSGQ3RkRxc0VtNHlvMisxMDV3NkZ3eVdzMTlmcDJqVXltNm5VcXFpWXo0VlhHSU9vdDNBWW82UHdlckcvWDlCYVZmSGtDVDU4UURMSk0rOFdVUW0yNkM3U0RjYmlJcWFtRUFnVXRGNWN4TE5uMk5rQndJcEhXcWlrWjRqU09VOEF1ZDAwTWtLSnhCRTJvUkFOREpBc0Y4L3RuSytXeFRhU0RxRGVYdnI4T1QvcGRKMkdoa1NLbFFtbWt2SE9kajVFNE4rOHdmUTB0cmR6SHErdDRmRmpCSU5pRnlzWmFhRmpOR1hwVXlnYXhjZ0lscGFRVEtZZkpCSVlIc2JIajlBMG51a0RUNWw5a1BOZUx5WW1FQWlrOXgrUEIxTlRpTVdFbWFuc0x1OFk3SVBWN08vanhRdThlNGZkWFFRQ0dCckN6NS9pb0pTTzAxNGVmWTRWd1hQUlV2cDhlUG9VRnk1Z2FRbHpjMGdreUdpMHk4YW5TL2RZU25lMHRiWG83NGZYaTZVbGFGb0ZEZlh4MlVaUEIwQlJzTGNuZWpHVW5XSW5ZR2VVZlkwcVA3ZXpWZUhGSjd1Q0t3Tlh6ajY0VVZZS3hrbDhqcXpWVjRZL0VmdUUrZ2VvcFFzamFGcmJzZ0FBQUFCSlJVNUVya0pnZ2c9PSIKICAgICBoZWlnaHQ9IjQ1LjMxOTA1NSIKICAgICB3aWR0aD0iNTUuOTgyMzYyIgogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEsMCwwLDEsMCwwKSIKICAgICBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIgogICAgIGlkPSJpbWFnZTI4IiAvPgogIDx0ZXh0CiAgICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgICBzdHlsZT0iZm9udC1zaXplOjIxLjMxMjUwMHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6NzAwO2ZvbnQtc3RyZXRjaDpOb3JtYWw7bGluZS1oZWlnaHQ6MTI1LjAwMDAwMCU7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3BhY2luZzowcHg7ZmlsbDojMDAwMDAwO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO2ZvbnQtZmFtaWx5OkNhbGlicmk7dGV4dC1hbGlnbjpzdGFydDt0ZXh0LWFuY2hvcjpzdGFydDsiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4wMDAwMDAsLTAuMDAwMDAwLDAuMDAwMDAwLDEuMDAwMDAwLDMzMC45NDk0NjIsMjQuOTcxNDk1KSIKICAgICB4PSIwLjAwMDAwMCIKICAgICB5PSIwLjAwMDAwMCIKICAgICBpZD0idGV4dDI5Ij48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICB4PSIwLjAwMDAwMCIKICAgICAgIHk9IjAuMDAwMDAwIgogICAgICAgaWQ9InRzcGFuMjkiPjx0c3BhbgogICAgICAgICBkeD0iMC4wMDAwMDAiCiAgICAgICAgIGR5PSIwLjAwMDAwMCIKICAgICAgICAgc3R5bGU9ImZpbGw6IzAwMDAwMDtmb250LXNpemU6MjEuMzEyNTAwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDo3MDA7Zm9udC1zdHJldGNoOk5vcm1hbDtmb250LWZhbWlseTpDYWxpYnJpOyIKICAgICAgICAgaWQ9InRzcGFuMjgiPk5PVEU8L3RzcGFuPjwvdHNwYW4+PC90ZXh0Pgo8L3N2Zz4K"/>
+    </text>
+    <text><strong><u>Qualifying Subrecipients</u></strong>:</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed">
+              <p>1. Each City of Baltimore awarding agency must develop a set of criteria for evaluating any potential subrecipients seeking funds to carry out grant-related activities on behalf of the City. Criteria and application materials must include a copy of recent financial statements; verification of Good Standing with the State Department of Assessments and Taxation; description of proposed performance measures including inputs, outputs and outcomes; project timeline, and an assessment of the entity's capacity to both manage the award as well as complete the proposed scope of work within the performance period.</p>
+              <p>2. <strong><em>Per OMB Uniform Guidance § 200.214 Suspension and debarment.</em></strong> <em>Recipients and subrecipients are subject to the non-procurement debarment and suspension regulations implementing Executive Orders 12549 and 12689, as well as </em><a href="https://www.ecfr.gov/current/title-2/part-180">2 CFR part 180</a><em>. The regulations in </em><a href="https://www.ecfr.gov/current/title-2/part-180">2 CFR part 180</a><em> restrict making Federal awards, subawards, and contracts with certain parties that are debarred, suspended, or otherwise excluded from receiving or participating in Federal awards.</em></p>
+              <p>3. Prior to establishing <strong><em>any</em></strong> subrecipient agreement/contract each city agency/entity must screen their subrecipient candidates through SAM.gov's <strong>Exclusion Listing</strong> to ensure each organization is eligible to work with both the city and federal government as well as the Maryland State Department of Assessments and Taxation (SDAT) to ensure the organization is in Good Standing with the state; moreover, <strong><u>annually</u></strong><u> all subrecipients must renew their SAM registration and each agency/entity must re-verify their subrecipients' eligibility to work with the city</u>;</p>
+              <p>4. All agencies/entities must adhere to <strong>AM-413.21 Federal Grants Registration and Unique Entity Identifier </strong>when determining eligible subrecipients.</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <para>
+      <num>5.</num>
+      <text>Beyond SAM.gov, per <strong>2 CFR §200.332(c)</strong>, <em>a pass-through entity must evaluate each subrecipient's fraud risk and risk of noncompliance with a subaward to determine the appropriate subrecipient monitoring described in </em><a href="https://www.ecfr.gov/current/title-2/section-200.332">paragraph (f)</a><em> of this section. When evaluating a subrecipient's risk, a pass-through entity should consider the following:</em></text>
+      <para>
+        <num>(1)</num>
+        <text>
+          <em>The subrecipient's prior experience with the same or similar subawards;</em>
+        </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>
+          <em>The results of previous audits. This includes considering whether or not the subrecipient receives a Single Audit in accordance with subpart F and the extent to which the same or similar subawards have been audited as a major program;</em>
+        </text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>
+          <em>Whether the subrecipient has new personnel or new or substantially changed systems; and,</em>
+        </text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>
+          <em>The extent and results of any Federal agency monitoring (for example, if the subrecipient also receives Federal awards directly from the Federal agency).</em>
+        </text>
+      </para>
+      <text>
+        <strong>
+          <u>Grant Manager/Grant Program Manager/Agency Designee</u>
+        </strong>
+      </text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>Once a subrecipient is deemed risk-free and eligible per the federal System for Award Management, accessed on SAM.gov, the agency/entity negotiates a subaward agreement that details the subrecipient's minimum requirements as a pass-through entity, as well as their operational and fiscal requirements, the subrecipient's name, UEI, Federal Award Identification Number (FAIN), Assistance Listing Number (ALN), etc. For a complete list of all requirements, reference: <strong>§200.332(b) Requirements for Pass-through Entities</strong>.</text>
+    </para>
+    <para>
+      <num>7.</num>
+      <text>After the agency/entity completes a grant agreement and the Law Department reviews it for legal sufficiency, the agency/entity submits the agreement to the Small and Minority Business Advocacy and Development Office (SMBAD) for review of potential goal setting or waiver eligibility. The agency/entity then contacts the SMBAD Office and follows their guidance for submitting the agreement and supporting documentation through the office's SmartSheet application system.</text>
+    </para>
+    <para>
+      <num>8.</num>
+      <text>The agency/entity submits the grant agreement, supporting documentation, and SMBAD documentation to the Chief Administrator's Office for review and once approved by the Administration, to the Board of Estimates' BOE Submit portal for review and final approval by the Board. A grant award is <strong><em>not approved for any spending nor action until it receives approval by the Board of Estimates.</em></strong></text>
+      <text>
+        <strong>
+          <u>Grant Manager/Grant Program Manager</u>
+        </strong>
+      </text>
+    </para>
+    <para>
+      <num>9.</num>
+      <text>Upon approval from the Board of Estimates, the agency/entity is responsible for setting up the grant as approved in the City's financial system of record. Refer to the Grants Management Office for standard operating procedures.</text>
+      <text>
+        <table class="layout-table">
+          <tbody>
+            <tr>
+              <td proof="needed"/>
+              <td proof="needed">
+                <p>In an effort to mitigate risk, the Grant Manager:</p>
+                <p><em>Monitors the activities of the subrecipient as necessary to ensure that the subaward is used for authorized purposes, in compliance with Federal statutes, regulations, and terms and conditions of the subaward; and that subaward performance goals are achieved.</em><strong>§200.332 (c) </strong>details the agency/entity's basic monitoring requirements.</p>
+                <p>10. Conducts an <em>initial risk assessment</em> to determine subrecipient risk of noncompliance and to inform a monitoring plan tailored to each subrecipient. Monitoring plans must include regular check-ins with the subrecipient at a cadence determined by the Grant Manager and subrecipient and should include at least one in-person site visit per performance period, unless otherwise specified by the terms of the agreement. Regular check-ins are intended to review performance progress, address issues, and review financials. Subrecipients deemed "low risk" may receive a monitoring plan of a minimum of quarterly check-ins, while subrecipients deemed "high risk" may receive a monitoring plan that includes monthly or weekly check-ins as well as more frequent in-person site visits. Monitoring plans are developed at the discretion of the Grant Manager and subrecipient utilizing the required risk assessment. More than one risk assessment may be conducted on a subrecipient during the performance period of the subaward, and monitoring plans may be adjusted accordingly.</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text>
+        <strong>
+          <u>Agency/Entity Subrecipient Monitoring</u>
+        </strong>
+      </text>
+    </para>
+    <para>
+      <num>11.</num>
+      <text>Upon BOE approval, conducts a kick-off meeting with the subrecipient to review the subaward reporting requirements (content, frequency, etc.), metrics, required documentation, points of contact, audit requirements, and any other specifications deemed necessary by the terms of the agreement.</text>
+    </para>
+    <para>
+      <num>12.</num>
+      <text>Reviews regular required reporting submissions from the subrecipient that includes programmatic/metric reports, expenditure reports and/or narrative reports.</text>
+    </para>
+    <para>
+      <num>13.</num>
+      <text>If the subrecipient's expenditures exceed the grant award amount, the expenditures must be moved to another funding source.</text>
+    </para>
+    <para>
+      <num>14.</num>
+      <text><em>All grant funds should be expended to carry out the purpose of the awards</em>; in other words, when managed properly, no money should be left on the grant. If funds remain, it may require the return of said funds to the sponsor, reference <strong>Uniform Guidance, Subpart D, §200.346 Collection of Amounts Due</strong>. Therefore, the Grant Manager and subrecipient must maintain ongoing communication and collaboration on all grant activities to ensure the complete expenditure of funds.</text>
+    </para>
+    <para>
+      <num>15.</num>
+      <text>Approximately 60-days after closeout, complete reconciliation of the grant in the general ledger to ensure expenditures equal revenues and confirm receipt of final drawdown request.</text>
+      <text>
+        <strong>
+          <u>City of Baltimore Subrecipients:</u>
+        </strong>
+      </text>
+    </para>
+    <para>
+      <num>16.</num>
+      <text>All subrecipients are bound to flow-down policy requirements, see <strong>2 CFR §200.303</strong>, or as detailed above in the policy statements. The flow down clause binds the subc(s) to the same terms and conditions of the award letter, the city's AM Policies, and OMB Uniform Guidance as the funding agency/entity.</text>
+    </para>
+    <para>
+      <num>17.</num>
+      <text>Remain cognizant of allowable expenditures; i.e., do not allocate money to items not in the grant's approved budget. Subrecipient's must appropriate into their own respective budgets the expected award amount based on budget proposal submitted and agreed to by the primary recipient.</text>
+    </para>
+    <para>
+      <num>18.</num>
+      <text>Provides purchase orders, invoices, and all corresponding back-up documentation to the primary recipient's fiscal office for review and approval, as outlined in the grant agreement between the agency/entity and subrecipient.</text>
+    </para>
+    <para>
+      <num>19.</num>
+      <text>Monitors and controls:</text>
+      <text>
+        <ul proof="needed">
+          <li>Employee Record Updates;</li>
+          <li>Job Requisitions;</li>
+          <li>Position Action Requests (PAR);</li>
+          <li>Hiring processes;</li>
+          <li>Terminations;</li>
+          <li>Promotions;</li>
+          <li>Grant Service Specialist (GSS) positions;</li>
+          <li>Demotions; and,</li>
+          <li>Other human resources related tasks.</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>20.</num>
+      <text>Ensures full labor reimbursement by recording employee time and effort labor reports on all    grant-related projects before the end of the following pay period, or sooner as dictated by the grant's period of performance.</text>
+    </para>
+    <para>
+      <num>21.</num>
+      <text>Maintains sufficient and appropriate controls (preparation, review, and approval) to ensure that the payroll is accurate based on personnel records and that appropriate adjustment/deductions, as well as other applicable taxation and labor laws are applied in accordance with the city's AM Policies.</text>
+    </para>
+    <para>
+      <num>22.</num>
+      <text>Ensures payroll and associated charges are assigned to multiple grants via a Journal Entry (JE) each quarter for staff members whose time must be split across multiple grants.</text>
+    </para>
+    <para>
+      <num>23.</num>
+      <text>Monitors and reconciles all purchase card charges and submits a JE within 10 working days of incurring an expense.</text>
+    </para>
+    <para>
+      <num>24.</num>
+      <text>Ensures all telephone, photocopier rental/lease(s), fleet, postal as well as any other global charges are paid within the grant's period of performance and that each of these line items are coded to an <em>open and active</em> funding source.</text>
+    </para>
+    <para>
+      <num>25.</num>
+      <text>Completes employee expense reports immediately (within 30-calendar days) after an expense is incurred. Employees who wait too long to report an expense may not be reimbursed from the grant after the period of performance ends.</text>
+    </para>
+    <para>
+      <num>26.</num>
+      <text>Ensures all employee expense reports, goods and/or services purchased with grant funds as well as all external contractor payments are incurred within the grant's period of performance.</text>
+      <text>
+        <table class="layout-table">
+          <tbody>
+            <tr>
+              <td proof="needed"/>
+              <td>31. Monitors expense claims for fraud. Fraud is an intentional act of deception, by one or more individuals that results in financial or personal gain. All City of Baltimore staff has a responsibility to both help detect and prevent fraud. For this reason, lack of proper management oversight on purchase approvals can result in undocumented risk and/or outright fraud. Therefore, <strong><em><u>all</u></em></strong> grant-related expenses submitted for payment and/or reimbursement must be approved by each agency/entity's fiscal officer/accountant.</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <para>
+      <num>32.</num>
+      <text>Complete inter-agency transfers; i.e., transfers where one agency/entity is the prime grantee, and the other is a subrecipient within (3) days of receipt of a drawdown.</text>
+    </para>
+    <para>
+      <num>33.</num>
+      <text>Do not overstate expenditures, use journal entries to transfer approved funds back to the primary agency/entity's account to zero-out any values in the subrecipient's accounts.</text>
+    </para>
+    <para>
+      <num>34.</num>
+      <text>Like the agency/entity, approximately 60-days after closeout, completes reconciliation of the grant in the general ledger to ensure expenditures equal revenues and confirm receipt of the final drawdown request.</text>
+    </para>
+    <para>
+      <num>35.</num>
+      <text>Upon approval of the subrecipient's expenses, the primary recipient processes a journal entry transferring all grant eligible costs from the subrecipient's accounts to the primary recipient's accounts in preparation of billing to the sponsor for reimbursement. Then batches in-house costs with all subrecipient costs to bill the sponsor.</text>
+    </para>
+    <para>
+      <num>36.</num>
+      <text>Submits to sponsor all required documentation, e.g., final narrative (other reports) and/or financial reports, usually within 90 days of the end of the grant's period of performance (end-date) or in accord with the subrecipient's grant agreement, whichever is sooner.</text>
+      <text>
+        <strong>
+          <u>CDBG Subrecipients</u>
+        </strong>
+        <strong>:</strong>
+      </text>
+    </para>
+    <para>
+      <num>37.</num>
+      <text>Appropriates the entire Community Development Block Grant (CDBG) into their operating budget, based on projected in-house costs and appropriations plans/amounts received from other city agencies/entities (subrecipients).</text>
+    </para>
+    <para>
+      <num>38.</num>
+      <text>Occasionally, due to the timing of the city budget, the award value of the CDBG grant from the Federal government can differ from the value appropriated. In this instance, the primary recipient and each subrecipient have to adjust their requested budgets to match funding.</text>
+      <text>
+        <strong>
+          <u>Agency/Entity</u>
+        </strong>
+        <strong>:</strong>
+      </text>
+    </para>
+    <para>
+      <num>39.</num>
+      <text>After all deliverables have been submitted and the grant's finances reconciled, refer to <strong><cite path="§AM-413-70">AM-413-70</cite> Grant Closeout </strong>and contact the Grants Management Office to complete closeout in the City's financial system of record.</text>
+    </para>
+  </para>
+  <para name="policy-owner">
+    <heading>POLICY OWNER</heading>
+    <text>The city of Baltimore' GMO is responsible for all changes and/or updates to this policy. <strong>Note:</strong> All the city's grant policies are available in the Administration Manual on BBMR's website.</text>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" proof="needed">AM Policy 413-51	BOE Approved: 9/17/2025</annotation>
+  </annotations>
+</section>

@@ -1,22 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-1.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-1</num>
-  <heading>Travel Package Overview</heading>
+  <heading>Employee Travel Package Overview</heading>
+  <text>It is the intent of this policy to encourage travel on official City business by the most economical means, e.g., discount airfare, and to maximize City savings on conference expenses, e.g., early bird registration and number of employees permitted to attend the same conference. The failure to submit a timely travel request in order to maximize city savings may result in a disapproval of or reduction in the reimbursement.</text>
+  <text>Out-of-town travel is necessary travel extending beyond City limits for the purpose of conducting official City business. This includes conferences, conventions, seminars, and other approved events dealing with topics of value to the City.</text>
+  <text>Travel within the City limits is necessary travel that does not extend beyond the City's geographic boundaries for the purpose of conducting official City business. This includes conventions, seminars, certain qualifying emergency local work and related events.</text>
+  <text>The process is initiated by the employee's submission of the <strong>Expense Report </strong>form (28-1448- 5060). It must be used by any City employee planning to attend a conference, convention, or seminar, whether out-of-town or within City limits. This request must be approved by the appropriate body, as set forth herein.</text>
+  <text>Employees should ensure compliance with the City's Public Ethics Law for any travel paid for in whole or in part by a third party who is not the employee's spouse, parent, child or sibling.</text>
+  <text>Rules governing employee travel have been separated into the following sections:</text>
+  <text>
+    <ul>
+      <li><strong>Agency Head Approval</strong> (<cite path="§AM-240-2">AM-240-2</cite>) covers the circumstances for which approval may be granted by an employee's agency head.</li>
+      <li><strong>Board of Estimates Approval</strong> (<cite path="§AM-240-3">AM-240-3</cite>) is required under certain circumstances.</li>
+      <li><cite path="§AM-240-4">AM-240-4</cite> vacant.</li>
+      <li><strong>Subsistence Allowance</strong> (<cite path="§AM-240-5">AM-240-5</cite>) specifies expenses reimbursable to City employees.</li>
+      <li><strong>High Rate Geographic Areas</strong> (<cite path="§AM-240-5-1">AM-240-5-1</cite>) establish a higher reimbursable level for certain higher cost locations.</li>
+      <li><strong>Advance Funds/Reimbursement</strong> (<cite path="§AM-240-6">AM-240-6</cite>) describes the procedures by which a City employee may obtain funds for an approved trip.</li>
+      <li><strong>Travel within City Limits</strong> (<cite path="§AM-240-7">AM-240-7</cite>) sets forth travel procedures for intra-city travel.</li>
+      <li><strong>Transportation Mode</strong> (<cite path="§AM-240-8">AM-240-8</cite>) identifies approved transportation modes.</li>
+      <li><strong>Commercial Transportation</strong> (<cite path="§AM-240-9">AM-240-9</cite>) establishes City policy regarding use of commercial transportation.</li>
+      <li><strong>Employee-Owned Vehicles</strong> (<cite path="§AM-240-10">AM-240-10</cite>) sets forth the rules about the use of personal vehicles in the conduct of City business.</li>
+      <li><strong>Employee Expense Report</strong> (<cite path="§AM-240-11">AM-240-11</cite>) specifies the requirements for the contents of an expense report.</li>
+      <li><strong>Executive Search Expenses </strong>(<cite path="§AM-240-12">AM-240-12</cite>) covers the approval process for obtaining reimbursement for expenses associated with interviewing candidates for executive level positions.</li>
+    </ul>
+  </text>
   <annotations>
-    <annotation type="History" effective="1990-10-10" display="true">October 10, 1990</annotation>
     <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>
-    <annotation type="Related Policies"><cite path="§AM-239-1-1">AM-239-1-1</cite> OUT OF TOWN TRAVEL BY ELECTED OFFICIALS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-2">AM-240-2</cite> AGENCY HEAD APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-3">AM-240-3</cite> BOARD OF ESTIMATES APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-5">AM-240-5</cite> SUBSISTENCE RATE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-5-1">AM-240-5-1</cite> HRGAs: SUBSISTENCE ALLOWANCES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-6">AM-240-6</cite> ADVANCE FUNDS/REIMBURSEMENT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-7">AM-240-7</cite> TRAVEL WITHIN CITY LIMITS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-8">AM-240-8</cite> TRANSPORTATION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-9">AM-240-9</cite> USE: COMMERCIAL TRANSPORTATION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-10">AM-240-10</cite> USE: EMPLOYEE-OWNED VEHICLES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-11">AM-240-11</cite> EMPLOYEE EXPENSE REPORT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-12">AM-240-12</cite> EXECUTIVE SEARCH EXPENSES</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
   </annotations>
 </section>

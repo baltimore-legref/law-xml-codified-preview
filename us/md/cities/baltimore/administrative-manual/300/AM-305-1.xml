@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-305-1</num>
+  <para>
+    <prefix>Part</prefix>
+    <num>I</num>
+    <heading>Control of City Inventory and</heading>
+    <para name="scope">
+      <heading>SCOPE</heading>
+      <text>This policy establishes safeguards and controls to prevent the loss, abuse, and theft of materials, tools, and equipment owned by, or leased to, the City and assigned to various City administrative units.  Adherence to these control and management procedures should reduce financial loss suffered by the City and maximize productivity of the administrative unit owning or leasing such equipment.  It is the responsibility of the agency/bureau head or designee to ensure that the established procedures are implemented.</text>
+    </para>
+    <para name="policy-requirements">
+      <heading>POLICY REQUIREMENTS</heading>
+      <text>It is the policy of The City of Baltimore that all City materials, tools, and equipment owned by, or leased to, the City:</text>
+      <para>
+        <num>1.</num>
+        <text>Be safeguarded against theft, abuse, and loss;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Be managed and utilized in a prudent and effective manner to maximize their value;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Be financially valued and depreciated in accordance with Generally Accepted Accounting Principles; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Be catalogued and inventoried and tracked in accordance with Generally Accepted Accounting Principles.</text>
+      </para>
+      <text>The Mayor's Office shall establish guidelines to implement this policy. Agencies may develop their own guidelines so long as they are as stringent as those developed by the Mayor's Office and have been reviewed and approved by the Mayor's Chief of Staff or his/her designee.</text>
+    </para>
+    <para name="identification">
+      <heading>IDENTIFICATION</heading>
+      <text>Each agency that utilizes and/or manages materials, tools, and equipment shall designate employees whose primary responsibility it is to catalogue, value, and monitor the supply of the materials, tools, and equipment. These employees may not purchase materials, tools, and equipment.</text>
+      <text>
+        <u>Materials</u>
+      </text>
+      <text>
+        <ul proof="needed">
+          <li>Management of inventories must be vested in specific individual(s) who are different than those responsible for purchasing.</li>
+          <li>Materials must be stored in a secured area reasonably protected from physical deterioration and not accessible to the public or to unauthorized employees.</li>
+          <li>Fragmentation of material storage areas must be avoided so as to facilitate control and to avoid the accumulation of excess stocks.</li>
+          <li>Materials must only be issued with a written receipt and in the quantities immediately needed.  Employees may not draw their own materials without oversight.</li>
+          <li>Surplus materials must be returned immediately to stock.  Consistent failure to have surplus materials returned to stock must be investigated.</li>
+          <li>Inventories must be maintained on regularly stocked items.</li>
+          <li>Office supplies should be physically located so that management is aware of any unusual usage by an employee.</li>
+          <li>All materials must be tagged and tracked.</li>
+        </ul>
+      </text>
+      <text>
+        <u>Tools</u>
+      </text>
+      <text>
+        <ul proof="needed">
+          <li>Hand and power tools must be issued to specific employees and a signed receipt kept for same.</li>
+          <li>The damaged original must accompany requests for replacement tools.</li>
+          <li>Records must be kept of all tools issued to each employee.  They must be inventoried periodically and upon termination.</li>
+        </ul>
+      </text>
+      <text>
+        <u>Equipment</u>
+      </text>
+      <text>
+        <ul proof="needed">
+          <li>Inventories of valuable equipment items that are easily portable, e.g., slide projectors, typewriters, desk computers, hand mowers, vacuum cleaners, mobile phones, tablets, etc., require special attention.  This equipment must be tagged, and officially assigned to a specific person who agrees to keep the equipment safeguarded.</li>
+          <li>Each item must be indelibly identified as City property that includes an identification number.</li>
+          <li>Records must be kept of all equipment. All equipment must be tracked and tagged.</li>
+          <li>An individual employee must be identified as accountable for personal use equipment.  The Unit Supervisor, where the equipment is utilized, is accountable for common equipment.</li>
+          <li>Equipment must not be loaned to another organizational unit without the signature of a responsible agency official.  The borrowing agency is accountable for the condition of the tool upon return.</li>
+          <li>Agencies must avoid keeping damaged, inoperable, or excessive equipment in stock.</li>
+          <li>Employees who damage or destroy equipment may be subject to discipline as determined by their department or agency.</li>
+          <li>Employees are not allowed to borrow equipment for personal use.</li>
+        </ul>
+      </text>
+      <text>
+        <u>Vehicles and Other Rolling Stock</u>
+      </text>
+      <text>
+        <ul proof="needed">
+          <li>The use of City vehicles must conform to all established Citywide policies.</li>
+        </ul>
+      </text>
+      <text>Software</text>
+      <text>
+        <ul proof="needed">
+          <li>Licenses for software must be managed and tracked.</li>
+          <li>The Mayor's Office of Information Technology shall develop standards and guidelines with agency input for software management distribution.</li>
+        </ul>
+      </text>
+    </para>
+    <para name="control-of-city-property">
+      <heading>CONTROL OF CITY PROPERTY</heading>
+      <text>Agencies or bureaus at the time of procurement shall identify in a uniform manner materials, tools, and equipment as:</text>
+      <para>
+        <num>1.</num>
+        <text>Either assets or expenses and as</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Either sensitive or non-sensitive.</text>
+      </para>
+      <text>Sensitive items are those items that are attractive for personnel use, pilferable, and or hazardous, and therefore require a greater degree of control and accountability. These include such items as desktop and laptop computers, smart phones, tablets, firearms, medicinal drugs, caustic chemicals, etc.</text>
+      <text>Unless otherwise specified by law, contract, or other binding agreement, all items purchased using City funds that are considered non-sensitive with a value of $500 or more, or sensitive with a value of $250 or more must be physically tagged.</text>
+      <text>All City Property, when no longer needed by the City agency with possession of or control over the property, must be transferred or disposed of in accordance with the Property Disposal Program  (see <cite path="§AM-306-1">AM-306-1</cite> and <cite path="§AM-306-1-1">AM-306-1-1</cite>) and categorized as one of the following:</text>
+      <text>
+        <ul proof="needed">
+          <li>Excess property, as defined in <cite path="§AM-306-1">AM-306-1</cite>;</li>
+          <li>Surplus property, as defined in <cite path="§AM-306-1">AM-306-1</cite>;</li>
+          <li>Salvage property, as defined in <cite path="§AM-306-1">AM-306-1</cite>; or</li>
+          <li>Scrap property, as defined in <cite path="§AM-306-1">AM-306-1</cite>.</li>
+        </ul>
+      </text>
+      <text>All City Property that is procured or otherwise acquired by the City with the sole intention of transferring ownership to another party (e.g. program incentive gifts, promotional items, emergency preparedness supplies, back-to-school supplies, employee awards) shall be clearly marked as such, and should not be counted as City inventory.</text>
+      <text>Agencies or Bureaus shall:</text>
+      <text>
+        <ul proof="needed">
+          <li>Ensure all City Property is valued and managed in accordance with Generally Accepted Accounting Principles and</li>
+          <li>Cataloged in a secure, reliable, and protected inventory management system that has been authorized or recommended by the Mayor's Office of Information Technology.</li>
+        </ul>
+      </text>
+      <text>From time to time, the Department of Finance shall request financial information pertaining to asset depreciation as well as the cost, use, and procedures for safeguarding and managing materials, tools, and equipment.</text>
+      <text>Agencies or Bureaus shall physically count all materials, tools, and equipment at least once per fiscal year and establish a procedure for performing continuous cycle counts for high-theft and/or high-dollar items. The Director of Finance may determine special procedures certain when necessary.</text>
+      <text>All sensitive items shall be assigned to an owner who is responsible for its safekeeping.</text>
+      <text>The custodial agency with inventory items or assets that have a set shelf life or expiration date, or a warranty period, should include this information in the inventory and/or asset tracking system (e.g. ballistic vests, pharmaceuticals, replacement windows).</text>
+    </para>
+    <para name="asset-management">
+      <heading>ASSET MANAGEMENT</heading>
+      <text>Assets are resources controlled by the City that have value and from which future economic benefits may be derived. In addition to investments and funds, assets include property and structures, as well as certain materials, tools, and equipment.</text>
+      <text>Agencies or bureaus controlling assets shall manage City assets in accordance with Generally Accepted Accounting Principles and AM305-1 Part III Capital Assets and Accounting.</text>
+    </para>
+    <annotations/>
+  </para>
+  <para>
+    <prefix>Part</prefix>
+    <num>II</num>
+    <heading>Inventory System: Stock Items</heading>
+    <para name="scope">
+      <heading>SCOPE</heading>
+      <text>An inventory system must provide a continuous running record of the items on hand.  In particular, it aids control and safeguard of items.  An inventory record is maintained on a current basis for each item of inventory.  The record will provide for recording recipients, issues, and balances on hand, usually in both quantities and dollar amounts.  Thus, the physical amount and evaluation of items on hand at any time are readily available from the accounting records.  With such a record, it is possible to guide material procurement by establishing points on minimum and maximum quantities for each standard item stocked.  Inventory records discourage inventory theft and waste, since storekeepers and other employees are aware of the accountability of goods established by this continuous record of goods received, issued, and on hand.</text>
+    </para>
+    <para name="inventory-system">
+      <heading>INVENTORY SYSTEM</heading>
+      <text>In accordance with <cite path="§AM-305-1, Part I">AM-305-1, Part I</cite>, all agencies shall conduct a physical count of all inventories controlled by the agency at least once per year, unless otherwise specified by grant or contract.  When a discrepancy is found, the inventory records must be adjusted to the physical count.  Differences, other than nominal amounts, must be investigated.  The Chief of the Bureau of Accounting and Payroll Services as well as the City Inventory Control Officer should be consulted relative to establishing an inventory control system.  For this purpose, an INVENTORY RECORD (28-1408-5157) may be utilized.</text>
+    </para>
+    <para name="physical-inventory-process">
+      <heading>PHYSICAL INVENTORY PROCESS</heading>
+      <text>
+        <ul proof="needed">
+          <li>Designate employees to assume responsibility for the physical inventory other than employees responsible for storerooms and inventory records. For sizable inventories, a consultant may be utilized.</li>
+          <li>Select the most advantageous date or dates for inventory taking.</li>
+          <li>Review procedures followed in preceding year(s).</li>
+          <li>Design and implement sheets, summary sheets, and other necessary forms.  Serially numbered inventory count tags are usually attached to each lot of goods during the taking of physical inventory.</li>
+          <li>Utilize an electronic tracking system approved by the Mayor's Office of Information Technology.</li>
+          <li>Preparation of written instructions for all persons who are to participate in the physical inventory.</li>
+          <li>Arrange for cut-off of goods received and internal transfers while the inventory is being taken.</li>
+          <li>Control all documents throughout the inventory taking, costing, and summarizing periods.</li>
+          <li>Prepare a list of all locations where the inventory is stored.</li>
+          <li>Employees whose duties do not include physical custody of inventories or perpetual inventory record keeping should perform physical counts.</li>
+          <li>Segregate obsolete or damaged goods and materials and dispose of the same by established procedures.</li>
+          <li>Inventory counts should be subject to adequate verification, i.e., recounts or spot checks.</li>
+          <li>Investigate and resolve any difference between physical counts and inventory records.</li>
+          <li>Ensure all sensitive items, as defined in <cite path="§AM-305-1, Part I">AM-305-1, Part I</cite>, are appropriately tagged.</li>
+        </ul>
+      </text>
+    </para>
+    <para name="reporting-requirements">
+      <heading>REPORTING REQUIREMENTS</heading>
+      <text>When a theft or diversion is identified or suspected, there are several alternative reporting requirements depending on the circumstances.</text>
+      <text>
+        <ul proof="needed">
+          <li>If there is physical evidence that the loss resulted from a theft, for example, breaking and entering, the Police Department should be contacted.  Similarly, the Police Department should also be contacted if there is obvious evidence of a theft such as an employee being seen taking City property for personal use.  In addition to notifying the Police Department, the City's Insurance Manager must be notified of such losses.</li>
+          <li>If there are suspicions or allegations of theft or diversion by an employee, the Agency should undertake an inquiry calling on the Department of Audits from appropriate assistance.  The Department of Audits will coordinate the reporting of such crime(s) to the Office of the State's Attorney, the State Prosecutor's Office, or other appropriate channels.  Minor thefts or diversions involving City employees will be dealt with by the agency head for appropriate disciplinary action.</li>
+          <li>Agency heads who become aware of irregularities, must report the matter immediately to the City Solicitor by MEMORANDUM for recommendations as to appropriate actions to be taken.</li>
+          <li>Another reporting mechanism available to all employees is the City Fraud Hotline, 396-3589.</li>
+        </ul>
+      </text>
+      <text>IMPELEMENTATION</text>
+      <text>Unless otherwise specified by law, contract, or other binding agreement, agencies may adopt a separate process or policy, subject to approval by the Director of Finance that is at least as stringent as this policy.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1989-04-27" display="true">April 27, 1989</annotation>
+    <annotation type="History" effective="2016-11-02" display="true">November 2, 2016</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-305-1|II" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-306-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-306-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-305-1|I" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-5" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-5-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-505-1" type="Related Policies"/>
+  </annotations>
+</section>

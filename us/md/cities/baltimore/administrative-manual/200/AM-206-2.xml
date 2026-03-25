@@ -23,7 +23,7 @@
   <annotations>
     <annotation type="History" effective="1998-03-26" display="true">March 26, 1998</annotation>
     <annotation type="History" effective="2001-12-18" display="true">December 18, 2001</annotation>
-    <annotation type="Related Policies"><cite path="§AM-206-1">AM-206-1</cite> EMPLOYEES' RETIREMENT SYSTEM</annotation>
-    <annotation type="Related Policies"><cite path="§AM-206-2-1">AM-206-2-1</cite> PRE-RETIREMENT SEMINAR REGISTRATION FORM</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-206-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-206-2-1" type="Related Policies"/>
   </annotations>
 </section>

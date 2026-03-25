@@ -97,6 +97,6 @@
   <annotations>
     <annotation type="History" effective="2001-01-01" display="true">January 1, 2001</annotation>
     <annotation type="History" effective="2010-09-15" display="true">September 15, 2010</annotation>
-    <annotation type="Related Policies"><cite path="§AM-306-1-1">AM-306-1-1</cite> Procedure for Declaring Excess Property</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-306-1-1" type="Related Policies"/>
   </annotations>
 </section>

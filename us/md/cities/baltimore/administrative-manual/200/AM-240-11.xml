@@ -1,14 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-11.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-11</num>
   <heading>Employee Expense Report</heading>
+  <text>An Expense Report (28-1448-5060) must be submitted for:</text>
+  <text>
+    <ul>
+      <li>reimbursement of personal vehicle mileage expenses for City-related travel.</li>
+      <li>all approved travel reimbursement requests.</li>
+    </ul>
+  </text>
+  <text>A separate Expense Report must normally be submitted for each instance of travel. However, more than one (1) such trip may be listed on a single Expense Report if reimbursement is not required for lodging.</text>
+  <text>An Expense Report must also be used to request reimbursement for other legitimate expenses. The following non-exclusive examples are items which may be reimbursable expenses when incurred for City business: telephone calls, wireless phone calls which are circled on original bill, parking meter fees, parking lots with receipts, and subway and light rail transportation.</text>
+  <para name="deadline-for-submission-of-report">
+    <heading>DEADLINE FOR SUBMISSION OF REPORT</heading>
+    <text>
+      <u>Local Expenses</u>
+    </text>
+    <text>The Expense Report must be received by the Bureau of Accounting and Payroll Services within 30 days of the last calendar day of the month in which the expenses were incurred. Expenses submitted after this time limit will not be reimbursed without written approval of the Board of Estimates.</text>
+    <text>
+      <u>Out-of-Town Expenses</u>
+    </text>
+    <text>The Expense Report must be received by the Bureau of Accounting and Payroll Services within 30 days from the day on which the employee returns from the trip.</text>
+  </para>
+  <para name="maryland-sales-tax">
+    <heading>MARYLAND SALES TAX</heading>
+    <text>The City is exempt from payment of the Maryland sales tax. The City's tax exemption, 3000055-9, must be supplied to the vendor or supplier at the time of purchase. Reimbursement of the Maryland sales tax will not be made in those cases where an agency or employee fails to use the City's tax exemption number.</text>
+  </para>
+  <para name="required-receipts">
+    <heading>REQUIRED RECEIPTS</heading>
+    <text>An Expense Report must be accompanied by the appropriate receipts, as set forth above.</text>
+  </para>
   <annotations>
-    <annotation type="History" effective="1989-07-19" display="true">July 19, 1989</annotation>
     <annotation type="History" effective="2005-03-02" display="true">March 2, 2005</annotation>
-    <annotation type="Related Policies"><cite path="§AM-239-1">AM-239-1</cite> ELECTED OFFICIALS' BUSINESS EXPENSES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDER</annotation>
-    <annotation type="Related Policies"><cite path="§AM-303-2">AM-303-2</cite> TAX EXEMPT CERTIFICATE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-401-1">AM-401-1</cite> PETTY CASH FUNDS</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-3" type="Related Policies"/>
   </annotations>
 </section>

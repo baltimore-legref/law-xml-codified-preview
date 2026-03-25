@@ -188,10 +188,10 @@
   <annotations>
     <annotation type="History" effective="1992-01-09" display="true">January 9, 1992</annotation>
     <annotation type="History" effective="2007-05-18" display="true">May 18, 2007</annotation>
-    <annotation type="Related Policies"><cite path="§AM-203-2">AM-203-2</cite> Family and Medical Leave</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-23">AM-204-23</cite> Health Care Benefits Program</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-28">AM-204-28</cite> COBRA</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-29">AM-204-29</cite> Domestic Partner Benefits</annotation>
-    <annotation type="Related Policies"><cite path="§AM-213-1">AM-213-1</cite> Reinstatement Following Separation from City Service</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-23" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-28" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-29" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1" type="Related Policies"/>
   </annotations>
 </section>

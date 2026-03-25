@@ -81,12 +81,12 @@
   <annotations>
     <annotation type="History" effective="1989-07-01" display="true">July 1, 1989</annotation>
     <annotation type="History" effective="1998-07-16" display="true">July 16, 1998</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-30">AM-204-30</cite> DETERMINATION OF BENEFITS: PART I</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-31">AM-204-31</cite> DETERMINATION OF BENEFITS: PART II</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-1">AM-205-1</cite> SALARY</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-8">AM-205-8</cite> EMPLOYEE LAYOFFS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-232-1-1">AM-232-1-1</cite> FILLING A PERMANENT POSITION BY HIRING OR TRANSFER</annotation>
-    <annotation type="Related Policies"><cite path="§AM-236-1">AM-236-1</cite> PROBATIONARY PERIOD</annotation>
-    <annotation type="Related Policies">AM-290 SALARY SCHEDULES</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-30" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-31" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-8" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-232-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-236-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-290" type="Related Policies"/>
   </annotations>
 </section>

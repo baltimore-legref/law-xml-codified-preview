@@ -12,7 +12,7 @@
     <text>Requests for postage stamps should be based on extenuating circumstances that prevent the agency to utilize the MPO. Requisitions for postage stamps, related postal supplies and services must be sent to Accounting Operations for disbursement, but must be initially processed by the MPO since they are responsible for approval. All postage stamps and postal related supplies, equipment and services within the City government are provided by the MPO's procurement. Use of all postage stamps and postal related supplies, equipment and services must be reviewed by the Director of Communication Services in all relative matters involving the above mentioned services and equipment.</text>
     <text>This addresses all postal-related service and equipment including, but not limited to:</text>
     <text>
-      <ul proof="needed">
+      <ul>
         <li>Consultants</li>
         <li>Maintenance</li>
         <li>Training</li>
@@ -103,8 +103,8 @@
   <annotations>
     <annotation type="History" effective="1987-10-08" display="true">October 8, 1987</annotation>
     <annotation type="History" effective="2012-08-22" display="true">August 22, 2012</annotation>
-    <annotation type="Related Policies"><cite path="§AM-102-1">AM-102-1</cite> MAILING ADDRESSES AND POSTAL DELIVERY</annotation>
-    <annotation type="Related Policies"><cite path="§AM-503-1-1">AM-503-1-1</cite> OBTAINING POSTAGE STAMPS AND RELATED POSTAL SUPPLIES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-503-1-2">AM-503-1-2</cite> CHARGE TICKET: MUNICIPAL POST OFFICE</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-102-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-503-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-503-1-2" type="Related Policies"/>
   </annotations>
 </section>

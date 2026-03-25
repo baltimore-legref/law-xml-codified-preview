@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-500-1</num>
+  <heading>Smoke-Free Workplace</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>The City of Baltimore is committed to workplace safety. As part of this commitment, it shall be the policy of the City to provide a smoke-free work environment for all employees, contractors, and visitors doing business on City premises. This policy is designed in compliance with the Maryland Clean Indoor Air Act, MD. CODE ANN., Health-General § 24-501-511 (2012) and the Baltimore City Health Code, Title 12, § 12-101-112.</text>
+  </para>
+  <para name="no-smoking-policy">
+    <heading>NO-SMOKING POLICY</heading>
+    <text>Smoking is strictly prohibited in any City-owned/leased buildings, including all indoor areas, partially enclosed area (such as the Benton Building), any areas open to the public, building entrances and lobbies, conference rooms, classrooms, private offices, reception areas, lounges, lunch and break rooms, lavatories, stairwells, hallways, elevators, loading docks, garages, and any other enclosed area. As part of this policy, smoking is prohibited within fifty [50] feet of the entrance or exit of a City-owned/leased building. This policy prohibits smoking in all Cityowned/leased vehicles, including all motorized equipment. Smoking is also prohibited in personal vehicles when transporting passengers on City business.</text>
+    <text>Employees who choose to smoke during work hours must do so only during regularly scheduled breaks or meal periods. These employees must remain more than fifty [50] feet from a Cityowned/leased building entrance or exit. No additional breaks may be taken for the purpose of smoking. Employees who take unauthorized breaks for smoking or any other reason may be disciplined up to and including termination.</text>
+    <text>This policy shall be in effect at all times, including before, during, and after work hours. This policy shall apply to all City employees and contractors whether full or part-time, probationary, seasonal, or temporary with the exception of police and fire personnel. Members of the Baltimore City Police and Fire Departments shall adhere to their departmental policies governing designated smoking areas.</text>
+    <text>The No-Smoking Policy shall also apply to elected officials, their staff, and their visitors. Additionally, vendors, volunteers, and all other visitors are subject to this policy and must refrain from smoking while in City buildings and vehicles as noted in this policy.</text>
+  </para>
+  <para name="consequences-of-violations">
+    <heading>CONSEQUENCES OF VIOLATIONS</heading>
+    <text>
+      <strong>Employees</strong>
+    </text>
+    <text>Persons observing a violation of this policy should bring it to the attention of a supervisor. Violations may result in disciplinary action up to and including termination. Failure to comply with this policy by employees who drive City owned vehicles may result in suspension or revocation of the employee's City of Baltimore Driver Permit.</text>
+    <text>
+      <strong>Non-Employees</strong>
+    </text>
+    <text>Any vendor, volunteer, or other visitor who fails to comply will be advised of the policy and asked to immediately cease smoking. If compliance is not forthcoming, the visitor will be asked to leave the premises for the day or for some other specified period of time, as appropriate.</text>
+  </para>
+  <para name="retaliation-prohibited">
+    <heading>RETALIATION PROHIBITED</heading>
+    <text>Retaliation against individuals for reporting violations of this policy will not be tolerated and will serve as the basis for immediate disciplinary action up to including termination from employment. Concerns about retaliation should be promptly reported to an agency Human Resources representative or the agency's EEO Office.</text>
+  </para>
+  <para name="smoking-cessation-opportunities">
+    <heading>SMOKING CESSATION OPPORTUNITIES</heading>
+    <text>The City of Baltimore would like to help all interested employees quit smoking. Information about smoking cessation is available through the City's Employee Assistance Program (EAP). The EAP office can be reached at 410-396-1859. The Baltimore City Health Department (BCHD) also offers programs designed to help people stop smoking. BCHD can be reached at 410-396-4398.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2012-08-22" display="true">August 22, 2012</annotation>
+    <annotation type="History" effective="2012-12-12" display="true">December 12, 2012</annotation>
+  </annotations>
+</section>

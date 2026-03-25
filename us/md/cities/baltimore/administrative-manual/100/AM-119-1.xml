@@ -22,7 +22,7 @@
   </para>
   <annotations>
     <annotation type="History" effective="2004-05-26" display="true">May 26, 2004</annotation>
-    <annotation type="Related Policies"><cite path="§AM-118-1">AM-118-1</cite> Electronic Communication Policy</annotation>
-    <annotation type="Related Policies"><cite path="§AM-502-1">AM-502-1</cite> Records Management</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-118-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-502-1" type="Related Policies"/>
   </annotations>
 </section>

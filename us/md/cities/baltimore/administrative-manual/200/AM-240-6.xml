@@ -1,14 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-6.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-6</num>
   <heading>Advance Funds/Reimbursement</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>There are two (2) methods for funding authorized travel by City representatives: advance travel money and/or post-trip reimbursement.</text>
+  </para>
+  <para name="advance-travel-money">
+    <heading>ADVANCE TRAVEL MONEY</heading>
+    <text>A City employee may request funds for authorized travel at least 20 days prior to the date of travel by submitting an Expense Report (28-1448-5060) to the Department of Finance, Accounting and Payroll Services, Accounts Payable Unit. A minimum of 10 work days should be allowed for the processing.</text>
+  </para>
+  <para name="accountability">
+    <heading>ACCOUNTABILITY</heading>
+    <text>Employees must account for all expenditures pertaining to advance travel funds by submitting a memo containing the following information to the Bureau of Accounting and Payroll Services:</text>
+    <text>
+      <ul>
+        <li>employee's name</li>
+        <li>employee's social security number</li>
+        <li>check number corresponding to the advance funds issued</li>
+        <li>all original receipts</li>
+      </ul>
+    </text>
+  </para>
+  <para name="post-trip-reimbursement-of-expenses">
+    <heading>POST-TRIP REIMBURSEMENT OF EXPENSES</heading>
+    <text>City representatives may request reimbursement of authorized travel expenses by submitting an Expense Report (28-1448-5060) with all required receipts to the Accounts Payable Unit within 10 work days of their return. The Accounts Payable Unit will verify all expenses incurred and issue a check to the employee for the approved reimbursement amount.</text>
+  </para>
+  <para name="travel-at-the-expense-of-city-contractors">
+    <heading>TRAVEL AT THE EXPENSE OF CITY CONTRACTORS</heading>
+    <text>When a contract provides for the contractor to be responsible for the expense of City employee travel in connection with administering the contract, the City employee's expenses will be reimbursed by the City. Employees may request reimbursement of travel expenses by submitting an Expense Report with all required original receipts to the Accounts Payable Unit will verify all expenses incurred and issue a check to the employee for the approved reimbursement.</text>
+    <text>The City will then obtain reimbursement for the expenses from the contractor. This process must be initiated by the requesting employee's supervisor who must submit a memo to the Bureau of Accounting and Payroll Services, Accounts Payable Unit, 401 E. Fayette Street, with the following information:</text>
+    <text>
+      <ul>
+        <li>Name and address of the contractor to be billed</li>
+        <li>Total amount to be billed</li>
+        <li>Brief explanation relative to the bill</li>
+        <li>Account number to be credited with payment received from the City contractor</li>
+      </ul>
+    </text>
+    <text>The Accounts Payable Unit will bill the City contractor and credit the appropriate account when payment is received.</text>
+  </para>
+  <para name="over-expenditure-limits">
+    <heading>OVER-EXPENDITURE LIMITS</heading>
+    <text>No reimbursement will be authorized if the employee experiences an over-expenditure as a result of City approved travel if the cost overrun exceeds $40 unless approved by the Board of Estimates. It is the responsibility of the employee to submit accurate and timely travel requests at the time of Board of Estimates/Agency Head approval. Failure of the employee to do so may result in disapproval of any amendment request.</text>
+  </para>
+  <para name="unexpended-travel-funds">
+    <heading>UNEXPENDED TRAVEL FUNDS</heading>
+    <text>Unexpended travel funds must be accounted for and returned. Refunds are to be made by check or money order only, payable to the Director of Finance, City of Baltimore; cash should not be used. The accounting of expenditures and the check/money order or validated cash slip should be submitted to the Accounts Payable Unit within 10 work days of the representative's return.</text>
+    <text>Expenses cannot be offset from one item to another. All returns of unexpended travel funds submitted to Accounts Payable Unit will be deposited to the appropriate account from which advance travel funds were drawn.</text>
+  </para>
   <annotations>
-    <annotation type="History" effective="1990-10-10" display="true">October 10, 1990</annotation>
     <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>
-    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDER</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-2">AM-240-2</cite> AGENCY HEAD APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-3">AM-240-3</cite> BOARD OF ESTIMATES APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-11">AM-240-11</cite> EMPLOYEES EXPENSE REPORT</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-3" type="Related Policies"/>
   </annotations>
 </section>

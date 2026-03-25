@@ -33,12 +33,12 @@
   </para>
   <annotations>
     <annotation type="History" effective="1991-07-03" display="true">July 3, 1991</annotation>
-    <annotation type="Related Policies"><cite path="§AM-301-1">AM-301-1</cite> PURCHASING</annotation>
-    <annotation type="Related Policies"><cite path="§AM-301-1-1">AM-301-1-1</cite> COMPLETING A REQUISITION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDERS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-401-1">AM-401-1</cite> PETTY CASH FUND</annotation>
-    <annotation type="Related Policies"><cite path="§AM-508-1">AM-508-1</cite> STATIONERY</annotation>
-    <annotation type="Related Policies"><cite path="§AM-508-1-1">AM-508-1-1</cite> ORDERING STATIONERY</annotation>
-    <annotation type="Related Policies"><cite path="§AM-508-2-1">AM-508-2-1</cite> ORDERING BUSINESS CARDS</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-301-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-301-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-303-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-401-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-508-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-508-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-508-2-1" type="Related Policies"/>
   </annotations>
 </section>

@@ -1,10 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-5-1.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-5-1</num>
   <heading>Subsistence Rates for High Rate Geographic Areas</heading>
+  <text>Subsistence rates (per diem) are the allowances for lodging (excluding taxes), meals and incidental expenses. The federal government establishes per diem rates for destinations within the lower 48 states of the United States, foreign rates (for example, Russia, Aruba, Bahamas, Europe, etc.) and non-foreign rates such as Alaska, Hawaii, Puerto Rico, and Guam ("GSA rates").</text>
+  <text>Rates are set by federal fiscal year, effective October 1 each year. More information on per diem rates can be found on<a href="http://www.gsa.gov/portal/category/21287">http://www.gsa.gov/portal/category/21287.</a></text>
   <annotations>
-    <annotation type="History" effective="2018-11-21" display="true">November 21, 2018</annotation>
     <annotation type="History" effective="2019-11-14" display="true">November 14, 2019</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-3" type="Related Policies"/>
   </annotations>
 </section>

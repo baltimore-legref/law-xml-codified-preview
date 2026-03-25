@@ -1,16 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-3.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-3</num>
-  <heading>Board of Estimates Approval</heading>
+  <heading>Board of Estimates Approval of Employee Travel</heading>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy establishes those conditions that require disclosure to and approval of the Board of Estimates for employee travel. An employee is expected to present his Expense Report (28-1448- 5060) at least 20 calendar days or more in advance of the travel date. Planning should be done at least 30 days before the travel date in order to maximize City savings for air travel and conference registration costs.</text>
+  </para>
+  <para name="requirements">
+    <heading>REQUIREMENTS</heading>
+    <text>The approval of the Board of Estimates is required for an employee's travel request for City business if any of the following conditions exists:</text>
+    <text>
+      <ul>
+        <li>the travel costs will exceed $800. This requirement applies to all employee travel, even if done in connection with or under the auspices of a City contract.</li>
+        <li>the City employee's absence will exceed five consecutive work days or involves one or more weekend days.</li>
+        <li>compensatory leave or overtime work will be necessary for employees while in travel status, except for non-traveling employees performing work related responsibilities in connection with the travel.</li>
+        <li>the trip will require travel outside the lower 48 states of the United States.</li>
+        <li>expenses of a candidate who interview(s) for an executive level position with the City government exceed $800 for the first interview or exceed an additional $800 for a second interview of the same candidate for the same position.</li>
+        <li>the amendment request to the original approved travel amount is for $40 or more, or if combined with approved travel amounts, exceeds $800.</li>
+        <li>the travel is paid for by a third party and its value exceeds $100, or if combined with the amount paid for by the City, exceeds $800.</li>
+      </ul>
+    </text>
+    <text>Travel requests submitted to the Board of Estimates for approval of more than 1 person from an agency per event will normally not be granted. Substantiation for additional attendees to the same event is required with the submission. The Board of Estimates must approve requests for travel prior to the date of the planned travel.</text>
+    <text>This section does not apply to elected officials. Travel rules and procedures for them are set forth in <cite path="§AM-239-1-1">AM-239-1-1</cite> and <cite path="§AM-239-1-2">AM-239-1-2</cite>.</text>
+  </para>
+  <para name="trip-report">
+    <heading>TRIP REPORT</heading>
+    <text>City employees approved for out-of-town travel may be selected at random to present trip reports at an open meeting of the Board of Estimates. The reports must specify how the information obtained as a result of approved travel can be applied to the employee's work responsibilities.</text>
+  </para>
+  <para name="cancellation-of-trip">
+    <heading>CANCELLATION OF TRIP</heading>
+    <text>If it becomes necessary to cancel or curtail a trip which has already been approved by the Board of Estimates and for which an advance of funds has been made or incurred, the City agency and/or the employee must notify the Board of the cancellation or curtailment and of the reason for it. The notice should also state if there are any expenses for which the representative nevertheless seeks reimbursement. The Board must be notified of all cancellations or curtailment within 10 work days after the end date of the proposed trip.</text>
+    <text>Any funds advanced that have already been disbursed must be returned to the Accounts Payable Unit as described in <cite path="§AM-240-2">AM-240-2</cite> Cancellation of Trip.</text>
+  </para>
+  <para name="substitution">
+    <heading>SUBSTITUTION</heading>
+    <text>An employee may not be substituted as the City representative on a previously approved trip unless the individual's name is submitted to the Board of Estimates and approved prior to the date of the trip.</text>
+    <text>Agency heads may make substitutions in an emergency situation if Board of Estimates approval is sought at the next regularly scheduled meeting of the Board. In such circumstances where an advance of funds has occurred to another employee, that employee must return all funds, as directed above, and the funds may not be transferred to another City employee.</text>
+  </para>
   <annotations>
-    <annotation type="History" effective="1990-10-10" display="true">October 10, 1990</annotation>
     <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-1">AM-240-1</cite> TRAVEL PACKAGE OVERVIEW</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-2">AM-240-2</cite> AGENCY HEAD APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-5">AM-240-5</cite> SUBSISTENCE ALLOWANCE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-5-1">AM-240-5-1</cite> SUBSISTENCE: HIGH RATE GEOGRAPHIC AREAS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-6">AM-240-6</cite> ADVANCE FUNDS/REIMBURSEMENT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-10-1">AM-240-10-1</cite> USE: EMPLOYEE-OWNED VEHICLES</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-2" type="Related Policies"/>
   </annotations>
 </section>

@@ -90,8 +90,8 @@
   </para>
   <annotations>
     <annotation type="History" effective="2003-06-12" display="true">June 12, 2003</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-7">AM-205-7</cite> SEPARATION AND PAYMENT AT TERMINATION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-217-3-1">AM-217-3-1</cite> NOTIFICATION OF OVERPAYMENT (MEMO TO EMPLOYEE)</annotation>
-    <annotation type="Related Policies"><cite path="§AM-234-1">AM-234-1</cite> TEMPORARY OR SEASONAL APPOINTMENTS</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-217-3-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-234-1" type="Related Policies"/>
   </annotations>
 </section>

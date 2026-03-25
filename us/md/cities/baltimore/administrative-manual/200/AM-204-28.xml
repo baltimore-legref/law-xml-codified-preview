@@ -119,10 +119,10 @@
   <annotations>
     <annotation type="History" effective="2001-10-05" display="true">October 5, 2001</annotation>
     <annotation type="History" effective="2008-05-14" display="true">May 14, 2008</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-23">AM-204-23</cite> HEALTH CARE PROVISIONS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-24">AM-204-24</cite> PRESCRIPTION DRUG PROGRAM</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-25">AM-204-25</cite> HEALTH INCENTIVE REIMBURSEMENT PROGRAM FOR PHYSICAL EXAMINATIONS, PHYSICAL FITNESS, VISION CARE OR DENTAL CARE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-26">AM-204-26</cite> OPTICAL/VISION PROGRAM</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-27">AM-204-27</cite> OPTIONAL LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLANS</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-23" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-24" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-25" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-26" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-27" type="Related Policies"/>
   </annotations>
 </section>

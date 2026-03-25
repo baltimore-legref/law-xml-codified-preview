@@ -26,10 +26,10 @@
   <annotations>
     <annotation type="History" effective="1990-01-01" display="true">January 1, 1990</annotation>
     <annotation type="History" effective="1997-07-01" display="true">July 1, 1997</annotation>
-    <annotation type="Related Policies"><cite path="§AM-205-8">AM-205-8</cite> LAYOFF OF EMPLOYEES IN CIVIL SERVICE CLASSES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> LEAVE OF ABSENCE WITHOUT PAY</annotation>
-    <annotation type="Related Policies"><cite path="§AM-213-1, Part I">AM-213-1, Part I</cite> REINSTATEMENT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-213-1, Part II">AM-213-1, Part II</cite> SUBSEQUENT EMPLOYMENT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-232-1">AM-232-1</cite> PERMANENT POSITIONS AND EMPLOYEES</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-8" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-208-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|I" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|II" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-232-1" type="Related Policies"/>
   </annotations>
 </section>

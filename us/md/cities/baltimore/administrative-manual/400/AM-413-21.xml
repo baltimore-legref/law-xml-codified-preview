@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-413-21</num>
+  <heading>Federal Grants Registration and Unique Entity Identifier</heading>
+  <para name="purpose">
+    <heading>PURPOSE</heading>
+    <text>All agencies/entities - to include all federal subrecipients as defined by <strong>2 CFR 200.1</strong> and <strong>AM Policy 413.51 Grant Subrecipient Monitoring &amp; Management</strong> - within the city of Baltimore (COB) that manage grant funds are required to register with the System for Award Management (SAM.gov) and have a Unique Entity Identifier (UEI). This policy details the process agencies/entities are required to go through to obtain a UEI and to update their credentials with SAM.gov annually.</text>
+  </para>
+  <para name="scope">
+    <heading>SCOPE</heading>
+    <text>This policy is applicable to all city of Baltimore (COB) agencies/entities that use grant funding, as well as any other organizations for which the city serves as a grantor, pass-through entity, or contributes grant resources.</text>
+  </para>
+  <para name="policy-statement">
+    <heading>POLICY STATEMENT</heading>
+    <para>
+      <num>1.</num>
+      <text>The federal government's System for Award Management is accessed online via SAM.gov and is used by entities to register and conduct business with the federal government. SAM identifies any parties receiving federal contracts, certain subcontracts, and various types of federal financial and non-financial assistance and benefits. Per <strong>2 CFR Part 180</strong>, <em>non-Federal entities are prohibited from contracting with or making subawards under covered transactions to parties that are suspended or debarred or have been identified as parties excluded from receiving Federal contracts, certain subcontracts, and participation in grant-funded projects.</em></text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Prior to establishing <strong><em>any</em></strong> subrecipient agreement/contract, each city agency/entity must screen their subrecipient candidates through SAM's <strong>Exclusion Listing</strong> to ensure each individual or organization is eligible to work with both the city and federal government; moreover, <u>all agencies/entities must renew their SAM registration annually and each agency/entity must re-verify their subrecipients' eligibility to work with the city</u>.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>In addition, all city entities and subrecipients receiving federal funds must have a <strong>Unique Entity Identifier</strong> (UEI) number assigned by SAM.gov (to uniquely identify each entity) as part of the standard process for conducting business with the federal government. This unique number is used to identify each entity for reporting and oversight purposes. The UEI number replaces the DUNS number for the federal government.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Per <strong>OMB 2CFR, Subtitle A, Chapter I, Appendix A to Part 25 – Award Term I (a) 1</strong>, (<em>unless exempt from this requirement under </em><strong><em>2 CFR 25.110</em></strong>)<em>, </em>every<em> recipient </em>(agency/entity that receives and manages grants for the COB) <em>must maintain a current and active registration in </em>SAM.gov<em>, </em>and ensure that their SAM.gov registration<em> always be current and active until the recipient submits all final reports required under this Federal award or receives the final payment, whichever is later. </em>In addition, all COB grant funded agencies/entities<em> must review and update </em>their<em> information in </em>SAM.gov<em> at least annually from the date of </em>the<em> initial registration or any subsequent updates to ensure </em>that all city of Baltimore's agencies/entity's registrations are<em> current, accurate, and complete. If applicable, this includes identifying the recipient's immediate and highest-level owner and subsidiaries and providing information about the recipient's predecessors that have received a Federal award or contract within the last three years.</em></text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>Per <strong>OMB 2CFR, Subtitle A, Chapter I, Appendix A to Part 25 – Award Term (b)(1)(i) </strong>if the agency/entity <em>is authorized to make subawards under this Federal award,</em> they:</text>
+      <para>
+        <num>(i)</num>
+        <text><em>Must notify potential subrecipients that no entity may receive a subaward until the entity has provided its UEI to the recipient</em>; and,</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text><em>Must not make a subaward to an entity unless the entity has provided its UEI to the recipient. Subrecipients are not required to complete full registration in </em>SAM.gov<em> to obtain a UEI</em>.</text>
+        <text>All agencies/entities seeking to obtain grant funds must coordinate their efforts to register with SAM and obtain a UEI with the Grants Management Office (GMO).</text>
+      </para>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>The Grants Management Office (GMO) oversees all UEI number renewals and registrations for the City of Baltimore's agencies/entities, and agencies/entities with their own specific UEI number are required to provide SAM.gov access to GMO for management purposes.</text>
+      <text>Agencies/entities must use <em><u>one </u></em><u>UEI number consistently for all federal awards and may not use another agency/entity's UEI number</u>. All agencies must contact GMO for guidance regarding the appropriate UEI number to use for federal grant applications.</text>
+    </para>
+  </para>
+  <para name="procedure">
+    <heading>PROCEDURE</heading>
+    <text><strong><u>Unique Entity Identifier Registration</u></strong>:</text>
+    <para>
+      <num>1.</num>
+      <text>The GMO directs the agency/entity to the proper UEI number to use and the agency/entity must register an account manager for that UEI number on the federal system for award management.</text>
+      <text>
+        <table class="layout-table">
+          <tbody>
+            <tr>
+              <td proof="needed"/>
+              <td>2. <strong>Note:</strong> Prior to a UEI's expiration date, the system for award management notifies each agency/entity that their renewal date is imminent. <u>It is imperative that every agency/entity using/requesting grant funds renew their registration annually</u><em>.</em></td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>In the event a UEI is not renewed it becomes inactive and must be reactivated.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Agencies/entities creating a federal subaward, including a federal pass-through award from the State of Maryland or other pass-through entities, in the City's financial system of record must have all subrecipient's UEI numbers identified and included in the subaward documentation and setup.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation type="History" display="true" proof="needed">AM Policy 413-21	BOE Approved: 9/17/2025</annotation>
+  </annotations>
+</section>

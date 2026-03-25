@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-204-1</num>
+  <para>
+    <prefix>Part</prefix>
+    <num>I</num>
+    <heading>Holidays</heading>
+    <para name="scope">
+      <heading>SCOPE</heading>
+      <text>In accordance with Board of Estimates policy, City offices are closed officially for business on 11 annual holidays. The calendar of annual holidays is set forth in this policy. Permanent full-time employees not scheduled to work on these dates will receive their regular rate of pay. A permanent part-time employee will receive his/her regular rate of pay as holiday compensation, providing the observance of the holiday falls on the employee's regularly scheduled workday.</text>
+      <text>The observance of a scheduled City holiday may be altered by action of the Board of Estimates. A Board action effectively amends this policy for that particular calendar year.</text>
+    </para>
+    <para name="modified-observance-date">
+      <heading>MODIFIED OBSERVANCE DATE</heading>
+      <text>A holiday which falls on Saturday will be observed the preceding Friday; a holiday which falls on Sunday will be observed the following Monday.</text>
+    </para>
+    <para name="annual-holidays">
+      <heading>ANNUAL HOLIDAYS</heading>
+      <text>January 1 New Year's Day</text>
+      <text>Third Monday in January Martin Luther King's Birthday</text>
+      <text>Third Monday in February President's Day</text>
+      <text>Friday before Easter Good Friday</text>
+      <text>Last Monday in May Memorial Day (Observed)</text>
+      <text>July 4 Independence Day</text>
+      <text>First Monday in September Labor Day</text>
+      <text>Second Monday in October Columbus Day (Observed)</text>
+      <text>November 11 Veterans Day</text>
+      <text>Fourth Thursday in November Thanksgiving Day</text>
+      <text>December 25 Christmas</text>
+    </para>
+    <para name="exceptions">
+      <heading>EXCEPTIONS</heading>
+      <text>In addition to the holidays listed above, employees of the Baltimore City Police Department also observe: February 12 – Lincoln's Birthday; March 25 - Maryland Day; and September 12 - Defender's Day.</text>
+    </para>
+    <annotations/>
+  </para>
+  <para>
+    <prefix>Part</prefix>
+    <num>II</num>
+    <heading>Observance of Election Days</heading>
+    <para name="scope">
+      <heading>SCOPE</heading>
+      <text>In accordance with Board of Estimates policy, certain elections will be observed by the City as an official City holiday. Administrative leave may be granted, if necessary, for other elections.</text>
+    </para>
+    <para name="general-elections">
+      <heading>GENERAL ELECTIONS</heading>
+      <text>All general elections, i.e., in which a member of the U.S. Congress is to be elected, will be observed as a City holiday. A general election is scheduled on the Tuesday immediately following the first Monday of November in even numbered years, e.g., 2004, 2006, 2008, etc. City offices will be officially closed for business on the day of a general election.</text>
+      <text>A permanent full-time employee not required to work on this day will receive his/her regular rate of pay. A permanent part-time employee will receive his/her regular rate of pay providing the observance of the holiday falls on the employee's regularly scheduled workday.</text>
+      <text>City employees who are eligible to receive holiday compensation and who are required to work on a City holiday will be compensated in accordance with <cite path="§AM-204-1, Part III">AM-204-1, Part III</cite>, Holiday Compensation.</text>
+    </para>
+    <para name="primary-and-mayoral-elections">
+      <heading>PRIMARY AND MAYORAL ELECTIONS</heading>
+      <text>A City employee who is registered to vote in the City of Baltimore will be allowed, if necessary, a maximum of two (2) hours administrative leave with pay for the purpose of voting in primary and mayoral elections.</text>
+      <text>Approved administrative leave with pay applies to the following primary and mayoral elections:</text>
+      <para>
+        <num>1.</num>
+        <text>The second Tuesday after the first Monday in September -- a primary election of candidates for State and City offices and Central Committee is held throughout Maryland.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The second Tuesday in March -- a primary election of candidates for the President and Vice-President of the United States and members of the United States Congress is held throughout Maryland.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Such date as specified by the Governor -- special primary elections for congressional representatives are held in Maryland when necessary.</text>
+      </para>
+    </para>
+    <annotations/>
+  </para>
+  <para>
+    <prefix>Part</prefix>
+    <num>III</num>
+    <heading>Holiday Compensation</heading>
+    <para name="scope">
+      <heading>SCOPE</heading>
+      <text>This policy is concerned with holiday compensation for City employees who have been in pay status for at least one (1) day in the payroll period in which the holiday occurs. Permanent full-time employees not scheduled to work on these dates will receive their regular rate of pay. A permanent part-time employee will receive his/her regular rate of pay as holiday compensation providing the observance the holiday falls on the employee's regularly scheduled workday.</text>
+      <text>City employees who are eligible to receive holiday compensation and who are scheduled to work on a City holiday will be compensated according to their classification under the Fair Labor Standards Act (FLSA) as non-exempt or exempt employees. Employees who are eligible to receive holiday compensation and who are not required to work on a City holiday will be granted their regular rate of pay for the day on which the holiday is observed.</text>
+      <text>FLSA ELIGIBILITY</text>
+      <text>NON-EXEMPT EMPLOYEES (CODE F):</text>
+      <text>Code F employees required to work on a holiday will be compensated either at a pay rate of time and one-half for each hour worked, or compensatory leave computed at a rate of time and one-half for each hour worked.</text>
+      <text>EXEMPT EMPLOYEES (CODE X):</text>
+      <text>Code X employees required to work on a holiday will be compensated by receiving their regular pay, plus compensatory leave in an amount equivalent to the hours worked.</text>
+    </para>
+    <para name="double-shift-work">
+      <heading>DOUBLE SHIFT WORK</heading>
+      <text>Code F employees who normally are engaged in shift work and are required to work a regular shift, plus a second shift on the holiday, will receive normal pay for each of the two shifts worked, plus pay or compensatory leave at the rate of time and one-half for all hours worked on both shifts.</text>
+    </para>
+    <para name="chargeable-leave">
+      <heading>CHARGEABLE LEAVE</heading>
+      <text>Employees scheduled to work on holiday and who cannot report for duty because of sickness will be charged sick leave for that day provided it is reported in the first hour of the shift to the supervisor and the employee has accrued sick leave to cover the occurrence. Failure to properly notify the supervisor of the sick occurrence as stipulated in this policy will result in a payroll marking of "X" and a complete loss of pay for the day.</text>
+      <text>An employee authorized a sick leave marking immediately prior to a holiday who is not scheduled to work the holiday will not be charged sick leave for the holiday.</text>
+      <text>An official City holiday which occurs on an employee's vacation leave day or personal leave day will not be deducted from the employee's vacation or personal leave balances.</text>
+    </para>
+    <para name="temporary-or-seasonal-employees">
+      <heading>TEMPORARY OR SEASONAL EMPLOYEES</heading>
+      <text>Temporary or seasonal employees, including provisional employees, are not eligible to receive holiday compensation. If such employees are required to work on a holiday, they will be compensated for such work at their regular rate of pay.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation type="History" effective="1999-09-02" display="true">September 2, 1999</annotation>
+    <annotation type="History" effective="2007-01-01" display="true">January 1, 2007</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-232-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-1|II" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-1|III" type="Related Policies"/>
+    <annotation type="History" effective="2004-07-07" display="true">July 7, 2004</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-1" type="Related Policies"/>
+    <annotation type="History" effective="1987-09-25" display="true">September 25, 1987</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-291-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-291-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-234-1" type="Related Policies"/>
+  </annotations>
+</section>

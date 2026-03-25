@@ -39,11 +39,11 @@
   <annotations>
     <annotation type="History" effective="1988-02-05" display="true">February 5, 1988</annotation>
     <annotation type="History" effective="2011-07-20" display="true">July 20, 2011</annotation>
-    <annotation type="Related Policies"><cite path="§AM-212-1">AM-212-1</cite> CONTRACTUAL AGREEMENTS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDERS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-303-2">AM-303-2</cite> CITY'S TAX EXEMPTION NUMBER</annotation>
-    <annotation type="Related Policies"><cite path="§AM-308-1">AM-308-1</cite> PURCHASE ORDERS FOR GOODS $ SERVICES – AGENCY RESPONSIBILITIES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-309-1">AM-309-1</cite> SMALL PURCHASES PROCUREMENT CARD PROGRAM</annotation>
-    <annotation type="Related Policies"><cite path="§AM-401-1">AM-401-1</cite> PETTY CASH FUND</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-212-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-303-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-303-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-308-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-309-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-401-1" type="Related Policies"/>
   </annotations>
 </section>

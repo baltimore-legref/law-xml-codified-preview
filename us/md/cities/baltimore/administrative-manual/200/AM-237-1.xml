@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-237-1</num>
+  <heading>Positions of Trust</heading>
+  <text>SCOPE</text>
+  <text>This policy establishes guidelines to be used in screening candidates for positions of trust and identifying positions of trust within the City's classification system. A position of trust is created when an individual is permitted to exercise certain authorities without close supervision, and these authorities, if abused, could lead to personal or financial benefit either directly or indirectly. A position of trust also is created when an individual works with children.</text>
+  <text>This policy applies to individuals who are being appointed, reinstated, transferred, and/or promoted to a position of trust.</text>
+  <text>This policy does not apply to sworn members of the Baltimore City Police Department, or positions covered by the Public Local Laws (PPL) adopted by the General Assembly (Sec. 16-16A, 16B, and 16C) such as Special Enforcement, Special Traffic and Special Parking Officers. PPL gives the Police Commissioner the authorization to appoint such officers and to remove them, and thus to set the criteria used for such actions.</text>
+  <text>GUIDELINES</text>
+  <text>In accordance with the following guidelines, the agency's appointing officer is responsible for identifying those positions of trust, which exist within the agency. The Director of Human Resources (or his or her designee) shall convene and chair a panel of Human Resources and agency representatives to review the designations made by the appointing officer. The panel may, after consultation with the appointing officer and in accordance with the following guidelines, determine that a position is not a position of trust. Position of trust categories include:</text>
+  <text>CATEGORY 1</text>
+  <text>Senior officials whose positions involve a significant degree of responsibility and authority. Included in this group would be Department, Agency, and Bureau Heads and their senior deputies. In some instances, it would be appropriate to include division heads and their deputies and even individual senior advisors where such officials have, because of specializations, a significant opportunity to influence the decision making process of the City.</text>
+  <text>CATEGORY 2</text>
+  <text>Individuals who can significantly influence the financial interests of third parties. This group includes those involved in procurement, licensing, benefits eligibility, loans, settlements, property valuation and use and employment eligibility.</text>
+  <text>CATEGORY 3</text>
+  <text>Individuals who have access to resources highly susceptible to loss or conversion. This includes individuals who handle cash, checks, and other receipts (other than imprest funds of less than $100); individuals who collect rent; individuals who have custody of inventories susceptible to theft; individuals who sell surplus property; and individuals who authorize payroll and other disbursements.</text>
+  <text>CATEGORY 4</text>
+  <text>Individuals who can materially affect the financial and related systems of the City, either by manipulation or sabotage. This would include accountants, budget officers, and ADP system designers, programmers and operators.</text>
+  <text>CATEGORY 5</text>
+  <text>Other sensitive positions such as security officials, officials who establish or enforce controls regarding environmental or other health hazards, and individuals who investigate safety and various code violations.</text>
+  <text>CATEGORY 6</text>
+  <text>Individuals who work with children, such as school nurses, recreation leaders, outreach workers or counselors who serve children, or individuals who work in youth opportunity programs.</text>
+  <text>CATEGORY 7</text>
+  <text>Individuals who have access to others' personal information. This group includes persons with access to any personally identifiable health information, financial information, educational information, or personnel information.</text>
+  <para name="responsibilities">
+    <heading>RESPONSIBILITIES</heading>
+    <text>The appointing officer is charged with the following responsibilities:</text>
+    <text>
+      <ul proof="needed">
+        <li>Insuring that final applicants for positions of trust complete a RELEASE and AUTHORIZATION FOR CRIMINAL BACKGROUND CHECK.</li>
+        <li>Forwarding the RELEASE and AUTHORIZATION FOR CRIMINAL BACKGROUND CHECK to the Department of Human Resources to initiate the criminal background investigation.</li>
+        <li>Upon receipt of an evaluation of the background investigation from the Department of Human Resources, evaluating the results and taking appropriate action in accordance with this policy.</li>
+      </ul>
+    </text>
+    <text>The Department of Human Resources is responsible for:</text>
+    <text>
+      <ul proof="needed">
+        <li>Designating one or more human resources specialists to: (1) receive the RELEASES and AUTHORIZATIONS FOR CRIMINAL BACKGROUND CHECKS and order the criminal background check; (2) receive completed background investigations; (3) evaluate the results of each completed background investigation; and (4) provide a written evaluation of the results of the investigation to the hiring agency. The written evaluation shall summarize and assess the results of the investigation. The completed background investigation shall not be disclosed to the hiring agency. The Department of Law may review the background investigation.</li>
+        <li>Maintaining the confidentiality of completed background investigations in accordance with this policy.</li>
+        <li>Verifying that criminal background investigations have been initiated when required, and entering the requests into Human Resources Information Systems (HRIS).</li>
+        <li>Preparing journal entry to charge requesting agency for the cost of the criminal background investigation.</li>
+        <li>Maintaining an up-to-date inventory of all positions of trust.</li>
+        <li>Insuring that affected class descriptions and job announcements reflect the criminal background investigation requirement.</li>
+        <li>Stipulating to the Board of Estimates in letters concerning positions to be created or reclassified whether the position is a position of trust.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="policy-implementation">
+    <heading>POLICY IMPLEMENTATION</heading>
+    <text>Based on the inventory of positions for which criminal background investigations are required, positions are flagged as confidential in HRIS. Submission of the RELEASE and AUTHORIZATION form is required prior to processing the employment action.</text>
+    <text>
+      <strong>
+        <u>Exceptions</u>
+      </strong>
+    </text>
+    <text>Except for employees working with children, employees filling positions of trust in an out-of-title status will be exempt from the requirement to complete a RELEASE and AUTHORIZATION FOR CRIMINAL BACKGROUND CHECK. A criminal background investigation is not required when an employee is reinstated to a previously held position of trust provided that an investigation had been completed within 1 year of the date of reentry.</text>
+    <text>
+      <strong>
+        <u>Non-Positions of Trust</u>
+      </strong>
+    </text>
+    <text>Employment applications for positions that are not positions of trust shall not require applicants to disclose prior convictions or any other criminal history information.</text>
+  </para>
+  <para name="appointment-prior-to-investigation">
+    <heading>APPOINTMENT PRIOR TO INVESTIGATION</heading>
+    <text>An individual may not be appointed to a position of trust prior to initiating a criminal background investigation, but may be appointed in advance of its completion. However, a disposition regarding the information obtained must be made during the employee's probationary period. See <cite path="§AM-237-1-2">AM-237-1-2</cite> for further details on processing the results of a criminal background investigation.</text>
+  </para>
+  <para name="criminal-history-investigation">
+    <heading>CRIMINAL HISTORY INVESTIGATION</heading>
+    <text>Criminal history information supplied by the City's vendor will be restricted to conviction data. Therefore, arrest information will not be included in any report provided by the City's vendor, as the appointing officer may not consider such information in rendering a decision on employment. The presence of any criminal conviction may not be used as the sole basis for denying employment. Appointing officers must consult with the Department of Law and the Department of Human Resources prior to rendering a decision on the job-related nature of conviction data. The appointing officer, in consultation with the Department of Law and the Department of Human Resources, must give fair consideration to the relationship between a conviction and the applicant's suitability for a particular position.</text>
+    <text>In determining the job-related nature of a conviction, the following criteria must be used:</text>
+    <text>
+      <ul proof="needed">
+        <li>Number and types of convictions.</li>
+        <li>Severity of the crime and the sentence imposed.</li>
+        <li>Recency of the conviction.</li>
+        <li>Evidence of rehabilitation.</li>
+        <li>Conditions in the workplace.</li>
+      </ul>
+    </text>
+  </para>
+  <para name="disputes">
+    <heading>DISPUTES</heading>
+    <text>If a candidate disputes the findings of a criminal history investigation, the candidate may elect to be fingerprinted at the Baltimore City Police Department. Providing fingerprint data will insure the accuracy of any criminal history information obtained.</text>
+  </para>
+  <para name="maintenance-of-criminal-history-information">
+    <heading>MAINTENANCE OF CRIMINAL HISTORY INFORMATION</heading>
+    <text>Due to the sensitive nature of criminal history information, efforts must be taken to insure confidentiality and security of records. A photocopy of the completed RELEASE and AUTHORIZATION FOR CRIMINAL BACKGROUND CHECK and a copy of the written evaluation prepared by the Department of Human Resources remains part of the employee's permanent record, but all attachments and/or notices furnished by the City's vendor or the Maryland State Police must be destroyed after evaluating the findings. Any criminal history information obtained is pertinent only to the employee action under consideration and subsequently must be discarded. Should it be necessary to obtain criminal history information on the same individual at a future date, a new information request must be submitted.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2008-02-03" display="true">February 3, 2008</annotation>
+    <annotation type="History" effective="2012-05-09" display="true">May 9, 2012</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-236-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-231-1" type="Related Policies"/>
+  </annotations>
+</section>

@@ -53,9 +53,9 @@
   <annotations>
     <annotation type="History" effective="1988-12-15" display="true">December 15, 1988</annotation>
     <annotation type="History" effective="2010-12-03" display="true">December 3, 2010</annotation>
-    <annotation type="Related Policies"><cite path="§AM-119-1">AM-119-1</cite> Electronic Mail Retention</annotation>
-    <annotation type="Related Policies"><cite path="§AM-502-1-1">AM-502-1-1</cite> Procedure for Disposal of Records – Sending Records to Archives</annotation>
-    <annotation type="Related Policies"><cite path="§AM-502-1-2">AM-502-1-2</cite> Procedure for Creating or Changing Records Retention Schedules</annotation>
-    <annotation type="Related Policies"><cite path="§AM-502-1-3">AM-502-1-3</cite> Procedure for Scanning Records</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-119-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-502-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-502-1-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-502-1-3" type="Related Policies"/>
   </annotations>
 </section>

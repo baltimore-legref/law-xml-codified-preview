@@ -1,22 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" pdf="/us/md/cities/baltimore/administrative-manual/AM-240-5.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-240-5</num>
   <heading>Subsistence Allowance</heading>
+  <text>This policy defines those costs to be defrayed by a subsistence allowance and establishes subsistence allowances. The subsistence allowance amount is as published by the federal government ("GSA rates") from time to time. It must be used to pay for the cost of the following items:</text>
+  <text>
+    <ul>
+      <li>Lodging, e.g., hotels, motels, etc. (not including hotel tax which is to be added to the allowance)</li>
+      <li>Food</li>
+      <li>Gratuities or tips</li>
+      <li>Clothes cleaning</li>
+      <li>Local transportation at the conference site, e.g., taxi, bus, rental car, parking expenses, etc.</li>
+      <li>Miscellaneous expenses</li>
+    </ul>
+  </text>
+  <text>Subsistence funds approved by the Board of Estimates may not be drawn from City accounts until 10 work days prior to commencement of the trip. Subsistence expenditures which exceed the daily subsistence allowance (exclusive of the hotel tax) cited for the place of travel are not reimbursable and claims for such reimbursement will not be honored except as identified in this policy. The hotel tax for the approved travel shall be added to the subsistence allowance as published.</text>
+  <text>The subsistence allowance is reviewed and adjusted periodically by the Department of Finance, consistent with the most recent GSA rate.</text>
+  <text>HRGAs</text>
+  <text>Certain locations have been designated by the GSA as High Rate Geographic Areas (HRGAs)HRGAs. See <cite path="§AM-240-5-1">AM-240-5-1</cite>. HRGAs are reviewed and adjusted periodically by the Department of Finance, consistent with the most recent GSA rates.</text>
+  <text>
+    <u>Outside the lower 48 state of the United States</u>
+  </text>
+  <text>For travel outside the lower 48 states, where no HRGA is provided by GSA, the travel request should propose a reasonable amount for a daily subsistence allowance. The Board of Estimates will set the amount of the daily subsistence allowance.</text>
+  <para name="allowance-exception">
+    <heading>ALLOWANCE EXCEPTION</heading>
+    <text>For attendance at certain conferences and/or professional associations which are required of the Mayor, the Mayor's designated executive and/or Members of the Board of Estimates, the Board shall determine an allowance sufficient to cover lodging costs for those officials, but the allowance set forth in <cite path="§AM-240-5">AM-240-5</cite> and <cite path="§AM-240-5-1">AM-240-5-1</cite> shall apply to other City attendees, whose attendance is not required.</text>
+  </para>
+  <para name="record-keeping">
+    <heading>RECORD-KEEPING</heading>
+    <text>Original receipts are required for all lodging costs, conference registration and transportation incurred in travel status for which reimbursement will be requested. Receipts for other subsistence related expenses are not required. A credit card statement may suffice if the employee signs it and indicates that it is intended to substitute for the original. The Accounts Payable Unit reserves the right, if circumstances warrant, to require certain specific articulation of hotel/motel bills, e.g., date checked-in, date checked-out, etc.</text>
+  </para>
   <annotations>
-    <annotation type="History" effective="2005-05-11" display="true">May 11, 2005</annotation>
     <annotation type="History" effective="2008-01-01" display="true">January 1, 2008</annotation>
-    <annotation type="Related Policies"><cite path="§AM-239-1-1">AM-239-1-1</cite> OUT OF TOWN TRAVEL BY ELECTED OFFICIALS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-1">AM-240-1</cite> TRAVEL PACKAGE OVERVIEW</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-2">AM-240-2</cite> AGENCY HEAD APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-3">AM-240-3</cite> BOARD OF ESTIMATES APPROVAL</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-5-1">AM-240-5-1</cite> SUBSISTENCE: HIGH RATE GEOGRAPHIC AREAS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-6">AM-240-6</cite> ADVANCE FUNDS/REIMBURSEMENT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-7">AM-240-7</cite> TRAVEL WITHIN CITY LIMITS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-8">AM-240-8</cite> TRANSPORTATION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-9">AM-240-9</cite> USE: COMMERCIAL TRANSPORTATION</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-10">AM-240-10</cite> USE: EMPLOYEE-OWNED VEHICLES</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-11">AM-240-11</cite> EMPLOYEE EXPENSE REPORT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-240-12">AM-240-12</cite> EXECUTIVE SEARCH EXPENSES</annotation>
+    <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-3" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-5-1" type="Related Policies"/>
   </annotations>
 </section>

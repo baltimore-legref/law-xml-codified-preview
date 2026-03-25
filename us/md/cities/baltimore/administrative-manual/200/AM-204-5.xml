@@ -84,8 +84,8 @@
   <annotations>
     <annotation type="History" effective="2012-12-05" display="true">December 5, 2012</annotation>
     <annotation type="History" effective="2017-12-13" display="true">December 13, 2017</annotation>
-    <annotation type="Related Policies"><cite path="§AM-202-1">AM-202-1</cite> Compensatory Leave</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-4">AM-204-4</cite> Vacation and Personal Leave</annotation>
-    <annotation type="Related Policies"><cite path="§AM-208-1">AM-208-1</cite> Leave of Absence without Pay</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM 202-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-208-1" type="Related Policies"/>
   </annotations>
 </section>

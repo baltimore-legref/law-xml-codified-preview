@@ -85,11 +85,11 @@
   <annotations>
     <annotation type="History" effective="2007-07-01" display="true">July 1, 2007</annotation>
     <annotation type="History" effective="2008-07-01" display="true">July 1, 2008</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-23">AM-204-23</cite> HEALTH CARE PROVISIONS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-204-26">AM-204-26</cite> OPTICAL/VISION CARE</annotation>
-    <annotation type="Related Policies"><cite path="§AM-213-1, Part I">AM-213-1, Part I</cite> and II REINSTATEMENT AND SUBSEQUENT EMPLOYMENT</annotation>
-    <annotation type="Related Policies"><cite path="§AM-291-1">AM-291-1</cite> CIVIL SERVICE CLASS LISTINGS</annotation>
-    <annotation type="Related Policies"><cite path="§AM-291-2">AM-291-2</cite> NON-CIVIL SERVICE CLASS LISTING</annotation>
-    <annotation type="Related Policies"><cite path="§AM-303-1">AM-303-1</cite> DIRECT PAYMENT ORDER</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-23" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-26" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|I" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-291-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-291-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-303-1" type="Related Policies"/>
   </annotations>
 </section>

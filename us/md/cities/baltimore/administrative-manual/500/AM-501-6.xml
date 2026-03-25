@@ -42,7 +42,7 @@
   <annotations>
     <annotation type="History" effective="1986-07-01" display="true">July 1, 1986</annotation>
     <annotation type="History" effective="2008-03-01" display="true">March 1, 2008</annotation>
-    <annotation type="Related Policies"><cite path="§AM-501-3">AM-501-3</cite> MMVFC Assigned Vehicles</annotation>
-    <annotation type="Related Policies"><cite path="§AM-501-11">AM-501-11</cite> Vehicle Damage and Malfunction</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-3" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-11" type="Related Policies"/>
   </annotations>
 </section>
