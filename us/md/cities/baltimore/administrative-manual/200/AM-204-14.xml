@@ -77,6 +77,6 @@
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-9" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-12" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-208-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1-1" type="Related Policies"/>
+    <annotation type="Related Policies">AM-213-1-1</annotation>
   </annotations>
 </section>

@@ -74,7 +74,6 @@
       <heading>CONTRACT REQUIREMENT</heading>
       <text>Contracts for retired City employees may not be amended to extend the originally approved ending date. The Board of Estimates must specifically approve a new contract for the additional time that the services of the City retiree are needed. The steps for approval must be repeated for each new contract to be submitted to the Board of Estimates.</text>
     </para>
-    <annotations/>
   </para>
   <para>
     <prefix>Part</prefix>
@@ -143,13 +142,13 @@
     </para>
   </para>
   <annotations>
+    <annotation type="History" effective="1990-11-01" display="true">November 1, 1990</annotation>
     <annotation type="History" effective="2000-10-26" display="true">October 26, 2000</annotation>
+    <annotation type="History" effective="2000-12-26" display="true">December 26, 2000</annotation>
     <annotation type="History" effective="2017-09-27" display="true">September 27, 2017</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-4-2" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-207-1" type="Related Policies"/>
-    <annotation type="History" effective="1990-11-01" display="true">November 1, 1990</annotation>
-    <annotation type="History" effective="2000-12-26" display="true">December 26, 2000</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7-1" type="Related Policies"/>
+    <annotation type="Related Policies">AM-205-4-2</annotation>
+    <annotation type="Related Policies">AM-205-7-1</annotation>
+    <annotation type="Related Policies">AM-207-1</annotation>
   </annotations>
 </section>

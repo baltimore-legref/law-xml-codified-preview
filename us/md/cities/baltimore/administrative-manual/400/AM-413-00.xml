@@ -15,7 +15,7 @@
     <heading>POLICY STATEMENT</heading>
     <text>Each agency/entity must establish and maintain a grants management committee that meets at least quarterly or in the event, a grant exceeds its monthly budget by 20% or if a grant is within 60-days of its start/end date. Committee membership must include at least one senior manager with authority to make grant-related decisions for the agency/entity, at least one senior fiscal representative; as well as a representation of key grant manager(s) and/or responsible (grants management) supervisory staff. At a minimum, the committee should:</text>
     <text>
-      <ul proof="needed">
+      <ul>
         <li>Review potential grant applications, renewals and grant budgets (active &amp; planned);</li>
         <li>Ensure the agency/entity is meeting its ongoing documentation requirements;</li>
         <li>Match grantee billings to the general ledger;</li>
@@ -49,8 +49,8 @@
         <table class="layout-table">
           <tbody>
             <tr>
-              <td proof="needed"/>
-              <td proof="needed">
+              <td/>
+              <td>
                 <p>4. Ensures the agency/entity maintains a cadre of trained grant managers, grant writers and (grant) budget proposal managers to prepare and/or submit grant applications;</p>
                 <p>5. Retains documented evidence of training(s) in a (hardcopy) file and on the city's grants management SharePoint site;</p>
               </td>
@@ -131,7 +131,7 @@
       <num>17.</num>
       <text>Depending upon the number of grants an agency manages, the committee and/or a designated staff member(s) should submit the following number of public relations articles annually, for:</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>0-10 grants - 1 per year;</li>
           <li>11-25 grants - 2 per year;</li>
           <li>26-50 grants - 3 per year;</li>
@@ -214,6 +214,6 @@
     <text class="center"><strong>Figure 1:</strong><strong><em> Grant Management &amp; Administration </em></strong>reflects the macro-level steps of the grants management process.</text>
   </para>
   <annotations>
-    <annotation type="History" display="true" proof="needed">AM Policy 413-00</annotation>
+    <annotation type="History" display="true" effective="2021-10-01">October 01, 2021</annotation>
   </annotations>
 </section>

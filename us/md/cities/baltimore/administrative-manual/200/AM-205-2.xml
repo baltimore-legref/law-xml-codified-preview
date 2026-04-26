@@ -52,7 +52,7 @@
       <heading>OVERTIME WORK PROVISION</heading>
       <text>An agency head may authorize overtime work in accordance with parts II and III of this policy only under the following conditions:</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>To deal with emergency situations.   For purposes of this policy, an emergency situation is defined as any condition which endangers, safety, life or property or threatens the breakdown of vital services to the public.</li>
           <li>To perform duties which can only be accomplished outside an employee's regularly scheduled workday.</li>
           <li>To accomplish essential work within a prescribed time when a deadline cannot be altered.</li>
@@ -75,13 +75,13 @@
       <heading>CALL-BACK COMPENSATION</heading>
       <text>A permanent full-time employee or a permanent part-time employee who:</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>has completed the normal full-time work shift and has been called back to work after leaving with the expectation that he would <u>not</u> be required to work during his normal time off,</li>
         </ul>
       </text>
       <text>OR</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>has completed the normal full-time work week and has been called back to work after leaving with the expectation that he would not be required to work during his normal time off,</li>
         </ul>
       </text>
@@ -97,7 +97,7 @@
       <heading>KEY TO REPRESENTATION CODES</heading>
       <text>The following codes indicate which, if any, labor union represents employees in a particular job class.</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>1 – AFSCME, Local 44.</li>
           <li>2 – Elected Officials</li>
           <li>3 – Appointed Officials subject to the provisions of Article VI, Section 3  (a)  of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>.</li>
@@ -113,7 +113,6 @@
         </ul>
       </text>
     </para>
-    <annotations/>
   </para>
   <para>
     <prefix>Part</prefix>
@@ -183,32 +182,32 @@
               <td rowspan="2">Monetary payment in<br/>an amount equal to<br/>the employee's<br/>normal hourly rate.<br/><br/>Employees may elect<br/>to receive either<br/>Monetary payment or<br/>compensatory leave<br/>in an amount equal<br/>to 1 ½ time the <br/>Overtime hours<br/>worked.</td>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td rowspan="3">4, 6, 7, 9<br/><br/>1, U, M<br/><br/>4, 6, 7, 9</td>
               <td rowspan="3">F<br/><br/>F<br/><br/>F</td>
               <td rowspan="4">"Time worked in excess of<br/>47 1/3 hours on the 7th<br/>consecutive work day in<br/>an operation where the<br/>work week is 5 days in<br/>a 7 day period."<br/><br/>"Time worked in excess of<br/>48 hours on the 7th con-<br/>secutive work day in an<br/>operation where the work<br/>week is 5 days in a 7 day<br/>period."<br/><br/>"Time worked in excess of<br/>91 2/3  hours on the 13th<br/> And 14th work days in an <br/>operation where the nor-<br/>mal work week is 10 days<br/>in a 14 day period."<br/><br/>"Time worked in excess of<br/>96 hours on the 13th and<br/>14th work days in an opera-<br/>tion where the normal work<br/>week is 10 days in a 14<br/>day operation."</td>
               <td rowspan="4">Employees may elect<br/>to receive either <br/>monetary payment or<br/>compensatory leave<br/>in an amount equal<br/>To 2 times the over-time hours worked.</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
             </tr>
           </tbody>
         </table>
@@ -238,7 +237,7 @@
       <heading>KEY TO PRESENTATION CODES</heading>
       <text>The following codes indicate which, if any, labor union represents employees in a particular job class.</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>1  -  AFSCME, Local 44.</li>
           <li>2  -  Elected Officials.</li>
           <li>3  -  Appointed Officials subject to the provisions of ARTICLE VI, Section 3 (a) of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>.</li>
@@ -254,7 +253,6 @@
         </ul>
       </text>
     </para>
-    <annotations/>
   </para>
   <para>
     <prefix>Part</prefix>
@@ -288,25 +286,15 @@
       <heading>SEPARATION FROM CITY SERVICE</heading>
       <text>Exempt employees cannot use compensatory leave on the date of separation and/or 4 work days immediately preceding the date of separation. Exempt employees will not receive payment for any compensatory leave which is unused as of the date of separation.</text>
     </para>
-    <annotations/>
   </para>
-  <attachments>
-    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-205-2-1.pdf">
-      <prefix>Policy</prefix>
-      <num>AM-205-2-1</num>
-      <heading>Overtime Conversion Chart</heading>
-    </attachment>
-  </attachments>
   <annotations>
     <annotation type="History" effective="1990-02-23" display="true">February 23, 1990</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-101-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-2" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-2-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-214-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-16" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-214-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-291-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-291-2" type="Related Policies"/>
-    <annotation type="History" effective="1990-01-02" display="true">January 2, 1990</annotation>
+    <annotation type="Related Policies">AM-291-1</annotation>
+    <annotation type="Related Policies">AM-291-2</annotation>
   </annotations>
 </section>

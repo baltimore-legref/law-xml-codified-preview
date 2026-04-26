@@ -63,14 +63,6 @@
     <heading>AUDITS</heading>
     <text>The City auditor is authorized to perform an audit of any agency's petty cash fund.</text>
   </para>
-  <annotations/>
-  <attachments>
-    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-401-1-1.pdf">
-      <prefix>Policy</prefix>
-      <num>AM-401-1-1</num>
-      <heading>Establishing, Increasing, Decreasing,</heading>
-    </attachment>
-  </attachments>
   <annotations>
     <annotation type="History" effective="2005-03-16" display="true">March 16, 2005</annotation>
     <annotation type="History" effective="2016-10-13" display="true">October 13, 2016</annotation>
@@ -79,9 +71,8 @@
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-7" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-11" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-303-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-401-1-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-503-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-508-1-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-508-2-1" type="Related Policies"/>
+    <annotation type="Related Policies">AM-508-1-1</annotation>
+    <annotation type="Related Policies">AM-508-2-1</annotation>
   </annotations>
 </section>

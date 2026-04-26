@@ -88,8 +88,8 @@
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-23" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-26" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-291-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-291-2" type="Related Policies"/>
+    <annotation type="Related Policies">AM-291-1</annotation>
+    <annotation type="Related Policies">AM-291-2</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-303-1" type="Related Policies"/>
   </annotations>
 </section>

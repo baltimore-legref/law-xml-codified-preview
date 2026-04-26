@@ -25,8 +25,8 @@
       <table>
         <tbody>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
             <td>1. Assigns a grant proposal manager and/or budget proposal manager to compile, review and submit each grant application. This/these individual(s) must be proactive in identifying any problems or issues that may interfere with a successful grant award and/or ongoing operation;</td>
           </tr>
         </tbody>
@@ -36,7 +36,7 @@
       <table class="layout-table">
         <tbody>
           <tr>
-            <td proof="needed"/>
+            <td/>
             <td>2. Determines whether a NOFA or RFP has a sustainability or matching funds requirement. <strong>Note:</strong> Both the applying agency/entity and their respective Bureau of the Budget and Management Research (BBMR) Budget Analyst must review and approve in writing the Notice of Funding Availability (NOFA) and corresponding draft budget prior to submitting <strong><em>any</em></strong> grant application. The agency/entity must also,</td>
           </tr>
         </tbody>
@@ -55,7 +55,7 @@
         <table class="layout-table">
           <tbody>
             <tr>
-              <td proof="needed"/>
+              <td/>
               <td>5. Has two (2) workdays from the receipt of the inquiry to approve or disapprove (in writing) the submitting agency/entity's draft budget. <strong>Note:</strong> BBMR's draft budget template can be found in the <strong>Forms Library</strong> on the city's grants management SharePoint site.</td>
             </tr>
           </tbody>
@@ -66,7 +66,7 @@
         <table class="layout-table">
           <tbody>
             <tr>
-              <td proof="needed"/>
+              <td/>
               <td>6. Identifies sub-recipient(s) and determines their funding amounts prior to an application submission. <strong>Note:</strong> Pre-award identification and preparation of sub-recipient agreements expedites post award startup; and,</td>
             </tr>
           </tbody>
@@ -81,7 +81,7 @@
   <para name="definitions">
     <heading>DEFINITIONS</heading>
     <text>
-      <ul proof="needed">
+      <ul>
         <li><strong>Notice of Funding Availability (NOFA)</strong> - is a publicly available document by which an agency/organization makes known its intentions to award discretionary grants or cooperative agreements, usually as a result of a competition for funds; also known as a <strong>Funding Opportunity Announcement (FOA)</strong>.</li>
         <li><strong>Request for Proposal (RFP)</strong> – is a solicitation to submit business proposals, often made through a bidding process to potential suppliers by an agency or company interested in procurement of a commodity or service.</li>
         <li><strong>Scope of Work (SOW)</strong> – is a formal agreement that specifies all the criteria of a contract between a service provider (vendor) and the customer. The SOW documents the project requirements, milestones, and deliverables, i.e., products, documents and reports expected from the customer/contractor/consultant.</li>
@@ -105,6 +105,6 @@
     <text class="center"><strong>Figure 1: </strong><strong><em>Grant Screening &amp; Evaluation</em></strong> requires BBMR's pre-submission approval of all grant budgets.</text>
   </para>
   <annotations>
-    <annotation type="History" display="true" proof="needed">AM Policy 413-20</annotation>
+    <annotation type="History" display="true" effective="2021-10-01">October 01, 2021</annotation>
   </annotations>
 </section>

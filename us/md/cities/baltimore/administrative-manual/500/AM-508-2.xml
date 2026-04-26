@@ -34,11 +34,10 @@
   <annotations>
     <annotation type="History" effective="1991-07-03" display="true">July 3, 1991</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-301-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-301-1-1" type="Related Policies"/>
+    <annotation type="Related Policies">AM-301-1-1</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-303-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-401-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-508-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-508-1-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-508-2-1" type="Related Policies"/>
+    <annotation type="Related Policies">AM-508-1-1</annotation>
   </annotations>
 </section>

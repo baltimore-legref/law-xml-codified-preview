@@ -28,15 +28,11 @@
     <text>Employees enrolled in the PPN are encouraged to consult with their primary care provider on cancer screening. Employees enrolled in HMOs must contact their service center sites for either onsite cancer screenings or referrals. Mercy Medical Center and the University of Maryland</text>
     <text>Medical Systems are partnering with the City to provide screening for all other City employees who choose to go to their sites.</text>
   </para>
-  <para name="related-form-and-policies">
-    <heading>RELATED FORM AND POLICIES</heading>
-    <text><cite path="§AM-203-4-1">AM-203-4-1</cite> Cancer Screening Program Certification Form</text>
-    <text><cite path="§AM-202-1">AM-202-1</cite> Compensatory Leave</text>
-    <text><cite path="§AM-204-2">AM-204-2</cite> Vacation Leave</text>
-    <text><cite path="§AM-204-4">AM-204-4</cite> Personal Leave</text>
-    <text><cite path="§AM-204-14">AM-204-14</cite> Sick Leave</text>
-  </para>
   <annotations>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-202-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-4" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
     <annotation type="History" effective="2005-05-13" display="true">May 13, 2005</annotation>
     <annotation type="History" effective="2018-08-15" display="true">August 15, 2018</annotation>
   </annotations>

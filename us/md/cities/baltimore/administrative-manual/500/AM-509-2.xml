@@ -28,7 +28,7 @@
     <text>.<strong>MUNICIPAL TELEPHONE EXCHANGE</strong></text>
     <text>The Municipal Telephone Exchange (MTE) has overall operating responsibility for the Pager/Cellular system. MTE's responsibilities include:</text>
     <text>
-      <ul proof="needed">
+      <ul>
         <li>receiving and evaluating equipment assignment requests;</li>
         <li>submitting costs and justification for new service to agency budget analyst for approval</li>
         <li>placing orders with vendor</li>
@@ -47,7 +47,7 @@
     <heading>AGENCY</heading>
     <text>Agency responsibilities include:</text>
     <text>
-      <ul proof="needed">
+      <ul>
         <li>obtaining ancillary equipment and batteries through MTE;</li>
         <li>notifying MTE in writing of any permanent or temporary change of personnel which relate to Pager/Cellular assignments;</li>
         <li>assuring that equipment not approved for retention is returned to MTE;</li>
@@ -63,7 +63,7 @@
     <text>Users are subject to disciplinary action and/or assessment of charges in cases of negligence, misuse, or abuse of assigned pagers or cellular equipment.</text>
     <text>User responsibilities include:</text>
     <text>
-      <ul proof="needed">
+      <ul>
         <li>properly using and caring for the pager or cellular equipment;</li>
         <li>immediately notifying the Police Department of a theft or suspicious disappearance involving the equipment;</li>
         <li>contacting Agency Telephone Coordinator immediately upon theft, loss, disappearance so the service can be discontinued and forwarding an email within 24 hours to their Agency Telephone Coordinator and supervisor describing in detail any theft or suspicious disappearance of assigned equipment;</li>
@@ -73,30 +73,9 @@
       </ul>
     </text>
   </para>
-  <annotations/>
-  <attachments>
-    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-509-2-1.pdf">
-      <prefix>Policy</prefix>
-      <num>AM-509-2-1</num>
-      <heading>Procedure for Requesting</heading>
-      <annotations/>
-    </attachment>
-    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-509-2-2.pdf">
-      <prefix>Policy</prefix>
-      <num>AM-509-2-2</num>
-      <heading>Pagers/Cellular Phones Request Form</heading>
-      <annotations/>
-    </attachment>
-    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-509-2-3.pdf">
-      <prefix>Policy</prefix>
-      <num>AM-509-2-3</num>
-      <heading>Pagers/Cellular Phones Justification Form</heading>
-    </attachment>
-  </attachments>
   <annotations>
     <annotation type="History" effective="1999-01-06" display="true">January 6, 1999</annotation>
     <annotation type="History" effective="2012-08-22" display="true">August 22, 2012</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-509-2-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-11" type="Related Policies"/>
   </annotations>
 </section>

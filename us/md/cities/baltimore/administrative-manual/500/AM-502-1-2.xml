@@ -3,42 +3,9 @@
   <prefix>Policy</prefix>
   <num>AM-502-1-2</num>
   <heading>Procedure for Creating or Changing Records Retention Schedules</heading>
-  <text>
-    <table>
-      <thead>
-        <tr>
-          <th>RESPONSIBILITY</th>
-          <th>ACTION</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th>Agency Head</th>
-          <td>
-            <p><strong>1</strong>. Determines need to create or change a Records Retention Schedule.</p>
-            <p><strong>2. </strong>Informs Records Management Officer of need for new or revised Records Retention Schedule.</p>
-            <p><strong>3</strong>. Develops an estimated Records Retention Schedule for review by the Records Management Officer.</p>
-          </td>
-        </tr>
-        <tr>
-          <th>Records Management Officer</th>
-          <td><strong>4</strong>. Inspects records and submits recommendations to Agency Head.</td>
-        </tr>
-        <tr>
-          <th>Agency Head</th>
-          <td><strong>5. </strong>Approves Records Retention Schedule and returns it to Records Management Officer.</td>
-        </tr>
-        <tr>
-          <th>Records Management Officer</th>
-          <td><strong>6. </strong>Forwards approved schedules to City Records Committees for review and final acceptance.</td>
-        </tr>
-        <tr>
-          <th>Agency Head</th>
-          <td><strong>7. </strong>Retains approved Records Retention Schedule for easy reference and later use in requesting records</td>
-        </tr>
-      </tbody>
-    </table>
-  </text>
+  <meta>
+    <stub url="/us/md/cities/baltimore/administrative-manual/AM-502-1-2.pdf"/>
+  </meta>
   <annotations>
     <annotation type="History" effective="1988-12-15" display="true">December 15, 1988</annotation>
     <annotation type="History" effective="2004-06-08" display="true">June 8, 2004</annotation>

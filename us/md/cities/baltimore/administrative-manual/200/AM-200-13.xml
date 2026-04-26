@@ -43,7 +43,7 @@
     <heading>ELIGIBILITY</heading>
     <text>Participation of employees in the telework program will vary among Agencies depending upon the operational business needs of the particular area and the functions and responsibilities of employees. Initial determination of an employee's eligibility to telework is at the discretion of the immediate Supervisor; however, the ultimate decision to allow an eligible employee or a group of employees within the agency to telework is at the discretion of the employee's Agency Head. In determining whether an employee is eligible to telework, the Supervisor and Agency Head must consider whether:</text>
     <text>
-      <ul proof="needed">
+      <ul>
         <li>Service delivery to internal and external customers will be maintained;</li>
         <li>The Agency will maintain adequate coverage during normal business hours;</li>
         <li>The employee has satisfactorily performed their job responsibilities prior to their telework request as evidenced through current observations and  their most recent performance management plan evaluation;</li>
@@ -306,16 +306,15 @@
   </para>
   <annotations>
     <annotation type="History" effective="2017-12-13" display="true">December 13, 2017</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-200-13-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-118-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-10" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-10" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-207-1" type="Related Policies"/>
+    <annotation type="Related Policies">AM-207-1</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-228-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-301-10" type="Related Policies"/>
-    <annotation type="Related Policies">PM 305		Attendance Standards Policy</annotation>
-    <annotation type="Related Policies">PM 350		Discipline</annotation>
-    <annotation type="Related Policies">PM 370		Performance Evaluations</annotation>
+    <annotation type="Related Policies">PM 305. Attendance Standards Policy</annotation>
+    <annotation type="Related Policies">PM 350. Discipline</annotation>
+    <annotation type="Related Policies">PM 370. Performance Evaluations</annotation>
   </annotations>
 </section>

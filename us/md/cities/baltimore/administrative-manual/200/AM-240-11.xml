@@ -35,7 +35,7 @@
     <annotation type="History" effective="2005-03-02" display="true">March 2, 2005</annotation>
     <annotation type="History" effective="2021-06-09" display="true">June 9, 2021</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-239-1-1" type="Related Policies"/>
+    <annotation type="Related Policies">AM-239-1-1</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-2" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-240-3" type="Related Policies"/>
   </annotations>

@@ -3,32 +3,9 @@
   <prefix>Policy</prefix>
   <num>AM-406-1-1</num>
   <heading>Processing a Journal Entry</heading>
-  <para name="for-interdepartmental-services-rendered">
-    <heading>FOR INTERDEPARTMENTAL SERVICES RENDERED</heading>
-    <text>
-      <table>
-        <thead>
-          <tr>
-            <th>RESPONSIBILITY</th>
-            <th>ACTION</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th>Agency Rendering Service</th>
-            <td>
-              <p>1. All Journal Entries are done on line through City Dynamics. Complete instructions are available in the Microsoft Dynamics Journal Entry Manual, Version 2.</p>
-              <p>2. Journal Entries must be approved by a supervisor before sending them to the Bureau of Accounting and Payroll Services.</p>
-            </td>
-          </tr>
-          <tr>
-            <th>Accounting</th>
-            <td>3. Sees Journal Entry in City Dynamics verifies that it has been approved and that the appropriate backup is attached. The entry is then posted.</td>
-          </tr>
-        </tbody>
-      </table>
-    </text>
-  </para>
+  <meta>
+    <stub url="/us/md/cities/baltimore/administrative-manual/AM-406-1-1.pdf"/>
+  </meta>
   <annotations>
     <annotation type="History" effective="2004-10-27" display="true">October 27, 2004</annotation>
     <annotation type="History" effective="2016-10-13" display="true">October 13, 2016</annotation>

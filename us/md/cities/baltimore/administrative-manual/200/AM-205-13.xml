@@ -19,6 +19,6 @@
   <annotations>
     <annotation type="History" effective="1988-12-15" display="true">December 15, 1988</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-290" type="Related Policies"/>
+    <annotation type="Related Policies">AM-290</annotation>
   </annotations>
 </section>

@@ -16,7 +16,7 @@
     <text>This policy applies to all grants received by the City of Baltimore regardless of funding source. It ensures all grant funding is used in compliance with its intended purposes, with quarterly financial reconciliations to ensure ongoing fiscal control and compliance.</text>
     <text>When working with grants, all City of Baltimore agencies/entities and their respective subrecipients <strong><u>must</u></strong> follow the <strong><u>primary rule of accountability</u></strong>: <strong><em>If it is not documented, it did not happen</em></strong>; failure to document can result in risks of non-compliance and disallowed costs. Therefore, collecting, storing, and compiling data and documentation are essential to each grant as well as the health of the city's overall grants management program to provide evidence of:</text>
     <text>
-      <ul proof="needed">
+      <ul>
         <li>Compliance – with the subrecipient's Statement of Work (contract terms), all applicable federal and state laws, and all COB AM Policies;</li>
         <li>Performance – measuring each grant's program goals and performance targets against stated objectives;</li>
         <li>Outcomes – documenting the benefits and/or achievements in skill, knowledge, behavior, condition, or life status of program participants; and,</li>
@@ -26,7 +26,7 @@
     <text>To this end, all City of Baltimore staff members working with grants as well as their respective</text>
     <text>subrecipients are required to:</text>
     <text>
-      <ul proof="needed">
+      <ul>
         <li>Understand and demonstrate the importance of fiscal integrity and ethical values when making monetary decisions;</li>
         <li>Recognize that financial integrity and operational results take priority; and,</li>
         <li>Realize that collaboration, inter- and intra-agency communication, and teamwork are imperative to the city's overall success in grants management.</li>
@@ -56,8 +56,8 @@
       <table class="layout-table">
         <tbody>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed">
+            <td/>
+            <td>
               <p>1. Each City of Baltimore awarding agency must develop a set of criteria for evaluating any potential subrecipients seeking funds to carry out grant-related activities on behalf of the City. Criteria and application materials must include a copy of recent financial statements; verification of Good Standing with the State Department of Assessments and Taxation; description of proposed performance measures including inputs, outputs and outcomes; project timeline, and an assessment of the entity's capacity to both manage the award as well as complete the proposed scope of work within the performance period.</p>
               <p>2. <strong><em>Per OMB Uniform Guidance § 200.214 Suspension and debarment.</em></strong> <em>Recipients and subrecipients are subject to the non-procurement debarment and suspension regulations implementing Executive Orders 12549 and 12689, as well as </em><a href="https://www.ecfr.gov/current/title-2/part-180">2 CFR part 180</a><em>. The regulations in </em><a href="https://www.ecfr.gov/current/title-2/part-180">2 CFR part 180</a><em> restrict making Federal awards, subawards, and contracts with certain parties that are debarred, suspended, or otherwise excluded from receiving or participating in Federal awards.</em></p>
               <p>3. Prior to establishing <strong><em>any</em></strong> subrecipient agreement/contract each city agency/entity must screen their subrecipient candidates through SAM.gov's <strong>Exclusion Listing</strong> to ensure each organization is eligible to work with both the city and federal government as well as the Maryland State Department of Assessments and Taxation (SDAT) to ensure the organization is in Good Standing with the state; moreover, <strong><u>annually</u></strong><u> all subrecipients must renew their SAM registration and each agency/entity must re-verify their subrecipients' eligibility to work with the city</u>;</p>
@@ -124,8 +124,8 @@
         <table class="layout-table">
           <tbody>
             <tr>
-              <td proof="needed"/>
-              <td proof="needed">
+              <td/>
+              <td>
                 <p>In an effort to mitigate risk, the Grant Manager:</p>
                 <p><em>Monitors the activities of the subrecipient as necessary to ensure that the subaward is used for authorized purposes, in compliance with Federal statutes, regulations, and terms and conditions of the subaward; and that subaward performance goals are achieved.</em><strong>§200.332 (c) </strong>details the agency/entity's basic monitoring requirements.</p>
                 <p>10. Conducts an <em>initial risk assessment</em> to determine subrecipient risk of noncompliance and to inform a monitoring plan tailored to each subrecipient. Monitoring plans must include regular check-ins with the subrecipient at a cadence determined by the Grant Manager and subrecipient and should include at least one in-person site visit per performance period, unless otherwise specified by the terms of the agreement. Regular check-ins are intended to review performance progress, address issues, and review financials. Subrecipients deemed "low risk" may receive a monitoring plan of a minimum of quarterly check-ins, while subrecipients deemed "high risk" may receive a monitoring plan that includes monthly or weekly check-ins as well as more frequent in-person site visits. Monitoring plans are developed at the discretion of the Grant Manager and subrecipient utilizing the required risk assessment. More than one risk assessment may be conducted on a subrecipient during the performance period of the subaward, and monitoring plans may be adjusted accordingly.</p>
@@ -181,7 +181,7 @@
       <num>19.</num>
       <text>Monitors and controls:</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>Employee Record Updates;</li>
           <li>Job Requisitions;</li>
           <li>Position Action Requests (PAR);</li>
@@ -225,7 +225,7 @@
         <table class="layout-table">
           <tbody>
             <tr>
-              <td proof="needed"/>
+              <td/>
               <td>31. Monitors expense claims for fraud. Fraud is an intentional act of deception, by one or more individuals that results in financial or personal gain. All City of Baltimore staff has a responsibility to both help detect and prevent fraud. For this reason, lack of proper management oversight on purchase approvals can result in undocumented risk and/or outright fraud. Therefore, <strong><em><u>all</u></em></strong> grant-related expenses submitted for payment and/or reimbursement must be approved by each agency/entity's fiscal officer/accountant.</td>
             </tr>
           </tbody>
@@ -282,6 +282,6 @@
     <text>The city of Baltimore' GMO is responsible for all changes and/or updates to this policy. <strong>Note:</strong> All the city's grant policies are available in the Administration Manual on BBMR's website.</text>
   </para>
   <annotations>
-    <annotation type="History" display="true" proof="needed">AM Policy 413-51	BOE Approved: 9/17/2025</annotation>
+    <annotation type="History" display="true" effective="2025-09-17">September 17, 2025</annotation>
   </annotations>
 </section>

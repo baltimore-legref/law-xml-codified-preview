@@ -199,11 +199,11 @@
   </para>
   <annotations>
     <annotation type="History" effective="2016-04-07" display="true">April 7, 2016</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-200-05" type="Related Policies"/>
+    <annotation type="Related Policies">AM-200-05</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-32" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-228-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-231-01" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-235-01" type="Related Policies"/>
+    <annotation type="Related Policies">AM-231-01</annotation>
+    <annotation type="Related Policies">AM-235-01</annotation>
     <annotation type="Related Policies">PM-370 Performance Evaluations</annotation>
   </annotations>
 </section>

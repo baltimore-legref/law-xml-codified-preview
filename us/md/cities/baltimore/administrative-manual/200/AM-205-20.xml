@@ -217,29 +217,20 @@
     <text>The Director of Human Resources is responsible for the official interpretation of this policy.</text>
     <text>The Department of Human Resources reserves the right to revise or eliminate this policy at any time, with the approval of the City's Board of Estimates.</text>
   </para>
-  <annotations/>
-  <attachments>
-    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-205-20-1.pdf">
-      <prefix>Policy</prefix>
-      <num>AM-205-20-1</num>
-      <heading>Maps Salary Policy Exception Form</heading>
-    </attachment>
-  </attachments>
   <annotations>
     <annotation type="History" display="true" effective="2014-07-01">July 1, 2014</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-200-5" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-11" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-30" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-31" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-8" type="Related Policies"/>
+    <annotation type="Related Policies">AM-205-8</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-9" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1|2" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-213-1-1" type="Related Policies"/>
+    <annotation type="Related Policies">AM-213-1-1</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-230-4" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-230-5" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-235-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-290-07" type="Related Policies"/>
-    <annotation type="History" effective="2014-07-01" display="true">July 1, 2014</annotation>
+    <annotation type="Related Policies">AM-290-07</annotation>
   </annotations>
 </section>

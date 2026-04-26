@@ -36,15 +36,15 @@
               <td colspan="2"><strong><u>(Agency) Fiscal Officer</u></strong>:</td>
             </tr>
             <tr>
-              <td proof="needed"/>
-              <td proof="needed"/>
+              <td/>
+              <td/>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
               <td>3. Upon receipt of financial documentation reviews all invoices and supporting documentation for appropriateness against the grant's approved budget. This review must include an analysis that ensures any percentages, matches, and/or in-kind contributions associated with the expenditures of the grant are consistent with the allowable expenses under the grant.</td>
             </tr>
             <tr>
-              <td proof="needed" colspan="2">
+              <td colspan="2">
                 <p>4. Forwards screened and approved invoices and receipts to the Bureau of Accounting and Payroll Services (BAPS) for payment.</p>
                 <p><strong><u>Bureau of Accounting and Payroll Services (BAPS)</u></strong>:</p>
                 <p>5. Reviews all submissions for payment for consistency by comparing the request for payment to the receipts received.</p>
@@ -52,7 +52,7 @@
               </td>
             </tr>
             <tr>
-              <td proof="needed" colspan="2">
+              <td colspan="2">
                 <p>7. Once BAPS has closed the month (which generally happens on the fifth the day of the next month) reporting is available to all agencies. Each agency/entity can run reports from the city's financial management system for sign-off by their supervisors.</p>
                 <p><strong><u>Grant Manager/Program Manager/Director</u></strong>:</p>
                 <p>8. Maintains all documentation, either electronic or hard copy, for all federally funded grants for the term of the grant for a minimum of seven years for review and audit by the granting agency or its designee; see <strong>AM Policy 413-60: Grant Documentation</strong>.</p>
@@ -80,6 +80,6 @@
     <text class="center"><strong>Figure 1:</strong><strong><em> Grants Management Financial Reporting</em></strong> reflects the requisite steps to ensure all incurred costs are within budget and allowable.</text>
   </para>
   <annotations>
-    <annotation type="History" display="true" proof="needed">AM Policy 413-61</annotation>
+    <annotation type="History" display="true" effective="2021-10-01">October 01, 2021</annotation>
   </annotations>
 </section>

@@ -58,7 +58,7 @@
         <table class="layout-table">
           <tbody>
             <tr>
-              <td proof="needed"/>
+              <td/>
               <td>2. <strong>Note:</strong> Prior to a UEI's expiration date, the system for award management notifies each agency/entity that their renewal date is imminent. <u>It is imperative that every agency/entity using/requesting grant funds renew their registration annually</u><em>.</em></td>
             </tr>
           </tbody>
@@ -75,6 +75,6 @@
     </para>
   </para>
   <annotations>
-    <annotation type="History" display="true" proof="needed">AM Policy 413-21	BOE Approved: 9/17/2025</annotation>
+    <annotation type="History" display="true" effective="2025-09-17">September 17, 2025</annotation>
   </annotations>
 </section>

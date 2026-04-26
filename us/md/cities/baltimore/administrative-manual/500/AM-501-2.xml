@@ -44,7 +44,7 @@
       </text>
       <text>Upon request of a City Agency for an employee to operate a City-owned MMVFC or activity-assigned vehicle, an employee must meet all of the below listed requirements. Upon meeting all of the requirements, an individual (must be a City employee not a contractual employee or volunteer) will be issued a City of Baltimore Driver Permit by DOS. A City of Baltimore Driver Permit is valid for three (3) years and is renewable only if the employee completes the Driver Recertification Training Course (every three (3) years) and continues to meet <u>all</u> of the following listed requirements.</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>Be at least 21 years of age with at least three (3) years of licensed driving experience.</li>
           <li>Possess a current and valid Maryland State driver's license (employees with licenses from another State outside of Maryland may be eligible if that State is proven to be their actual state of residency … i.e., commute between the state and City employment each day and evening of employee's work day/shift), with the appropriate license class code.</li>
           <li>Have successfully completed the Basic Driver Training Course.</li>
@@ -57,7 +57,7 @@
       </text>
       <text>In order to operate any type of City-owned special purpose vehicle an employee must meet all of the below listed requirements. Upon meeting all of the requirements, a Special Vehicle Permit will be issued by DOS indicating the type of special purpose vehicle he/she is authorized to operate. This authorization is valid for three (3) years and is renewable only if the employee successfully completes an additional Special Vehicle Training Course and continues to meet <u>all</u> of the following requirements.</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>Be at least 21 years of age.</li>
           <li>Possess a valid State driver's license with the appropriate license class code.</li>
           <li>Possess a current and valid City of Baltimore Driver Permit.</li>
@@ -75,7 +75,7 @@
       <text>Suspension or revocation of an employee's City of Baltimore Driver Permit/Authorization by the employee's agency head must be reported by memo within three (3) workdays to the MMVFC and to DOS. The memo must cite the reason(s) for the suspension or revocation and specify actions taken to prevent recurrences. DOS may revoke or suspend an employee's CBDP/A even if the employee's agency head elects not to take such action. Further, an agency may request DOS to suspend or revoke an employee's CBDP/A when warranted and agency shall provide documentation and/or communication memorializing that the request is warranted. This documentation shall be noted in the employee's electronic driver's file as well as in his/her hard file, both of which is maintained/housed at DOS.</text>
       <text>An employee's City of Baltimore Driver Permit/Authorization may be suspended or revoked for any of the following reasons, which include but are not limited to:</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>Driving any vehicle (City owned or privately owned) while under the influence of alcohol or drugs.</li>
           <li>Any violation to the Maryland State Driver's Handbook or restriction placed on a State driver's license (including but not limited to refusing a chemical test, interlock device restriction, even when employer vehicle exempted, if an alcohol related restriction code is on and/or added to our state license, etc…)</li>
           <li>Leaving the scene of an accident or failure to report an accident in accordance with <cite path="§AM-501-10">AM-501-10</cite>.</li>
@@ -112,7 +112,6 @@
       <text>An employee must officially notify, either in person or in writing, his supervisor and DOS of the suspension, revocation, or expiration of his/her State driver's license within one (1) workday.  Failure to notify as required may result in suspension of the employee from work.</text>
       <text>DOS and the agency head will periodically obtain and review the Maryland State driving record of each employee who possesses a City of Baltimore Driver Permit in order to monitor compliance with the <em>Administrative Manual</em> policy. Employers who have been approved for a CBDP/A but reside in another State outside of Maryland must provide DOS with a certified copy of their State Driving Record every six (6) months, in January and July. Appropriate action will be initiated as required for employees who are in violation of this policy. The appropriate action may include suspension of driving privileges by DOS and/or disciplinary action by agency for insubordination (up to and including termination).</text>
     </para>
-    <annotations/>
   </para>
   <para>
     <prefix>Part</prefix>
@@ -129,7 +128,7 @@
       <text>A City of Baltimore Driver Permit is valid for three (3) years and is renewable, only if the employee completes a Driver Re-certification Training Course and continues to meet all of the requirements of the Motor Vehicle policies in the <em>Administrative Manual </em>Section 501. Drivers are to notify their immediate supervisor of conditions that adversely change their driving status.</text>
       <text>A CMV, according to 49 CFR 382.107, means "a motor vehicle or combination of motor vehicles used in commerce to transport passengers or property if the motor vehicle:</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>has a gross combination weight rating of 26,001 or more pounds inclusive of a towed unit with a gross vehicle weight rating if more than 10,000 rounds; or</li>
           <li>has a gross vehicle weight rating of 26,001 or more pounds; or</li>
           <li>is designated to transport 16 or more passengers, including the driver; or</li>
@@ -142,13 +141,13 @@
       <text>The purpose of this examination is to determine a driver's physical qualifications to operate a CMV according to requirements and guidelines in 49 CFR 391.41-49. All City drivers are required to successfully complete this examination and obtain a two-year Medical Examiner's Certificate (i.e.: DOT Card) from the City of Baltimore Occupational Medical Services (Mercy Clinic). The City of Baltimore does not recognize Medical Examiner's Certificates (DOT Cards) obtained from any outside medical facility.</text>
       <text>The CDL biennial physical examination will consist of:</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>Reviewing medical history.</li>
         </ul>
       </text>
       <text>Checking for the following:</text>
       <text>
-        <ul proof="needed">
+        <ul>
           <li>Limbs (foot, leg, hand and arm) and their corresponding motion and function (including fingers &amp; hands for power grasping);</li>
           <li>Insulin dependent diabetes;</li>
           <li>Cardiovascular disease;</li>
@@ -183,38 +182,19 @@
       <text>Negative Test Results: DOS will receive a written report stating negative test results. . The employee will continue to work and will be subject to future testing if selected again by the random selection process.</text>
       <text>Positive Test Results: DOS will receive a written report stating positive test results. DOS will suspend the employee's driving privileges.</text>
     </para>
-    <annotations/>
   </para>
-  <attachments>
-    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-501-2-1.pdf">
-      <prefix>Policy</prefix>
-      <num>AM-501-2-1</num>
-      <heading>Obtaining a Driver Permit for City-Owned Vehicles</heading>
-      <annotations/>
-    </attachment>
-    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-501-2-2.pdf">
-      <prefix>Policy</prefix>
-      <num>AM-501-2-2</num>
-      <heading>Notification of City Vehicle Policy</heading>
-    </attachment>
-  </attachments>
   <annotations>
+    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
     <annotation type="History" effective="2018-07-25" display="true">July 25, 2018</annotation>
     <annotation type="History" effective="2019-06-26" display="true">June 26, 2019</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-106-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-500-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2|2" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2-2" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-6" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-8" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-10" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-11" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-12" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-14" type="Related Policies"/>
-    <annotation type="History" effective="2012-05-18" display="true">May 18, 2012</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-501-2|1" type="Related Policies"/>
-    <annotation type="History" effective="2004-04-28" display="true">April 28, 2004</annotation>
   </annotations>
 </section>

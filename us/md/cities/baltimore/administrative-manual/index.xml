@@ -4,6 +4,9 @@
   <meta>
     <effective>0001-01-01</effective>
   </meta>
+  <annotations>
+    <annotation type="Editor's Notes"><strong>Notice</strong>: Links to the old intranet must be updated by responsible agencies. See <cite path="000|§AM-002-1-2" url="/us/md/cities/baltimore/administrative-manual/AM-002-1-2.pdf">AM-002-1-2</cite></annotation>
+  </annotations>
   <xi:include href="./000/index.xml"/>
   <xi:include href="./100/index.xml"/>
   <xi:include href="./200/index.xml"/>

@@ -94,8 +94,8 @@
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-2" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-4" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-5" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-5-1" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7-2" type="Related Policies"/>
+    <annotation type="Related Policies">AM-205-5</annotation>
+    <annotation type="Related Policies">AM-205-5-1</annotation>
+    <annotation type="Related Policies">AM-205-7-2</annotation>
   </annotations>
 </section>

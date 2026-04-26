@@ -189,10 +189,10 @@
   <annotations>
     <annotation type="History" effective="2015-04-15" display="true">April 15, 2015</annotation>
     <annotation type="History" effective="2019-05-24" display="true">May 24, 2019</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-200-05" type="Related Policies"/>
+    <annotation type="Related Policies">AM-200-05</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-32" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-231-01" type="Related Policies"/>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-235-01" type="Related Policies"/>
+    <annotation type="Related Policies">AM-231-01</annotation>
+    <annotation type="Related Policies">AM-235-01</annotation>
     <annotation type="Related Policies">PM-370 Performance Management Reviews</annotation>
   </annotations>
 </section>
