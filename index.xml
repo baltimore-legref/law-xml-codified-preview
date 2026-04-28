@@ -16,7 +16,7 @@
     <history-start>2024-03-13</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="baltimore-legref/law-xml" commit="fe8c9770dffef0af85f13c252f61f16c9b0efa1c"/>
+        <repository name="baltimore-legref/law-xml" commit="7ab9ceef7f1b3295d33327c4f042cf2817ca9dc7"/>
       </repositories>
       <platform version="2.19.5.dev426" reproducible="false"/>
       <build-date>2026-04-28</build-date>
@@ -26,12 +26,17 @@
   <xi:include href="./us/md/cities/baltimore/charter.xml"/>
   <xi:include href="./us/md/cities/baltimore/code/index.xml"/>
   <collection name="us/md/cities/baltimore/cobra-toc">
-    <heading>Code of Baltimore Regulations Annotated</heading>
+    <heading>Baltimore Regulations</heading>
     <xi:include href="./us/md/cities/baltimore/cobra/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/cobra-register/index.xml"/>
   </collection>
-  <xi:include href="./us/md/cities/baltimore/pll/index.xml"/>
-  <xi:include href="./us/md/cities/baltimore/council/sessions/2024/rules/index.xml"/>
+  <xi:include href="./us/md/cities/baltimore/public-local-laws/index.xml"/>
+  <collection name="us/md/cities/baltimore/council/rules">
+    <heading>Council Rules</heading>
+    <xi:include href="./us/md/cities/baltimore/council/sessions/2024/rules/index.xml"/>
+    <xi:include href="./us/md/cities/baltimore/council/sessions/2020/rules/index.xml"/>
+  </collection>
+  <xi:include href="./us/md/cities/baltimore/administrative-manual/index.xml"/>
   <collection name="us/md/cities/baltimore/ordinances">
     <heading>Ordinances</heading>
     <xi:include href="./us/md/cities/baltimore/ordinances/2026/index.xml"/>
@@ -51,9 +56,4 @@
     <heading>Laws of the Maryland General Assembly</heading>
     <xi:include href="./us/md/legis/laws/2024/index.xml"/>
   </collection>
-  <collection name="us/md/cities/baltimore/council/rules">
-    <heading>Historic Council Rules</heading>
-    <xi:include href="./us/md/cities/baltimore/council/sessions/2020/rules/index.xml"/>
-  </collection>
-  <xi:include href="./us/md/cities/baltimore/administrative-manual/index.xml"/>
 </library>
