@@ -3,18 +3,54 @@
   <prefix>Title</prefix>
   <num>13</num>
   <heading>HEALTH DEPARTMENT</heading>
-  <xi:include href="./01/index.xml"/>
   <xi:include href="./02/index.xml"/>
   <xi:include href="./03/index.xml"/>
-  <xi:include href="./04/index.xml"/>
-  <xi:include href="./05/index.xml"/>
-  <xi:include href="./06/index.xml"/>
-  <xi:include href="./07/index.xml"/>
-  <xi:include href="./08/index.xml"/>
-  <xi:include href="./09/index.xml"/>
-  <xi:include href="./10/index.xml"/>
-  <xi:include href="./11/index.xml"/>
-  <xi:include href="./12/index.xml"/>
-  <xi:include href="./13/index.xml"/>
-  <xi:include href="./14/index.xml"/>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled "Legacy Regulations".</annotation>
+    </annotations>
+    <attachment name="acceptable-standards-for-proper-animal-care" url="/us/md/cities/baltimore/cobra/attachments/13.01-Acceptable_Standards_for_Proper_Animal_Care.pdf">
+      <heading>Acceptable Standards for Proper Animal Care</heading>
+    </attachment>
+    <attachment name="animal-control-and-protection-fee-schedule" url="/us/md/cities/baltimore/cobra/attachments/13.04-Animal_Control_and_Protection_Fee_Schedule.pdf">
+      <heading>Animal Control and Protection Fee Schedule</heading>
+    </attachment>
+    <attachment name="animal-hearing-panel-procedures-and-regulations" url="/us/md/cities/baltimore/cobra/attachments/13.05-Animal_Hearing_Panel_Procedures_and_Regulations.pdf">
+      <heading>Animal Hearing Panel Procedures and Regulations</heading>
+    </attachment>
+    <attachment name="electronic-fences-as-animal-restraints" url="/us/md/cities/baltimore/cobra/attachments/13.06-Electronic_Fences_as_Animal_Restraints.pdf">
+      <heading>Electronic Fences as Animal Restraints</heading>
+    </attachment>
+    <attachment name="facility-licenses" url="/us/md/cities/baltimore/cobra/attachments/13.02-Facility_Licenses.pdf">
+      <heading>Facility Licenses</heading>
+    </attachment>
+    <attachment name="food-service-manager-certification" url="/us/md/cities/baltimore/cobra/attachments/13.07-Food_Service_Manager_Certification.pdf">
+      <heading>Food Service Manager Certification</heading>
+    </attachment>
+    <attachment name="horse-stables-&amp;-general-care-of-horses" url="/us/md/cities/baltimore/cobra/attachments/13.08-Horse_Stables_&amp;_General_Care_of_Horses.pdf">
+      <heading>Horse Stables &amp; General Care of Horses</heading>
+    </attachment>
+    <attachment name="impoundment-and-redemption-of-animals" url="/us/md/cities/baltimore/cobra/attachments/13.09-Impoundment_and_Redemption_of_Animals.pdf">
+      <heading>Impoundment and Redemption of Animals</heading>
+    </attachment>
+    <attachment name="proper-restraint-of-animals" url="/us/md/cities/baltimore/cobra/attachments/13.03-Proper_Restraint_of_Animals.pdf">
+      <heading>Proper Restraint of Animals</heading>
+    </attachment>
+    <attachment name="special-food-service-facilities-operations" url="/us/md/cities/baltimore/cobra/attachments/13.10-Special_Food_Service_Facilities_Operations.pdf">
+      <heading>Special Food Service Facilities Operations</heading>
+    </attachment>
+    <attachment name="swimming-pools" url="/us/md/cities/baltimore/cobra/attachments/13.11-Swimming_Pools.pdf">
+      <heading>Swimming Pools</heading>
+    </attachment>
+    <attachment name="tatoo-facilities" url="/us/md/cities/baltimore/cobra/attachments/13.12-Tatoo_Facilities.pdf">
+      <heading>Tatoo Facilities</heading>
+    </attachment>
+    <attachment name="trap-neuter-return-programs" url="/us/md/cities/baltimore/cobra/attachments/13.13-Trap-Neuter-Return_Programs.pdf">
+      <heading>Trap-Neuter-Return Programs</heading>
+    </attachment>
+    <attachment name="youth-baseball-gear-regulation" url="/us/md/cities/baltimore/cobra/attachments/13.14-Youth_Baseball_Gear_Regulation.pdf">
+      <heading>Youth Baseball Gear Regulation</heading>
+    </attachment>
+  </attachments>
 </container>

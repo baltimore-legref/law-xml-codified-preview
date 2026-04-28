@@ -4,7 +4,6 @@
   <num>28</num>
   <heading>DEPARTMENT OF PLANNING</heading>
   <xi:include href="./01/index.xml"/>
-  <xi:include href="./02/index.xml"/>
   <attachments>
     <heading>Documents Incorporated By Reference</heading>
     <attachment name="baltimore-city-design-manual-2019" url="/us/md/cities/baltimore/cobra/attachments/28-Baltimore_City_Design_Manual_2019.pdf">
@@ -27,6 +26,18 @@
     </attachment>
     <attachment name="state-forest-conservation-manual-1997" url="/us/md/cities/baltimore/cobra/attachments/28-State_Forest_Conservation_Manual_1997.pdf">
       <heading>State Forest Conservation Manual 1997</heading>
+    </attachment>
+  </attachments>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled "Legacy Regulations".</annotation>
+    </annotations>
+    <attachment name="land-subdivision" url="/us/md/cities/baltimore/cobra/attachments/28.01-Land_Subdivision.pdf">
+      <heading>Land Subdivision</heading>
+    </attachment>
+    <attachment name="small-cell-wireless-facilities" url="/us/md/cities/baltimore/cobra/attachments/28.02-Small_Cell_Wireless_Facilities.pdf">
+      <heading>Small Cell Wireless Facilities</heading>
     </attachment>
   </attachments>
 </container>

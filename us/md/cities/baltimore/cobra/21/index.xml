@@ -3,23 +3,56 @@
   <prefix>Title</prefix>
   <num>21</num>
   <heading>DEPARTMENT OF PUBLIC WORKS</heading>
-  <xi:include href="./01/index.xml"/>
   <xi:include href="./02/index.xml"/>
-  <xi:include href="./03/index.xml"/>
-  <xi:include href="./04/index.xml"/>
-  <xi:include href="./05/index.xml"/>
-  <xi:include href="./06/index.xml"/>
-  <xi:include href="./07/index.xml"/>
-  <xi:include href="./08/index.xml"/>
-  <xi:include href="./09/index.xml"/>
-  <xi:include href="./10/index.xml"/>
-  <xi:include href="./11/index.xml"/>
-  <xi:include href="./12/index.xml"/>
-  <xi:include href="./13/index.xml"/>
   <attachments>
     <heading>Documents Incorporated By Reference</heading>
     <attachment name="green-book-2006" url="/us/md/cities/baltimore/cobra/attachments/21-Green_Book_2006.pdf">
       <heading>Green Book 2006</heading>
+    </attachment>
+  </attachments>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled "Legacy Regulations".</annotation>
+    </annotations>
+    <attachment name="consultant-selection" url="/us/md/cities/baltimore/cobra/attachments/21.01-Consultant_Selection.pdf">
+      <heading>Consultant Selection</heading>
+    </attachment>
+    <attachment name="contractor-qualification" url="/us/md/cities/baltimore/cobra/attachments/21.02-Contractor_Qualification.pdf">
+      <heading>Contractor Qualification</heading>
+    </attachment>
+    <attachment name="customer-service-and-support" url="/us/md/cities/baltimore/cobra/attachments/21.03-Customer_Service_and_Support.pdf">
+      <heading>Customer Service and Support</heading>
+    </attachment>
+    <attachment name="dental-amalgam-certification-program" url="/us/md/cities/baltimore/cobra/attachments/21.06-Dental_Amalgam_Certification_Program.pdf">
+      <heading>Dental Amalgam Certification Program</heading>
+    </attachment>
+    <attachment name="fog-limit-for-dietz-and-watson" url="/us/md/cities/baltimore/cobra/attachments/21.04-FOG_Limit_for_Dietz_and_Watson.pdf">
+      <heading>FOG Limit for Dietz and Watson</heading>
+    </attachment>
+    <attachment name="fog-program" url="/us/md/cities/baltimore/cobra/attachments/21.05-FOG_Program.pdf">
+      <heading>FOG Program</heading>
+    </attachment>
+    <attachment name="industrial-laundries-discharge-regulations" url="/us/md/cities/baltimore/cobra/attachments/21.08-Industrial_Laundries_Discharge_Regulations.pdf">
+      <heading>Industrial Laundries Discharge Regulations</heading>
+    </attachment>
+    <attachment name="industrial-pretreatment-discharge-limitation" url="/us/md/cities/baltimore/cobra/attachments/21.09-Industrial_Pretreatment_Discharge_Limitation.pdf">
+      <heading>Industrial Pretreatment Discharge Limitation</heading>
+    </attachment>
+    <attachment name="industrial-pretreatment-discharge-regulations-for-heavy-metals" url="/us/md/cities/baltimore/cobra/attachments/21.07-Industrial_Pretreatment_Discharge_Regulations_for_Heavy_Metals.pdf">
+      <heading>Industrial Pretreatment Discharge Regulations for Heavy Metals</heading>
+    </attachment>
+    <attachment name="industrial-surcharge-rates" url="/us/md/cities/baltimore/cobra/attachments/21.10-Industrial_Surcharge_Rates.pdf">
+      <heading>Industrial Surcharge Rates</heading>
+    </attachment>
+    <attachment name="split-sampling" url="/us/md/cities/baltimore/cobra/attachments/21.11-Split_Sampling.pdf">
+      <heading>Split Sampling</heading>
+    </attachment>
+    <attachment name="stormwater-fees" url="/us/md/cities/baltimore/cobra/attachments/21.12-Stormwater_Fees.pdf">
+      <heading>Stormwater Fees</heading>
+    </attachment>
+    <attachment name="water-and-wastewater" url="/us/md/cities/baltimore/cobra/attachments/21.13-Water_and_Wastewater.pdf">
+      <heading>Water and Wastewater</heading>
     </attachment>
   </attachments>
 </container>

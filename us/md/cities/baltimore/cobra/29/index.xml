@@ -3,6 +3,14 @@
   <prefix>Title</prefix>
   <num>29</num>
   <heading>PARKING AUTHORITY OF BALTIMORE CITY</heading>
-  <xi:include href="./01/index.xml"/>
   <xi:include href="./02/index.xml"/>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled "Legacy Regulations".</annotation>
+    </annotations>
+    <attachment name="parking-authority" url="/us/md/cities/baltimore/cobra/attachments/29.01-Parking_Authority.pdf">
+      <heading>Parking Authority</heading>
+    </attachment>
+  </attachments>
 </container>

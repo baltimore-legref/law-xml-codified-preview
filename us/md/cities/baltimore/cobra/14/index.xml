@@ -6,7 +6,6 @@
   <xi:include href="./01/index.xml"/>
   <xi:include href="./02/index.xml"/>
   <xi:include href="./03/index.xml"/>
-  <xi:include href="./07/index.xml"/>
   <xi:include href="./09/index.xml"/>
   <attachments>
     <heading>Documents Incorporated By Reference</heading>
@@ -15,6 +14,27 @@
     </attachment>
     <attachment name="complete-streets-2021" url="/us/md/cities/baltimore/cobra/attachments/14-Complete_Streets_2021.pdf">
       <heading>Complete Streets 2021</heading>
+    </attachment>
+  </attachments>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled "Legacy Regulations".</annotation>
+    </annotations>
+    <attachment name="alley-gating" url="/us/md/cities/baltimore/cobra/attachments/14.01-Alley_Gating.pdf">
+      <heading>Alley Gating</heading>
+    </attachment>
+    <attachment name="curb-cuts" url="/us/md/cities/baltimore/cobra/attachments/14.02-Curb_Cuts.pdf">
+      <heading>Curb Cuts</heading>
+    </attachment>
+    <attachment name="developers-agreement" url="/us/md/cities/baltimore/cobra/attachments/14.03-Developers_Agreement.pdf">
+      <heading>Developers Agreement</heading>
+    </attachment>
+    <attachment name="traffic-mitigation" url="/us/md/cities/baltimore/cobra/attachments/14.03-Traffic_Mitigation.pdf">
+      <heading>Traffic Mitigation</heading>
+    </attachment>
+    <attachment name="valet-parking" url="/us/md/cities/baltimore/cobra/attachments/14.07-Valet_Parking.pdf">
+      <heading>Valet Parking</heading>
     </attachment>
   </attachments>
 </container>
