@@ -48,8 +48,17 @@
     <heading>ONLINE TELEPHONE DIRECTORY</heading>
     <text>The complete directory of City telephone numbers is available online via the employee's VoIP telephone set.</text>
   </para>
+  <attachments>
+    <attachment url="/us/md/cities/baltimore/administrative-manual/AM-507-1-1.pdf">
+      <prefix>Policy</prefix>
+      <num>AM-507-1-1</num>
+      <heading>Municipal Telephone Service</heading>
+      <annotations/>
+    </attachment>
+  </attachments>
   <annotations>
     <annotation type="History" effective="1977-01-17" display="true">January 17, 1977</annotation>
+    <annotation type="History" effective="2012-07-13" display="true">July 13, 2012</annotation>
     <annotation type="History" effective="2021-08-25" display="true">August 25, 2021</annotation>
   </annotations>
 </section>
