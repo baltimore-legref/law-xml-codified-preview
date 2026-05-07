@@ -1,8 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" url="/us/md/cities/baltimore/administrative-manual/AM-204-7-1.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-204-7-1</num>
   <heading>Lactation Accommodation Confirmation Letter</heading>
+  <text>[DATE]</text>
+  <text>[NAME]<br/>[ADDRESS]<br/>[ADDRESS]</text>
+  <text>Re: Lactation Accommodation</text>
+  <text>Dear [EMPLOYEE NAME],</text>
+  <text>Congratulations on the birth of your child and welcome back to work.  You informed us that you intend to breastfeed your child and will require a lactation accommodation under <cite path="§AM-204-7">AM-204-7</cite> (<em>Lactation Accommodations</em>).  This letter is to memorialize the accommodation we have agreed to, as well as to provide you with some important guidelines.</text>
+  <text>Please note that we will provide you with an accommodation for up to one (1) year from the birth of your child or until [DATE – ONE YEAR FROM CHILD'S BIRTH].  We may at our discretion extend the accommodation beyond one year (with or without modification), if requested to do so.  Any decision to extend, however, will depend on the operational needs of the agency.</text>
+  <text>The accommodation we have agreed to provide is as follows:</text>
+  <para>
+    <num>1.</num>
+    <text>We will allow you to take reasonable break time during the work day to express milk.  Although we understand that the length and frequency of breaks may vary by individual, U.S. Department of Labor guidelines suggest that usually no more than two or three breaks in an eight- hour period will be necessary.  It is our expectation that you will be ready to work when you start your shift, meaning that you will have taken the time to express milk before the workday starts.  You are expected to work cooperatively with us to schedule and take breaks in a manner that does not disrupt agency business or services.</text>
+  </para>
+  <para>
+    <num>2.</num>
+    <text>You will use your regularly scheduled rest and meal periods for lactation purposes, and we will allow you to structure those break periods as follows:  [SPECIFIC TIME(S) OF DAY EMPLOYEE WILL TAKE LACTATION BREAKS AND APPROXIMATE LENGTH OF BREAKS].  If you require additional time for lactation (beyond regular rest and meal periods), you must use accrued leave – personal, vacation, compensatory and up to five (5) days of sick leave.  Any sick leave used will count toward the five days provided by labor agreement for use in caring for an immediate family member, where applicable.  If you do not have sufficient accrued leave, we will reduce your leave as it accrues.</text>
+  </para>
+  <para>
+    <num>3.</num>
+    <text>You will take your breaks at the following location:  [IDENTIFY LACTATION ROOM – <em>E.G.</em> CONFERENCE ROOM, EMPLOYEE'S OFFICE, PERMANENT LACTATION FACILITY].  You are responsible for keeping the room clean during and after use.  You must also provide your own pump and other needed supplies, which should be stored in your personal work space.</text>
+  </para>
+  <para>
+    <num>4.</num>
+    <text>You are responsible for storing your own breast milk.  If your work area has a shared refrigerator for use by employees, you may store your milk there, provided the refrigerator is not also used to store biohazards or lab specimens.  You are responsible for providing your own containers for expressed milk, which must be concealed in a labeled, personal storage bag.  If there is no refrigerator available, you must provide your own means to store and keep the milk cold, such as a personal storage cooler.  The City of Baltimore is not responsible for the integrity or security of breast milk stored on City property.</text>
+  </para>
+  <para>
+    <num>5.</num>
+    <text>If you do not have a place to store your pump or a personal storage cooler, we will provide a storage space for you.  The City is not responsible for personal items stored on City property.</text>
+  </para>
+  <para>
+    <num>6.</num>
+    <text>If at any time you decide to stop breastfeeding your child, you must promptly notify us of your decision.  You must also promptly notify us if you require fewer or shorter breaks.  You will be responsible for accurately tracking and reporting leave used for lactation purposes.  Any failure on your part to accurately report leave usage, or to use the accommodation for its intended purpose, may result in disciplinary action.</text>
+    <text>Please be advised that we may, at our discretion, modify this accommodation at any time.  If modifications are needed, we will notify you in writing.</text>
+    <text>We hope this accommodation will help facilitate your efforts to breastfeed your child.  If you have any questions about these arrangements or require assistance, please do not hesitate to contact [NAME OF HR CONTACT] at [PHONE NUMBER AND E-MAIL].</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td/>
+            <td>Sincerely,</td>
+          </tr>
+          <tr>
+            <td/>
+            <td>[HR REPRESENTATIVE]</td>
+          </tr>
+          <tr>
+            <td>I have read and agree to the above terms,</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>___________________________</td>
+            <td>_______</td>
+          </tr>
+          <tr>
+            <td>[EMPLOYEE NAME]</td>
+            <td>[DATE]</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </para>
   <annotations>
     <annotation type="History" effective="2013-01-09" display="true">January 9, 2013</annotation>
   </annotations>

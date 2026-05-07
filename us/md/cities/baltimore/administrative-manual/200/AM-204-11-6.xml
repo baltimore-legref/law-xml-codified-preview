@@ -1,8 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" url="/us/md/cities/baltimore/administrative-manual/AM-204-11-6.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-204-11-6</num>
   <heading>Agency HR Checklist</heading>
+  <text>
+    <ul>
+      <li><u>Acknowledge the Leave Request</u> –  Within 24 hours of receiving notice that an employee will be taking military leave, send the employee an <em>Acknowledgement of Military Leave </em>(<em><cite path="§AM-204-11-3">AM-204-11-3</cite></em>) and attach copies of the following:</li>
+      <ul>
+        <li>
+          <em>Military Leave Policy (<cite path="§AM-204-11">AM-204-11</cite>)</em>
+        </li>
+        <li>
+          <em>Military Leave of Absence Form (<cite path="§AM-204-11-1">AM-204-11-1</cite>)</em>
+        </li>
+        <li>
+          <em>Employee Checklist for Military Deployment (<cite path="§AM-204-11-4">AM-204-11-4</cite>)</em>
+        </li>
+        <li>
+          <em>Continuation of Benefits While on Military Leave Fact Sheet (<cite path="§AM-204-11-5">AM-204-11-5</cite>)</em>
+        </li>
+        <li>
+          <em>Military Leave Testing Procedures (<cite path="§AM-204-11-2">AM-204-11-2</cite>) [Optional]</em>
+        </li>
+      </ul>
+    </ul>
+  </text>
+  <text class="text-indent-1">These documents, and fillable forms and letters, are available electronically in the "HR Tools" section of the Department of Human Resources' intranet site.</text>
+  <text>
+    <ul>
+      <li><u>Follow-up with the Employee</u> – Encourage employees to return the <em>Military Leave of Absence Form </em>as soon as possible, preferably before they depart for leave.  Offer the employee reminders as necessary.  In the case of a short-notice deployment, work with the employee (or a designated contact or proxy) to gather the information requested on the form.</li>
+      <li><u>Determine Eligibility for Paid Leave and Benefits</u> – Review the employee's military orders to verify the employee's eligibility for paid leave and City-subsidized health benefits.</li>
+      <ul>
+        <li><u>Inactive Duty Training</u>. Confirm that the leave will be used for inactive duty training and drilling.  Use E-Time to determine how many paid training days the employee already used during the fiscal year and authorize use of the remaining balance (up to 15 days).</li>
+        <li><u>State Active Duty Service</u>. Paid leave for "state active duty service" should be authorized only when a member of the Maryland militia (<em>e.g.</em> the Maryland National Guard, the Maryland Air National Guard, the Inactive National Guard, or the Maryland Defense force) is ordered to active duty service <em>by the Governor of Maryland</em>.  Such orders are relatively rare and typically stem from a natural disaster or other public crisis within the state.  An order issued "with the consent of the Governor" is <u>not</u> a state active duty order.</li>
+      </ul>
+    </ul>
+  </text>
+  <text>If the employee's eligibility for paid leave and/or benefits it is not clear from the face of the orders, the agency should contact the employee's military command to request clarification.  Ultimately, it is the employee's responsibility to ensure the agency receives adequate documentation to verify eligibility.</text>
+  <text>
+    <em>All paid leave requests must be approved by the Department of Human Resources.</em>
+  </text>
+  <text>
+    <ul>
+      <li><u>Notify the Employee's Retirement Plan </u>– Send a copy of the employee's <em>Acknowledgment of Military Leave</em> letter to the employee's retirement plan (<em>e.g.</em> Employee Retirement System (ERS), Fire and Police Employees' Retirement System (F&amp;P), or the Elected Officials' Retirement System (EOS)).  Notification is necessary to ensure that time spent in the military is counted for pension vesting and accrual purposes.  In the case of Fire &amp; Police Employees' Retirement System (F&amp;P) members, the employee's mandatory contributions to the plan must be suspended during leave, as is required under the plan.</li>
+      <li><u>Notify the </u><em><u>Employee Benefits Division</u></em> – As soon as the employee returns the <em>Military Leave of Absence Form</em>, forward a copy to the Employee Benefits Division, Department of Human Resources so that the employee's benefit elections can be processed.</li>
+      <li><u>Provide an HR Contact</u> – The agency's HR department should assign the employee an HR point-of-contact so that the employee and/or a family member can call with questions during the leave.</li>
+      <li><u>Secure City Property and Resources</u> – Before an employee departs for a longer period of military service (such as an active duty deployment), collect all City property in the employee's possession, including:  vehicles, keys, access cards, credit cards, pagers, cell phones, radios, laptops, cameras, parking passes, fuel cards, City Driver Permits, uniforms, tools, equipment, and City files and records.</li>
+    </ul>
+  </text>
+  <text>Retrieve any City funds held by the employee, such as petty cash, and change security codes as necessary.  Agencies should also disable the employee's access to City e-mail accounts by logging on to <a href="https://cob/moit/acct/">https://cob/moit/acct/</a>.</text>
+  <text>
+    <ul>
+      <li><u>Processing Leave in HRIS and E-Time</u> – As soon as the employee departs for military leave, change the department locator to "MIL."  Timekeepers will track the employee in E-Time using the following pay codes:</li>
+      <ul>
+        <li>Military – Accrued Vacation</li>
+        <li>Military – Accrued Personal</li>
+        <li>Military – Accrued Comp Time</li>
+        <li>Military – Paid Training</li>
+        <li>Military – Paid State Active Duty</li>
+        <li>Military – Unpaid Leave</li>
+      </ul>
+    </ul>
+  </text>
+  <text>The first three codes should be used while the employee uses accrued vacation, personal or compensatory leave.  The "Military – Paid Training" code should be used when an employee is on military leave for training.  The "Military – Paid State Active Duty" code should be used on the relatively rare occasion when an employee has been called to active duty service by the Governor of Maryland.</text>
+  <text>When all paid and/or accrued leave elections have been exhausted, timekeepers should use the "Military – Unpaid Leave" code.</text>
+  <text>UPON RETURN FROM MILITARY LEAVE</text>
+  <text>
+    <ul>
+      <li><u>Verify Military Service</u> – When an employee returns from a military leave of absence of longer than 30 days, ask the employee to provide documentation to establish that:  1) the reemployment application is timely; 2) the employee has not exceeded the five-year limit on the duration of service; and 3) the employee's separation from service was not disqualifying.</li>
+    </ul>
+  </text>
+  <text><em>Do not delay reemployment while awaiting verification. </em> Temporarily reinstate the employee until documentation is received.  If documentation is not forthcoming, contact the employee's military unit for assistance.</text>
+  <text>
+    <ul>
+      <li><u>Determine Eligibility for Reemployment </u>– The employee must be eligible for reemployment under Section 9 of the <em>Military Leave Policy</em>, which requires the following:</li>
+      <ul>
+        <li>The employee gave advance notice of the need to take military leave, absent extenuating circumstances;</li>
+        <li>The employee's cumulative years of military service does not exceed five years, subject to the exceptions outlined in the USERRA regulations at 20 C.F.R. §1002.103;</li>
+        <li>The employee did not separate from the military with a dishonorable or bad conduct discharge, by court martial, or under "other than honorable conditions"; and</li>
+        <li>The employee reported back to work or applied for reemployment within the appropriate time constraints:</li>
+        <li><u>Military leave less than 30 days (including fitness-for-service exams)</u> – No later than the first regularly scheduled workday that starts at least 8 hours after the person's return home from military service.</li>
+        <li><u>Military leave between 31 and 180 days</u> – No later than 14 calendar days after completing military service.</li>
+        <li><u>Military leave greater than 180 days</u> – No later than 90 calendar days following the completion of military service.</li>
+        <li><u>Following a Service-Connected Injury</u> – No later than two years following completion of service.</li>
+      </ul>
+      <li><u>Notification of Reemployment</u> – Once the employee has been restored to City employment, complete a <em>Reemployment Notification Form</em> (<em><cite path="§AM-201-11-6">AM-201-11-6</cite></em>) and forward it to:</li>
+      <li>Employee Benefits Division</li>
+      <li>Central Payroll Division</li>
+      <li>The employee's retirement plan (ERS/F&amp;P/EOS)</li>
+    </ul>
+  </text>
   <annotations>
     <annotation type="History" effective="2006-01-01" display="true">January 1, 2006</annotation>
     <annotation type="History" effective="2012-12-19" display="true">December 19, 2012</annotation>

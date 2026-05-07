@@ -1,8 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" url="/us/md/cities/baltimore/administrative-manual/AM-204-11-5.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-204-11-5</num>
   <heading>Continuation of Benefits While on Military Leave</heading>
+  <text>If you are taking leave for military service, you should understand what happens to your benefits while you are away. Take a minute to read the information below to understand your benefit options. If you have further questions, you may contact your HR representative for assistance or refer to the appropriate benefit administrator. Please note that all benefit offerings are subject to change from time to time, and the City reserves the right to make changes with or without notice.</text>
+  <text>
+    <strong>Health Insurance</strong>
+  </text>
+  <text>While on military leave, you may continue your City health benefits (including medical, dental, vision, and prescription drug coverage) at the same elections you have now.  The City will continue to contribute toward the cost of your coverage for as long as you remain in pay status and for shorter periods of military service (30 days or less).</text>
+  <text>If your service obligation is expected to last more than 30 days, you are eligible for coverage under TRICARE (<a href="http://www.tricare.mil/">http://www.tricare.mil/</a>). You may also continue participation in your City health plan at full cost (without the City contributing toward the premiums) for a maximum of 24 months under the Uniformed Services Employment and Reemployment Rights Act (USERRA). Your USERRA right to continued health coverage is very similar to your right to 18 months of continued coverage under COBRA and will run concurrently with your COBRA rights.</text>
+  <text>If you decide to cancel your City health benefits during leave, you will be able to reenroll in the same plans you had before when you return to work – with no waiting periods or pre-existing condition exclusions, except for service-connected conditions under certain plans.</text>
+  <text>
+    <strong>Flexible Spending Accounts</strong>
+  </text>
+  <text>You have the option of either suspending or continuing your Healthcare Flexible Spending Account (Healthcare FSA) contributions during military leave. If you decide to suspend contributions, your account will be reinstated when you return to work, provided you return within the same plan year. If you return during a different plan year, you will have 60 days from the date of your return to reenroll. You will have until the end of the plan year run-out period to submit requests for reimbursement. Claims incurred after the date you terminate your Healthcare FSA will not be eligible for reimbursement.</text>
+  <text>If you decide to continue your Healthcare FSA, contributions to your account will be taken via normal payroll deduction for as long as you remain in pay status. If you enter non-pay status, you will have to make after-tax contributions to your Healthcare FSA in order to remain enrolled. The amount of your contribution may be changed only if you experience a Qualified Life Event. Direct billing for after-tax contributions must be arranged through the Employee Benefits Division.</text>
+  <text>Qualified reservists who are called to active duty for 180 days or more have the additional option of requesting a taxable distribution of any unused funds. You might consider doing this, for example, if you do not think you will have enough eligible expenses to deplete the balance in your account. Rather than forfeit those funds, you can have the balance returned to you.</text>
+  <text>Employees on extended, unpaid leaves (including unpaid military leave) may not continue participation in a Dependent Care FSA, but may withdraw their account balance as taxable income.</text>
+  <text>
+    <strong>Life Insurance and AD&amp;D</strong>
+  </text>
+  <text>You may elect to continue your group life insurance coverage during military leave. Under the Optional Life plan, benefits are payable in the event of death resulting from military service. The City's Accidental Death and Dismemberment (AD&amp;D) plan, however, will not pay for death or loss resulting from war or acts of war or from a substantial armed conflict.</text>
+  <text>If you decide to discontinue your enrollment in one or both of these plans, you will be able to re-enroll for the amount of coverage you had before as long, as you do so within 60 days of your return to active employment. Evidence of insurability will not be required if you apply within this timeframe.</text>
+  <text>
+    <strong>Pension Plans</strong>
+  </text>
+  <text>You will receive service credit for vesting and eligibility purposes for periods of qualified military leave. For members of the Employee Retirement System (ERS) and Elected Officials' Retirement System (EOS), credited service will continue during military leave, provided you qualify for reemployment, return to active City employment within one year of discharge from the military, and provide all required documentation.</text>
+  <text>If you are a member of the Fire &amp; Police Employees' Retirement System (F&amp;P), you will receive service credit for military leave, with the City making all mandatory employee contributions to the plan during your leave ("military service contributions"), provided you qualify for reemployment, return to work within one year of discharge, and provide all required documentation. Military service contributions are awarded <em>only</em> upon retirement from City employment. Employees who separate for other reasons will not receive the benefit of military service contributions.</text>
+  <text>Under all three plans, a member who dies while performing military service will be treated as if actively employed for the purpose of awarding death benefits. Beneficiaries will be eligible to receive non-line-of-duty benefits, excluding accruals for time spent in military service.</text>
+  <text>
+    <strong>Deferred Compensation</strong>
+  </text>
+  <text>Contributions to the City's Deferred Compensation Plan cease during military leave once you are no longer in pay status, although you will be able to resume contributions when you return to work. In addition, you will be permitted to make "catch-up" contributions for a period of up to three times the length of your military leave (not to exceed five years).</text>
+  <text>If you have been called to active duty for more than 179 days, you are eligible to withdraw your contributions from your account without the 10% early withdrawal tax. Upon your return from active duty, you may redeposit any funds that you withdrew, to an IRA, for up to 2 years from the end of active service.</text>
+  <text>
+    <strong>Before You Go…</strong>
+  </text>
+  <text>If you plan to continue your City health benefits and/or life insurance during longer periods of military leave (more than 30 days), you must indicate your benefit elections on a <em>Military Leave of Absence Form (<cite path="§AM-201-11-1">AM-201-11-1</cite>) </em>and promptly return the form to your HR representative. If you fail to make an election, <em>your benefits will be terminated</em>.</text>
+  <text>Benefit coverage will continue for as long as you make timely premium payments either through payroll deduction (for periods of paid leave) or direct billing (during unpaid leaves). Questions about health and life insurance benefits should be directed to the Employee Benefits Division at 410-396-5830.</text>
+  <text>Before you depart, you should also notify your retirement plan and update your beneficiary designations. A plan representative will also advise you on the steps you need to take to ensure that the time you spend performing military service is counted for vesting and accrual purposes.</text>
+  <text>Employee Retirement System	443-984-3200</text>
+  <text>Fire and Police Employees' Retirement System	410-497-7929 (Option 3)</text>
+  <text>Elected Officials' Retirement System	443-984-3200</text>
   <annotations>
     <annotation type="History" effective="2006-01-01" display="true">January 1, 2006</annotation>
     <annotation type="History" effective="2012-12-19" display="true">December 19, 2012</annotation>

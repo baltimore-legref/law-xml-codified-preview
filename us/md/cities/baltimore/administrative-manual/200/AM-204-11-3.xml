@@ -1,8 +1,80 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" url="/us/md/cities/baltimore/administrative-manual/AM-204-11-3.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-204-11-3</num>
   <heading>Acknowledgement of Military Leave</heading>
+  <text>[DATE]<br/>[EMPLOYEE NAME]<br/>[ADDRESS]<br/>[ADDRESS]</text>
+  <text>Dear [EMPLOYEE NAME]:</text>
+  <text>This confirms your request for a military leave of absence beginning [DATE].  If you have not already done so, please complete the attached <em>Military Leave of Absence Form</em> (<em><cite path="§AM-204-11-1">AM-204-11-1</cite></em>) to indicate your preferences concerning paid leave and benefits and to designate a contact person who can receive mail (and act on your behalf) while you are away.  Please complete this form as quickly as possible <em>before you depart for leave</em>.</text>
+  <text>Based on the information we have on file, you may be eligible for the following:</text>
+  <text>[Include ALL that apply]</text>
+  <text>
+    <ul>
+      <li>Paid military leave for up to fifteen days for inactive duty training.  Our records show that you have ____ paid training day(s) left in this fiscal year.</li>
+      <li>Paid military leave for state active duty service that is ordered by the Governor of Maryland, in accordance with MD. CODE ANN., <cite doc="Md. Code" path="gps|13-706">Public Safety § 13-706</cite>.</li>
+      <li>Unpaid military leave once your paid leave elections have been exhausted.</li>
+    </ul>
+  </text>
+  <text>Eligibility for paid leave and/or benefits must be confirmed with your prompt submission of military orders.</text>
+  <text>You are also permitted (but not required) to use your own accrued personal, vacation, and compensatory leave during your absence.  Sick leave may not be used.  Accrued leave days will be applied consecutively at the start of the leave period.</text>
+  <text>If military service is expected to last 30 days or less, your City benefits will continue automatically unless you cancel the coverage.  If you wish to continue your City benefits during a longer period of leave, you must elect to continue your coverage on the <em>Military Leave of Absence Form. </em> If you fail to make an election, your benefits will be cancelled during leave.  Please note that if you decide not to participate in your City health plan during leave, coverage for your dependents will also terminate.</text>
+  <text>For your convenience, I have attached the following informational materials concerning military leave:</text>
+  <text>
+    <em>Military Leave Policy (<cite path="§AM-204-11">AM-204-11</cite>)</em>
+  </text>
+  <text>
+    <em>Employee Checklist for Military Deployment (<cite path="§AM-204-11-4">AM-204-11-4</cite>)</em>
+  </text>
+  <text>
+    <em>Continuation of Benefits Fact Sheet (<cite path="§AM-204-11-5">AM-204-11-5</cite>)</em>
+  </text>
+  <text>
+    <em>Military Leave Testing Procedures (<cite path="§AM-204-11-2">AM-204-11-2</cite>) [Optional]</em>
+  </text>
+  <text>Please pay particular attention to the <em>Employee Checklist</em>, which outlines some additional steps you should consider taking before you depart.</text>
+  <text>When you have completed your military service, you should return to City-employment within the time limits mandated by USERRA, which are discussed in Section 9 of the <em>Military Leave Policy</em>.  Failure to return to work in a timely manner will be considered a resignation from City employment.  You are responsible for keeping us informed of any changes to your military orders while on leave, including changes to your release date.</text>
+  <text>If you have any questions regarding your military leave of absence or require assistance, please do not hesitate to contact [NAME OF HR CONTACT] at [PHONE NUMBER].</text>
+  <text>
+    <table class="layout-table">
+      <tbody>
+        <tr>
+          <td/>
+          <td/>
+          <td>Sincerely,</td>
+        </tr>
+        <tr>
+          <td/>
+          <td/>
+          <td>[HR REPRESENTATIVE]</td>
+        </tr>
+        <tr>
+          <td>cc:</td>
+          <td>[NAME OF SUPERVISOR]</td>
+          <td/>
+        </tr>
+        <tr>
+          <td/>
+          <td>Employee Benefits Division</td>
+          <td/>
+        </tr>
+        <tr>
+          <td/>
+          <td>[Employee Retirement System]</td>
+          <td/>
+        </tr>
+        <tr>
+          <td/>
+          <td>[Fire &amp; Police Employees' Retirement System]</td>
+          <td/>
+        </tr>
+        <tr>
+          <td/>
+          <td>[Elected Officials' Retirement System]</td>
+          <td/>
+        </tr>
+      </tbody>
+    </table>
+  </text>
   <annotations>
     <annotation type="History" effective="2006-01-01" display="true">January 1, 2006</annotation>
     <annotation type="History" effective="2012-12-19" display="true">December 19, 2012</annotation>

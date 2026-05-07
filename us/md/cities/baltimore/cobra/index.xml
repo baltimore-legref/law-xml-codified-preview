@@ -8,6 +8,13 @@
   </meta>
   <heading>COBRA</heading>
   <description>Code of Baltimore Regulations Annotated</description>
+  <annotations>
+    <annotation type="Editor's Notes">
+      <text>The regulations contained in the table of contents were created or substantively changed by a City Agency after the enactment of the City's Administrative Procedure Act ("APA") and promulgated in accordance with the APA.</text>
+      <text>Certain Agency titles have a section called "Legacy Regulations." Legacy regulations are a special category of regulations that were incorporated into COBRA following the passage of the APA if they were filed with DLR. DLR is working to update these regulations into APA formatting. For more information on legacy regulations, please contact DLR.</text>
+      <text>"Incorporation by reference," or "IBR," is a process that allows a secondary document to be adopted into and considered part of a primary document. Documents that are incorporated by reference into COBRA carry the same legal weight and enforceability as COBRA regulations.</text>
+    </annotation>
+  </annotations>
   <xi:include href="./05/index.xml"/>
   <xi:include href="./07/index.xml"/>
   <xi:include href="./13/index.xml"/>

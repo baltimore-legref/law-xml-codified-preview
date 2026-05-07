@@ -1,8 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" url="/us/md/cities/baltimore/administrative-manual/AM-204-11-4.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-204-11-4</num>
   <heading>Employee Checklist for Military Deployment</heading>
+  <text><u>Keep your agency informed</u> – If you are a member of a Guard or Reserve unit, give your supervisor a copy of your annual training schedule as soon as it becomes available. Providing maximum lead time will help your agency accommodate your military activities.</text>
+  <text>
+    <ul>
+      <li><u>Give plenty of notice</u> – As soon as you have notice of a deployment or other military service obligation, notify your supervisor and provide a copy of your orders.  Defense Department regulations strongly recommend that service members provide <em>at least 30 days advance written notice</em> whenever it is feasible to do so.  The failure to provide advance notice may jeopardize your eligibility for reemployment.</li>
+      <li><u>Complete a </u><em><u>Military Leave of Absence Form</u></em><em> – </em>Before you depart for leave, complete a <em>Military Leave of Absence Form</em> (<em><cite path="§AM-201-11-1">AM-201-11-1</cite></em>) and return it to your HR department.  The information you provide on the form will help us stay in touch with you while you are on leave.  It will also help us administer paid leave and other benefits. If your military obligation is expected to last more than 30 days and you wish to continue your City benefits, <em>you must make an election on this form</em>.  If you fail to do so, your benefits will be cancelled until you return to City employment.</li>
+      <li><u>Notify your retirement plan</u> – Let your retirement plan know that you will be taking a leave of absence for military service.  Representatives of the plan will advise you on what you need to do to ensure that time spent in military service is counted for pension vesting and accrual purposes.  In the case of Fire &amp; Police Employees' Retirement System (F&amp;P) members, the plan must be notified so that your mandatory contributions to the plan can be suspended.</li>
+      <li><u>Update beneficiary information </u>– Before you leave for active duty military service, contact your retirement and life insurance plans to update your beneficiary designations.</li>
+    </ul>
+  </text>
+  <text>
+    <table class="layout-table">
+      <tr>
+        <td>Employee Retirement System</td>
+        <td>443-984-3200</td>
+      </tr>
+      <tr>
+        <td>Fire and Police Employees' Retirement System</td>
+        <td>410-497-7929 (Option 3)</td>
+      </tr>
+      <tr>
+        <td>Elected Officials' Retirement System</td>
+        <td>443-984-3200</td>
+      </tr>
+      <tr>
+        <td>Employee Benefits Division</td>
+        <td>410-396-5830</td>
+      </tr>
+      <tr>
+        <td>Deferred Compensation</td>
+        <td>877-223-2748</td>
+      </tr>
+    </table>
+  </text>
+  <text>
+    <ul>
+      <li><u>Payroll Deductions</u> – The City will continue to process payroll deductions – including wage garnishments, child support payments, and deductions taken for voluntary insurances and the Municipal Employees Credit Union (MECU) – for as long as you remain in pay status and have sufficient funds cover the payments.  If you fall out of pay status during military leave, the City will suspend any deductions.  If some or all of your leave will be unpaid, you should make other arrangements payment before you go.</li>
+      <li><u>Fire and Police Promotional Examinations</u> – Fire and Police personnel who will not be available to sit for a ranked promotional exam due to military service should review the <em>Military Leave Testing Procedures</em> (<em><cite path="§AM-201-11-2">AM-201-11-2</cite></em>) and contact the Test Administrator.  You will be allowed to sit for a makeup exam when you return to City employment, provided you complete the necessary paperwork.  The Test Administrator can be reached at 410-396-3857.</li>
+      <li><u>Keep contact information up-to-date</u> – Keep us advised of your correct permanent and mailing address(es) during leave.  Changes in your permanent address may affect your eligibility for certain health plans.  In addition, we need a correct mailing address to keep you (or your designated contact) informed of matters related to your employment, including benefits.</li>
+      <li><u>Report extensions of orders</u> – Notify your supervisor of any changes to your military orders, including extensions.  It is your responsibility to keep us informed of any changes to your expected release date.</li>
+    </ul>
+  </text>
   <annotations>
     <annotation type="History" effective="2006-01-01" display="true">January 1, 2006</annotation>
     <annotation type="History" effective="2012-12-19" display="true">December 19, 2012</annotation>

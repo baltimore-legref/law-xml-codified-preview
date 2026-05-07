@@ -1,8 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" url="/us/md/cities/baltimore/administrative-manual/AM-204-11-2.pdf">
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Policy</prefix>
   <num>AM-204-11-2</num>
   <heading>Military Leave Testing Procedures</heading>
+  <text>Fire and Police Department employees who expect to be on military leave during a ranked promotional examination may, before departing for leave, make arrangements to sit for a makeup exam upon their return.  Arrangements should be made in advance of leave by contacting the Test Administrator, Department of Human Resources.  The Test Administrator will require the candidate to provide the following:</text>
+  <para>
+    <num>1.</num>
+    <text>A copy of the military orders with a projected return date;</text>
+  </para>
+  <para>
+    <num>2.</num>
+    <text>A written statement from the employee's military command stating that military service is <em>required</em> on the date of the exam and cannot be rescheduled to avoid the conflict; and</text>
+  </para>
+  <para>
+    <num>3.</num>
+    <text>A signed <em>Pledge Form</em>, which precludes the candidate from discussing the exam (or its content) with anyone who takes the exam on the original test date.</text>
+    <text>Test candidates must provide the Test Administrator with copies of any updated or changed military orders.  If subsequent orders eliminate the scheduling conflict, the candidate must sit for the exam on the day it is scheduled and a makeup exam will not be administered.</text>
+    <text>Eligible candidates may take a makeup examination only upon return to City employment.  Exams will <em>not</em> be administered to candidates off-site.  Candidates returning from military leave will be permitted to take a reasonable amount of time to adjust to reemployment before sitting for the exam.</text>
+    <text>It is the candidate's responsibility to contact the Test Administrator to schedule the makeup exam, which will be a comparable, alternate form of the original test.  The exam will be administered under controlled, monitored conditions by Department of Human Resources staff.  Once the makeup exam has been taken and scored, the candidate will be placed on the current list by the ranking that would have been achieved had the candidate taken the test at the time it was originally scheduled.</text>
+  </para>
   <annotations>
     <annotation type="History" effective="2006-01-01" display="true">January 1, 2006</annotation>
     <annotation type="History" effective="2012-12-19" display="true">December 19, 2012</annotation>

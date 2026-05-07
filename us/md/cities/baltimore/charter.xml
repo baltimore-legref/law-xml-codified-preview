@@ -85,7 +85,7 @@
         <text>"Street", unless the contrary clearly appears from the context, shall include any public street, boulevard, road, alley, lane, sidewalk, footway or other public way owned by the city or habitually used as such by the public.</text>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(l)</num>
         <heading>Members.</heading>
         <text>Wherever provision is made in the Charter that the City Council shall act by a majority or other proportion of its members, the term "members" in the phrase "of its members" shall mean the total number of members provided for by law, including the President, whether or not any vacancies due to death, resignation, disqualification or other cause may then exist.</text>
       </para>
@@ -2184,10 +2184,10 @@
         <para>
           <num>(3)</num>
           <text>provide that counterparts of that ordinance may be executed by the appropriate parties so as to constitute a trust agreement.</text>
-          <text>The trust agreement, or the authorizing ordinance, may pledge or assign all or any part of</text>
         </para>
+        <aftertext>The trust agreement, or the authorizing ordinance, may pledge or assign all or any part of</aftertext>
         <para>
-          <num>(1)</num>
+          <num proof="done">(1)</num>
           <text>the revenues from or arising in connection with the property, facilities, developments and improvements whose financing is undertaken by issuance of the bonds, notes or other obligations,</text>
         </para>
         <para>
@@ -2894,22 +2894,19 @@
             <num>(i)</num>
             <text>In lieu of the pledges set forth in paragraph (1) of this subsection, the authorizing ordinance or trust agreement, subject to subparagraphs (ii) and (iii) of this paragraph, may pledge or assign:</text>
             <para>
-              <num>3.</num>
+              <num>1.</num>
               <text>all or any part of that portion of the revenues and receipts from the taxes representing the levy of the tax increment that would normally be paid to the Mayor and City Council of Baltimore to the payment of such principal and interest;</text>
             </para>
             <para>
-              <num>4.</num>
+              <num>2.</num>
               <text>the special fund described in <cite path="II|§(62)|(d)|(3)|(ii)">subsection (d)(3)(ii) of this section</cite> and any other fund into which all or any part of such revenues and receipts are deposited after such revenues and receipts are appropriated by the Mayor and City Council of Baltimore to the payment of such principal and interest;</text>
             </para>
             <para>
-              <num>5.</num>
+              <num>3.</num>
+              <text>amounts provided to the Mayor and City Council of Baltimore by the State under § 2-222 the Tax–Property Article of the Annotated Code of Maryland; and</text>
             </para>
             <para>
-              <num>6.</num>
-              <text>amounts provided to the Mayor and City Council of Baltimore by the State under § 2§ 2-222 the Tax–Property Article of the Annotated Code of Maryland; and</text>
-            </para>
-            <para>
-              <num>7.</num>
+              <num>4.</num>
               <text>any other assets and revenues of the Mayor and City Council of Baltimore.</text>
             </para>
           </para>
@@ -3350,7 +3347,7 @@
           </para>
         </para>
         <para>
-          <num>(5)</num>
+          <num>(2)</num>
           <text>The purpose of the authority granted under paragraph (1) of this subsection is to provide financing, refinancing, or reimbursement for the cost of the design, construction, establishment, extension, alteration, or acquisition of infrastructure improvements, whether situated within the special taxing district or outside the special taxing district if the infrastructure improvement is reasonably related to other infrastructure improvements within the special taxing district.</text>
         </para>
       </para>
@@ -3390,7 +3387,7 @@
             <text>extensions, enlargements, additions, and improvements;</text>
           </para>
           <para>
-            <num>(vii)</num>
+            <num>(v)</num>
             <text>architectural, engineering, financial, and legal services;</text>
           </para>
           <para>
@@ -3410,7 +3407,7 @@
             <text>relocation of businesses and residents; and</text>
           </para>
           <para>
-            <num>(xv)</num>
+            <num>(x)</num>
             <text>other expenses as may be necessary or incident to the construction, acquisition, and financing of the infrastructure improvements.</text>
           </para>
         </para>
@@ -3471,7 +3468,7 @@
           </para>
         </para>
         <para>
-          <num>(1)</num>
+          <num>(2)</num>
           <text><cite path="II|§(62A)">This section</cite> is self-executing and does not require the Mayor and City Council of Baltimore to enact legislation to exercise the powers granted under <cite path="II|§(62A)">this section</cite>.</text>
         </para>
       </para>
@@ -3483,7 +3480,7 @@
           <text>Bonds shall be payable from the special fund to the extent provided in the authorizing ordinance, as set forth in <cite path="II|§(62A)|(e)">subsection (e) of this section</cite>.</text>
         </para>
         <para>
-          <num>(12)</num>
+          <num>(2)</num>
           <text>All proceeds received from any bonds issued and sold shall be applied solely to pay the cost of infrastructure improvements, including:</text>
           <para>
             <num>(i)</num>
@@ -3510,11 +3507,11 @@
           <num>(1)</num>
           <text>Before issuing bonds, the Mayor and City Council of Baltimore shall by ordinance:</text>
           <para>
-            <num>(iii)</num>
+            <num>(i)</num>
             <text>designate an area or areas as a special taxing district;</text>
           </para>
           <para>
-            <num>(i)</num>
+            <num>(ii)</num>
             <text>subject to paragraph (2) of this subsection, create a special fund with respect to the special taxing district; and</text>
           </para>
           <para>
@@ -3548,16 +3545,16 @@
             <num>(i)</num>
             <text>In lieu of the pledge set forth in paragraph (2)(i) of this subsection, the authorizing ordinance, subject to subparagraph (ii) of this paragraph, may pledge or assign:</text>
             <para>
-              <num>2.</num>
+              <num>1.</num>
               <text>all or any part of the revenues and receipts from the special taxes to the payment of principal and interest on the bonds; and</text>
             </para>
             <para>
-              <num>3.</num>
+              <num>2.</num>
               <text>the special fund and any other fund into which all or any part of such revenues and receipts are deposited after such revenues and receipts are appropriated by the Mayor and City Council of Baltimore to the payment of such principal and interest.</text>
             </para>
           </para>
           <para>
-            <num>(iv)</num>
+            <num>(ii)</num>
             <text>The revenues and receipts may not be irrevocably pledged to the payment of such principal and interest and the obligation to pay such principal and interest from such revenues and receipts shall be subject to annual appropriation by the Mayor and City Council of Baltimore.</text>
           </para>
         </para>
@@ -3621,9 +3618,6 @@
           </para>
           <para>
             <num>(iii)</num>
-          </para>
-          <para>
-            <num>(iii)</num>
             <text>specifies the maximum rate or rates of interest for the bonds; and</text>
           </para>
           <para>
@@ -3632,7 +3626,7 @@
           </para>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(2)</num>
           <text>The ordinance may specify, or may authorize the Board of Finance by resolution to specify, any of the following as it deems appropriate to effect the financing of the proposed undertaking:</text>
           <para>
             <num>(i)</num>
@@ -3651,7 +3645,7 @@
             <text>the manner in which and the times and places that the interest on the bonds is to be paid;</text>
           </para>
           <para>
-            <num>(vii)</num>
+            <num>(v)</num>
             <text>the time or times that the bonds may be executed, issued, and delivered;</text>
           </para>
           <para>
@@ -3671,7 +3665,7 @@
             <text>provisions establishing sinking funds or debt service reserve funds for the bonds;</text>
           </para>
           <para>
-            <num>(xv)</num>
+            <num>(x)</num>
             <text>provisions pledging other assets and revenues towards the payments of the principal of and interest on the bonds;</text>
           </para>
           <para>
@@ -3682,24 +3676,24 @@
             <num>(xii)</num>
             <text>any other provisions not inconsistent with <cite path="II|§(62A)">this section</cite> as shall be determined by the Mayor and City Council of Baltimore to be necessary or desirable to effect the financing of the proposed undertaking.</text>
           </para>
+        </para>
+        <para>
+          <num>(3)</num>
           <para>
-            <num>(3)</num>
-            <para>
-              <num>(i)</num>
-              <text>Before the ordinance that designates a special taxing district, authorizes the issuance of bonds, or levies ad valorem taxes or special taxes under the provisions of <cite path="II|§(62A)">this section</cite> may be finally enacted, the Mayor and City Council of Baltimore shall hold a public hearing after giving not less than 10-days notice in a newspaper of general circulation in the City of Baltimore.</text>
-            </para>
-            <para>
-              <num>(xii)</num>
-              <text>The ordinance enacted pursuant to this subsection, if such bonds constitute debt of the Mayor and City Council of Baltimore under <cite doc="Md. Const." path="XI|§7">Article XI, § 7 of the Maryland Constitution</cite>, shall be submitted to the legal voters of the City of Baltimore at the time and place specified therein.  Such ordinance shall become effective only if it is approved by the majority of the votes cast at the time and place specified in such ordinance.</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>Except as required by subparagraph (ii) of this paragraph, any ordinance or resolution enacted or adopted in furtherance of the ordinance enacted pursuant to this subsection, the bonds, the designation of a special taxing district, or the levy of a special ad valorem tax or special tax shall not be subject to any referendum.</text>
-            </para>
-            <para>
-              <num>(iv)</num>
-              <text>The ordinance authorizing the bonds required under this subsection, any ordinance or resolution enacted or adopted in furtherance of the required ordinance, the bonds, the designation of a special taxing district, or the levy of a special ad valorem tax or special tax shall be subject to the request of the landowners as specified under <cite path="II|§(62A)|(c)|(1)">subsection (c)(1) of this section</cite>.</text>
-            </para>
+            <num>(i)</num>
+            <text>Before the ordinance that designates a special taxing district, authorizes the issuance of bonds, or levies ad valorem taxes or special taxes under the provisions of <cite path="II|§(62A)">this section</cite> may be finally enacted, the Mayor and City Council of Baltimore shall hold a public hearing after giving not less than 10-days notice in a newspaper of general circulation in the City of Baltimore.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The ordinance enacted pursuant to this subsection, if such bonds constitute debt of the Mayor and City Council of Baltimore under <cite doc="Md. Const." path="XI|§7">Article XI, § 7 of the Maryland Constitution</cite>, shall be submitted to the legal voters of the City of Baltimore at the time and place specified therein.  Such ordinance shall become effective only if it is approved by the majority of the votes cast at the time and place specified in such ordinance.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Except as required by subparagraph (ii) of this paragraph, any ordinance or resolution enacted or adopted in furtherance of the ordinance enacted pursuant to this subsection, the bonds, the designation of a special taxing district, or the levy of a special ad valorem tax or special tax shall not be subject to any referendum.</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The ordinance authorizing the bonds required under this subsection, any ordinance or resolution enacted or adopted in furtherance of the required ordinance, the bonds, the designation of a special taxing district, or the levy of a special ad valorem tax or special tax shall be subject to the request of the landowners as specified under <cite path="II|§(62A)|(c)|(1)">subsection (c)(1) of this section</cite>.</text>
           </para>
         </para>
         <para>
@@ -3740,11 +3734,11 @@
         <heading>Bonds as legal investments, etc.</heading>
         <text>Bonds issued under <cite path="II|§(62A)">this section</cite> are securities:</text>
         <para>
-          <num>(3)</num>
+          <num>(1)</num>
           <text>in which all public officers and public bodies of the State and its political subdivisions, all insurance companies, state banks and trust companies, national banking associations, savings banks, savings and loan associations, investment companies, executors, administrators, trustees, and other fiduciaries may properly and legally invest funds, including capital in the control or belonging to them; and</text>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(2)</num>
           <text>which may properly and legally be deposited with and received by any State or county officer or any agency or political subdivision of the State for any purpose for which the deposit of bonds or obligations of the State is now or may hereafter be authorized by law.</text>
         </para>
       </para>
@@ -3752,18 +3746,18 @@
         <num>(k)</num>
         <heading>Special tax.</heading>
         <para>
-          <num>(5)</num>
+          <num>(1)</num>
           <text>As an alternative to levying ad valorem taxes under <cite path="II|§(62A)">this section</cite>, the Mayor and City Council of Baltimore may levy special taxes on property in a special taxing district to cover the cost of infrastructure improvements.</text>
         </para>
         <para>
-          <num>(6)</num>
+          <num>(2)</num>
           <text>In determining the basis for and amount of the tax, the cost of an infrastructure improvement may be calculated and levied:</text>
           <para>
-            <num>(iii)</num>
+            <num>(i)</num>
             <text>equally per front foot, lot, parcel, dwelling unit, or square foot;</text>
           </para>
           <para>
-            <num>(iv)</num>
+            <num>(ii)</num>
             <text>according to the value of the property as determined by the Mayor and City Council of Baltimore, with or without regard to improvements on the property; or</text>
           </para>
           <para>
@@ -3788,11 +3782,11 @@
           </para>
         </para>
         <para>
-          <num>(7)</num>
+          <num>(4)</num>
           <text>The Mayor and City Council of Baltimore by ordinance may establish procedures allowing for the prepayment of special taxes under <cite path="II|§(62A)">this section</cite> and may provide for exemptions, deferrals, and credits.</text>
         </para>
         <para>
-          <num>(9)</num>
+          <num>(5)</num>
           <text>Special taxes levied under this subsection shall be collected and secured in the same manner as general ad valorem taxes unless otherwise provided in the ordinance or resolution and shall be subject to the same penalties and the same procedure, sale, and lien priority in case of delinquency as is provided for general ad valorem taxes.</text>
         </para>
       </para>
@@ -3849,31 +3843,31 @@
           </para>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(3)</num>
           <text>Any refunding bonds authorized to be issued and sold under the provisions of <cite path="II|§(62A)">this section</cite> may be issued in whatever principal amount shall be required to achieve the purpose for the issuance of the refunding bonds, which amount may be in excess of the principal amount of the bonds refunded or the maximum principal amount of bonds authorized to be issued under <cite path="II|§(62A)|(g)|(2)|(i)">subsection (g)(2)(i) of this section</cite>.</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(4)</num>
           <text>Any refunding bonds authorized to be issued and sold under the provisions of <cite path="II|§(62A)">this section</cite> may be issued to mature on such dates and in such amounts as the Board of Finance may determine; provided that the entire principal amount represented by the refunding bonds shall be discharged not more than 40 years from the date of issuance of the bonds being refunded.</text>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(5)</num>
           <text>Any refunding bonds authorized to be issued and sold under the provisions of <cite path="II|§(62A)">this section</cite> may be sold at public sale by the solicitation of competitive bids or at private (negotiated) sale without advertisement or solicitation of competitive bids, for a price or prices which may be at, above, or below the par value of the refunding bonds, as determined by resolution of the Board of Finance of the Mayor and City Council of Baltimore.  If the Board of Finance determines to sell the refunding bonds at public sale, the refunding bonds shall be sold to the highest responsible bidder or bidders therefor after due notice of such sale, but the Mayor and City Council of Baltimore, acting by and through the Board of Finance thereof, shall have the right to reject any or all bids therefor for any reason.</text>
         </para>
         <para>
-          <num>(5)</num>
+          <num>(6)</num>
           <text>Any refunding bonds authorized to be issued and sold under the provisions of <cite path="II|§(62A)">this section</cite> shall bear interest at such rate or rates as may be determined by the Board of Finance of the Mayor and City Council of Baltimore, which rate or rates may be fixed or variable or as determined by a method approved by the Board of Finance, and such interest shall be payable at such time or times as may be determined by the Board of Finance.</text>
         </para>
         <para>
-          <num>(6)</num>
+          <num>(7)</num>
           <text>The proceeds of the sale of any refunding bonds authorized to be issued and sold under the provisions of <cite path="II|§(62A)">this section</cite>, after the payment of issuance costs relating thereto, shall be set aside by the Mayor and City Council of Baltimore as a separate trust fund to be used solely for the purposes stated in this subsection.</text>
         </para>
         <para>
-          <num>(7)</num>
+          <num>(8)</num>
           <text>Except as otherwise provided in this subsection, the powers granted in, the limitations and obligations imposed by, and the procedures specified in <cite path="II|§(62A)">this section</cite> with respect to the issuance of bonds shall be applicable to the issuance of refunding bonds.</text>
         </para>
         <para>
-          <num>(8)</num>
+          <num>(9)</num>
           <text>Any refunding bonds authorized to be issued and sold under the provisions of <cite path="II|§(62A)">this section</cite> shall not be subject to any debt policy limitation that may from time to time be established by the Mayor and City Council of Baltimore.</text>
         </para>
       </para>
@@ -6030,7 +6024,7 @@
             <text>employ youths who do not reside in the City of Baltimore; or</text>
           </para>
           <para>
-            <num>(iii)</num>
+            <num>(ii)</num>
             <text>provide jobs at sites that are located outside of the City of Baltimore.</text>
           </para>
         </para>
@@ -9334,7 +9328,7 @@
           <para>
             <num>(2)</num>
             <heading>Competitive bidding.</heading>
-            <text>The Department shall insure that competitive bidding is used, and competitive prices are obtained, in purchasing these materials, supplies, equipment and services, to the fullest practicable extent.</text>
+            <text>The Department shall ensure that competitive bidding is used, and competitive prices are obtained, in purchasing these materials, supplies, equipment and services, to the fullest practicable extent.</text>
           </para>
         </para>
         <para>
@@ -10910,7 +10904,7 @@
           <num>(a)</num>
           <heading>Positions included.</heading>
           <para>
-            <num>2.</num>
+            <num>1.</num>
             <text>All employees of the City of Baltimore, except as otherwise provided by the Charter or State law, shall be members of the Civil Service, with the exception of:</text>
             <para>
               <num>a.</num>
@@ -10921,28 +10915,28 @@
               <text>Assistant City Solicitors.</text>
             </para>
             <para>
-              <num>d.</num>
+              <num>c.</num>
               <text>with the exception of the Director of the Department of Legislative Reference, directors, or by whatever other name the chief administrative officer may be known, and the deputy directors, of all departments of the City.</text>
             </para>
             <para>
-              <num>e.</num>
+              <num>d.</num>
               <text>all members of boards and commissions.</text>
             </para>
             <para>
-              <num>f.</num>
+              <num>e.</num>
               <text>all professional employees of the Department of Education.</text>
             </para>
             <para>
-              <num>g.</num>
+              <num>f.</num>
               <text>persons in positions of temporary or seasonal employment.</text>
             </para>
             <para>
-              <num>h.</num>
+              <num>g.</num>
               <text>persons who, in the judgment of the Civil Service Commission, exercise policy-making discretion or occupy a position of special trust and confidence that is inconsistent with membership in the Civil Service.</text>
             </para>
           </para>
           <para>
-            <num>3.</num>
+            <num>2.</num>
             <text>Any dispute about whether a position is within the Civil Service shall be finally resolved by the Commission.</text>
           </para>
         </para>
