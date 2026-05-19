@@ -1,0 +1,640 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-103" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-103</num>
+  <num type="bill">25-0126</num>
+  <heading type="short">Accessibility in City Programs, Services, and Activities</heading>
+  <heading type="long">An Ordinance Concerning Accessibility in City Programs, Services, and Activities</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-11-24</introduced>
+    <effective>2026-04-27</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-103.pdf">Ord. 26-103</citation>
+    </citations>
+    <history>
+      <vote date="2025-11-24" reading="first"/>
+      <vote date="2026-04-27" reading="second"/>
+      <enacted>2026-04-27</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="1|4" codified:doc="City of Baltimore, Md., Code" codified:path="1|4">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>4</num>
+        <heading>Reserved</heading>
+      </container>
+    </codify:replace>
+    <codify:insert path="1|4" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-1">
+      <section>
+        <prefix>§</prefix>
+        <num>4-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In subtitle.</heading>
+            <text>In this subtitle, the following words have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Terms not defined.</heading>
+            <text>Any term used but not defined in this subtitle shall have the meaning as stated in the Americans with Disabilities Act of 1990, as amended, and the federal regulations promulgated pursuant thereto, as amended.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>ADA.</heading>
+          <text>“ADA” means the Americans with Disabilities Act of 1990, as amended, and the federal regulations promulgated pursuant thereto, as amended.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>ADA Coordinator.</heading>
+          <text>“ADA Coordinator” means a designated City employee from each agency who shall report directly to the head of the agency and is responsible for coordinating compliance with all relevant local, State, and federal laws addressing accessibility.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Agency.</heading>
+          <text>“Agency” has the meaning stated in Article 1, § 2(j) of the City Charter.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Auxiliary aids and services.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>“Auxiliary aids and services” has the meaning stated in 28 C.F.R. § 35.104.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>“Auxiliary aids and services” includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>qualified interpreters, either on-site or through video remote interpreting services;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>assistive listening devices and systems;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>audio recordings;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>Brailed materials and displays; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>other similar technology and services.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Companion</heading>
+          <text>“Companion” means a family member, friend, or associate of an individual with a disability who is an appropriate person with whom an agency should communicate to assist the individual with a disability.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Disability.</heading>
+          <text>“Disability” has the meaning stated in 42 U.S.C. § 12102, and shall be construed broadly in favor of expansive coverage to the maximum extent permitted by the terms of the ADA, the Rehabilitation Act, and State and City laws.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Discriminate.</heading>
+          <text>“Discriminate” has the meaning stated in 28 C.F.R. § 35.130 {“General prohibitions against discrimination”}.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Mayor’s Office of Immigrant Affairs.</heading>
+          <text>“Mayor’s Office of Immigrant Affairs” or “MIMA” means the Mayor’s Office of Immigrant Affairs as established in § 54-2 {“Office established”} of this Article 1, or its successor.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Office of Equity and Civil Rights.</heading>
+          <text>“Office of Equity and Civil Rights” or “OECR” means the Baltimore City Office of Equity and Civil Rights, or its successor.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Qualified individual with a disability.</heading>
+          <text>“Qualified individual with a disability” means an individual with a disability who, with or without reasonable modifications to the City of Baltimore’s rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by the City of Baltimore.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Qualified sign language interpreter.</heading>
+          <text>“Qualified sign language interpreter” means a sign language interpreter who meets the requirements of Title 9, Subtitle 24, Part III of the State Government Article of the Annotated Code of Maryland.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Reasonable accommodation.</heading>
+          <text>“Reasonable accommodation” means an adjustment to a job, work environment, application process, or another employment-related activity that enables a qualified individual with a disability to apply for a job, perform an essential job function, and enjoy equal employment opportunities.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Reasonable modification.</heading>
+          <text>“Reasonable modification” means a change in a policy, practice or procedure that is required to offer an individual with a disability equal participation in, or equal access to, the benefits of a City service, program, or activity.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Rehabilitation Act.</heading>
+          <text>“Rehabilitation Act” means the federal Rehabilitation Act of 1973, as amended, and the federal regulations promulgated pursuant thereto, as amended.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Service animal.</heading>
+          <text>“Service animal” means an animal that is individually trained to do work or perform tasks for an individual with a disability.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>Undue burden.</heading>
+          <text>”Undue burden” means that, after consideration of all resources available for use in the funding and operation of a program, service, or activity, the provision of a requested reasonable modification, auxiliary aid or service, or other accommodation or modification would result in a fundamental alteration in the nature of the service, program, or activity, or would cause an unreasonable financial and administrative hardship.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <heading>Web Content Accessibility Guidelines.</heading>
+          <text>”Web Content Accessibility Guidelines” means the technical standard developed by the World Wide Web Consortium that sets measurable requirements for making digital information and functions usable by individuals with disabilities based upon the needs of the individual, as required in 28 C.F.R. § 35.200 {“Requirements for Web and Mobile Accessibility”}.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-2to4-5">
+      <section name="4-2to4-5">
+        <prefix>§§</prefix>
+        <num>4-2 to 4-5</num>
+        <reason>Reserved</reason>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-6">
+      <section>
+        <prefix>§</prefix>
+        <num>4-6</num>
+        <heading>Digital accessibility policy.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Every publicly available digital system, including any website, web-based or mobile application, social media platform, streaming service, or other third-party digital platform that provides information or services through the internet, shall meet the accessibility requirements set out in the Web Content Accessibility Guidelines Version 2.1, Level AA, or any later version or equivalent standard adopted by the State or the federal government.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Applicability.</heading>
+          <text>Subsection (a) of this section applies to all such systems developed, purchased, or maintained by the City, as well as those developed, purchased, or maintained for City use under contract or other agreement with a third party including any digital system or platform used by the City for official communications, whether or not the platform is owned or controlled by the City.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Captioning requirements.</heading>
+          <text>All prerecorded and live video or audio content made publicly available by the City shall include accurate, synchronized, and complete captions, including speaker identification and relevant non-speech audio information.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>American Sign Language access.</heading>
+          <text>For content that communicates critical information, public safety information, legal rights, or essential services, the City shall provide American Sign Language interpretation or American Sign Language-based video content in addition to captions.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Emergency communications.</heading>
+          <text>All digital emergency alerts, press conferences, and public safety announcements shall be accessible through real-time captions and visible American Sign Language interpretation, provided contemporaneously with the communication.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Procurement and contracting.</heading>
+          <text>Subject to the approval of the Board of Estimates, all contracts for digital systems or content shall require vendors to demonstrate compliance with this section prior to deployment and throughout the term of the contract.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-7to4-11">
+      <section name="4-7to4-11">
+        <prefix>§§</prefix>
+        <num>4-7 to 4-11</num>
+        <reason>Reserved</reason>
+      </section>
+    </codify:insert>
+  </section>
+  <section codify:applicability="2027-06-27">
+    <prefix>Section</prefix>
+    <num>2</num>
+    <codify:remove path="1|4|4-2to4-5" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-2to4-5"/>
+    <codify:insert path="1|4" after="§4-1" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-2">
+      <section>
+        <prefix>§</prefix>
+        <num>4-2</num>
+        <heading>Nondiscrimination on the basis of disability.</heading>
+        <text>An agency may not violate 28 C.F.R. Part 35 {"Nondiscrimination on the Basis of Disability in State and Local Government Services"} by, on the basis of an individual's disability:</text>
+        <para>
+          <num>(1)</num>
+          <text>excluding the individual from participation in the services, programs, or activities of the agency;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>denying the individual the benefits of the services, programs, or activities of the agency based on the needs of the individual;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>discriminating against the individual; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>failing or declining to make a reasonable accommodation or a reasonable modification to existing policies, practices, and procedures.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" after="§4-2" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-3">
+      <section>
+        <prefix>§</prefix>
+        <num>4-3</num>
+        <heading>Employment.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>An agency may not discriminate, on the basis of an individual's disability, in hiring or through employment practices.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Hiring and employment practices; Preference.</heading>
+          <text>An agency shall take into consideration or give preference to an individual's status as a person with a disability in its hiring and employment practices, consistent with the requirements and obligations to protected classes under federal or State law, in accordance with any applicable rules promulgated by the Board of Estimates and the Civil Service Commission, and without violating any law or terms of any contract to which the City is a party, including a collective bargaining agreement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Attachment to job posting.</heading>
+          <text>An agency shall attach information regarding the City's disability hiring preference to each job posting.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" after="§4-3" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-4">
+      <section>
+        <prefix>§</prefix>
+        <num>4-4</num>
+        <heading>Reasonable modifications.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>An agency shall make reasonable modifications to existing policies, practices, and procedures to ensure that an individual with a disability has an equal opportunity to participate and benefit from its programs, services, and activities.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Reasonable accommodation or modification - limitation.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>An agency is not required to take an action to provide a reasonable accommodation or modification if that action would:</text>
+            <para>
+              <num>(i)</num>
+              <text>fundamentally alter the nature of the program, service, or activity in question; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>impose an undue burden on the agency.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Determination.</heading>
+            <para>
+              <num>(i)</num>
+              <text>If an agency denies an accommodation or modification under this subsection, the agency has the burden of proving that compliance would result in a fundamental alteration or an undue burden.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>A determination that a request would result in such alteration or burden may be made by the Director of the agency or the Director’s designee, only after the Director or designee has considered all available agency resources.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>An agency’s denial of a requested accommodation or modification under this subsection shall be accompanied by a written statement of the reasons for the determination.</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>If making an accommodation or modification would result in a fundamental alteration or an undue burden, the agency shall take any other action that would not result in such an alteration or a burden but would nevertheless ensure, to the maximum extent possible, that an individual with a disability equitably receives the benefit or service provided by the agency.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Prohibition on fee for accommodation or modification.</heading>
+          <text>An agency may not assess a fee on an individual with a disability or any group of individuals with disabilities to pay the cost of providing:</text>
+          <para>
+            <num>(1)</num>
+            <text>an auxiliary aid;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>an auxiliary service; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a reasonable accommodation or modification.</text>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" after="§4-4" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-5">
+      <section>
+        <prefix>§</prefix>
+        <num>4-5</num>
+        <heading>Effective communication policy.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>An agency shall, upon request, provide auxiliary aids and services to a qualified individual with a disability so the individual may participate equally in a program, service, or activity.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Communication aids and services.</heading>
+          <text>To comply with subsection (a) of this section, an agency shall provide, based on the needs of an individual, an appropriate aid or service to make information and communications accessible to an individual who has a speech, hearing, or vision impairment, including:</text>
+          <para>
+            <num>(1)</num>
+            <text>a qualified sign language interpreter; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>documents in braille.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Qualified sign language interpreter.</heading>
+          <text>If an agency provides a sign language interpreter, the interpreter shall meet the requirements of Title 9, Subtitle 24, Part III of the State Government Article of the Annotated Code of Maryland.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Applicability to the City Council.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>Each regular meeting of the City Council shall include:</text>
+            <para>
+              <num>(i)</num>
+              <text>a qualified sign language interpreter; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>if the meeting is being broadcast, open captions that display spoken words, sound effects, and other meaningful audio information as visible text that appears directly on a screen or display and cannot be turned off.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Other meetings.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>Request process.</heading>
+              <text>The City Council shall provide an accessible method on its website by which an individual may request American Sign Language interpretation for a special meeting, committee hearing, or other hearing of the City Council.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Fulfillment of request.</heading>
+              <text>The City Council shall make reasonable efforts to provide American Sign Language interpretation for any meeting identified in subparagraph (i) of this paragraph (2) when a request is received within 10 business days in advance of a meeting.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <heading>Late requests.</heading>
+              <text>The City Council shall make reasonable efforts to accommodate a request received after the stated deadline.</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <heading>Notice.</heading>
+              <text>The City Council shall provide public notice of:</text>
+              <para>
+                <num>(A)</num>
+                <text>the deadline by which an individual shall submit a request for interpretation at a meeting identified in subparagraph (ii) of this paragraph (2); and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the availability of American Sign Language interpretation and the process for requesting such service.</text>
+              </para>
+            </para>
+            <para>
+              <num>(v)</num>
+              <heading>Compliance.</heading>
+              <text>The City Council shall implement this paragraph (2) in a manner consistent with the Americans with Disabilities Act.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:remove path="1|4|4-7to4-11" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-7to4-11"/>
+    <codify:insert path="1|4" after="§4-6" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-7">
+      <section>
+        <prefix>§</prefix>
+        <num>4-7</num>
+        <heading>Service animal policy.</heading>
+        <text>A service animal is permitted in a City owned, operated, or managed space where the public is allowed, if the service animal is accompanying an individual with a disability.</text>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" after="§4-7" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-8">
+      <section>
+        <prefix>§</prefix>
+        <num>4-8</num>
+        <heading>Grievance procedures.</heading>
+        <text>The Office of Equity and Civil Rights, in partnership with City agencies, shall promulgate rules and regulations establishing procedures:</text>
+        <para>
+          <num>(1)</num>
+          <text>for an individual to file a complaint for perceived discrimination on the basis of disability;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>for receipt of and response to a complaint by the ADA Coordinator of any agency alleged to be involved in the discrimination;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>for the timely response to a complaint by the ADA Coordinator of any agency alleged to be involved in the discrimination;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>for providing a written and accessible determination on the complaint to the complainant;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>for ensuring outcomes and corrective actions taken are communicated to the complainant, without violating any applicable law;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>establishing a reasonable timeline for the procedures under this section to take place; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>for the submission of all grievances for a central tracking and reporting system.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" after="§4-8" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-9">
+      <section>
+        <prefix>§</prefix>
+        <num>4-9</num>
+        <heading>Agency responsibilities.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>ADA Coordinator.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>Each agency shall designate, and accordingly compensate, at least 1 employee to be the “ADA Coordinator” for the agency.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Duties.</heading>
+            <text>An ADA Coordinator shall:</text>
+            <para>
+              <num>(i)</num>
+              <text>perform an agency self-evaluation pursuant to Title II of the ADA;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>develop an accessibility plan for the agency as required under subsection (b) of this section;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>on a regular basis, assess the agency's accessibility plan for effectiveness and make changes, as needed;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>receive and respond to requests for a reasonable accommodation or modification;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>coordinate the preparation and submission of an agency annual report and quarterly report as required under subsection (c) of this section; and</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>consult with and support the agency's Equity Coordinator on the development of the agency's equity action plan and any matters relating to accessibility for individuals with disabilities.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Training.</heading>
+            <text>The Office of Equity and Civil Rights shall develop and deliver an annual training for ADA Coordinators, with a focus on creating an accessibility plan and integrating the plan with the agency's daily operations.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Agency accessibility plans.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>The Director of an agency, in consultation with OECR and the agency's ADA Coordinator, shall develop and implement an accessibility plan.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Contents.</heading>
+            <text>An accessibility plan shall include:</text>
+            <para>
+              <num>(i)</num>
+              <text>the mode:</text>
+              <para>
+                <num>(A)</num>
+                <text>of evaluating the needs of a qualified individual with a disability attempting to access an agency service;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>of providing an accommodation or modification to a qualified individual with a disability;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>of coordinating with MIMA when serving an individual with both language access and disability-related needs; and</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>of providing public notice of the agency's obligation to serve a qualified individual with a disability.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the means by which the agency will monitor its compliance with:</text>
+              <para>
+                <num>(A)</num>
+                <text>the accessibility plan;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the provisions of this subtitle; and</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>any other applicable laws, rules, and regulations regarding an individual with a disability and access to public services; and</text>
+              </para>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the name and contact information of each employee that will serve as an ADA Coordinator for the agency.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Publication; Submission.</heading>
+            <text>An agency shall:</text>
+            <para>
+              <num>(i)</num>
+              <text>publicly publish the agency's accessibility plan; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>submit the agency's accessibility plan to OECR.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Biannual update.</heading>
+            <text>The Director of an agency shall review, update, and implement the agency's accessibility plan by January 1 of each even numbered year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Reporting requirements.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Annual report.</heading>
+            <text>On January 1 of each odd-numbered year an agency shall file a report with OECR and the Department of Legislative Reference that assesses the agency's preparation and implementation of its accessibility plan.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Quarterly report.</heading>
+            <text>Each quarter, an agency shall file a report with OECR and the Department of Legislative Reference that contains data related to the provision of reasonable accommodations and modifications, including:</text>
+            <para>
+              <num>(i)</num>
+              <text>the number of individuals that requested a reasonable accommodation or modification;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>each type of accommodation or modification requested and if the agency provided the accommodation or modification, and if not, why;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the length of time from request to determination, and from determination to provision of accommodation or modification; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>the number of grievances filed with the agency.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" after="§4-9" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-10">
+      <section>
+        <prefix>§</prefix>
+        <num>4-10</num>
+        <heading>Administrative support for agencies.</heading>
+        <text>Subject to the appropriation of funds in the annual Ordinance of Estimates and supplementary appropriations, OECR shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>provide oversight, coordination, and technical assistance to an agency as the agency prepares and implements its accessibility plan; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>as appropriate, consult with MIMA when a qualified individual with a disability also requires language access services based on their status as a Limited English Proficient individual.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="1|4" after="§4-10" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-11">
+      <section>
+        <prefix>§</prefix>
+        <num>4-11</num>
+        <heading>Rules and regulations.</heading>
+        <text>Subject to Title 4 {“Administrative Procedure Act - Regulations”} of the City General Provisions Article, the Director of OECR shall adopt rules and regulations to carry out this subtitle.</text>
+      </section>
+    </codify:insert>
+  </section>
+</document>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-205-7-1</num>
+  <heading>Severance Pay</heading>
+  <text>The purpose of the severance pay program is to provide equitable compensation to certain executive-level employees (Agency Director, Deputy Director, or Bureau Head) who are not in the Civil Service ("at-will"), upon their separation from city service for a qualifying reason.</text>
+  <para name="scope">
+    <num>I.</num>
+    <heading>SCOPE</heading>
+    <text>This policy applies to all non-civil service employees who fall under the direction and authority of the Mayor of the City of Baltimore in the capacity of a Bureau Head or above who are separating from employment for any reason that is not nonfeasance, misfeasance, or malfeasance. Severance pay is not related to employee leave payouts as described in <cite path="§AM-205-7">AM-205-7</cite> "Separation and Payment at Termination".</text>
+  </para>
+  <para name="definitions">
+    <num>II.</num>
+    <heading>DEFINITIONS</heading>
+    <text><em>Base pay.</em>  "Base pay" means an employee's salary, which may be reported as an hourly wage, weekly, semimonthly, monthly or annually, excluding shift differentials, temporary pay, benefits, overtime, or other similar non-base pay compensation.</text>
+    <text><em>Malfeasance.</em>  "Malfeasance" means an occurrence when an act that caused an employee separation is intentional.</text>
+    <text><em>Misfeasance.</em>  "Misfeasance" means an occurrence when an act that cause an employee separation is accidental.</text>
+    <text><em>Nonfeasance.</em>  "Nonfeasance" means an occurrence when an employee separates for failure to act when action is required.</text>
+  </para>
+  <para name="general-provisions">
+    <num>III.</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <para>
+      <num>1.</num>
+      <text>Severance pay shall be conditioned upon salaries saved by not filling the position for the period of time paid in severance and will only be paid when funds are available in the agency's budget. Severance pay is calculated on base pay only.</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="2">Severance Pay Schedule</th>
+            </tr>
+            <tr>
+              <th>Employee Tenure</th>
+              <th>Paid Working Days</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Less than one (1) year</td>
+              <td>No severance allowed</td>
+            </tr>
+            <tr>
+              <td>At least one (1) year but less than three (3) years</td>
+              <td>10 Working Days</td>
+            </tr>
+            <tr>
+              <td>At least three (3) years but less than six (6) years</td>
+              <td>15 Working Days</td>
+            </tr>
+            <tr>
+              <td>At least six (6) years but less than ten (10) years</td>
+              <td>20 Working Days</td>
+            </tr>
+            <tr>
+              <td>More than ten (10) years</td>
+              <td>30 Working Days</td>
+            </tr>
+            <tr>
+              <td>More than twenty (20) years</td>
+              <td>35 Working Days</td>
+            </tr>
+            <tr>
+              <td>More than thirty (3) years</td>
+              <td>40 Working Days</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Severance pay is contingent upon the non-civil service employee signing the severance agreement and waiving all claims against the City relating to termination of employment with the exception of Unemployment and Worker's Compensations laws.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Severance pay does not include any payment which an employee is entitled to for any other benefits accrued and vested to the employee.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>This severance policy does not and shall not create employment or compensation rights.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-7" type="Related Policies"/>
+  </annotations>
+</section>

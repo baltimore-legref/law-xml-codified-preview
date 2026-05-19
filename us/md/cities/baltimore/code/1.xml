@@ -628,7 +628,299 @@
   <container>
     <prefix>Subtitle</prefix>
     <num>4</num>
-    <reason>Reserved</reason>
+    <heading>Reserved</heading>
+    <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+    <section>
+      <prefix>§</prefix>
+      <num>4-1</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In subtitle.</heading>
+          <text>In this subtitle, the following words have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Terms not defined.</heading>
+          <text>Any term used but not defined in this subtitle shall have the meaning as stated in the Americans with Disabilities Act of 1990, as amended, and the federal regulations promulgated pursuant thereto, as amended.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>ADA.</heading>
+        <text>“ADA” means the Americans with Disabilities Act of 1990, as amended, and the federal regulations promulgated pursuant thereto, as amended.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>ADA Coordinator.</heading>
+        <text>“ADA Coordinator” means a designated City employee from each agency who shall report directly to the head of the agency and is responsible for coordinating compliance with all relevant local, State, and federal laws addressing accessibility.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Agency.</heading>
+        <text>“Agency” has the meaning stated in Article 1, § 2(j) of the City Charter.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Auxiliary aids and services.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>“Auxiliary aids and services” has the meaning stated in 28 C.F.R. § 35.104.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Inclusions.</heading>
+          <text>“Auxiliary aids and services” includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>qualified interpreters, either on-site or through video remote interpreting services;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>assistive listening devices and systems;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>audio recordings;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Brailed materials and displays; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>other similar technology and services.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Companion</heading>
+        <text>“Companion” means a family member, friend, or associate of an individual with a disability who is an appropriate person with whom an agency should communicate to assist the individual with a disability.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Disability.</heading>
+        <text>“Disability” has the meaning stated in 42 U.S.C. § 12102, and shall be construed broadly in favor of expansive coverage to the maximum extent permitted by the terms of the ADA, the Rehabilitation Act, and State and City laws.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Discriminate.</heading>
+        <text>“Discriminate” has the meaning stated in 28 C.F.R. § 35.130 {“General prohibitions against discrimination”}.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Mayor’s Office of Immigrant Affairs.</heading>
+        <text>“Mayor’s Office of Immigrant Affairs” or “MIMA” means the Mayor’s Office of Immigrant Affairs as established in § 54-2 {“Office established”} of this Article 1, or its successor.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>Office of Equity and Civil Rights.</heading>
+        <text>“Office of Equity and Civil Rights” or “OECR” means the Baltimore City Office of Equity and Civil Rights, or its successor.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>Qualified individual with a disability.</heading>
+        <text>“Qualified individual with a disability” means an individual with a disability who, with or without reasonable modifications to the City of Baltimore’s rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by the City of Baltimore.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>Qualified sign language interpreter.</heading>
+        <text>“Qualified sign language interpreter” means a sign language interpreter who meets the requirements of Title 9, Subtitle 24, Part III of the State Government Article of the Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <heading>Reasonable accommodation.</heading>
+        <text>“Reasonable accommodation” means an adjustment to a job, work environment, application process, or another employment-related activity that enables a qualified individual with a disability to apply for a job, perform an essential job function, and enjoy equal employment opportunities.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <heading>Reasonable modification.</heading>
+        <text>“Reasonable modification” means a change in a policy, practice or procedure that is required to offer an individual with a disability equal participation in, or equal access to, the benefits of a City service, program, or activity.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <heading>Rehabilitation Act.</heading>
+        <text>“Rehabilitation Act” means the federal Rehabilitation Act of 1973, as amended, and the federal regulations promulgated pursuant thereto, as amended.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <heading>Service animal.</heading>
+        <text>“Service animal” means an animal that is individually trained to do work or perform tasks for an individual with a disability.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <heading>Undue burden.</heading>
+        <text>”Undue burden” means that, after consideration of all resources available for use in the funding and operation of a program, service, or activity, the provision of a requested reasonable modification, auxiliary aid or service, or other accommodation or modification would result in a fundamental alteration in the nature of the service, program, or activity, or would cause an unreasonable financial and administrative hardship.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <heading>Web Content Accessibility Guidelines.</heading>
+        <text>”Web Content Accessibility Guidelines” means the technical standard developed by the World Wide Web Consortium that sets measurable requirements for making digital information and functions usable by individuals with disabilities based upon the needs of the individual, as required in 28 C.F.R. § 35.200 {“Requirements for Web and Mobile Accessibility”}.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section placeholder="Not Applicable">
+      <prefix>§</prefix>
+      <num>4-2</num>
+      <heading>Nondiscrimination on the basis of disability.</heading>
+      <reason>Not Applicable</reason>
+      <text>Applicable as of June 27, 2027.</text>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section placeholder="Not Applicable">
+      <prefix>§</prefix>
+      <num>4-3</num>
+      <heading>Employment.</heading>
+      <reason>Not Applicable</reason>
+      <text>Applicable as of June 27, 2027.</text>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section placeholder="Not Applicable">
+      <prefix>§</prefix>
+      <num>4-4</num>
+      <heading>Reasonable modifications.</heading>
+      <reason>Not Applicable</reason>
+      <text>Applicable as of June 27, 2027.</text>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section placeholder="Not Applicable">
+      <prefix>§</prefix>
+      <num>4-5</num>
+      <heading>Effective communication policy.</heading>
+      <reason>Not Applicable</reason>
+      <text>Applicable as of June 27, 2027.</text>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section name="4-2to4-5">
+      <prefix>§§</prefix>
+      <num>4-2 to 4-5</num>
+      <reason>Reserved</reason>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>4-6</num>
+      <heading>Digital accessibility policy.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Every publicly available digital system, including any website, web-based or mobile application, social media platform, streaming service, or other third-party digital platform that provides information or services through the internet, shall meet the accessibility requirements set out in the Web Content Accessibility Guidelines Version 2.1, Level AA, or any later version or equivalent standard adopted by the State or the federal government.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Applicability.</heading>
+        <text>Subsection (a) of this section applies to all such systems developed, purchased, or maintained by the City, as well as those developed, purchased, or maintained for City use under contract or other agreement with a third party including any digital system or platform used by the City for official communications, whether or not the platform is owned or controlled by the City.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Captioning requirements.</heading>
+        <text>All prerecorded and live video or audio content made publicly available by the City shall include accurate, synchronized, and complete captions, including speaker identification and relevant non-speech audio information.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>American Sign Language access.</heading>
+        <text>For content that communicates critical information, public safety information, legal rights, or essential services, the City shall provide American Sign Language interpretation or American Sign Language-based video content in addition to captions.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Emergency communications.</heading>
+        <text>All digital emergency alerts, press conferences, and public safety announcements shall be accessible through real-time captions and visible American Sign Language interpretation, provided contemporaneously with the communication.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Procurement and contracting.</heading>
+        <text>Subject to the approval of the Board of Estimates, all contracts for digital systems or content shall require vendors to demonstrate compliance with this section prior to deployment and throughout the term of the contract.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section placeholder="Not Applicable">
+      <prefix>§</prefix>
+      <num>4-7</num>
+      <heading>Service animal policy.</heading>
+      <reason>Not Applicable</reason>
+      <text>Applicable as of June 27, 2027.</text>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section placeholder="Not Applicable">
+      <prefix>§</prefix>
+      <num>4-8</num>
+      <heading>Grievance procedures.</heading>
+      <reason>Not Applicable</reason>
+      <text>Applicable as of June 27, 2027.</text>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section placeholder="Not Applicable">
+      <prefix>§</prefix>
+      <num>4-9</num>
+      <heading>Agency responsibilities.</heading>
+      <reason>Not Applicable</reason>
+      <text>Applicable as of June 27, 2027.</text>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section placeholder="Not Applicable">
+      <prefix>§</prefix>
+      <num>4-10</num>
+      <heading>Administrative support for agencies.</heading>
+      <reason>Not Applicable</reason>
+      <text>Applicable as of June 27, 2027.</text>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section placeholder="Not Applicable">
+      <prefix>§</prefix>
+      <num>4-11</num>
+      <heading>Rules and regulations.</heading>
+      <reason>Not Applicable</reason>
+      <text>Applicable as of June 27, 2027.</text>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section name="4-7to4-11">
+      <prefix>§§</prefix>
+      <num>4-7 to 4-11</num>
+      <reason>Reserved</reason>
+      <annotations>
+        <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§1" type="History"/>
+        <annotation app="2027-06-27" doc="City of Balt., Md., Ord. 26-103" eff="2026-04-27" path="§2" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Subtitle</prefix>

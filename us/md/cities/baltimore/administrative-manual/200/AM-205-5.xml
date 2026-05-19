@@ -19,12 +19,33 @@
     <heading>REPORTED LOSSES</heading>
     <text>Any loss of keys, key cards, fuel cards, credit cards or drug prescription cards should be reported to the issuing City agency. In those cases where these items are issued on a city-wide basis to appropriate individuals, their loss must be reported as follows:</text>
     <text>
-      <u>Item						City Agency to Notify</u>
+      <table>
+        <thead>
+          <tr>
+            <th>Item</th>
+            <th>City Agency to Notify</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Key Card</td>
+            <td>BOMIS</td>
+          </tr>
+          <tr>
+            <td>Driver Permit</td>
+            <td>Central Garage</td>
+          </tr>
+          <tr>
+            <td>Fuel Card/Charge Card</td>
+            <td>Central Garage</td>
+          </tr>
+          <tr>
+            <td>Drug Prescription Card</td>
+            <td>Civil Service</td>
+          </tr>
+        </tbody>
+      </table>
     </text>
-    <text>Key Card					BOMIS</text>
-    <text>Driver Permit					Central Garage</text>
-    <text>Fuel Card/Charge Card			Central Garage</text>
-    <text>Drug Prescription Card			Civil Service</text>
   </para>
   <annotations>
     <annotation type="History" effective="1988-01-21" display="true">January 21, 1988</annotation>
