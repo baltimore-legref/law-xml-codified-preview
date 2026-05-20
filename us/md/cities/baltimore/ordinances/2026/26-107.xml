@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-107" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-107</num>
+  <num type="bill">26-0145</num>
+  <heading type="short">Commercial Vehicle Parking</heading>
+  <heading type="long">An Ordinance Concerning Commercial Vehicle Parking</heading>
+  <meta>
+    <stub/>
+    <introduced>2026-02-09</introduced>
+    <effective>2026-06-07</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-107.pdf">Ord. 26-107</citation>
+    </citations>
+    <history>
+      <vote date="2026-02-09" reading="first"/>
+      <vote date="2026-04-06" reading="second"/>
+      <enacted>2026-05-08</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
+    <codify:replace path="31|§1-1|(f)" codified:doc="City of Baltimore, Md., Code" codified:path="31|§1-1|(f)">
+      <para>
+        <num>(f)</num>
+        <heading>Commercial vehicle.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>"Commercial vehicle" means:</text>
+          <para>
+            <num>(i)</num>
+            <text>each motorized vehicle designed, maintained, and used primarily for the transportation or hauling of property, including but not limited to equipment, merchandise, parcels, earth, trash, refuse, scrap, or motor vehicles;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>each motorized vehicle, except a passenger car as defined in State Transportation Article § 11-144.2 {"Passenger car"}, that has commercial advertising on the exterior of the vehicle or on equipment attached to the vehicle;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>each vehicle of Federal Highway Administration Class 3 or higher;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>each vehicle that is designed to carry more than 15 passengers; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>each trailer, as defined in <cite path="|31|§1-3|(k)" doc="City of Balt., Md., Ord. 26-107">§ 1-3(k)</cite> of this article, or each vehicle that has a trailer attached.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Exclusion.</heading>
+          <text>"Commercial vehicle" does not include a vehicle to which a trailer has been attached, if the vehicle:</text>
+          <para>
+            <num>(i)</num>
+            <text>has been assigned a special disability registration number and special disability registration plate under § 13-616 {"Special disability registration number and plates"} of the State Transportation Article;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>displays a parking placard issued under § 13-616.1 {"Parking placards"} of the State Transportation Article; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>displays a temporary parking placard issued under § 13-616.2 {"Temporary parking placards"} of the State Transportation Article.</text>
+          </para>
+        </para>
+      </para>
+    </codify:replace>
+    <codify:replace path="31|§1-3" codified:doc="City of Baltimore, Md., Code" codified:path="31|§1-3">
+      <section>
+        <prefix>§</prefix>
+        <num>1-3</num>
+        <heading>Definitions — S to Z.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Safety zone.</heading>
+          <text>"Safety zone" means the area or space:</text>
+          <para>
+            <num>(1)</num>
+            <text>officially set apart within a roadway for the exclusive use of pedestrians; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>which is protected or is so marked or indicated by adequate signs as to be plainly visible at all times while set apart as a safety zone.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>School bus.</heading>
+          <text>"School bus" means any vehicle in use as a conveyance for students to or from a public, private, or parochial school, marked and equipped as specified in the Maryland Vehicle Law.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Sidewalk.</heading>
+          <text>"Sidewalk" means any paved footway.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Stand; standing.</heading>
+          <text>"Stand" or "standing" means to occupy or remain in 1 place.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Stop; stopping or stand; standing.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The terms "stop" and "stopping" or "stand" and "standing", when prohibited as to vehicles, refer to any stopping of a vehicle, whether or not occupied, except when necessary to avoid conflict with other traffic or in compliance with the directions of a police officer or traffic control device.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Public transportation vehicles shall be permitted to load passengers, when said passengers are at the curb and ready for immediate loading.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Street.</heading>
+          <text>"Street" means a highway, as defined in <cite path="|31|§1-1|(n)" doc="City of Balt., Md., Ord. 26-107">§ 1-1(n) {"Definitions: Highway"}</cite> of this subtitle.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Taxicab.</heading>
+          <text>The term "taxicab" as used in <cite path="|31" doc="City of Balt., Md., Ord. 26-107">this article</cite> shall embrace any motor vehicle for hire, designed to carry 9 persons or less, including driver, operated upon any public street or highway in this City or, on call or demand, accepting or soliciting passengers, indiscriminately for transportation for hire between such points along public streets or highways in this City, as may be directed by the passenger or passengers so being transported.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Traffic.</heading>
+          <text>"Traffic" means pedestrians, ridden or herded animals, vehicles, streetcars, and any other conveyances either singly or together while using any highway for purposes of travel.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Traffic control device.</heading>
+          <text>"Traffic control device" means any official device that controls or directs the movement of traffic.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Traffic control signal.</heading>
+          <text>"Traffic control signal" means any traffic control device, whether manually, electrically, or mechanically operated, by which traffic is alternately directed to stop and to proceed.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Trailer.</heading>
+          <text>"Trailer" means a vehicle that:</text>
+          <para>
+            <num>(1)</num>
+            <text>has no motive power;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>is designed to carry people or property;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>is designed to be towed by a motor vehicle; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>is constructed so that no part of its weight rests on the towing vehicle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Transit loading zone.</heading>
+          <text>"Transit loading zone" means a space at a curb or any other place properly designated by official signs or markings, reserved for the use of transit vehicles.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Transit mall.</heading>
+          <text>A "transit mall" is a street so designated by the Director upon which vehicular traffic, other than transit vehicles, is prohibited during certain hours by rule or regulation adopted and promulgated by the Director.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Transit stop.</heading>
+          <text>"Transit stop" means a transit loading zone.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Transit vehicle.</heading>
+          <text>"Transit vehicle" means any mass transportation vehicle.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Truck.</heading>
+          <text>"Truck" means any commercial vehicle.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>"U" turn.</heading>
+          <para>
+            <num>(1)</num>
+            <text>"'U' turn" where prohibited means the reversal of the direction of travel by a vehicle without leaving the roadway upon which it is proceeding.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any person making a "U" turn shall also be presumed to have made a left turn.</text>
+          </para>
+        </para>
+        <para>
+          <num>(r)</num>
+          <heading>Vehicle.</heading>
+          <text>"Vehicle" means every device in, on, or by which any person or property is or may be transported or drawn on a highway, except devices moved by human power or used exclusively on stationary rails or tracks.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="31|§6-26" codified:doc="City of Baltimore, Md., Code" codified:path="31|§6-26">
+      <section>
+        <prefix>§</prefix>
+        <num>6-26</num>
+        <heading>Commercial vehicles.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Stopping by residence.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Except as otherwise specified in this section, no vehicle of Federal Highway Administration Class 6 or higher and no commercial vehicle may park, stand, or stop longer than 1 hour continuously on any street, lane, or alley in front of or adjacent to any property used or intended to be used as a residence.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>This subsection does not apply to a commercial vehicle that is parked for the purpose of doing any public or private work for or on behalf of any person located within a radius of 1 block from the property used or intended to be used as a residence.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Nighttime hours.</heading>
+          <text>Except as otherwise specified in this section, no commercial vehicle may park, stand, or stop between the hours of 1 a.m. and 7 a.m. on any street, lane, or alley of the City.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Exceptions.</heading>
+          <text>This section does not apply to:</text>
+          <para>
+            <num>(1)</num>
+            <text>vehicles of the Police Department or the Fire Department;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>emergency vehicles belonging to:</text>
+            <para>
+              <num>(i)</num>
+              <text>the City;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any public utility; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>any volunteer ambulance service;</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>private passenger vehicles, including automobiles, minivans, passenger vans, station wagons, and sport utility vehicles unless there is a trailer attached;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>pickup trucks, unless the pickup truck has a trailer attached;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>panel-body delivery trucks with less than 1,500 pounds (3/4 of a ton) manufacturer's rating capacity, unless the panel-body delivery truck has a trailer attached; or</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>a vehicle engaged in loading as defined in <cite path="|31|§1-1|(q)" doc="City of Balt., Md., Ord. 26-107">§ 1-1(q)</cite> of this article.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="31|§6-27" codified:doc="City of Baltimore, Md., Code" codified:path="31|§6-27">
+      <section>
+        <prefix>§</prefix>
+        <num>6-27</num>
+        <reason>Reserved.</reason>
+      </section>
+    </codify:replace>
+    <codify:replace path="31|§36-2|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="31|§36-2|(1)">
+      <para>
+        <num>(1)</num>
+        <text>Parking or standing a vehicle classified by the Federal Highway Administration as Class 6 or higher, in violation of <cite path="|31|§6-26|(a)" doc="City of Balt., Md., Ord. 26-107">§ 6-26(a) {"Stopping by residence"}</cite> of this article or of <cite path="|31|§6-26|(b)" doc="City of Balt., Md., Ord. 26-107">§ 6-26(b) {"Nighttime hours"}</cite> of this article, is punishable by a fine of $500.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="31|§36-4|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="31|§36-4|(1)">
+      <para>
+        <num>(1)</num>
+        <text>Parking or standing a vehicle other than a vehicle included in the provisions of <cite path="|31|§36-2|(1)" doc="City of Balt., Md., Ord. 26-107">§ 36-2(1)</cite> of this article, in violation of <cite path="|31|§6-26|(a)" doc="City of Balt., Md., Ord. 26-107">§ 6-26(a) {"Stopping by residence"}</cite> of this article or of <cite path="|31|§6-26|(b)" doc="City of Balt., Md., Ord. 26-107">§ 6-26(b) {"Nighttime hours"}</cite> of this article, is punishable by a fine of $250.</text>
+      </para>
+    </codify:replace>
+    <codify:replace path="31|§36-6" codified:doc="City of Baltimore, Md., Code" codified:path="31|§36-6">
+      <section>
+        <prefix>§</prefix>
+        <num>36-6</num>
+        <heading>$75 fines.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Parking on a Snow Emergency Route in violation of <cite path="|31|§6-15" doc="City of Balt., Md., Ord. 26-107">§ 6-15 {"Snow emergency routes"}</cite> of this article is punishable by a fine of $75.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Obstructing or impeding the movement of pedestrians is punishable by a fine of $75.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Standing within 15 feet of a fire plug or fire hydrant in violation of <cite path="|31|§6-6|(a)" doc="City of Balt., Md., Ord. 26-107">§ 6-6(a) {"Fire hydrants"}</cite> of this article is punishable by a fine of $75.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Stopping in front of or opposite a fire engine house in violation of <cite path="|31|§6-6|(c)" doc="City of Balt., Md., Ord. 26-107">§ 6-6(c) {"Engine houses"}</cite> of this article is punishable by a fine of $75.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Stopping or parking in a transit stop is punishable by a fine of $75.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

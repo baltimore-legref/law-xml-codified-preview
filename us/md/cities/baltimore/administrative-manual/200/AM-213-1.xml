@@ -133,7 +133,7 @@
   <annotations>
     <annotation type="History" effective="2003-04-04" display="true">April 4, 2003</annotation>
     <annotation type="History" effective="2017-09-27" display="true">September 27, 2017</annotation>
-    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-12" type="Related Policies"/>
+    <annotation type="Related Policies">AM-204-12</annotation>
     <annotation type="Related Policies">AM-204-30</annotation>
     <annotation type="Related Policies">AM-204-31</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-1" type="Related Policies"/>

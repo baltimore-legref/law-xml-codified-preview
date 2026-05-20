@@ -15,8 +15,8 @@
       </volumes>
     </print>
     <publisher>Department of Legislative Reference</publisher>
-    <recency through="2026-04-27">
-      <doc id="City of Balt., Md., Ord. 26-104" type="ordinance"/>
+    <recency through="2026-06-07">
+      <doc id="City of Balt., Md., Ord. 26-107" type="ordinance"/>
     </recency>
   </meta>
   <xi:include href="./building-codes.xml"/>
@@ -232,6 +232,73 @@
         </para>
         <annotations>
           <annotation app="2024-01-24" doc="City of Balt., Md., Ord. 24-311" eff="2024-01-24" path="§2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>2-3</num>
+        <heading>Immigration enforcement policies and procedures.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>In this subtitle, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Immigration enforcement action.</heading>
+            <text>"Immigration enforcement action" has the meaning stated in <cite path="|4|§5-1" doc="City of Balt., Md., Ord. 26-105">§ 5-1 of Article 4 of the City Code</cite>.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Immigration official.</heading>
+            <text>"Immigration official" has the meaning stated in <cite path="|4|§5-1" doc="City of Balt., Md., Ord. 26-105">§ 5-1 of Article 4 of the City Code</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>In general.</heading>
+          <text>The Department may not engage in, assist, or support immigration enforcement actions unless:</text>
+          <para>
+            <num>(1)</num>
+            <text>the Department is required to execute a criminal warrant or court order issued by a federal or State judge; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>as otherwise required by law, including the terms of the Baltimore City Consent Decree.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>De-escalation.</heading>
+          <text>In accordance with Department policy, the Department may be present at the scene of an immigration enforcement action to de-escalate any direct threat to life or public safety.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Immigration official interaction procedure.</heading>
+          <text>If the Department interacts with an immigration official who is conducting an immigration action, the Department shall, in accordance with any applicable law:</text>
+          <para>
+            <num>(1)</num>
+            <text>inquire whether any individual being held by the immigration official is being held pursuant to a warrant, a court order, or probable cause;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>request the name of any individual being held by the immigration official;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>document the interaction on the Officer's body-worn camera, in adherence with Department policy; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>request and document the immigration official's law enforcement credentials.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-01-24" doc="City of Balt., Md., Ord. 24-311" eff="2024-01-24" path="§2" type="History"/>
+          <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" type="History"/>
         </annotations>
       </section>
     </container>
