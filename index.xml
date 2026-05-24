@@ -16,22 +16,39 @@
     <history-start>2024-03-13</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="baltimore-legref/law-xml" commit="9235824b7688f613a2974e38e1e70fda5ed76ad9"/>
+        <repository name="baltimore-legref/law-xml" commit="5a06aec2ffcc1749bee2990521c2de0ab260e3c0"/>
       </repositories>
-      <platform version="2.20.11" reproducible="false"/>
-      <build-date>2026-05-20</build-date>
+      <platform version="2.20.12" reproducible="false"/>
+      <build-date>2026-05-24</build-date>
       <codified-date>2026-09-15</codified-date>
     </build>
   </meta>
+  <annotations>
+    <annotation>
+      <subheading>About This Website</subheading>
+      <text><a href="/">codes.baltimorecity.gov</a> is the official home for the laws, regulations, and administrative policies of the <a href="https://www.baltimorecity.gov/">City of Baltimore</a>. It is edited and published by the <a href="https://www.baltimorecity.gov/legislative-reference">Department of Legislative Reference</a>.</text>
+      <text>This site makes City law easier to search, browse, and cite, allowing visitors to find what they need without knowing in advance where it lives.</text>
+      <text>For pending legislation and upcoming City Council meetings, the Council maintains its official legislative information system at <a href="https://baltimore.legistar.com/">baltimore.legistar.com</a>.</text>
+    </annotation>
+  </annotations>
   <xi:include href="./us/md/cities/baltimore/charter.xml"/>
   <xi:include href="./us/md/cities/baltimore/code/index.xml"/>
   <collection name="us/md/cities/baltimore/cobra-toc">
-    <heading>Code of Baltimore Regulations Annotated</heading>
+    <heading>Baltimore Regulations</heading>
+    <annotations>
+      <annotation>
+        <text>Regulations are rules authorized by the City Code and written by City agencies. The complete list of City regulations is called COBRA, or Code of Baltimore Regulations Annotated.</text>
+      </annotation>
+    </annotations>
     <xi:include href="./us/md/cities/baltimore/cobra/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/cobra-register/index.xml"/>
   </collection>
   <xi:include href="./us/md/cities/baltimore/pll/index.xml"/>
-  <xi:include href="./us/md/cities/baltimore/council/sessions/2024/rules/index.xml"/>
+  <collection name="us/md/cities/baltimore/council/rules">
+    <heading>Council Rules</heading>
+    <xi:include href="./us/md/cities/baltimore/council/sessions/2024/rules/index.xml"/>
+    <xi:include href="./us/md/cities/baltimore/council/sessions/2020/rules/index.xml"/>
+  </collection>
   <xi:include href="./us/md/cities/baltimore/administrative-manual/index.xml"/>
   <collection name="us/md/cities/baltimore/ordinances">
     <heading>Ordinances</heading>
@@ -51,9 +68,5 @@
   <collection name="us/md/legis/acts">
     <heading>Laws of the Maryland General Assembly</heading>
     <xi:include href="./us/md/legis/laws/2024/index.xml"/>
-  </collection>
-  <collection name="us/md/cities/baltimore/council/rules">
-    <heading>Historic Council Rules</heading>
-    <xi:include href="./us/md/cities/baltimore/council/sessions/2020/rules/index.xml"/>
   </collection>
 </library>
