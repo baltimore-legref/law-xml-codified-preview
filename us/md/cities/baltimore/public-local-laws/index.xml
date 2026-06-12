@@ -2,9 +2,6 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Code of Public Local Laws">
   <meta>
     <effective>0001-01-03</effective>
-    <citations>
-      <citation type="code" url="./pll/code-of-public-local-laws.pdf">Code of Public Local Laws</citation>
-    </citations>
   </meta>
   <heading>Code of Public Local Laws of Baltimore City</heading>
   <include>
@@ -14,15 +11,15 @@
       <text class="center">
         <strong>Baltimore City — Code of Public Local Laws</strong>
       </text>
-      <text>FOR the purpose of legalizing the 1979 Edition of <cite>the Code of Public Local Laws of Baltimore City</cite>. </text>
-      <text><strong>SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,</strong> That the 1979 Edition of <cite>the Code of Public Local Laws of Baltimore City</cite>, being Article 4 of the Code of Public Local Laws of Maryland, published under the direction of the Mayor and City Council of Baltimore and edited by the Baltimore City Department of Legislative Reference, is legalized.  It shall be deemed and taken in all the courts of the State and by all public officials of the State and of its several political subdivisions, to be evidence of <cite>the Public Local Laws of Baltimore City</cite> in effect at the time of publication.</text>
-      <text><strong>SECTION 2. AND BE IT FURTHER ENACTED,</strong> That any Supplement to <cite>this Code</cite> is similarly legalized and effective to contain changes in <cite>the Public Local Laws of Baltimore City</cite> as of the time of the publication of that Supplement.</text>
+      <text>FOR the purpose of legalizing the 1979 Edition of the Code of Public Local Laws of Baltimore City. </text>
+      <text><strong>SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,</strong> That the 1979 Edition of the Code of Public Local Laws of Baltimore City, being Article 4 of the Code of Public Local Laws of Maryland, published under the direction of the Mayor and City Council of Baltimore and edited by the Baltimore City Department of Legislative Reference, is legalized.  It shall be deemed and taken in all the courts of the State and by all public officials of the State and of its several political subdivisions, to be evidence of the Public Local Laws of Baltimore City in effect at the time of publication.</text>
+      <text><strong>SECTION 2. AND BE IT FURTHER ENACTED,</strong> That any Supplement to this Code is similarly legalized and effective to contain changes in the Public Local Laws of Baltimore City as of the time of the publication of that Supplement.</text>
       <text><strong>SECTION 3. AND BE IT FURTHER ENACTED,</strong> That this Act shall take effect July 1, 1979.</text>
     </container>
   </include>
   <annotations>
     <annotation type="Editor's Notes">
-      <cite path="4">Article 4, Maryland Code of Public Local Laws</cite>
+      <cite doc="Md. Code" path="4">Article 4, Maryland Code of Public Local Laws</cite>
     </annotation>
     <annotation type="History">As Last Amended by Chs. 133 and 366, Acts of 2021, Resolution 22-03, Ordinance 24-311</annotation>
     <annotation type="Editor's Notes">To assist the reader, captions have been editorially added to various subsections.  And, in some instances, existing captions to sections and subsections have been clarified or corrected.  These new or modified captions were not enacted as part of the Code and are not law.</annotation>
@@ -2605,9 +2602,9 @@
         <text>Section 1 of Ordinance 24-311 repealed §§ <cite path="16|§16-1" proof="needed">16-1</cite> through <cite path="16|§16-15" proof="needed">16-15</cite> and §§ 16-17 though 16-55 of <cite path="16">Subtitle 16</cite>. Sections <cite path="16|§16-16A">16-16A</cite>, <cite path="16|§16-16B">16-16B</cite>, and <cite path="16|§16-16C">16-16C</cite> were not repealed.  The 3 sections of <cite path="16">Subtitle 16</cite> that remain in effect historically provided the authority to the Commissioner to appoint special enforcement officers and for those officers to issue citations. However, to the extent that those sections permitted the City to enact local laws concerning special and traffic enforcement officers, the City gained full express powers to legislate over these topics with the repeal of the language in <cite doc="City of Baltimore, Md., Charter" path="II|§(27)">§ (27) of Article II of the City Charter</cite> that had prohibited certain local legislation. Now, the City’s express powers serve as the authority for the City’s enactment of the ordinances contained in Subtitles <cite path="71" proof="needed">71</cite> through <cite path="73" proof="needed">73</cite> of <cite doc="City of Baltimore, Md., Code" path="|19">Article 19 {“Police Ordinances”} of the City Code</cite>.  </text>
       </annotation>
     </annotations>
-    <section name="16-1.to16-16">
+    <section name="16-1to16-16">
       <prefix>§§</prefix>
-      <num>16-1. to 16-16</num>
+      <num>16-1 to 16-16</num>
       <reason>Repealed by Ch. 453, Acts of 2014; Repealed by Ord. 24-311</reason>
       <annotations/>
     </section>
@@ -3120,9 +3117,9 @@
         <annotation type="Prior Codifications">2006, ch. 511</annotation>
       </annotations>
     </section>
-    <section name="16-17.to16-55">
+    <section name="16-17to16-55">
       <prefix>§§</prefix>
-      <num>16-17. to 16-55</num>
+      <num>16-17 to 16-55</num>
       <reason>Repealed by Ord. 24-311</reason>
       <annotations/>
     </section>
