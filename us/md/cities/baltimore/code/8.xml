@@ -560,7 +560,7 @@
           <text>is supported in whole or in part by the state, but is managed privately.</text>
         </para>
         <annotations>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|2|I" type="History"/>
         </annotations>
       </section>
       <section name="2-25to2-30">
@@ -568,7 +568,7 @@
         <num>2-25 to 2-30</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|2|I|2-24to2-30" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2326,7 +2326,7 @@
           <annotation type="Defined Terms">Person	§2-22</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
           <annotation type="Editor's Notes">Board Regulations R 06.26.1 and R 06.26.2 sets out criteria for obtaining approval under § 6-26(b) for “official governmental” or “City-endorsed charitable” solicitations.</annotation>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|§6-26|(a)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2378,7 +2378,7 @@
           <annotation type="Defined Terms">Lobbyist	§2-20</annotation>
           <annotation type="Defined Terms">Person	§2-22</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|§6-27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2515,7 +2515,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|§6-37" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2642,7 +2642,7 @@
         <heading>Prohibited retaliation.</heading>
         <text>A public servant may not retaliate against an individual for participating in an investigation of or reporting a potential violation of this article.</text>
         <annotations>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|6|V" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2907,7 +2907,7 @@
           <annotation type="Defined Terms">Executive Director	§2-11</annotation>
           <annotation type="Defined Terms">Person	§2-22</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|§7-4|(a)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3111,7 +3111,7 @@
         </para>
         <para>
           <num>(3a)</num>
-          <heading>Baltimore Children and Youth Fund.</heading>
+          <heading>Baltimore Children and Youth Fund and Baltimore Children and Youth Fund, Inc.</heading>
           <para>
             <num>(i)</num>
             <text>All members of Board of Directors.</text>
@@ -4043,8 +4043,10 @@
           <annotation type="Defined Terms">Employee	§2-9</annotation>
           <annotation type="Defined Terms">Non-clerical employee	§7-6</annotation>
           <annotation type="Defined Terms">Official	    §2-21</annotation>
-          <annotation app="2024-05-24" doc="City of Balt., Md., Ord. 24-325" eff="2024-05-24" path="§1" type="History"/>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2024-05-24" doc="City of Balt., Md., Ord. 24-325" eff="2024-05-24" path="§1" target-path="8|§7-8" type="History"/>
+          <annotation app="2024-05-24" doc="City of Balt., Md., Ord. 24-325" eff="2024-05-24" path="§1" target-path="8|§7-8|(38a)|num" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="8|§7-8" type="History"/>
+          <annotation app="2026-07-16" doc="City of Balt., Md., Ord. 26-114" eff="2026-07-16" path="§1" target-path="8|§7-8|(3a)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4421,7 +4423,7 @@
           <annotation type="Defined Terms">Interest	§2-19</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
           <annotation type="Editor's Notes">Ordinance 19-287 amended paragraph (c)(1), effective February 25, 2020, to expand the reference to an equity interest “held” by the public servant to encompass an equity interest “held by or otherwise attributable under this section to” the public servant.</annotation>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|§7-17|(c)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4450,7 +4452,7 @@
         <heading>Business Entity Names.</heading>
         <text>An individual who is required to disclose the name of a business entity under this section shall disclose any other names that the business entity is using for trading or doing business.</text>
         <annotations>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|7|III" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4458,7 +4460,7 @@
         <num>7-20</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|7|III|7-19to7-20" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4724,7 +4726,7 @@
           <annotation type="Defined Terms">Lobbyist	§2-20</annotation>
           <annotation type="Defined Terms">Person	§2-22</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|§7-23|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4984,7 +4986,7 @@
           <annotation type="Defined Terms">Child	§2-6</annotation>
           <annotation type="Defined Terms">Lobbyist	§2-20</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|§7-27|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5098,7 +5100,7 @@
           <annotation doc="City of Balt., Md., Ord. 19-328" type="History">Ord. 19-328</annotation>
           <annotation type="Defined Terms">Interest	§2-19</annotation>
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|§7-29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5107,7 +5109,7 @@
         <heading>Additional information.</heading>
         <text>The statement may include a schedule of additional interests or information that the public servant chooses to disclose.</text>
         <annotations>
-          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" type="History"/>
+          <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-368" eff="2024-11-01" path="§1" target-path="8|7|III" type="History"/>
         </annotations>
       </section>
     </container>

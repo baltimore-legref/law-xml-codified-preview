@@ -1,0 +1,2063 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-128" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-128</num>
+  <num type="bill">26-0158</num>
+  <heading type="short">Data Centers – Moratorium</heading>
+  <heading type="long">An Ordinance Concerning Data Centers – Moratorium</heading>
+  <meta>
+    <stub/>
+    <introduced>2026-03-23</introduced>
+    <effective>2026-07-16</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-128.pdf">Ord. 26-128</citation>
+    </citations>
+    <history>
+      <vote date="2026-03-23" reading="first"/>
+      <vote date="2026-05-11" reading="second"/>
+      <enacted>2026-06-16</enacted>
+      <committee>Favorable, with amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="32|§1-209" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-209">
+      <section>
+        <prefix>§</prefix>
+        <num>1-209</num>
+        <heading>Uses prohibited citywide.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Application of section.</heading>
+          <text>This section and its listing of certain prohibited uses:</text>
+          <para>
+            <num>(1)</num>
+            <text>is not exhaustive; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>may not be construed to imply that any use not listed here is a permitted or conditional use.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Listing.</heading>
+          <text>The following uses are prohibited in all zoning districts of the City:</text>
+          <para>
+            <num>(1)</num>
+            <text>crude oil terminals;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>data centers;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>incinerators;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>junk or scrap storage and yards;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>nuclear power plants;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>solid waste sanitary landfills;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>storage on barges and belt conveyor systems used for the transfer of materials, but this prohibition does not apply to the continuous process of unloading or loading processed metal (as defined in § 1-308) for and during its transfer to or from a docked barge or vessel awaiting shipment; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>vehicle dismantling facilities.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§1-304" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-304">
+      <section>
+        <prefix>§</prefix>
+        <num>1-304</num>
+        <heading>"Chimney" to "Day-care center: Child".</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Chimney.</heading>
+          <text>"Chimney"means a vertical shaft of reinforced concrete, masonry, or other approved material that encloses 1 or more flues, for the purpose of removing the products of combustion from solid, liquid, or gaseous fuel.</text>
+        </para>
+        <para name="(b)">
+          <num>(b)</num>
+          <reason>Reserved</reason>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Clinic.</heading>
+          <text><em>See </em>"Animal clinic"; "Health-care clinic".</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Commercial alternative energy system.</heading>
+          <text>See "Alternative energy system: Commercial".</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Commercial college.</heading>
+          <text><em>See </em>"Educational facility: Commercial-vocational".</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Commercial vehicle.</heading>
+          <text>"Commercial vehicle" has the meaning stated in City Code <cite path="|31|§1-1|(f)" doc="City of Balt., Md., Ord. 26-128">Article 31 {"Transit and Traffic"}, § 1-1(f) {"Definitions – A to L: Commercial vehicle"}</cite>.
+          </text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Community center.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Community center" means a facility in which people who live in the neighborhood or community are able to meet and carry on cultural, social, or recreational activities.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Community center" includes indoor or outdoor recreational facilities.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Community-managed open-space garden.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Community-managed open-space garden" means an open-space area that:</text>
+            <para>
+              <num>(i)</num>
+              <text>is maintained by more than 1 household; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is used for traditional community-garden activities of planting, cultivating, harvesting, maintaining, and distributing fruits, flowers, vegetables, or ornamental plants.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Community-managed open-space garden" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>accessory sheds, gazebos, and pergolas;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>temporary greenhouses and similar structures to extend the growing season; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the provision of space for related open-air recreation, active or passive, but not including playground equipment.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Community-managed open-space farm.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Community-managed open-space farm" means an open-space area that:</text>
+            <para>
+              <num>(i)</num>
+              <text>is maintained by more than 1 household; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>in addition to the uses permitted in a community-managed open-space garden, is used for 1 or more of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>the keeping of livestock and animals;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>temporary farm stands, but no more than 1 per lot; and</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>the receipt and free redistribution of organic waste material for composting.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Community-managed open-space farm" includes on-site storage, including storage for farmstands.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Community-based alternative energy system.</heading>
+          <text><em>See</em> "Alternative energy system: Community-based".</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Composting.</heading>
+          <text>"Composting" means the processing of organic waste material, such as yard and food waste, under controlled conditions to yield a nuisance-free humus-like product.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Comprehensive Master Plan.</heading>
+          <text>"Comprehensive Master Plan" means the Master Plan adopted under <cite doc="City of Baltimore, Md., Charter" path="VII|§74">City Charter Article VII, § 74</cite> {"Department of Planning: Master Plan"} and the State Land Use Article.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Comprehensive rezoning.</heading>
+          <text>"Comprehensive rezoning" means an ordinance that is:</text>
+          <para>
+            <num>(1)</num>
+            <text>initiated by City government to modify the zoning classifications of multiple properties;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>based on considerations concerning the common needs of a substantial geographic area, involving a considerable number of properties;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>designed to control and direct the use of land and structures according to present and planned future conditions; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the product of:</text>
+            <para>
+              <num>(i)</num>
+              <text>careful consideration and extensive study by the Planning Department; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>review by the Planning Commission.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Conditional use.</heading>
+          <text><em>See </em>"Use: Conditional".</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Contractor storage yard.</heading>
+          <text>"Contractor storage yard" means land or structures used primarily for the storage of equipment, vehicles, machinery, building materials, paint, piping, or electrical components being used by the owner or occupant of the premises in the conduct of a building trade.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Convention center.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Convention center" means an establishment that accommodates conventions, conferences, seminars, product displays, recreation activities, and entertainment functions.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Convention center" includes accessory uses such as:</text>
+            <para>
+              <num>(i)</num>
+              <text>temporary outdoor displays; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>food and beverage preparation and service for on-premise consumption.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>Corner lot.</heading>
+          <text><em>See </em>"Lot: Corner".</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <heading>Corner-side lot line.</heading>
+          <text><em>See </em>"Lot line: Corner-side".</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <heading>Cornice.</heading>
+          <text>"Cornice" means a continuous molded projection that:</text>
+          <para>
+            <num>(1)</num>
+            <text>extends outward from an exterior wall at the roof line;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>crowns a wall; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>divides a wall horizontally.</text>
+          </para>
+        </para>
+        <para>
+          <num>(t)</num>
+          <heading>Country club.</heading>
+          <text>"Country club" means a club organized and operated primarily for social and both indoor and outdoor recreation purposes, with recreation facilities for members, their families, and invited guests.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <heading>Critical Area (CBCA).</heading>
+          <text>"Critical Area", as it applies to the Chesapeake Bay Critical Area, has the meaning stated in § 7-402 {"CBCA Overlay: Definitions"} of this Code.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <heading>Critical Area Management Program (CBCA).</heading>
+          <text>"Critical Area Management Program", as it applies to the Chesapeake Bay Critical Area, has the meaning stated in § 7-402 {"CBCA Overlay: Definitions"} of this Code.</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <heading>Crude oil terminal.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>"Crude oil" defined.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>"Crude oil" means any naturally occurring liquid petroleum that is:</text>
+              <para>
+                <num>(A)</num>
+                <text>extracted from geological formations beneath the earth's surface; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>requires further refinement before consumer use.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>"Crude oil" does not include finished products derived from petroleum including  asphalt.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>"Crude oil terminal" defined.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>"Crude oil terminal" means a facility that receives, stores, transfers, ships, or processes crude oil.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>"Crude oil terminal" does not include facilities owned or operated by a rail carrier, as defined in U.S. Code Title 49, Subtitle IV, Part A, Chapter 101, § 10102 {"Definitions"}.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(x)</num>
+          <heading>Cultural facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Cultural facility" means a facility that provides cultural services and facilities to the public.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Illustrations.</heading>
+            <text>"Cultural facility" includes any of the following, whether operated by a public, non-profit, or private entity:</text>
+            <para>
+              <num>(i)</num>
+              <text>a museum;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>an historical society; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a library.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Inclusions.</heading>
+            <text>"Cultural facility" includes the following accessory uses designed and intended primarily for patrons of the facility:</text>
+            <para>
+              <num>(i)</num>
+              <text>a gift or souvenir shop; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a restaurant or refreshment stands.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(y)</num>
+          <heading>Data center.</heading>
+          <text>“Data center” means a facility or portion of a facility:</text>
+          <para>
+            <num>(1)</num>
+            <text>that is used primarily for the remote storage, processing, and distribution of data; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>that is capable of using 10 megawatts or more of electricity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(z)</num>
+          <heading>Day-care center: Adult.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Day-care center: Adult" means an establishment that provides care for 3 or more elderly or functionally impaired adults on less than a 24-hour basis.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Day-care center: Adult" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>a program that, as an accessory use to a place of worship, provides care for elderly or functionally impaired adults; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>an adult day-care home.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(aa)</num>
+          <heading>Day-care center: Child.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Day-care center: Child" means an establishment that provides care for 3 or more children on less than a 24-hour basis.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Day-care center: Child" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>a program that, as an accessory use to an educational facility or a place of worship, provides care for children; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a child day-care home.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§1-308" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-308">
+      <section>
+        <prefix>§</prefix>
+        <num>1-308</num>
+        <heading>"Industrial: General" to "Lot: Interior".</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Industrial: General.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Industrial: General" means the processing, manufacturing, or compounding of materials, products, or energy, having impacts on the environment or significant impacts on the use and enjoyment of adjacent property in terms of noise, smoke, fumes, odors, glare, or health and safety hazards.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Industrial: General" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>the storage of large volumes of toxic or highly flammable matter or explosives; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>outdoor operations as part of the processing, manufacturing, or compounding process.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Industrial: General" does not include or authorize any use prohibited by <cite doc="City of Baltimore, Md., Code" path="|32|§1-209">§ 1-209 {"Uses prohibited citywide"} of this title</cite>.
+            </text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Industrial: Light.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Industrial: Light" means the processing, manufacturing, assembly, or compounding of materials or products, where:</text>
+            <para>
+              <num>(i)</num>
+              <text>all processing, fabrication, assembly, treatment, and packaging of products are contained entirely within a building;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>noise, odor, smoke, heat, glare, and vibration resulting from the manufacturing process are confined within the building or otherwise minimized; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>only minimal truck traffic is required for daily operations.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Industrial: Light" includes incidental storage, sales, and distribution of products manufactured or stored on site.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Industrial: Light" does not include or authorize any use prohibited by <cite doc="City of Baltimore, Md., Code" path="|32|§1-209">§ 1-209 {"Uses prohibited citywide"} of this title</cite>.
+            </text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Industrial: Maritime-dependent.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Industrial: Maritime-dependent" means industrial uses with maritime-dependent facilities.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Industrial: Maritime-dependent" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>facilities associated with marine terminals for the storage or intermodal transfer of goods transported in waterborne commerce;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>manufacturing facilities relying on the bulk receipt or shipments of goods by waterborne commerce;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>wharves, piers, docks, and storage facilities for the commercial fishing industry;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>dry docks and other facilities related to the construction, servicing, storage, maintenance, or repair of vessels and other marine structures;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>facilities for tow boats, barges, dredges, ferries, commuter boats, water buses, water taxis, or other vessels engaged in waterborne commerce, port operations, or marine construction; and</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>facilities that:</text>
+              <para>
+                <num>(A)</num>
+                <text>are educational in nature, including visitors centers, museums, and interpretive areas, indoor or outdoor; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>are substantially related to an existing industrial maritime-dependent use, whether on the same parcel or an adjacent parcel to that use.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Interior lot.</heading>
+          <text><em>See</em> "Lot: Interior."</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Interior-side lot line.</heading>
+          <text><em>See </em>"Lot line: Interior-side."</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Junk or scrap storage and yards.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>"Processed metal" defined.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>"Processed metal" means scrap metal that has been manually or physically altered either to separate it into distinct materials to enhance economic value or to improve the handling of materials.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Inclusions.</heading>
+              <text>"Processed metal" includes:</text>
+              <para>
+                <num>(A)</num>
+                <text>scrap metal that has been baled, shredded, sheared, chopped, crushed, flattened, cut, melted, or separated; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>fines, drosses, and related materials that have been agglomerated.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>"Junk or scrap storage and yards" defined.</heading>
+            <text>"Junk or scrap storage and yards" means any premises used for any 1 or more of the following:</text>
+            <para>
+              <num>(i)</num>
+              <text>the commercial or industrial storage, temporary or otherwise, of unprocessed metal, processed metal, wastepaper, rags, or other junk;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the purchase or sale, by weight across an on-site scale, of unprocessed metal, processed metal, wastepaper, rags, or other junk; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the sorting, baling, separating, shearing, shredding, or torch preparation of metal or any other form of scrap-metal processing, including automobile flattening and crushing.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Kennel.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Kennel" means a business or other entity where 3 or more dogs or cats over 6 months old are boarded or maintained by a person other than their owner, and boarding is the primary or principal function of the use.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Kennel" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>the premises of a feral cat caregiver, as defined in <cite path="|health" doc="City of Balt., Md., Ord. 26-128">City Health Code </cite>
+                <cite path="|health|10|1|10-101" doc="City of Balt., Md., Ord. 26-128">§ 10-101 {"Animal Control...: Definitons"}</cite>, unless 3 or more dogs or non-feral cats over six 6 months old are boarded or maintained on the premises; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>an animal clinic, unless it engages in the boarding of healthy animals not then being treated or convalescing from treatment in the animal clinic.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Landfill: Industrial.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Landfill: Industrial" means a facility for the disposal of inert, non-hazardous industrial materials that are not biodegradable and are not economically and beneficially reusable at the time of their disposal.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Landfill: Industrial" does not include a facility for the disposal of:</text>
+            <para>
+              <num>(i)</num>
+              <text>household, commercial, or municipal solid waste;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>rubble; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>land-clearing debris.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Landfill: Solid waste sanitary.</heading>
+          <text>" Landfill: Solid waste sanitary" means a facility for the disposal of primarily household, commercial, and municipal solid waste.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Light food processing.</heading>
+          <text><em>See</em> "Food processing: Light".</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Light industrial.</heading>
+          <text><em>See </em>"Industrial: Light".</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Live entertainment.</heading>
+          <text><em>See </em>"Entertainment: Live".</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Lighting: Shielded.</heading>
+          <text>"Lighting: Shielded" means a fixture that is shielded in a manner so that light rays emitted by the fixture, either directly from the lamp or indirectly from the fixture or a reflector, are projected below a horizontal plane running through the lowest point on the fixture where light is emitted.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Lighting: Unshielded.</heading>
+          <text>"Lighting: Unshielded" means a fixture that allows light, either directly from the lamp or indirectly from the fixture or a reflector, to be emitted above the horizontal plane running through the lowest point on the fixture where light is emitted.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Live-work dwelling.</heading>
+          <text><em>See </em>"Dwelling: Live-Work".</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Loading berth.</heading>
+          <text>"Loading berth" means a space within a loading facility that:</text>
+          <para>
+            <num>(1)</num>
+            <text>is exclusively for the temporary parking of a commercial vehicle while loading or unloading goods or materials; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>adjoins a street, alley, or other appropriate means of access.</text>
+          </para>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>Lodge or social club.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Lodge or social club" means a lodge or social club that:</text>
+            <para>
+              <num>(i)</num>
+              <text>has a limited membership, with members elected pursuant to its charter or bylaws;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>excludes the general public from its premises or place of meeting;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>is organized with officers and directors elected pursuant to its charter or bylaws; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>holds all property for the common benefit of its members.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Lodge or social club" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>a union hall; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a non-residential post-baccalaureate fraternity and sorority center.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Lodge or social club" does not include an establishment that permits non-members to pay a temporary membership fee at the door in order to enter and use the premises.</text>
+          </para>
+        </para>
+        <para>
+          <num>(r)</num>
+          <heading>Lot.</heading>
+          <text>"Lot" means a portion of land that:</text>
+          <para>
+            <num>(1)</num>
+            <text>is a lot of record; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>has been established as a lot by an approved subdivision plat.</text>
+          </para>
+        </para>
+        <para>
+          <num>(s)</num>
+          <heading>Lot area.</heading>
+          <text>"Lot area" means the area of a horizontal plane bounded by lot lines at grade.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <heading>Lot: Corner.</heading>
+          <text>"Lot: Corner" means a lot that is situated at the junction of and adjoins 2 or more intersecting streets.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <heading>Lot coverage.</heading>
+          <text>"Lot coverage" means the portion of a lot that is occupied by buildings or other structures, including accessory structures, expressed as a percentage of total lot area.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <heading>Lot: Interior.</heading>
+          <text>"Lot: Interior" means a lot that is neither a corner lot nor a through lot.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§1-310" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-310">
+      <section>
+        <prefix>§</prefix>
+        <num>1-310</num>
+        <heading>"Motor vehicle" to "Owner".</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Motor vehicle.</heading>
+          <text>"Motor vehicle" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>a motor vehicle, as defined in §11-135 {"Motor vehicle"} of the Maryland Vehicle Law;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a moped, as defined in §11-134.1 {"Moped"} of the Maryland Vehicle Law; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a motor scooter, as defined in §11-134.5 {"Motor scooter"} of the Maryland Vehicle Law.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Motor vehicle dealership.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Motor vehicle dealership" means an establishment that sells or leases new or used motor vehicles.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Motor vehicle dealership" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>the maintenance, either on-site or at a nearby location, of an inventory of motor vehicles held for sale or lease; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>on-site facilities for the repair and service of vehicles sold or leased by the dealership.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Motor vehicle operations facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Motor vehicle operations facility" means a privately-owned facility for the dispatch, storage, fueling, and maintenance of emergency medical care vehicles, public utility vehicles, taxicabs, and other livery vehicles.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Motor vehicle operations facility" does not include a facility in which vehicles for fire, police, or other municipal agencies are stored or maintained or from which these vehicles are dispatched.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Motor vehicle rental establishment.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Motor vehicle rental establishment" means an establishment that rents motor vehicles.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Motor vehicle rental establishment" includes facilities for servicing rental vehicles.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Motor vehicle service and repair: Major.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Motor vehicle service and repair: Major" means an establishment that is engaged in major repairs to motor vehicles, such as:</text>
+            <para>
+              <num>(i)</num>
+              <text>engine rebuilding;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>major reconditioning of worn or damaged motor vehicles or trailers;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>towing services;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>collision services, including body, frame, or fender repair or straightening; or</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>painting.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Motor vehicle service and repair: Major" includes an accessory car wash.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Motor vehicle service and repair: Minor.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Motor vehicle service and repair: Minor" means an establishment that is engaged in minor repairs to motor vehicles, such as:</text>
+            <para>
+              <num>(i)</num>
+              <text>repair or replacement of cooling, electrical, fuel, and exhaust systems;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>brake adjustments, relining, and repairs;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>wheel alignment, balancing, and servicing;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>repair and replacement of shock absorbers; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>replacement or adjustment of mufflers, tail pipes, hoses, belts, light bulbs, fuses, windshield wipers, grease retainers, and wheel bearings.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Motor vehicle service and repair: Minor" includes an accessory car wash.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Motor vehicle service and repair: Minor" does not include the servicing or repair of commercial vehicles.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Movie studio.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Movie studio" means facilities for the production of motion pictures.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Movie studio" includes stages, exterior sets, film laboratories, sound recording facilities, construction, repair, and storage facilities, caretaker's and other temporary dwellings, related commercial vehicles, and accessory fabrication activities.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Multi-family dwelling.</heading>
+          <text><em>See </em>"Dwelling: Multi-family".</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Multi-family dwelling (Age-restricted).</heading>
+          <text><em>See </em>"Age-restricted multi-family dwelling".</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Neighborhood commercial establishment.</heading>
+          <text>"Neighborhood commercial establishment" means a non-residential use that is within a residential or office-residential zoning district, but in a structure that:</text>
+          <para>
+            <num>(1)</num>
+            <text>is non-residential in its construction and original use; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>has received prior zoning approval for a non-residential use, as evidenced by permits, construction, or historical evidence of lawful non-residential use.</text>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Nonconforming lot.</heading>
+          <text>"Nonconforming lot" has the meaning stated in § 18-201 {"Nonconformities: Definitions"} of this Code.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Nonconforming structure.</heading>
+          <text>"Nonconforming structure" has the meaning stated in § 18-201 {"Nonconformities: Definitions"} of this Code.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Nonconforming use.</heading>
+          <text>"Nonconforming use" has the meaning stated in § 18-201 {"Nonconformities: Definitions"} of this Code.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Nursery.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Nursery" means a business whose principal activity is the sale of plants grown on site.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Nursery" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>outside storage, growing, or display; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a greenhouse.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Office.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Office" means an establishment that engages in the processing, manipulation, or application of business information or professional expertise, whether or not it offers services to the public.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Office" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>a facility for fabricating, assembling, repairing, or warehousing physical products for the retail or wholesale market; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a data center.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Off-street parking.</heading>
+          <text><em>See </em>"Parking: Off-street".</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>On-street parking.</heading>
+          <text><em>See </em>"Parking: On-street".</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <heading>Outdoor dining.</heading>
+          <text>"Outdoor dining" means an outdoor seating area that adjoins a restaurant or carry-out food shop and is used by patrons to consume food or drinks.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <heading>Outdoor sales and display.</heading>
+          <text>"Outdoor sales and display" means the outdoor sale or display of goods on part of a lot as an accessory to the principal use of the lot.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <heading>Outdoor recreation.</heading>
+          <text><em>See</em> "Recreation: Outdoor".</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <heading>Outdoor storage.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Outdoor storage" means any storage of goods, material, merchandise, or equipment other than within an enclosed building.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Outdoor storage" includes incidental maintenance and repair of that which is being stored.</text>
+          </para>
+        </para>
+        <para>
+          <num>(v)</num>
+          <heading>Outdoor storage yard.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Outdoor storage yard" means a lot the principal or accessory use of which is the storage, other than within an enclosed building, of any material for longer than 24 hours.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Outdoor storage yard" includes all storage, whether for sale, lease, processing, or repair.</text>
+          </para>
+        </para>
+        <para>
+          <num>(w)</num>
+          <heading>Owner.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text><strong>"</strong>Owner" means any person that:</text>
+            <para>
+              <num>(i)</num>
+              <text>has a legal or equitable interest in the property;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is recorded in the land records as holding title to the property; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>otherwise has control of the property, with or without accompanying possession of the property.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Owner" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>a guardian of the person or property of an owner;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a trustee of an owner's property, including a trustee in bankruptcy; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a personal representative of an owner's estate.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§1-312" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-312">
+      <section>
+        <prefix>§</prefix>
+        <num>1-312</num>
+        <heading>"Property line" to "Roof deck".</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Property line.</heading>
+          <text><em>See </em>"Lot line".</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Public use area (off-street parking requirements).</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Public use area", as it applies to the calculation of off-street parking requirements, means areas within a structure that are accessible to the public.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Illustrations.</heading>
+            <text>"Public use area" includes areas such as display areas, restrooms, dining rooms, and bar seating.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Racetrack.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Racetrack" means a measured course where animals or automobiles are entered in competition against one another or against time.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Racetrack" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>tracks used only for training purposes; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the following accessory uses designed and intended primarily for patrons of the facility:</text>
+              <para>
+                <num>(A)</num>
+                <text>a gift or souvenir shop; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>a restaurant or refreshment stands.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Rear lot line.</heading>
+          <text><em>See </em>"Lot line: Rear".</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Recreation: Indoor.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recreation: Indoor" means predominantly participant recreational activities or games of skill that are conducted within a wholly enclosed building.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recreation: Indoor" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>bowling alleys, pool halls, indoor miniature golf courses, indoor child's play facilities, amusement arcades, indoor tennis courts, indoor swimming pools, and other similar facilities; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the following accessory uses designed and intended primarily for patrons of the facility:</text>
+              <para>
+                <num>(A)</num>
+                <text>a gift or souvenir shop; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>a restaurant or refreshment stands.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Recreation: Indoor" does not include indoor entertainment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Recreation: Outdoor.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recreation: Outdoor" means predominantly participant recreational activities or games of skill that are not conducted within a wholly enclosed building.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recreation: Outdoor" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>miniature golf courses, swimming pools, tennis courts, ball fields, skateboard parks, and other similar facilities; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the following accessory uses designed and intended primarily for patrons of the facility:</text>
+              <para>
+                <num>(A)</num>
+                <text>a gift or souvenir shop; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>a restaurant or refreshment stands.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Recreation: Outdoor" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>parks or playgrounds;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>golf courses or driving ranges; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>outdoor entertainment.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Recreational boat launch.</heading>
+          <text>"Recreational boat launch" means a designated area at which:</text>
+          <para>
+            <num>(1)</num>
+            <text>recreational watercraft may be launched; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>transient watercraft may tie up, be launched, or have repairs made for less than 1 week at a time.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Recreational marina.</heading>
+          <text><em>See </em>"Marina: Recreational".</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Recreational vehicle.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recreational vehicle" means a vehicle that:</text>
+            <para>
+              <num>(i)</num>
+              <text>is designed or intended as a temporary dwelling for travel, recreational, or vacation use; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is self-propelled or mounted on or pulled by another vehicle.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recreational vehicle" includes a travel trailer, camping trailer, truck camper, motor home, fifth-wheel trailer, boat, or van.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Recreational vehicle dealership.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recreational vehicle dealership" means an establishment that sells or leases new or used recreational vehicles.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recreational vehicle dealership" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>the maintenance, either on-site or at a nearby location, of an inventory of vehicles held for sale or lease; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>on-site facilities for the repair and service of vehicles sold or leased by the dealership.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Recyclable materials.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recyclable materials" means materials that can be collected, separated, or processed and returned to the marketplace in the form of raw materials or products.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recyclable materials" includes paper, cans, aluminum, metal, glass, and plastics.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Recyclable materials recovery facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <para>
+              <num>(i)</num>
+              <text>"Recyclable materials recovery facility" means, except as provided in paragraph (2) of this subsection, a facility that collects, sorts, grades, or processes recyclable, source-separated material.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Processing at these facilities is limited to pressing, crushing, cutting, baling, and other preparations of materials for shipping.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Recyclable materials recovery facility" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>any facility that is licensed by the State or City as a junk dealer, scrap metal processor, or scrap metal dealer; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any junk or scrap storage and yard.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Recycling.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recycling" mean any process by which materials that would otherwise become solid waste are collected, separated, or processed and returned to the marketplace in the form of raw materials or products.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Recycling" includes composting.</text>
+          </para>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Recycling and refuse collection facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Recycling and refuse collection facility" means a facility the primary purpose of which is:</text>
+            <para>
+              <num>(i)</num>
+              <text>the collection, storage, and transference of solid waste and yard waste; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the collection, storage, processing, and transference of recyclables.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Recycling and refuse collection facility" does not include any:</text>
+            <para>
+              <num>(i)</num>
+              <text>incinerator;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>junk or scrap storage and yard;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>sewage treatment facility;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>solid waste sanitary landfill; or</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>vehicle dismantling facility.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Research and development facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Research and development facility" means an establishment where research and development activities are conducted in various disciplines, including biotechnology, pharmaceuticals, medical instrumentation or supplies, communication and information technology, electronics and instrumentation, and computer hardware and software.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Research and development facility" includes, as an accessory use, the manufacture, fabrication, processing, or sale of products developed on the same lot as the establishment.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Research and development facility" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>the manufacture, fabrication, processing, or sale of products as a primary use; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a data center.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Residential-care facility.</heading>
+          <text>"Residential-care facility" means a group care or similar facility for the 24-hour medical or non-medical care of individuals in need of personal services, supervision, or assistance essential to sustain activities of daily living, or to protect the individual.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>Residential-care facility (Age-restricted).</heading>
+          <text><em>See </em>"Age-restricted residential-care facility".</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <heading>Resource recovery facility.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Resource recovery facility" means, except as provided in paragraph (2) of this subsection, a facility that:</text>
+            <para>
+              <num>(i)</num>
+              <text>processes solid waste to produce valuable resources, such as steam, electricity, or refuse-derived fuel; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>achieves a volume reduction of at least 50% of the waste that is being processed.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Resource recovery facility" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>any facility that processes hazardous materials;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any facility that is licensed by the State or City as a junk dealer, scrap metal processor, or scrap metal dealer; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>any junk or scrap storage and yard.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(s)</num>
+          <heading>Restaurant.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Restaurant" means an establishment at which:</text>
+            <para>
+              <num>(i)</num>
+              <text>food and drinks are provided to the public, primarily for on-premises consumption by seated patrons; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>if the establishment also serves alcoholic beverages:</text>
+              <para>
+                <num>(A)</num>
+                <text>a full menu of food and drinks is prepared primarily on premises; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>annually, the average daily receipts from the sale of food exceeds 50% of the establishment's total average daily receipts, not including sales of novelty items, income from vending machines, cover charges, or other receipts not derived from the sale of food or beverages.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Restaurant" does not include a carry-out food shop.</text>
+          </para>
+        </para>
+        <para>
+          <num>(t)</num>
+          <heading>Retail: Big Box Establishment.</heading>
+          <text>"Retail: Big Box Establishment" means any single-use commercial building, whether stand-alone or within a multi-building development, which single-use building occupies at least 75,000 square feet of gross floor area.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <heading>Retail goods establishment.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Retail goods establishment" means an establishment that sells goods, wares, or other merchandise directly to consumers.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Retail goods establishment", as applied to a delicatessen, bakery, grocery, or similar establishment that sells ready-to-eat food products, includes incidental seating areas for consumption of food on the premises.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Retail goods establishment" does not include any heavy sales, rental, or service establishment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(v)</num>
+          <heading>Retail: Small Box Establisment.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Retail: Small Box Establisment" means a retail store that:</text>
+            <para>
+              <num>(i)</num>
+              <text>has a floor area of more than 5,000 square feet and less than 12,000 square feet; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>offers for sale assorted convenience and consumer shopping goods, the majority of which do not exceed $5.00 per item or its equivalent, as adjusted for inflation since the year 2025.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Retail: Small Box Establisment" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>a grocery store, whose primary business is selling food at retail to the general public for off-premises consumption, of which at least 20% of the gross receipts must be derived from the retail sale of fresh produce, meats, and dairy products;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a store that contains a pharmacy where prescription drugs are compounded, dispensed, or distributed;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a fuel station, as otherwise permitted in this Code;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>a retail store where the majority of the products sold are personal hygiene products or cosmetics;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>a store that primarily engages in the resale of used consumer goods.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(w)</num>
+          <heading>Right-of-way.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Right-of-way" means land dedicated for use as a public way.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Right-of-way" includes the roadway and, generally, the curbs, parkways, sidewalks, lighting facilities, and drainage facilities.</text>
+          </para>
+        </para>
+        <para>
+          <num>(x)</num>
+          <heading>Roof deck.</heading>
+          <text>"Roof deck" means a roofless outdoor platform that is constructed on the roof of a structure and connected to the roof by structural supports.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="32|§14-339" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-339">
+      <section>
+        <prefix>§</prefix>
+        <num>14-339</num>
+        <heading>Telecommunications facilities.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>In this section, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Base station.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>"Base station" means the transmission equipment and non-tower supporting structure at a fixed location that enables wireless communications services between user equipment and a communications network.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>"Base station" does not include a satellite dish antenna, as defined in § 1-313(d) {"Satellite dish antenna"} of this Code.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Collocate.</heading>
+            <text>"Collocate" means to mount or install transmission equipment on telecommunication facilities for the purpose of transmitting or receiving radio frequency signals for communications purposes.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Distributed antenna system; DAS.</heading>
+            <text>"Distributed antenna system" or "DAS" means a network of multiple, spatially separate antenna nodes connected, for the purpose of providing wireless communication services within a geographic area.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Eligible facilities request.</heading>
+            <text>"Eligible facilities request" means any request for modification of an existing tower or base station that:</text>
+            <para>
+              <num>(i)</num>
+              <text>involves:</text>
+              <para>
+                <num>(A)</num>
+                <text>the collocation of new transmission equipment;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the removal of transmission equipment; or</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>the replacement of transmission equipment; and</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>does not:</text>
+              <para>
+                <num>(A)</num>
+                <text>substantially change physical dimensions; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>include the replacement of a tower.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(6)</num>
+            <heading>Node.</heading>
+            <text>"Node" means a component of a DAS or small cell installation that:</text>
+            <para>
+              <num>(i)</num>
+              <text>includes one or more radio frequency transmitters or antennae; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is connected by a high capacity transport medium (such as a fiber optic cable) to a common source with other nodes.</text>
+            </para>
+          </para>
+          <para>
+            <num>(7)</num>
+            <heading>Small cell installation.</heading>
+            <text>"Small cell installation" means a wireless communication technology installation similar to a DAS, but normally including a single node.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <heading>Substantially change ... physical dimensions.</heading>
+            <text>"Substantially change ... physical dimensions", when used with reference to a tower or base station, means:</text>
+            <para>
+              <num>(i)</num>
+              <text>for a tower:</text>
+              <para>
+                <num>(A)</num>
+                <text>an increase in the tower's height by more than 10% or by the height of one additional antenna array with separation from the nearest existing antenna not to exceed 20 feet, whichever is greater; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the creation of an appurtenance that protrudes from the edge of the tower more than 20 feet or more than the width of the tower structure at the level of the appurtenance, whichever is greater;</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>for a base station:</text>
+              <para>
+                <num>(A)</num>
+                <text>an increase in the base station's height by more than 10% or 10 feet, whichever is greater; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the creation of an appurtenance that protrudes from the edge of the base station by more than 6 feet;</text>
+              </para>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>an installation of more than the standard number of new equipment cabinets for the technology involved or, in any event, more than 4 cabinets;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>a modification that entails an excavation or deployment outside the current site of the tower or base station;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>a modification that would defeat the existing concealment elements of the tower or base station; and</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>a modification that does not comply with conditions associated with the prior approval of construction or modification of the tower or base station, unless the non-compliance is due to an increase in height, increase in width, additional cabinet installation, or new excavation that does not exceed the corresponding "substantial change" thresholds identified above.</text>
+            </para>
+          </para>
+          <para>
+            <num>(9)</num>
+            <heading>Telecommunications facility.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>"Telecommunications facility" means any structure that falls within the definition of "base station" or "tower".</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusion.</heading>
+              <text>"Telecommunications facility" does not include a data center.</text>
+            </para>
+          </para>
+          <para>
+            <num>(10)</num>
+            <heading>Tower.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>"Tower" means any structure built for the sole or primary purpose of supporting a base station.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Exclusions.</heading>
+              <text>"Tower" does not include a satellite dish antenna, as defined in § 1-313(d) {"Satellite dish antenna"} of this Code.</text>
+            </para>
+          </para>
+          <para>
+            <num>(11)</num>
+            <heading>Transmission equipment.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>"Transmission equipment" means any equipment that facilitates transmission for a wireless communication service.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Inclusions.</heading>
+              <text>"Transmission equipment" includes radio transceivers, antennas, and other relevant equipment associated with and necessary to their operation, including coaxial or fiber-optic cable, and regular and backup power supply.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <heading>Exclusions.</heading>
+              <text>"Transmission equipment" does not include a satellite dish antenna, as defined in § 1-313(d) {"Satellite dish antenna"} of this Code.</text>
+            </para>
+          </para>
+          <para>
+            <num>(12)</num>
+            <heading>Wireless communications service.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>"Wireless communications service" means a radiocommunication service licensed pursuant to Federal Communications Commission requirements for frequency bands in the 2305-2320 and 2345-2360 MHZ spectrum range.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Illustrations.</heading>
+              <text>The most common use of this spectrum is mobile voice and data services, including cell phone, text messaging, and Internet.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Exclusions from section.</heading>
+          <text>This section does not apply to towers or base stations located in a public right-of-way.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Purpose of standards.</heading>
+          <text>The following standards for telecommunications facilities are intended to:</text>
+          <para>
+            <num>(1)</num>
+            <text>ensure public health, safety, and welfare;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>ensure access to reliable wireless communications services throughout the City;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>encourage the location of antennas and towers on City-owned property;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>encourage the use of existing telecommunications facilities for wireless communications services; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>encourage the location of towers, to the extent possible, in areas where the adverse impact on the City will be minimal and, preferably, in non-residential districts.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Approval and application requirements.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Use approvals.</heading>
+            <text>A telecommunications facility is, in all districts, a conditional use requiring approval by the Board of Municipal and Zoning Appeals, except where, as provided in subsection (k) {"Stealth design"} or subsection (n) {"Modifications"} of this section, it is a permitted use subject to site plan review.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Application requirements.</heading>
+            <text>In addition to the general requirements for conditional-use applications, site plan review submissions, eligible facilities requests, or other documentation, all applications to erect, construct, or modify any part of a telecommunications facility must include the following items:</text>
+            <para>
+              <num>(i)</num>
+              <text>a site plan showing:</text>
+              <para>
+                <num>(A)</num>
+                <text>the location, size, screening, and design of all structures, including fences;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the location and size of all outdoor equipment;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>elevations showing antenna height;</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>a landscape plan; and</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>if the site plan is for a new tower, indication of the fall zone (shaded circle);</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a maintenance plan, and any applicable maintenance agreement, designed to ensure long-term, continuous maintenance to a reasonably prudent standard, including maintenance of landscaping, keeping the area free from debris and litter, and immediate removal of any graffiti;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a description of what is proposed, demonstrating the need for the telecommunications facility to be located where proposed;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>the reason or purpose for the placement, construction, or modification, with specific reference to the provider's coverage, capacity, and quality needs, goals, and objectives;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>the service area of the proposed telecommunications facility;</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>if the proposal is for a new tower, a map showing existing telecommunications facilities within the City and within areas surrounding the borders of the City, together with a justification for why locating on those existing facilities is not feasible and the new tower needed where proposed;</text>
+            </para>
+            <para>
+              <num>(vii)</num>
+              <text>certification by a professional engineer of the manner in which the proposed structure will fall, which certification may be used, along with other criteria such as applicable regulations for the district in question, in determining if additional setback should be required for the structure and other facilities; and</text>
+            </para>
+            <para>
+              <num>(viii)</num>
+              <text>a visual simulation or rendering of the proposed telecommunications facility that illustrates the relationship between the height and the visual appearance of the telecommunications facility.  The Zoning Administrator may require that the visual simulation be provided from 2 different perspectives and accurately depict the scale of the proposed telecommunications facility in the context of the surrounding area.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Setbacks.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Telecommunications facilities must be set back from all lot lines in accordance with the minimum setback requirements applicable to the district in question.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>DAS and small cell installation sites are not subject to setback requirements.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Height.</heading>
+          <text>The maximum height of a tower is the minimum needed to function satisfactorily with telecommunications facilities for at least 2 wireless communications service providers.  The conditional-use application for approval of a tower must demonstrate the height needed for the tower.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Lighting and marking.</heading>
+          <text>Telecommunications facilities may not be lit or marked unless required by the Federal Communications Commission, by the Federal Aviation Administration, or for the specific purpose of security, maintenance, or repair.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Landscaping.</heading>
+          <text>Telecommunications facilities must comply with the landscaping regulations of the Baltimore City Landscape Manual.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Additional standards for facilities.</heading>
+          <para>
+            <num>(1)</num>
+            <text>A base station may house only equipment and supplies for the direct operation of the telecommunications facility.  Equipment and supplies not used in direct support of the operation may not be stored on the site.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The facility may not be staffed.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Signs are strictly prohibited unless required by FCC or other governmental regulation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Additional standards for towers.</heading>
+          <para>
+            <num>(1)</num>
+            <text>A tower may be freestanding or supported and may be of either lattice or monopole construction.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The ability for other wireless communications service providers to collocate on a tower is required.  Towers must be designed to accommodate other wireless communications service providers.  The area surrounding a tower must be of a sufficient size to accommodate the base stations of at least 2 wireless communications service providers.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Unless otherwise required by the Federal Communications Commission, the Federal Aviation Administration, or the City, towers must have a galvanized silver or gray finish.</text>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Stealth design.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Stealth designs for base stations are encouraged and are permitted uses in all commercial, industrial, and special purpose districts, subject to site plan review and the requirements of this section.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An application for site plan review must include all information required by this section.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>To qualify as a permitted stealth design:</text>
+            <para>
+              <num>(i)</num>
+              <text>the base station must be within an enclosed structure or otherwise screened from  public view in accordance with the requirements of the Baltimore City Landscape Manual;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>its antennae must be mounted at least 40 feet above grade, except for small cell installations, which must be mounted at least 25 feet above grade or a minimum of 15 feet by conditional use, as measured from grade to the base of the antenna;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the base station must be located on or in a structure already permitted within the zoning district, such as water towers, clock towers, streetlights, penthouses, parapet walls, and steeples, and designed to blend into the structure; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>the base station may not increase the overall height of the structure on which it is mounted.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Base stations that collocate on existing towers are considered stealth design.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Abandonment.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Any telecommunications facility that is not operated for 180 consecutive days is considered abandoned.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The owner must remove the telecommunications facility and all aboveground equipment and related debris within 180 days of its abandonment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Nonconformities.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Ordinary maintenance may be performed on nonconforming telecommunications facilities.  However, if a proposed alteration intensifies a nonconforming characteristic of the telecommunications facility, a variance is required.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Collocation of a base station on an existing nonconforming tower is allowed as a conditional use requiring approval by the Board of Municipal and Zoning Appeals, as long as the addition of the base station does not intensify the nonconformity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Modifications.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Modifications of an existing tower or base station that does not substantially change the physical dimensions of the tower or base station are permitted if supported by an eligible facilities request.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An applicant submitting an eligible facilities request must show that the modification does not substantially change the physical dimensions of the tower or base station.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Within 60 days of filing an eligible facilities request, the request must be reviewed and approved if the modification qualifies under this subsection,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Approval of an eligible facilities request:</text>
+            <para>
+              <num>(i)</num>
+              <text>is subject to a site plan review; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>may be subject to conditions imposed by the Zoning Administrator, as long as those conditions do not conflict with the provisions of this section.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Certifications.</heading>
+          <text>When the installation of a telecommunications facility is completed, and every 5<sup>th</sup> year thereafter, a professional engineer must certify that the facility meets all applicable <cite path="|building-codes|II" doc="City of Balt., Md., Ord. 26-128">Building Code</cite> and safety requirements.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>

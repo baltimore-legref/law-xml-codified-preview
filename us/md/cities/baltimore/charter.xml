@@ -186,7 +186,7 @@
           <text><strong>Litigation related to Ballot Question F.</strong> A group of 23 Baltimore City voters filed a petition for judicial review of Ballot Question F in the Circuit Court for Anne Arundel County alleging that Ballot Question F was invalid because (1) it was improper "charter material" in violation of <cite doc="Md. Const." path="XI-A|§3">Article XI-A, § 3 of the Constitution of Maryland</cite> and (2) the language of the question was not "easily understandable by voters" in violation of § 9-203(1) of the State Election Law Article, in addition to other claims. After the circuit court found that the measure could be included on the ballot but the votes for or against it could not be certified, the decision was appealed to the Maryland Supreme Court. The Supreme Court of Maryland issued a per curium order dated October 10, 2024, permitting the votes for or against Question F to be counted and certified.</text>
         </annotation>
         <annotation type="History">Res. 16-029, ratified Nov. 8, 2016</annotation>
-        <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-318" eff="2024-11-05" path="§1" type="History"/>
+        <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-318" eff="2024-11-05" path="§1" target-path="I|§9" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1109,7 +1109,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-08" eff="2024-11-05" path="§1" type="History"/>
+        <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-08" eff="2024-11-05" path="§1" target-path="I" type="History"/>
       </annotations>
     </section>
   </container>
@@ -1635,7 +1635,7 @@
       <text>To have and exercise within the limits of Baltimore City all the power commonly known as the Police Power to the same extent as the State has or could exercise that power within the limits of Baltimore City.</text>
       <annotations>
         <annotation type="History">Chs. 39 and 40, Acts of 2009</annotation>
-        <annotation app="2024-06-01" doc="Laws of Md., ch. 947 (2024 Session Md. Gen. Assembly)" eff="2024-06-01" path="" type="History"/>
+        <annotation app="2024-06-01" doc="Laws of Md., ch. 947 (2024 Session Md. Gen. Assembly)" eff="2024-06-01" path="" target-path="II|§(27)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2125,7 +2125,7 @@
       <annotations>
         <annotation type="History">Ch. 524, Acts of 1982</annotation>
         <annotation type="History">Ch. 551, Acts of 1997</annotation>
-        <annotation app="2026-10-01" doc="Laws of Md., ch. 485 (2026 Session Md. Gen. Assembly)" eff="2026-10-01" path="" type="History"/>
+        <annotation app="2026-10-01" doc="Laws of Md., ch. 485 (2026 Session Md. Gen. Assembly)" eff="2026-10-01" path="" target-path="II|§(48)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -7610,7 +7610,7 @@
         <annotation type="History">Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</annotation>
         <annotation type="History">Res. 22-004, ratified Nov. 8, 2022</annotation>
         <annotation type="Editor's Notes">See City Code Article 1, § 7-10 {“Residency requirements for City officials”) and its accompanying Editor’s Note.  That section codifies the City’s residency requirements in accord with controlling limitations imposed by <cite doc="Md. Code" path="glg|1-201">State Local Government Article, § 1-201</cite>.</annotation>
-        <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+        <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" target-path="IV|§6|(b)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -12165,7 +12165,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" target-path="VII|baltimore-city-police-department" type="History"/>
         </annotations>
       </section>
       <section>
@@ -12206,7 +12206,7 @@
           <text>The Commissioner may appoint such employees as provided in the Ordinance of Estimates.</text>
         </para>
         <annotations>
-          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" target-path="VII|baltimore-city-police-department" type="History"/>
         </annotations>
       </section>
       <section>
@@ -12296,7 +12296,7 @@
 			  duties of the Commissioner and Department.</text>
         </para>
         <annotations>
-          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" target-path="VII|baltimore-city-police-department" type="History"/>
         </annotations>
       </section>
       <section>
@@ -12401,7 +12401,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" target-path="VII|baltimore-city-police-department" type="History"/>
         </annotations>
       </section>
       <section>
@@ -12410,7 +12410,7 @@
         <heading>Police officers: Powers and duties.</heading>
         <text>All police officers of the Department, including such other Department staff who may be designated by the Commissioner from time to time to exercise the powers and duties of police officers, shall have the authority conferred under Title 2 {"Law Enforcement Procedures; Arrest Process"} of the <cite doc="Md. Code" path="gcp">Criminal Procedure Article of the Annotated Code of Maryland</cite>.</text>
         <annotations>
-          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" target-path="VII|baltimore-city-police-department" type="History"/>
         </annotations>
       </section>
       <section>
@@ -12433,7 +12433,7 @@
           <text>The police district redistricting plan, as it may be amended by the City Council, must be approved by resolution of the Mayor and City Council within 180 days from the date the plan is introduced on the Council floor.</text>
         </para>
         <annotations>
-          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" target-path="VII|baltimore-city-police-department" type="History"/>
         </annotations>
       </section>
     </container>

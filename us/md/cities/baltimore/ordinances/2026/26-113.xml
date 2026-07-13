@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-113" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-113</num>
+  <num type="bill">25-0088</num>
+  <heading type="short">Taxes – Property Tax – Vacant Lots and Vacant Structures</heading>
+  <heading type="long">An Ordinance Concerning Taxes – Property Tax – Vacant Lots and Vacant Structures</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-08-18</introduced>
+    <effective>2026-06-16</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-113.pdf">Ord. 26-113</citation>
+    </citations>
+    <history>
+      <vote date="2025-08-18" reading="first"/>
+      <vote date="2026-05-11" reading="second"/>
+      <enacted>2026-06-16</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="28|II|11|heading" codified:doc="City of Baltimore, Md., Code" codified:path="28|II|11">
+      <heading>Vacant Lots; Vacant Structures</heading>
+    </codify:replace>
+    <codify:replace path="28|§11-1" codified:doc="City of Baltimore, Md., Code" codified:path="28|§11-1">
+      <section>
+        <prefix>§</prefix>
+        <num>11-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this section, the following words have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Building.</heading>
+          <text>“Building” has the meaning stated in City Code Article 13, § 11-1 {“Definitions”}.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Property owner.</heading>
+          <text>“Property owner” means the person who holds the title to a vacant structure.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Vacant lot.</heading>
+          <text>“Vacant lot” means:</text>
+          <para>
+            <num>(1)</num>
+            <text>an unimproved parcel of real property; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>an unimproved portion of a block that is identified by a symbol in accordance with <cite doc="City of Baltimore, Md., Charter" path="VII|§116|(k)">City Charter Article VII, § 116(k)</cite> {“System of Uniform Property Identification”} and shown on a block plat filed with the Department of Transportation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Vacant structure.</heading>
+          <text>“Vacant structure” means a structure or distinguishable part of a structure that is:</text>
+          <para>
+            <num>(1)</num>
+            <text>unoccupied; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>unsafe or unfit for human habitation or other authorized use.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:insert path="28|II|11" after="§11-1" codified:doc="City of Baltimore, Md., Code" codified:path="28|§11-2">
+      <section>
+        <prefix>§</prefix>
+        <num>11-2</num>
+        <heading>Establishment of subclass of real property.</heading>
+        <text>As authorized under State Tax – Property Article § 6-202.1 {“Subclass of Real Property Consisting of Vacant Lots or Improved Property Cited as Vacant and Unfit for Habitation”}, the Mayor and City Council of Baltimore establish a subclass of real property consisting of:</text>
+        <para>
+          <num>(1)</num>
+          <text>vacant lots; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>vacant structures.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="28|II|11" after="§11-2" codified:doc="City of Baltimore, Md., Code" codified:path="28|§11-3">
+      <section>
+        <prefix>§</prefix>
+        <num>11-3</num>
+        <heading>Special real property tax rate.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>A special real property tax rate is established for:</text>
+          <para>
+            <num>(1)</num>
+            <text>vacant lots; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>vacant structures.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Special tax rate.</heading>
+          <text>Vacant lots and vacant structures are subject to 4 times the full rate property tax established by the Mayor and City Council of Baltimore under <cite doc="City of Baltimore, Md., Charter" path="VI|§7|(c)">City Charter Article VI, § 7(c)</cite> {“Enactment of Ordinance of Estimates: Revenue Ordinances”}.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="28|II|11" after="§11-3" codified:doc="City of Baltimore, Md., Code" codified:path="28|§11-4">
+      <section>
+        <prefix>§</prefix>
+        <num>11-4</num>
+        <heading>Notice required.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The City Administrator or the City Administrator’s designee shall notify an owner of real property located within the City limits of the implementation of the tax established by this Subtitle 11 by the following methods:</text>
+          <para>
+            <num>(1)</num>
+            <text>United States mail;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>advertisement in 2 newspapers in general circulation for a minimum of 2 consecutive weeks during each month of June preceding each tax year; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>posting on the City website.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Notice by mail.</heading>
+          <text>To comply with subsection (a)(1) of this section the City Administrator or the City Administrator’s designee may include the notice required by this section with:</text>
+          <para>
+            <num>(1)</num>
+            <text>a water bill; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a violation notice for a vacant structure issued by the Department of Housing and Community Development.</text>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <codify:insert path="28|II|11" after="§11-4" codified:doc="City of Baltimore, Md., Code" codified:path="28|§11-5">
+      <section>
+        <prefix>§</prefix>
+        <num>11-5</num>
+        <heading>Rules and regulations.</heading>
+        <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the City General Provisions Article, the Director of Finance and the Commissioner of Housing and Community Development shall adopt rules and regulations to carry out the provisions of this subtitle.</text>
+      </section>
+    </codify:insert>
+    <codify:insert path="28|II|11" after="§11-5" codified:doc="City of Baltimore, Md., Code" codified:path="28|§11-6">
+      <section>
+        <prefix>§</prefix>
+        <num>11-6</num>
+        <heading>Reporting.</heading>
+        <text>On or before December 1 of each year, the Department of Finance shall submit to the Mayor and City Council, and in accordance with § 6-302(c)(2) of the State Tax – Property Article, the Maryland Department of Housing and Community Development, and the Maryland General Assembly, a report that includes the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>the special rate set under State Tax – Property Article § 6-302(c)(1);</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the number of properties to which the special tax rate applies;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the revenue change resulting from the special rate;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the use of the revenue from the special rate;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>whether properties subject to the special rate are viable for adaptive reuse, as defined in § 1-102 of the State Housing and Community Development Article; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>any existing plans to convert properties viable for adaptive reuse.</text>
+        </para>
+      </section>
+    </codify:insert>
+  </section>
+</document>

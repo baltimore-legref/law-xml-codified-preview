@@ -370,8 +370,9 @@
         <annotation doc="City of Balt., Md., Ord. 19-267" type="History">Ord. 19-267</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-471" type="History">Ord. 20-471</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
-        <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" type="History"/>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" target-path="|4|1|1-1|(f)|(1)" type="History"/>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" target-path="|4|1|1-1" type="History"/>
+        <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" target-path="4|§1-1|(f)|(3)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -584,7 +585,7 @@
         <annotation doc="City of Balt., Md., Ord. 77-590" type="History">Ord. 77-590</annotation>
         <annotation type="History">Text Conformed 02/12/21</annotation>
         <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (8) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-        <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-438" eff="2025-01-01" path="§1" type="History"/>
+        <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-438" eff="2025-01-01" path="§1" target-path="4|§2-4|(5)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -660,7 +661,7 @@
         <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
         <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
         <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
-        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" target-path="|4|3|3-1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -701,7 +702,7 @@
         <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
         <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
         <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
-        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" target-path="|4|3|3-2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -771,7 +772,7 @@
         <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
         <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
         <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
-        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" target-path="|4|3|3-3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -890,7 +891,7 @@
         <annotation doc="City of Balt., Md., Ord. 88-079" type="History">Ord. 88-079</annotation>
         <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
         <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
-        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" target-path="|4|3|3-4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1222,7 +1223,7 @@
         <annotation type="Prior Codifications">City Code, 1976/83, art. 4, §13A</annotation>
         <annotation doc="City of Balt., Md., Ord. 90-423" type="History">Ord. 90-423</annotation>
         <annotation doc="City of Balt., Md., Ord. 02-453" type="History">Ord. 02-453</annotation>
-        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" type="History"/>
+        <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" target-path="|4|3|3-5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1584,7 +1585,7 @@
         <text>"Immigration official" means any employee of the United States Department of Homeland Security, any employee of United States Immigration and Customs Enforcement, or any federal official who engages in an immigration enforcement action.</text>
       </para>
       <annotations>
-        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" type="History"/>
+        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1655,7 +1656,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" type="History"/>
+        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1676,7 +1677,7 @@
         <text>investigate or assist in an investigation regarding an individual's citizenship or immigration status, unless the inquiry or investigation is required by law, a court order, or a judicial warrant.</text>
       </para>
       <annotations>
-        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" type="History"/>
+        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1716,7 +1717,7 @@
         <text>An agency shall submit a copy of its immigration action response plan to the Mayor's Office of Immigrant Affairs.</text>
       </para>
       <annotations>
-        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" type="History"/>
+        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1747,7 +1748,7 @@
         <text>If this subtitle is preempted by any change in federal, State, or international law, the City Solicitor shall provide notice of the preemption to the Mayor and City Council.</text>
       </para>
       <annotations>
-        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" type="History"/>
+        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1777,9 +1778,9 @@
         <text>The Baltimore Police Department is excluded from the training requirements in subsection (a) of this section if it develops and delivers an equivalent training designed for police operations.</text>
       </para>
       <annotations>
-        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" type="History"/>
+        <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" target-path="4" type="History"/>
       </annotations>
     </section>
-    <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" type="History"/>
+    <annotation app="2026-05-07" doc="City of Balt., Md., Ord. 26-105" eff="2026-05-07" path="§1" target-path="4" type="History"/>
   </container>
 </container>

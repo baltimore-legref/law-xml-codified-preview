@@ -326,7 +326,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-093" type="History">Ord. 13-093</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-          <annotation app="2025-12-03" doc="City of Balt., Md., Ord. 25-062" eff="2025-12-03" path="§1" type="History"/>
+          <annotation app="2025-12-03" doc="City of Balt., Md., Ord. 25-062" eff="2025-12-03" path="§1" target-path="13|§2-3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1710,7 +1710,13 @@
             <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
             <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
             <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-4" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-5" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-6" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-7" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1818,7 +1824,14 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation type="Prior Codifications">Article 13, § 2B-3</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-4" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-5" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-6" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-7" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-3" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-2" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1866,7 +1879,13 @@
             <annotation type="History">Text Conformed 02/19/21</annotation>
             <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
             <annotation type="Prior Codifications">Article 13, § 2B-7</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-4" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-5" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-6" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-7" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-3" type="History"/>
           </annotations>
         </section>
         <section name="2B-4to2B-10">
@@ -1874,10 +1893,19 @@
           <num>2B-4 to 2B-10</num>
           <reason>Reserved</reason>
           <annotations>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-4" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-5" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-6" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-7" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-8 to 2B-10" type="History"/>
           </annotations>
         </section>
-        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-4" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-5" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-6" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-7" type="History"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1890,7 +1918,8 @@
           <text>There is an Inclusionary Housing Board.</text>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1972,7 +2001,9 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation doc="City of Balt., Md., Ord. 13-126" type="History">Ord. 13-126</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|II|2B-12" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2007,7 +2038,8 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2031,7 +2063,8 @@
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2041,7 +2074,8 @@
           <text>The Department of Housing and Community Development must provide staff for the Board.</text>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2090,7 +2124,9 @@
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|II|2B-16" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2108,7 +2144,9 @@
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|II|2B-17" type="History"/>
           </annotations>
         </section>
         <section name="2B-18to2B-20">
@@ -2116,7 +2154,8 @@
           <num>2B-18 to 2B-20</num>
           <reason>Reserved</reason>
           <annotations>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
           </annotations>
         </section>
       </container>
@@ -2207,7 +2246,10 @@
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-25" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-21" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2256,7 +2298,10 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-25" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-22" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2267,7 +2312,10 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-25" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-23" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2328,7 +2376,10 @@
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-25" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-24" type="History"/>
           </annotations>
         </section>
         <section name="2B-25to2B-30">
@@ -2336,10 +2387,13 @@
           <num>2B-25 to 2B-30</num>
           <reason>Reserved</reason>
           <annotations>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-25" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-26 to 2B-30" type="History"/>
           </annotations>
         </section>
-        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|III|2B-25" type="History"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -2372,7 +2426,10 @@
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-37" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|IV|2B-31" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2395,7 +2452,10 @@
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-37" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|IV|2B-32" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2425,7 +2485,10 @@
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-37" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|IV|2B-33" type="History"/>
           </annotations>
         </section>
         <section placeholder="Repealed">
@@ -2436,7 +2499,10 @@
           <text>Repealed.</text>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-37" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|IV|2B-34" type="History"/>
           </annotations>
         </section>
         <section placeholder="Repealed">
@@ -2447,7 +2513,10 @@
           <text>Repealed.</text>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-37" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|IV|2B-35" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2458,7 +2527,10 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation type="Prior Codifications">Article 13, § 2B-37</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-37" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|IV|2B-36" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2480,7 +2552,10 @@
             <text>The Commissioner may designate housing providers to manage and rent affordable units in accordance with the regulations and procedures adopted by the Commissioner.</text>
           </para>
           <annotations>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-37" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|IV" type="History"/>
           </annotations>
         </section>
         <section name="2B-38to2B-40">
@@ -2488,14 +2563,16 @@
           <num>2B-38 to 2B-40</num>
           <reason>Reserved</reason>
           <annotations>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-37" type="History"/>
           </annotations>
         </section>
-        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-37" type="History"/>
       </container>
       <container>
         <prefix>Part</prefix>
-        <num>V<annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/></num>
+        <num>V<annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VI|num" type="History"/></num>
         <heading>Continued Affordability</heading>
         <section>
           <prefix>§</prefix>
@@ -2574,23 +2651,34 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation type="Prior Codifications">Article 13, § 2B-51</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-51" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-52" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-53 to 2B-60" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-41" type="History"/>
           </annotations>
         </section>
-        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-51" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-52" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-53 to 2B-60" type="History"/>
         <section name="2B-42to2B-50">
           <prefix>§§</prefix>
           <num>2B-42 to 2B-50</num>
           <reason>Reserved</reason>
           <annotations>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-51" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-52" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-53 to 2B-60" type="History"/>
           </annotations>
         </section>
       </container>
       <container>
         <prefix>Part</prefix>
-        <num>VI<annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/></num>
-        <heading>Administrative Review, Judicial Review, and Penalties.<annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/></heading>
+        <num>VI<annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VIII|num" type="History"/></num>
+        <heading>Administrative Review, Judicial Review, and Penalties.<annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VI|heading" type="History"/></heading>
         <section>
           <prefix>§</prefix>
           <num>2B-51</num>
@@ -2627,7 +2715,11 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation type="Prior Codifications">Article 13, § 2B-71</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-71" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-72" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-51" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2649,10 +2741,16 @@
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation type="Prior Codifications">Article 13, § 2B-72</annotation>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-71" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-72" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-52" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-52|annos|ord-07-474-special-provisions" type="History"/>
           </annotations>
         </section>
-        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-71" type="History"/>
+        <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-72" type="History"/>
         <section>
           <prefix>§</prefix>
           <num>2B-53</num>
@@ -2677,11 +2775,16 @@
             <text>Each day that a violation continues is a separate offense.</text>
           </para>
           <annotations>
-            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-71" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|§2B-72" type="History"/>
+            <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VI" type="History"/>
           </annotations>
         </section>
       </container>
-      <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" type="History"/>
+      <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|V" type="History"/>
+      <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-308" eff="2024-07-20" path="§1" target-path="13|I|2B|VII" type="History"/>
     </container>
     <container>
       <prefix>Subtitle</prefix>
@@ -2979,7 +3082,7 @@
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3003,7 +3106,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-372" type="History">Ord. 10-372</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3015,7 +3118,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3023,7 +3126,7 @@
         <num>4-4</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3064,7 +3167,7 @@
           <annotation doc="City of Balt., Md., Ord. 05-170" type="History">Ord. 05-170</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-372" type="History">Ord. 10-372</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3101,7 +3204,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3109,7 +3212,7 @@
         <num>4-7</num>
         <reason>Repealed by Ord. 20-428</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3217,7 +3320,7 @@
           <annotation doc="City of Balt., Md., Ord. 10-372" type="History">Ord. 10-372</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3228,7 +3331,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3236,7 +3339,7 @@
         <num>4-10</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3280,7 +3383,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 04-832" type="History">Ord. 04-832</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-372" type="History">Ord. 10-372</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3329,7 +3432,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3337,7 +3440,7 @@
         <num>4-13</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3355,7 +3458,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3363,7 +3466,7 @@
         <num>4-15</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3384,7 +3487,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-424" type="History">Ord. 07-424</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3405,7 +3508,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3628,9 +3731,9 @@
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation doc="City of Balt., Md., Ord. 24-298" type="History">Ord. 24-298</annotation>
-          <annotation app="2024-02-16" doc="City of Balt., Md., Ord. 24-298" eff="2024-02-16" path="§1" type="History"/>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-02-16" doc="City of Balt., Md., Ord. 24-298" eff="2024-02-16" path="§1" target-path="13|§5-1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3643,8 +3746,8 @@
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3652,7 +3755,7 @@
         <num>5-3</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3717,8 +3820,8 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3772,8 +3875,8 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3835,8 +3938,8 @@
               <text>Beginning in October 2015, and every 5 years thereafter, at the time that Baltimore City sends a renewal notice to a holder of a multiple–family dwelling license, Baltimore City shall notify the license holder of the inspection requirement under subparagraph (iii) of this paragraph.</text>
             </para>
           </annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3998,8 +4101,8 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4010,8 +4113,8 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4022,8 +4125,8 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-9" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4190,8 +4293,8 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-10" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4271,8 +4374,8 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-11" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4300,8 +4403,8 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4312,7 +4415,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4320,7 +4423,7 @@
         <num>5-14</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4408,8 +4511,8 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-15" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4437,8 +4540,8 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-16" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4457,7 +4560,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4465,7 +4568,7 @@
         <num>5-18</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4494,7 +4597,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-529" type="History">Ord. 07-529</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4521,8 +4624,8 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-20" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4530,7 +4633,7 @@
         <num>5-21</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4584,8 +4687,8 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-22" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4593,7 +4696,7 @@
         <num>5-23</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4624,7 +4727,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4654,8 +4757,8 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-424" type="History">Ord. 07-424</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|§5-25" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4676,7 +4779,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-529" type="History">Ord. 07-529</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4694,8 +4797,8 @@
           <text>The Department of Housing and Community Development may use existing resources to track and analyze priority dwellings at the discretion of the Commissioner.</text>
         </para>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|II|5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4924,8 +5027,8 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+          <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" target-path="13|II|5" type="History"/>
         </annotations>
       </section>
     </container>
@@ -4943,8 +5046,8 @@
           <heading>Statement of public policy and purpose.</heading>
           <text>It is the intent and purpose of <cite path="|13|6">this subtitle</cite> that before title to any single-family residential rental property is voluntarily transferred, the tenant of that property shall have the opportunity to purchase the property and that residential property owners shall not be unreasonably impeded in selling their properties nor required to accept unreasonable terms of sale.</text>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5028,9 +5131,9 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" target-path="13|§6-2" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5095,8 +5198,8 @@
             <text>A tranfer of title by the housing authority of Baltimore City.</text>
           </para>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5135,9 +5238,9 @@
             <text>To the extent possible, any defect or ambiguity in <cite path="|13|6">this subtitle</cite> shall be resolved in favor of tenants.</text>
           </para>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" target-path="13|§6-4|(b)" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5146,8 +5249,8 @@
           <heading>Rules and regulations.</heading>
           <text>Subject to <cite path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article</cite>, the Commissioner may adopt rules and regulations to carry out <cite path="|13|6">this subtitle</cite>.</text>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5155,8 +5258,8 @@
           <num>6-6</num>
           <reason>Reserved</reason>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
       </container>
@@ -5170,9 +5273,9 @@
           <heading>Opportunity to purchase - generally.</heading>
           <text>Before a landlord may settle on the sale of a rental single-family dwelling unit, the landlord shall give the tenant an opportunity to purchase the rental single-family dwelling unit at a price and under terms that constitute an offer of sale in accordance with the requirements of this subtitle.</text>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" target-path="13|§6-7" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5278,9 +5381,9 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" target-path="13|§6-8" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5330,8 +5433,8 @@
             <text>If 6 months elapses from the date the landlord has delivered the written offer of sale required by § 6-8  {"Offer of sale"} to a tenant and the landlord has not gone to settlement on the sale of the rental  dwelling unit, the landlord shall send a new written offer of sale to the relevant parties before selling the rental  dwelling unit.</text>
           </para>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5340,9 +5443,9 @@
           <heading>Assignment of rights.</heading>
           <text>The rights of a tenant under this subtitle may not be assigned and anyattempted assignment is void.</text>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" target-path="13|II|6|2" type="History"/>
           </annotations>
         </section>
         <section name="6-10to6-13">
@@ -5350,8 +5453,8 @@
           <num>6-10 to 6-13</num>
           <reason>Reserved</reason>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
       </container>
@@ -5400,8 +5503,8 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5410,8 +5513,8 @@
           <heading>Waiver of rights.</heading>
           <text>Unless otherwise expressly stated, a landlord may not request, and the tenant may not grant, a waiver of any requirement under <cite path="|13|6">this subtitle</cite> unless the waiver is in exchange for consideration that the tenant, in their sole discretion, find acceptable.</text>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5457,9 +5560,9 @@
             <text>Where a rental single-family dwelling unit subject to this section is owned by a corporation, LLC, or other business organization, the affidavit required by subsection (a) of this section shall be made by  a duly authorized officer of the organization or duly authorized representative of the ownership entity.</text>
           </para>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" target-path="13|§6-16|(d)" type="History"/>
           </annotations>
         </section>
         <section>
@@ -5500,9 +5603,9 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 24-336" eff="2024-04-13" path="§1" target-path="13|§6-17|(a)" type="History"/>
           </annotations>
         </section>
         <section name="6-18to6-19">
@@ -5510,8 +5613,8 @@
           <num>6-18 to 6-19</num>
           <reason>Reserved</reason>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
       </container>
@@ -5536,12 +5639,12 @@
             <text>The criminal penalty described in this section is not intended to preclude any other civil or administrative remedy available at law.</text>
           </para>
           <annotations>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
-            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
           </annotations>
         </section>
       </container>
-      <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" type="History"/>
+      <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§2" target-path="|13|II" type="History"/>
     </container>
     <container>
       <prefix>Subtitle</prefix>
@@ -5700,7 +5803,7 @@
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
           <annotation type="Editor's Notes">See also <cite path="|13|§6A-4">§ 6A-4 {“Additional Commission member”} of this subtitle</cite>.</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5712,7 +5815,7 @@
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5768,7 +5871,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5804,7 +5907,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5844,7 +5947,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5853,7 +5956,7 @@
         <reason>Repealed by Ord.  22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -5926,7 +6029,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5950,7 +6053,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5977,7 +6080,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6004,7 +6107,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6023,7 +6126,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6031,7 +6134,7 @@
         <num>6B-6</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6050,7 +6153,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6068,7 +6171,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6130,7 +6233,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6140,7 +6243,7 @@
         <text>Tenants and landlords involved in the Program must comply with all State and local laws regarding security deposits.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -6156,7 +6259,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(intro)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6167,7 +6270,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(a)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6339,7 +6442,7 @@
           <annotation type="Editor's Notes">In conjunction with its enactment of Subtitle 6A, Ordinance 20-465 also amended this § 7-3(c), subject to the same delayed effective date of April 1, 2021.</annotation>
           <annotation type="Editor's Notes">Subsection (a-2) was enacted by Ordinance 21-014 {“Late Fees for Past Due Rent ”}, with an effective date of April 30, 2021. Section 3 of Ord. 21-014, however, specifies that “this Ordinance shall only apply prospectively to new leases and shall have no retroactive effect on leases entered into prior to the effective date of this Ordinance”.</annotation>
           <annotation type="Editor's Notes">Subsection (a-1) was enacted on January 13, 2020, by Ord. 20-336 {“Water Accountability and Equity Act”).  For the effective date of this subsection, as more recently set  by Ord. 20-468 {“Water Accountability ... Act – Modifications”}, see Editor’s Note in City Code <cite path="|24">Article 24 {“Water”}</cite>, at the end of that article’s Subtitle 2 {“Bills”} – especially the quotes there from Ord. 20-468, Sections 4 and 5(b).</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6366,7 +6469,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(c)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6377,7 +6480,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(d)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6388,7 +6491,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(f)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6400,7 +6503,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(e)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-137" type="History">Ord. 18-137</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -6484,7 +6587,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §57(a)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-280" type="History">Ord. 81-280</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6519,7 +6622,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §57(b)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-280" type="History">Ord. 81-280</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6547,7 +6650,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §57(c)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-280" type="History">Ord. 81-280</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6639,7 +6742,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-364" type="History">Ord. 20-364</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6653,7 +6756,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-364" type="History">Ord. 20-364</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6665,7 +6768,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §57(e)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-280" type="History">Ord. 81-280</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-364" type="History">Ord. 20-364</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6688,7 +6791,7 @@
           <text>Each day a violation continues is a separate offense.</text>
         </para>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -6743,7 +6846,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6843,7 +6946,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-458" type="History">Ord. 11-458</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6868,7 +6971,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-458" type="History">Ord. 11-458</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6887,7 +6990,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6944,7 +7047,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b)(1) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6954,7 +7057,7 @@
         <text>Under no circumstances may eviction chattels, abandoned or otherwise, be placed in a public right-of-way or on any public property.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section name="8A-7to8A-8">
@@ -6962,7 +7065,7 @@
         <num>8A-7 to 8A-8</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6981,7 +7084,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -7025,7 +7128,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7078,7 +7181,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-458" type="History">Ord. 11-458</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7104,7 +7207,7 @@
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
           <annotation doc="City of Balt., Md., Ord. 09-217" type="History">Ord. 09-217</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-458" type="History">Ord. 11-458</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7123,7 +7226,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7149,7 +7252,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7159,7 +7262,7 @@
         <text>Under no circumstances may any property, abandoned or otherwise, be placed in a public right-of-way or on any public property.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section name="8B-7to8B-8">
@@ -7167,7 +7270,7 @@
         <num>8B-7 to 8B-8</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7186,7 +7289,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -7239,7 +7342,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7292,7 +7395,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7302,7 +7405,7 @@
         <text>A landlord's offer to renew the lease or notice declining to offer a renewal must be in writing and delivered to the tenant by first-class mail with certificate of mailing or by electronic means if consented to in advance by the tenant in the writing.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7333,7 +7436,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7341,7 +7444,7 @@
         <num>8C-5</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7351,7 +7454,7 @@
         <text>Any person who violates any provision of this subtitle or any provision of a rule, regulation, or order adopted or issued under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7359,7 +7462,7 @@
         <num>8C-7</num>
         <reason>Reserved</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7369,7 +7472,7 @@
         <text>This subtitle shall automatically expire on the 181<sup>st</sup> day following the expiration of the catastrophic health emergency declared by the Governor of Maryland on March 5, 2020, as amended or extended by the Governor.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -7415,7 +7518,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §59</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7434,7 +7537,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §60</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7446,7 +7549,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §61</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7467,7 +7570,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §62</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7479,7 +7582,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §63</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7487,7 +7590,7 @@
         <num>9-6</num>
         <reason>Vacant</reason>
         <annotations>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7498,7 +7601,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §65</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7523,7 +7626,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §66</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -7558,7 +7661,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §67</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7664,7 +7767,7 @@
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7689,7 +7792,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §69</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7710,7 +7813,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §70</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7731,7 +7834,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §71</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
           <annotation doc="City of Balt., Md., Ord. 84-209" type="History">Ord. 84-209</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7742,7 +7845,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §72</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7753,7 +7856,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §73</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7807,7 +7910,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §74</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7827,11 +7930,11 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §75</annotation>
           <annotation doc="City of Balt., Md., Ord. 83-944" type="History">Ord. 83-944</annotation>
-          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
         </annotations>
       </section>
     </container>
-    <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" type="History"/>
+    <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="§1" target-path="|13|II|6" type="History"/>
   </container>
   <container>
     <prefix>Division</prefix>
@@ -8125,7 +8228,7 @@
           <annotation doc="City of Balt., Md., Ord. 13-093" type="History">Ord. 13-093</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-1|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8149,7 +8252,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8213,7 +8316,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-552" type="History">Ord. 07-552</annotation>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8223,7 +8326,7 @@
         <text>The Director must issue or renew the license if, on investigation, the Director finds that all the requirements of this subtitle are met.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8242,7 +8345,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8298,7 +8401,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-552" type="History">Ord. 07-552</annotation>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8347,7 +8450,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-9|(a)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8400,7 +8503,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-11|(a)|(2)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8516,7 +8619,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 12-093" type="History">Ord. 12-093</annotation>
-          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" type="History"/>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-16" type="History"/>
         </annotations>
       </section>
       <section>

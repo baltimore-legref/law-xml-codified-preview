@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-129" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-129</num>
+  <num type="bill">26-0151</num>
+  <heading type="short">Taxes – Property Tax – Increase of Homestead Tax Credit Percentage</heading>
+  <heading type="long">An Ordinance Concerning Taxes – Property Tax – Increase of Homestead Tax Credit Percentage</heading>
+  <meta>
+    <stub/>
+    <introduced>2026-02-09</introduced>
+    <effective>2026-07-17</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-129.pdf">Ord. 26-129</citation>
+    </citations>
+    <history>
+      <vote date="2026-02-09" reading="first"/>
+      <vote date="2026-06-08" reading="second"/>
+      <enacted>2026-06-17</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="28|§10-1" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-1">
+      <section>
+        <prefix>§</prefix>
+        <num>10-1</num>
+        <heading>Homestead property.</heading>
+        <text>Pursuant to the authorization contained in <cite doc="Md. Code" path="gtp|9-105">State Tax-Property Article § 9-105, </cite>for the taxable year beginning July 1, 2027, the homestead credit percentage for the City property tax is 105%.</text>
+      </section>
+    </codify:replace>
+  </section>
+</document>

@@ -1416,7 +1416,7 @@
           <text>"School health services professional" or "school health professional" means a physician, certified nurse practitioner, or registered nurse with experience, special training, or both in working with children and families in community or school health programs and practices in accordance with the current State medical and nursing standards of care.</text>
         </para>
         <annotations>
-          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" target-path="health|3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1441,7 +1441,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" target-path="health|3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1467,7 +1467,7 @@
           <text>If a school health services professional determines that an additional screening or health check-up is necessary for a student, the professional shall make a recommendation for an additional screening or health check-up to the student or the student's parent or guardian, as appropriate.</text>
         </para>
         <annotations>
-          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" target-path="health|3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1476,13 +1476,13 @@
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act B Regulations"} of the City General Provisions Article, the Commissioner of the Baltimore City Health Department may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+          <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" target-path="health|3" type="History"/>
         </annotations>
       </section>
-      <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+      <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" target-path="health|3" type="History"/>
       <annotations>
         <annotation type="Editor's Notes">Ordinance 25-016 (effective August 25, 2025) numbered sections in this subtitle with the structure "[subtitle_number]-[section_number]" (e.g. "§ 6-101"). This structure does not follow the numbering conventions for sections in the Health Code. The proper structure is "[title number]-[subtitle number][section number]" (e.g. "§ 3-601"). The section numbers have been updated to follow the correct numbering convention.</annotation>
-        <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" type="History"/>
+        <annotation app="2025-08-25" doc="City of Balt., Md., Ord. 25-016" eff="2025-08-25" path="§1" target-path="|health|3|6" type="History"/>
       </annotations>
     </container>
   </container>
@@ -5559,7 +5559,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-361" type="History">Ord. 20-361</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-          <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
+          <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="health|§6-603.1|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8541,7 +8541,7 @@
       <prefix>Subtitle</prefix>
       <num>3</num>
       <heading>Gas-Powered Debris Removal Equipment</heading>
-      <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+      <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="health|8" type="History"/>
       <section>
         <prefix>§</prefix>
         <num>8-301</num>
@@ -8693,7 +8693,8 @@
           <text>"Subcontractor" means a business enterprise that has a direct contract with a contractor to perform part of the work on a contract.</text>
         </para>
         <annotations>
-          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="health|8" type="History"/>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="health|8|3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8711,8 +8712,9 @@
           <text>An owner of real property in Baltimore City may not permit any person, individual, contractor, or subcontractor to use gas-powered debris removal equipment on that property.</text>
         </para>
         <annotations>
-          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
-          <annotation app="2025-06-09" doc="City of Balt., Md., Ord. 25-020" eff="2025-06-09" path="§1" type="History"/>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="health|8" type="History"/>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="health|8|3" type="History"/>
+          <annotation app="2025-06-09" doc="City of Balt., Md., Ord. 25-020" eff="2025-06-09" path="§1" target-path="health|§8-302" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8730,8 +8732,8 @@
           <text>The rules and regulations adopted by the Baltimore City Health Department under this section shall include an affidavit form a witness shall use to submit a complaint under <cite path="health|§8-402">§ 8-402</cite> of this title.</text>
         </para>
         <annotations>
-          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
-          <annotation app="2025-06-09" doc="City of Balt., Md., Ord. 25-020" eff="2025-06-09" path="§1" type="History"/>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="health|8" type="History"/>
+          <annotation app="2025-06-09" doc="City of Balt., Md., Ord. 25-020" eff="2025-06-09" path="§1" target-path="health|8|3" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8766,7 +8768,7 @@
           <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§10(2nd sen.), 16, 21</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-232" type="History">Ord. 19-232</annotation>
-          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="health|8|3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8825,15 +8827,15 @@
           <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§10(2nd sen.), 16, 21</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-232" type="History">Ord. 19-232</annotation>
-          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
-          <annotation app="2025-06-09" doc="City of Balt., Md., Ord. 25-020" eff="2025-06-09" path="§1" type="History"/>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="health|8|3" type="History"/>
+          <annotation app="2025-06-09" doc="City of Balt., Md., Ord. 25-020" eff="2025-06-09" path="§1" target-path="health|§8-402" type="History"/>
         </annotations>
       </section>
       <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
       <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
       <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§10(2nd sen.), 16, 21</annotation>
       <annotation doc="City of Balt., Md., Ord. 19-232" type="History">Ord. 19-232</annotation>
-      <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+      <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="health|8|3" type="History"/>
     </container>
   </container>
   <container>
@@ -17300,7 +17302,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" type="History"/>
+          <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" target-path="|health|12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -17309,7 +17311,7 @@
         <heading>Use prohibition - Stadiums.</heading>
         <text>Use of a tobacco product in any manner is prohibited in any stadium.</text>
         <annotations>
-          <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" type="History"/>
+          <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" target-path="|health|12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -17337,7 +17339,7 @@
           <text>The issuance of a citation to enforce this subtitle does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
         </para>
         <annotations>
-          <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" type="History"/>
+          <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" target-path="|health|12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -17346,10 +17348,10 @@
         <heading>Civil penalties: $500.</heading>
         <text>Any person who violates any provision of this subtitle is subject to a civil fine of not more than $500 for each violation.</text>
         <annotations>
-          <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" type="History"/>
+          <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" target-path="|health|12" type="History"/>
         </annotations>
       </section>
-      <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" type="History"/>
+      <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" target-path="|health|12" type="History"/>
     </container>
   </container>
   <container>
@@ -18978,7 +18980,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-430" type="History">Ord. 20-430</annotation>
-          <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
+          <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="health|§19-302|(b)|(8)" type="History"/>
         </annotations>
       </section>
       <section>

@@ -636,21 +636,37 @@
       <para>
         <num>(b)</num>
         <heading>Board.</heading>
-        <text>"Board" means the Board of Directors of the fiscal agent.</text>
+        <text>“Board” means the Board of Directors of the fiscal agent.</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>Fiscal agent.</heading>
-        <text>"Fiscal agent" means the entity designated by <cite path="|5|§9-4|(a)">§ 9-4(a) of this subtitle</cite> to administer the Fund and this subtitle.</text>
+        <text>“Fiscal agent” means the entity designated by <cite path="|5|§9-4|(a)">§ 9-4(a) of this subtitle</cite> to administer the Fund and this subtitle.</text>
       </para>
       <para>
         <num>(d)</num>
+        <heading>Fiscal sponsor.</heading>
+        <text>“Fiscal sponsor” means a nonprofit recognized as tax-exempt under Internal Revenue Code § 501(c)(3) that enters into an agreement with another organization to provide financial management and administrative support to that organization.</text>
+      </para>
+      <para>
+        <num>(e)</num>
         <heading>Fund.</heading>
-        <text>"Fund" means the Children and Youth Fund established by <cite doc="City of Baltimore, Md., Charter" path="I|§13">City Charter Article I, § 13</cite> {"Children and Youth Fund"}.</text>
+        <text>“Fund” means the Children and Youth Fund established by <cite doc="City of Baltimore, Md., Charter" path="I|§13">City Charter Article I, § 13</cite> {“Children and Youth Fund”}.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Grant.</heading>
+        <text>“Grant” means money, regardless of source, that is controlled by the Fund and allocated from the Fund to a grantee for a specific purpose.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Grantee.</heading>
+        <text>“Grantee” means a legal entity to which the Fund makes a grant.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 18-103" type="History">Ord. 18-103</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-363" type="History">Ord. 20-363</annotation>
+        <annotation app="2026-07-16" doc="City of Balt., Md., Ord. 26-114" eff="2026-07-16" path="§1" target-path="5|§9-1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -660,7 +676,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>The Fund may be used only for the purposes generally described in <cite doc="City of Baltimore, Md., Charter" path="I|§13|(a)">City Charter Article I, § 13(a)</cite>.</text>
+        <text>The Fund may be used only for the purposes generally described in <cite doc="City of Baltimore, Md., Charter" path="I|§13|(a)">City Charter Article I, § 13(a)</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -676,11 +692,17 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>capacity-building efforts to strengthen Fund administration or the ability of providers to successfully and sustainably offer services to Baltimore's youth.</text>
+          <text>capacity-building efforts to strengthen the ability of providers to successfully and sustainably offer services to Baltimore’s youth.</text>
         </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Exclusion.</heading>
+        <text>The Fund may not be used to provide direct grants to an entity, unless that entity is a tax-exempt organization or is using a tax-exempt organization as a fiscal sponsor.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 18-103" type="History">Ord. 18-103</annotation>
+        <annotation app="2026-07-16" doc="City of Balt., Md., Ord. 26-114" eff="2026-07-16" path="§1" target-path="5|§9-2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -720,18 +742,67 @@
       <para>
         <num>(b)</num>
         <heading>General powers and duties.</heading>
-        <text>The fiscal agent must:</text>
+        <text>The fiscal agent shall:</text>
         <para>
           <num>(1)</num>
-          <text>identify specific programs and services to be funded by the Fund; and</text>
+          <text>identify specific programs and services to which the Fund may award a grant; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>allocate the available funds among the programs and services identified for funding.</text>
+          <text>make grant awards to the programs and services identified by the Fund;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>use the standardized grant process and procedures to be followed by all grantees, as described in subsection (d) of this section; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>require regular fiscal and program reports from all grantees, as required under subsection (e) of this section.</text>
         </para>
       </para>
       <para>
         <num>(c)</num>
+        <heading>Ethical procedures.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Board shall file.</heading>
+          <text>The Board shall abide by the provisions of Subtitle 7 {“Financial Disclosures”} of the <cite path="|8">City Ethics Article</cite> and all other applicable provisions therein.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Required recusal.</heading>
+          <para>
+            <num>(i)</num>
+            <text>A member of the Board has a conflict of interest and shall abstain from a discussion and recuse themselves from a vote on any matter before the Board if:</text>
+            <para>
+              <num>(A)</num>
+              <text>the Board member is currently employed by the organization to which the discussion or vote pertains;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>a family member of the Board member is currently employed by the organization to which the discussion or vote pertains;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>the Board member is currently a member of the board of the organization to which the discussion or vote pertains; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>a family member of the Board member is currently a member of the board of the organization to which the discussion or vote pertains.</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A Board member who abstains from a discussion or recuses themselves from a vote under subparagraph (i) of this paragraph shall immediately disclose the conflict of interest to the other members of the Board.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The conflict of interest and the member’s subsequent abstention or recusal shall be published in the Board’s meeting minutes.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
         <heading>Identifying programs and services for funding.</heading>
         <para>
           <num>(1)</num>
@@ -755,16 +826,268 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The fiscal agent may also use any additional factors listed in <cite doc="City of Baltimore, Md., Charter" path="I|§13|(a)">City Charter Article I, § 13(a)</cite> to identify specific programs and services to be funded by the Fund so long as the additional factors are made publically available to applicants for funding at the time that applications are requested.</text>
+          <text>The fiscal agent may also use any additional factors listed in <cite doc="City of Baltimore, Md., Charter" path="I|§13|(a)">City Charter Article I, § 13(a)</cite> to identify specific programs and services to be funded by the Fund so long as the additional factors are made publicly available to applicants for funding at the time that applications are requested.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Beginning in Fiscal Year 2022 and continuing every 3 years thereafter, the fiscal agent shall conduct a community-wide needs assessment to assist the Board in determining grant-making areas.</text>
+          <text>Beginning in Fiscal Year 2027 and continuing every 3 years thereafter, the fiscal agent shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>conduct a community-wide needs assessment to assist the Board in determining grant-making areas; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>within 30 days of completing the needs assessment, submit the assessment to the Board of Estimates and the City Council.</text>
+          </para>
         </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Grant application policies and procedures.</heading>
+        <text>The fiscal agent shall use the following process to award grants to organizations:</text>
+        <para>
+          <num>(1)</num>
+          <text>the fiscal agent shall make all grant opportunities available to all eligible organizations;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the fiscal agent shall assess each individual grant opportunity to determine, based on the goals, scope, and complexity of each grant opportunity, which of the below types of panels will review applications:</text>
+          <para>
+            <num>(i)</num>
+            <text>a community panel, which shall review applications for grants that meet the following criteria:</text>
+            <para>
+              <num>(A)</num>
+              <text>the focus of the grant is neighborhood-based or community-centered;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the grant is broad, competitive, or open to new applicants;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>the grant necessitates field-specific expertise; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>the term of the grant will be longer than 12 months; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a panel of fiscal agent staff, which shall review applications for grants that meet the following criteria:</text>
+            <para>
+              <num>(A)</num>
+              <text>the grant is time-sensitive and requires expedited review and recommendations;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the grant is specialized or strategic; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>limited in scope, including technical assistance awards or targeted initiatives;</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the fiscal agent shall assemble, edit, and publish on its website a grants manual that provides guidance to prospective grantees regarding the policies and procedures used by the Fund to award a grant, including whether applications will be reviewed by a community review panel or a panel of fiscal agent staff, as described in paragraph (2) of this subsection;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>for each individual grant opportunity, the fiscal agent shall create, maintain, and publish on its website a standard grant application for an organization to complete and submit to the fiscal agent that includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>proof of the organization’s tax-exempt status or the tax-exempt status of the organization’s fiscal sponsor;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a description of the organization, including:</text>
+            <para>
+              <num>(A)</num>
+              <text>how the organization aligns with the Fund’s purpose as stated in <cite path="|5|§9-3">§ 9-3 of this subtitle</cite>;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>a summary of the organization’s experience with serving youth; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>an assessment of the organization’s credibility with and accountability to youth, community members and the community as a whole in the City;</text>
+            </para>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>copies of the organization’s financial documentation, including:</text>
+            <para>
+              <num>(A)</num>
+              <text>a copy of the organization’s current budget;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the organization’s most recent annual financial statement;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>the organization’s most recent United States Internal Revenue Service Form 990, if applicable; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>the organization’s State of Maryland certificate of status;</text>
+            </para>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>if applicable:</text>
+            <para>
+              <num>(A)</num>
+              <text>a signed and executed agreement between the organization’s current or potential fiscal sponsor and the organization, in which the fiscal sponsor endorses the organization’s application and agrees to serve or continue to serve as the organization’s fiscal sponsor if the organization is awarded a grant by the Fund;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the fiscal sponsor’s most recent audited annual financial statement;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>the fiscal sponsor’s most recent United States Internal Revenue Service Form 990; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>the fiscal sponsor’s State of Maryland certificate of status;</text>
+            </para>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>a description of the specific programs within the organization that will be funded by the grant, including each program’s:</text>
+            <para>
+              <num>(A)</num>
+              <text>purpose;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>timeline;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>proposed measurements of program outcomes; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>budget; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>any additional relevant information required by the fiscal agent;</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>upon receipt of a completed grant application, the fiscal agent shall conduct a preliminary review of the application to:</text>
+          <para>
+            <num>(i)</num>
+            <text>verify that the organization is eligible for the grant;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>review the organization’s record of compliance with previously awarded grants, if applicable; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>ensure that the organization meets all other requirements specific to the grant opportunity;</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>based upon the fiscal agent’s determination made under paragraph (2) of this subsection, the fiscal agent shall convene either:</text>
+          <para>
+            <num>(i)</num>
+            <text>a panel to complete a community review of the completed grant application:</text>
+            <para>
+              <num>(A)</num>
+              <text>of which the members shall possess the same qualifications as the members of the Board, as described in the by-laws, regarding:</text>
+              <para>
+                <num>1.</num>
+                <text>current residency in the City of Baltimore; and</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>knowledge and skills in racial equity, youth development, or community engagement;</text>
+              </para>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>of which the members shall receive orientation and training regarding program goals, evaluation criteria, confidentiality requirements, and conflict-of-interest standards; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>of which the members may include youth development practitioners, community members, educators, youth leaders, and subject-matter experts; or</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>a panel consistent of staff members of the fiscal agent;</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>the panel convened under this subsection shall complete review of the application, which shall include:</text>
+          <para>
+            <num>(i)</num>
+            <text>a group review of the application;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>scoring the application based on the following criteria:</text>
+            <para>
+              <num>(A)</num>
+              <text>the applicant is currently active in Baltimore City;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the applicant has credibility with and accountability to youth and the local communities the organization is planning to serve;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>the applicant has an element of youth-centered programming;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>the programming is designed to improve outcomes for youth; and</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>the program aligns with the needs identified in the 3-year assessment conducted under <cite path="|5|§9-4(c)(3)">§ 9-4(c)(3) of this subtitle</cite>;</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>based upon the grant application review conducted under paragraph (7) of this subsection, the panel shall report the name and score of each applicant, and make recommendations to the fiscal agent and the Board and, if the recommendations were made on behalf of a community review panel, fiscal agent staff may contribute additional information to the Board, as needed;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>based upon the recommendations of the panel, the Board shall either deny or approve an organization’s grant application and, if approved, the fiscal agent shall enter into a grant agreement with the organization and finalize the disbursement of funds in accordance with the memorandum of understanding between the fiscal agent and the Mayor of Baltimore; and</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>following the denial or approval of an organization’s grant application, the fiscal agent shall report to the applicant the outcome of the application evaluation process and provide feedback specific to the application from the review process.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Grantee reporting.</heading>
+        <text>A grantee shall submit to the fiscal agent a quarterly fiscal report.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Performance audit.</heading>
+        <text>Beginning in Fiscal Year 2027 and continuing every 3 years thereafter, the fiscal agent shall participate in a performance audit conducted by the Office of the Baltimore City Comptroller.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 18-103" type="History">Ord. 18-103</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-363" type="History">Ord. 20-363</annotation>
+        <annotation app="2026-07-16" doc="City of Balt., Md., Ord. 26-114" eff="2026-07-16" path="§1" target-path="5|§9-4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -781,7 +1104,7 @@
         <heading>Number and appointment.</heading>
         <para>
           <num>(1)</num>
-          <text>The number of voting members of the full Board may not be less than 9, excluding vacancies, and no more than 20.</text>
+          <text>The number of voting members of the full Board may not be less than 13, excluding vacancies, and no more than 21.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -789,7 +1112,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The Board members shall be appointed and serve the terms prescribed by the Board's bylaws.</text>
+          <text>The Board members shall be appointed and serve the terms prescribed by the Board’s bylaws.</text>
         </para>
       </para>
       <para>
@@ -803,11 +1126,15 @@
             <text>Of the voting members of the Board:</text>
             <para>
               <num>(A)</num>
-              <text>1 shall be the Director of the Mayor's Office of Children and Family Success                or the Director's designee; and</text>
+              <text>1 shall be the Mayor or the Mayor’s designee;</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>1 shall be the City Council President or a City Councilmember designated by    the City Council President.</text>
+              <text>1 shall be the City Council President or a member of the City Council designated by the City Council President; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>1 shall be a member of the Baltimore City Youth Commission, as determined by an affirmative vote of at least a majority of a quorum of the Baltimore City Youth Commission.</text>
             </para>
           </para>
           <para>
@@ -815,11 +1142,11 @@
             <text>Of the non-voting members of the Board:</text>
             <para>
               <num>(A)</num>
-              <text>1 shall be the City Solicitor or the City Solicitor's designee; and</text>
+              <text>1 shall be the City Solicitor or the City Solicitor’s designee; and</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>1 shall be the Director of Finance or the Director's designee.</text>
+              <text>1 shall be the Director of Finance or the Director’s designee.</text>
             </para>
           </para>
         </para>
@@ -829,22 +1156,38 @@
           <para>
             <num>(i)</num>
             <heading>In general.</heading>
-            <text>The Board shall reflect a diverse economic, social, and racial mix.</text>
+            <text>The Board shall reflect the economic, social, cultural, and geographic diversity of the City and shall reflect the racial demographics of the City, as reflected in the most recent, publicly-available United States Census data on Baltimore City youth ages 0-24 years old.</text>
           </para>
           <para>
             <num>(ii)</num>
             <heading>Youth participation.</heading>
             <para>
               <num>(A)</num>
-              <text>In this subparagraph, "youth" means an individual between the ages of 14 and 25, inclusive.</text>
+              <text>In this subparagraph, “youth” means an individual between the ages of 14 and 25, inclusive.</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>Except as provided in sub-subparagraph (C), at least one-third of the Board shall consist of youth members.</text>
+              <text>Except as provided in sub-subparagraphs (C) and (D), at least 1/3 of the Board shall consist of youth members.</text>
             </para>
             <para>
               <num>(C)</num>
-              <text>The Board of Estimates may waive the requirement in sub-subparagraph (B) if the Board of Estimates finds that the Fund's Board has taken reasonable and diligent efforts to comply with that requirement and that those efforts have failed.</text>
+              <text>No more than 1 time in a fiscal year, the Board of Estimates may waive the requirement in sub-subparagraph (B) if the Board of Estimates finds that:</text>
+              <para>
+                <num>1.</num>
+                <text>the Fund’s Board has taken reasonable and diligent efforts to comply with that requirement;</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>those efforts have failed; and</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>the Board creates and submits to the Board of Estimates a plan to restore the youth membership to at least one-third of the total Board.</text>
+              </para>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>If the Board’s youth membership is less than 2 youth members, the Board shall immediately notify the Board of Estimates and shall present the Board of Estimates with a plan for restoring youth Board membership to a minimum of 2 youth Board members and shall carry out that plan within 90 days of presenting the plan.</text>
             </para>
           </para>
         </para>
@@ -854,7 +1197,7 @@
         <heading>Bylaws.</heading>
         <para>
           <num>(1)</num>
-          <text>The Board must adopt bylaws for the administration of the fiscal agent<em>. </em> However, those bylaws may not be inconsistent with the terms of this subtitle or of <cite doc="City of Baltimore, Md., Charter" path="I|§13">City Charter Article I, § 13</cite> {"Children and Youth Fund"}.</text>
+          <text>The Board must adopt bylaws for the administration of the fiscal agent. However, those bylaws may not be inconsistent with the terms of this subtitle or of <cite doc="City of Baltimore, Md., Charter" path="I|§13">City Charter Article I, § 13</cite> {“Children and Youth Fund”}.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -873,11 +1216,12 @@
       <para>
         <num>(f)</num>
         <heading>Staff.</heading>
-        <text>The Board may employ staff to carry out the fiscal agent's day-to-day operations.</text>
+        <text>The Board may employ staff to carry out the fiscal agent’s day-to-day operations.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 20-363" type="History">Ord. 20-363</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+        <annotation app="2026-07-16" doc="City of Balt., Md., Ord. 26-114" eff="2026-07-16" path="§1" target-path="5|§9-5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -887,7 +1231,35 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Subject to the requirements of this section, the Board shall adopt an annual financial plan, based on the City's fiscal year, consisting of at least a budget and an amount to be disbursed from the Fund during that year.</text>
+        <text>Subject to the requirements of this section, prior to September 1 of each year, the Board shall adopt an annual financial plan, based on the City’s fiscal year, that includes:</text>
+        <para>
+          <num>(1)</num>
+          <text>a budget;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>an amount to be disbursed from the Fund to grantees during the coming fiscal year;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the balance of the Fund held in accounts controlled and operated by the fiscal agent as of the most recent quarter;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the amount of money the Fund received from the property tax assessment in the last fiscal year;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the results of the most recent financial audit conducted by an independent third party;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the end of fiscal year statement of financial position and an analysis of the end of year budget, as compared with the report, including the amount of money spent on facilitation and execution of community participatory processes for grant making; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>an updated plan and progress report on the disbursement of the multi-year balance of the Fund.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
@@ -897,14 +1269,14 @@
           <heading>Limitations on use.</heading>
           <para>
             <num>(i)</num>
-            <text>For the purposes of this paragraph, "public engagement" may include:</text>
+            <text>For the purposes of this paragraph, “public engagement” may include:</text>
             <para>
               <num>(A)</num>
               <text>staffing needs for community outreach;</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>space, supplies, and personnel for community information sessions;</text>
+              <text>space, supplies, and personnel for community information sessions; or</text>
             </para>
             <para>
               <num>(C)</num>
@@ -912,40 +1284,64 @@
             </para>
             <para>
               <num>(D)</num>
-              <text>facilitation and execution of community participatory processes for grant   making.</text>
+              <text>facilitation and execution of community participatory processes for grant making.</text>
             </para>
           </para>
           <para>
             <num>(ii)</num>
-            <text>In its financial plan, the Board may allocate from the Fund's balance:</text>
+            <text>In its financial plan, the Board may allocate from the Fund’s balance:</text>
             <para>
               <num>(A)</num>
-              <text>up to 5% for public engagement; and</text>
+              <text>up to 5% for public engagement specifying how much of this allocation is budgeted to be used for facilitation and execution of community participation in the grant making process;</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>up to 15% for staff and other costs to administer the Fund.</text>
+              <text>up to 15% for staff and other costs to administer the Fund; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>up to 20% for technical assistance to grantees regarding administering grant funds and complying with grant requirements.</text>
             </para>
           </para>
         </para>
         <para>
           <num>(2)</num>
           <heading>Remainder to be disbursed.</heading>
-          <text>The Board must allocate the remainder of the Fund's balance among the programs and services identified under <cite path="|5|§9-4|(c)">§ 9-4(c) of this subtitle</cite>, with an emphasis on programs or services operating in, or meant to assist young people from, the communities in Baltimore City most impacted by high poverty.</text>
+          <para>
+            <num>(i)</num>
+            <text>The Board shall allocate the remainder of the Fund’s balance among the programs and services identified under <cite path="|5|§9-4|(d)">§ 9-4(d) of this subtitle</cite>, with an emphasis on programs or services operating in, or meant to assist young people from, the communities in Baltimore City most impacted by high poverty.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The remainder of the Fund’s balance shall be allocated according to the processes established in <cite path="|5|§9-4">§ 9-4 of this subtitle</cite> and in accordance with paragraph (3) of this subsection.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Grant amounts - Limitations.</heading>
+          <para>
+            <num>(i)</num>
+            <text>The size of a grant may not exceed 25% of the total amount of money disbursed by the Fund as grants in any fiscal year.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Board may not award a grant to any organization that has not followed the policies and procedures established under <cite path="|5|§9-4|(d)">§ 9-4(d) of this subtitle</cite>.</text>
+          </para>
         </para>
       </para>
       <para>
         <num>(c)</num>
         <heading>Public hearing and comment on financial plan.</heading>
-        <text>Before adopting any financial plan required by this section, the Board shall arrange for a public hearing on the proposed plan.  Notice of the hearing must be published on the fiscal agent's website for at least 3 consecutive weeks.</text>
+        <text>Before adopting any financial plan required by this section, the Board shall arrange for a public hearing on the proposed plan. Notice of the hearing must be published on the fiscal agent’s website for at least 3 consecutive weeks.</text>
       </para>
       <para>
         <num>(d)</num>
         <heading>Board of Estimates filing required.</heading>
-        <text>After adopting a financial plan, the Board shall file the plan with the Board of Estimates.</text>
+        <text>Within 10 days of adopting a financial plan, the Board shall file the plan with the Board of Estimates.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 20-363" type="History">Ord. 20-363</annotation>
+        <annotation app="2026-07-16" doc="City of Balt., Md., Ord. 26-114" eff="2026-07-16" path="§1" target-path="5|§9-6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -961,14 +1357,21 @@
       <para>
         <num>(a)</num>
         <heading>Public hearings.</heading>
-        <text>No later than March 31 of each year, a relevant committee of the City Council shall hold 1 or more public hearings to evaluate the activities of the fiscal agent and its disbursements.</text>
+        <para>
+          <num>(1)</num>
+          <text>No later than March 31 of each year, a relevant committee of the City Council shall hold 1 or more public hearings to evaluate the operations of the fiscal agent and its disbursements.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>By the date of the public hearing required by paragraph (1) of this subsection, the fiscal agent shall submit to the City Council the completed independent third party financial audit of the Fund from the previous fiscal year.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
         <heading>Petition for dissolution.</heading>
         <para>
           <num>(1)</num>
-          <text>If after conducting a public hearing and hearing testimonial evidence, the City Council finds evidence of misappropriation of funds, malfeasance, or violation of law in connection with the administration of the Fund, the City Council may, by a three-fifths vote of its members, refer a petition to the Board of Estimates to dissolve the fiscal agent's Board.</text>
+          <text>If after conducting a public hearing and hearing testimonial evidence, the City Council finds evidence of misappropriation of funds, malfeasance, or violation of law in connection with the administration of the Fund, the City Council may, by a three-fifths vote of its members, refer a petition to the Board of Estimates to dissolve the fiscal agent’s Board.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -977,36 +1380,100 @@
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 20-363" type="History">Ord. 20-363</annotation>
+        <annotation app="2026-07-16" doc="City of Balt., Md., Ord. 26-114" eff="2026-07-16" path="§1" target-path="5|§9-8" type="History"/>
       </annotations>
     </section>
     <section>
       <prefix>§</prefix>
       <num>9-9</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance must adopt rules and regulations to carry out this subtitle including:</text>
+      <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the <cite path="|general" doc="City of Balt., Md., Ord. 26-114">City General Provisions Article</cite>, the Director of Finance must adopt rules and regulations to carry out this subtitle including:</text>
       <para>
         <num>(i)</num>
-        <text>a schedule for dispersing the Fund each year; and</text>
+        <text>a schedule for disbursing the Fund each year; and</text>
       </para>
       <para>
         <num>(ii)</num>
-        <text>procedures for transferring money from the Fund to either the interim fiscal agent or directly to service and program providers designated by the interim fiscal agent.</text>
+        <text>procedures for transferring money from the Fund to either the fiscal agent or directly to service and program providers designated by the fiscal agent.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 18-103" type="History">Ord. 18-103</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-363" type="History">Ord. 20-363</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
         <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation app="2026-07-16" doc="City of Balt., Md., Ord. 26-114" eff="2026-07-16" path="§1" target-path="5|§9-9" type="History"/>
       </annotations>
     </section>
     <section>
       <prefix>§</prefix>
       <num>9-10</num>
-      <heading>Annual report.</heading>
-      <text>No later than June 30 of each year, the Board shall prepare and submit a report to the Mayor and City Council detailing the activities and the impact of the Fund.</text>
+      <heading>Annual reports.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Board.</heading>
+        <text>No later than September 1 of each year, the Board shall prepare and submit a report to the Mayor and City Council that shall include:</text>
+        <para>
+          <num>(1)</num>
+          <text>a detailed description of the activities and impact of the Fund;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the composition and demographics of the Board, including the number of youth members on the Board and the geographic diversity of the members;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>information about the Fund’s grantees, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>the grantee’s name and address;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the programmatic intent of the grantee;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the geographic area served by the grantee;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the size of the grant received by the grantee;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>the number of years of funding received by the grantee;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>the grantee’s record of compliance with the Funds reporting requirements and the terms and conditions of any grants received; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>a summary of the outcomes that the grantee achieved using money from the Fund; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the results of the most recently completed audit of the Fund.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Director of Finance.</heading>
+        <text>The Director of Finance shall annually provide a report to the Mayor and City Council that includes:</text>
+        <para>
+          <num>(1)</num>
+          <text>the date and amount disbursed through grants in the past fiscal year, in accordance with the regulations promulgated pursuant to <cite path="|5|§9-9">§ 9-9 of this subtitle</cite>; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the Fund’s balance prior to and following the dates of any transfer of money from the Fund to the fiscal agent.</text>
+        </para>
+      </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 20-363" type="History">Ord. 20-363</annotation>
         <annotation type="Editor's Notes">This subtitle was substantially modified by Section 1 of Ordinance 20-363 (Council Bill 20-519). For effective dates and transitional provisions, see also the following uncodified provisions of that Ordinance: Section 2 {Transition Board; First Financial Plan}, Section 3 {Interim fiscal agent close-out and transfer of records}, Section 4 {Unused Fund balances from FY 2019 and FY 2020}, and Sections 6 and 7 {Effective dates}.</annotation>
+        <annotation app="2026-07-16" doc="City of Balt., Md., Ord. 26-114" eff="2026-07-16" path="§1" target-path="5|§9-10" type="History"/>
       </annotations>
     </section>
   </container>
@@ -6649,7 +7116,8 @@
             <annotation doc="City of Balt., Md., Ord. 00-098" type="History">Ord. 00-098</annotation>
             <annotation doc="City of Balt., Md., Ord. 07-606" type="History">Ord. 07-606</annotation>
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
-            <annotation app="2023-11-20" doc="City of Balt., Md., Ord. 23-276" eff="2023-11-20" path="§1" type="History"/>
+            <annotation app="2023-11-20" doc="City of Balt., Md., Ord. 23-276" eff="2023-11-20" path="§1" target-path="|5|28|1|I|28-3|(a)|(1)|(iv)" type="History"/>
+            <annotation app="2023-11-20" doc="City of Balt., Md., Ord. 23-276" eff="2023-11-20" path="§1" target-path="|5|28|1|I|28-3|(a)|(2)" type="History"/>
           </annotations>
         </section>
         <section>
@@ -6691,7 +7159,7 @@
             <annotation doc="City of Balt., Md., Ord. 19-269" type="History">Ord. 19-269</annotation>
             <annotation doc="City of Balt., Md., Ord. 20-394" type="History">Ord. 20-394</annotation>
             <annotation doc="City of Balt., Md., Ord.  21-048" type="History">Ord.  21-048</annotation>
-            <annotation app="2023-11-20" doc="City of Balt., Md., Ord. 23-276" eff="2023-11-20" path="§1" type="History"/>
+            <annotation app="2023-11-20" doc="City of Balt., Md., Ord. 23-276" eff="2023-11-20" path="§1" target-path="|5|28|1|I|28-5" type="History"/>
           </annotations>
         </section>
         <section name="28-6to28-8">
@@ -11086,7 +11554,7 @@
     <prefix>Subtitle</prefix>
     <num>35A</num>
     <heading>Required Procurement of Zero-Emission Vehicles.</heading>
-    <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" type="History"/>
+    <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5" type="History"/>
     <section>
       <prefix>§</prefix>
       <num>35A-1</num>
@@ -11142,7 +11610,8 @@
         <text>"Zero-emission vehicle infrastructure" means the structures, machinery, equipment, and utilities necessary to support the use and maintenance of a zero-emission vehicle.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5|35A" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11151,7 +11620,8 @@
       <heading>Zero-emission vehicle procurement requirements.</heading>
       <text>City agencies must increase their procurement of zero-emission vehicles so that 100%  of all vehicles purchased, leased, or rented for the administrative fleet will be zero-emission vehicles by January 1, 2030.</text>
       <annotations>
-        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5|35A" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11240,7 +11710,8 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5|35A" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11249,7 +11720,8 @@
       <heading>Required bid information.</heading>
       <text>The City Purchasing Agent and all City agencies shall include, in all City bids and requests for bids for a vehicle procurement contract, a statement of the City's policy on zero-emission vehicles.</text>
       <annotations>
-        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5|35A" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11294,7 +11766,8 @@
         <text>an assessment of zero-emission vehicle technology and analysis of how that technology will impact the City's Sustainability and Environmental Management Plan, specifically the Plan's measures for developing, implementing, and coordinating the City policies that make all City operations  achieve net-zero emissions by January 1, 2045.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5|35A" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11303,7 +11776,8 @@
       <heading>Rules and regulations.</heading>
       <text>Subject to <cite path="|general|4">Title 4 {“Administrative Procedure Act – Regulations”}</cite> of the City General Provisions Article, the Director of Finance and the Director of the Department of General Services may adopt rules and regulations to carry out the provisions of this subtitle.</text>
       <annotations>
-        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5" type="History"/>
+        <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-278" eff="2024-01-03" path="§1" target-path="5|35A" type="History"/>
       </annotations>
     </section>
   </container>

@@ -1026,7 +1026,7 @@
           <text>"Property" means any unit of real property that is subject to the real property tax of Baltimore City.</text>
         </para>
         <annotations>
-          <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" type="History"/>
+          <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" target-path="28|II" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1170,7 +1170,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" type="History"/>
+          <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" target-path="28|II" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1179,10 +1179,10 @@
         <heading>Rules and regulations.</heading>
         <text>Subject to <cite path="|general|4" doc="City of Balt., Md., Ord. 26-104">Title 4 {"Administrative Procedure Act – Regulations"}</cite> of the <cite path="|general" doc="City of Balt., Md., Ord. 26-104">City General Provisions Article</cite>, the Director may adopt rules and regulations to carry out the provisions of this subtitle.</text>
         <annotations>
-          <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" type="History"/>
+          <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" target-path="28|II" type="History"/>
         </annotations>
       </section>
-      <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" type="History"/>
+      <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" target-path="28|II" type="History"/>
     </container>
     <container>
       <prefix>Subtitle</prefix>
@@ -1511,7 +1511,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-427" type="History">Ord. 20-427</annotation>
           <annotation type="Editor's Notes">§§ 8-5 and 8-6 of this subtitle were enacted November 2, 2020, by Ordinance 20-427, with an effective date of July 21, 2021.</annotation>
-          <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" type="History"/>
+          <annotation app="2026-04-27" doc="City of Balt., Md., Ord. 26-104" eff="2026-04-27" path="§1" target-path="28|§8-6|(c)" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2544,12 +2544,13 @@
         <prefix>§</prefix>
         <num>10-1</num>
         <heading>Homestead property.</heading>
-        <text>Pursuant to the authorization contained in <cite doc="Md. Code" path="gtp|9-105">State Tax-Property Article § 9-105, </cite>for the taxable year beginning July 1, 1993, the homestead credit percentage for the City property tax is 104%.</text>
+        <text>Pursuant to the authorization contained in <cite doc="Md. Code" path="gtp|9-105">State Tax-Property Article § 9-105, </cite>for the taxable year beginning July 1, 2027, the homestead credit percentage for the City property tax is 105%.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §16A</annotation>
           <annotation doc="City of Balt., Md., Ord. 90-631" type="History">Ord. 90-631</annotation>
           <annotation doc="City of Balt., Md., Ord. 91-842" type="History">Ord. 91-842</annotation>
           <annotation doc="City of Balt., Md., Ord. 92-156" type="History">Ord. 92-156</annotation>
+          <annotation app="2026-07-17" doc="City of Balt., Md., Ord. 26-129" eff="2026-07-17" path="§1" target-path="28|§10-1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3742,8 +3743,8 @@
           <annotation doc="City of Balt., Md., Ord. 23-192" type="History">Ord. 23-192</annotation>
           <annotation doc="City of Balt., Md., Ord. 23-253" type="History">Ord. 23-253</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-          <annotation app="2024-08-24" doc="City of Balt., Md., Ord. 24-355" eff="2024-08-24" path="§1" type="History"/>
-          <annotation app="2026-09-15" doc="City of Balt., Md., Ord. 25-045" eff="2026-09-15" path="§1" type="History"/>
+          <annotation app="2024-08-24" doc="City of Balt., Md., Ord. 24-355" eff="2024-08-24" path="§1" target-path="28|§10-8|(m)" type="History"/>
+          <annotation app="2026-09-15" doc="City of Balt., Md., Ord. 25-045" eff="2026-09-15" path="§1" target-path="28|§10-8|(a)|(4)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5246,7 +5247,7 @@
           <annotation doc="City of Balt., Md., Ord. 21-104" type="History">Ord. 21-104</annotation>
           <annotation type="Editor's Notes">Ordinance 19-331, enacted December 18, 2019, amended subsection (a)(3)(i) to reduce the required number of rental units from 20 units to 10 units.  Section 2 of Ord. 19-331 states that the amendment “shall apply retroactively to all projects under construction pursuant to a building permit that is valid as of the date this Ordinance is enacted, provided that: (i) the project has not received a final occupancy permit prior to the date this Ordinance is enacted; and (ii) an Initial Application has been submitted to the Department of Finance within 90 days of the date this Ordinance is enacted.”</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-          <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-309" eff="2024-07-20" path="§1" type="History"/>
+          <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-309" eff="2024-07-20" path="§1" target-path="|28|II|10|10-18|(h)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5804,7 +5805,7 @@
           <text>The Department of Finance may accept applications for the credit for a period of time that is concurrent with the term of the inclusionary housing requirements established by <cite path="|13|I|2B">Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}</cite> of the City Code.</text>
         </para>
         <annotations>
-          <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-309" eff="2024-07-20" path="§1" type="History"/>
+          <annotation app="2024-07-20" doc="City of Balt., Md., Ord. 24-309" eff="2024-07-20" path="§1" target-path="|28|II|10" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7202,158 +7203,186 @@
     <container>
       <prefix>Subtitle</prefix>
       <num>11</num>
-      <heading>Vacant and Abandoned Property</heading>
+      <heading>Vacant Lots; Vacant Structures<annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-113" eff="2026-06-16" path="§1" target-path="28|II|11|heading" type="History"/></heading>
       <section>
         <prefix>§</prefix>
         <num>11-1</num>
-        <heading>Special rate for vacant and abandoned property.</heading>
+        <heading>Definitions.</heading>
         <para>
           <num>(a)</num>
-          <heading>Definitions.</heading>
-          <para>
-            <num>(1)</num>
-            <heading>In general.</heading>
-            <text>In this section, the following words have the meanings indicated.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <heading>Building.</heading>
-            <text>“Building” has the meaning stated in City Code Article 13, § 11-1 {“Definitions”}.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <heading>Property owner.</heading>
-            <text>“Property owner” means the person who holds the title to a vacant structure.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <heading>Vacant structure.</heading>
-            <text>“Vacant structure” has the meaning stated in § 116.4 of the Baltimore City Building Code.</text>
-          </para>
+          <heading>In general.</heading>
+          <text>In this section, the following words have the meanings indicated.</text>
         </para>
         <para>
           <num>(b)</num>
-          <heading>Property tax applies.</heading>
-          <para>
-            <num>(1)</num>
-            <heading>In general.</heading>
-            <text>A property classified by the Department of Housing and Community Development as a vacant structure is subject to:</text>
-            <para>
-              <num>(i)</num>
-              <text>in the first full tax year the property is classified as a vacant structure, 3 times the full rate property tax established by <cite doc="City of Baltimore, Md., Charter" path="VI|§7|(c)">City Charter Article VI, § 7(c)</cite> {“Enactment of Ordinance of Estimates: Revenue ordinances”}; and</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>any tax year thereafter that the property is classified as a vacant structure, 4 times the full rate property tax.</text>
-            </para>
-          </para>
-          <para>
-            <num>(2)</num>
-            <heading>First tax year.</heading>
-            <text>The first tax year when the property tax described in paragraph (1) of this subsection may be applied in the July 1, 2026 to June 30, 2027 tax year.</text>
-          </para>
+          <heading>Building.</heading>
+          <text>“Building” has the meaning stated in City Code Article 13, § 11-1 {“Definitions”}.</text>
         </para>
         <para>
           <num>(c)</num>
-          <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the City General Provisions Article, the Director of Finance and the Commissioner of Housing and Community Development shall adopt rules and regulations to carry out the provisions of this subtitle.</text>
+          <heading>Property owner.</heading>
+          <text>“Property owner” means the person who holds the title to a vacant structure.</text>
         </para>
         <para>
           <num>(d)</num>
-          <heading>Notice required.</heading>
+          <heading>Vacant lot.</heading>
+          <text>“Vacant lot” means:</text>
           <para>
             <num>(1)</num>
-            <heading>In general.</heading>
-            <text>The City Administrator or the City Administrator’s designee shall notify an owner of real property located within the City limits of the implementation of the tax established by this subtitle 11 by the following methods:</text>
-            <para>
-              <num>(i)</num>
-              <text>United States mail;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>advertisement in 2 newspapers in general circulation for a minimum of 2 consecutive weeks during each month of June preceding the tax years listed below; and</text>
-              <text>
-                <table>
-                  <thead>
-                    <tr>
-                      <th>Tax Year</th>
-                      <th>Date: Start</th>
-                      <th>Date: End</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>01</td>
-                      <td>July 1, 2026</td>
-                      <td>June 30, 2027</td>
-                    </tr>
-                    <tr>
-                      <td>02</td>
-                      <td>July 1, 2027</td>
-                      <td>June 30, 2028</td>
-                    </tr>
-                    <tr>
-                      <td>03</td>
-                      <td>July 1, 2028</td>
-                      <td>June 30, 2029</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>posting on the City website.</text>
-            </para>
+            <text>an unimproved parcel of real property; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <heading>Notice by mail.</heading>
-            <text>To comply with paragraph (1)(i) of this subsection the City Administrator or the City Administrator’s designee may include the notice required by paragraph (1) of this subsection with:</text>
-            <para>
-              <num>(i)</num>
-              <text>a water bill; or</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>a violation notice for a vacant structure issued by the Department of Housing and Community Development.</text>
-            </para>
+            <text>an unimproved portion of a block that is identified by a symbol in accordance with <cite doc="City of Baltimore, Md., Charter" path="VII|§116|(k)">City Charter Article VII, § 116(k)</cite> {“System of Uniform Property Identification”} and shown on a block plat filed with the Department of Transportation.</text>
           </para>
         </para>
         <para>
           <num>(e)</num>
-          <heading>Reporting.</heading>
-          <text>On or before December 1 of each year, the Department of Finance shall submit to the Mayor and City Council, and in accordance with § 6-302(c)(2) of the State Tax – Property Article, the Maryland Department of Housing and Community Development, and the Maryland General Assembly, a report that includes the following:</text>
+          <heading>Vacant structure.</heading>
+          <text>“Vacant structure” means a structure or distinguishable part of a structure that is:</text>
           <para>
             <num>(1)</num>
-            <text>the special rate set under State Tax – Property Article § 6-302(c)(1);</text>
+            <text>unoccupied; and</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>the number of properties to which the special tax rate applies;</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>the revenue change resulting from the special rate;</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>the use of the revenue from the special rate;</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>whether properties subject to the special rate are viable for adaptive reuse, as defined in § 1-102 of the State Housing and Community Development Article; and</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>any existing plans to convert properties viable for adaptive reuse.</text>
+            <text>unsafe or unfit for human habitation or other authorized use.</text>
           </para>
         </para>
         <annotations>
-          <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-431" eff="2025-01-01" path="§1" type="History"/>
+          <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-431" eff="2025-01-01" path="§1" target-path="28|II" type="History"/>
+          <annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-113" eff="2026-06-16" path="§1" target-path="28|§11-1" type="History"/>
         </annotations>
       </section>
-      <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-431" eff="2025-01-01" path="§1" type="History"/>
+      <section>
+        <prefix>§</prefix>
+        <num>11-2</num>
+        <heading>Establishment of subclass of real property.</heading>
+        <text>As authorized under State Tax – Property Article § 6-202.1 {“Subclass of Real Property Consisting of Vacant Lots or Improved Property Cited as Vacant and Unfit for Habitation”}, the Mayor and City Council of Baltimore establish a subclass of real property consisting of:</text>
+        <para>
+          <num>(1)</num>
+          <text>vacant lots; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>vacant structures.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-431" eff="2025-01-01" path="§1" target-path="28|II" type="History"/>
+          <annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-113" eff="2026-06-16" path="§1" target-path="28|II|11" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>11-3</num>
+        <heading>Special real property tax rate.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>A special real property tax rate is established for:</text>
+          <para>
+            <num>(1)</num>
+            <text>vacant lots; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>vacant structures.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Special tax rate.</heading>
+          <text>Vacant lots and vacant structures are subject to 4 times the full rate property tax established by the Mayor and City Council of Baltimore under <cite doc="City of Baltimore, Md., Charter" path="VI|§7|(c)">City Charter Article VI, § 7(c)</cite> {“Enactment of Ordinance of Estimates: Revenue Ordinances”}.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-431" eff="2025-01-01" path="§1" target-path="28|II" type="History"/>
+          <annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-113" eff="2026-06-16" path="§1" target-path="28|II|11" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>11-4</num>
+        <heading>Notice required.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The City Administrator or the City Administrator’s designee shall notify an owner of real property located within the City limits of the implementation of the tax established by this Subtitle 11 by the following methods:</text>
+          <para>
+            <num>(1)</num>
+            <text>United States mail;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>advertisement in 2 newspapers in general circulation for a minimum of 2 consecutive weeks during each month of June preceding each tax year; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>posting on the City website.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Notice by mail.</heading>
+          <text>To comply with subsection (a)(1) of this section the City Administrator or the City Administrator’s designee may include the notice required by this section with:</text>
+          <para>
+            <num>(1)</num>
+            <text>a water bill; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a violation notice for a vacant structure issued by the Department of Housing and Community Development.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-431" eff="2025-01-01" path="§1" target-path="28|II" type="History"/>
+          <annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-113" eff="2026-06-16" path="§1" target-path="28|II|11" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>11-5</num>
+        <heading>Rules and regulations.</heading>
+        <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the City General Provisions Article, the Director of Finance and the Commissioner of Housing and Community Development shall adopt rules and regulations to carry out the provisions of this subtitle.</text>
+        <annotations>
+          <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-431" eff="2025-01-01" path="§1" target-path="28|II" type="History"/>
+          <annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-113" eff="2026-06-16" path="§1" target-path="28|II|11" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>11-6</num>
+        <heading>Reporting.</heading>
+        <text>On or before December 1 of each year, the Department of Finance shall submit to the Mayor and City Council, and in accordance with § 6-302(c)(2) of the State Tax – Property Article, the Maryland Department of Housing and Community Development, and the Maryland General Assembly, a report that includes the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>the special rate set under State Tax – Property Article § 6-302(c)(1);</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the number of properties to which the special tax rate applies;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the revenue change resulting from the special rate;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the use of the revenue from the special rate;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>whether properties subject to the special rate are viable for adaptive reuse, as defined in § 1-102 of the State Housing and Community Development Article; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>any existing plans to convert properties viable for adaptive reuse.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-431" eff="2025-01-01" path="§1" target-path="28|II" type="History"/>
+          <annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-113" eff="2026-06-16" path="§1" target-path="28|II|11" type="History"/>
+        </annotations>
+      </section>
+      <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-431" eff="2025-01-01" path="§1" target-path="28|II" type="History"/>
     </container>
     <container>
       <prefix>Subtitle</prefix>
@@ -9508,7 +9537,7 @@
           <annotation doc="City of Balt., Md., Ord. 01-271" type="History">Ord. 01-271</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-572" type="History">Ord. 11-572</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-349" eff="2024-08-10" path="§1" type="History"/>
+          <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-349" eff="2024-08-10" path="§1" target-path="28|§22-1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -9567,7 +9596,7 @@
           <annotation doc="City of Balt., Md., Ord. 08-070" type="History">Ord. 08-070</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-301" type="History">Ord. 10-301</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-134" type="History">Ord. 13-134</annotation>
-          <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-349" eff="2024-08-10" path="§1" type="History"/>
+          <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-349" eff="2024-08-10" path="§1" target-path="28|§22-3|(a)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -9660,7 +9689,7 @@
           <annotation doc="City of Balt., Md., Ord. 89-318" type="History">Ord. 89-318</annotation>
           <annotation doc="City of Balt., Md., Ord. 01-271" type="History">Ord. 01-271</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-098" type="History">Ord. 13-098</annotation>
-          <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-349" eff="2024-08-10" path="§1" type="History"/>
+          <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-349" eff="2024-08-10" path="§1" target-path="28|§22-5|(a)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -10169,7 +10198,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 13-135" type="History">Ord. 13-135</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-342" type="History">Ord. 20-342</annotation>
-          <annotation app="2026-06-24" doc="City of Balt., Md., Ord. 26-092" eff="2026-06-24" path="§1" type="History"/>
+          <annotation app="2026-06-24" doc="City of Balt., Md., Ord. 26-092" eff="2026-06-24" path="§1" target-path="28|§24-3" type="History"/>
         </annotations>
       </section>
       <section>
