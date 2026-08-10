@@ -24,30 +24,22 @@
     <codify:replace doc="City of Baltimore, Md., Code" path="|14|19|19-6|(d)|(2)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§19-6|(d)|(2)">
       <para>
         <num>(2)</num>
-        <text>
-          <em>Council President appointees.</em>
-        </text>
+        <heading>Council President appointees.</heading>
         <text>The Council President shall appoint the members of the Baltimore City Council who represent the councilmanic districts overlapping with the boundaries of the South Baltimore Gateway Community Impact District to serve as ex officio members of the Board.</text>
       </para>
     </codify:replace>
     <codify:replace doc="City of Baltimore, Md., Code" path="|14|19|19-6|(f)|(2)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§19-6|(f)|(2)">
       <para>
         <num>(2)</num>
-        <text>
-          <em>Term limits.</em>
-        </text>
+        <heading>Term limits.</heading>
         <para>
           <num>(i)</num>
-          <text>
-            <em>In general.</em>
-          </text>
+          <heading>In general.</heading>
           <text>Subject to subparagraph (ii) of this paragraph, the Bylaws may specify a maximum number of consecutive terms that an appointed member may serve.</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>
-            <em>Exemptions.</em>
-          </text>
+          <heading>Exemptions.</heading>
           <text>The Bylaws may not establish term limits for members appointed under paragraph (d)(2) of this section.</text>
         </para>
       </para>

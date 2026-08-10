@@ -1208,9 +1208,7 @@
       <heading>False alarm fees.</heading>
       <para>
         <num>(a)</num>
-        <text>
-          <em>User responsible.</em>
-        </text>
+        <heading>User responsible.</heading>
         <para>
           <num>(1)</num>
           <text>The user of an alarm system is responsible for payment to the City of the false alarm fees imposed under this section. Failure to pay a false alarm fee or any attendant late fee within 60 days of imposition is a violation of this subtitle.</text>
@@ -1222,9 +1220,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>Residential user fee schedule.</em>
-        </text>
+        <heading>Residential user fee schedule.</heading>
         <text>After 1 false alarm in any 12-month period, a false alarm fee is imposed on any residential user for each false alarm, based on the following schedule:</text>
         <text>
           <table>
@@ -1253,7 +1249,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text><em>Non-Residential user fee schedule</em>.</text>
+        <heading>Non-Residential user fee schedule.</heading>
         <text>After 1 false alarm in any 12-month period, a false alarm fee is imposed on any non-residential user for each false alarm, based on the following schedule:</text>
         <text>
           <table>
@@ -1282,9 +1278,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <em>Waiver.</em>
-        </text>
+        <heading>Waiver.</heading>
         <para>
           <num>(1)</num>
           <text>The Commissioner must waive 1 false alarm fee if the alarm system user:</text>
@@ -1304,9 +1298,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>
-          <em>Late fee.</em>
-        </text>
+        <heading>Late fee.</heading>
         <para>
           <num>(1)</num>
           <text>The Commissioner may assess a late fee of $25 for any false alarm fee that is not paid:</text>
@@ -1326,9 +1318,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>
-          <em>Warning of no-response status.</em>
-        </text>
+        <heading>Warning of no-response status.</heading>
         <para>
           <num>(1)</num>
           <text>After a second false alarm within any 12-month period, the Commissioner must send a warning notice by certified mail, return receipt requested, to the user, with a copy by regular mail to the monitor.</text>
@@ -1364,16 +1354,12 @@
       <heading>No-response status.</heading>
       <para>
         <num>(a)</num>
-        <text>
-          <em>"No-response status" defined.</em>
-        </text>
+        <heading>"No-response status" defined.</heading>
         <text>In this section, "no-response status" means that, except for a hold-up alarm or a panic alarm, police will not be dispatched to investigate an alarm signal</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>When required.</em>
-        </text>
+        <heading>When required.</heading>
         <para>
           <num>(1)</num>
           <text>An alarm system will be placed on no-response status if, after a warning notice has been sent pursuant to <cite path="19|8|8-8|(f)">§ 8-8(f)</cite> of this subtitle, the alarm system has had 5 or more false alarms in any 12-month period.</text>
@@ -1393,9 +1379,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>When authorized.</em>
-        </text>
+        <heading>When authorized.</heading>
         <text>The Commissioner may place an alarm system on no-response status if:</text>
         <para>
           <num>(1)</num>
@@ -1430,26 +1414,20 @@
       <heading>Verification of alarm signal.</heading>
       <para>
         <num>(a)</num>
-        <text>
-          <em>Scope.</em>
-        </text>
+        <heading>Scope.</heading>
         <text>This section does not apply to a hold-up alarm or panic alarm.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>Monitor to attempt to verify.</em>
-        </text>
+        <heading>Monitor to attempt to verify.</heading>
         <para>
           <num>(1)</num>
-          <text><em>In general</em>.</text>
+          <heading>In general.</heading>
           <text>Before requesting a police response to an alarm signal, a monitor must attempt to contact the alarm system site or user, by telephone, electronically, or visually, to verify the need for a police response.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>
-            <em>Second attempt required.</em>
-          </text>
+          <heading>Second attempt required.</heading>
           <text>For the purpose of this section, verification shall require, at a minimum, that a second attempt be made to a different number if the first attempt fails to reach an alarm user or an individual at the alarm system site who can properly identify themselves to determine whether an alarm signal is valid before requesting a police response.</text>
         </para>
       </para>

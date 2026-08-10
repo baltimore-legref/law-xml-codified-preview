@@ -24,9 +24,7 @@
     <codify:replace doc="City of Baltimore, Md., Code" path="1|§22-21|(a)|(2)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-21|(a)|(2)">
       <para>
         <num>(2)</num>
-        <text>
-          <em>Agency.</em>
-        </text>
+        <heading>Agency.</heading>
         <text>"Agency" means:</text>
         <para>
           <num>(i)</num>

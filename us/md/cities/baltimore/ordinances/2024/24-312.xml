@@ -24,9 +24,7 @@
     <codify:replace doc="City of Baltimore, Md., Code" path="|31|10|III|10-11|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="31|§10-11|(a)">
       <para>
         <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
+        <heading>In general.</heading>
         <text>Except as otherwise provided in this section, participation in the Program is available to the following areas:</text>
         <para>
           <num>(1)</num>
@@ -69,49 +67,35 @@
         <heading>Brunt Street Area.</heading>
         <para>
           <num>(a)</num>
-          <text>
-            <em>Area delineated.</em>
-          </text>
+          <heading>Area delineated.</heading>
           <para>
             <num>(1)</num>
-            <text>
-              <em>In general.</em>
-            </text>
+            <heading>In general.</heading>
             <text>The Brunt Street Area is the area bounded by the outer limits of the 2100 block of Brunt Street.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>
-              <em>Participating block faces.</em>
-            </text>
+            <heading>Participating block faces.</heading>
             <text>The Brunt Street Area consists of the 2100 block of Brunt  Street.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>
-            <em>Parking restrictions.</em>
-          </text>
+          <heading>Parking restrictions.</heading>
           <para>
             <num>(1)</num>
-            <text>
-              <em>In general.</em>
-            </text>
+            <heading>In general.</heading>
             <text>Except as otherwise provided in paragraph (2) of this subsection, parking for non-permit holders in Area ___ is limited to 2 hours in any 1 or more parking spots Monday through Friday, from 7:00 a.m. to 7:00 p.m.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>
-              <em>Additional restriction.</em>
-            </text>
+            <heading>Additional restriction.</heading>
             <text>In addition to the restrictions under paragraph (1) of this subsection, parking for non-permit holders is prohibited Saturday and Sunday.</text>
           </para>
         </para>
         <para>
           <num>(c)</num>
-          <text>
-            <em>Permit limits.</em>
-          </text>
+          <heading>Permit limits.</heading>
           <text>Each dwelling unit within Area ___ is eligible for:</text>
           <para>
             <num>(1)</num>
@@ -124,9 +108,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>
-            <em>Signage.</em>
-          </text>
+          <heading>Signage.</heading>
           <text>Residential parking permit restricting signage will be placed along all properties on the odd side of the 2100 block that are permit-eligible, with the exclusion of schools, churches, and businesses.</text>
         </para>
       </section>

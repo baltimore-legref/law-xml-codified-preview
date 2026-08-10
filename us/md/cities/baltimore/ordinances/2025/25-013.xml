@@ -2310,9 +2310,7 @@
     <codify:replace path="2|§10-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-8|(a)">
       <para>
         <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
+        <heading>In general.</heading>
         <para>
           <num>(1)</num>
           <text>Except as provided under  subsections (b) and (c) of this section, whoever, himself or by his agent or servant, violates any provision of this subtitle shall be punished by a fine of not less than $10 nor more than $100.</text>
@@ -3380,9 +3378,7 @@
         </para>
         <para>
           <num>(38a)</num>
-          <text>
-            <em>Re-Entry Action Council</em>
-          </text>
+          <heading>Re-Entry Action Council</heading>
           <para>
             <num>(i)</num>
             <text>Director.</text>
