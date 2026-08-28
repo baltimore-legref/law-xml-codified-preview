@@ -3,21 +3,21 @@
   <prefix>Policy</prefix>
   <num>AM-301-10</num>
   <heading>Information Technology and Security Charter</heading>
-  <text>The City of Baltimore ("City") is committed to responsible stewardship of the City's information technology (IT) resources. This includes preserving the confidentiality, integrity, and availability of all forms of information used by the City and maintained on behalf of all stakeholders including our residents, City employees and contractors, customers, vendors, non-profits, and other government entities. This Policy functions as an IT and Security Charter that will improve our ability to serve the community, strengthen the protection of data entrusted to the City by all individuals and entities, and mitigate the impact of future cyberattacks. The purpose of this IT and Security Charter is to define the responsibilities for developing, maintaining, and monitoring compliance with the City of Baltimore Information Technology and Security Manual (ITSM).</text>
+  <text>The City of Baltimore (“City”) is committed to responsible stewardship of the City’s information technology (IT) resources. This includes preserving the confidentiality, integrity, and availability of all forms of information used by the City and maintained on behalf of all stakeholders including our residents, City employees and contractors, customers, vendors, non-profits, and other government entities. This Policy functions as an IT and Security Charter that will improve our ability to serve the community, strengthen the protection of data entrusted to the City by all individuals and entities, and mitigate the impact of future cyberattacks. The purpose of this IT and Security Charter is to define the responsibilities for developing, maintaining, and monitoring compliance with the City of Baltimore Information Technology and Security Manual (ITSM).</text>
   <text>The City is committed to the secure operation of critical infrastructure as defined by the Department of Homeland Security (DHS) Cybersecurity and Infrastructure Agency (CISA) including, public health systems, public safety systems, water and wastewater systems, the operation of three dams, and government and commercial facilities.</text>
-  <text>The City enters into agreements with suppliers, vendors, software as a service (SaaS) providers and professional services that are used to maintain the City's infrastructure, protect the public and to provide resident services. The City is committed to protecting any sensitive data that is shared or hosted by these suppliers, vendors, Software as a Service (SaaS) or professional services providers.</text>
-  <text>The foundation of a mature IT program is a set of documented standards that describe how systems will be procured, developed, tested, implemented, and maintained. The standards provide minimum requirements that shall be used for system procurement, development, deployment, and operations. Documented IT Standards improve the City's ability to deploy cost effective systems in a predictable and timely manner, reduce the cost of operations and maintenance and improve our security posture. The Baltimore City Information Technology and Security Manual (ITSM) will be comprised of a set of IT Standards to manage IT assets and information effectively, efficiently, and securely on behalf of our residents and stakeholders.</text>
+  <text>The City enters into agreements with suppliers, vendors, software as a service (SaaS) providers and professional services that are used to maintain the City’s infrastructure, protect the public and to provide resident services. The City is committed to protecting any sensitive data that is shared or hosted by these suppliers, vendors, Software as a Service (SaaS) or professional services providers.</text>
+  <text>The foundation of a mature IT program is a set of documented standards that describe how systems will be procured, developed, tested, implemented, and maintained. The standards provide minimum requirements that shall be used for system procurement, development, deployment, and operations. Documented IT Standards improve the City’s ability to deploy cost effective systems in a predictable and timely manner, reduce the cost of operations and maintenance and improve our security posture. The Baltimore City Information Technology and Security Manual (ITSM) will be comprised of a set of IT Standards to manage IT assets and information effectively, efficiently, and securely on behalf of our residents and stakeholders.</text>
   <para name="scope">
     <num>I.</num>
     <heading>SCOPE</heading>
-    <text>This Policy applies to the City's computing, networking, digital technology, operational technology (OT), supervisory control and data acquisition (SCADA), telephony, digital assets and digital files, hardware, software, web applications, commercial off the shelf (COTs) applications, infrastructure or platform or software as a service (cloud IT), vendor managed IT or applications, workstations, desktops, laptops, tablets, the internet of things (IOT) devices, or information that may be owned, leased, entrusted to or managed by the City (hereinafter referred to as "IT resources").</text>
+    <text>This Policy applies to the City’s computing, networking, digital technology, operational technology (OT), supervisory control and data acquisition (SCADA), telephony, digital assets and digital files, hardware, software, web applications, commercial off the shelf (COTs) applications, infrastructure or platform or software as a service (cloud IT), vendor managed IT or applications, workstations, desktops, laptops, tablets, the internet of things (IOT) devices, or information that may be owned, leased, entrusted to or managed by the City (hereinafter referred to as “IT resources”).</text>
     <text>This Policy applies to all users of IT resources owned, operated, or managed by the City to the extent allowed by law or applicable contracts. Individuals covered by this Policy are collectively</text>
-    <text>referred to as "users" and include but are not limited to full and part time employees, and, to the extent allowed by law or applicable contracts, the contractors, interns, partners, visitors, and customers that use the IT resources. The term "users" also applies to individuals who connect to the City's IT resources by wire or wirelessly using personally owned devices.</text>
+    <text>referred to as “users” and include but are not limited to full and part time employees, and, to the extent allowed by law or applicable contracts, the contractors, interns, partners, visitors, and customers that use the IT resources. The term “users” also applies to individuals who connect to the City’s IT resources by wire or wirelessly using personally owned devices.</text>
   </para>
   <para name="information-technology-and-security-manual-(itsm)">
     <num>II.</num>
     <heading>INFORMATION TECHNOLOGY AND SECURITY MANUAL (ITSM)</heading>
-    <text>The Information Technology Security Manual (ITSM) is managed by Baltimore City Information Technology. The ITSM will provide a process for Agency review and comment prior to the adoption of new standards or updates to existing standards. The City's CIO and selected Senior Leadership from the Mayor's Office and Agencies will provide final review and approval.</text>
+    <text>The Information Technology Security Manual (ITSM) is managed by Baltimore City Information Technology. The ITSM will provide a process for Agency review and comment prior to the adoption of new standards or updates to existing standards. The City’s CIO and selected Senior Leadership from the Mayor’s Office and Agencies will provide final review and approval.</text>
     <text>The ITSM will cover the following sections:</text>
     <text>
       <ul>
@@ -33,23 +33,23 @@
   <para name="roles-and-responsibilities">
     <num>III.</num>
     <heading>ROLES AND RESPONSIBILITIES</heading>
-    <text>All users are responsible for following the Standards in the ITSM as well as the City's IT Acceptable Use Policy (<cite path="§AM-118-1">AM-118-1</cite>) to ensure that the City's IT resources are used only in proper pursuit of the City's business; information is not improperly disclosed, modified or endangered; and access to the City's information resources is not made available to any unauthorized person.</text>
+    <text>All users are responsible for following the Standards in the ITSM as well as the City’s IT Acceptable Use Policy (<cite path="§AM-118-1">AM-118-1</cite>) to ensure that the City’s IT resources are used only in proper pursuit of the City’s business; information is not improperly disclosed, modified or endangered; and access to the City’s information resources is not made available to any unauthorized person.</text>
     <para>
       <num>A.</num>
       <text>The Chief Information Officer (CIO) is responsible for:</text>
       <text class="text-indent-2">
         <ul>
-          <li>Developing, implementing and communicating an IT strategic plan and the implementation roadmap for the City's IT strategic plan</li>
-          <li>Monitoring the City's total IT spending and developing recommendations to optimize IT investments and equitable charge back to the Agencies</li>
+          <li>Developing, implementing and communicating an IT strategic plan and the implementation roadmap for the City’s IT strategic plan</li>
+          <li>Monitoring the City’s total IT spending and developing recommendations to optimize IT investments and equitable charge back to the Agencies</li>
           <li>Developing and maintaining the ITSM, security controls, standard operating procedures, and the standardization of IT Tools</li>
           <li>Implementing City-wide system change control procedures, communications, and IT training</li>
           <li>Providing input into the selection of Agency IT Directors and IT Leadership</li>
           <li>Providing end user support and guidance</li>
           <li>Developing usage, performance, IT metrics and service level agreements (SLAs)</li>
           <li>Developing and/or approving all customer facing applications, data and integration services</li>
-          <li>Developing, maintaining and testing the City's IT Disaster Recovery Plan, Incident Response Plan, and IT Continuity of Operations (CoOp) Plan.</li>
-          <li>Ensuring that all Agency IT procurements are aligned with the City's IT strategy, roadmap and standards</li>
-          <li>Providing periodic updates on the City's compliance with IT Standards and recommendations for corrective actions to the Mayor's Office including the Mayor's Chief of Staff and Deputy Chief Administrative Officer, Agency Directors for DHR, Finance and Law and rotating Agency Operational Directors, as necessary.</li>
+          <li>Developing, maintaining and testing the City’s IT Disaster Recovery Plan, Incident Response Plan, and IT Continuity of Operations (CoOp) Plan.</li>
+          <li>Ensuring that all Agency IT procurements are aligned with the City’s IT strategy, roadmap and standards</li>
+          <li>Providing periodic updates on the City’s compliance with IT Standards and recommendations for corrective actions to the Mayor's Office including the Mayor’s Chief of Staff and Deputy Chief Administrative Officer, Agency Directors for DHR, Finance and Law and rotating Agency Operational Directors, as necessary.</li>
         </ul>
       </text>
     </para>
@@ -60,7 +60,7 @@
         <ul>
           <li>Ensuring that appropriate security controls are in existence and practiced throughout the City</li>
           <li>Determining methods of implementing and enforcing IT Security Standards</li>
-          <li>Advising IT resource owners and users on best practices to meet the City's IT Security Standards</li>
+          <li>Advising IT resource owners and users on best practices to meet the City’s IT Security Standards</li>
           <li>Maintaining the ITSM.</li>
         </ul>
       </text>
@@ -70,10 +70,10 @@
       <text>The Agency Head or designee bears responsibility for:</text>
       <text class="text-indent-2">
         <ul>
-          <li>Implementing the standards in the ITSM. Agencies may develop and implement Agency IT standards that exceed the City's IT Standards. In the case of conflicting standards, the stricter standard will apply</li>
-          <li>Contacting BCIT prior to engaging with any vendors regarding the procurement of IT resources as defined in the Scope section of this policy to ensure the purchase is aligned with the City's IT Standards and meets our security requirements</li>
+          <li>Implementing the standards in the ITSM. Agencies may develop and implement Agency IT standards that exceed the City’s IT Standards. In the case of conflicting standards, the stricter standard will apply</li>
+          <li>Contacting BCIT prior to engaging with any vendors regarding the procurement of IT resources as defined in the Scope section of this policy to ensure the purchase is aligned with the City’s IT Standards and meets our security requirements</li>
           <li>Adhering to BCIT Change Control Procedures anytime a change is made to an Agency supported production IT system</li>
-          <li>Ensuring that all hardware and software is supported by the vendor. "Supported" means the vendor provides technical support in the event of a hardware or software failure and that the vendor provides regular software maintenance or patches to maintain performance and security. The Agency Head must execute an exception request for all unsupported hardware and software and commit to a timeline for removal or replacement.</li>
+          <li>Ensuring that all hardware and software is supported by the vendor. “Supported” means the vendor provides technical support in the event of a hardware or software failure and that the vendor provides regular software maintenance or patches to maintain performance and security. The Agency Head must execute an exception request for all unsupported hardware and software and commit to a timeline for removal or replacement.</li>
         </ul>
       </text>
       <text>Adherence to the IT Standards will be monitored and enforced using automated tools where feasible. The IT Standards will also be monitored and enforced through metrics, red / yellow / green scorecards and by IT audits or assessments.</text>
@@ -82,7 +82,7 @@
   <para name="compliance">
     <num>IV.</num>
     <heading>COMPLIANCE</heading>
-    <text>Users found in violation of this Policy are subject to disciplinary action up to and including restriction, possible loss of privileges, suspension, or termination. If necessary, the City will notify the City's Law Department, OIG, or law enforcement of any legal violations<strong>.</strong></text>
+    <text>Users found in violation of this Policy are subject to disciplinary action up to and including restriction, possible loss of privileges, suspension, or termination. If necessary, the City will notify the City’s Law Department, OIG, or law enforcement of any legal violations<strong>.</strong></text>
   </para>
   <annotations>
     <annotation type="History" effective="1986-08-22" display="true">August 22, 1986</annotation>

@@ -2,8 +2,8 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-403" codify:doc="City of Baltimore, Md., Code">
   <num type="law">24-403</num>
   <num type="bill">23-0357</num>
-  <heading type="short">Strengthening Renters' Safety Act</heading>
-  <heading type="long">An Ordinance Concerning Strengthening Renters' Safety Act</heading>
+  <heading type="short">Strengthening Renters’ Safety Act</heading>
+  <heading type="long">An Ordinance Concerning Strengthening Renters’ Safety Act</heading>
   <meta>
     <stub/>
     <introduced>2023-02-27</introduced>
@@ -34,22 +34,22 @@
         <para>
           <num>(b)</num>
           <heading>Dwelling unit.</heading>
-          <text>"Dwelling unit" has the meaning stated in § 202.2 of the <cite doc="City of Baltimore, Md., Code" path="|codes|VII" proof="needed">Property Maintenance Code</cite> of Baltimore City.</text>
+          <text>“Dwelling unit” has the meaning stated in § 202.2 of the <cite doc="City of Baltimore, Md., Code" path="|codes|VII" proof="needed">Property Maintenance Code</cite> of Baltimore City.</text>
         </para>
         <para>
           <num>(c)</num>
           <heading>Housing Commissioner; Commissioner.</heading>
-          <text>"Housing Commissioner" or "Commissioner" means the Commissioner of Housing and Community Development or the Commissioner's designee.</text>
+          <text>“Housing Commissioner” or “Commissioner” means the Commissioner of Housing and Community Development or the Commissioner’s designee.</text>
         </para>
         <para>
           <num>(d)</num>
           <heading>Multiple-family dwelling.</heading>
-          <text>"Multiple-family dwelling" has the meaning stated in § 202.2 of the <cite doc="City of Baltimore, Md., Code" path="|codes|VII" proof="needed">Property Maintenance Code</cite> of Baltimore City.</text>
+          <text>“Multiple-family dwelling” has the meaning stated in § 202.2 of the <cite doc="City of Baltimore, Md., Code" path="|codes|VII" proof="needed">Property Maintenance Code</cite> of Baltimore City.</text>
         </para>
         <para>
           <num>(e)</num>
           <heading>Non-owner-occupied dwelling unit.</heading>
-          <text>"Non-owner-occupied dwelling unit" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|13|§4-1">§ 4-1 of this article</cite>.</text>
+          <text>“Non-owner-occupied dwelling unit” has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|13|§4-1">§ 4-1 of this article</cite>.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -57,12 +57,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article</cite>.</text>
+            <text>“Person” has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|general|1|1|1-107|(a)">§ 1-107(a) {“Person: In general”}</cite> of the City Code’s <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding <cite doc="City of Baltimore, Md., Code" path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite doc="City of Baltimore, Md., Code" path="|general|5|2|5-21" proof="needed">§ 5-21 {"Penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite doc="City of Baltimore, Md., Code" path="|general|1|1|1-107|(b)">§ 1-107(b) {“Person: Exclusion”}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">General Provisions Article</cite>, in this subtitle “person” also includes, except as used in <cite doc="City of Baltimore, Md., Code" path="|general|5|2|5-21" proof="needed">§ 5-21 {“Penalties”}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -71,7 +71,7 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Priority dwelling" means a rental dwelling:</text>
+            <text>“Priority dwelling” means a rental dwelling:</text>
             <para>
               <num>(i)</num>
               <text>with 20 or more dwelling units or rooming units; and</text>
@@ -133,7 +133,7 @@
               </para>
               <para>
                 <num>D.</num>
-                <text>the rental dwelling's U.S. Department of Housing and Urban Development (HUD) National Standards for the Physical Inspection of Real Estate (NSPIRE) inspection score for either of the 2 most recent NSPIRE inspections was less than or equal to 79.</text>
+                <text>the rental dwelling’s U.S. Department of Housing and Urban Development (HUD) National Standards for the Physical Inspection of Real Estate (NSPIRE) inspection score for either of the 2 most recent NSPIRE inspections was less than or equal to 79.</text>
               </para>
             </para>
           </para>
@@ -146,20 +146,20 @@
         <para>
           <num>(h)</num>
           <heading>Priority inspection.</heading>
-          <text>"Priority inspection" means:</text>
+          <text>“Priority inspection” means:</text>
           <para>
             <num>(1)</num>
             <text>the physical inspection of a priority dwelling conducted by an inspector employed by the Department of Housing and Community Development; and</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>the inspector's written evaluation of the rental dwelling's compliance with the City's health and safety standards specified in the rules and regulations adopted by the Commissioner under this subtitle.</text>
+            <text>the inspector’s written evaluation of the rental dwelling’s compliance with the City’s health and safety standards specified in the rules and regulations adopted by the Commissioner under this subtitle.</text>
           </para>
         </para>
         <para>
           <num>(i)</num>
           <heading>Rental dwelling.</heading>
-          <text>"Rental dwelling" means:</text>
+          <text>“Rental dwelling” means:</text>
           <para>
             <num>(1)</num>
             <text>any multiple-family dwelling;</text>
@@ -180,17 +180,17 @@
         <para>
           <num>(j)</num>
           <heading>Rooming house.</heading>
-          <text>"Rooming house" has the meaning stated in § 202.2 of the <cite doc="City of Baltimore, Md., Code" path="|codes|VII" proof="needed">Property Maintenance Code</cite> of Baltimore City.</text>
+          <text>“Rooming house” has the meaning stated in § 202.2 of the <cite doc="City of Baltimore, Md., Code" path="|codes|VII" proof="needed">Property Maintenance Code</cite> of Baltimore City.</text>
         </para>
         <para>
           <num>(k)</num>
           <heading>Rooming unit.</heading>
-          <text>"Rooming unit" has the meaning stated in § 202.2 of the <cite doc="City of Baltimore, Md., Code" path="|codes|VII" proof="needed">Property Maintenance Code</cite> of Baltimore City.</text>
+          <text>“Rooming unit” has the meaning stated in § 202.2 of the <cite doc="City of Baltimore, Md., Code" path="|codes|VII" proof="needed">Property Maintenance Code</cite> of Baltimore City.</text>
         </para>
         <para>
           <num>(l)</num>
           <heading>Supportive housing facility.</heading>
-          <text>"Supportive housing facility" has the meaning stated in § 202.2.56 of the Baltimore City <cite doc="City of Baltimore, Md., Code" path="|codes|II" proof="needed">Building Code</cite>.</text>
+          <text>“Supportive housing facility” has the meaning stated in § 202.2.56 of the Baltimore City <cite doc="City of Baltimore, Md., Code" path="|codes|II" proof="needed">Building Code</cite>.</text>
         </para>
       </section>
     </codify:replace>
@@ -199,7 +199,7 @@
         <prefix>§</prefix>
         <num>5-2</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the Commissioner may adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {“Administrative Procedure Act – Regulations”}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the Commissioner may adopt rules and regulations to carry out this subtitle.</text>
       </section>
     </codify:replace>
     <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-4" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-4">
@@ -302,15 +302,15 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>the name, street address, telephone number, and email address of the rental dwelling's record owner;</text>
+            <text>the name, street address, telephone number, and email address of the rental dwelling’s record owner;</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>the name, street address, telephone number, and email address of the rental dwelling's managing operator, if other than the record owner; and</text>
+            <text>the name, street address, telephone number, and email address of the rental dwelling’s managing operator, if other than the record owner; and</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>any other information requested by the Commissioner of the Department of Housing and Community Development or the Commissioner's designee.</text>
+            <text>any other information requested by the Commissioner of the Department of Housing and Community Development or the Commissioner’s designee.</text>
           </para>
         </para>
       </section>
@@ -323,7 +323,7 @@
         <text>A rental dwelling license may be issued or renewed under this subtitle only if:</text>
         <para>
           <num>(1)</num>
-          <text>all dwelling units and rooming units are currently registered as required by <cite doc="City of Baltimore, Md., Code" path="|13|4">Subtitle 4 {"Registration of Non-Owner-Occupied Dwellings, Rooming Houses, and Vacant Structures"}</cite> of <cite doc="City of Baltimore, Md., Code" path="|13">this article</cite>;</text>
+          <text>all dwelling units and rooming units are currently registered as required by <cite doc="City of Baltimore, Md., Code" path="|13|4">Subtitle 4 {“Registration of Non-Owner-Occupied Dwellings, Rooming Houses, and Vacant Structures”}</cite> of <cite doc="City of Baltimore, Md., Code" path="|13">this article</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -331,7 +331,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>the premises have passed an inspection, as required by <cite doc="City of Baltimore, Md., Code" path="|13|§5-7">§ 5-7 {"Prerequisites ... – Inspection"}</cite> or <cite doc="City of Baltimore, Md., Code" path="|13|§5-10">§ 5-10 {"Priority inspections"}</cite> of this subtitle;</text>
+          <text>the premises have passed an inspection, as required by <cite doc="City of Baltimore, Md., Code" path="|13|§5-7">§ 5-7 {“Prerequisites ... – Inspection”}</cite> or <cite doc="City of Baltimore, Md., Code" path="|13|§5-10">§ 5-10 {“Priority inspections”}</cite> of this subtitle;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -339,7 +339,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>for premises that include a hotel or motel subject to City Code <cite doc="City of Baltimore, Md., Code" path="|15">Article 15 {"Licensing and Regulation"}</cite>, <cite doc="City of Baltimore, Md., Code" path="|15|10">Subtitle 10 {"Hotels"}</cite>, the hotel or motel is in compliance with the training, certification, and posting requirements of that subtitle; and</text>
+          <text>for premises that include a hotel or motel subject to City Code <cite doc="City of Baltimore, Md., Code" path="|15">Article 15 {“Licensing and Regulation”}</cite>, <cite doc="City of Baltimore, Md., Code" path="|15|10">Subtitle 10 {“Hotels”}</cite>, the hotel or motel is in compliance with the training, certification, and posting requirements of that subtitle; and</text>
         </para>
         <para>
           <num>(6)</num>
@@ -363,18 +363,18 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The inspection required by <cite doc="City of Baltimore, Md., Code" path="13|§5-6">§ 5-6 {"Prerequisites ... – In general"}</cite> of this subtitle must comply with either:</text>
+          <text>The inspection required by <cite doc="City of Baltimore, Md., Code" path="13|§5-6">§ 5-6 {“Prerequisites ... – In general”}</cite> of this subtitle must comply with either:</text>
           <para>
             <num>(1)</num>
-            <text>subsection (b) {"Third-party home inspections"} of this section;</text>
+            <text>subsection (b) {“Third-party home inspections”} of this section;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>subsection (c) {"Governmental agency inspections"} of this section; or</text>
+            <text>subsection (c) {“Governmental agency inspections”} of this section; or</text>
           </para>
           <para>
             <num>(3)</num>
-            <text><cite doc="City of Baltimore, Md., Code" path="|13|§5-10">§ 5-10 {"Priority inspections"}</cite> of this subtitle.</text>
+            <text><cite doc="City of Baltimore, Md., Code" path="|13|§5-10">§ 5-10 {“Priority inspections”}</cite> of this subtitle.</text>
           </para>
         </para>
         <para>
@@ -391,12 +391,12 @@
             <para>
               <num>(ii)</num>
               <heading>Home inspection.</heading>
-              <text>"Home inspection" means a home inspector's written evaluation of a rental dwelling's compliance with the City's health and safety standards specified in the Housing Commissioner's rules and regulations adopted under this subtitle.</text>
+              <text>“Home inspection” means a home inspector’s written evaluation of a rental dwelling’s compliance with the City’s health and safety standards specified in the Housing Commissioner’s rules and regulations adopted under this subtitle.</text>
             </para>
             <para>
               <num>(iii)</num>
               <heading>Home inspector.</heading>
-              <text>"Home inspector" means an individual:</text>
+              <text>“Home inspector” means an individual:</text>
               <para>
                 <num>(A)</num>
                 <text>who is licensed as a home inspector under Title 16, Subtitle 3A of the State Business Occupation and Professions Article; and</text>
@@ -414,7 +414,7 @@
                 </para>
                 <para>
                   <num>3.</num>
-                  <text>for each home inspection to be performed under this subsection, certifies that neither the home inspector nor any owner, partner, director, officer, employee, or agent of the home inspector or of the home inspector's business has any financial interest in:</text>
+                  <text>for each home inspection to be performed under this subsection, certifies that neither the home inspector nor any owner, partner, director, officer, employee, or agent of the home inspector or of the home inspector’s business has any financial interest in:</text>
                   <para>
                     <num>a.</num>
                     <text>the rental dwelling to be inspected;</text>
@@ -425,7 +425,7 @@
                   </para>
                   <para>
                     <num>c.</num>
-                    <text>any owner, partner, director, officer, employee, or agent of the rental dwelling's record owner or operator.</text>
+                    <text>any owner, partner, director, officer, employee, or agent of the rental dwelling’s record owner or operator.</text>
                   </para>
                 </para>
               </para>
@@ -436,11 +436,11 @@
             <heading>Applicant to contract for timely inspection.</heading>
             <para>
               <num>(i)</num>
-              <text>Before applying for a rental dwelling license or renewal license, the applicant must, at the applicant's expense, contract with a home inspector to perform a home inspection under this section.</text>
+              <text>Before applying for a rental dwelling license or renewal license, the applicant must, at the applicant’s expense, contract with a home inspector to perform a home inspection under this section.</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>Inspections may not be performed more than 90 days before a person submits an application for a rental dwelling license or an application for renewal of a rental dwelling license to the Commissioner of the Department of Housing and Community Development or the Commissioner's designee.</text>
+              <text>Inspections may not be performed more than 90 days before a person submits an application for a rental dwelling license or an application for renewal of a rental dwelling license to the Commissioner of the Department of Housing and Community Development or the Commissioner’s designee.</text>
             </para>
           </para>
           <para>
@@ -457,7 +457,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <heading>Inspector's reports and certification.</heading>
+            <heading>Inspector’s reports and certification.</heading>
             <para>
               <num>(i)</num>
               <text>After the home inspection, the home inspector must issue to the applicant:</text>
@@ -467,7 +467,7 @@
               </para>
               <para>
                 <num>(B)</num>
-                <text>if the rental dwelling meets the City's health and safety standards specified in the rules and regulations adopted under this subtitle, a certificate of satisfactory compliance with those standards.</text>
+                <text>if the rental dwelling meets the City’s health and safety standards specified in the rules and regulations adopted under this subtitle, a certificate of satisfactory compliance with those standards.</text>
               </para>
             </para>
             <para>
@@ -479,7 +479,7 @@
               </para>
               <para>
                 <num>(B)</num>
-                <text>signed by the home inspector, under oath and under the home inspector's seal.</text>
+                <text>signed by the home inspector, under oath and under the home inspector’s seal.</text>
               </para>
             </para>
           </para>
@@ -495,7 +495,7 @@
           <para>
             <num>(2)</num>
             <heading>Required evidence of compliance with most recent inspection.</heading>
-            <text>For a rental dwelling unit described in paragraph (1) of this subsection, the applicant for a license or renewal license may, in lieu of the requirements of subsection (b) {"Third-party home inspections"} of this section, submit evidence satisfactory to the Housing Commissioner that the unit has passed the most recent periodic inspection by the applicable governmental agency.</text>
+            <text>For a rental dwelling unit described in paragraph (1) of this subsection, the applicant for a license or renewal license may, in lieu of the requirements of subsection (b) {“Third-party home inspections”} of this section, submit evidence satisfactory to the Housing Commissioner that the unit has passed the most recent periodic inspection by the applicable governmental agency.</text>
           </para>
         </para>
         <para>
@@ -505,13 +505,13 @@
         </para>
         <para>
           <num>(e)</num>
-          <heading>Commissioner's inspection authority not affected.</heading>
+          <heading>Commissioner’s inspection authority not affected.</heading>
           <text>This section does not in any way prevent or limit the authority of the Housing Commissioner to conduct routine, spot, quality-control, or other inspections of rental dwellings under the <cite doc="City of Baltimore, Md., Code" path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite>.</text>
         </para>
         <para>
           <num>(f)</num>
           <heading>Inspection reports – Distribution.</heading>
-          <text>Inspection reports used to satisfy <cite doc="City of Baltimore, Md., Code" path="13|§5-6">§ 5-6 {"Prerequisites . . . – In general"}</cite> of this subtitle must be distributed by the record owner or, the managing operator, if other than the record owner, to each resident of the rental dwelling for which a person is applying for a new or renewed rental license at the time the application for a new or renewed license is submitted.</text>
+          <text>Inspection reports used to satisfy <cite doc="City of Baltimore, Md., Code" path="13|§5-6">§ 5-6 {“Prerequisites . . . – In general”}</cite> of this subtitle must be distributed by the record owner or, the managing operator, if other than the record owner, to each resident of the rental dwelling for which a person is applying for a new or renewed rental license at the time the application for a new or renewed license is submitted.</text>
         </para>
       </section>
     </codify:replace>
@@ -544,7 +544,7 @@
         <para>
           <num>(b)</num>
           <heading>Definition - Inspection year.</heading>
-          <text>In this subsection, the term "inspection year" means the calendar year.</text>
+          <text>In this subsection, the term “inspection year” means the calendar year.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -561,7 +561,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>that, because the dwelling is identified as a priority dwelling, a Department of Housing and Community Development inspector shall issue an environmental citation  if a violation of a section of the City's Property Maintenance Code listed in <cite doc="City of Baltimore, Md., Code" path="1|§40-14|(e)">Article 1, § 40-14(e) {"Provisions and penalties enumerated"}</cite> is identified.</text>
+            <text>that, because the dwelling is identified as a priority dwelling, a Department of Housing and Community Development inspector shall issue an environmental citation  if a violation of a section of the City’s Property Maintenance Code listed in <cite doc="City of Baltimore, Md., Code" path="1|§40-14|(e)">Article 1, § 40-14(e) {“Provisions and penalties enumerated”}</cite> is identified.</text>
           </para>
         </para>
         <para>
@@ -628,16 +628,16 @@
           <para>
             <num>(2)</num>
             <heading>Documentation of inspections.</heading>
-            <text>A Department of Housing and Community Development inspector shall record for each unit if the inspection was either 'attempted' or 'completed'.</text>
+            <text>A Department of Housing and Community Development inspector shall record for each unit if the inspection was either 'attempted’ or 'completed’.</text>
           </para>
         </para>
         <para>
           <num>(g)</num>
           <heading>Notice and meeting requirements — Record owner and managing operator.</heading>
-          <text>The Commissioner of the Department of Housing and Community Development or the Commissioner's designee shall notify the record owner and the managing operator of a priority dwelling that:</text>
+          <text>The Commissioner of the Department of Housing and Community Development or the Commissioner’s designee shall notify the record owner and the managing operator of a priority dwelling that:</text>
           <para>
             <num>(1)</num>
-            <text>the record owner and the managing operator shall attend a meeting at a time and place determined by the Commissioner or the Commissioner's designee to:</text>
+            <text>the record owner and the managing operator shall attend a meeting at a time and place determined by the Commissioner or the Commissioner’s designee to:</text>
             <para>
               <num>(i)</num>
               <text>discuss unresolved violation notices, complaints, and property maintenance;</text>
@@ -652,7 +652,7 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>any other matters deemed appropriate by the Commissioner or the Commissioner's designee; and</text>
+              <text>any other matters deemed appropriate by the Commissioner or the Commissioner’s designee; and</text>
             </para>
           </para>
           <para>
@@ -686,12 +686,12 @@
             <para>
               <num>(i)</num>
               <heading>In general.</heading>
-              <text>The record owner and the managing operator shall deliver to all tenants directions to submit an anonymous request that the Department of Housing and Community Development inspector inspect the tenant's dwelling unit or rooming unit as part of the priority inspection.</text>
+              <text>The record owner and the managing operator shall deliver to all tenants directions to submit an anonymous request that the Department of Housing and Community Development inspector inspect the tenant’s dwelling unit or rooming unit as part of the priority inspection.</text>
             </para>
             <para>
               <num>(ii)</num>
               <heading>Form of instructions.</heading>
-              <text>The Commissioner of the Department of Housing and Community Development or the Commissioner's designee shall establish the form and content of the instructions delivered to tenants under subparagraph (i) of this paragraph.</text>
+              <text>The Commissioner of the Department of Housing and Community Development or the Commissioner’s designee shall establish the form and content of the instructions delivered to tenants under subparagraph (i) of this paragraph.</text>
             </para>
           </para>
         </para>
@@ -712,7 +712,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>for a 1- or 2-family dwelling, in an area of each dwelling unit that is accessible to that unit's occupants and to housing inspectors.</text>
+            <text>for a 1- or 2-family dwelling, in an area of each dwelling unit that is accessible to that unit’s occupants and to housing inspectors.</text>
           </para>
         </para>
         <para>
@@ -770,7 +770,7 @@
           <num>(3)</num>
           <heading>Exceptions.</heading>
           <text>Notwithstanding anything contained in this section to the contrary, the record owner and managing operator, if any, of a newly constructed or renovated dwelling unit or rooming unit that does not yet have a rental dwelling license number shall include the following text in any lease agreement, advertising material, or other publicly facing document:</text>
-          <text>"This is a newly constructed or renovated dwelling unit and does not currently have a rental license.  As soon as available, a rental license will be provided to all individuals as required by <cite doc="City of Baltimore, Md., Code" path="13|II|5">Article 13, Subtitle 5 {"Licensing of Rental Dwellings"}</cite> of the Baltimore City Code.".</text>
+          <text>“This is a newly constructed or renovated dwelling unit and does not currently have a rental license.  As soon as available, a rental license will be provided to all individuals as required by <cite doc="City of Baltimore, Md., Code" path="13|II|5">Article 13, Subtitle 5 {“Licensing of Rental Dwellings”}</cite> of the Baltimore City Code.”.</text>
         </para>
       </section>
     </codify:replace>
@@ -787,7 +787,7 @@
         <para>
           <num>(b)</num>
           <heading>Application for new license.</heading>
-          <text>A person shall apply for a new rental license according to the procedures established under <cite doc="City of Baltimore, Md., Code" path="13|§5-5">§ 5-5 {"Application for new or renewal license"}</cite> of this subtitle within 60 days of assuming:</text>
+          <text>A person shall apply for a new rental license according to the procedures established under <cite doc="City of Baltimore, Md., Code" path="13|§5-5">§ 5-5 {“Application for new or renewal license”}</cite> of this subtitle within 60 days of assuming:</text>
           <para>
             <num>(1)</num>
             <text>record ownership of a rental dwelling; or</text>
@@ -806,23 +806,23 @@
         <heading>Denial, suspension, or revocation of license – In general.</heading>
         <para>
           <num>(a)</num>
-          <heading>"Nuisance property" defined.</heading>
-          <text>In this section, "nuisance property" means any property that is maintained or operated so as to cause or allow a nuisance of the sort described in any 1 or another of the following definitions:</text>
+          <heading>“Nuisance property” defined.</heading>
+          <text>In this section, “nuisance property” means any property that is maintained or operated so as to cause or allow a nuisance of the sort described in any 1 or another of the following definitions:</text>
           <para>
             <num>(1)</num>
-            <text>State Code <cite doc="Md. Code" path="grp|14-120">Real Property Article, § 14-120(a)(5) </cite>{defining "nuisance"};</text>
+            <text>State Code <cite doc="Md. Code" path="grp|14-120">Real Property Article, § 14-120(a)(5) </cite>{defining “nuisance”};</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>City Code <cite doc="City of Baltimore, Md., Code" path="|19|§43-1|(l)" proof="needed">Article 19, § 43-1(l) {defining "public nuisance"}</cite>;</text>
+            <text>City Code <cite doc="City of Baltimore, Md., Code" path="|19|§43-1|(l)" proof="needed">Article 19, § 43-1(l) {defining “public nuisance”}</cite>;</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>City Code <cite doc="City of Baltimore, Md., Code" path="|19|§43B-1|(b)">Article 19, § 43B-1(b) {defining "neighborhood nuisance"}</cite>; and</text>
+            <text>City Code <cite doc="City of Baltimore, Md., Code" path="|19|§43B-1|(b)">Article 19, § 43B-1(b) {defining “neighborhood nuisance”}</cite>; and</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>City Code <cite doc="City of Baltimore, Md., Code" path="|19|§43B-1|(o)" proof="needed">Article 19, § 43B-1(o) {defining "unruly social event"}</cite>.</text>
+            <text>City Code <cite doc="City of Baltimore, Md., Code" path="|19|§43B-1|(o)" proof="needed">Article 19, § 43B-1(o) {defining ”unruly social event”}</cite>.</text>
           </para>
         </para>
         <para>
@@ -895,7 +895,7 @@
           <text>No license may be denied, suspended, or revoked unless the Housing Commissioner first gives the record owner, the managing operator, and the lessees of any dwelling or rooming unit to which the license applies:</text>
           <para>
             <num>(1)</num>
-            <text>not less than 10 days notice in writing of the Commissioner's intent to deny, suspend, or revoke the license; and</text>
+            <text>not less than 10 days notice in writing of the Commissioner’s intent to deny, suspend, or revoke the license; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -953,11 +953,11 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>the rental dwelling's status as a priority dwelling for at least the past 5 years; and</text>
+            <text>the rental dwelling’s status as a priority dwelling for at least the past 5 years; and</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>notices of any denial, suspension, or revocation of the rental dwelling's license; and</text>
+            <text>notices of any denial, suspension, or revocation of the rental dwelling’s license; and</text>
           </para>
         </para>
         <para>
@@ -994,12 +994,12 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code <cite doc="City of Baltimore, Md., Code" path="1|40">Article 1, Subtitle 40 {"Environmental Control Board"}</cite> or a civil citation under City Code <cite doc="City of Baltimore, Md., Code" path="1|41">Article 1, Subtitle 41 {"Civil Citations"}</cite>.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code <cite doc="City of Baltimore, Md., Code" path="1|40">Article 1, Subtitle 40 {“Environmental Control Board”}</cite> or a civil citation under City Code <cite doc="City of Baltimore, Md., Code" path="1|41">Article 1, Subtitle 41 {“Civil Citations”}</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Priority dwelling – Citation.</heading>
-          <text>For priority dwellings, a Department of Housing and Community Development inspector shall issue an environmental citation if a violation of a section of the City's Property Maintenance Code listed in <cite doc="City of Baltimore, Md., Code" path="1|§40-14|(e)">Article 1, § 40-14(e) {"Provisions and penalties enumerated"}</cite> is identified.</text>
+          <text>For priority dwellings, a Department of Housing and Community Development inspector shall issue an environmental citation if a violation of a section of the City’s Property Maintenance Code listed in <cite doc="City of Baltimore, Md., Code" path="1|§40-14|(e)">Article 1, § 40-14(e) {“Provisions and penalties enumerated”}</cite> is identified.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1021,7 +1021,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The Commissioner, the City's Chief Data Officer, and any other City employee who maintains data pertaining to priority dwellings or priority inspections must collaborate to develop a system to track and analyze priority dwellings and priority inspections.</text>
+          <text>The Commissioner, the City’s Chief Data Officer, and any other City employee who maintains data pertaining to priority dwellings or priority inspections must collaborate to develop a system to track and analyze priority dwellings and priority inspections.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1722,7 +1722,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td class="text-indent-1">Part II.  Valet Operator's License</td>
+                  <td class="text-indent-1">Part II.  Valet Operator’s License</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
@@ -1806,7 +1806,7 @@
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td class="text-indent-2">§ 14-34(a).  Attendants' qualifications</td>
+                  <td class="text-indent-2">§ 14-34(a).  Attendants’ qualifications</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
@@ -1842,7 +1842,7 @@
                   <td>$200</td>
                 </tr>
                 <tr>
-                  <td class="text-indent-2">§ 14-37.  Permit and operator's license {available for} inspection</td>
+                  <td class="text-indent-2">§ 14-37.  Permit and operator’s license {available for} inspection</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
@@ -2091,7 +2091,7 @@
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td>§ 918.4  Telephone Access to City's 9-1-1 System: General</td>
+                  <td>§ 918.4  Telephone Access to City’s 9-1-1 System: General</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
@@ -3058,7 +3058,7 @@
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td class="text-indent-1">§ 10-44.  Misusing visitor's permit</td>
+                  <td class="text-indent-1">§ 10-44.  Misusing visitor’s permit</td>
                   <td>$500</td>
                 </tr>
                 <tr>
