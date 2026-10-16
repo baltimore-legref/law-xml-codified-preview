@@ -3,290 +3,394 @@
   <prefix>Policy</prefix>
   <num>AM-200-13</num>
   <heading>Telework Policy</heading>
-  <text>The City of Baltimore (“City”) is committed to increasing employee productivity and improving talent recruitment by providing employees with work alternatives that enable employees to meet their work and family needs. Teleworking is a work alternative that the City offers to eligible employees when it is beneficial to both the City and its employees. Teleworking does not change the terms and conditions of employment with the City nor should it interfere with operational business needs or the delivery of City services.</text>
-  <para name="purpose">
-    <num>I.</num>
-    <heading>PURPOSE</heading>
-    <text>The purpose of this Policy is to establish the rules for the use of an alternate work location for employees to perform their usual job duties away from their assigned main office location. The alternative work arrangement is intended to help the City recruit and retain excellent employees; to provide more flexible work arrangements for eligible employees; and to assist in the community effort to reduce outdoor air pollution and traffic congestion attributable to automobile travel. The Policy serves to provide an effective way to meet the needs of the City, its employees, and the community.</text>
-  </para>
+  <text>The City of Baltimore (“City”) is committed to increasing employee productivity and improving talent recruitment by providing employees with work alternatives that enable employees to meet their personal and professional needs. Teleworking is a work alternative that the City offers to eligible employees when it is beneficial to both the City and its employees. Teleworking does not change the terms and conditions of employment with the City, nor should it interfere with operational business needs or the delivery of City services.</text>
   <para name="scope">
-    <num>II.</num>
+    <num>I.</num>
     <heading>SCOPE</heading>
-    <text>This Policy applies to all eligible full-time and part-time employees who have successfully completed the City’s initial probationary period and who have satisfactory job performance.</text>
+    <text>This Policy applies to all eligible full-time and part-time employees who have satisfactory job performance. The purpose of this Policy is to outline the provisions of the Employee Telework Program ("ETP") rules and procedures.</text>
+    <text>It is the intent of this Policy for the City of Baltimore to:</text>
+    <text>
+      <ul>
+        <li>Establish that telework is a privilege, not a right. No employee is entitled or guaranteed the opportunity to telework or to the continuation of telework. All City employees who telework must have an approved telework agreement as established by this Policy.</li>
+        <li>Establish that a City Agency may have additional telework requirements, guidelines, or procedures, provided they are consistent with the terms of this Policy and the ETP.</li>
+        <li>Establish that the ETP is intended to be cost-neutral. The City is not required to provide teleworking employees with materials or supplies needed to establish an alternate work location (examples: desk, chair, copier, printer, etc.) and assumes no responsibility for set-up or operating costs at an alternate work location.</li>
+        <li>Establish that Americans with Disabilities Act (ADA) accommodations do not fall within the scope of the ETP. The employee must contact their agency ADA coordinator to request an accommodation.</li>
+        <li>Facilitate routine participation in the ETP for eligible employees, including supervisors and managers. Require that each Agency support the participation of eligible employees in the ETP.</li>
+        <li>Increase the competitiveness of Baltimore City employment in the labor market by establishing telework as a recruitment method to attract and retain skilled and talented employees.</li>
+        <li>Provide healthy work environments to foster an engaged workforce better able to balance work and life commitments.</li>
+        <li>Aid in the reduction of environmental impacts such as greenhouse gas emissions, fossil fuel consumption, air pollution and plastic waste.</li>
+        <li>Encourage purposeful work that optimizes collaboration, prioritizes customer service, and promotes efficient and effective delivery of City services during teleworking and ensures the ability to function during an emergency when the regular worksite is inaccessible.</li>
+      </ul>
+    </text>
   </para>
   <para name="definitions">
-    <num>III.</num>
+    <num>II.</num>
     <heading>DEFINITIONS</heading>
     <para>
       <num>A.</num>
-      <text><strong>Alternate Work Location –</strong> An approved work site other than the employee’s assigned main office location where official City business is performed.</text>
+      <text><strong>Alternate Work Location</strong> – An approved work site other than the employee's assigned main office location where official City business is performed.</text>
     </para>
     <para>
       <num>B.</num>
-      <text><strong>Dependent Care – </strong>The care provided to infants, toddlers, preschoolers, school-aged children, or adults and elderly adults.</text>
+      <text><strong>Dependent Care</strong> – The care provided to infants, toddlers, preschoolers, school-aged children, adults, and elderly adults.</text>
     </para>
     <para>
       <num>C.</num>
-      <text><strong>Main Office Location– </strong>The assigned City office location of the employee.</text>
+      <text><strong>Emergency Telework</strong> – A type of telework that may be incorporated into an Agency's Continuity of Operations Plan (COOP) to continue providing Agency services and responsibilities.</text>
     </para>
     <para>
       <num>D.</num>
-      <text><strong>Telework – </strong>An alternative work arrangement under which an employee performs the duties and responsibilities of such employee’s position, and other authorized activities, from an approved worksite other than the employee’s assigned main office location.</text>
+      <text><strong>Employee Telework Program ("ETP")</strong> – An official arrangement that allows employees to perform their job duties at an alternate location from their main office location.</text>
     </para>
     <para>
       <num>E.</num>
-      <text><strong>Telework Agreement</strong> – The written agreement between the supervisor and employee that details the terms and conditions of an eligible employee’s work away from their assigned main office location. Telework agreements are required for eligible employees who are authorized to telework.</text>
+      <text><strong>Expanded Telework Schedule</strong> – A telework schedule of more than two days per week for a bureau, department, or office. Expanded Telework Schedules may be submitted by an Agency Head and must be approved by the Agency Head's direct supervisor.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text><strong>Hoteling Station</strong> – an arrangement where employees use non-dedicated, non-permanent workspaces assigned for use by reservation on an as-needed basis.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text><strong>Main Office Location/ Onsite Workplace</strong> – The assigned City office location of the employee.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text><strong>Non-Routine Telework</strong> – A type of telework that is intended for employees that utilize an alternate work location occasionally or on an as needed basis.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text><strong>Remote Work</strong> – is the limited arrangement where an employee is able to work from an alternative work location on a full-time basis.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text><strong>Remote Worker</strong> – an employee who works from an alternative work location on a full-time basis.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text><strong>Routine Telework</strong> – A type of telework that is intended for employees who regularly and consistently use an alternate work location to complete their assigned work.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text><strong>Telework</strong> – An alternative work arrangement under which an employee performs the duties and responsibilities of such employee's position, and other authorized activities, from an approved worksite other than the employee's assigned main office location.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text><strong>Telework Agreement</strong> – The written agreement between the supervisor and employee that details the terms and conditions of an eligible employee's work away from their assigned main office location. Telework agreements are required for eligible employees who are authorized to telework.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text><strong>Telework Coordinator</strong> – Serves as the agency liaison for all telework questions and issues. Provides guidance to telework eligible employees and their supervisors regarding the sign-up process, rules, and required training. Ensures all teleworking employees have completed the necessary training and approvals. Communicates Policy changes to all impacted employees.</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text><strong>Telework Program Manager</strong> – An individual assigned by the Department of Human Resources who serves at the lead administrator for the City's ETP and is responsible for assessing the needs of the City's telework capacity and ensuring compliance with the City's Telework policy.</text>
+    </para>
+    <para>
+      <num>P.</num>
+      <text><strong>Teleworker</strong> – An employee that conducts their job remotely from an alternate work location.</text>
     </para>
   </para>
   <para name="eligibility">
-    <num>IV.</num>
+    <num>III.</num>
     <heading>ELIGIBILITY</heading>
-    <text>Participation of employees in the telework program will vary among Agencies depending upon the operational business needs of the particular area and the functions and responsibilities of employees. Initial determination of an employee’s eligibility to telework is at the discretion of the immediate Supervisor; however, the ultimate decision to allow an eligible employee or a group of employees within the agency to telework is at the discretion of the employee’s Agency Head. In determining whether an employee is eligible to telework, the Supervisor and Agency Head must consider whether:</text>
+    <text>All employees are considered eligible for ETP except employees:</text>
     <text>
       <ul>
-        <li>Service delivery to internal and external customers will be maintained;</li>
-        <li>The Agency will maintain adequate coverage during normal business hours;</li>
-        <li>The employee has satisfactorily performed their job responsibilities prior to their telework request as evidenced through current observations and  their most recent performance management plan evaluation;</li>
-        <li>The employee demonstrates the ability to work independently;</li>
-        <li>The position has clearly defined deliverables and measurable tasks and productivity may be effectively quantified with minimal supervisor observation;</li>
-        <li>Confidentiality will not be compromised and the arrangement does not require the physical removal of confidential files from the workplace; and</li>
-        <li>Increased employee engagement will be supported through improved work-life balance.</li>
+        <li>Performing continuous in-person customer service or involving technology, equipment, or resources that can only be performed at the onsite workplace without significant modification to the position.</li>
+        <li>Directing the handling of secure materials determined to be inappropriate for telework by the Agency Head.</li>
+        <li>Who's on-site activity that cannot be handled remotely or at an alternative work location.</li>
+        <li>Who received a performance rating of Not on Track within the last performance period or whose conduct has resulted in disciplinary action within the last year. Employees may regain the privilege of teleworking if they improve their performance above Improvement Needed.</li>
+        <li>Employees who have been disciplined for having a pattern of excessive absenteeism as defined in Attendance Standards, PM 305 within the past 12 months.</li>
+        <li>Employees who have been disciplined for violation of any Information Technology policies, included but not limited to the Technology Acceptable Use Policy, <cite path="§AM-118-1">AM-118-1</cite> within the past 12 months.</li>
       </ul>
     </text>
   </para>
   <para name="limitations">
-    <num>V.</num>
+    <num>IV.</num>
     <heading>LIMITATIONS</heading>
     <text>Teleworking is not appropriate for all employees and no employee is entitled or guaranteed the opportunity to telework or to the continuation of telework. An employee is not eligible to telework if:</text>
     <para>
       <num>A.</num>
-      <text>The employee’s day-to-day essential job functions includes:</text>
-    </para>
-    <para>
-      <num>1.</num>
-      <text>Continuous in-person customer service;</text>
-    </para>
-    <para>
-      <num>2.</num>
-      <text>Direct handling of secure materials determined to be inappropriate for telework by the Agency Head; or</text>
-    </para>
-    <para>
-      <num>3.</num>
-      <text>On-site activity that cannot be handled remotely or at an alternative work location.</text>
+      <text>The employee's day-to-day essential job functions includes:</text>
+      <text class="text-indent-1">
+        <ul>
+          <li>Continuous in-person customer service;</li>
+          <li>Direct handling of secure materials determined to be inappropriate for telework by the Agency Head; or</li>
+          <li>On-site activity that cannot be handled remotely or at an alternative work location.</li>
+        </ul>
+      </text>
     </para>
     <para>
       <num>B.</num>
-      <text>The employee has been disciplined for having a pattern of excessive absenteeism as defined in <em>PM 305 Attendance Standards Policy (PM 305)</em>;</text>
+      <text>The employee has been disciplined for having a pattern of excessive absenteeism as defined in <em>PM 305 Attendance Standards Policy (PM 305)</em>.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>The employee has ever been disciplined for violation of <em><cite path="§AM-118-1">AM-118-1</cite> Electronic Communication Policy (<cite path="§AM-118-1">AM-118-1</cite>)</em>; or</text>
+      <text>The employee has ever been disciplined for violation of <em><cite path="§AM-118-1">AM-118-1</cite> Electronic Communication Policy (<cite path="§AM-118-1">AM-118-1</cite>).</em></text>
     </para>
     <para>
       <num>D.</num>
-      <text>The quantity or quality of an employee’s work is unsatisfactory.</text>
+      <text>The quantity or quality of an employee's work is unsatisfactory.</text>
     </para>
   </para>
   <para name="terms-for-teleworking">
-    <num>VI.</num>
+    <num>V.</num>
     <heading>TERMS FOR TELEWORKING</heading>
     <para>
       <num>A.</num>
-      <text>All employees eligible to participate in the telework program must:</text>
-      <para>
-        <num>1.</num>
-        <text>Annually complete a Telework Agreement for their Agency and have it on file with their Agency’s Human Resources Division (“HR Division”). The Telework Agreement must be refiled by the employee with their Agency’s HR Division whenever:</text>
-        <para>
-          <num>a.</num>
-          <text>The employee has a change in direct supervision;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>The employee changes their position, regardless of whether the new position is inside or outside of the Agency; or</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>There is a change in the employee’s job classification.</text>
-        </para>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Adhere to the approved telework schedule and work from an approved worksite;</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Seek prior approval for any deviation from the approved telework schedule including overtime and compensatory time;</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>Be available by telephone and/or e-mail during scheduled work hours, with the exception of breaks as outlined in <em><cite path="§AM-207-1">AM-207-1</cite> Work Hours (<cite path="§AM-207-1">AM-207-1</cite>)</em> and the employee’s respective Union Memorandum of Understanding (“MOU”);</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>Account for and report time spent at the alternative work location in the same manner as if the employee reported for work at the main office location;</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>Maintain a level of performance that meets the expectations and timelines for completing all assignments and tasks associated with the position; and</text>
-      </para>
-      <para>
-        <num>7.</num>
-        <text>Not use telework as a substitution for the appropriate use of sick leave.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Further, employees eligible to participate in the telework program must acknowledge and agree that:</text>
-      <para>
-        <num>1.</num>
-        <text>A specific work space is designated at the alternate work location. The employee's alternate work location will be considered an extension of the City’s main office location.  Therefore, the City will continue to be liable for job-related accidents of employees that occur in the alternate work location during the employee's working hours. Workers' compensation liability is limited to the designated work space as opposed to all areas of the alternate work location. A photograph of the alternate location must accompany <em><cite path="§AM-200-13-1">AM-200-13-1</cite> Telework Agreement (<cite path="§AM-200-13-1">AM-200-13-1</cite>)</em>;</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Teleworking is not a substitute for dependent care. Employees who need to arrange care for dependents while they work at their assigned alternative work location are required to make the same arrangements as when they are at their assigned main office location;</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>The supervisor retains the right to require an employee who teleworks to commute to a City office on a regularly scheduled telework day should a work situation warrant such an action. This situation is expected to be only an occasional occurrence. If the employee is frequently required to return to a City office during a regularly scheduled telework day, the supervisor may reevaluate the compatibility of the employee’s position and job responsibilities with teleworking; and</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>The Telework Agreement may be terminated by the supervisor or employee upon one (1) week notice to the other party. In cases involving a security breach or violation of City Policy, teleworking privileges shall be terminated immediately without prior notice.</text>
-      </para>
+      <text>Employees that participate in the ETP acknowledge and agree to the following:</text>
+      <text class="text-indent-1">
+        <ul>
+          <li>Follow all provisions as outlined within this Policy and their approved telework agreement.</li>
+          <li>Adhere to the approved telework schedule and work from an approved worksite.</li>
+          <li>Seek prior approval for any deviation from the approved telework schedule, including overtime and compensatory time.</li>
+          <li>An employee may not request a telework day in lieu of requesting appropriate leave.</li>
+          <li>A specific workspace is designated at the alternate work location. The employee's alternate work location will be considered an extension of the City's main office location. Therefore, the City will continue to be liable for job-related accidents of employees that occur in the alternate work location during the employee's working hours. Workers' compensation liability is limited to the designated workspace as opposed to all areas of the alternate work location.</li>
+          <li>A teleworker must not conduct in-person meetings with customers or co-workers at the alternate work location.</li>
+          <li>Teleworking is not a substitute for dependent care. Telework is not to be authorized to allow the employee to provide care to any individual during telework hours. However, a dependent may be home while the employee teleworks if that dependent is independently pursuing their own activities or otherwise cared for by a caretaker.</li>
+          <li>The telework agreement may be terminated by the supervisor or employee upon two (2) weeks' notice to the other party. In cases involving a security breach or violation of City Policy, teleworking privileges shall be terminated immediately without prior notice.</li>
+          <li>Approved telework agreements are not transferable between positions. If an employee starts a new position, either within the same Agency or transfers to another Agency, they must complete a new telework agreement.</li>
+          <li>Tax implications related to any alternate work location are the responsibility of the employee, who is advised to consult a tax professional.</li>
+        </ul>
+      </text>
     </para>
   </para>
   <para name="equipment-and-technology">
-    <num>VII.</num>
+    <num>VI.</num>
     <heading>EQUIPMENT AND TECHNOLOGY</heading>
-    <text>The City will not purchase or reimburse a teleworking employee for equipment necessary to function in a teleworking environment. Employees may use their own technological equipment provided no cost is incurred by the City and it complies with the City’s electronic communications and security requirements.</text>
     <para>
       <num>A.</num>
-      <text>The Employee-owned equipment used for teleworking purposes is subject to the following conditions:</text>
-      <para>
-        <num>1.</num>
-        <text>The equipment must have up-to-date virus protection and licensing software;</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>The employee is solely responsible for any repairs and maintenance of employee-owned equipment;</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>All City data and information must be stored on the City’s network and not on the employee’s personal equipment; and</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>The City does not assume any liability for loss, theft, damage, or wear of employee-owned equipment as a result of the telework-related activity.</text>
-      </para>
+      <text>Agencies are not obligated to purchase equipment to enable employees to telework. Equipment and supplies purchased by the Agency remain the property of the City and must be returned to the Agency upon request by Agency management or termination of a telework agreement. An employee must receive written authorization before bringing any Agency-owned equipment or supplies to an alternate work location.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>In accordance with <em><cite path="§AM-118-1">AM-118-1</cite></em>, an employee using employee-owned equipment to conduct telework-related activity subject their hard drive, software, and/or any other type of electronic storage media to the possibility of a lack of privacy, including the equipment being subpoenaed, due to legal action taken against or by the City.</text>
-    </para>
-  </para>
-  <para name="confidentiality-and-proprietary-information">
-    <num>VIII.</num>
-    <heading>CONFIDENTIALITY AND PROPRIETARY INFORMATION</heading>
-    <para>
-      <num>A.</num>
-      <text>City employees may have access to confidential and proprietary information not accessible to the general public. Generally, confidential and proprietary information shall not leave the assigned main office location. Further, duplicating or disclosing confidential or proprietary information, unless it serves as a business necessity, is strictly prohibited.  When teleworking, employees are required to maintain the same confidentiality of all City information as they would at their main office location. Employees shall also take the necessary precautions to ensure that confidential and proprietary information is protected while in transit between the main office location and alternative work location.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Failure to exercise due care in safeguarding the City’s confidential and proprietary information is a job performance matter and will result in disciplinary action, up to and including termination.</text>
-    </para>
-  </para>
-  <para name="training">
-    <num>IX.</num>
-    <heading>TRAINING</heading>
-    <text>Each Agency Head shall ensure that all employees eligible to participate in the telework program and all Supervisors/Managers of teleworkers participate in a telework training program offered by the agency or the telework training program offered by the Department of Human Resources (“DHR”). Employees eligible to telework must successfully complete the telework training prior to entering into a Telework Agreement.</text>
-  </para>
-  <para name="roles-and-responsibilities">
-    <num>X.</num>
-    <heading>ROLES AND RESPONSIBILITIES</heading>
-    <para>
-      <num>A.</num>
-      <heading>Employee Responsibilities.</heading>
-      <text>Employees eligible to telework shall:</text>
-      <para>
-        <num>1.</num>
-        <text>Initiate the telework approval process;</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Complete <em><cite path="§AM-200-13-1">AM-200-13-1</cite></em> and DHR’s telework training program;</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Contact MOIT to ensure that telework equipment is in compliance with MOIT standards;</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>Timely submit bi-weekly timesheets in accordance with <em><cite path="§AM-205-10">AM-205-10</cite> Payroll Systems (<cite path="§AM-205-10">AM-205-10</cite>)</em>;</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>Maintain safe working conditions at their alternative work location as the employee would at their main office location;</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>Report any work interruption while at the alternative work location. In the event that the interruption requires the employee to work at the main office instead of teleworking, the employee must immediately notify their Supervisor/Manager; and</text>
-      </para>
-      <para>
-        <num>7.</num>
-        <text>Report any job-related injury at their alternative work location to their direct supervisor within 48 hours and follow established procedures outlined in <em><cite path="§AM-204-10">AM-204-10</cite> Job-Related Injury and Illness (<cite path="§AM-204-10">AM-204-10</cite>)</em>.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <heading>Supervisor/Manager Responsibilities.</heading>
-      <text>Supervisors/Managers of eligible telework employees shall:</text>
-      <para>
-        <num>1.</num>
-        <text>Review and submit the eligible employee’s Telework Agreement to the Agency’s HR Division. If the request to telework is not approved, the Supervisor/Manager must still forward the request to the Agency’s HR Division with a written reason why they are denying the request and any evidentiary support;</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Discuss any changes and issues regarding the Telework Agreement or schedule with the employee;</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Complete DHR’s telework training program; and</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>Hold regularly scheduled conferences with the telework employee to discuss assignments during the telework period and any work-related issues while at the alternative work location.</text>
-      </para>
+      <text>Agencies, after consultation with and approval by the Baltimore City Office of Information Technology ("BCIT"), have the discretion to provide equipment, software, or technology-related supplies, or allow employees to use their personal equipment while teleworking. Agencies providing equipment, software, or other supplies to teleworking employees must reasonably allocate those resources based on operational and workload needs.</text>
     </para>
     <para>
       <num>C.</num>
-      <heading>Agency’s Human Resources Division.</heading>
-      <text>Each Agency’s Human Resources Division shall:</text>
-      <para>
-        <num>1.</num>
-        <text>Review all Telework Agreements for consistency with City Policy and place signed form in the employee’s official personal file;</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Maintain a record of all Telework Agreements within the Agency; and</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Notify all Agency employees of their eligibility to telework.</text>
-      </para>
+      <text>Employees that are assigned City equipment must use that equipment while teleworking and may not use personal equipment for City related business unless authorized by BCIT. Employees participating in the ETP and equipment used for teleworking purposes (both City issued and personal) are subject to Technology Acceptable Use Policy, <cite path="§AM-118-1">AM-118-1</cite> and any other applicable City policies and procedures.</text>
     </para>
     <para>
       <num>D.</num>
-      <heading>Agency Head Responsibilities.</heading>
-      <text>Each Agency Head shall:</text>
-      <para>
-        <num>1.</num>
-        <text>Establish a procedure under which eligible employees of the Agency may request approval to telework; and</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Make the final determination of whether employees within their Agency are eligible to telework.</text>
-      </para>
+      <text>Personal equipment used for teleworking purposes is subject, but not limited to, the following conditions:</text>
+      <text class="text-indent-1">
+        <ul>
+          <li>The equipment must have up-to-date virus protection and licensing software.</li>
+          <li>The employee is solely responsible for any repairs and maintenance of personal equipment.</li>
+          <li>All City data and information must be stored on the City's network and not on the personal equipment.</li>
+          <li>The City does not assume any liability for loss, theft, damage, or wear of employee- owned equipment because of the telework-related activity.</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>An employee using personal equipment to conduct telework-related activity subjects their hard drive, software, and/or any other type of electronic storage media to the possibility of a lack of privacy, including the equipment being subpoenaed, due to legal action taken against or by the City.</text>
+    </para>
+  </para>
+  <para name="confidentiality-and-proprietary-information">
+    <num>VII.</num>
+    <heading>CONFIDENTIALITY AND PROPRIETARY INFORMATION</heading>
+    <para>
+      <num>A.</num>
+      <text>City employees may have access to confidential and proprietary information not accessible to the general public. Generally, confidential, and proprietary information shall not leave the assigned main office location. Further, duplicating or disclosing confidential or proprietary information, unless it serves as a business necessity, is strictly prohibited. When teleworking, employees are required to maintain the same confidentiality of all City information as they would at their main office location. Employees shall also take the necessary precautions to ensure that confidential and proprietary information is protected while in transit between the main office location and alternative work location.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Failure to exercise due care in safeguarding the City's confidential and proprietary information is a job performance matter and may result in disciplinary action, up to and including termination.</text>
+    </para>
+  </para>
+  <para name="training">
+    <num>VIII.</num>
+    <heading>TRAINING</heading>
+    <text>Each Agency Head shall ensure that all employees eligible to participate in the telework program and all Supervisors/Managers of teleworkers participate in a telework training program offered by the agency or the telework training program offered by the Department of Human Resources ("DHR"). Employees eligible to telework must successfully complete the telework training prior to entering a telework agreement.</text>
+  </para>
+  <para name="roles-and-responsibilities">
+    <num>IX.</num>
+    <heading>ROLES AND RESPONSIBILITIES</heading>
+    <para>
+      <num>A.</num>
+      <heading>Overall roles and responsibilities:</heading>
+      <text>The roles and responsibilities involved in the ETP take place across the following levels:</text>
+      <text class="text-indent-1">
+        <ul>
+          <li>Employee (Teleworker)</li>
+          <li>Supervisor</li>
+          <li>Agency/Telework Coordinator</li>
+          <li>Telework Manager</li>
+          <li>Agency Head</li>
+          <li>City</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Employee (Teleworker) Responsibilities.</heading>
+      <text>Participation in the ETP is voluntary and only with management approval and in compliance with this Policy. An employee should not be coerced to participate or not participate in the program. The employee begins the process of participating in the ETP by completing DHR's telework training course and submitting a completed telework agreement. Both the training and the telework agreement must be completed on an annual basis. Upon approval of the telework agreement, the employee must adhere to the following responsibilities:</text>
+      <text class="text-indent-1">
+        <ul>
+          <li>Perform only official duties during scheduled telework, including using City of Baltimore resources only for official City business. Employees may not engage in activities while teleworking that would not be permitted at the onsite workplace. Teleworking employees may utilize appropriate leave options for personal business, as they would at the onsite workplace.</li>
+          <li>Respond to all emails, phone calls or other established methods of communication within a timeframe as designated by their Agency (example: an agency may require an employee to respond within one (1) hour).</li>
+          <li>Follow all applicable policies, rules, laws, procedures, regulations, codes, and directives to ensure the security and confidentiality of all City documents and records.</li>
+          <li>Follow all applicable policies, rules, laws, procedures, regulations, codes, and directives related to workplace conduct and performance.</li>
+          <li>Continue to provide internal and external customer service and maintain the normal functions and performance standards of City government.</li>
+          <li>Maintain a level of performance that meets the expectations and timelines for completing all assignments and tasks associated with the position.</li>
+          <li>Maintain safe working conditions at their alternative work location as the employee would at their main office location.</li>
+          <li>Report any work interruption while at the alternative work location. If the interruption requires the employee to work at the main office instead of teleworking, the employee must immediately notify their Supervisor/Manager.</li>
+          <li>Report any job-related injury at their alternative work location to their direct supervisor in accordance with the established procedures outlined in the Job-Related Injury and Illness Policy, <cite path="§AM-204-10">AM-204-10</cite>.</li>
+          <li>Not use telework as a substitution for the appropriate use of sick leave unless in accordance with City protected leave policies. If warranted, terminate the telework agreement per the guidance outlined in this Policy.</li>
+          <li>Report to the supervisor any needed updates to the telework agreement, including but not limited to, alternative work location and schedule.</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Supervisor/Manager Responsibilities.</heading>
+      <text>The employee's immediate supervisor is responsible for reviewing and first step approval or denial of the employee's telework agreement, as well as managing the employee. The immediate supervisor must adhere to the following responsibilities:</text>
+      <text class="text-indent-1">
+        <ul>
+          <li>Review and submit the eligible employee's telework agreement to the Agency's Telework Coordinator. If the request to telework is not approved, the Supervisor/Manager must still forward the request to the Agency's Telework Coordinator with a written reason why they are denying the request and any evidentiary support.</li>
+          <li>Complete DHR's telework training program as well as any trainings that may be required for supervisors of teleworking employees.</li>
+          <li>Apply ETP policies and procedures related to teleworking consistently and equitably with their work unit.</li>
+          <li>Determine specific days employees are required to work onsite and telework based on business needs. Teleworking days should be agreed upon and documented in the Telework Agreement, <cite path="§AM-200-13-1">AM-200-13-1</cite>, or Expanded Telework Agreement, <cite path="§AM-200-13-2">AM-200-13-2</cite>. Teleworking days will be evaluated and reassigned on an annual basis.</li>
+          <li>Ensure that productivity, customer service and operations are maintained without unnecessary cost increases to the Agency or increase work for onsite employees.</li>
+          <li>If warranted, terminate the telework agreement per the guidance outlined in this Policy.</li>
+          <li>Encourage and facilitate the ETP by:</li>
+          <ul>
+            <li>Discussing any changes and issues regarding the telework agreement or schedule with the employee.</li>
+            <li>Discussing ETP usefulness at the beginning of performance management cycle.</li>
+            <li>Promptly reviewing and forwarding telework agreements.</li>
+            <li>Discussing effectiveness of ETP at regular intervals (such as mid-year and end of year).</li>
+            <li>Regularly communicating with the employee to discuss assignments during the telework period and any work-related issues while at the alternative work location.</li>
+            <li>Contacting the Agency Telework Coordinator with questions or concerns about the applicability of ETP in their unit so that participation barriers are identified and overcome as best as possible.</li>
+          </ul>
+          <li>Establish employee expectations for work performance at the alternate work location, including but not limited to:</li>
+          <ul>
+            <li>Communication practices.</li>
+            <li>Attendance availability for meetings.</li>
+            <li>Availability (examples: phone, teams, email, etc.)</li>
+            <li>Establish employee goals and individual performance measures that support Agency performance.</li>
+            <li>Establish necessary reporting requirements for employees working at alternate workplaces (examples: work logs, assignment sheets, e-mail check-in to track work progress).</li>
+          </ul>
+          <li>Honor the telework agreement and carry out all standard supervisory functions for employees participating in the ETP as they would for employees onsite including but not limited to overseeing and monitoring work assignments; reviewing employees' time and attendance records for accuracy; approving leave; is readily available to answer questions and clarify expectations; provides guidance directed at enhancing performance and assesses employee performance by measuring results.</li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>D.</num>
+      <heading>Agency.</heading>
+      <text>The roles involved in the ETP at Agencies include but are not limited to:</text>
+      <text class="text-indent-1">
+        <ul>
+          <li>
+            <strong>Agency's Telework Coordinator.</strong>
+          </li>
+          <ul>
+            <li>Serve as the primary point of contact for Agency employees who have questions or concerns about the ETP.</li>
+            <li>Review all telework agreements for consistency with City Policy and work with Agency HR practitioner to place signed form in the employee's official personal file.</li>
+            <li>Maintain a record of all telework agreements within the Agency.</li>
+            <li>Notify all Agency employees of their eligibility to telework.</li>
+            <li>Provide copies of all telework agreements and Agency's telework procedures to the Department of Human Resources Telework Program Manager.</li>
+            <li>Assist the City's Telework Program Manager with the compilation of metrics to assess the effectiveness of the Agency's telework arrangements.</li>
+            <li>Provide an annual report detailing the number of employees teleworking, the job classifications and aggregated data about the successes, challenges and best practices identified in the telework program to the City's Telework Program Manager.</li>
+          </ul>
+          <li>
+            <strong>Agency Head Responsibilities.</strong>
+          </li>
+          <ul>
+            <li>Shall appoint a designee within the Agency as a Telework Coordinator.</li>
+            <li>Agency Head or their designee shall periodically evaluate the effectiveness of telework in the Agency.</li>
+            <li>Establish a procedure under which eligible employees of the Agency may request approval to telework.</li>
+            <li>Make the final determination of whether employees within their Agency are eligible to telework.</li>
+          </ul>
+        </ul>
+        <li><strong>City.</strong> The roles involved in the ETP process at the City level include but are not limited to:</li>
+        <ul>
+          <li>
+            <strong>Department of Human Resources</strong>
+          </li>
+          <ul>
+            <li>The Director of Human Resources shall designate a City Telework Program Manager to serve as the lead administrator of the City's ETP.</li>
+            <li>Maintains official record of all Citywide telework documents.</li>
+            <li>Provides training to employees and supervisors on telework Policy.</li>
+            <li>Establishes, maintains, and publicizes procedures and information on the ETP at a citywide level.</li>
+            <li>Reviews agencies telework procedures and telework agreements for compliance with this Policy.</li>
+            <li>Provides advisory services to Agencies, employees, and managers on ETP.</li>
+            <li>Evaluates the ETP on an annual basis and reports to the Director of Human Resources.</li>
+          </ul>
+          <li>
+            <strong>Baltimore City Office of Information and Technology</strong>
+          </li>
+          <ul>
+            <li>Periodically reviews the ETP to ensure that it is compliant with current technology standards and policies.</li>
+            <li>Provide technological assistance to employees participating in the ETP.</li>
+          </ul>
+        </ul>
+      </text>
+    </para>
+  </para>
+  <para name="program-overview">
+    <num>X.</num>
+    <heading>PROGRAM OVERVIEW</heading>
+    <para>
+      <num>A.</num>
+      <heading>Establishing ETP arrangements.</heading>
+      <text>Supervisors may establish employee teleworking arrangements for the following situations: routine, non-routine, and emergency.</text>
+      <text class="text-indent-1">
+        <ul>
+          <li>ETP arrangements for telework should be established for the purpose of:</li>
+          <ul>
+            <li>Improving services to city agencies, residents, businesses, and visitors.</li>
+            <li>Meeting agency and City government needs and goals.</li>
+            <li>Reducing office space and associated costs.</li>
+            <li>Minimizing a hardship, improving access, or as a reasonable accommodation through the interactive ADA process with the agency ADA coordinator.</li>
+          </ul>
+          <li>Agencies may establish schedules for individual employees for routine telework.</li>
+          <li>Expanded telework schedules (more than two days a week for bureaus, departments, or offices) may be requested by Agency Heads to accommodate building space limitations, recruitment and retention needs, etc. Requests may be made using the Expanded Telework Agreement, <cite path="§AM-200-13-2">AM-200-13-2</cite>.</li>
+          <li>The supervisor establishes the number of telework days based on:</li>
+          <ul>
+            <li>Type of work performed.</li>
+            <li>Workload demands.</li>
+            <li>Need to facilitate group activities.</li>
+            <li>Office coverage.</li>
+            <li>Agency needs and requirements.</li>
+          </ul>
+          <li><strong>Routine Telework</strong>:</li>
+          <ul>
+            <li>Employee must have an approved telework agreement in place to participate in routine telework.</li>
+          </ul>
+          <li>
+            <strong>Non-Routine Telework:</strong>
+          </li>
+          <ul>
+            <li>Employee may work at an approved alternate work location at the discretion and approval of their immediate supervisor.</li>
+            <li>Employee must have an approved telework agreement in place to participate in non-routine telework.</li>
+          </ul>
+          <li>
+            <strong>Emergency Telework:</strong>
+          </li>
+          <ul>
+            <li>Employee may work at an approved alternate work location at the discretion and approval of their immediate supervisor.</li>
+            <li>Employee must have an approved telework agreement in place to participate in emergency telework.</li>
+          </ul>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Established Telework Days</heading>
+      <text/>
+      <text class="text-indent-1">
+        <ul>
+          <li>With supervisory approval, an employee may telework on a day designated as a workday. Based on the needs of the agency, a supervisor may designate specific days the employee works at the onsite work location and at the alternate work location.</li>
+          <li>If multiple employees in the same office are eligible for telework, a supervisor may require employees stagger or rotate the days they telework based on agency needs such as on-site office coverage. Supervisors must ensure that any rotating or staggering of days is done equitably amongst eligible staff.</li>
+          <li>If the teleworker is required to be present at the main office location on their approved telework day, they may switch their telework day within the same work week, with prior approval from their supervisor.</li>
+          <li>The supervisor retains the right to require an employee who teleworks to commute to a City office on a regularly scheduled telework day should a work situation warrant such an action. This situation is expected to be only an occasional occurrence. If the employee is frequently required to return to an onsite work location during a regularly scheduled telework day, the supervisor may reevaluate the compatibility of the employee's position and job responsibilities with teleworking.</li>
+          <li>If on an approved telework agreement, the employee must be able to report to his or her official worksite, if requested to do so by the immediate supervisor, within a time as prescribed by the agency. Example: an agency may require its teleworking employees to report within two (2) hours following a request to attend a mandatory meeting, due to an emergency.</li>
+          <li>The employee works at the onsite workplace when directed by the supervisor or agency head (or their designee). Teleworking may not adversely affect the performance of the employee's duties, other employees at the onsite workplace, customer service or agency performance.</li>
+          <li>The employee may not perform work for any other employer during scheduled telework hours.</li>
+        </ul>
+      </text>
     </para>
   </para>
   <para name="compliance">
@@ -302,19 +406,25 @@
   <para name="interpretation">
     <num>X.</num>
     <heading>INTERPRETATION</heading>
-    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City’s Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this Policy at any time. The City's Board of Estimates reserves the right to approve proposed policy revisions or eliminations as determined by the Department of Human Resources.</text>
   </para>
   <annotations>
     <annotation type="History" effective="2017-12-13" display="true">December 13, 2017</annotation>
+    <annotation type="History" effective="2023-12-13" display="true">December 13, 2023</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-118-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-200-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-200-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-200-13-1" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-200-13-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-2" type="Related Policies"/>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-203-5" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-10" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-14" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-205-10" type="Related Policies"/>
-    <annotation type="Related Policies">AM-207-1</annotation>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-228-1" type="Related Policies"/>
     <annotation doc="City of Baltimore Administrative Manual" path="§AM-301-10" type="Related Policies"/>
-    <annotation type="Related Policies">PM 305. Attendance Standards Policy</annotation>
-    <annotation type="Related Policies">PM 350. Discipline</annotation>
-    <annotation type="Related Policies">PM 370. Performance Evaluations</annotation>
+    <annotation type="Related Policies">PM 305 Attendance Standards Policy</annotation>
+    <annotation type="Related Policies">PM 350 Discipline</annotation>
+    <annotation type="Related Policies">PM 370 Performance Evaluations</annotation>
   </annotations>
 </section>
