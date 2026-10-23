@@ -1,0 +1,666 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-147" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-147</num>
+  <num type="bill">26-0163</num>
+  <heading type="short">Community Healthy Food Access Act</heading>
+  <heading type="long">An Ordinance Concerning Community Healthy Food Access Act</heading>
+  <meta>
+    <stub/>
+    <introduced>2026-04-06</introduced>
+    <effective>2026-11-04</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-147.pdf">Ord. 26-147</citation>
+    </citations>
+    <history>
+      <vote date="2026-04-06" reading="first"/>
+      <vote date="2026-09-14" reading="second"/>
+      <enacted>2026-10-05</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="1|43to48" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|43to47">
+      <container name="43to47">
+        <prefix>Subtitles</prefix>
+        <num>43 to 47</num>
+        <reason>Reserved</reason>
+      </container>
+    </codify:replace>
+    <codify:insert path="1" after="43to47" codified:doc="City of Baltimore, Md., Code" codified:path="1|§48-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>48</num>
+        <heading>Food Policy and Planning Division</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>48-1</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>In this subtitle, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Community benefit agreement.</heading>
+            <text>“Community benefit agreement” means a legally binding negotiated agreement between a grant recipient and a community association that serves the neighborhood where the grant recipient is located.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Community-based enterprise.</heading>
+            <text>“Community-based enterprise” means a business that:</text>
+            <para>
+              <num>(1)</num>
+              <text>distributes or re-invests any profits or financial surplus from the business for the benefit of the community as a whole; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>is controlled in some way by the community where it is located, including:</text>
+              <para>
+                <num>(i)</num>
+                <text>majority representation on the board of directors by community members;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>democratic decision-making by members of the community regarding the practices of the enterprise; or</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>complete or majority ownership by the community as a whole.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Community food retailer.</heading>
+            <text>“Community food retailer” means a retail goods establishment whose primary business is selling food to the general public for off-premises consumption that:</text>
+            <para>
+              <num>(1)</num>
+              <text>dedicates at least 25% of its floor area to the sale of fresh produce, meats, and dairy products;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>aggregates, stores, and distributes locally or regionally produced food to consumers or retail establishments;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>is a food cooperative organized under State law;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>is a mobile food vendor that operates on a regular schedule in 1 or more healthy food priority areas in the City; or</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>is a farmers’ market operating under a City permit.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Culturally relevant.</heading>
+            <text>“Culturally relevant” means that a food product reflects the dietary traditions and preferences of the local community where it is sold.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>Diet-related illness.</heading>
+            <text>“Diet-related illness” means a health condition caused by, aggravated by, or otherwise connected to diet, including:</text>
+            <para>
+              <num>(1)</num>
+              <text>coronary heart disease;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>obesity;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>high blood pressure; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>diabetes.</text>
+            </para>
+          </para>
+          <para>
+            <num>(g)</num>
+            <heading>Division.</heading>
+            <text>“Division” means the Food Policy and Planning Division within the Department of Planning.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <heading>Food Policy Director.</heading>
+            <text>“Food Policy Director” means the Director of the Food Policy and Planning Division within the Department of Planning.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <heading>Grocery store.</heading>
+            <text>“Grocery store” means a retail goods establishment:</text>
+            <para>
+              <num>(1)</num>
+              <text>whose primary business is selling food to the general public for off-premises consumption;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>that derives at least 20% of its gross receipts from the retail sale of fresh produce, meats, and dairy products; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>that has a floor area of more than 12,000 square feet.</text>
+            </para>
+          </para>
+          <para>
+            <num>(j)</num>
+            <heading>Healthy foods grant.</heading>
+            <text>“Healthy foods grant” means a grant awarded pursuant to this subtitle.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <heading>Healthy food priority area.</heading>
+            <text>“Healthy food priority area” means an area in which:</text>
+            <para>
+              <num>(1)</num>
+              <text>the distance to a supermarket is more than 1/4 mile;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the median household income is at or below 185% of the federal poverty level, as measured by the most recent 5-year estimate of the United States Census Bureau’s American Community Survey;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>over 30% of households have no vehicle available, as measured by the most recent 5-year estimate of the United States Census Bureau’s American Community Survey; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>the Healthy Food Availability Index average score of all food stores is low.</text>
+            </para>
+          </para>
+          <para>
+            <num>(l)</num>
+            <heading>Program.</heading>
+            <text>“Program” means the Healthy Food Priority Area Grant Program established under <cite doc="City of Baltimore, Md., Code" path="|1|§48-6">§ 48-6 {“Healthy Food Priority Area Grant Program”} of this subtitle</cite>.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <heading>Retail goods establishment.</heading>
+            <text>“Retail goods establishment” has the meaning stated in City Code <cite doc="City of Baltimore, Md., Code" path="|32|§1-312">Article 32, § 1-312 {“‘Property line’ to ‘Roof deck’”}</cite>.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <heading>Small box grocery store.</heading>
+            <text>“Small box grocery store” means a grocery store that has a floor area of less than 12,000 square feet.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <heading>SNAP.</heading>
+            <text>“SNAP” means the Supplemental Nutrition Assistance Program administered by the United States Department of Agriculture.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <heading>Technical assistance.</heading>
+            <text>“Technical assistance” means operational support services provided to a grant recipient to promote the success of a healthy food retail business, including:</text>
+            <para>
+              <num>(1)</num>
+              <text>business planning;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>financial management;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>supply chain optimization;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>healthy food merchandising; and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>SNAP and WIC technology integration.</text>
+            </para>
+          </para>
+          <para>
+            <num>(q)</num>
+            <heading>WIC.</heading>
+            <text>“WIC” means the Special Supplemental Nutrition Program for Women, Infants, and Children administered by the United States Department of Agriculture.</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <heading>Worker-owned cooperative.</heading>
+            <text>“Worker-owned cooperative” means a business that is owned and managed exclusively by its employees.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-2</num>
+          <heading>Food Policy and Planning Division established.</heading>
+          <text>There is a Food Policy and Planning Division within the Department of Planning.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-3</num>
+          <heading>Food Policy Director.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>The Food Policy Director is responsible for the administration and oversight of the Division.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Appointment.</heading>
+            <text>The Director of Planning shall employ a Food Policy Director.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-4</num>
+          <heading>Staff; budget.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Staff.</heading>
+            <text>The Director of Planning may employ a staff for the Division as provided in the Ordinance of Estimates.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Budget.</heading>
+            <text>The Division may expend funds authorized in the Ordinance of Estimates, any supplementary appropriations, or any appropriations transfer.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-5</num>
+          <heading>Duties.</heading>
+          <text>The Division shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>recommend policy to improve equitable access to food in the City;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>engage in research, planning, and policy creation with experts and communities to promote equitable access to food;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>increase food resilience and address food insecurity in communities;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>encourage environmentally, socially, and financially sustainable urban agriculture;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>provide funding to improve access to nutritious food in healthy food priority areas; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>generally support food-based businesses and access to food in the City.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-6</num>
+          <heading>Healthy Food Priority Area Grant Program.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>There is a Healthy Food Priority Area Grant Program to promote access to fresh and nutritious food in healthy food priority areas by supporting food retailers.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Administration.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>The Program shall be administered by the Division.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Division may contract.</heading>
+              <text>The Division may contract with external partners to perform any administrative, advisory, or ministerial duties necessary for the Division to carry out this subtitle.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <heading>Final decision authority not delegated.</heading>
+              <text>A contract with an external partner adopted under this section may not delegate any decision-making authority of the Division under this subtitle, including the authority to award a grant or adopt a rule or regulation.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-7</num>
+          <heading>Source of funds.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>Funding for the Program shall be derived from any money appropriated in the Ordinance of Estimates for that purpose.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Division may seek funding.</heading>
+            <text>The Division may apply for funding for the Program from available federal, State, private, or philanthropic sources.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-8</num>
+          <heading>Eligibility.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>To be eligible for a healthy foods grant, an applicant shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>be located in or within 1/4 mile of a healthy food priority area;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>be a grocery store, small box grocery store, or community food retailer;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>accept SNAP and WIC as payment;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>provide fresh produce, meat, dairy, and food made with whole grains for sale; and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>not be subject to any unresolved enforcement action by the Health Department or any applicable federal or State food safety agency.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Proposed retailer.</heading>
+            <text>A person may apply for a healthy foods grant to support a proposed grocery store, small box grocery store, or community food retailer, provided the proposed store meets the criteria established under this section.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-9</num>
+          <heading>Form of application.</heading>
+          <text>An application for a healthy foods grant shall be in the form that the Food Policy Director requires and shall include:</text>
+          <para>
+            <num>(1)</num>
+            <text>a business plan or operating plan demonstrating the financial viability of the proposed retail goods establishment;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>documentation of SNAP and WIC authorization, or a plan to obtain such an authorization within 90 days of receiving a grant;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a description of how the applicant will engage the surrounding community in the operation of the establishment;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>documentation to demonstrate the gap between the funding available to the applicant and the funding the applicant requires to achieve the plans in the application; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>any other information related to the Program that the Food Policy Director requires.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-10</num>
+          <heading>Equity and priority.</heading>
+          <text>To address community need and ensure that healthy foods grants are disbursed in an equitable manner, the Food Policy Director shall, where funding is available, provide any healthy foods grants first to any eligible applicant that:</text>
+          <para>
+            <num>(1)</num>
+            <text>is located in a census tract in the 75th percentile or higher for number of households participating in SNAP;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>is located in a census tract in the 75th percentile or higher for obesity and diabetes among adults;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>is a minority business enterprise or women’s business enterprise, as defined in City Code <cite doc="City of Baltimore, Md., Code" path="|5|§28-13">Article 5, § 28-13 {“Definitions”}</cite>;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>operates or plans to operate during early morning, evening, weekend, or other non-traditional hours;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>offers or plans to offer culturally relevant fresh produce, meat, dairy, and food made from whole grains;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>is a worker-owned cooperative or community-based enterprise; or</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>if the applicant is a grocery store or a small box grocery store, submits to the Division a hiring plan that details the steps that the establishment will take to provide or facilitate access to job training for its employees, including:</text>
+            <para>
+              <num>(i)</num>
+              <text>food safety certification;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>customer service;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>inventory management; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>other skills relevant to grocery retail.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-11</num>
+          <heading>Grant parameters.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Grant amounts.</heading>
+            <text>A healthy foods grant shall be the lesser of:</text>
+            <para>
+              <num>(1)</num>
+              <text>the funding gap as documented in <cite doc="City of Baltimore, Md., Code" path="|1|§48-9|(4)">§ 48-9(4) {“Form of application”} of this subtitle</cite>; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the maximum funding permitted based on the type of establishment, being:</text>
+              <para>
+                <num>(i)</num>
+                <text>for a small box grocery store or community food retailer, $250,000; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>for a grocery store that is not a small box grocery store, $100,000.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Permissible uses.</heading>
+            <text>A healthy foods grant may be used for:</text>
+            <para>
+              <num>(1)</num>
+              <text>the purchase, installation, or repair of refrigeration, shelving, or other equipment necessary to display fresh produce, meat, and dairy;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>store build-out, renovation, or leasehold improvements;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>stocking inventory of fresh produce, meat, dairy, and foods made from whole grains, of which at least 65% is grown, raised, produced, or processed within 200 miles of the establishment;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>costs associated with technology for accepting SNAP and WIC benefits, such as point-of-sale systems or electronic benefit transfer equipment;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>workforce recruitment, training, and development costs; and</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>operating costs for the first 24 months of operations, not to exceed 40% of the total grant amount.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Grant disbursement.</heading>
+            <text>Funds from a healthy foods grant shall be disbursed to the recipient at a frequency set in the terms of that grant.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Ability to reapply.</heading>
+            <text>A grant recipient whose grant disbursement has expired may apply for another healthy foods grant.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Enhanced grants for community benefit agreement.</heading>
+            <text>The Division may award an enhanced grant amount of an additional 25% of the maximum grant amount provided under subsection (a) of this section to a grant recipient with a community benefit agreement that provides support to the local area.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-12</num>
+          <heading>Non-compliance.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>A healthy foods grant shall be returned to the City if the Division determines that the grant recipient has failed to comply with:</text>
+            <para>
+              <num>(1)</num>
+              <text>any part of this subtitle;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>any rule or regulation adopted under this subtitle; or</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>any condition of an agreement between the healthy foods grant recipient and the Division.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Notice of non-compliance.</heading>
+            <text>Prior to requiring the repayment of a healthy foods grant, the Division shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>provide the recipient with written notice of the grounds for non-compliance; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>provide 30 days for the recipient to come into compliance with this subtitle.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Repayment after non-compliance.</heading>
+            <text>If the grant recipient does not come into compliance with this subtitle within the compliance period provided in paragraph (2) of subsection (b) of this section, the grant recipient shall repay within not less than 30 days of the end of the compliance period all payments of that grant which had been disbursed to that recipient.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-13</num>
+          <heading>Technical assistance.</heading>
+          <text>The Division shall contract with a vendor to provide technical assistance to each grant recipient.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-14</num>
+          <heading>Community engagement.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Public listening session.</heading>
+            <text>Each grant recipient shall conduct at least 1 public listening session annually in the community where the establishment is located to solicit local input on:</text>
+            <para>
+              <num>(1)</num>
+              <text>pricing;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>product selection;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>store operations; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>community needs.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Notice.</heading>
+            <text>At least 14 days prior to a listening session, a grant recipient shall provide notice of the session to:</text>
+            <para>
+              <num>(1)</num>
+              <text>the Division;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the member of the City Council who represents the Council district where the establishment is located; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>any community organizations in the community where the establishment is located.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-15</num>
+          <heading>Rules and regulations.</heading>
+          <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the Food Policy Director shall adopt rules and regulations to carry out this subtitle.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>48-16</num>
+          <heading>Annual report.</heading>
+          <text>No later than September 1 of each year, the Division shall submit a report to the Mayor and City Council on the Program’s activity and its impact in the previous fiscal year, including:</text>
+          <para>
+            <num>(1)</num>
+            <text>the number of establishments awarded a healthy foods grant in the preceding year;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the amount of funding disbursed under the Program in the preceding year;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the location and square footage of each recipient of a healthy foods grant in the preceding year;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the number of jobs created by each grant recipient, including the percentage of employees hired from within a 2-mile radius of the establishment;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>the change in Healthy Food Availability Index score at each grant recipient establishment;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>the number of SNAP and WIC transactions processed by all grant recipients;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>the estimated dollar amount of private, philanthropic, non-profit, and all other non-City investments received by grant recipients;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>to the extent that information is available, the rate of obesity, malnutrition, and other diet-related illnesses in each census tract where a grant recipient is located; and</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>a summary of community engagement activities conducted by grant recipients under <cite doc="City of Baltimore, Md., Code" path="|1|§48-14">§ 48-14 {“Community engagement”} of this subtitle</cite>.</text>
+          </para>
+        </section>
+      </container>
+    </codify:insert>
+  </section>
+</document>

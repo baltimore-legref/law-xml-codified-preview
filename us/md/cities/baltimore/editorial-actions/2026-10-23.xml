@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Editor Action 2026-10-23" codify:doc="Code of Baltimore Regulations Annotated">
+  <meta>
+    <stub/>
+    <effective>2026-10-23</effective>
+    <history>
+      <published>2026-10-23</published>
+    </history>
+  </meta>
+  <codify:insert path="05" before="02" history="false" codified:doc="Code of Baltimore Regulations Annotated" codified:path="05|01|01|.01|annos">
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>01</num>
+      <heading>LICENSE AND TAXATION REGULATIONS</heading>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>01</num>
+        <heading>PARKING TAX – FACILITATORS</heading>
+        <annotation type="Authority" dest="container">City Code, Article 28, §22-8</annotation>
+        <section>
+          <prefix>Regulation</prefix>
+          <num>.01</num>
+          <heading>Scope.</heading>
+          <text><cite path="05.01.01" proof="needed" doc="Editor Action 2026-10-23">This chapter</cite> establishes rules and regulations that govern the taxation of parking spaces in Baltimore City.</text>
+        </section>
+        <section>
+          <prefix>Regulation</prefix>
+          <num>.02</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>A.</num>
+            <text>In <cite path="05.01.01" proof="needed" doc="Editor Action 2026-10-23">this chapter</cite>, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>Terms Defined.</text>
+            <para>
+              <num>(1)</num>
+              <text>"Administrative fee" means a cost charged by a facilitator in connection with the reservation of a parking space within Baltimore City.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>"Bureau of Revenue and Collections (BRC)" means the Baltimore City Department of Finance Bureau of Revenue and Collections.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>"City" means the Mayor and City Council of Baltimore.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>"Facilitator" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28" proof="needed">City Code Article 28</cite>, §22-1(c).</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>"Operator" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28" proof="needed">City Code Article 28</cite>, §22-1(f).</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>"Parking" means the occupation of a legally available space by a vehicle in a parking facility in</text>
+              <text>exchange for a fee.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>"Parking facility" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|15" proof="needed">City Code Article 15</cite>, §12-1(b).</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>"Tax" means the Parking Tax provided for in <cite doc="City of Baltimore, Md., Code" path="|28" proof="needed">City Code Article 28</cite>, §22-2.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>Regulation</prefix>
+          <num>.03</num>
+          <heading>Tax Imposed.</heading>
+          <para>
+            <num>A.</num>
+            <text>In General.</text>
+            <text>The City shall impose a tax of 20 percent on the full cost related to parking at a parking facility, including a fee or a combination of fees related to:</text>
+            <para>
+              <num>(1)</num>
+              <text>Parking a vehicle;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>A reservation for parking a vehicle through a facilitator;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Service; or</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Convenience.</text>
+            </para>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>The Department shall ensure the tax imposed is:</text>
+            <para>
+              <num>(1)</num>
+              <text>Valued in money, without regard to whether the compensation related to parking is received in money in another form, including:</text>
+              <para>
+                <num>(a)</num>
+                <text>A credit; or</text>
+              </para>
+              <para>
+                <num>(b)</num>
+                <text>Exchange of:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Property; or</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>A service; and</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Determined without a deduction for an administrative fee.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>Regulation</prefix>
+          <num>.04</num>
+          <heading>Collection.</heading>
+          <para>
+            <num>A.</num>
+            <text>In General.</text>
+            <text>The operator or facilitator shall collect the tax on the full amount of the cost that it imposes on its customer in connection with parking.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>Credit.</text>
+            <text>If an operator or facilitator offers a credit to a customer for the privilege of parking, then the operator or facilitator shall ensure the amount of credit offered is included in the operator or facilitator's receipts only when a payment is made.</text>
+          </para>
+          <para>
+            <num>C.</num>
+            <text>Advance Payment.</text>
+            <text>If an operator or facilitator requires advance payment for the privilege of parking, the operator or facilitator shall remit to BRC the parking tax on the return for the month the payment was received.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>Regulation</prefix>
+          <num>.05</num>
+          <heading>Remittance.</heading>
+          <para>
+            <num>A.</num>
+            <text>In General.</text>
+            <para>
+              <num>(1)</num>
+              <text>The entity that collects the parking fee, whether a facilitator or operator, shall assume full responsibility for remitting the taxes owed in connection with parking.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If the facilitator is the entity that collects the tax on behalf of the operator, then the facilitator shall assume full responsibility for the remittance to BRC of the taxes owed in connection with the parking fee or combination of fees on behalf of the operator.</text>
+            </para>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>Remittance and Filing.</text>
+            <para>
+              <num>(1)</num>
+              <text>A facilitator and an operator shall register with the BRC by providing BRC with a completed Parking Tax Account Registration Application.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Upon completing registration with BRC, a facilitator or operator shall contact BRC via telephone at 410-361-9690 to:</text>
+              <para>
+                <num>(a)</num>
+                <text>Remit the tax; and</text>
+              </para>
+              <para>
+                <num>(b)</num>
+                <text>File the required monthly return.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>A facilitator or operator shall file the return required by B(2)(b) of <cite path="05.01.01.05" proof="needed" doc="Editor Action 2026-10-23">this regulation</cite> even in an instance where the reported recipts amount to zero.</text>
+            </para>
+          </para>
+        </section>
+      </container>
+    </container>
+  </codify:insert>
+</document>

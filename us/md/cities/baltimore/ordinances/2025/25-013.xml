@@ -1787,7 +1787,7 @@
         </container>
       </container>
     </codify:insert>
-    <codify:replace path="1|42to48" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|43to48">
+    <codify:replace path="1|42to48" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|43to47">
       <container name="43to48">
         <prefix>Subtitles</prefix>
         <num>43 to 48</num>
