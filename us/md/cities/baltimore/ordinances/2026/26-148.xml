@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-148" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-148</num>
+  <num type="bill">26-0193</num>
+  <heading type="short">Public Nuisances – Illegal Distribution or Manufacture of Cannabis or Controlled Dangerous Substances</heading>
+  <heading type="long">An Ordinance Concerning Public Nuisances – Illegal Distribution or Manufacture of Cannabis or Controlled Dangerous Substances</heading>
+  <meta>
+    <stub/>
+    <introduced>2026-05-11</introduced>
+    <effective>2026-10-15</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-148.pdf">Ord. 26-148</citation>
+    </citations>
+    <history>
+      <vote date="2026-05-11" reading="first"/>
+      <vote date="2026-09-14" reading="second"/>
+      <enacted>2026-10-15</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:recodify-section path="19|§43-3" num-value="43-2" after="§43-1" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-2"/>
+    <codify:recodify-section path="19|§43-4" num-value="43-3" after="§43-2" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-3"/>
+    <codify:recodify-section path="19|§43-5" num-value="43-4" after="§43-3" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-4"/>
+    <codify:recodify-section path="19|§43-6" num-value="43-5" after="§43-4" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-5"/>
+    <codify:recodify-section path="19|§43-8" num-value="43-6" after="§43-5" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-6"/>
+    <codify:recodify-section path="19|§43-9" num-value="43-7" after="§43-6" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-7"/>
+    <codify:recodify-section path="19|§43-11" num-value="43-8" after="§43-7" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-8"/>
+    <codify:recodify-section path="19|§43-12" num-value="43-9" after="§43-8" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-9"/>
+    <codify:remove path="19|§43-11" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-1|annos"/>
+    <codify:remove path="19|§43-12" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-1|annos"/>
+  </section>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
+    <codify:replace path="19|§43-1" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-1">
+      <section>
+        <prefix>§</prefix>
+        <num>43-1</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Assignation.</heading>
+          <text>“Assignation” means an appointment or engagement for prostitution or any act in furtherance of the appointment or engagement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Cannabis product.</heading>
+          <text>“Cannabis product” has the meaning stated in § 36-101, et seq. of the State Alcoholic Beverages and Cannabis Article.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Commissioner.</heading>
+          <text>“Commissioner” means the Police Commissioner of Baltimore City or the Commissioner’s designee.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Controlled dangerous substance; CDS.</heading>
+          <text>“Controlled dangerous substance” or “CDS” means a substance listed in Schedule I or Schedule II under <cite doc="Md. Code" path="gcr|5-402">State Criminal Law Article § 5-402</cite> or § 5-403.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Controlled paraphernalia.</heading>
+          <text>“Controlled paraphernalia” has the meaning stated in <cite doc="Md. Code" path="gcr|5-101">State Criminal Law Article § 5-101</cite>.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Crime of violence.</heading>
+          <text>“Crime of violence” has the meaning stated in <cite doc="Md. Code" path="gcr|14-101">State Criminal Law Article § 14-101</cite>.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Office of Administrative Hearings; OAH.</heading>
+          <text>“Office of Administrative Hearings” or “OAH” means the State of Maryland Office of Administrative Hearings established in <cite doc="Md. Code" path="gsg|9-1602">§ 9-1602 of the State Government Article of the Maryland Code</cite>.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Operator.</heading>
+          <text>“Operator” means any person who has charge, care, or control of a premises or structure.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Owner.</heading>
+          <text>“Owner” means the person in whose name a premises is recorded in the Land Records of Baltimore City.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Premises.</heading>
+          <text>“Premises” means all or any part of any land, building, or other structure.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Prostitution.</heading>
+          <text>“Prostitution” means the performance of a sexual act, sexual contact, or vaginal intercourse, as these terms are defined in <cite doc="Md. Code" path="gcr|3-301">State Criminal Law Article § 3-301</cite>, for hire.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Public nuisance.</heading>
+          <text>“Public nuisance” means any premises that, on 2 or more separate occasions within a 24-month period, were used:</text>
+          <para>
+            <num>(1)</num>
+            <text>for prostitution, lewdness, or assignation;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>for illegal adult entertainment;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>by persons who assemble for the specific purpose of illegally administering a controlled dangerous substance;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>for the illegal manufacture or distribution of:</text>
+            <para>
+              <num>(i)</num>
+              <text>a controlled dangerous substance;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>controlled paraphernalia; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a cannabis product;</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>for the illegal storage or concealment of a controlled dangerous substance, controlled paraphernalia, or a cannabis product in sufficient quantity to reasonably indicate under all the circumstances an intent to manufacture, distribute, sell, advertise for sale, or dispense:</text>
+            <para>
+              <num>(i)</num>
+              <text>a controlled dangerous substance;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>controlled paraphernalia; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a cannabis product;</text>
+            </para>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>for gambling;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>for storage or possession of stolen property;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>for storage or possession of unregistered firearms;</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>for furtherance of a crime of violence;</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>by persons who engage in a crime of violence on or near the premises; or</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>for criminal gang offenses prohibited under State Criminal Law Article 9, Subtitle 8.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="19|§43-2" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-2">
+      <section>
+        <prefix>§</prefix>
+        <num>43-2</num>
+        <heading>Nuisance abatement authorized.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Commissioner’s authority.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>On determining that a public nuisance exists, the Commissioner may:</text>
+            <para>
+              <num>(i)</num>
+              <text>order the discontinuance of the public nuisance in the premises where the public nuisance exists; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>order the closing of the premises to the extent necessary to abate the nuisance, for the protection and betterment of the public health, safety, and welfare, and not as a punishment of any owner, operator, or tenant.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Commissioner shall refer.</heading>
+            <para>
+              <num>(i)</num>
+              <heading>In general.</heading>
+              <text>For a premises alleged to be a public nuisance for reasons related to activities involving a controlled dangerous substance or a cannabis product where the reported violations involve an employee, owner, or tenant of the premises, the Commissioner shall refer the matter to an entity specified in subparagraph (ii) of this subsection, who shall serve as the body responsible for conducting an independent hearing and issuing proposed findings of fact and conclusions of law.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Order of referral.</heading>
+              <para>
+                <num>(A)</num>
+                <text>If a relevant agreement between the City and OAH exists, the Commissioner shall refer the matter to OAH.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>If a relevant agreement between the City and OAH does not exist, or OAH refuses to accept a referral for any reason, the Commissioner shall refer the matter to the Environmental Control Board or its successor.</text>
+              </para>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <heading>Referral to Environmental Control Board.</heading>
+              <text>The Commissioner and the Environmental Control Board or its successor shall establish an agreement to carry out the provisions of this subsection.</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <heading>Contents of referral.</heading>
+              <text>In that referral required under this paragraph (2), the Commissioner shall request the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>for the entity to conduct an evidentiary hearing according to that office’s rules on the subject of the police reports and the alleged public nuisance; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>for the entity to produce a proposed order on the matter.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Limitations.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Except as specified in paragraph (2) of this subsection, if the premises consists entirely of residential units or mixed residential and other use units, and the public nuisance has occurred solely within 1 or more residential units, abatement authority is restricted to the residential units in which the public nuisance has occurred, and does not extend to any other unit in the premises.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The restrictions of paragraph (1) of this subsection do not apply to a public nuisance occurring in any:</text>
+            <para>
+              <num>(i)</num>
+              <text>motel;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>hotel; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>rooming house or rooming unit, as those terms are defined in the Zoning Code of Baltimore City.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="19|§43-3" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-3">
+      <section>
+        <prefix>§</prefix>
+        <num>43-3</num>
+        <heading>Notice and opportunity for hearing.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Before issuing an order under this subtitle, the Commissioner shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>except as provided in paragraph (2) of this subsection, give notice and an opportunity for a hearing to the owner and any operator of the premises and to any commercial tenant of the premises; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>upon the issuance of a second police report where the reported violations involve an employee, owner, or tenant of the premises engaged in activities related to a controlled dangerous substance or a cannabis product, as described in <cite doc="City of Baltimore, Md., Code" path="|19|§43-1|(m)">§ 43-1(m) of this subtitle</cite>, refer the matter for a hearing pursuant to <cite doc="City of Baltimore, Md., Code" path="|19|§43-2">§ 43-2 of this subtitle</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Contents of notice.</heading>
+          <text>The notice shall state:</text>
+          <para>
+            <num>(1)</num>
+            <text>the date, place, and time of the hearing;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the right of the persons receiving the notice to be heard and to be represented at the hearing; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the possible consequences of failure to appear, including the possible issuance of a default order directing the premises to be closed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Service and posting of notice.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The notice shall be given by personal service or by certified or registered mail to the owner, operator, and commercial tenant, as their names and addresses:</text>
+            <para>
+              <num>(i)</num>
+              <text>are recorded in the Land Records of Baltimore City;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>appear in the registration statement filed under City Code <cite doc="City of Baltimore, Md., Code" path="|13|4">Article 13, Subtitle 4 {“Registration of Non-Owner-Occupied Dwellings, etc.”}</cite>; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>are otherwise known or readily ascertainable.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>In addition, the notice shall be posted on the premises.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="19|§43-4" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-4">
+      <section>
+        <prefix>§</prefix>
+        <num>43-4</num>
+        <heading>Applicable standards.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Proof of knowledge not required.</heading>
+          <text>The Commissioner may order appropriate relief under <cite doc="City of Baltimore, Md., Code" path="|19|§43-2">§ 43-2 of this subtitle</cite> without proof that an owner, operator, or tenant knew of the existence of the public nuisance.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Prima facie evidence.</heading>
+          <text>Two reports by police officers, written in the regular course of business, of a premises having been used for activities described in <cite doc="City of Baltimore, Md., Code" path="|19|§43-1|(m)">§ 43-1(m) of this subtitle</cite>, are prima facie evidence that the premises are a public nuisance.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Discontinuance not a bar to relief.</heading>
+          <text>Evidence that the nuisance has been discontinued at the time notice was provided or at the time of the hearing does not bar the Commissioner from imposing appropriate relief under <cite doc="City of Baltimore, Md., Code" path="|19|§43-2">§ 43-2 of this subtitle</cite>.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="19|§43-5" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-5">
+      <section>
+        <prefix>§</prefix>
+        <num>43-5</num>
+        <heading>Issuance and enforcement of order.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Issuance of final order.</heading>
+          <text>Following the hearing procedure and upon receipt of the proposed findings of fact, conclusions of law, and proposed order the Commissioner shall issue a final order, together with the final findings of fact and conclusions of law.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Police Department.</heading>
+          <text>The Commissioner shall initiate an abatement action within 15 calendar days after the issuance of a final order, which may include posting the final order and closing the premises.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Posting and notice of order.</heading>
+          <text>Following the hearing procedure, a final order issued by the Commissioner under this subtitle shall be posted on the premises and notice of the final order shall be given to the persons and in the manner set forth in <cite doc="City of Baltimore, Md., Code" path="|19|§43-3">§ 43-3 of this subtitle</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Enforcement; period of closing.</heading>
+          <para>
+            <num>(1)</num>
+            <text>After the final order has been posted, as set forth in subsection (c) of this section, the final order may be enforced on written directive of the Commissioner.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A closing shall be for the period stated in the final order, but in no event may the closing be for longer than 1 year.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The period of closing is not punitive and is imposed solely for the protection of the public health, safety, and welfare.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Nature of closing.</heading>
+          <text>A closing ordered by the Commissioner under this subtitle is not an act of possession, ownership, or control by the City of Baltimore.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Modification.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>The Commissioner may modify or rescind an order issued under this subtitle if:</text>
+            <para>
+              <num>(i)</num>
+              <text>an owner or tenant affected by the order submits to the Commissioner a written request for modification or rescission; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a hearing is held on the request.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Form of request for modification.</heading>
+            <text>An owner or tenant submitting a request under this subsection shall attach to the request any documents or other evidence that the owner or tenant wishes the Commissioner to consider in ruling on the request.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Commissioner’s authority.</heading>
+            <para>
+              <num>(i)</num>
+              <text>The Commissioner may grant the request if the Commissioner determines that the nuisance has been abated.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The Commissioner shall limit consideration of any request presented under this subsection to 1 request every 60 days.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="19|§43-8" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-8">
+      <section>
+        <prefix>§</prefix>
+        <num>43-8</num>
+        <heading>Prohibited conduct.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Destruction, etc., of posted order.</heading>
+          <text>No person may destroy, remove, or deface an order posted by the Commissioner under this subtitle.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Failure to obey order.</heading>
+          <text>No person may:</text>
+          <para>
+            <num>(1)</num>
+            <text>intentionally disobey any proper order issued by the Commissioner under this subtitle; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>use or occupy or permit any other person to use or occupy any premises ordered closed under this subtitle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Liability for unauthorized occupancy.</heading>
+          <text>If any person uses or occupies or permits any other person to use or occupy any premises ordered closed by the Commissioner:</text>
+          <para>
+            <num>(1)</num>
+            <text>the Commissioner may execute the terms of the order to close the premises; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the person is liable for all costs incurred by the Commissioner in executing the terms of the order to close the premises.</text>
+          </para>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="19|§43-9" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-9">
+      <section>
+        <prefix>§</prefix>
+        <num>43-9</num>
+        <heading>Penalties.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Any person who violates a provision of <cite doc="City of Baltimore, Md., Code" path="|19|§43-8">§ 43-8</cite> is guilty of a misdemeanor and, on conviction, is subject to the following penalties:</text>
+          <para>
+            <num>(1)</num>
+            <text>for a violation of <cite doc="City of Baltimore, Md., Code" path="|19|§43-8|(a)">§ 43-8(a) {“Prohibited conduct: Destruction, etc., of posted order”}</cite>, the offender is subject to a fine of not more than $500; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>for a violation of <cite doc="City of Baltimore, Md., Code" path="|19|§43-8|(b)">§ 43-8(b) {“Prohibited conduct: Failure to obey order”}</cite>, the offender is subject to a fine of not more than $500 or to imprisonment for not more than 90 days or to both fine and imprisonment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Each day a separate offense.</heading>
+          <text>Each day a violation continues is a separate offense.</text>
+        </para>
+      </section>
+    </codify:replace>
+    <codify:replace path="19|§43-10" codified:doc="City of Baltimore, Md., Code" codified:path="19|§43-10">
+      <section>
+        <prefix>§</prefix>
+        <num>43-10</num>
+        <heading>Reporting requirement.</heading>
+        <text>On or before April 1 and on or before October 1 of each year, the Commissioner shall submit a report to the Mayor and City Council detailing the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>the number of complaints received alleging a public nuisance as defined in <cite doc="City of Baltimore, Md., Code" path="|19|§43-1|(m)">§ 43-1(m) of this subtitle</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the number of cases that received review by lawyers for the City across all agencies;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the number of cases referred to OAH or the Environmental Control Board;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the number of final orders issued requiring closure of a business;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the average closure time;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the shortest closure time;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>the longest closure time;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>the most effective method of abatement, and why; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>the number of cases appealed to the Circuit Court, and the outcome in each instance.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+</document>
