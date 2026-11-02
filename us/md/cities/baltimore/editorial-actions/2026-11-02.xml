@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Editor Action 2026-11-02">
+  <meta>
+    <effective>0001-01-02</effective>
+    <history>
+      <adopted>2026-11-02</adopted>
+    </history>
+  </meta>
+  <codify:replace doc="City of Baltimore Administrative Manual" path="|200|AM-204-29" warning="false" history="false">
+    <section>
+      <prefix>Policy</prefix>
+      <num>AM-204-29</num>
+      <heading>[ABOLISHED]</heading>
+      <annotations>
+        <annotation type="History" display="true" effective="1992-01-09">January 9, 1992</annotation>
+        <annotation type="History" display="true" effective="2000-09-14">September 14, 2000</annotation>
+        <annotation type="History" display="true" effective="2017-12-13">December 13, 2017</annotation>
+      </annotations>
+    </section>
+  </codify:replace>
+  <codify:remove doc="City of Baltimore Administrative Manual" path="|200|AM-204-29" warning="false" history="false" codified:doc="City of Baltimore Administrative Manual" codified:path="200|§AM-200-1|annos"/>
+  <codify:replace doc="City of Baltimore Administrative Manual" path="|annos" history="false" codified:doc="City of Baltimore Administrative Manual" codified:path="annos">
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">The Department of Human Resources is reviewing the <cite doc="City of Baltimore Administrative Manual" path="|200">200 Series of the Administrative Manual</cite>. Please confirm current policy with DHR before relying on a policy in this series.</annotation>
+    </annotations>
+  </codify:replace>
+  <codify:insert doc="City of Baltimore Administrative Manual" path="|200" codified:doc="City of Baltimore Administrative Manual" codified:path="200|annos">
+    <annotations>
+      <annotation type="Editor's Notes">The Department of Human Resources is reviewing the <cite doc="City of Baltimore Administrative Manual" path="|200">200 Series of the Administrative Manual</cite>. Please confirm current policy with DHR before relying on a policy in this series.</annotation>
+    </annotations>
+  </codify:insert>
+</document>

@@ -3,5 +3,7 @@
   <prefix>Policy</prefix>
   <num>AM-203-2-4</num>
   <heading>Certification of Health Care Provider<br/>Employee’s Serious Health Condition</heading>
-  <annotations/>
+  <annotations>
+    <annotation app="0001-01-02" doc="Editor Action 2026-11-02" eff="0001-01-02" path="" target-path="|200|AM-204-29" type="History" display="false"/>
+  </annotations>
 </section>
