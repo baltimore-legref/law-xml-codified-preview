@@ -75,10 +75,7 @@
   <xi:include href="./AM-204-19.xml"/>
   <xi:include href="./AM-204-21.xml"/>
   <xi:include href="./AM-204-22.xml"/>
-  <xi:include href="./AM-204-23.xml"/>
-  <xi:include href="./AM-204-24.xml"/>
   <xi:include href="./AM-204-25.xml"/>
-  <xi:include href="./AM-204-26.xml"/>
   <xi:include href="./AM-204-27.xml"/>
   <xi:include href="./AM-204-28.xml"/>
   <xi:include href="./AM-204-30.xml"/>
@@ -204,4 +201,7 @@
     <annotation type="Editor's Notes">The Department of Human Resources is reviewing the <cite path="|200">200 Series of the Administrative Manual</cite>. Please confirm current policy with DHR before relying on a policy in this series.</annotation>
     <annotation app="0001-01-02" doc="Editor Action 2026-11-02" eff="0001-01-02" path="" target-path="|200" type="History" display="false"/>
   </annotations>
+  <annotation app="0001-01-02" doc="Editor Action 2026-11-03" eff="0001-01-02" path="" target-path="|200|AM-204-23" type="History" display="false"/>
+  <annotation app="0001-01-02" doc="Editor Action 2026-11-03" eff="0001-01-02" path="" target-path="|200|AM-204-24" type="History" display="false"/>
+  <annotation app="0001-01-02" doc="Editor Action 2026-11-03" eff="0001-01-02" path="" target-path="|200|AM-204-26" type="History" display="false"/>
 </container>
