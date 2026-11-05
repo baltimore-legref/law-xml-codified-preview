@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-150" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-150</num>
+  <num type="bill">26-0153</num>
+  <heading type="short">Measurement of Building Height – Gambrel Roofs</heading>
+  <heading type="long">An Ordinance Concerning Measurement of Building Height – Gambrel Roofs</heading>
+  <meta>
+    <stub/>
+    <introduced>2026-02-23</introduced>
+    <effective>2026-11-22</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-150.pdf">Ord. 26-150</citation>
+    </citations>
+    <history>
+      <vote date="2026-02-23" reading="first"/>
+      <vote date="2026-07-13" reading="second"/>
+      <enacted>2026-10-23</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace path="32|§15-301|(a)|(2)|(ii)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§15-301|(a)|(2)|(ii)">
+      <para>
+        <num>(ii)</num>
+        <text>to the following, as applicable:</text>
+        <para>
+          <num>(A)</num>
+          <text>in the case of a flat roof, to the highest point of the roof that adjoins the street wall;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>in the case of a pitched roof, to the mean height level of the roof as measured between the top of the highest wall plate and the highest point of the roof; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>in the case of a gambrel roof, to the mean height of the roof as measured between the lowest point of the highest sloped portion of the roof and the peak of the highest sloped portion of the roof.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+</document>

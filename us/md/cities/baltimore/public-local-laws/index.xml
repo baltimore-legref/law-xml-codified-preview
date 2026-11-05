@@ -2,6 +2,9 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Code of Public Local Laws">
   <meta>
     <effective>0001-01-03</effective>
+    <recency through="2026-11-22">
+      <doc id="City of Balt., Md., Ord. 26-152" type="ordinance"/>
+    </recency>
   </meta>
   <heading>Code of Public Local Laws of Baltimore City</heading>
   <include>
@@ -678,12 +681,12 @@
         <annotation type="Prior Codifications">1898, ch. 123, §467</annotation>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <prefix>§</prefix>
       <num>5-2</num>
       <heading>Vessel obstructing another — prohibited conduct.</heading>
-      <text>No vessel shall lie at any wharf, pier or dock, or adjoining same, in such manner as to obstruct or prevent the free passage of any vessel to or from some other berth in the same or another wharf, pier or dock.</text>
-      <text>The master of any vessel refusing to comply with the provisions of <cite path="5|§5-2">this section</cite> within one hour from the time notice to move his said vessel shall have been served upon him by the harbor master or a police officer of Baltimore City, shall be guilty of a misdemeanor, and shall be subject to a fine of not more than twenty dollars for every hour thereafter said obstruction continues.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">P.L.L., 1860, §194</annotation>
         <annotation type="Prior Codifications">1888, §359</annotation>
@@ -696,6 +699,7 @@
         <annotation type="Prior Codifications">1880, ch. 418</annotation>
         <annotation type="Prior Codifications">1898, ch. 123, §468</annotation>
         <annotation type="Prior Codifications">1908, ch. 170</annotation>
+        <annotation app="2026-11-22" doc="City of Balt., Md., Ord. 26-152" eff="2026-11-22" path="§1" target-path="5|§5-2" type="History"/>
       </annotations>
     </section>
     <section>

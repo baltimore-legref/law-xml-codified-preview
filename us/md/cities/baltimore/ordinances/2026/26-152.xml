@@ -1,0 +1,1042 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 26-152" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">26-152</num>
+  <num type="bill">26-0178</num>
+  <heading type="short">Baltimore Harbor – Transfer of Authority to Department of Transportation</heading>
+  <heading type="long">An Ordinance Concerning Baltimore Harbor – Transfer of Authority to Department of Transportation</heading>
+  <meta>
+    <stub/>
+    <introduced>2026-04-27</introduced>
+    <effective>2026-11-22</effective>
+    <citations>
+      <citation type="ord" url="./enacted/26-152.pdf">Ord. 26-152</citation>
+    </citations>
+    <history>
+      <vote date="2026-04-27" reading="first"/>
+      <vote date="2026-07-13" reading="second"/>
+      <enacted>2026-10-23</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:repeal doc="City of Balt., Md., Code of Public Local Laws" path="5|§5-2" codified:doc="City of Balt., Md., Code of Public Local Laws" codified:path="5|§5-2"/>
+  </section>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
+    <codify:remove path="10|7" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="10|§1-1|annos"/>
+    <codify:remove path="10|8" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="10|§1-1|annos"/>
+    <codify:remove path="10|9" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="10|§1-1|annos"/>
+  </section>
+  <section>
+    <prefix>Section</prefix>
+    <num>3</num>
+    <codify:replace path="10|heading" codified:doc="City of Baltimore, Md., Code" codified:path="10">
+      <heading>Baltimore Harbor</heading>
+    </codify:replace>
+    <codify:replace path="10|1" codified:doc="City of Baltimore, Md., Code" codified:path="10|§1-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>1</num>
+        <heading>General Provisions</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>1-1</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>In this article, the following terms have the meanings indicated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Baltimore Harbor.</heading>
+            <text>“Baltimore Harbor” has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|10|§1-2">§ 1-2 of this subtitle</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Department.</heading>
+            <text>“Department” means the Department of Transportation.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Director.</heading>
+            <text>“Director” means the Director of the Department of Transportation.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Inner Harbor.</heading>
+            <text>“Inner Harbor” means all docks, harbors, wharves, and navigable waterways of the City divided from the rest of the waters of the Baltimore Harbor by a direct line connecting the southernmost end of Point Park to the terminus of Pierside Drive.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>1-2</num>
+          <heading>Harbor; establishment; regulation.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Establishment.</heading>
+            <text>The Baltimore Harbor is defined using the National Oceanic and Atmospheric Administration Charts 12281OG and US5BALCA and includes the Northwest and Middle Branches of the Patapsco River and their tributaries existing:</text>
+            <para>
+              <num>(1)</num>
+              <text>north westerly from a direct line connecting Canton Waterfront Park and Fort McHenry, inclusive of the Inner Harbor; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>westerly from a direct line connecting Fort McHenry to Masonville Cove.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Harbor facilities.</heading>
+            <text>The Director or Director’s designee may:</text>
+            <para>
+              <num>(1)</num>
+              <text>locate and designate public wharves, docks, piers, bulkheads, pilings, and anchorage locations in Baltimore Harbor; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>maintain and patrol those public wharves, docks, piers, bulkheads, pilings, and anchorages established under this subsection.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Use by vessels.</heading>
+            <text>The Director shall regulate the stationing, anchoring and moving of vessels in Baltimore Harbor.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>1-3</num>
+          <heading>Rules and regulations.</heading>
+          <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the Director of the Department of Transportation shall adopt rules and regulations to carry out this Article 10.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>1-4</num>
+          <heading>Harbormaster.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Establishment.</heading>
+            <text>There is an Office of the Harbormaster in the Department.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Head.</heading>
+            <text>The head of the Office of the Harbormaster is the Harbormaster, who shall be an employee of the Department.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Purpose.</heading>
+            <text>The purpose of the Office of the Harbormaster is to carry out the express powers of the City as granted in <cite doc="City of Baltimore, Md., Charter" path="II|§(10)">Article II, § (10) of the City Charter</cite>.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Duties.</heading>
+            <text>The Harbormaster shall have the power and duty to:</text>
+            <para>
+              <num>(1)</num>
+              <text>identify changes in public policy, service delivery, and funding necessary to improve the services and duties of the Office;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>develop, implement, and promote policies to carry out the express powers of the City as granted in <cite doc="City of Baltimore, Md., Charter" path="II|§(10)">Article II, § (10) of the City Charter</cite>;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>serve as advisor to the Department of Transportation on matters related to the harbors, docks, and wharves of the City; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>perform such other duties as required by the Department of Transportation.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>1-5</num>
+          <heading>Obstructing access.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <para>
+              <num>(1)</num>
+              <text>A person in charge of a vessel operated or anchored as to obstruct the free passage of any other vessel to or from an anchorage, wharf, or dock, or moored or anchored so that they will be or will swing beyond the boundary of said anchorage, shall, upon being notified, immediately correct the condition.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If the condition continues beyond 6 hours from the time of notification, a penalty of $200 for each and every hour beyond this time shall be imposed on the person in charge of the vessel to a maximum of $1,000 per day.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Removal of vessel.</heading>
+            <text>If no person be on such vessel, upon whom said notice can be served, then the Director or Director’s designee shall have such vessel relocated and the expense for the same shall be paid by the owner, operator, or agent of the vessel to the Director of Finance.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>1-6</num>
+          <heading>Penalties.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Enforcement by citation.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>In addition to any other civil or criminal remedy or enforcement procedure, this article may be enforced by issuance of an environmental citation under City Code <cite doc="City of Baltimore, Md., Code" path="|1|40">Article 1, Subtitle 40 {“Environmental Control Board”}</cite> or by issuance of a civil citation under City Code <cite doc="City of Baltimore, Md., Code" path="|1|41">Article 1, Subtitle 41 {“Civil Citations”}</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Process not exclusive.</heading>
+              <text>The issuance of a citation to enforce this article does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Criminal penalties.</heading>
+            <text>Any person who violates any provision of this article is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Each violation a separate offense.</heading>
+            <text>Each violation of this article shall be considered a separate offense.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Each day a separate violation.</heading>
+            <text>Each day upon which a violation continues shall be considered a separate offense.</text>
+          </para>
+        </section>
+      </container>
+    </codify:replace>
+    <codify:replace path="10|2" codified:doc="City of Baltimore, Md., Code" codified:path="10|§2-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>2</num>
+        <heading>Pierhead Lines</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>2-1</num>
+          <heading>Limiting lines.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>The pierhead lines established for the Patapsco River, by Acts of the Secretary of War, from time to time, and the lines inside the said pierhead lines in portions of the Harbor shown on plats numbered 1 to 5, signed by the Mayor and the Harbor Engineer under Ordinance No. 116 of 1894, and any other lines now or hereafter established by ordinance inside said United States Government pierhead lines, are hereby declared to be the limiting lines beyond which no piers, bulkheads, wharves, pilings, structures, obstructions or extensions of any character may be built, erected, constructed, made, or extended.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Mapping.</heading>
+            <text>The Director or the Director’s designee shall:</text>
+            <para>
+              <num>(i)</num>
+              <text>create, maintain, and publish a map showing the location of all pierhead and bulkhead lines; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>file copies of the map with:</text>
+              <para>
+                <num>(A)</num>
+                <text>the Office of the Director;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the Department of Planning;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>the Department of Housing and Community Development; and</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>the Department of Legislative Reference.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>2-2</num>
+          <heading>Dock opposite Fifth Lane; dock out from old Port Warden’s Line.</heading>
+          <text>Ordinance No. 111, approved May 7, 1853, being entitled “Supplement to an Ordinance, entitled ‘An ordinance to change in some particulars, the present Port Warden’s Line’”, is hereby repealed, in part, by eliminating the provisions for a dock opposite Fifth Lane, and the dock therein provided to be extended to be laid out from the old Port Warden’s Line on the northernmost line of the property formerly belonging to Henry William Ellicott.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>2-3</num>
+          <heading>Pier and Bulkhead Line modified.</heading>
+          <text>The Pier or Bulkhead Line in the Harbor of Baltimore City as established by Ordinance No. 83 of the Mayor and City Council of Baltimore, approved May 17, 1881, shall be modified and extended:</text>
+          <para>
+            <num>(1)</num>
+            <text>so as to make the Pier and Bulkhead Lines coincide with the Pierhead Line of the United States Government between points marked LVI and LVII, as shown on the map of the War Department of the United States Government, approved September 29, 1917, by the Assistant Secretary of War;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>so that a new Pier and Bulkhead Line be established coinciding with the Pier and Bulkhead Line of the United States Government, as shown on the map of the War Department of the United States Government, approved September 29, 1917, by the Assistant Secretary of War, from said point LVII southeasterly to a point on said line 170.34 feet distant from said point LVII, and running thence by a straight line, S. 7° 27' 00" E. 238.33 feet to a point where said new Pier and Bulkhead Line intersects the Port Warden’s Line established under Ordinance No. 111, approved May 7, 1853, and running thence S. 65° 44' 30" E. 60.7 feet along and coincident with said Port Warden’s Line to a point where said Port Warden’s Line intersects a line determined by decision of the Superior Court of Baltimore City in the case of <em>St. Agnes' Hospital v. Mayor and City Council of Baltimore</em>, date March 14, 1877;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>so that a new Pierhead Line be established from said last named point of intersection running N. 44° 40' 40" E. 217.98 feet to the Pier and Bulkhead Line of the United States Government as shown on the said map of the War Department of the United States Government; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>so that a new Bulkhead Line be established running S. 65° 44' 30" E. 177.37 feet in a straight line along and coinciding with said Port Warden’s Line, established under said Ordinance No. 111, approved May 7, 1853, said new Bulkhead Line extending from a point where said Port Warden’s Line intersects the said line determined by said decision of the Superior Court of Baltimore City, to the northwesterly boundary line, as extended into the water, of the property leased by the Mayor and City Council of Baltimore to Platt and Company by lease dated July 21, 1865, and continuing thence in a straight line S. 44° 40' 40" W. 193.72 feet more or less along and coinciding with the said northwesterly boundary line, as so extended, of the said property leased by the Mayor and City Council of Baltimore to said Platt and Company to a point where said new Bulkhead Line intersects the Bulkhead Line established under said Ordinance No. 83, approved May 17, 1881, as shown on plat referred to in said Ordinance No. 83 of the Mayor and City Council of Baltimore.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>2-4</num>
+          <heading>Pierhead Line and Port Warden Line modified.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>The existing City Pierhead Line and the existing City Port Warden Line, in the vicinity of Boston Street and Clinton Street, are hereby changed by:</text>
+            <para>
+              <num>(1)</num>
+              <text>abolishing the existing City Port Warden Line from a point designated “A” to a point designated “1” and from a point designated “13” to a point designated “H”,</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>abolishing the existing City Pierhead Line from said point designated “A” to a point designated “H”, and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>establishing a new City Pierhead Line from said point designated “A” to a point designated “XXIIIA”,</text>
+              <text>so as to make said new City Pierhead Line coincide with the proposed new modified Pierhead Line of the United States Government as approved conditionally by the Secretary of War on December 5, 1946, between a point designated “37” and said point designated “XXIIIA”.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Plats.</heading>
+            <text>All of said existing and proposed Port Warden, Pier and Bulkhead Lines, and all of the points designated in this section, are shown on a plat entitled “City of Baltimore, Department of Public Works, Bureau of Plans and Surveys, Plat Showing Pierhead, Bulkhead and Port Warden Lines in the Vicinity of Boston St. and Clinton St. extending from Linwood Ave. Easterly and Southerly to U. S. Army Engineers Harbor Station XXIIA”, numbered 263A-5 and dated March 20, 1947, attached hereto and made in all respects a part hereof.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Description.</heading>
+            <text>Said new City Pierhead Line being particularly described as follows:</text>
+            <text>Beginning at a point “A” on the City’s existing Pierhead and Port Warden Lines as established by Ordinance No. 83, approved May 17, 1881, where said combined line intersects the east building line of Linwood Avenue, if extended southerly, and running thence S. 15 degrees 24 minutes 00 second W. about 140 feet to point 29, thence S. 76 degrees 34 minutes 25.4 seconds E. 383.01 feet and coincident with United States Government's Pier and Bulkhead Line as established by the United States Army Engineers in 1917 to point 30, thence N. 32 degrees 23 minutes 20 seconds E. 26.94 feet to point 31, thence N. 87 degrees 08 minutes 20 seconds E. 433.88 feet to point 32, thence N. 32 degrees 23 minutes 20 seconds E. 432.292 feet to point 33 on the existing City Bulkhead Line, thence by the two following courses and distances and coincident with the said City Bulkhead Line S. 81 degrees 37 minutes 30 seconds E. 375.36 feet to point 7 and S. 04 degrees 30 minutes 10 seconds E. 60.64 feet to point 34, thence S. 87 degrees 00 minutes 20 seconds W. 265.29 feet to point 35, thence S. 32 degrees 23 minutes 20 seconds W. 482.53 feet to point 36, thence S. 87 degrees 08 minutes 20 seconds W. 121.22 feet to point 37 on the aforesaid proposed modified United States Government Pierhead Line, thence by the four following courses and distances and coincident with the said proposed new modified Government Pierhead Line, S. 02 degrees 36 minutes 29.6 seconds E. 3542.5 feet to point 21, S. 08 degrees 38 minutes 27.6 seconds E. 1243.26 feet to point 22, S. 15 degrees 23 minutes 21.6 seconds E. 554.83 feet to point 23, and S. 57 degrees 54 minutes 56.6 seconds E. 618.69 feet to point XXIIIA.</text>
+          </para>
+        </section>
+      </container>
+    </codify:replace>
+    <codify:replace path="10|3" codified:doc="City of Baltimore, Md., Code" codified:path="10|§3-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>3</num>
+        <heading>Maintenance of Docks, Piers, Wharves, etc.</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>3-1</num>
+          <heading>Public docks, piers, etc.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>Whenever the same may be proper and necessary, the Director or the Director’s designee shall cause public anchorages, bulkheads, docks, piers, pilings, and wharves to be built, rebuilt, and repaired at any water front property of the City.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Prohibited conduct.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>In general.</heading>
+              <text>It shall be unlawful for any person to deface, injure, damage, or trespass upon any City owned or operated anchorages, bulkheads, docks, piers, pilings, or wharves.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Enforcement.</heading>
+              <text>Any person violating the provisions of this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be subject to a fine of not more than $500 for each violation.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>3-2</num>
+          <heading>Private piers, etc.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Notice to correct.</heading>
+            <text>The Director or the Director’s designee may require all private bulkheads, docks, piers, pilings, or wharves (bordering on the Patapsco River or its tributaries) that are decayed or defective, or in need of cleaning, rebuilding, or repair, or likely to be injurious to navigation or to health or safety, to be cleaned, repaired, or rebuilt within a reasonable time to be prescribed in a written notice (not less than 30 days) to be served on the agent, owner, or occupier of such pier, wharf, dock, piling, or bulkhead.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Owner to comply.</heading>
+            <text>The owners of any such water front property shall promptly cause to be done any and all such work as required by said notice from the Director or the Director’s designee.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Work by the Department.</heading>
+            <text>If the owner is a minor, or under other legal disability, or cannot be found, or, being found, fails to comply with said notice, then the Director or the Director’s designee shall cause such work to be done, at the expense of such owner or owners, to be recovered by the Mayor and City Council in due course of law.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Penalties.</heading>
+            <text>Any such property owner or owners who fail to comply with the requirements of this section, or the aforesaid requirements of the Director or the Director’s designee, shall be guilty of a misdemeanor and, upon conviction thereof shall pay a fine of not less than $100 and not more than $500 for every day of noncompliance.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>3-3</num>
+          <heading>Consent needed for work.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>No piles shall be driven and no platform erected, nor shall any filling in or construction, repairs, alterations, removals, dredging, demolitions, or work of any kind be made or done in the Patapsco River or tributaries below mean high tide, or involving work below mean high tide, without the written consent of the Director or the Director’s designee.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>If any person shall violate the provisions of this section:</text>
+            <para>
+              <num>(1)</num>
+              <text>he shall be deemed guilty of a misdemeanor and, upon conviction thereof, be subject to a fine not exceeding $500; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the Director or the Director’s designee is hereby empowered to remove forthwith at the expense of the person violating this section the structure, obstruction, extension, or filling in complained of.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>3-4</num>
+          <heading>Authorization needed for structures.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>No structure or equipment may be erected or affixed, nor obstruction of any kind be placed or maintained on any pier, bulkhead, marginal street, quay, or wharf, nor upon any land reclaimed from beneath the Patapsco or its tributaries, without written authorization from the Director or the Director’s designee.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>If the owner, lessee, occupant, or agent of said wharf property or land, shall place or permit the erection, or affixing of any structure or equipment without such authorization from the Director or the Director’s designee then for failure to remove same:</text>
+            <para>
+              <num>(1)</num>
+              <text>said owner, lessee, occupant, or agent shall be subject to a fine not exceeding $500, in addition to all damages for each and every violation of this section; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the Director or the Director’s designee is hereby empowered to remove forthwith, at the expense of the person violating this section, the structure or obstruction complained of.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>3-5</num>
+          <heading>Pier endangered by additional cargo.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>No cargo shall be discharged from any vessel or other water craft upon any pier, bulkhead, or wharf structure, at which such vessel or other water craft is being unladen after notice signed and served by the Director or the Director’s designee upon the owner, or stevedore, consignee, master, or other officer of such vessel or other water craft, that such pier, bulkhead, or structure will be endangered by the placing of additional cargo thereon.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>If any person shall violate the provisions of this section he shall be subject to a fine not exceeding $500, in addition to all damages caused thereby after the service of said notice.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>3-6</num>
+          <heading>Injury to wharf or dock.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>No vessel or other water craft shall load or discharge at any City wharf, pier, or dock, or adjoining same, in such manner as to injure or damage or unreasonably to interfere with the use of said structure.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>The owner or consignee of said vessel or other water craft who violates the provisions of this section shall be subject to a fine of $250, in addition to all damages caused by such violation.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>3-7</num>
+          <heading>Bulk cargoes on piers.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>No lumber, brick, or other material in bulk, may be discharged on any City pier or bulkhead.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>The owner or consignee of such lumber, brick, or other material, or the person placing or causing the same to be placed on such prohibited space shall be subject to a fine of $250 per day for each and every violation of this section.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>3-8</num>
+          <heading>Vehicles on piers.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>Except as otherwise authorized in writing by the Director or the Director’s designee, no vehicle of any description shall be parked or stored at any time on any pier, wharf, bridge, bulkhead, or land under the charge and control of the Director or the Director’s designee.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>If any person shall violate the provisions of this section,</text>
+            <para>
+              <num>(1)</num>
+              <text>the person shall be subject to a fine of $100; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the Director or the Director’s designee is hereby empowered to remove forthwith such obstructing vehicle and hold same until said fine and all other charges shall have been paid.</text>
+            </para>
+          </para>
+        </section>
+      </container>
+    </codify:replace>
+    <codify:replace path="10|4" codified:doc="City of Baltimore, Md., Code" codified:path="10|§4-1|annos">
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>4</num>
+        <heading>Fees and Other Regulations</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>4-1</num>
+          <heading>Fees.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Setting of fees and rents.</heading>
+            <para>
+              <num>(1)</num>
+              <text>The Board of Estimates may set rates and fees for a person to lease, rent, or use City owned or operated anchorages, bulkheads, docks, piers, pilings, or wharves.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Director or the Director’s designee may collect rates and fees established under paragraph (1) of this subsection.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The Director or the Director’s designee shall submit a schedule of rates and fees as authorized under paragraph (1) of this subsection to the Board of Estimates for approval by April 1 of each year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Posting and filing.</heading>
+            <text>The schedule of fees shall be posted in the office of the Harbormaster and a copy thereof filed with the Department of Legislative Reference upon approval by the Board of Estimates, and any changes or additions in said fees which shall be made by the Board of Estimates shall be filed with the Harbormaster and the Department of Legislative Reference on or before the time when such fees shall become effective.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Penalty for non-payment.</heading>
+            <text>Any person who does not pay a posted fee shall pay a fine of not more than $500 for each occurrence.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-2</num>
+          <heading>Inspection of licenses.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>The person in charge of any vessel lying at any City owned or operated anchorage, bulkhead, dock, pier, piling, or wharf shall exhibit to the Harbormaster or the Harbormaster’s designee proof of vessel registration and insurance.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>Any person who violates this section shall pay a fine of $200.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-3</num>
+          <heading>Permission to use harbor infrastructure.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <para>
+              <num>(1)</num>
+              <text>A person may not enter nor may they leave their vessel at a City owned or operated anchorage, bulkhead, dock, pier, piling, or wharf without permission from the Harbormaster, who shall prescribe:</text>
+              <para>
+                <num>(i)</num>
+                <text>the manner in which all vessels shall lie at any City anchorage, bulkhead, dock, pier, piling, or wharf;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>the time vessels may occupy any City anchorage, bulkhead, dock, pier, piling, or wharf; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>the terms and conditions upon which they may load and discharge.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All City anchorages, bulkheads, docks, piers, pilings, or wharves shall be in charge of and subject to regulation by the Director or the Director’s designee.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>Any person that fails to obey the regulations or requirements of the Director, the Director’s designee, or the Harbormaster in carrying out this section shall be guilty of a misdemeanor and shall be subject to a fine of not more than $100 for each and every hour the offense continues to a maximum of $1,000 per day.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-4</num>
+          <heading>Removal of nuisances.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>The Director or the Director’s designee may cause any material, refuse, or matter of any kind to be removed from the Patapsco River and its tributaries, and any City owned or operated anchorage, bulkhead, dock, pier, piling, or wharf to prevent injury to navigation or health.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Costs payable.</heading>
+            <text>The owner of any removed material, refuse, or matter of any kind shall be liable to pay all expenses incurred in moving and storing their property to the Director of Finance.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Penalties.</heading>
+            <text>The owner of any such material shall pay a penalty of $500 for every day the same shall remain unclaimed after notice to remove the same has been given to the owner by the Director or the Director’s designee.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-5</num>
+          <heading>Removal of sunken vessels.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Notice to remove.</heading>
+            <text>The Director or the Director’s designee shall provide notice to the owner of a vessel to remove, in such time as they may think reasonable, all vessels which may be sunk in Baltimore Harbor subject to any applicable federal or State law, including maritime laws, or cooperative agreements.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>The owner or owners of such sunken vessels, who refuse or neglect to remove the same when directed to do so by the Director or the Director’s designee shall pay a fine of $500 per day for every day the said vessel shall remain after due notice as aforesaid.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Removal by Director.</heading>
+            <para>
+              <num>(1)</num>
+              <text>In case the owner or agent of such sunken vessel cannot be found, then the Director or the Director’s designee shall proceed to remove said vessel and pay the cost thereof out of any appropriation to the Department or from any funds which the Board of Estimates may make available for such purpose.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>As soon as the owners or agents of such sunken vessel so removed shall be found, the Mayor shall proceed to recover by law the amount expended for the removal of said vessel and also such fine as may be recovered under this section.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-6</num>
+          <heading>Removal of obstructions.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>The Director or the Director’s designee may:</text>
+            <para>
+              <num>(1)</num>
+              <text>secure or remove obstructions to navigation that may be found drifting about, or otherwise obstructing navigation of the Patapsco and its tributaries; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>notify the owner or agent of same that the said obstruction has been so secured or removed and held at his expense.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>Any person who shall cast loose, set adrift, allow to deteriorate, or place any object likely to become a nuisance or an obstruction to navigation shall pay a fine not exceeding $200.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-7</num>
+          <heading>Discharge into Baltimore Harbor.</heading>
+          <text>If any company or person shall discharge from land or a vessel, or cause any substance or waste to flow into Baltimore Harbor or any stream or sewer running thereinto any gasoline, oil, gas tar, or other lees or dregs, the person so offending shall pay a fine of $1,000 for each offense and a further fine of $1,000 for every day the offense continues.</text>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-8</num>
+          <heading>Speed of vessels.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>Vessel speed in Baltimore Harbor is regulated by the Maryland Department of Natural Resources and is limited to 6 knots unless otherwise provided for by the State in its laws or regulations.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>Any person violating this section shall pay a fine of $100 for the 1st offense and $200 for each subsequent offense.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-9</num>
+          <heading>Smoking.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>It shall be unlawful for any person to smoke, carry, or have any lighted match, pipe, cigar, or cigarette, or carry or use any portable open flame in or upon any fuel dock or on the deck of any vessel lying at or along side of any fuel dock.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>Any person violating the provisions of this section shall be guilty of a misdemeanor and upon conviction thereof, shall be subject to a fine of not less than $50 nor more than $250.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-10</num>
+          <heading>Inspection of vessels.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>In general.</heading>
+            <text>The Director or the Director’s designee shall have the authority and power to board and inspect vessels located in the Baltimore Harbor for the purpose of seeing whether the laws and ordinances of the City relative to the discharge of bilge water, oil, or other waste material in the Harbor and the requirements for fire protection and other safety provisions are being complied with.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Penalties.</heading>
+            <text>Any officer, agent, or employee of any vessel interfering with the inspection of vessels for the purposes of this section shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be subject to a penalty of not more than $500 for each and every such violation.</text>
+          </para>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>4-11</num>
+          <heading>Obstructing officials of the Department of Transportation.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Penalties.</heading>
+            <text>Any person who shall obstruct the Director or the Director’s designee in the performance of their lawful duties under this article shall be guilty of a misdemeanor and, upon conviction thereof, shall be subject to a fine of $200 for each and every such offense.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Recovery of fines.</heading>
+            <text>All fines imposed for the violation of any of the provisions of this article shall be recovered as other fines imposed by ordinance are recoverable; all of said fines when collected to be paid to the Director of Finance.</text>
+          </para>
+        </section>
+      </container>
+    </codify:replace>
+    <codify:replace path="10|5" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="10|5to9">
+      <container name="5to9">
+        <prefix>Subtitles</prefix>
+        <num>5 to 9</num>
+        <reason>Reserved</reason>
+      </container>
+    </codify:replace>
+    <codify:remove path="10|6" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="10|§1-1|annos"/>
+    <codify:replace path="1|§40-14|(e)|(16)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(17)">
+      <num>(17)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(15)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(16)">
+      <num>(16)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(14)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(15)">
+      <num>(15)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(13)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(14)">
+      <num>(14)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(12)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(13)">
+      <num>(13)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(11)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(12)">
+      <num>(12)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(10)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(11)">
+      <num>(11)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(9)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(10)">
+      <num>(10)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(8)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(9)">
+      <num>(9)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(7)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(8)">
+      <num>(8)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(6)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(7)">
+      <num>(7)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(5)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(6)">
+      <num>(6)</num>
+    </codify:replace>
+    <codify:replace path="1|§40-14|(e)|(4)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(5)">
+      <num>(5)</num>
+    </codify:replace>
+    <codify:insert path="1|§40-14|(e)" after="(3)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(4)">
+      <para>
+        <num>(4)</num>
+        <heading><cite doc="City of Baltimore, Md., Code" path="|10">Article 10</cite>.  Baltimore Harbor</heading>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>Subtitle 1.  General Provisions</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 1-5.  Obstructing access.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 1-6.  Penalties.</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td>Subtitle 3.  Maintenance of Docks, Piers, Wharves, etc.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-1.  Public docks, piers, etc.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-2.  Private piers, etc.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-3.  Consent needed for work.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-4.  Authorization needed for structures.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-5.  Pier endangered by additional cargo.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-6.  Injury to wharf or dock.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-7.  Bulk cargoes on piers.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-8.  Vehicles on piers.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td>Subtitle 4.  Fees and Other Regulations</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-1.  Fees {failure to pay}.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-2.  Inspection of licenses.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-3.  Permission to use harbor infrastructure.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-4.  Removal of nuisances.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-5.  Removal of sunken vessels.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-6.  Removal of obstructions.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-7.  Discharge into Baltimore Harbor.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Each offense</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Each day the offense continues</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-8.  Speed of vessels.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">1st offense</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">2nd or subsequent offense</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-9.  Smoking.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-10.  Inspection of vessels.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-11.  Obstructing officials of the Department of Transportation.</td>
+                <td>$150</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+    </codify:insert>
+    <codify:replace path="1|§41-14|(14)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(15)">
+      <num>(15)</num>
+    </codify:replace>
+    <codify:replace path="1|§41-14|(13)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(14)">
+      <num>(14)</num>
+    </codify:replace>
+    <codify:replace path="1|§41-14|(12)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(13)">
+      <num>(13)</num>
+    </codify:replace>
+    <codify:replace path="1|§41-14|(11)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(12)">
+      <num>(12)</num>
+    </codify:replace>
+    <codify:replace path="1|§41-14|(10)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(11)">
+      <num>(11)</num>
+    </codify:replace>
+    <codify:replace path="1|§41-14|(9)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(10)">
+      <num>(10)</num>
+    </codify:replace>
+    <codify:replace path="1|§41-14|(8)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(9)">
+      <num>(9)</num>
+    </codify:replace>
+    <codify:replace path="1|§41-14|(7)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(8)">
+      <num>(8)</num>
+    </codify:replace>
+    <codify:replace path="1|§41-14|(6)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(7)">
+      <num>(7)</num>
+    </codify:replace>
+    <codify:replace path="1|§41-14|(5)|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(6)">
+      <num>(6)</num>
+    </codify:replace>
+    <codify:insert path="1|§41-14" after="(4)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(5)">
+      <para>
+        <num>(5)</num>
+        <heading><cite doc="City of Baltimore, Md., Code" path="|10">Article 10</cite>.  Baltimore Harbor</heading>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>Subtitle 1.  General Provisions</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 1-5.  Obstructing access.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 1-6.  Penalties.</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td>Subtitle 3.  Maintenance of Docks, Piers, Wharves, etc.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-1.  Public docks, piers, etc.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-2.  Private piers, etc.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-3.  Consent needed for work.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-4.  Authorization needed for structures.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-5.  Pier endangered by additional cargo.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-6.  Injury to wharf or dock.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-7.  Bulk cargoes on piers.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 3-8.  Vehicles on piers.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td>Subtitle 4.  Fees and Other Regulations</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-1.  Fees {failure to pay}.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-2.  Inspection of licenses.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-3.  Permission to use harbor infrastructure.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-4.  Removal of nuisances.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-5.  Removal of sunken vessels.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-6.  Removal of obstructions.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-7.  Discharge into Baltimore Harbor.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Each offense</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">Each day the offense continues</td>
+                <td>$1,000</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-8.  Speed of vessels.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">1st offense</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">2nd or subsequent offense</td>
+                <td>$200</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-9.  Smoking.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-10.  Inspection of vessels.</td>
+                <td>$150</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">§ 4-11.  Obstructing officials of the Department of Transportation.</td>
+                <td>$150</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+    </codify:insert>
+  </section>
+</document>
