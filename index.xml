@@ -18,8 +18,8 @@
       <repositories>
         <repository name="baltimore-legref/law-xml" commit="8fbecf74fef3c6c8be39d8335e93133d140305dc"/>
       </repositories>
-      <platform version="2.21.3.dev234" reproducible="false"/>
-      <build-date>2026-11-05</build-date>
+      <platform version="2.23.3" reproducible="false"/>
+      <build-date>2026-11-06</build-date>
       <codified-date>2026-11-22</codified-date>
     </build>
   </meta>
