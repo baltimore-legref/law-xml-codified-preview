@@ -2,6 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Section</prefix>
   <num>200</num>
+  <codified:notice type="warning">The Department of Human Resources is reviewing the 200 Series of the Administrative Manual. Please confirm current policy with DHR before relying on a policy in this series.</codified:notice>
   <heading>Personnel</heading>
   <xi:include href="./AM-200-1.xml"/>
   <xi:include href="./AM-200-2.xml"/>
@@ -196,12 +197,9 @@
   <xi:include href="./AM-241-2.xml"/>
   <xi:include href="./AM-241-2-1.xml"/>
   <xi:include href="./AM-241-2-2.xml"/>
+  <annotation app="0001-01-02" doc="Editor Action 2026-11-02" eff="0001-01-02" path="" target-path="|200|AM-204-23" type="History" display="false"/>
+  <annotation app="0001-01-02" doc="Editor Action 2026-11-02" eff="0001-01-02" path="" target-path="|200|AM-204-24" type="History" display="false"/>
+  <annotation app="0001-01-02" doc="Editor Action 2026-11-02" eff="0001-01-02" path="" target-path="|200|AM-204-26" type="History" display="false"/>
   <annotation app="0001-01-02" doc="Editor Action 2026-11-02" eff="0001-01-02" path="" target-path="|200|AM-204-29" type="History" display="false"/>
-  <annotations>
-    <annotation type="Editor's Notes">The Department of Human Resources is reviewing the <cite path="|200">200 Series of the Administrative Manual</cite>. Please confirm current policy with DHR before relying on a policy in this series.</annotation>
-    <annotation app="0001-01-02" doc="Editor Action 2026-11-02" eff="0001-01-02" path="" target-path="|200" type="History" display="false"/>
-  </annotations>
-  <annotation app="0001-01-02" doc="Editor Action 2026-11-03" eff="0001-01-02" path="" target-path="|200|AM-204-23" type="History" display="false"/>
-  <annotation app="0001-01-02" doc="Editor Action 2026-11-03" eff="0001-01-02" path="" target-path="|200|AM-204-24" type="History" display="false"/>
-  <annotation app="0001-01-02" doc="Editor Action 2026-11-03" eff="0001-01-02" path="" target-path="|200|AM-204-26" type="History" display="false"/>
+  <annotation app="0001-01-02" doc="Editor Action 2026-11-02" eff="0001-01-02" path="" target-path="|200" type="History" display="false"/>
 </container>

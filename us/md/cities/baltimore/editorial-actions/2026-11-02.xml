@@ -6,6 +6,44 @@
       <adopted>2026-11-02</adopted>
     </history>
   </meta>
+  <codify:replace doc="City of Baltimore Administrative Manual" path="|200|AM-204-23" warning="false" history="false">
+    <section>
+      <prefix>Policy</prefix>
+      <num>AM-204-23</num>
+      <heading>[ABOLISHED]</heading>
+      <annotations>
+        <annotation type="History" effective="2007-05-18" display="true">May 18, 2007</annotation>
+        <annotation type="History" effective="2015-01-08" display="true">January 8, 2015</annotation>
+        <annotation type="History" display="true" effective="2017-12-13">December 13, 2017</annotation>
+      </annotations>
+    </section>
+  </codify:replace>
+  <codify:remove doc="City of Baltimore Administrative Manual" path="|200|AM-204-23" warning="false" history="false" codified:doc="City of Baltimore Administrative Manual" codified:path="200|§AM-200-1|annos"/>
+  <codify:replace doc="City of Baltimore Administrative Manual" path="|200|AM-204-24" warning="false" history="false">
+    <section>
+      <prefix>Policy</prefix>
+      <num>AM-204-24</num>
+      <heading>[ABOLISHED]</heading>
+      <annotations>
+        <annotation type="History" effective="1992-01-09" display="true">January 9, 1992</annotation>
+        <annotation type="History" effective="2007-05-18" display="true">May 18, 2007</annotation>
+        <annotation type="History" display="true" effective="2017-12-13">December 13, 2017</annotation>
+      </annotations>
+    </section>
+  </codify:replace>
+  <codify:remove doc="City of Baltimore Administrative Manual" path="|200|AM-204-24" warning="false" history="false" codified:doc="City of Baltimore Administrative Manual" codified:path="200|§AM-200-1|annos"/>
+  <codify:replace doc="City of Baltimore Administrative Manual" path="|200|AM-204-26" warning="false" history="false">
+    <section>
+      <prefix>Policy</prefix>
+      <num>AM-204-26</num>
+      <heading>[ABOLISHED]</heading>
+      <annotations>
+        <annotation type="History" effective="2007-05-18" display="true">May 18, 2007</annotation>
+        <annotation type="History" display="true" effective="2017-12-13">December 13, 2017</annotation>
+      </annotations>
+    </section>
+  </codify:replace>
+  <codify:remove doc="City of Baltimore Administrative Manual" path="|200|AM-204-26" warning="false" history="false" codified:doc="City of Baltimore Administrative Manual" codified:path="200|§AM-200-1|annos"/>
   <codify:replace doc="City of Baltimore Administrative Manual" path="|200|AM-204-29" warning="false" history="false">
     <section>
       <prefix>Policy</prefix>
@@ -19,14 +57,5 @@
     </section>
   </codify:replace>
   <codify:remove doc="City of Baltimore Administrative Manual" path="|200|AM-204-29" warning="false" history="false" codified:doc="City of Baltimore Administrative Manual" codified:path="200|§AM-200-1|annos"/>
-  <codify:replace doc="City of Baltimore Administrative Manual" path="|annos" history="false" codified:doc="City of Baltimore Administrative Manual" codified:path="annos">
-    <annotations>
-      <annotation type="Editor's Notes" dest="container">The Department of Human Resources is reviewing the <cite doc="City of Baltimore Administrative Manual" path="|200">200 Series of the Administrative Manual</cite>. Please confirm current policy with DHR before relying on a policy in this series.</annotation>
-    </annotations>
-  </codify:replace>
-  <codify:insert doc="City of Baltimore Administrative Manual" path="|200" codified:doc="City of Baltimore Administrative Manual" codified:path="200|annos">
-    <annotations>
-      <annotation type="Editor's Notes">The Department of Human Resources is reviewing the <cite doc="City of Baltimore Administrative Manual" path="|200">200 Series of the Administrative Manual</cite>. Please confirm current policy with DHR before relying on a policy in this series.</annotation>
-    </annotations>
-  </codify:insert>
+  <codify:notice doc="City of Baltimore Administrative Manual" path="|200" type="warning" history="false" codified:doc="City of Baltimore Administrative Manual" codified:path="200|§AM-200-1|annos">The Department of Human Resources is reviewing the 200 Series of the Administrative Manual. Please confirm current policy with DHR before relying on a policy in this series.</codify:notice>
 </document>
